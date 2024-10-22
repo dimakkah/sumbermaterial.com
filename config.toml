@@ -1,0 +1,510 @@
+baseURL = "https://sumbermaterial.com/"
+languageCode = "id"
+title = "Sumber Material | Jual Material Pasir Batu Kali Split Hebel Besi Wiremesh"
+theme = "saeseen-hugo"
+summaryLength = 25
+paginate = 6
+
+[permalinks]
+  post = "/:slug/"
+  page = "/:slug/"
+  category = "/:slug/"
+
+[params]
+  # Site-wide settings
+  meta_description = "Kami Jual material alam Pasir Cor, Pasir Pasang, Pasir Plester, Batu Belah, Batu Split, Batu Bata, Batako, Hebel, Urugan Makadam, Sirdam, Basecose, Sirtu, Tanah dan Jual Material Besi, Baja Ringan, Bondek juga Wiremesh"
+  viewport = "width=device-width, initial-scale=1.0"
+  fontawesome = "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.6.0/css/all.min.css"
+  logo = "/images/logo/sm-logo-web.png"
+  logo_amp = "/images/logo/sm-512x512.png"
+  footer_logo = "/images/logo/sm-logo-putih.png"
+  favicon = "/images/logo/sm-512x512.png"
+  featured_image = "/images/admin/featured-image.png"
+  author = "Ibnu Koesnady"
+  telepon = "//+6285776786091"
+  whatsapp = "//api.whatsapp.com/send?phone=6285776786091&text=*Halo sumbermaterial.com*%20%3A"
+  enableWhatApps = true
+  enableTelepon = true
+  tocMinWordCount = 300
+  tableOfContent = "Daftar Isi:"
+  geo_latitude = -6.595038
+  geo_longitude = 106.817787
+  opening_hours = "Mo-Sa 08:00-17:00"
+  
+  # Informasi Perusahaan
+  companyName = "SUMBERMATERIAL.COM"
+  aboutUs = "Kami adalah Toko Bahan Bangunan Online yang khusus menjual material alam dan material konstruksi, seperti: Pasir Hitam, Pasir Putih, Pasir Halus, Pasir Kasar, Pasir Beton, Pasir Plester, Pasir Urug, Batu Pondasi Belah, Batu Bronjong, Batu Split Cor, Bata Merah, Batako, Hebel, Paving, Precast, Besi, Wiremesh, Bondek, Baja Ringan dan Urugan Makadam, Sirdam, Sirtu, Limeston, Tanah Merah. Free Ongkir dan Penurunan Jabodetabek"
+
+  # Informasi Kontak
+  phone = "0857-7678-6091"
+  email = "cssumbermaterial@gmail.com"
+  address = "Jl. Sersan Muhtar Dramaga, Bogor – Jabar"
+  whatsappNumber = "6285776786091"
+
+  # Schema settings
+  base_price = 750000
+  price_range = 2000000
+  categories = ["Pasir", "Batu", "Bata", "Hebel", "Besi", "Wiremesh"]
+  payment_methods = ["COD (Cash On Delivery)", "Transfer Bank", "Bayar DP 50%", "Transfer Setelah Terkirim", "Bayar Bertahap", "Transfer Setelah Selesai"]
+  area_served = ["Jakarta", "Bogor", "Depok", "Tangerang", "Bekasi", "Cikarang", "Karawang", "Bandung", "Serang", "Purwakarta", "Cilegon", "Cikampek", "Subang", "Rangkas Bitung"]
+  keywords = ["jual pasir", "jual batu kali", "jual split", "jual hebel", "jual besi", "jual wiremesh", "material bangunan", "pasir cor", "pasir pasang", "batu belah", "batu split", "batu bata", "batako", "urugan makadam", "sirdam", "basecose", "sirtu", "tanah urug", "baja ringan", "bondek"]
+  free_shipping = true
+
+  # Product
+  materials = [
+  "Baja ringan",
+  "Bata merah dan batako",
+  "Bengkel las",
+  "Hebel atau bata ringan",
+  "Besi ulir dan polos",
+  "Jasa aspal hotmix",
+  "JaBarasa pengurugan",
+  "Kusen pintu alumunium",
+  "Pasir bangunan",
+  "Readymix cor",
+  "Batu split dan batu kali",
+  "Jasa bangun rumah bangunan",
+  "Besi hollow dan siku",
+  "Jasa pengecoran",
+  "Kanopi rumah minimalis",
+  "Pagar besi dan teralis",
+  "Besi wf dan besi H beam"
+  ]
+  return_policies = [
+    "Material dapat dikembalikan jika tidak sesuai spesifikasi dalam 1 hari.",
+    "Pengembalian gratis untuk material dengan cacat produksi.",
+    "Barang yang tidak sesuai pesanan dapat dikembalikan tanpa biaya tambahan."
+]
+
+  # Service
+  service_types = [
+    "Jasa Pengecoran",
+    "Jasa Pengurugan",
+    "Jasa Pemadatan",
+    "Jasa Pengaspalan",
+    "Jasa Bangun Rumah",
+    "Jasa Psang Kanopi",
+    "Jasa Pasang Teralis & Pagar"
+  ]
+  cancellation_policies = [
+    "Pesanan dan Layanan Jasa dapat dibatalkan sebelum kesepakatan.",
+    "Biaya jasa tidak dapat dikembalikan jika pembatalan dilakukan setelah pengerjaan 20%.",
+    "Pengembalian DP hanya untuk jasa yang belum di kerjakan."
+  ]
+  service_output = "Material dan Jasa diberikan sesuai dengan kesepakatan"
+
+  # Hero Section
+  hero_image = "/images/admin/bg_sm.png"
+  hero_title = "Jual Material Bangunan Berkualitas"
+  hero_description = "Kami menyediakan berbagai jenis material bangunan berkualitas tinggi, mulai dari pasir, batu, bata, hebel, hingga besi dan wiremesh. Solusi terbaik untuk kebutuhan proyek konstruksi Anda."
+  hero_cta_text = "Lihat Produk Kami"
+  services_cta_text = "Cek Harga"
+
+  # Footer Section
+  footer_about_title = "Tentang Kami"
+  footer_about_description = "SumberMaterial.com adalah website resmi Toko Bahan Bangunan Sumber Material yang khusus menjual material alam dan material konstruksi, seperti: Pasir Hitam, Pasir Putih, Pasir Halus, Pasir Kasar, Pasir Beton, Pasir Plester, Pasir Urug, Batu Pondasi Belah, Batu Bronjong, Batu Split Cor, Bata Merah, Batako, Hebel, Paving, Precast, Besi, Wiremesh, Bondek, Baja Ringan dan Urugan Makadam, Sirdam, Sirtu, Limeston, Tanah Merah. Free Ongkir dan Penurunan Jabodetabek"
+
+  footer_services_title = "Kenapa Pilih Kami"
+  footer_contact_title = "Kontak Kami"
+  footer_bottom_text = "@2024 Sumbermaterial.com. Semua Hak Dilindungi."
+
+  # Testimonials Section
+  testimonials_title = "Apa Kata Klien Kami"
+
+  [[params.footer_services]]
+  text = "Kami menyediakan berbagai jenis material bangunan berkualitas dengan layanan profesional, gratis konsultasi, tanpa biaya tersembunyi, pengiriman tepat waktu, sistem pembayaran aman, dan berbagai layanan jasa tukang untuk mendukung proyek konstruksi bangunan Anda"
+
+  [[params.footer_contact]]
+    icon = "fas fa-map-marker-alt"
+    text = "Jl. Sersan Muhtar Dramaga, Bogor – Jabar"
+  [[params.footer_contact]]
+    icon = "fas fa-map-marker-alt"
+    text = "Kp. Cijantra Jatake, Tangerang – Banten"
+  [[params.footer_contact]]
+    icon = "fas fa-map-marker-alt"
+    text = "Jl. Raya Cikarang Cibarusah, Bekasi – Jabar"
+  [[params.footer_contact]]
+    icon = "fas fa-map-marker-alt"
+    text = "Jl. Maritim Raya, Pelabuhan Sunda kelapa, Penjaringan – Jakarta Utara."
+  [[params.footer_contact]]
+    icon = "fas fa-phone-alt"
+    text = "+62 857-7678-6091"
+  [[params.footer_contact]]
+    icon = "fas fa-envelope"
+    text = "cssumbermaterial@gmail.com"
+
+[[params.testimonials]]
+  avatar = "/images/admin/avatar1.png"
+  name = "{Budi|Joko|Andi|Eko|Rudi|Fajar|Hendra|Samsul|Agus|Dedi}"
+  message = "{Saya membeli material dari sumbermaterial.com untuk proyek {renovasi rumah|renovasi kantor|bangunan rumah}. Prosesnya {berjalan lancar|sangat mudah|tanpa hambatan}, tepat waktu, dan kualitas materialnya {sangat baik|memuaskan|luar biasa}.|Material dari sumbermaterial.com sangat {membantu|bermanfaat} untuk proyek saya. {Pengiriman|Layanan} tepat waktu, dan kualitasnya {terbaik|bagus|sesuai harapan}.}"
+  response = "{Terima kasih atas kepercayaan Anda! Kami {senang|gembira|bangga} dapat mendukung proyek {rumah|kantor|bangunan} Anda dengan material berkualitas.|Kami sangat menghargai ulasan Anda. Terima kasih telah mempercayakan kebutuhan material proyek Anda kepada kami!}"
+  rating = 4
+
+[[params.testimonials]]
+  avatar = "/images/admin/avatar2.png"
+  name = "{Siti|Rina|Dewi|Wati|Lia|Nina|Ratna|Indah|Sari|Ayu}"
+  message = "{sumbermaterial.com sangat {membantu|bermanfaat} dalam pembangunan {ruko|rumah|bangunan} saya. Layanan mereka {profesional|ramah|terpercaya}, dan material yang disediakan {sesuai|tepat} dengan kebutuhan proyek.|Saya puas dengan layanan sumbermaterial.com yang {profesional|efisien|ramah}. Material yang saya beli {berkualitas tinggi|sangat sesuai} untuk proyek saya.}"
+  response = "{Kami sangat menghargai ulasan Anda. Senang mendengar bahwa Anda puas dengan material dan layanan kami.|Terima kasih atas kepercayaannya. Kami akan terus memberikan pelayanan terbaik!}"
+  rating = 5
+
+[[params.testimonials]]
+  avatar = "/images/admin/avatar3.png"
+  name = "{Joko|Budi|Andi|Eko|Rudi|Fajar|Hendra|Samsul|Agus|Dedi}"
+  message = "{Layanan penjualan material dari sumbermaterial.com sangat {memuaskan|baik|terpercaya} untuk proyek {kantor|gedung|ruko} saya. Timnya {cepat tanggap|respon cepat|profesional} dan pengirimannya {sangat cepat|tepat|teratur}.|Saya membeli material untuk proyek {kantor|gedung} saya, dan layanannya {sangat baik|profesional|memuaskan}. Pengirimannya {tepat waktu|cepat|rapi}.}"
+  response = "{Terima kasih! Kami berkomitmen untuk memberikan layanan terbaik bagi setiap proyek, termasuk kantor Anda.|Senang dapat melayani proyek Anda. Terima kasih atas kepercayaannya!}"
+  rating = 4
+
+[[params.testimonials]]
+  avatar = "/images/admin/avatar4.png"
+  name = "{Andi|Budi|Joko|Eko|Rudi|Fajar|Hendra|Samsul|Agus|Dedi}"
+  message = "{Saya sangat puas dengan layanan pembelian material dari sumbermaterial.com. Prosesnya {efisien|mudah|lancar} dan {sangat membantu|mempercepat|mempermudah} dalam pengerjaan proyek saya.|Material dari sumbermaterial.com {berkualitas|luar biasa|terbaik}, dan layanannya {cepat|efisien|ramah}. Sangat mendukung proyek saya.}"
+  response = "{Senang mendengar Anda puas dengan hasilnya. Terima kasih atas kepercayaannya dalam menggunakan layanan kami.|Terima kasih atas ulasannya. Kami sangat menghargai kepercayaan Anda pada layanan kami.}"
+  rating = 4
+
+[[params.testimonials]]
+  avatar = "/images/admin/avatar5.png"
+  name = "{Rina|Siti|Dewi|Wati|Lia|Nina|Ratna|Indah|Sari|Ayu}"
+  message = "{Pelayanan sumbermaterial.com sangat {membantu|bermanfaat|memudahkan} untuk proyek {bangunan|gedung|ruko} saya. Solusi yang diberikan {tepat|efektif|memuaskan} dan materialnya {berkualitas|bagus|terbaik}.|sumbermaterial.com memberikan {solusi tepat|produk berkualitas} untuk proyek saya. Material yang saya beli {berkualitas tinggi|bagus|terbaik}, dan layanannya {ramah|profesional|efisien}.}"
+  response = "{Terima kasih! Kami senang dapat membantu mewujudkan proyek Anda dengan material bangunan terbaik.|Kami menghargai ulasan Anda. Terima kasih telah memilih sumbermaterial.com untuk proyek Anda!}"
+  rating = 5
+
+[[params.testimonials]]
+  avatar = "/images/admin/avatar6.png"
+  name = "{Eko|Budi|Joko|Andi|Rudi|Fajar|Hendra|Samsul|Agus|Dedi}"
+  message = "{Saya membeli material untuk {renovasi rumah|renovasi kantor|proyek bangunan}, dan hasilnya {sangat memuaskan|luar biasa|terbaik}. Layanan yang diberikan sumbermaterial.com {sangat profesional|aman|terpercaya}.|sumbermaterial.com {memberikan layanan profesional|sangat membantu|berkualitas tinggi} untuk proyek saya. Material yang disediakan {berkualitas|bagus|sesuai pesanan}, dan layanannya {memuaskan|profesional|terpercaya}.}"
+  response = "{Kami senang mendengar bahwa Anda puas dengan layanan kami. Terima kasih atas ulasannya!|Terima kasih atas ulasan positifnya. Kami akan terus memberikan layanan terbaik untuk setiap proyek Anda.}"
+  rating = 5
+
+[[params.products]]
+    name = "Pasir"
+[[params.products.items]]
+  item = "Pasir Cor"
+  price = "280.000 /m³"
+[[params.products.items]]
+  item = "Pasir Pasang"
+  price = "240.000 /m³"
+[[params.products.items]]
+  item = "Pasir Jalupang"
+  price = "280.000 /m³"
+[[params.products.items]]
+  item = "Pasir Cuci"
+  price = "270.000 /m³"
+[[params.products.items]]
+  item = "Pasir Rangkas"
+  price = "275.000 /m³"
+[[params.products.items]]
+  item = "Abu Batu / Pasir Abu"
+  price = "230.000 /m³"
+[[params.products.items]]
+  item = "Pasir Urug"
+  price = "190.000 /m³"
+
+[[params.products]]
+    name = "Batu"
+[[params.products.items]]
+  item = "Batu Split"
+  price = "250.000 /m³"
+[[params.products.items]]
+  item = "Batu Kali"
+  price = "231.000 /m³"
+[[params.products.items]]
+  item = "Urugan Sirtu / Berangkal"
+  price = "225.000 /m³"
+[[params.products.items]]
+  item = "Limestone / Batu Kapur"
+  price = "225.000 /m³"
+[[params.products.items]]
+  item = "Makadam / Basecose / Sirdam"
+  price = "250.000 /m³"
+
+[[params.products]]
+    name = "Bata dan Batako"
+[[params.products.items]]
+  item = "Batu Bata Standar"
+  price = "480 /buah"
+[[params.products.items]]
+  item = "Batu Bata Semi Jumbo"
+  price = "600 /buah"
+[[params.products.items]]
+  item = "Batu Bata Jumbo"
+  price = "760 /buah"
+[[params.products.items]]
+  item = "Batako Press 2 Lubang"
+  price = "2.600 /buah"
+[[params.products.items]]
+  item = "Batako Press 3 Lubang"
+  price = "2.800 /buah"
+[[params.products.items]]
+  item = "Hebel Putih SNI"
+  price = "580.000 /m³"
+
+[[params.products]]
+    name = "Beton Readymix"
+[[params.products.items]]
+  item = "Beton Readymix K225"
+  price = "840.000 /m³"
+[[params.products.items]]
+  item = "Beton Readymix K250"
+  price = "870.000 /m³"
+[[params.products.items]]
+  item = "Beton Readymix K300"
+  price = "900.000 /m³"
+[[params.products.items]]
+  item = "Beton Readymix K350"
+  price = "940.000 /m³"
+[[params.products.items]]
+  item = "Beton Readymix K400"
+  price = "1.090.000 /m³"
+
+[[params.products]]
+    name = "Aspal"
+[[params.products.items]]
+  item = "Aspal Hotmix"
+  price = "89.000 /m²"
+
+[[params.products]]
+    name = "Wiremesh"
+[[params.products.items]]
+  item = "Wiremesh M6"
+  price = "350.000 /lembar"
+[[params.products.items]]
+  item = "Wiremesh M8"
+  price = "530.000 /lembar"
+[[params.products.items]]
+  item = "Wiremesh M10"
+  price = "795.000 /lembar"
+
+[[params.products]]
+    name = "Baja Ringan"
+[[params.products.items]]
+  item = "Baja Ringan 0,70"
+  price = "77.000 /batang"
+[[params.products.items]]
+  item = "Baja Ringan 0,75"
+  price = "83.000 /batang"
+[[params.products.items]]
+  item = "Baja Ringan 1,0"
+  price = "125.000 /batang"
+[[params.products.items]]
+  item = "Reng Baja Ringan"
+  price = "43.000 /batang"
+
+[[params.products]]
+    name = "Material Atap"
+[[params.products.items]]
+  item = "Bondek 0,75"
+  price = "134.000 /m²"
+[[params.products.items]]
+  item = "Spandek Polos"
+  price = "62.000 /lembar"
+[[params.products.items]]
+  item = "Spandek Pasir"
+  price = "82.000 /lembar"
+[[params.products.items]]
+  item = "Genteng Metal"
+  price = "42.000 /lembar"
+
+[[params.products]]
+    name = "Material Dinding"
+[[params.products.items]]
+  item = "Hollo Galvalum 20x40"
+  price = "23.000 /batang"
+[[params.products.items]]
+  item = "Hollo Galvalum 40x40"
+  price = "28.000 /batang"
+[[params.products.items]]
+  item = "Gypsum"
+  price = "67.000 /lembar"
+[[params.products.items]]
+  item = "GRC"
+  price = "62.000 /lembar"
+
+[[params.products]]
+    name = "Besi"
+[[params.products.items]]
+  item = "Besi 6BC"
+  price = "28.000 /batang"
+[[params.products.items]]
+  item = "Besi 6 FUL"
+  price = "38.000 /batang"
+[[params.products.items]]
+  item = "Besi 8 FUL STD"
+  price = "52.000 /batang"
+[[params.products.items]]
+  item = "Besi 8 FUL KW1"
+  price = "58.000 /batang"
+[[params.products.items]]
+  item = "Besi 10 FUL STD"
+  price = "68.000 /batang"
+[[params.products.items]]
+  item = "Besi 10 FUL KW1"
+  price = "82.000 /batang"
+[[params.products.items]]
+  item = "Besi 10 ULIR FUL STD"
+  price = "75.000 /batang"
+[[params.products.items]]
+  item = "Besi 10 ULIR FUL KW1"
+  price = "82.000 /batang"
+[[params.products.items]]
+  item = "Besi 12 FUL STD"
+  price = "97.000 /batang"
+[[params.products.items]]
+  item = "Besi 12 FUL KW1"
+  price = "140.000 /batang"
+[[params.products.items]]
+  item = "Besi 13 ULIR FUL STD"
+  price = "145.000 /batang"
+[[params.products.items]]
+  item = "Besi 13 ULIR FUL KW1"
+  price = "125.000 /batang"
+[[params.products.items]]
+  item = "Besi 16 ULIR FULL STD"
+  price = "170.000 /batang"
+[[params.products.items]]
+  item = "Besi 16 ULIR POLOS"
+  price = "180.000 /batang"
+[[params.products.items]]
+  item = "Besi 19 FULL"
+  price = "297.000 /batang"
+
+[[params.products]]
+    name = "Baja"
+[[params.products.items]]
+  item = "WF 150"
+  price = "11.600 /kg"
+[[params.products.items]]
+  item = "WF 200"
+  price = "11.600 /kg"
+[[params.products.items]]
+  item = "WF 250"
+  price = "11.600 /kg"
+[[params.products.items]]
+  item = "WF 300"
+  price = "12.350 /kg"
+[[params.products.items]]
+  item = "WF 350"
+  price = "12.450 /kg"
+[[params.products.items]]
+  item = "WF 400"
+  price = "13.300 /kg"
+[[params.products.items]]
+  item = "WF 450"
+  price = "13.700 /kg"
+[[params.products.items]]
+  item = "WF 500"
+  price = "13.700 /kg"
+[[params.products.items]]
+  item = "WF 600"
+  price = "14.800 /kg"
+[[params.products.items]]
+  item = "WF 588"
+  price = "13.700 /kg"
+[[params.products.items]]
+  item = "WF 700"
+  price = "14.100 /kg"
+[[params.products.items]]
+  item = "H BEAM 100"
+  price = "11.650 /kg"
+[[params.products.items]]
+  item = "H BEAM 125"
+  price = "11.200 /kg"
+[[params.products.items]]
+  item = "H BEAM 150"
+  price = "11.300 /kg"
+[[params.products.items]]
+  item = "H BEAM 200"
+  price = "11.300 /kg"
+[[params.products.items]]
+  item = "H BEAM 250"
+  price = "12.700 /kg"
+[[params.products.items]]
+  item = "H BEAM 300"
+  price = "12.700 /kg"
+[[params.products.items]]
+  item = "H BEAM 350"
+  price = "12.700 /kg"
+[[params.products.items]]
+  item = "H BEAM 400"
+  price = "14.100 /kg"
+
+[[params.products]]
+    name = "Sewa Alat"
+[[params.products.items]]
+  item = "Truk Pasir"
+  price = "1.700.000 /hari"
+[[params.products.items]]
+  item = "Concrete Mixer"
+  price = "300.000 /hari"
+[[params.products.items]]
+  item = "Alat Pemotong Besi"
+  price = "250.000 /hari"
+[[params.products.items]]
+  item = "Mesin Las"
+  price = "170.000 /hari"
+[[params.products.items]]
+  item = "Excavator Mini"
+  price = "2.000.000 /hari"
+[[params.products.items]]
+  item = "Pompa Beton Standar/Mini 18m"
+  price = "3.500.000 /hari"
+[[params.products.items]]
+  item = "Pompa Beton Long Boom 23m"
+  price = "4.500.000 /hari"
+[[params.products.items]]
+  item = "Pompa Beton Super Long 28m"
+  price = "7.500.000 /hari"
+[[params.products.items]]
+  item = "Pompa Beton Master Long 50m"
+  price = "13.000.000 /hari"
+[[params.products.items]]
+  item = "Pompa Beton Kodok/Portable"
+  price = "7.500.000 /hari"
+
+  # Menu Section
+  [[params.menu_items]]
+    title = "Beranda"
+    url = "/"
+  [[params.menu_items]]
+    title = "Profile"
+    url = "/profile/"
+  [[params.menu_items]]
+    title = "Daftar Harga"
+    url = "/daftar-harga/"
+  [[params.menu_items]]
+    title = "TOS"
+    url = "/terms-of-service/"
+
+[params.header]
+   title = "Jual Material Pasir, Batu Kali, Split, Hebel, Bata, Batako, Urugan, Besi, Baja Ringan, Wiremesh | "
+   highlight = "Sumbermaterial.com"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
+  [markup.tableOfContents]
+    startLevel = 1
+    endLevel = 3
+
+[related]
+  threshold = 80
+  includeNewer = true
+  toLower = false
+
+[[related.indices]]
+  name = "categories"
+  weight = 100
+
+[outputs]
+  home = ["HTML", "RSS"]
+  page = ["HTML", "AMP"]
+
+[outputFormats]
+  [outputFormats.AMP]
+    mediaType = "text/html"
+    baseName = "amp/index"
+    path = ""
+    isPlainText = false
+    permalinkable = true
+    rel = "amphtml"
