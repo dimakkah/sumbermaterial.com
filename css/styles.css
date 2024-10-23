@@ -861,7 +861,6 @@ input, textarea {
   color: var(--text-color);
   position: relative;
   width: 100%;
-  max-width: 100%;
 }
 .post-content p {
   font-size: 1.15rem;
@@ -874,57 +873,45 @@ input, textarea {
   max-width: 900px;
   height: auto;
 }
+/* Container video */
 .post-content div[style*="text-align: center"] {
   position: relative;
-  width: 100%;
+  width: 100vw !important;
+  max-width: 100% !important;
+  margin-left: 0 !important;
+  margin-right: 0 !important;
+  padding-left: 0;
+  padding-right: 0;
   padding-bottom: 56.25%;
   height: 0;
-  margin: 1.5em 0;
-  max-width: 100%;
   overflow: hidden;
 }
+/* Style iframe */
 .post-content div[style*="text-align: center"] iframe {
   position: absolute;
   top: 0;
   left: 0;
-  width: 100%;
-  height: 100%;
-  max-width: 100%;
-  border: none;
+  width: 100% !important;
+  height: 100% !important;
+  max-width: 100% !important;
+  border: 0;
 }
-/* Untuk layar mobile kecil */
-@media screen and (max-width: 480px) {
-  .post-content div[style*="text-align: center"] {
-    margin: 1em 0;
-    padding-bottom: 75%; /* Sedikit lebih tinggi untuk mobile */
+/* Khusus Mobile */
+@media screen and (max-width: 768px) {
+  .post-content {
+    padding: 0;
   }
-}
-/* Untuk tablet dan mobile landscape */
-@media screen and (min-width: 481px) and (max-width: 768px) {
+  
   .post-content div[style*="text-align: center"] {
-    margin: 1.25em 0;
-    padding-bottom: 65%;
+    width: 100% !important;
+    left: 0;
+    right: 0;
+    margin: 1em auto !important;
   }
-}
-/* Untuk layar medium */
-@media screen and (min-width: 769px) and (max-width: 1024px) {
-  .post-content div[style*="text-align: center"] {
-    width: 90%;
-    margin: 1.5em auto;
-  }
-}
-/* Untuk layar besar */
-@media screen and (min-width: 1025px) {
-  .post-content div[style*="text-align: center"] {
-    width: 80%;
-    max-width: 900px;
-    margin: 2em auto;
-  }
-}
-/* Fix untuk iOS Safari */
-@supports (-webkit-touch-callout: none) {
-  .post-content div[style*="text-align: center"] {
-    -webkit-overflow-scrolling: touch;
+  
+  .post-content div[style*="text-align: center"] iframe {
+    width: 100% !important;
+    left: 0;
   }
 }
 .post-footer {
