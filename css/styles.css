@@ -919,6 +919,7 @@ input, textarea {
   margin-top: 20px;
   color: var(--accent-color);
 }
+
 @media (max-width: 768px) {
   .post-content img {
   display: block;
