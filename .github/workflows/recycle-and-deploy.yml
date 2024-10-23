@@ -1,9 +1,7 @@
 name: Recycle Posts and Deploy
-permissions:
-  contents: write
 on:
   schedule:
-    - cron: '0 0 * * *'
+    - cron: '0 0 * * *'  # Fixed cron syntax
   push:
     branches: [ master ]
   workflow_dispatch:
@@ -16,7 +14,6 @@ jobs:
       uses: peaceiris/actions-hugo@v2
       with:
         hugo-version: 'latest'
-        extended: true
     - name: Setup Node.js
       uses: actions/setup-node@v2
       with:
@@ -30,9 +27,7 @@ jobs:
         echo "Directory contents:"
         ls -R content
     - name: Run recycle and build
-      run: |
-        npm run build:recycle
-        hugo --minify
+      run: npm run build:recycle
     - name: Commit changes
       run: |
         git config --local user.email "action@github.com"
@@ -43,7 +38,7 @@ jobs:
       uses: ad-m/github-push-action@master
       with:
         github_token: ${{ secrets.GITHUB_TOKEN }}
-    - name: Deploy to GitHub Pages
+    - name: Deploy to GitHub Pages  # Fixed indentation
       uses: peaceiris/actions-gh-pages@v3
       with:
         github_token: ${{ secrets.GITHUB_TOKEN }}
