@@ -860,6 +860,8 @@ input, textarea {
   line-height: 1.6;
   color: var(--text-color);
   position: relative;
+  width: 100%;
+  max-width: 100%;
 }
 .post-content p {
   font-size: 1.15rem;
@@ -875,17 +877,55 @@ input, textarea {
 .post-content div[style*="text-align: center"] {
   position: relative;
   width: 100%;
-  padding-bottom: 56.25%; /* Aspect ratio 16:9 */
+  padding-bottom: 56.25%;
   height: 0;
   margin: 1.5em 0;
+  max-width: 100%;
+  overflow: hidden;
 }
-
 .post-content div[style*="text-align: center"] iframe {
   position: absolute;
   top: 0;
   left: 0;
   width: 100%;
   height: 100%;
+  max-width: 100%;
+  border: none;
+}
+/* Untuk layar mobile kecil */
+@media screen and (max-width: 480px) {
+  .post-content div[style*="text-align: center"] {
+    margin: 1em 0;
+    padding-bottom: 75%; /* Sedikit lebih tinggi untuk mobile */
+  }
+}
+/* Untuk tablet dan mobile landscape */
+@media screen and (min-width: 481px) and (max-width: 768px) {
+  .post-content div[style*="text-align: center"] {
+    margin: 1.25em 0;
+    padding-bottom: 65%;
+  }
+}
+/* Untuk layar medium */
+@media screen and (min-width: 769px) and (max-width: 1024px) {
+  .post-content div[style*="text-align: center"] {
+    width: 90%;
+    margin: 1.5em auto;
+  }
+}
+/* Untuk layar besar */
+@media screen and (min-width: 1025px) {
+  .post-content div[style*="text-align: center"] {
+    width: 80%;
+    max-width: 900px;
+    margin: 2em auto;
+  }
+}
+/* Fix untuk iOS Safari */
+@supports (-webkit-touch-callout: none) {
+  .post-content div[style*="text-align: center"] {
+    -webkit-overflow-scrolling: touch;
+  }
 }
 .post-footer {
   padding-top: 20px;
