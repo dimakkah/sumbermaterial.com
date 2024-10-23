@@ -119,7 +119,7 @@ Berikut ini Price List Harga Bahan Material Alam Termurah yang kami jual.
 
 ## Sistem Pengorderan Pasir Free Ongkos Kirim dan Bongkar Di Rawajati Jakarta
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Setelah anda memahami Macam - Macam Ragam Pasir mulai sekarang anda wajib cermat dalam memilih macam pasir yang akan anda pakai untuk membangun sebuah Konstruksi Bangunan. Apabila anda berencana membeli pasir dari kami Cara Pemesanan nya adalah dengan Email data domisili komplit dan nomor telepon saja, kami akan segera mengirimnya ke lokasi proyek anda tanpa ada tambahan biaya apapun. Harga yang kami berikan adalah sudah termasuk biaya pengiriman dan tumpah jadi anda tak perlu khawatir dengan pembengkakan harga lagi. Sistem pembayaran yang kami terapkan juga betul-betul aman, yakni anda bayar sesudah material sampai ke lokasi anda atau di ucap dengan istilah COD (Cash On Delivery). Anda juga dapat konsultasi atau diplomasi dengan kami melewati no telepon yang ada di situs ini.
 

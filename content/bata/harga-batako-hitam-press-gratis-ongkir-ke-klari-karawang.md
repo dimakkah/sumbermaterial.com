@@ -55,7 +55,7 @@ Jika diperbandingkan dg bahan bangunan lainnya, batako mempunyai harga sekitar R
 
 ## Sistem Order Bata Merah, Batako & Hebel Di Klari Karawang
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/IEs5XPt-xyU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/IEs5XPt-xyU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Seluruhnya tentu sudah tahu kegunaan utama batu bata mulai diterapkan untuk membikin tembok, pagar tempat tinggal dan lainnya. Bertepatan dengan perkembangannya batu batu sekarang sudah ada batu bata merah, batako hitam dan herbel. Kalau sekarang ini anda memiliki agenda untuk membuat sebuah bangunan yg idam-idamkan|impian|masa depan} dan membutuhkan bahan batu bata. Karenanya silahkan memesan batu bata terhadap warung penyedia material batu bata yang berkwalitas dan terpercaya.
 

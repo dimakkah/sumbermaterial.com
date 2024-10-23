@@ -55,7 +55,7 @@ Bila dibandingkan dengan material bangunan lainnya, batako press mempunyai harga
 
 ## Sistem Pengorderan Bata Merah, Batako & Hebel Di Sukapura Jakarta
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/IEs5XPt-xyU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/IEs5XPt-xyU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Seluruhnya tentu telah tahu kegunaan utama batu bata mulai diaplikasikan untuk membuat tembok, pagar gedung dan lainnya. Bersamaan dengan perkembangannya batu batu sekarang sudah ada batu bata merah, batako press hitam dan herbel. Seandainya sekarang ini anda mempunyai agenda untuk membangun sebuah tempat tinggal yg idam-idamkan|impian|masa depan} dan membutuhkan material batu bata. Maka silahkan memesan batu bata terhadap kios penyedia material batu bata yang bermutu dan terpercaya.
 

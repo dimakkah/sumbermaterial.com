@@ -63,7 +63,7 @@ Baja ringan SNI dijual dengan hitungan harga selaras dengan ketebalan dan dihitu
 
 ## Metode Pembelian Bondek, Wiremesh Dan Baja Ringan Di Dukuh Jakarta
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/RlgIAwKCWFI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/RlgIAwKCWFI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Jika anda berencana mengorder material melalui Harga Bondek Wiremesh Baja Ringan Kirim Ke Dukuh Jakarta online karenanya salah satunya bisa mengaplikasikan cara pembayaran COD. Dimana sistem bayar ditempat, pembeli sepatutnya membayar orderan dengan pembayaran tunai ketika barang yang diorder sampai di lokasi tujuan. Berikut ini akan dijelaskan langkah pengorderan bondek, wiremesh dan baja ringan secara COD yang wajib anda kenal.
 

@@ -63,7 +63,7 @@ Baja ringan SNI dijual dengan hitungan harga pas dengan ketebalan dan dihitung p
 
 ## Cara Order Bondek, Wiremesh Dan Baja Ringan Di Galur Jakarta
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/RlgIAwKCWFI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/RlgIAwKCWFI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Jika anda berencana mengorder bahan bangunan melalui Harga Bondek Wiremesh Baja Ringan Kirim Ke Galur Jakarta online maka salah satunya bisa mengaplikasikan metode pembayaran bayar ditempat. Dimana metode COD, pembeli mesti membayar orderan dengan pembayaran tunai ketika barang yang diorder tiba di tempat tujuan. Berikut ini akan diterangkan langkah pengorderan bondek, wiremesh dan baja ringan secara COD yang wajib anda kenal.
 

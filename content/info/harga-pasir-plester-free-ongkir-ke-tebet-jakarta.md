@@ -160,7 +160,7 @@ Dibawah ini Urutan Harga Bahan Material Terupdate yang kami jual.
 
 ## Metode Pemesanan Pasir Free Biaya Pengiriman dan Bongkar Di Tebet Jakarta
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Sesudah kalian memahami Tipe - model Macam Pasir mulai kini kalian seharusnya teliti di dalam memilih ragam pasir yang akan anda gunakan untuk membangun sebuah Bangunan. Bila anda akan membeli pasir dari kami Metode Pemesanan nya merupakan dengan memberikan data domisili lengkap dan nomor handphond saja, kami akan langsung mengirimnya ke lokasi proyek anda tanpa ada tambahan biaya apapun. Harga yang kami berikan yaitu sudah termasuk ongkos kirim dan bongkar jadi anda tak perlu cemas dengan pembengkakan harga lagi. Cara pembayaran yang kami terapkan juga sangat aman, merupakan anda bayar sesudah material sampe ke lokasi anda atau di ucap dengan istilah COD (Cash On Delivery). Anda juga bisa konsultasi atau perundingan dengan kami via no telepon yang ada di situs ini.
 

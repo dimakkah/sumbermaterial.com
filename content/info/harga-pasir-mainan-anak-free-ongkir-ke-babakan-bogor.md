@@ -119,7 +119,7 @@ Berikut ini Daftar Harga Bahan Material Alam Termurah yang kami jual.
 
 ## Metode Pemesanan Pasir Free Ongkir dan Penurunan Di Babakan Bogor
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Setelah anda mengetahui Tipe - Tipe Macam Pasir mulai kini anda seharusnya akurat dalam memilih jenis pasir yang akan anda pergunakan untuk membangun sebuah Konstruksi Bangunan. Jika anda mau membeli pasir dari kami Sistem Pengorderan nya ialah dengan memberikan data domisili komplit dan nomor HP saja, kami akan segera mengirimnya ke lokasi proyek anda dengan tidak ada tambahan biaya apa saja. Harga yang kami berikan yakni telah termasuk ongkir dan penurunan jadi anda tak perlu kuatir dengan penambahan harga lagi. Metode pembayaran yang kami terapkan juga betul-betul aman, yakni anda bayar sesudah material sampai ke lokasi anda atau di sebut dengan istilah COD (Cash On Delivery). Anda juga bisa konsultasi atau diplomasi dengan kami melalui no telepon yang ada di website ini.
 

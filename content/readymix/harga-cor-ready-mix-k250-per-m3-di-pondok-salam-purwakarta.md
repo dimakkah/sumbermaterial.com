@@ -33,7 +33,7 @@ Beton Ready mix mutu ini yaitu kualitas beton Readymix yang didesain khusus utk 
 
 ### Beton Readymix K375 sd K500 dan Harganya Di Pondok Salam Purwakarta
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/MVuQWwYFCiA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/MVuQWwYFCiA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Kualitas beton Ready mix yang terkhir ialah kwalitas beton yang didesaian khusus utk pekerjaan ekspress umum disebut juga dengan beton fast track ialah mutu beton Ready mix yang dapat kering hanya dalam beberapa hari saja. Harganya malahan cukup mahal utk K375 sendiri per kubiknya 1.000.000, K400 harganya 1.200.000 per m3 dan K500 1.400.000 per m3nya. Kualitas-kwalitas beton tersebut digunakna pada pengecoran jalan rigit yang akan diterapkan bebera hari kemudian atau pada pengecoran jembatan dan bendungan serta pengecoran dalam air.
 

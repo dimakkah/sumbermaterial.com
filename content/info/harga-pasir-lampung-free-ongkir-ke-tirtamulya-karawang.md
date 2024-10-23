@@ -119,7 +119,7 @@ Dibawah ini List Harga Bahan Material Alam Terbaru yang kami jual.
 
 ## Sistem Pengorderan Pasir Gratis Ongkos Kirim dan Penurunan Di Tirtamulya Karawang
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Setelah anda memahami Jenis - Tipe Macam Pasir mulai kini anda patut cermat di dalam memilih macam pasir yang akan kalian gunakan untuk membangun sebuah Konstruksi Bangunan. Bila anda mau membeli pasir dari kami Sistem Pemesanan nya merupakan dengan whatsapp data domisili lengkap dan nomor handphond saja, kami akan langsung mengirimnya ke lokasi proyek anda dengan tidak ada tambahan biaya apapun. Harga yang kami berikan yaitu telah termasuk biaya pengiriman dan penurunan jadi anda tidak perlu kuatir dengan pembengkakan harga lagi. Cara pembayaran yang kami terapkan juga amat aman, merupakan anda bayar setelah material sampe ke lokasi anda atau di sebut dengan istilah COD (Cash On Delivery). Anda juga dapat konsultasi atau diplomasi dengan kami melewati no telepon yang ada di situs ini.
 

@@ -160,7 +160,7 @@ Berikut Price List Harga Bahan Material Terupdate yang kami jual.
 
 ## Sistem Pengorderan Pasir Free Ongkos Kirim dan Kuli Di Cengkareng Timur Jakarta
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Sesudah anda memahami Jenis - model Tipe Pasir mulai sekarang kamu patut teliti di dalam memilih tipe pasir yang akan kalian pergunakan untuk membangun sebuah Konstruksi. Bila anda mau membeli pasir dari kami Metode Pemesanan nya merupakan dengan Email data domisili lengkap dan nomor telepon saja, kami akan segera mengirimnya ke lokasi proyek anda dengan tanpa tambahan biaya apa saja. Harga yang kami berikan adalah telah termasuk biaya pengiriman dan penurunan jadi anda tak perlu kuatir dengan pembengkakan ongkos lagi. Sistem pembayaran yang kami terapkan juga betul-betul aman, yaitu anda bayar sesudah material sampe ke daerah anda atau di ucap dengan istilah COD (Cash On Delivery). Anda juga bisa konsultasi atau negosiasi dengan kami melewati no telepon yang ada di laman ini.
 

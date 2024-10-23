@@ -45,7 +45,7 @@ Yang harus Anda ketahui dari material hebel ini yakni model ukuran dan harganya.
 
 ## Toko Bata Merah, Batako, Hebel Di Tanjung Barat Jakarta
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/IEs5XPt-xyU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/IEs5XPt-xyU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 **Daftar Harga Bata Merah Oven Gratis Ongkir Ke Tanjung Barat Jakarta**
 

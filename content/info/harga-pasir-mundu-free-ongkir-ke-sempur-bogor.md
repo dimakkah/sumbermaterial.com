@@ -119,7 +119,7 @@ Berikut List Harga Bahan Material Alam Terbaru yang kami jual.
 
 ## Cara Pemesanan Pasir Free Biaya Pengiriman dan Penurunan Di Sempur Bogor
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Sesudah kamu mengetahui Macam - Ragam model Pasir mulai sekarang kalian harus akurat dalam memilih ragam pasir yang akan anda manfaatkan untuk membangun sebuah Konstruksi. Bila anda berencana membeli pasir dari kami Metode Pengorderan nya merupakan dengan memberikan data alamat komplit dan nomor HP saja, kami akan seketika mengirimnya ke lokasi proyek anda tanpa ada tambahan ongkos apapun. Harga yang kami berikan adalah telah termasuk ongkir dan tumpah jadi anda tidak perlu kuatir dengan penambahan biaya lagi. Metode pembayaran yang kami terapkan juga benar-benar aman, ialah anda bayar setelah material sampai ke daerah anda atau di sebut dengan istilah COD (Cash On Delivery). Anda juga dapat konsultasi atau diplomasi dengan kami melalui no telepon yang ada di situs ini.
 

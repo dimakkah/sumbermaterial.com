@@ -119,7 +119,7 @@ Berikut Price List Harga Bahan Material Termurah yang kami jual.
 
 ## Cara Pemesanan Pasir Gratis Ongkos Kirim dan Bongkar Di Curug Bogor
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Setelah kalian mengetahui Macam - Ragam Tipe Pasir mulai kini anda sepatutnya cermat dalam memilih tipe pasir yang akan kalian pergunakan untuk membangun sebuah Konstruksi Bangunan. Seandainya anda akan membeli pasir dari kami Sistem Pengorderan nya yakni dengan sms data alamat lengkap dan nomor telepon saja, kami akan segera mengirimnya ke lokasi proyek anda dengan tanpa tambahan biaya apapun. Harga yang kami berikan merupakan sudah termasuk ongkos kirim dan bongkar jadi anda tak perlu kuatir dengan pembengkakan biaya lagi. Sistem pembayaran yang kami terapkan juga amat aman, merupakan anda bayar setelah material sampai ke lokasi anda atau di sebut dengan istilah COD (Cash On Delivery). Anda juga dapat konsultasi atau perundingan dengan kami melewati no telepon yang ada di web ini.
 

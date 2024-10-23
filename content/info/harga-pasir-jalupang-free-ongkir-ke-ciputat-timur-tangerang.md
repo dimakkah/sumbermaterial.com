@@ -119,7 +119,7 @@ Berikut ini Daftar Harga Bahan Material Termurah yang kami jual.
 
 ## Cara Pemesanan Pasir Bebas Ongkir dan Kuli Di Ciputat Timur Tangerang
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Setelah kalian memahami Jenis - Tipe Ragam Pasir mulai sekarang anda patut teliti dalam memilih macam pasir yang akan anda manfaatkan untuk membangun sebuah Konstruksi. Jika anda akan membeli pasir dari kami Sistem Pemesanan nya yaitu dengan sms data alamat komplit dan nomor telepon saja, kami akan segera mengirimnya ke lokasi proyek anda tanpa ada tambahan biaya apa saja. Harga yang kami berikan adalah telah termasuk ongkos kirim dan penurunan jadi anda tak perlu kuatir dengan penambahan ongkos lagi. Metode pembayaran yang kami terapkan juga benar-benar aman, merupakan anda bayar sesudah material terkirim ke daerah anda atau di sebut dengan istilah COD (Cash On Delivery). Anda juga dapat konsultasi atau perundingan dengan kami melalui no telepon yang ada di laman ini.
 

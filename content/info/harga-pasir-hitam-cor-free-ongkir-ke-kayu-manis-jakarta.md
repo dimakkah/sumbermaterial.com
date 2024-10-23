@@ -119,7 +119,7 @@ Berikut Urutan Harga Bahan Material Alam Free Ongkir yang kami jual.
 
 ## Sistem Pemesanan Pasir Gratis Ongkir dan Kuli Di Kayu Manis Jakarta
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Sesudah anda mengetahui Tipe - Tipe Macam Pasir mulai kini anda sepatutnya teliti di dalam memilih tipe pasir yg akan anda manfaatkan untuk membangun sebuah Bangunan. Seandainya anda mau membeli pasir dari kami Cara Pemesanan nya yakni dengan memberikan data alamat komplit dan nomor HP saja, kami akan langsung mengirimnya ke lokasi proyek anda dengan tidak ada tambahan biaya apapun. Harga yang kami berikan ialah sudah termasuk biaya pengiriman dan penurunan jadi anda tidak perlu khawatir dengan pembengkakan ongkos lagi. Cara pembayaran yang kami terapkan juga betul-betul aman, yakni anda bayar setelah material sampe ke daerah anda atau di ucap dengan istilah COD (Cash On Delivery). Anda juga dapat konsultasi atau negosiasi dengan kami lewat no telepon yang ada di web ini.
 

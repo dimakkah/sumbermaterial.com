@@ -119,7 +119,7 @@ Berikut Urutan Harga Bahan Material Termurah yang kami jual.
 
 ## Metode Pengorderan Pasir Gratis Ongkos Kirim dan Penurunan Di Pasar Minggu Jakarta
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Setelah kamu memahami Ragam - Ragam Macam Pasir mulai kini anda wajib teliti di dalam memilih tipe pasir yg akan kalian manfaatkan untuk membangun sebuah Konstruksi Bangunan. Sekiranya anda mau membeli pasir dari kami Cara Pengorderan nya ialah dengan sms data alamat komplit dan nomor telepon saja, kami akan lantas mengirimnya ke lokasi proyek anda dengan tanpa tambahan ongkos apa saja. Harga yang kami berikan adalah telah termasuk biaya pengiriman dan penurunan jadi anda tidak perlu cemas dengan pembengkakan biaya lagi. Cara pembayaran yang kami terapkan juga amat aman, yaitu anda bayar setelah material terkirim ke daerah anda atau di ucap dengan istilah COD (Cash On Delivery). Anda juga dapat konsultasi atau negosiasi dengan kami melalui no telepon yang ada di laman ini.
 

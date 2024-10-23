@@ -63,7 +63,7 @@ Baja ringan SNI dijual dengan hitungan harga selaras dengan ketebalan dan dihitu
 
 ## Cara Pembelian Bondek, Wiremesh Dan Baja Ringan Di Cinangka Serang
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/RlgIAwKCWFI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/RlgIAwKCWFI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Apabila anda berencana memesan bahan bangunan melewati Harga Bondek Wiremesh Baja Ringan Kirim Ke Cinangka Serang online karenanya salah satunya bisa memakai cara pembayaran COD. Dimana cara Bayar Setelah sampe, pembeli sepatutnya membayar orderan dengan pembayaran tunai ketika barang yang diorder tiba di tempat tujuan. Dibawah ini akan digambarkan langkah pengorderan bondek, wiremesh dan baja ringan secara COD yang wajib anda ketahui.
 

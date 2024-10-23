@@ -55,7 +55,7 @@ Kalau dibandingkan dengan material bangunan lainnya, batako trus mempunyai harga
 
 ## Sistem Beli Bata Merah, Batako & Hebel Di Cipaku Bogor
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/IEs5XPt-xyU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/IEs5XPt-xyU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Semua tentunya sudah tahu kegunaan utama batu bata mulai digunakan untuk membuat tembok, pagar gedung dan lainnya. Bertepatan dengan perkembangannya batu batu sekarang telah ada batu bata merah, batako hitam dan bata ringan. Apabila dikala ini anda mempunyai agenda untuk membuat sebuah tempat tinggal yang idam-idamkan|impian|masa depan} dan membutuhkan material batu bata. Karenanya silahkan mengorder batu bata terhadap kios penyedia material batu bata yg bermutu dan terpercaya.
 

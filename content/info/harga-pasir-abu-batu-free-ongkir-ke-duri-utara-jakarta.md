@@ -160,7 +160,7 @@ Berikut Urutan Harga Bahan Bangunan Termurah yang kami jual.
 
 ## Metode Pengorderan Pasir Gratis Ongkir dan Bongkar Di Duri Utara Jakarta
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Sesudah anda mengetahui Tipe - Macam model Pasir mulai kini kalian semestinya teliti dalam memilih macam pasir yg akan anda manfaatkan untuk membangun sebuah Konstruksi Bangunan. Apabila anda berencana membeli pasir dari kami Metode Pengorderan nya yakni dengan Email data alamat lengkap dan nomor HP saja, kami akan lantas mengirimnya ke lokasi proyek anda dengan tanpa tambahan ongkos apapun. Harga yang kami berikan ialah telah termasuk ongkir dan tumpah jadi anda tidak perlu khawatir dengan penambahan ongkos lagi. Sistem pembayaran yang kami terapkan juga amat aman, adalah anda bayar sesudah material sampai ke lokasi anda atau di sebut dengan istilah COD (Cash On Delivery). Anda juga dapat konsultasi atau diplomasi dengan kami melewati no telepon yang ada di web ini.
 

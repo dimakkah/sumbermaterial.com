@@ -119,7 +119,7 @@ Berikut ini Daftar Harga Bahan Bangunan Terupdate yang kami jual.
 
 ## Sistem Pengorderan Pasir Free Ongkos Kirim dan Penurunan Di Margajaya Bogor
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Sesudah anda mengetahui Macam - model model Pasir mulai kini kalian wajib cermat dalam memilih model pasir yang akan kamu manfaatkan untuk membangun sebuah Bangunan. Jika anda mau membeli pasir dari kami Sistem Pemesanan nya adalah dengan memberikan data alamat komplit dan nomor telepon saja, kami akan segera mengirimnya ke lokasi proyek anda dengan tidak ada tambahan ongkos apapun. Harga yang kami berikan adalah sudah termasuk ongkir dan bongkar jadi anda tak perlu cemas dengan pembengkakan biaya lagi. Metode pembayaran yang kami terapkan juga benar-benar aman, yakni anda bayar sesudah material terkirim ke lokasi anda atau di sebut dengan istilah COD (Cash On Delivery). Anda juga bisa konsultasi atau perundingan dengan kami via no telepon yang ada di situs ini.
 

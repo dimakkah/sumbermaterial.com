@@ -119,7 +119,7 @@ Dibawah ini Price List Harga Bahan Material Terlengkap yang kami jual.
 
 ## Sistem Pemesanan Pasir Bebas Ongkir dan Bongkar Di Cipinang Melayu Jakarta
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Sesudah kalian memahami Ragam - Ragam Tipe Pasir mulai kini anda seharusnya akurat di dalam memilih jenis pasir yg akan kalian pergunakan untuk membangun sebuah Konstruksi. Jikalau anda hendak membeli pasir dari kami Cara Pengorderan nya adalah dengan memberikan data domisili lengkap dan nomor handphond saja, kami akan lantas mengirimnya ke lokasi proyek anda dengan tidak ada tambahan biaya apa saja. Harga yang kami berikan merupakan telah termasuk ongkir dan tumpah jadi anda tidak perlu kuatir dengan penambahan harga lagi. Cara pembayaran yang kami terapkan juga sungguh-sungguh aman, yakni anda bayar sesudah material sampai ke lokasi anda atau di sebut dengan istilah COD (Cash On Delivery). Anda juga bisa konsultasi atau diplomasi dengan kami lewat no telepon yang ada di situs ini.
 

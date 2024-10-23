@@ -55,7 +55,7 @@ Kalau dibandingi dengan bahan bangunan lainnya, batako trus memiliki harga sekit
 
 ## System Pemesanan Bata Merah, Batako & Hebel Di Angke Jakarta
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/IEs5XPt-xyU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/IEs5XPt-xyU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Semua tentunya sudah tahu fungsi utama batu bata mulai dipakai untuk membikin tembok, pagar rumah dan lainnya. Bersamaan dengan perkembangannya batu batu kini sudah ada batu bata merah, batako press hitam dan herbel. Jika sekarang ini anda mempunyai rencana untuk membuat sebuah bangunan yang idam-idamkan|impian|masa depan} dan membutuhkan material batu bata. Karenanya silahkan memesan batu bata kepada toko penyedia material batu bata yang berkualitas dan terpercaya.
 

@@ -119,7 +119,7 @@ Berikut Urutan Harga Bahan Material Alam Termurah yang kami jual.
 
 ## Cara Pengorderan Pasir Gratis Biaya Pengiriman dan Penurunan Di Pabaton Bogor
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Sesudah anda mengenal model - Tipe Ragam Pasir mulai sekarang anda wajib teliti dalam memilih macam pasir yg akan kalian pergunakan untuk membangun sebuah Konstruksi. Seandainya anda mau membeli pasir dari kami Metode Pengorderan nya adalah dengan sms data domisili lengkap dan nomor handphond saja, kami akan segera mengirimnya ke lokasi proyek anda dengan tidak ada tambahan biaya apapun. Harga yang kami berikan merupakan sudah termasuk ongkos kirim dan bongkar jadi anda tidak perlu kuatir dengan penambahan harga lagi. Metode pembayaran yang kami terapkan juga betul-betul aman, yaitu anda bayar setelah material sampai ke lokasi anda atau di sebut dengan istilah COD (Cash On Delivery). Anda juga dapat konsultasi atau diplomasi dengan kami via no telepon yang ada di website ini.
 

@@ -119,7 +119,7 @@ Berikut ini Urutan Harga Bahan Bangunan Free Ongkir yang kami jual.
 
 ## Metode Pengorderan Pasir Free Biaya Pengiriman dan Penurunan Di Tanah Sareal Bogor
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Setelah kamu memahami Jenis - Tipe Jenis Pasir mulai kini anda semestinya cermat dalam memilih model pasir yg akan anda pergunakan untuk membangun sebuah Konstruksi Bangunan. Kalau anda berencana membeli pasir dari kami Cara Pemesanan nya merupakan dengan whatsapp data domisili lengkap dan nomor HP saja, kami akan seketika mengirimnya ke lokasi proyek anda tanpa ada tambahan ongkos apapun. Harga yang kami berikan ialah sudah termasuk ongkir dan tumpah jadi anda tak perlu kuatir dengan penambahan ongkos lagi. Metode pembayaran yang kami terapkan juga betul-betul aman, ialah anda bayar sesudah material sampe ke daerah anda atau di sebut dengan istilah COD (Cash On Delivery). Anda juga bisa konsultasi atau negosiasi dengan kami lewat no telepon yang ada di web ini.
 

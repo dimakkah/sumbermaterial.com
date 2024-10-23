@@ -55,7 +55,7 @@ Seandainya dibandingi dengan material bangunan lainnya, batako trus memiliki har
 
 ## System Beli Bata Merah, Batako & Hebel Di Jatisari Karawang
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/IEs5XPt-xyU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/IEs5XPt-xyU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Seluruhnya tentu telah tahu fungsi utama batu bata mulai dipakai untuk membikin tembok, pagar tempat tinggal dan lainnya. Bersamaan dengan perkembangannya batu batu sekarang sudah ada batu bata merah, batako press hitam dan herbel. Seandainya dikala ini anda mempunyai rencana untuk membuat sebuah rumah yang idam-idamkan|impian|masa depan} dan membutuhkan bahan batu bata. Karenanya silahkan mengorder batu bata terhadap toko penyedia bahan batu bata yg bermutu dan terpercaya.
 

@@ -119,7 +119,7 @@ Dibawah ini Daftar Harga Bahan Material Terlengkap yang kami jual.
 
 ## Sistem Pemesanan Pasir Gratis Ongkos Kirim dan Penurunan Di Tanah Baru Depok
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Sesudah anda mengetahui model - Macam Macam Pasir mulai kini anda patut akurat di dalam memilih ragam pasir yang akan anda pergunakan untuk membangun sebuah Bangunan. Jika anda akan membeli pasir dari kami Cara Pengorderan nya adalah dengan memberikan data domisili lengkap dan nomor telepon saja, kami akan langsung mengirimnya ke lokasi proyek anda dengan tanpa tambahan ongkos apapun. Harga yang kami berikan merupakan sudah termasuk biaya pengiriman dan tumpah jadi anda tak perlu cemas dengan pembengkakan ongkos lagi. Cara pembayaran yang kami terapkan juga sungguh-sungguh aman, yaitu anda bayar setelah material sampe ke tempat anda atau di sebut dengan istilah COD (Cash On Delivery). Anda juga dapat konsultasi atau diplomasi dengan kami lewat no telepon yang ada di situs ini.
 

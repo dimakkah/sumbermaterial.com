@@ -119,7 +119,7 @@ Dibawah ini Price List Harga Bahan Bangunan Terupdate yang kami jual.
 
 ## Cara Pemesanan Pasir Free Biaya Pengiriman dan Kuli Di Ragunan Jakarta
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Setelah anda mengenal Ragam - Ragam Jenis Pasir mulai sekarang anda semestinya teliti di dalam memilih ragam pasir yang akan anda manfaatkan untuk membangun sebuah Konstruksi Bangunan. Kalau anda berencana membeli pasir dari kami Cara Pengorderan nya adalah dengan memberikan data alamat lengkap dan nomor handphond saja, kami akan segera mengirimnya ke lokasi proyek anda tanpa ada tambahan biaya apapun. Harga yang kami berikan adalah sudah termasuk biaya pengiriman dan bongkar jadi anda tak perlu khawatir dengan pembengkakan harga lagi. Cara pembayaran yang kami terapkan juga betul-betul aman, yaitu anda bayar setelah material sampe ke lokasi anda atau di ucap dengan istilah COD (Cash On Delivery). Anda juga bisa konsultasi atau negosiasi dengan kami lewat no telepon yang ada di situs ini.
 

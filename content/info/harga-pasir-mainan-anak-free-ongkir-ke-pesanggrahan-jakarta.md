@@ -160,7 +160,7 @@ Berikut ini Daftar Harga Bahan Material Alam Termurah yang kami jual.
 
 ## Sistem Pengorderan Pasir Free Biaya Pengiriman dan Kuli Di Pesanggrahan Jakarta
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Setelah anda mengenal Jenis - model Jenis Pasir mulai kini kalian sepatutnya cermat dalam memilih macam pasir yang akan anda pergunakan untuk membangun sebuah Bangunan. Apabila anda hendak membeli pasir dari kami Metode Pengorderan nya ialah dengan sms data domisili komplit dan nomor handphond saja, kami akan segera mengirimnya ke lokasi proyek anda dengan tanpa tambahan ongkos apa saja. Harga yang kami berikan merupakan telah termasuk ongkir dan tumpah jadi anda tak perlu kuatir dengan penambahan biaya lagi. Metode pembayaran yang kami terapkan juga benar-benar aman, yaitu anda bayar sesudah material sampe ke daerah anda atau di sebut dengan istilah COD (Cash On Delivery). Anda juga dapat konsultasi atau negosiasi dengan kami melalui no telepon yang ada di website ini.
 

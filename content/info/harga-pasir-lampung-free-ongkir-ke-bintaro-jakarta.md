@@ -119,7 +119,7 @@ Berikut Urutan Harga Bahan Material Alam Terlengkap yang kami jual.
 
 ## Metode Pemesanan Pasir Bebas Biaya Pengiriman dan Penurunan Di Bintaro Jakarta
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Setelah kamu memahami model - Macam Ragam Pasir mulai sekarang kamu patut cermat dalam memilih model pasir yg akan anda manfaatkan untuk membangun sebuah Bangunan. Bila anda mau membeli pasir dari kami Cara Pemesanan nya adalah dengan sms data domisili lengkap dan nomor telepon saja, kami akan segera mengirimnya ke lokasi proyek anda dengan tanpa tambahan ongkos apapun. Harga yang kami berikan adalah sudah termasuk ongkir dan tumpah jadi anda tidak perlu khawatir dengan pembengkakan ongkos lagi. Sistem pembayaran yang kami terapkan juga sungguh-sungguh aman, yaitu anda bayar setelah material terkirim ke tempat anda atau di ucap dengan istilah COD (Cash On Delivery). Anda juga bisa konsultasi atau perundingan dengan kami melalui no telepon yang ada di website ini.
 

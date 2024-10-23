@@ -55,7 +55,7 @@ Kalau dibandingkan dengan bahan bangunan lainnya, batako trus mempunyai harga se
 
 ## Cara Order Bata Merah, Batako & Hebel Di Dukuh Jakarta
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/IEs5XPt-xyU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/IEs5XPt-xyU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Segalanya tentu telah tahu kegunaan utama batu bata mulai diaplikasikan untuk membikin tembok, pagar gedung dan lainnya. Seiring perkembangannya batu batu kini sudah ada batu bata merah, batako trus hitam dan herbel. Jika dikala ini anda mempunyai rencana untuk membuat sebuah bangunan yang idam-idamkan|impian|masa depan} dan memerlukan material batu bata. Karenanya silahkan mengorder batu bata kepada warung penyedia material batu bata yg berkualitas dan terpercaya.
 

@@ -119,7 +119,7 @@ Dibawah ini List Harga Bahan Material Free Ongkir yang kami jual.
 
 ## Metode Pemesanan Pasir Free Ongkir dan Bongkar Di Pabaton Bogor
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Sesudah anda mengetahui Ragam - Jenis model Pasir mulai kini anda seharusnya akurat di dalam memilih macam pasir yang akan anda manfaatkan untuk membangun sebuah Konstruksi. Jikalau anda berencana membeli pasir dari kami Cara Pengorderan nya yaitu dengan whatsapp data domisili komplit dan nomor handphond saja, kami akan seketika mengirimnya ke lokasi proyek anda tanpa ada tambahan biaya apa saja. Harga yang kami berikan ialah telah termasuk ongkir dan tumpah jadi anda tidak perlu khawatir dengan pembengkakan ongkos lagi. Sistem pembayaran yang kami terapkan juga amat aman, yaitu anda bayar sesudah material terkirim ke daerah anda atau di ucap dengan istilah COD (Cash On Delivery). Anda juga bisa konsultasi atau diplomasi dengan kami melalui no telepon yang ada di laman ini.
 

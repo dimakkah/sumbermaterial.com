@@ -160,7 +160,7 @@ Berikut ini Price List Harga Bahan Material Alam Termurah yang kami jual.
 
 ## Sistem Pemesanan Pasir Bebas Ongkos Kirim dan Penurunan Di Cikupa Tangerang
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Sesudah anda memahami Tipe - Tipe Ragam Pasir mulai kini anda sepatutnya akurat di dalam memilih tipe pasir yg akan kalian pergunakan untuk membangun sebuah Konstruksi Bangunan. Bila anda hendak membeli pasir dari kami Metode Pemesanan nya adalah dengan sms data domisili lengkap dan nomor handphond saja, kami akan segera mengirimnya ke lokasi proyek anda tanpa ada tambahan biaya apapun. Harga yang kami berikan yaitu sudah termasuk ongkos kirim dan tumpah jadi anda tidak perlu kuatir dengan penambahan biaya lagi. Metode pembayaran yang kami terapkan juga sungguh-sungguh aman, ialah anda bayar setelah material sampe ke tempat anda atau di sebut dengan istilah COD (Cash On Delivery). Anda juga dapat konsultasi atau perundingan dengan kami melewati no telepon yang ada di web ini.
 

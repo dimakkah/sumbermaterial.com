@@ -55,7 +55,7 @@ Jika dibandingkan dg material bangunan lainnya, batako press mempunyai harga sek
 
 ## Sistem Pesan Bata Merah, Batako & Hebel Di Tugu Depok
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/IEs5XPt-xyU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/IEs5XPt-xyU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Seluruhnya tentu telah tahu fungsi utama batu bata mulai dipakai untuk membuat tembok, pagar bangunan dan lainnya. Sejalan perkembangannya batu batu sekarang telah ada batu bata merah, batako trus hitam dan hebel. Kalau sekarang ini anda memiliki rencana untuk membuat sebuah bangunan yang idam-idamkan|impian|masa depan} dan membutuhkan material batu bata. Karenanya silahkan mengorder batu bata terhadap warung penyedia bahan batu bata yang berkualitas dan terpercaya.
 

@@ -63,7 +63,7 @@ Baja ringan SNI ditawarkan dengan hitungan harga sesuai dengan ketebalan dan dih
 
 ## Cara Pengorderan Bondek, Wiremesh Dan Baja Ringan Di Jati Padang Jakarta
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/RlgIAwKCWFI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/RlgIAwKCWFI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Apabila anda berencana membeli bahan bangunan melalui Harga Bondek Wiremesh Baja Ringan Kirim Ke Jati Padang Jakarta online karenanya salah satunya bisa menerapkan metode pembayaran COD. Dimana metode COD, pembeli sepatutnya membayar orderan dengan pembayaran tunai ketika barang yang diorder sampai di lokasi tujuan. Dibawah ini akan dijelaskan langkah pemesanan bondek, wiremesh dan baja ringan secara COD yang perlu anda ketahui.
 

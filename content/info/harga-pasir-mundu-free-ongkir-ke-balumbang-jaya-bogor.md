@@ -119,7 +119,7 @@ Berikut Price List Harga Bahan Bangunan Free Ongkir yang kami jual.
 
 ## Sistem Pemesanan Pasir Gratis Ongkos Kirim dan Bongkar Di Balumbang Jaya Bogor
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Sesudah anda mengetahui Tipe - Ragam Tipe Pasir mulai kini anda sepatutnya akurat dalam memilih model pasir yang akan kalian gunakan untuk membangun sebuah Konstruksi Bangunan. Seandainya anda mau membeli pasir dari kami Cara Pengorderan nya yakni dengan sms data domisili lengkap dan nomor HP saja, kami akan lantas mengirimnya ke lokasi proyek anda dengan tidak ada tambahan biaya apapun. Harga yang kami berikan yaitu telah termasuk ongkir dan tumpah jadi anda tidak perlu khawatir dengan penambahan harga lagi. Metode pembayaran yang kami terapkan juga betul-betul aman, yaitu anda bayar sesudah material sampe ke daerah anda atau di ucap dengan istilah COD (Cash On Delivery). Anda juga dapat konsultasi atau perundingan dengan kami melewati no telepon yang ada di website ini.
 

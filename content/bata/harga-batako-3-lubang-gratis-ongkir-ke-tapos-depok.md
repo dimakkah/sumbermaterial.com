@@ -55,7 +55,7 @@ Bila dibandingi dengan material bangunan lainnya, batako trus memiliki harga sek
 
 ## Metode Pemesanan Bata Merah, Batako & Hebel Di Tapos Depok
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/IEs5XPt-xyU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/IEs5XPt-xyU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Seluruhnya tentu sudah tahu fungsi utama batu bata mulai dipakai untuk membuat tembok, pagar gedung dan lainnya. Seiring perkembangannya batu batu sekarang sudah ada batu bata merah, batako trus hitam dan hebel. Kalau dikala ini anda memiliki agenda untuk membangun sebuah tempat tinggal yg idam-idamkan|impian|masa depan} dan membutuhkan material batu bata. Karenanya silahkan mengorder batu bata terhadap kios penyedia bahan batu bata yg berkualitas dan terpercaya.
 

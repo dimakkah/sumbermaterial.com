@@ -55,7 +55,7 @@ Kalau dibandingi dg bahan bangunan lainnya, batako trus memiliki harga sekitar R
 
 ## Sistem Order Bata Merah, Batako & Hebel Di Kiara Pedes Purwakarta
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/IEs5XPt-xyU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/IEs5XPt-xyU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Segalanya tentu telah tahu fungsi utama batu bata mulai digunakan untuk membikin tembok, pagar tempat tinggal dan lainnya. Bertepatan dengan perkembangannya batu batu kini telah ada batu bata merah, batako press hitam dan bata ringan. Bila dikala ini anda memiliki agenda untuk membangun sebuah rumah yg idam-idamkan|impian|masa depan} dan membutuhkan bahan batu bata. Maka silahkan mengorder batu bata kepada warung penyedia bahan batu bata yg berkwalitas dan terpercaya.
 

@@ -63,7 +63,7 @@ Baja ringan SNI dijual dengan hitungan harga pas dengan ketebalan dan dihitung p
 
 ## Cara Pembelian Bondek, Wiremesh Dan Baja Ringan Di Leuwinanggung Depok
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/RlgIAwKCWFI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/RlgIAwKCWFI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Jika anda berencana mengorder material melewati Harga Bondek Wiremesh Baja Ringan Kirim Ke Leuwinanggung Depok online karenanya salah satunya dapat memakai sistem pembayaran Bayar Setelah sampe. Dimana cara Bayar Setelah sampe, pembeli sepatutnya membayar orderan dengan pembayaran tunai ketika barang yang diorder tiba di tempat tujuan. Berikut ini akan dibeberkan langkah pembelian bondek, wiremesh dan baja ringan secara COD yang wajib anda ketahui.
 

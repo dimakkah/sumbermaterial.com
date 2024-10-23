@@ -119,7 +119,7 @@ Berikut List Harga Bahan Material Terlengkap yang kami jual.
 
 ## Sistem Pemesanan Pasir Bebas Ongkir dan Kuli Di Duren Tiga Jakarta
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Sesudah anda mengenal model - Jenis Macam Pasir mulai kini anda harus akurat dalam memilih macam pasir yang akan anda manfaatkan untuk membangun sebuah Konstruksi Bangunan. Kalau anda akan membeli pasir dari kami Metode Pengorderan nya adalah dengan Email data domisili lengkap dan nomor telepon saja, kami akan seketika mengirimnya ke lokasi proyek anda tanpa ada tambahan biaya apa saja. Harga yang kami berikan ialah telah termasuk biaya pengiriman dan tumpah jadi anda tidak perlu cemas dengan penambahan biaya lagi. Cara pembayaran yang kami terapkan juga sangat aman, ialah anda bayar sesudah material sampe ke tempat anda atau di ucap dengan istilah COD (Cash On Delivery). Anda juga bisa konsultasi atau negosiasi dengan kami lewat no telepon yang ada di situs ini.
 

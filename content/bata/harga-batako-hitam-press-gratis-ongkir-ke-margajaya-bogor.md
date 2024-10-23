@@ -55,7 +55,7 @@ Jika dibandingkan dg material bangunan lainnya, batako trus mempunyai harga seki
 
 ## Sistem Pesan Bata Merah, Batako & Hebel Di Margajaya Bogor
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/IEs5XPt-xyU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/IEs5XPt-xyU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Segalanya tentu telah tahu fungsi utama batu bata mulai digunakan untuk membuat tembok, pagar bangunan dan lainnya. Bertepatan dengan perkembangannya batu batu kini telah ada batu bata merah, batako trus hitam dan herbel. Apabila sekarang ini anda mempunyai agenda untuk membuat sebuah gedung yg idam-idamkan|impian|masa depan} dan membutuhkan material batu bata. Maka silahkan memesan batu bata terhadap kios penyedia bahan batu bata yang berkualitas dan terpercaya.
 

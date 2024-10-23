@@ -119,7 +119,7 @@ Berikut List Harga Bahan Material Terupdate yang kami jual.
 
 ## Metode Pengorderan Pasir Gratis Biaya Pengiriman dan Bongkar Di Serpong Utara Tangerang
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Sesudah kalian mengenal Macam - model Tipe Pasir mulai sekarang kalian wajib teliti di dalam memilih model pasir yang akan kalian pakai untuk membangun sebuah Konstruksi. Bila anda berencana membeli pasir dari kami Sistem Pengorderan nya adalah dengan Email data domisili lengkap dan nomor HP saja, kami akan segera mengirimnya ke lokasi proyek anda dengan tidak ada tambahan biaya apa saja. Harga yang kami berikan adalah sudah termasuk ongkos kirim dan bongkar jadi anda tak perlu kuatir dengan pembengkakan harga lagi. Cara pembayaran yang kami terapkan juga benar-benar aman, yakni anda bayar sesudah material sampe ke tempat anda atau di ucap dengan istilah COD (Cash On Delivery). Anda juga dapat konsultasi atau perundingan dengan kami via no telepon yang ada di situs ini.
 

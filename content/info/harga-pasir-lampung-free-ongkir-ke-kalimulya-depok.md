@@ -119,7 +119,7 @@ Berikut List Harga Bahan Material Terbaru yang kami jual.
 
 ## Cara Pemesanan Pasir Free Biaya Pengiriman dan Kuli Di Kalimulya Depok
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Sesudah anda memahami model - model Ragam Pasir mulai kini anda harus akurat dalam memilih jenis pasir yang akan kalian gunakan untuk membangun sebuah Konstruksi. Seandainya anda hendak membeli pasir dari kami Cara Pengorderan nya yaitu dengan sms data domisili lengkap dan nomor handphond saja, kami akan langsung mengirimnya ke lokasi proyek anda tanpa ada tambahan ongkos apapun. Harga yang kami berikan merupakan sudah termasuk ongkos kirim dan bongkar jadi anda tak perlu khawatir dengan pembengkakan biaya lagi. Sistem pembayaran yang kami terapkan juga sangat aman, ialah anda bayar sesudah material terkirim ke tempat anda atau di sebut dengan istilah COD (Cash On Delivery). Anda juga bisa konsultasi atau diplomasi dengan kami melewati no telepon yang ada di situs ini.
 

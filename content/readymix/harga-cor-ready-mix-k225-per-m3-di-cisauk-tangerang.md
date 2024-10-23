@@ -33,7 +33,7 @@ Beton Ready mix mutu ini adalah kualitas beton Ready mix yg didesign khusus utk 
 
 ### Beton Ready mix K375 sd K500 dan Harganya Di Cisauk Tangerang
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/MVuQWwYFCiA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/MVuQWwYFCiA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Kwalitas beton Readymix yang terkhir ialah kualitas beton yang didesaian khusus utk pekerjaan ekspress lazim disebut juga dengan beton fast track yaitu kwalitas beton Readymix yang dapat kering hanya dalam beberapa hari saja. Harganya malahan cukup mahal utk K375 sendiri per m3nya 1.000.000, K400 harganya 1.200.000 per kubik dan K500 1.400.000 per m3nya. Kwalitas-kwalitas beton tersebut digunakna pada pengecoran jalan rigit yg akan diaplikasikan bebera hari kemudian atau pada pengecoran jembatan dan bendungan serta pengecoran dalam air.
 

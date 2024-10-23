@@ -63,7 +63,7 @@ Baja ringan SNI ditawarkan dengan hitungan harga sesuai dengan ketebalan dan dih
 
 ## Cara Pemesanan Bondek, Wiremesh Dan Baja Ringan Di Binuang Serang
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/RlgIAwKCWFI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/RlgIAwKCWFI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Kalau anda berencana mengorder material lewat Harga Bondek Wiremesh Baja Ringan Kirim Ke Binuang Serang online maka salah satunya dapat menggunakan sistem pembayaran bayar ditempat. Dimana cara Bayar Setelah sampe, pembeli seharusnya membayar orderan dengan pembayaran tunai ketika barang yang diorder tiba di lokasi tujuan. Berikut ini akan diterangkan langkah pengorderan bondek, wiremesh dan baja ringan secara COD yang wajib anda ketahui.
 

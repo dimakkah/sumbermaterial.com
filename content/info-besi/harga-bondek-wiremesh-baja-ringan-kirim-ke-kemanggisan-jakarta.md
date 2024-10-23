@@ -63,7 +63,7 @@ Baja ringan SNI dijual dengan hitungan harga pas dengan ketebalan dan dihitung p
 
 ## System Pengorderan Bondek, Wiremesh Dan Baja Ringan Di Kemanggisan Jakarta
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/RlgIAwKCWFI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/RlgIAwKCWFI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Apabila anda berencana membeli bahan bangunan melewati Harga Bondek Wiremesh Baja Ringan Kirim Ke Kemanggisan Jakarta online karenanya salah satunya dapat menerapkan metode pembayaran Bayar Setelah sampe. Dimana metode bayar ditempat, pembeli sepatutnya membayar pesanan dengan pembayaran tunai saat barang yang dipesan sampai di tempat tujuan. Berikut ini akan ditunjukkan langkah pembelian bondek, wiremesh dan baja ringan secara COD yang wajib anda ketahui.
 

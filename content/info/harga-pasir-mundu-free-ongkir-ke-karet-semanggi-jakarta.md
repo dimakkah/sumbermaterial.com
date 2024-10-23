@@ -119,7 +119,7 @@ Berikut ini List Harga Bahan Bangunan Terbaru yang kami jual.
 
 ## Cara Pengorderan Pasir Free Biaya Pengiriman dan Kuli Di Karet Semanggi Jakarta
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Setelah anda mengenal Tipe - Ragam model Pasir mulai sekarang kalian harus akurat di dalam memilih macam pasir yg akan anda pakai untuk membangun sebuah Bangunan. Jikalau anda mau membeli pasir dari kami Metode Pengorderan nya merupakan dengan Email data domisili lengkap dan nomor handphond saja, kami akan seketika mengirimnya ke lokasi proyek anda tanpa ada tambahan biaya apapun. Harga yang kami berikan ialah sudah termasuk ongkir dan bongkar jadi anda tidak perlu khawatir dengan penambahan ongkos lagi. Metode pembayaran yang kami terapkan juga betul-betul aman, ialah anda bayar setelah material sampai ke lokasi anda atau di sebut dengan istilah COD (Cash On Delivery). Anda juga bisa konsultasi atau negosiasi dengan kami melalui no telepon yang ada di situs ini.
 

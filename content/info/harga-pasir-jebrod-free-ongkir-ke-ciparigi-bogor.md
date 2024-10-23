@@ -119,7 +119,7 @@ Berikut ini List Harga Bahan Material Alam Terbaru yang kami jual.
 
 ## Metode Pemesanan Pasir Gratis Ongkos Kirim dan Penurunan Di Ciparigi Bogor
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Sesudah kamu mengetahui Ragam - model Macam Pasir mulai sekarang anda semestinya teliti di dalam memilih ragam pasir yang akan anda gunakan untuk membangun sebuah Konstruksi Bangunan. Kalau anda akan membeli pasir dari kami Metode Pengorderan nya yaitu dengan sms data alamat komplit dan nomor telepon saja, kami akan seketika mengirimnya ke lokasi proyek anda tanpa ada tambahan ongkos apa saja. Harga yang kami berikan adalah telah termasuk biaya pengiriman dan bongkar jadi anda tidak perlu kuatir dengan pembengkakan harga lagi. Sistem pembayaran yang kami terapkan juga benar-benar aman, yaitu anda bayar sesudah material sampe ke tempat anda atau di ucap dengan istilah COD (Cash On Delivery). Anda juga dapat konsultasi atau negosiasi dengan kami lewat no telepon yang ada di web ini.
 

@@ -119,7 +119,7 @@ Berikut Price List Harga Bahan Bangunan Termurah yang kami jual.
 
 ## Cara Pemesanan Pasir Free Biaya Pengiriman dan Penurunan Di Rangkapan Jaya Depok
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Setelah anda memahami model - Ragam Macam Pasir mulai sekarang kalian mesti cermat dalam memilih macam pasir yang akan kalian pakai untuk membangun sebuah Konstruksi Bangunan. Kalau anda berencana membeli pasir dari kami Cara Pengorderan nya adalah dengan Email data alamat lengkap dan nomor handphond saja, kami akan seketika mengirimnya ke lokasi proyek anda dengan tanpa tambahan biaya apapun. Harga yang kami berikan merupakan sudah termasuk ongkir dan tumpah jadi anda tak perlu khawatir dengan pembengkakan biaya lagi. Cara pembayaran yang kami terapkan juga amat aman, merupakan anda bayar sesudah material terkirim ke lokasi anda atau di sebut dengan istilah COD (Cash On Delivery). Anda juga dapat konsultasi atau perundingan dengan kami via no telepon yang ada di website ini.
 

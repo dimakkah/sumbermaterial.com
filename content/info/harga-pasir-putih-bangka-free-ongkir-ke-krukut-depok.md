@@ -119,7 +119,7 @@ Berikut Price List Harga Bahan Bangunan Terlengkap yang kami jual.
 
 ## Metode Pemesanan Pasir Free Biaya Pengiriman dan Bongkar Di Krukut Depok
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Sesudah anda mengenal Jenis - model Macam Pasir mulai sekarang kamu wajib cermat di dalam memilih jenis pasir yang akan anda manfaatkan untuk membangun sebuah Konstruksi Bangunan. Sekiranya anda hendak membeli pasir dari kami Sistem Pengorderan nya adalah dengan memberikan data alamat komplit dan nomor telepon saja, kami akan langsung mengirimnya ke lokasi proyek anda tanpa ada tambahan ongkos apa saja. Harga yang kami berikan adalah telah termasuk biaya pengiriman dan tumpah jadi anda tidak perlu kuatir dengan pembengkakan harga lagi. Metode pembayaran yang kami terapkan juga benar-benar aman, yakni anda bayar setelah material terkirim ke lokasi anda atau di sebut dengan istilah COD (Cash On Delivery). Anda juga dapat konsultasi atau perundingan dengan kami via no telepon yang ada di situs ini.
 

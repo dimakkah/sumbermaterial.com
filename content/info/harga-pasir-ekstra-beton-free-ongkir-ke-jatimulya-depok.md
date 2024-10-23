@@ -119,7 +119,7 @@ Berikut List Harga Bahan Material Terupdate yang kami jual.
 
 ## Sistem Pemesanan Pasir Bebas Ongkir dan Kuli Di Jatimulya Depok
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Sesudah anda memahami Tipe - model Jenis Pasir mulai sekarang kamu seharusnya teliti dalam memilih ragam pasir yang akan kalian pergunakan untuk membangun sebuah Bangunan. Sekiranya anda hendak membeli pasir dari kami Sistem Pemesanan nya yaitu dengan Email data alamat komplit dan nomor HP saja, kami akan langsung mengirimnya ke lokasi proyek anda tanpa ada tambahan ongkos apapun. Harga yang kami berikan ialah sudah termasuk biaya pengiriman dan bongkar jadi anda tidak perlu kuatir dengan pembengkakan biaya lagi. Metode pembayaran yang kami terapkan juga betul-betul aman, ialah anda bayar setelah material sampe ke lokasi anda atau di ucap dengan istilah COD (Cash On Delivery). Anda juga dapat konsultasi atau diplomasi dengan kami lewat no telepon yang ada di website ini.
 

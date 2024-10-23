@@ -119,7 +119,7 @@ Berikut Daftar Harga Bahan Material Terbaru yang kami jual.
 
 ## Sistem Pengorderan Pasir Gratis Ongkir dan Bongkar Di Johar Baru Jakarta
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Setelah kamu mengetahui Ragam - Tipe model Pasir mulai sekarang anda harus cermat dalam memilih macam pasir yang akan anda gunakan untuk membangun sebuah Konstruksi Bangunan. Sekiranya anda berencana membeli pasir dari kami Sistem Pengorderan nya merupakan dengan Email data alamat komplit dan nomor handphond saja, kami akan seketika mengirimnya ke lokasi proyek anda dengan tanpa tambahan biaya apa saja. Harga yang kami berikan yakni telah termasuk ongkos kirim dan tumpah jadi anda tidak perlu kuatir dengan pembengkakan biaya lagi. Cara pembayaran yang kami terapkan juga sangat aman, adalah anda bayar setelah material sampai ke daerah anda atau di ucap dengan istilah COD (Cash On Delivery). Anda juga dapat konsultasi atau negosiasi dengan kami melalui no telepon yang ada di web ini.
 

@@ -63,7 +63,7 @@ Baja ringan SNI dijual dengan hitungan harga selaras dengan ketebalan dan dihitu
 
 ## Sistem Pemesanan Bondek, Wiremesh Dan Baja Ringan Di Cipayung Depok
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/RlgIAwKCWFI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/RlgIAwKCWFI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Kalau anda berencana mengorder material melewati Harga Bondek Wiremesh Baja Ringan Kirim Ke Cipayung Depok online maka salah satunya bisa memakai cara pembayaran COD. Dimana metode COD, pembeli wajib membayar pesanan dengan pembayaran tunai saat barang yang dipesan sampai di tempat tujuan. Berikut ini akan dijelaskan langkah pembelian bondek, wiremesh dan baja ringan secara COD yang wajib anda ketahui.
 

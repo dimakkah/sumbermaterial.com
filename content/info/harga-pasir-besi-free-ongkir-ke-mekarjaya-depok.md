@@ -119,7 +119,7 @@ Berikut Urutan Harga Bahan Material Terupdate yang kami jual.
 
 ## Sistem Pemesanan Pasir Free Ongkir dan Kuli Di Mekarjaya Depok
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Setelah kalian memahami Tipe - Macam model Pasir mulai sekarang anda semestinya teliti dalam memilih tipe pasir yg akan anda manfaatkan untuk membangun sebuah Bangunan. Sekiranya anda hendak membeli pasir dari kami Cara Pengorderan nya merupakan dengan whatsapp data domisili komplit dan nomor handphond saja, kami akan lantas mengirimnya ke lokasi proyek anda dengan tidak ada tambahan biaya apapun. Harga yang kami berikan yaitu sudah termasuk biaya pengiriman dan penurunan jadi anda tidak perlu kuatir dengan penambahan biaya lagi. Sistem pembayaran yang kami terapkan juga sungguh-sungguh aman, yaitu anda bayar sesudah material sampe ke lokasi anda atau di ucap dengan istilah COD (Cash On Delivery). Anda juga bisa konsultasi atau diplomasi dengan kami lewat no telepon yang ada di web ini.
 

@@ -51,7 +51,7 @@ Setiap orang pasti menginginkan memiliki rumah yang bermutu bagus dan nyaman. Ki
 
 ## Metode Pemesanan Besi Beton Per Batang Di Kebon Kosong Jakarta
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/RlgIAwKCWFI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/RlgIAwKCWFI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Sekarang setiap dari anda tentunya telah tahu manfaat utama besi, wf, hollow mulai digunakan untuk membikin tulangan beton, kanopi, pagar rumah dan lainnya. Seiring perkembanganya batu batu kini sudah ada besi, wf, hollow dengan berbagai ukuran dan kualitas. Bila dikala ini anda memiliki rencana untuk membangun sebuah rumah idaman dan membutuhkan bahan besi, wf, hollow. Karenanya silahkan memesan besi, wf, hollow kepada kami selaku penyedia bahan besi, wf, hollow yang berkwalitas dan terpercaya.
 

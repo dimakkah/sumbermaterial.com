@@ -119,7 +119,7 @@ Berikut ini List Harga Bahan Bangunan Free Ongkir yang kami jual.
 
 ## Metode Pemesanan Pasir Bebas Biaya Pengiriman dan Kuli Di Batutulis Bogor
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Sesudah anda memahami model - Jenis Jenis Pasir mulai sekarang kalian sepatutnya teliti dalam memilih jenis pasir yg akan kalian pergunakan untuk membangun sebuah Konstruksi Bangunan. Bila anda hendak membeli pasir dari kami Sistem Pemesanan nya merupakan dengan memberikan data domisili komplit dan nomor handphond saja, kami akan seketika mengirimnya ke lokasi proyek anda dengan tanpa tambahan biaya apa saja. Harga yang kami berikan adalah telah termasuk ongkos kirim dan penurunan jadi anda tidak perlu kuatir dengan pembengkakan harga lagi. Cara pembayaran yang kami terapkan juga benar-benar aman, yaitu anda bayar setelah material terkirim ke daerah anda atau di sebut dengan istilah COD (Cash On Delivery). Anda juga dapat konsultasi atau diplomasi dengan kami melalui no telepon yang ada di situs ini.
 

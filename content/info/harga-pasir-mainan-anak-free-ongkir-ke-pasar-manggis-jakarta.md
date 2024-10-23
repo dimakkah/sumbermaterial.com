@@ -119,7 +119,7 @@ Berikut Urutan Harga Bahan Material Alam Terlengkap yang kami jual.
 
 ## Sistem Pengorderan Pasir Bebas Ongkos Kirim dan Kuli Di Pasar Manggis Jakarta
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Sesudah kalian mengetahui Tipe - model Tipe Pasir mulai kini anda semestinya cermat di dalam memilih ragam pasir yang akan anda manfaatkan untuk membangun sebuah Konstruksi. Kalau anda berencana membeli pasir dari kami Cara Pengorderan nya yaitu dengan whatsapp data alamat komplit dan nomor telepon saja, kami akan segera mengirimnya ke lokasi proyek anda dengan tidak ada tambahan biaya apa saja. Harga yang kami berikan ialah telah termasuk biaya pengiriman dan penurunan jadi anda tidak perlu kuatir dengan penambahan biaya lagi. Cara pembayaran yang kami terapkan juga sangat aman, merupakan anda bayar setelah material sampai ke daerah anda atau di ucap dengan istilah COD (Cash On Delivery). Anda juga bisa konsultasi atau negosiasi dengan kami melewati no telepon yang ada di website ini.
 

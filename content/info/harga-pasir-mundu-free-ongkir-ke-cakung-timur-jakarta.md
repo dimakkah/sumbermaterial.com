@@ -160,7 +160,7 @@ Berikut Urutan Harga Bahan Bangunan Terlengkap yang kami jual.
 
 ## Sistem Pemesanan Pasir Bebas Ongkos Kirim dan Bongkar Di Cakung Timur Jakarta
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Setelah kamu mengetahui Jenis - Jenis Ragam Pasir mulai kini kalian harus akurat dalam memilih model pasir yg akan anda pakai untuk membangun sebuah Konstruksi. Jika anda berencana membeli pasir dari kami Sistem Pemesanan nya yaitu dengan Email data domisili lengkap dan nomor handphond saja, kami akan langsung mengirimnya ke lokasi proyek anda dengan tidak ada tambahan ongkos apapun. Harga yang kami berikan yaitu telah termasuk ongkos kirim dan bongkar jadi anda tak perlu cemas dengan penambahan harga lagi. Metode pembayaran yang kami terapkan juga amat aman, ialah anda bayar sesudah material sampai ke lokasi anda atau di sebut dengan istilah COD (Cash On Delivery). Anda juga dapat konsultasi atau negosiasi dengan kami melalui no telepon yang ada di website ini.
 

@@ -55,7 +55,7 @@ Bila diperbandingkan dg material bangunan lainnya, batako press memiliki harga s
 
 ## System Pembelian Bata Merah, Batako & Hebel Di Sindangsari Bogor
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/IEs5XPt-xyU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/IEs5XPt-xyU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Segalanya tentu sudah tahu kegunaan utama batu bata mulai diterapkan untuk membuat tembok, pagar rumah dan lainnya. Bersamaan dengan perkembangannya batu batu kini telah ada batu bata merah, batako press hitam dan herbel. Bila dikala ini anda mempunyai agenda untuk membuat sebuah gedung yg idam-idamkan|impian|masa depan} dan membutuhkan material batu bata. Karenanya silahkan memesan batu bata terhadap toko penyedia bahan batu bata yang bermutu dan terpercaya.
 

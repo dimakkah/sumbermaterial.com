@@ -119,7 +119,7 @@ Berikut ini Price List Harga Bahan Material Alam Free Ongkir yang kami jual.
 
 ## Metode Pemesanan Pasir Gratis Ongkos Kirim dan Kuli Di Kamal Muara Jakarta
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Setelah anda memahami Ragam - model model Pasir mulai kini kalian patut teliti dalam memilih tipe pasir yg akan anda manfaatkan untuk membangun sebuah Bangunan. Jikalau anda hendak membeli pasir dari kami Cara Pengorderan nya yaitu dengan whatsapp data alamat lengkap dan nomor handphond saja, kami akan lantas mengirimnya ke lokasi proyek anda tanpa ada tambahan ongkos apapun. Harga yang kami berikan adalah sudah termasuk ongkir dan tumpah jadi anda tak perlu cemas dengan pembengkakan ongkos lagi. Cara pembayaran yang kami terapkan juga sungguh-sungguh aman, ialah anda bayar sesudah material sampe ke lokasi anda atau di ucap dengan istilah COD (Cash On Delivery). Anda juga bisa konsultasi atau perundingan dengan kami lewat no telepon yang ada di laman ini.
 

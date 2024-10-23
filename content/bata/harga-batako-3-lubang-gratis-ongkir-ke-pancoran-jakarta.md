@@ -55,7 +55,7 @@ Sekiranya diperbandingkan dengan bahan bangunan lainnya, batako trus memiliki ha
 
 ## System Pengorderan Bata Merah, Batako & Hebel Di Pancoran Jakarta
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/IEs5XPt-xyU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/IEs5XPt-xyU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Seluruhnya tentu sudah tahu kegunaan utama batu bata mulai diaplikasikan untuk membuat tembok, pagar gedung dan lainnya. Seiring perkembangannya batu batu kini telah ada batu bata merah, batako trus hitam dan herbel. Sekiranya sekarang ini anda memiliki rencana untuk membuat sebuah rumah yang idam-idamkan|impian|masa depan} dan memerlukan material batu bata. Maka silahkan memesan batu bata terhadap warung penyedia material batu bata yg berkualitas dan terpercaya.
 

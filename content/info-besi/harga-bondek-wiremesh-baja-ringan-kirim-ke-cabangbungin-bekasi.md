@@ -63,7 +63,7 @@ Baja ringan SNI ditawarkan dengan hitungan harga selaras dengan ketebalan dan di
 
 ## Cara Pembelian Bondek, Wiremesh Dan Baja Ringan Di Cabangbungin Bekasi
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/RlgIAwKCWFI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/RlgIAwKCWFI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Kalau anda berencana membeli bahan bangunan lewat Harga Bondek Wiremesh Baja Ringan Kirim Ke Cabangbungin Bekasi online karenanya salah satunya bisa menggunakan metode pembayaran bayar ditempat. Dimana cara bayar ditempat, pembeli seharusnya membayar orderan dengan pembayaran tunai ketika barang yang diorder tiba di tempat tujuan. Berikut ini akan dijelaskan langkah pembelian bondek, wiremesh dan baja ringan secara COD yang perlu anda ketahui.
 

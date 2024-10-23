@@ -63,7 +63,7 @@ Baja ringan SNI dijual dengan hitungan harga selaras dengan ketebalan dan dihitu
 
 ## Sistem Order Bondek, Wiremesh Dan Baja Ringan Di Beji Depok
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/RlgIAwKCWFI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/RlgIAwKCWFI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Kalau anda berencana membeli bahan bangunan lewat Harga Bondek Wiremesh Baja Ringan Kirim Ke Beji Depok online maka salah satunya dapat menggunakan cara pembayaran bayar ditempat. Dimana metode COD, pembeli harus membayar pesanan dengan pembayaran tunai ketika barang yang dipesan tiba di tempat tujuan. Berikut ini akan digambarkan langkah pemesanan bondek, wiremesh dan baja ringan secara COD yang wajib anda kenal.
 

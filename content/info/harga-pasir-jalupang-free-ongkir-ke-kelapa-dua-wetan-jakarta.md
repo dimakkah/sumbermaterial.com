@@ -160,7 +160,7 @@ Berikut Price List Harga Bahan Material Terlengkap yang kami jual.
 
 ## Metode Pemesanan Pasir Bebas Ongkos Kirim dan Bongkar Di Kelapa Dua Wetan Jakarta
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Sesudah anda mengetahui Jenis - Ragam model Pasir mulai kini kamu sepatutnya teliti di dalam memilih macam pasir yang akan anda pergunakan untuk membangun sebuah Konstruksi. Jika anda akan membeli pasir dari kami Cara Pengorderan nya yaitu dengan memberikan data alamat komplit dan nomor HP saja, kami akan seketika mengirimnya ke lokasi proyek anda tanpa ada tambahan biaya apapun. Harga yang kami berikan yaitu telah termasuk ongkir dan bongkar jadi anda tak perlu cemas dengan penambahan harga lagi. Cara pembayaran yang kami terapkan juga benar-benar aman, yaitu anda bayar sesudah material sampe ke tempat anda atau di sebut dengan istilah COD (Cash On Delivery). Anda juga bisa konsultasi atau perundingan dengan kami via no telepon yang ada di laman ini.
 

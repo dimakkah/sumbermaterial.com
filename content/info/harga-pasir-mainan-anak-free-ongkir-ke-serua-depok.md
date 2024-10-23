@@ -119,7 +119,7 @@ Berikut List Harga Bahan Material Terbaru yang kami jual.
 
 ## Sistem Pengorderan Pasir Bebas Biaya Pengiriman dan Penurunan Di Serua Depok
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Sesudah anda memahami Jenis - Ragam model Pasir mulai kini kamu mesti cermat di dalam memilih ragam pasir yang akan anda pergunakan untuk membangun sebuah Konstruksi Bangunan. Kalau anda akan membeli pasir dari kami Cara Pengorderan nya yaitu dengan whatsapp data domisili komplit dan nomor telepon saja, kami akan lantas mengirimnya ke lokasi proyek anda dengan tidak ada tambahan biaya apapun. Harga yang kami berikan ialah telah termasuk ongkos kirim dan penurunan jadi anda tidak perlu khawatir dengan pembengkakan ongkos lagi. Cara pembayaran yang kami terapkan juga sungguh-sungguh aman, adalah anda bayar setelah material sampe ke daerah anda atau di sebut dengan istilah COD (Cash On Delivery). Anda juga dapat konsultasi atau negosiasi dengan kami melewati no telepon yang ada di website ini.
 

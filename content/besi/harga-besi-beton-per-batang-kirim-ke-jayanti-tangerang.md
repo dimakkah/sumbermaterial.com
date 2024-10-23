@@ -51,7 +51,7 @@ Seluruh orang pasti menginginkan mempunyai rumah yang berkualitas baik dan nyama
 
 ## Cara Beli Besi Beton Per Batang Di Jayanti Tangerang
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/RlgIAwKCWFI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/RlgIAwKCWFI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Sekarang semua dari anda tentunya telah tahu guna utama besi, wf, hollow mulai diaplikasikan untuk membuat tulangan beton, kanopi, pagar rumah dan lainnya. Seiring perkembanganya batu batu sekarang sudah ada besi, wf, hollow dengan berbagai ukuran dan kualitas. Jikalau dikala ini anda memiliki rencana untuk membangun sebuah rumah idaman dan memerlukan bahan besi, wf, hollow. Maka silahkan memesan besi, wf, hollow terhadap kami selaku penyedia bahan besi, wf, hollow yang bermutu dan terpercaya.
 

@@ -119,7 +119,7 @@ Berikut Urutan Harga Bahan Material Alam Terlengkap yang kami jual.
 
 ## Metode Pengorderan Pasir Free Ongkos Kirim dan Penurunan Di Tebet Jakarta
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Sesudah kalian mengenal Jenis - Macam Ragam Pasir mulai kini kamu harus teliti dalam memilih jenis pasir yg akan kamu pakai untuk membangun sebuah Konstruksi. Seandainya anda mau membeli pasir dari kami Sistem Pengorderan nya adalah dengan Email data domisili komplit dan nomor handphond saja, kami akan seketika mengirimnya ke lokasi proyek anda tanpa ada tambahan ongkos apapun. Harga yang kami berikan yakni telah termasuk ongkos kirim dan bongkar jadi anda tidak perlu cemas dengan penambahan ongkos lagi. Sistem pembayaran yang kami terapkan juga betul-betul aman, ialah anda bayar sesudah material sampai ke daerah anda atau di sebut dengan istilah COD (Cash On Delivery). Anda juga bisa konsultasi atau diplomasi dengan kami lewat no telepon yang ada di laman ini.
 

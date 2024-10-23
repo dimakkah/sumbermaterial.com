@@ -63,7 +63,7 @@ Baja ringan SNI dijual dengan hitungan harga sesuai dengan ketebalan dan dihitun
 
 ## Cara Pemesanan Bondek, Wiremesh Dan Baja Ringan Di Cirinten Rangkasbitung
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/RlgIAwKCWFI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/RlgIAwKCWFI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Apabila anda berencana memesan material melewati Harga Bondek Wiremesh Baja Ringan Kirim Ke Cirinten Rangkasbitung online maka salah satunya dapat mengaplikasikan metode pembayaran bayar ditempat. Dimana metode COD, pembeli patut membayar pesanan dengan pembayaran tunai saat barang yang dipesan tiba di lokasi tujuan. Dibawah ini akan dibeberkan langkah pengorderan bondek, wiremesh dan baja ringan secara COD yang perlu anda kenal.
 

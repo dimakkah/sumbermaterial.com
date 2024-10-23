@@ -63,7 +63,7 @@ Baja ringan SNI ditawarkan dengan hitungan harga pas dengan ketebalan dan dihitu
 
 ## System Pemesanan Bondek, Wiremesh Dan Baja Ringan Di Kebon Bawang Jakarta
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/RlgIAwKCWFI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/RlgIAwKCWFI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Apabila anda berencana mengorder material lewat Harga Bondek Wiremesh Baja Ringan Kirim Ke Kebon Bawang Jakarta online karenanya salah satunya bisa mengaplikasikan metode pembayaran bayar ditempat. Dimana cara bayar ditempat, pembeli mesti membayar orderan dengan pembayaran tunai saat barang yang diorder sampai di lokasi tujuan. Berikut ini akan digambarkan langkah pengorderan bondek, wiremesh dan baja ringan secara COD yang perlu anda kenal.
 

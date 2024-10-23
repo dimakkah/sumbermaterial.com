@@ -63,7 +63,7 @@ Baja ringan SNI dijual dengan hitungan harga sesuai dengan ketebalan dan dihitun
 
 ## System Pembelian Bondek, Wiremesh Dan Baja Ringan Di Cilincing Jakarta
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/RlgIAwKCWFI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/RlgIAwKCWFI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Apabila anda berencana mengorder material melalui Harga Bondek Wiremesh Baja Ringan Kirim Ke Cilincing Jakarta online karenanya salah satunya dapat menerapkan metode pembayaran COD. Dimana metode COD, pembeli mesti membayar orderan dengan pembayaran tunai ketika barang yang diorder sampai di tempat tujuan. Berikut ini akan diterangkan langkah pembelian bondek, wiremesh dan baja ringan secara COD yang wajib anda kenal.
 

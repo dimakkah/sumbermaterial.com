@@ -67,7 +67,7 @@ Urugan yg satu ini ialah jenis urukan yg khusus dipergunakan utk pemadatan jalan
 
 ## Toko Material Urukan Di Baranangsiang
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/xyK39kGeskE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/xyK39kGeskE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 **Daftar Harga Harga Urugan Sirtu Free Ongkir Ke Baranangsiang**
 

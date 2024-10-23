@@ -63,7 +63,7 @@ Baja ringan SNI ditawarkan dengan hitungan harga selaras dengan ketebalan dan di
 
 ## Metode Pengorderan Bondek, Wiremesh Dan Baja Ringan Di Cilograng Rangkasbitung
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/RlgIAwKCWFI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/RlgIAwKCWFI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Apabila anda berencana memesan bahan bangunan melewati Harga Bondek Wiremesh Baja Ringan Kirim Ke Cilograng Rangkasbitung online maka salah satunya dapat menerapkan cara pembayaran COD. Dimana sistem bayar ditempat, pembeli sepatutnya membayar orderan dengan pembayaran tunai ketika barang yang dipesan sampai di tempat tujuan. Dibawah ini akan diterangkan langkah pengorderan bondek, wiremesh dan baja ringan secara COD yang perlu anda ketahui.
 

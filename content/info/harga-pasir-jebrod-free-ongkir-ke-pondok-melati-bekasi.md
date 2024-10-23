@@ -160,7 +160,7 @@ Dibawah ini List Harga Bahan Bangunan Termurah yang kami jual.
 
 ## Metode Pengorderan Pasir Bebas Ongkir dan Penurunan Di Pondok Melati Bekasi
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Sesudah anda mengenal Ragam - model Tipe Pasir mulai kini kalian semestinya akurat di dalam memilih ragam pasir yg akan anda manfaatkan untuk membangun sebuah Bangunan. Jika anda berencana membeli pasir dari kami Cara Pengorderan nya yakni dengan sms data alamat komplit dan nomor telepon saja, kami akan lantas mengirimnya ke lokasi proyek anda dengan tanpa tambahan biaya apa saja. Harga yang kami berikan yaitu sudah termasuk biaya pengiriman dan tumpah jadi anda tak perlu khawatir dengan pembengkakan harga lagi. Sistem pembayaran yang kami terapkan juga amat aman, adalah anda bayar setelah material sampe ke tempat anda atau di ucap dengan istilah COD (Cash On Delivery). Anda juga dapat konsultasi atau negosiasi dengan kami melalui no telepon yang ada di situs ini.
 

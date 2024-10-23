@@ -63,7 +63,7 @@ Baja ringan SNI dijual dengan hitungan harga pas dengan ketebalan dan dihitung p
 
 ## System Pemesanan Bondek, Wiremesh Dan Baja Ringan Di Cimanggis Depok
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/RlgIAwKCWFI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/RlgIAwKCWFI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Kalau anda berencana membeli material melalui Harga Bondek Wiremesh Baja Ringan Kirim Ke Cimanggis Depok online maka salah satunya bisa menggunakan sistem pembayaran bayar ditempat. Dimana metode Bayar Setelah sampe, pembeli harus membayar pesanan dengan pembayaran tunai ketika barang yang diorder tiba di lokasi tujuan. Berikut ini akan diterangkan langkah pembelian bondek, wiremesh dan baja ringan secara COD yang perlu anda ketahui.
 

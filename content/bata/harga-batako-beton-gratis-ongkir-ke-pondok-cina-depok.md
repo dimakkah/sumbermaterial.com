@@ -55,7 +55,7 @@ Jikalau diperbandingkan dg material bangunan lainnya, batako press memiliki harg
 
 ## System Beli Bata Merah, Batako & Hebel Di Pondok Cina Depok
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/IEs5XPt-xyU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/IEs5XPt-xyU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Seluruhnya tentu telah tahu kegunaan utama batu bata mulai dipakai untuk membikin tembok, pagar gedung dan lainnya. Sejalan perkembangannya batu batu sekarang sudah ada batu bata merah, batako press hitam dan bata ringan. Seandainya saat ini anda memiliki agenda untuk membangun sebuah bangunan yg idam-idamkan|impian|masa depan} dan membutuhkan material batu bata. Karenanya silahkan mengorder batu bata kepada warung penyedia material batu bata yang berkwalitas dan terpercaya.
 

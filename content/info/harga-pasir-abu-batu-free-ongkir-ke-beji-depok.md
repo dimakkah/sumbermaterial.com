@@ -160,7 +160,7 @@ Berikut Price List Harga Bahan Bangunan Terlengkap yang kami jual.
 
 ## Sistem Pemesanan Pasir Bebas Ongkir dan Kuli Di Beji Depok
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Sesudah kalian mengetahui Jenis - Tipe Jenis Pasir mulai kini anda harus akurat dalam memilih macam pasir yang akan anda pergunakan untuk membangun sebuah Konstruksi. Kalau anda hendak membeli pasir dari kami Sistem Pengorderan nya merupakan dengan sms data domisili lengkap dan nomor HP saja, kami akan segera mengirimnya ke lokasi proyek anda dengan tidak ada tambahan ongkos apapun. Harga yang kami berikan yakni sudah termasuk ongkos kirim dan penurunan jadi anda tidak perlu kuatir dengan penambahan ongkos lagi. Cara pembayaran yang kami terapkan juga betul-betul aman, yaitu anda bayar sesudah material terkirim ke daerah anda atau di sebut dengan istilah COD (Cash On Delivery). Anda juga bisa konsultasi atau negosiasi dengan kami lewat no telepon yang ada di web ini.
 

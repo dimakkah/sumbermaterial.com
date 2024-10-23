@@ -119,7 +119,7 @@ Berikut ini Daftar Harga Bahan Material Alam Terupdate yang kami jual.
 
 ## Metode Pengorderan Pasir Gratis Ongkir dan Kuli Di Sumur Batu Jakarta
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Sesudah kalian mengenal Jenis - Ragam Jenis Pasir mulai kini kamu sepatutnya akurat dalam memilih macam pasir yg akan kalian pergunakan untuk membangun sebuah Konstruksi Bangunan. Jikalau anda akan membeli pasir dari kami Metode Pengorderan nya yaitu dengan whatsapp data alamat komplit dan nomor telepon saja, kami akan seketika mengirimnya ke lokasi proyek anda dengan tanpa tambahan biaya apa saja. Harga yang kami berikan ialah sudah termasuk ongkir dan bongkar jadi anda tak perlu khawatir dengan pembengkakan biaya lagi. Metode pembayaran yang kami terapkan juga sangat aman, adalah anda bayar sesudah material terkirim ke lokasi anda atau di sebut dengan istilah COD (Cash On Delivery). Anda juga dapat konsultasi atau negosiasi dengan kami lewat no telepon yang ada di situs ini.
 

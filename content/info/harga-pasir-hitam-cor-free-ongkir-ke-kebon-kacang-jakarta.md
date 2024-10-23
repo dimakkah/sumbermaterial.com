@@ -119,7 +119,7 @@ Dibawah ini Daftar Harga Bahan Material Alam Terupdate yang kami jual.
 
 ## Cara Pengorderan Pasir Gratis Ongkos Kirim dan Bongkar Di Kebon Kacang Jakarta
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Setelah kalian mengetahui Macam - model Tipe Pasir mulai kini anda sepatutnya akurat di dalam memilih macam pasir yg akan kamu pakai untuk membangun sebuah Bangunan. Kalau anda akan membeli pasir dari kami Metode Pemesanan nya adalah dengan whatsapp data domisili lengkap dan nomor handphond saja, kami akan lantas mengirimnya ke lokasi proyek anda dengan tidak ada tambahan biaya apa saja. Harga yang kami berikan yakni telah termasuk ongkos kirim dan tumpah jadi anda tidak perlu cemas dengan pembengkakan biaya lagi. Metode pembayaran yang kami terapkan juga sungguh-sungguh aman, ialah anda bayar sesudah material sampai ke tempat anda atau di ucap dengan istilah COD (Cash On Delivery). Anda juga bisa konsultasi atau perundingan dengan kami via no telepon yang ada di web ini.
 

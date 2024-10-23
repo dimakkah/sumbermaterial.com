@@ -119,7 +119,7 @@ Dibawah ini Urutan Harga Bahan Material Terlengkap yang kami jual.
 
 ## Metode Pengorderan Pasir Free Ongkir dan Kuli Di Rangkapan Jaya Depok
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Setelah anda mengenal model - Macam Ragam Pasir mulai kini anda harus cermat di dalam memilih macam pasir yang akan anda pergunakan untuk membangun sebuah Konstruksi Bangunan. Jika anda hendak membeli pasir dari kami Cara Pengorderan nya yakni dengan memberikan data alamat komplit dan nomor HP saja, kami akan seketika mengirimnya ke lokasi proyek anda tanpa ada tambahan ongkos apapun. Harga yang kami berikan ialah sudah termasuk biaya pengiriman dan tumpah jadi anda tak perlu khawatir dengan penambahan ongkos lagi. Metode pembayaran yang kami terapkan juga sangat aman, merupakan anda bayar setelah material sampai ke tempat anda atau di ucap dengan istilah COD (Cash On Delivery). Anda juga bisa konsultasi atau diplomasi dengan kami lewat no telepon yang ada di laman ini.
 

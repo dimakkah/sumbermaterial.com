@@ -55,7 +55,7 @@ Bila dibandingi dengan material bangunan lainnya, batako press mempunyai harga s
 
 ## Metode Order Bata Merah, Batako & Hebel Di Cipinang Melayu Jakarta
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/IEs5XPt-xyU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/IEs5XPt-xyU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Seluruhnya tentu telah tahu kegunaan utama batu bata mulai diaplikasikan untuk membuat tembok, pagar bangunan dan lainnya. Seiring perkembangannya batu batu kini telah ada batu bata merah, batako trus hitam dan bata ringan. Apabila saat ini anda mempunyai rencana untuk membangun sebuah bangunan yg idam-idamkan|impian|masa depan} dan membutuhkan bahan batu bata. Karenanya silahkan memesan batu bata terhadap kios penyedia bahan batu bata yang berkwalitas dan terpercaya.
 

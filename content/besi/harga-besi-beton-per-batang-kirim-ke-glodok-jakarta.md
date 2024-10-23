@@ -51,7 +51,7 @@ Seluruh orang pasti menginginkan mempunyai rumah yang berkualitas baik dan nyama
 
 ## System Pesan Besi Beton Per Batang Di Glodok Jakarta
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/RlgIAwKCWFI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/RlgIAwKCWFI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Kini setiap dari anda tentunya telah tahu manfaat utama besi, wf, hollow mulai digunakan untuk membikin tulangan beton, kanopi, pagar rumah dan lainnya. Seiring perkembanganya batu batu kini telah ada besi, wf, hollow dengan berbagai ukuran dan kualitas. Kalau dikala ini anda mempunyai agenda untuk membangun sebuah rumah impian dan memerlukan bahan besi, wf, hollow. Maka silahkan memesan besi, wf, hollow kepada kami selaku penyedia bahan besi, wf, hollow yang berkualitas dan terpercaya.
 

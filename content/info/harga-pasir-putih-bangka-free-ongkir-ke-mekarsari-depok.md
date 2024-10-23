@@ -119,7 +119,7 @@ Dibawah ini Daftar Harga Bahan Material Alam Termurah yang kami jual.
 
 ## Metode Pemesanan Pasir Free Biaya Pengiriman dan Bongkar Di Mekarsari Depok
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Sesudah anda mengenal Macam - Tipe Ragam Pasir mulai sekarang anda semestinya teliti di dalam memilih macam pasir yang akan kamu pergunakan untuk membangun sebuah Bangunan. Kalau anda hendak membeli pasir dari kami Sistem Pengorderan nya yakni dengan memberikan data alamat lengkap dan nomor handphond saja, kami akan langsung mengirimnya ke lokasi proyek anda dengan tanpa tambahan ongkos apapun. Harga yang kami berikan ialah telah termasuk ongkos kirim dan tumpah jadi anda tak perlu kuatir dengan penambahan harga lagi. Sistem pembayaran yang kami terapkan juga sungguh-sungguh aman, merupakan anda bayar setelah material sampai ke lokasi anda atau di sebut dengan istilah COD (Cash On Delivery). Anda juga bisa konsultasi atau perundingan dengan kami melalui no telepon yang ada di website ini.
 

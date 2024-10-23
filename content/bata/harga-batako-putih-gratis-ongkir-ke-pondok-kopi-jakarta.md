@@ -55,7 +55,7 @@ Jikalau dibandingi dengan material bangunan lainnya, batako mempunyai harga seki
 
 ## Sistem Beli Bata Merah, Batako & Hebel Di Pondok Kopi Jakarta
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/IEs5XPt-xyU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/IEs5XPt-xyU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Seluruhnya tentu telah tahu kegunaan utama batu bata mulai dipakai untuk membikin tembok, pagar tempat tinggal dan lainnya. Bersamaan dengan perkembangannya batu batu kini sudah ada batu bata merah, batako trus hitam dan bata ringan. Sekiranya sekarang ini anda mempunyai rencana untuk membuat sebuah rumah yg idam-idamkan|impian|masa depan} dan membutuhkan bahan batu bata. Maka silahkan memesan batu bata kepada toko penyedia bahan batu bata yang bermutu dan terpercaya.
 

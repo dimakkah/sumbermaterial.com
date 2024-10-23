@@ -55,7 +55,7 @@ Apabila diperbandingkan dengan bahan bangunan lainnya, batako trus memiliki harg
 
 ## Metode Pemesanan Bata Merah, Batako & Hebel Di Sukasari Purwakarta
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/IEs5XPt-xyU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/IEs5XPt-xyU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Semua tentunya telah tahu fungsi utama batu bata mulai dipakai untuk membikin tembok, pagar gedung dan lainnya. Bersamaan dengan perkembangannya batu batu kini telah ada batu bata merah, batako trus hitam dan herbel. Jikalau saat ini anda mempunyai agenda untuk membangun sebuah rumah yg idam-idamkan|impian|masa depan} dan memerlukan bahan batu bata. Maka silahkan mengorder batu bata kepada toko penyedia bahan batu bata yang bermutu dan terpercaya.
 

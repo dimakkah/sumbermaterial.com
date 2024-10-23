@@ -51,7 +51,7 @@ Setiap orang pasti mengharapkan mempunyai rumah yang bermutu bagus dan nyaman. K
 
 ## System Pesan Besi Beton Per Batang Di Bali Mester Jakarta
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/RlgIAwKCWFI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/RlgIAwKCWFI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Sekarang setiap dari anda tentunya sudah tahu manfaat utama besi, wf, hollow mulai digunakan untuk membikin tulangan beton, kanopi, pagar rumah dan lainnya. Seiring perkembanganya batu batu sekarang sudah ada besi, wf, hollow dengan berbagai ukuran dan kualitas. Apabila dikala ini anda memiliki rencana untuk membangun sebuah rumah idaman dan membutuhkan bahan besi, wf, hollow. Karenanya silahkan mengorder besi, wf, hollow terhadap kami selaku penyedia bahan besi, wf, hollow yang berkwalitas dan terpercaya.
 

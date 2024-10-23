@@ -63,7 +63,7 @@ Baja ringan SNI dijual dengan hitungan harga selaras dengan ketebalan dan dihitu
 
 ## Cara Pembelian Bondek, Wiremesh Dan Baja Ringan Di Karet Tengsin Jakarta
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/RlgIAwKCWFI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/RlgIAwKCWFI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Apabila anda berencana membeli bahan bangunan lewat Harga Bondek Wiremesh Baja Ringan Kirim Ke Karet Tengsin Jakarta online maka salah satunya bisa mengaplikasikan metode pembayaran bayar ditempat. Dimana metode bayar ditempat, pembeli semestinya membayar pesanan dengan pembayaran tunai saat barang yang dipesan sampai di tempat tujuan. Dibawah ini akan diterangkan langkah pengorderan bondek, wiremesh dan baja ringan secara COD yang perlu anda kenal.
 

@@ -63,7 +63,7 @@ Baja ringan SNI dijual dengan hitungan harga pas dengan ketebalan dan dihitung p
 
 ## Sistem Order Bondek, Wiremesh Dan Baja Ringan Di Mekarbaru Tangerang
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/RlgIAwKCWFI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/RlgIAwKCWFI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Apabila anda berencana mengorder bahan bangunan lewat Harga Bondek Wiremesh Baja Ringan Kirim Ke Mekarbaru Tangerang online karenanya salah satunya bisa menerapkan cara pembayaran COD. Dimana sistem COD, pembeli patut membayar pesanan dengan pembayaran tunai ketika barang yang dipesan sampai di tempat tujuan. Berikut ini akan ditunjukkan langkah pembelian bondek, wiremesh dan baja ringan secara COD yang wajib anda kenal.
 

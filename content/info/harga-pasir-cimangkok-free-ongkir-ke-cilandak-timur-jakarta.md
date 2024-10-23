@@ -160,7 +160,7 @@ Dibawah ini Daftar Harga Bahan Bangunan Terbaru yang kami jual.
 
 ## Sistem Pengorderan Pasir Gratis Ongkir dan Bongkar Di Cilandak Timur Jakarta
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Sesudah kalian mengenal model - Ragam Ragam Pasir mulai sekarang kamu patut teliti di dalam memilih macam pasir yang akan anda pergunakan untuk membangun sebuah Konstruksi Bangunan. Jikalau anda hendak membeli pasir dari kami Metode Pengorderan nya merupakan dengan memberikan data domisili komplit dan nomor handphond saja, kami akan langsung mengirimnya ke lokasi proyek anda tanpa ada tambahan ongkos apa saja. Harga yang kami berikan adalah sudah termasuk biaya pengiriman dan penurunan jadi anda tidak perlu cemas dengan penambahan biaya lagi. Sistem pembayaran yang kami terapkan juga betul-betul aman, adalah anda bayar sesudah material terkirim ke lokasi anda atau di sebut dengan istilah COD (Cash On Delivery). Anda juga bisa konsultasi atau negosiasi dengan kami melalui no telepon yang ada di website ini.
 

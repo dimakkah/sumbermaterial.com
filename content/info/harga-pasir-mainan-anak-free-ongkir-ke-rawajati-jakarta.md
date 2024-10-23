@@ -160,7 +160,7 @@ Berikut Price List Harga Bahan Material Free Ongkir yang kami jual.
 
 ## Sistem Pemesanan Pasir Free Biaya Pengiriman dan Penurunan Di Rawajati Jakarta
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Sesudah anda memahami Tipe - Ragam Ragam Pasir mulai sekarang anda patut akurat di dalam memilih macam pasir yang akan kalian pergunakan untuk membangun sebuah Konstruksi. Jika anda akan membeli pasir dari kami Metode Pemesanan nya merupakan dengan Email data domisili komplit dan nomor handphond saja, kami akan segera mengirimnya ke lokasi proyek anda dengan tanpa tambahan biaya apa saja. Harga yang kami berikan ialah telah termasuk biaya pengiriman dan penurunan jadi anda tidak perlu khawatir dengan penambahan harga lagi. Cara pembayaran yang kami terapkan juga sungguh-sungguh aman, merupakan anda bayar setelah material sampai ke lokasi anda atau di sebut dengan istilah COD (Cash On Delivery). Anda juga dapat konsultasi atau perundingan dengan kami melalui no telepon yang ada di web ini.
 

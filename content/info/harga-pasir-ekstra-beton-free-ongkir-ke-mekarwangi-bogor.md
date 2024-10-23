@@ -119,7 +119,7 @@ Berikut Price List Harga Bahan Material Alam Termurah yang kami jual.
 
 ## Cara Pemesanan Pasir Gratis Ongkir dan Kuli Di Mekarwangi Bogor
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Sesudah anda mengetahui Ragam - Jenis model Pasir mulai sekarang anda wajib akurat di dalam memilih jenis pasir yang akan kamu pergunakan untuk membangun sebuah Bangunan. Bila anda akan membeli pasir dari kami Metode Pemesanan nya yaitu dengan sms data alamat lengkap dan nomor handphond saja, kami akan lantas mengirimnya ke lokasi proyek anda dengan tanpa tambahan ongkos apa saja. Harga yang kami berikan adalah telah termasuk biaya pengiriman dan tumpah jadi anda tak perlu kuatir dengan pembengkakan biaya lagi. Cara pembayaran yang kami terapkan juga benar-benar aman, merupakan anda bayar sesudah material terkirim ke daerah anda atau di ucap dengan istilah COD (Cash On Delivery). Anda juga bisa konsultasi atau diplomasi dengan kami via no telepon yang ada di web ini.
 

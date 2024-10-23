@@ -67,7 +67,7 @@ Urukan yg satu ini yaitu variasi urukan yg khusus dipergunakan utk pemadatan jal
 
 ## Toko Material Urugan Di Tanjung Priok Jakarta
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/xyK39kGeskE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/xyK39kGeskE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 **Daftar Harga Harga Urugan Pasir Urug Free Ongkir Ke Tanjung Priok Jakarta**
 

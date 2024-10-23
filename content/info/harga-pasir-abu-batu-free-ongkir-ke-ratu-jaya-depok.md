@@ -119,7 +119,7 @@ Berikut List Harga Bahan Material Alam Terupdate yang kami jual.
 
 ## Metode Pemesanan Pasir Bebas Ongkir dan Kuli Di Ratu Jaya Depok
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Sesudah anda memahami Tipe - Tipe Macam Pasir mulai sekarang kalian harus cermat di dalam memilih model pasir yg akan kamu manfaatkan untuk membangun sebuah Bangunan. Bila anda akan membeli pasir dari kami Metode Pengorderan nya adalah dengan sms data alamat komplit dan nomor handphond saja, kami akan langsung mengirimnya ke lokasi proyek anda dengan tidak ada tambahan biaya apa saja. Harga yang kami berikan yakni telah termasuk ongkir dan tumpah jadi anda tak perlu cemas dengan penambahan harga lagi. Cara pembayaran yang kami terapkan juga sungguh-sungguh aman, adalah anda bayar setelah material sampe ke lokasi anda atau di ucap dengan istilah COD (Cash On Delivery). Anda juga dapat konsultasi atau perundingan dengan kami melalui no telepon yang ada di laman ini.
 

@@ -119,7 +119,7 @@ Dibawah ini Urutan Harga Bahan Material Termurah yang kami jual.
 
 ## Metode Pemesanan Pasir Gratis Ongkos Kirim dan Bongkar Di Curug Depok
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Sesudah kalian memahami Jenis - Macam model Pasir mulai kini anda patut akurat dalam memilih jenis pasir yg akan anda gunakan untuk membangun sebuah Bangunan. Bila anda akan membeli pasir dari kami Sistem Pemesanan nya yakni dengan memberikan data alamat komplit dan nomor HP saja, kami akan segera mengirimnya ke lokasi proyek anda tanpa ada tambahan ongkos apapun. Harga yang kami berikan adalah telah termasuk ongkir dan tumpah jadi anda tidak perlu kuatir dengan penambahan biaya lagi. Metode pembayaran yang kami terapkan juga sungguh-sungguh aman, yakni anda bayar setelah material sampai ke daerah anda atau di ucap dengan istilah COD (Cash On Delivery). Anda juga dapat konsultasi atau negosiasi dengan kami via no telepon yang ada di web ini.
 

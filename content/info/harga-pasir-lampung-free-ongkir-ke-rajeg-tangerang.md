@@ -119,7 +119,7 @@ Berikut Price List Harga Bahan Bangunan Free Ongkir yang kami jual.
 
 ## Sistem Pemesanan Pasir Bebas Ongkos Kirim dan Bongkar Di Rajeg Tangerang
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Sesudah anda mengetahui Jenis - Macam Macam Pasir mulai sekarang kamu sepatutnya cermat dalam memilih model pasir yang akan kalian pergunakan untuk membangun sebuah Konstruksi Bangunan. Kalau anda berencana membeli pasir dari kami Sistem Pemesanan nya yakni dengan memberikan data alamat komplit dan nomor telepon saja, kami akan seketika mengirimnya ke lokasi proyek anda tanpa ada tambahan ongkos apapun. Harga yang kami berikan yakni sudah termasuk biaya pengiriman dan bongkar jadi anda tak perlu kuatir dengan penambahan biaya lagi. Metode pembayaran yang kami terapkan juga amat aman, yakni anda bayar sesudah material terkirim ke lokasi anda atau di ucap dengan istilah COD (Cash On Delivery). Anda juga dapat konsultasi atau perundingan dengan kami via no telepon yang ada di website ini.
 

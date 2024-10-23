@@ -119,7 +119,7 @@ Berikut List Harga Bahan Bangunan Termurah yang kami jual.
 
 ## Metode Pemesanan Pasir Bebas Biaya Pengiriman dan Penurunan Di Malaka Sari Jakarta
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Setelah kamu memahami Macam - Tipe Jenis Pasir mulai sekarang anda sepatutnya teliti dalam memilih model pasir yang akan kalian manfaatkan untuk membangun sebuah Bangunan. Kalau anda hendak membeli pasir dari kami Metode Pemesanan nya yaitu dengan sms data alamat komplit dan nomor HP saja, kami akan seketika mengirimnya ke lokasi proyek anda dengan tanpa tambahan biaya apa saja. Harga yang kami berikan yaitu sudah termasuk ongkos kirim dan tumpah jadi anda tidak perlu cemas dengan penambahan ongkos lagi. Metode pembayaran yang kami terapkan juga sungguh-sungguh aman, yakni anda bayar sesudah material sampai ke lokasi anda atau di sebut dengan istilah COD (Cash On Delivery). Anda juga dapat konsultasi atau diplomasi dengan kami lewat no telepon yang ada di situs ini.
 

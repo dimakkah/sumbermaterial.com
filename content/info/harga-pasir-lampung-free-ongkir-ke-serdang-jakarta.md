@@ -160,7 +160,7 @@ Berikut ini List Harga Bahan Bangunan Terlengkap yang kami jual.
 
 ## Metode Pengorderan Pasir Free Ongkos Kirim dan Kuli Di Serdang Jakarta
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Setelah kamu mengenal Jenis - Ragam Ragam Pasir mulai sekarang anda harus akurat dalam memilih tipe pasir yg akan anda manfaatkan untuk membangun sebuah Bangunan. Seandainya anda akan membeli pasir dari kami Cara Pemesanan nya yakni dengan memberikan data alamat komplit dan nomor handphond saja, kami akan seketika mengirimnya ke lokasi proyek anda dengan tanpa tambahan ongkos apapun. Harga yang kami berikan adalah sudah termasuk biaya pengiriman dan tumpah jadi anda tidak perlu cemas dengan penambahan biaya lagi. Metode pembayaran yang kami terapkan juga amat aman, adalah anda bayar setelah material terkirim ke daerah anda atau di ucap dengan istilah COD (Cash On Delivery). Anda juga bisa konsultasi atau perundingan dengan kami via no telepon yang ada di situs ini.
 

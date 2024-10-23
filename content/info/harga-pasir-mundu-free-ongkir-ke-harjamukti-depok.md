@@ -160,7 +160,7 @@ Berikut ini Urutan Harga Bahan Material Terlengkap yang kami jual.
 
 ## Cara Pemesanan Pasir Gratis Biaya Pengiriman dan Bongkar Di Harjamukti Depok
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Sesudah kalian mengenal Jenis - model Ragam Pasir mulai kini anda sepatutnya cermat dalam memilih ragam pasir yg akan kalian gunakan untuk membangun sebuah Konstruksi. Bila anda hendak membeli pasir dari kami Cara Pemesanan nya yakni dengan memberikan data alamat komplit dan nomor telepon saja, kami akan lantas mengirimnya ke lokasi proyek anda tanpa ada tambahan ongkos apapun. Harga yang kami berikan merupakan sudah termasuk biaya pengiriman dan penurunan jadi anda tidak perlu cemas dengan penambahan harga lagi. Cara pembayaran yang kami terapkan juga sungguh-sungguh aman, merupakan anda bayar setelah material terkirim ke lokasi anda atau di sebut dengan istilah COD (Cash On Delivery). Anda juga dapat konsultasi atau negosiasi dengan kami melalui no telepon yang ada di web ini.
 

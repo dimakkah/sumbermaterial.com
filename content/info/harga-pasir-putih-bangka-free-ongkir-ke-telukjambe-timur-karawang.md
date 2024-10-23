@@ -160,7 +160,7 @@ Berikut ini Urutan Harga Bahan Bangunan Terlengkap yang kami jual.
 
 ## Metode Pemesanan Pasir Bebas Ongkir dan Kuli Di Telukjambe Timur Karawang
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Setelah kalian mengenal model - Ragam Ragam Pasir mulai sekarang anda semestinya teliti dalam memilih macam pasir yang akan anda pakai untuk membangun sebuah Konstruksi Bangunan. Bila anda mau membeli pasir dari kami Cara Pemesanan nya yakni dengan whatsapp data domisili komplit dan nomor HP saja, kami akan langsung mengirimnya ke lokasi proyek anda dengan tanpa tambahan biaya apapun. Harga yang kami berikan adalah telah termasuk biaya pengiriman dan bongkar jadi anda tak perlu cemas dengan penambahan biaya lagi. Cara pembayaran yang kami terapkan juga betul-betul aman, adalah anda bayar setelah material sampai ke lokasi anda atau di ucap dengan istilah COD (Cash On Delivery). Anda juga dapat konsultasi atau perundingan dengan kami melewati no telepon yang ada di web ini.
 

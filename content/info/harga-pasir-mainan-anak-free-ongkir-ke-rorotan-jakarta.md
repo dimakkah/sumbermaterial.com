@@ -119,7 +119,7 @@ Berikut ini Urutan Harga Bahan Bangunan Free Ongkir yang kami jual.
 
 ## Cara Pemesanan Pasir Gratis Ongkos Kirim dan Kuli Di Rorotan Jakarta
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Sesudah anda mengenal model - Macam Macam Pasir mulai kini kamu harus teliti dalam memilih model pasir yg akan anda pergunakan untuk membangun sebuah Konstruksi. Jikalau anda mau membeli pasir dari kami Sistem Pemesanan nya merupakan dengan Email data alamat lengkap dan nomor telepon saja, kami akan segera mengirimnya ke lokasi proyek anda dengan tidak ada tambahan biaya apa saja. Harga yang kami berikan adalah telah termasuk ongkir dan bongkar jadi anda tidak perlu khawatir dengan penambahan ongkos lagi. Cara pembayaran yang kami terapkan juga sangat aman, merupakan anda bayar setelah material sampe ke tempat anda atau di sebut dengan istilah COD (Cash On Delivery). Anda juga bisa konsultasi atau negosiasi dengan kami melalui no telepon yang ada di laman ini.
 

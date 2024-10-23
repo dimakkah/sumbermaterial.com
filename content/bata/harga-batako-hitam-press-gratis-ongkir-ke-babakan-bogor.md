@@ -55,7 +55,7 @@ Kalau dibandingkan dg material bangunan lainnya, batako press mempunyai harga se
 
 ## Metode Beli Bata Merah, Batako & Hebel Di Babakan Bogor
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/IEs5XPt-xyU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/IEs5XPt-xyU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Semua tentunya sudah tahu kegunaan utama batu bata mulai diaplikasikan untuk membuat tembok, pagar rumah dan lainnya. Sejalan perkembangannya batu batu sekarang telah ada batu bata merah, batako hitam dan hebel. Bila dikala ini anda memiliki rencana untuk membuat sebuah bangunan yang idam-idamkan|impian|masa depan} dan memerlukan bahan batu bata. Maka silahkan memesan batu bata terhadap toko penyedia bahan batu bata yg berkwalitas dan terpercaya.
 

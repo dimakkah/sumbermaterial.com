@@ -119,7 +119,7 @@ Dibawah ini Urutan Harga Bahan Material Alam Terupdate yang kami jual.
 
 ## Sistem Pemesanan Pasir Free Ongkos Kirim dan Penurunan Di Manggarai Selatan Jakarta
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Setelah kamu mengenal Tipe - model Ragam Pasir mulai kini anda semestinya teliti dalam memilih tipe pasir yang akan anda pakai untuk membangun sebuah Konstruksi. Kalau anda mau membeli pasir dari kami Sistem Pengorderan nya ialah dengan memberikan data alamat lengkap dan nomor telepon saja, kami akan segera mengirimnya ke lokasi proyek anda dengan tidak ada tambahan ongkos apa saja. Harga yang kami berikan adalah sudah termasuk ongkos kirim dan penurunan jadi anda tak perlu khawatir dengan pembengkakan harga lagi. Metode pembayaran yang kami terapkan juga amat aman, ialah anda bayar setelah material terkirim ke daerah anda atau di sebut dengan istilah COD (Cash On Delivery). Anda juga dapat konsultasi atau diplomasi dengan kami melalui no telepon yang ada di web ini.
 

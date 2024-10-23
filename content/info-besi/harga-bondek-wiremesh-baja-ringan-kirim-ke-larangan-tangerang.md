@@ -63,7 +63,7 @@ Baja ringan SNI ditawarkan dengan hitungan harga sesuai dengan ketebalan dan dih
 
 ## Cara Order Bondek, Wiremesh Dan Baja Ringan Di Larangan Tangerang
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/RlgIAwKCWFI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/RlgIAwKCWFI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Apabila anda berencana mengorder bahan bangunan melewati Harga Bondek Wiremesh Baja Ringan Kirim Ke Larangan Tangerang online maka salah satunya bisa menggunakan cara pembayaran Bayar Setelah sampe. Dimana cara COD, pembeli semestinya membayar pesanan dengan pembayaran tunai ketika barang yang dipesan sampai di lokasi tujuan. Dibawah ini akan ditunjukkan langkah pemesanan bondek, wiremesh dan baja ringan secara COD yang wajib anda kenal.
 

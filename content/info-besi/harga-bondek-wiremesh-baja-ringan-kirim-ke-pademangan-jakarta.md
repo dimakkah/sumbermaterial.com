@@ -63,7 +63,7 @@ Baja ringan SNI dijual dengan hitungan harga selaras dengan ketebalan dan dihitu
 
 ## System Order Bondek, Wiremesh Dan Baja Ringan Di Pademangan Jakarta
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/RlgIAwKCWFI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/RlgIAwKCWFI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Kalau anda berencana mengorder bahan bangunan lewat Harga Bondek Wiremesh Baja Ringan Kirim Ke Pademangan Jakarta online maka salah satunya bisa menggunakan sistem pembayaran bayar ditempat. Dimana metode Bayar Setelah sampe, pembeli sepatutnya membayar pesanan dengan pembayaran tunai saat barang yang dipesan tiba di tempat tujuan. Dibawah ini akan ditunjukkan langkah pengorderan bondek, wiremesh dan baja ringan secara COD yang wajib anda kenal.
 

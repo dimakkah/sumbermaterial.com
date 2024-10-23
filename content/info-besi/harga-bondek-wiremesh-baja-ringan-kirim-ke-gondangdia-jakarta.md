@@ -63,7 +63,7 @@ Baja ringan SNI dijual dengan hitungan harga selaras dengan ketebalan dan dihitu
 
 ## Metode Pembelian Bondek, Wiremesh Dan Baja Ringan Di Gondangdia Jakarta
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/RlgIAwKCWFI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/RlgIAwKCWFI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Apabila anda berencana membeli material melalui Harga Bondek Wiremesh Baja Ringan Kirim Ke Gondangdia Jakarta online karenanya salah satunya bisa menerapkan metode pembayaran bayar ditempat. Dimana cara Bayar Setelah sampe, pembeli wajib membayar orderan dengan pembayaran tunai ketika barang yang diorder sampai di tempat tujuan. Dibawah ini akan digambarkan langkah pemesanan bondek, wiremesh dan baja ringan secara COD yang perlu anda ketahui.
 

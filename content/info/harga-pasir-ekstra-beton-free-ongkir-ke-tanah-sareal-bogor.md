@@ -119,7 +119,7 @@ Dibawah ini List Harga Bahan Material Alam Terbaru yang kami jual.
 
 ## Metode Pengorderan Pasir Gratis Ongkir dan Bongkar Di Tanah Sareal Bogor
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Sesudah kalian mengetahui Jenis - Jenis Tipe Pasir mulai sekarang anda patut akurat di dalam memilih macam pasir yg akan anda manfaatkan untuk membangun sebuah Konstruksi Bangunan. Bila anda mau membeli pasir dari kami Sistem Pengorderan nya adalah dengan Email data alamat komplit dan nomor handphond saja, kami akan seketika mengirimnya ke lokasi proyek anda dengan tanpa tambahan biaya apapun. Harga yang kami berikan yaitu telah termasuk ongkir dan penurunan jadi anda tak perlu cemas dengan penambahan harga lagi. Sistem pembayaran yang kami terapkan juga betul-betul aman, ialah anda bayar setelah material terkirim ke daerah anda atau di ucap dengan istilah COD (Cash On Delivery). Anda juga dapat konsultasi atau perundingan dengan kami melewati no telepon yang ada di situs ini.
 

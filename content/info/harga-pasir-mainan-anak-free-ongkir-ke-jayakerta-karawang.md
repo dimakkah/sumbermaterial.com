@@ -119,7 +119,7 @@ Dibawah ini Urutan Harga Bahan Material Alam Terupdate yang kami jual.
 
 ## Metode Pemesanan Pasir Free Ongkir dan Kuli Di Jayakerta Karawang
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Setelah anda memahami Tipe - model model Pasir mulai kini kamu wajib teliti dalam memilih macam pasir yang akan anda pergunakan untuk membangun sebuah Konstruksi. Jikalau anda mau membeli pasir dari kami Cara Pemesanan nya adalah dengan sms data alamat komplit dan nomor HP saja, kami akan segera mengirimnya ke lokasi proyek anda tanpa ada tambahan ongkos apa saja. Harga yang kami berikan yakni telah termasuk ongkos kirim dan tumpah jadi anda tidak perlu kuatir dengan penambahan biaya lagi. Cara pembayaran yang kami terapkan juga sungguh-sungguh aman, yakni anda bayar sesudah material sampai ke tempat anda atau di ucap dengan istilah COD (Cash On Delivery). Anda juga bisa konsultasi atau perundingan dengan kami melewati no telepon yang ada di situs ini.
 

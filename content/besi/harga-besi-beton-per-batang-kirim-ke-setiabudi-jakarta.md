@@ -51,7 +51,7 @@ Setiap orang pasti mengharapkan mempunyai rumah yang berkwalitas bagus dan nyama
 
 ## Sistem Pembelian Besi Beton Per Batang Di Setiabudi Jakarta
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/RlgIAwKCWFI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/RlgIAwKCWFI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Sekarang semua dari anda tentunya sudah tahu manfaat utama besi, wf, hollow mulai diaplikasikan untuk membikin tulangan beton, kanopi, pagar rumah dan lainnya. Seiring perkembanganya batu batu sekarang sudah ada besi, wf, hollow dengan bermacam ukuran dan kualitas. Jikalau saat ini anda memiliki rencana untuk membangun sebuah rumah idaman dan memerlukan bahan besi, wf, hollow. Karenanya silahkan memesan besi, wf, hollow terhadap kami selaku penyedia bahan besi, wf, hollow yang berkwalitas dan terpercaya.
 

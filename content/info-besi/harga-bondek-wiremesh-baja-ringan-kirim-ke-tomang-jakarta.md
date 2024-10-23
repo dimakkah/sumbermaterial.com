@@ -63,7 +63,7 @@ Baja ringan SNI dijual dengan hitungan harga sesuai dengan ketebalan dan dihitun
 
 ## Sistem Pengorderan Bondek, Wiremesh Dan Baja Ringan Di Tomang Jakarta
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/RlgIAwKCWFI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/RlgIAwKCWFI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Jika anda berencana memesan material lewat Harga Bondek Wiremesh Baja Ringan Kirim Ke Tomang Jakarta online maka salah satunya bisa menggunakan metode pembayaran COD. Dimana sistem COD, pembeli sepatutnya membayar orderan dengan pembayaran tunai saat barang yang dipesan tiba di lokasi tujuan. Dibawah ini akan dibeberkan langkah pengorderan bondek, wiremesh dan baja ringan secara COD yang perlu anda kenal.
 

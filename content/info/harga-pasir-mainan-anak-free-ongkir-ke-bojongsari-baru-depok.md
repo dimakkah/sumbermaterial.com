@@ -119,7 +119,7 @@ Dibawah ini List Harga Bahan Bangunan Terupdate yang kami jual.
 
 ## Cara Pengorderan Pasir Gratis Ongkos Kirim dan Kuli Di Bojongsari Baru Depok
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Sesudah anda mengetahui Macam - model Macam Pasir mulai kini kamu seharusnya cermat di dalam memilih macam pasir yang akan kamu manfaatkan untuk membangun sebuah Konstruksi. Sekiranya anda mau membeli pasir dari kami Metode Pemesanan nya yakni dengan sms data domisili lengkap dan nomor HP saja, kami akan segera mengirimnya ke lokasi proyek anda dengan tanpa tambahan biaya apapun. Harga yang kami berikan yakni telah termasuk biaya pengiriman dan bongkar jadi anda tak perlu cemas dengan penambahan ongkos lagi. Sistem pembayaran yang kami terapkan juga sungguh-sungguh aman, adalah anda bayar sesudah material sampai ke tempat anda atau di ucap dengan istilah COD (Cash On Delivery). Anda juga dapat konsultasi atau negosiasi dengan kami lewat no telepon yang ada di situs ini.
 

@@ -55,7 +55,7 @@ Jikalau diperbandingkan dengan material bangunan lainnya, batako trus mempunyai 
 
 ## System Beli Bata Merah, Batako & Hebel Di Mekarwangi Bogor
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/IEs5XPt-xyU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/IEs5XPt-xyU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Seluruhnya tentu telah tahu kegunaan utama batu bata mulai dipakai untuk membikin tembok, pagar tempat tinggal dan lainnya. Bertepatan dengan perkembangannya batu batu kini telah ada batu bata merah, batako press hitam dan bata ringan. Apabila dikala ini anda mempunyai rencana untuk membuat sebuah bangunan yg idam-idamkan|impian|masa depan} dan memerlukan material batu bata. Karenanya silahkan memesan batu bata kepada toko penyedia material batu bata yang berkualitas dan terpercaya.
 

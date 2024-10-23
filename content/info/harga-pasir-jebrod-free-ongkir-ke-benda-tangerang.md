@@ -119,7 +119,7 @@ Berikut ini Price List Harga Bahan Material Alam Terbaru yang kami jual.
 
 ## Cara Pemesanan Pasir Gratis Ongkir dan Kuli Di Benda Tangerang
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Sesudah anda mengenal Macam - Macam Macam Pasir mulai sekarang anda patut cermat di dalam memilih jenis pasir yg akan kalian manfaatkan untuk membangun sebuah Bangunan. Jikalau anda hendak membeli pasir dari kami Cara Pemesanan nya ialah dengan sms data domisili lengkap dan nomor HP saja, kami akan segera mengirimnya ke lokasi proyek anda tanpa ada tambahan biaya apapun. Harga yang kami berikan ialah telah termasuk ongkos kirim dan bongkar jadi anda tak perlu khawatir dengan penambahan biaya lagi. Sistem pembayaran yang kami terapkan juga sungguh-sungguh aman, yaitu anda bayar sesudah material sampai ke daerah anda atau di ucap dengan istilah COD (Cash On Delivery). Anda juga dapat konsultasi atau diplomasi dengan kami melalui no telepon yang ada di situs ini.
 

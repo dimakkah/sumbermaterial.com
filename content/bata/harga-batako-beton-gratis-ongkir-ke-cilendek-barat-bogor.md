@@ -55,7 +55,7 @@ Bila dibandingkan dengan bahan bangunan lainnya, batako trus mempunyai harga sek
 
 ## Metode Pemesanan Bata Merah, Batako & Hebel Di Cilendek Barat Bogor
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/IEs5XPt-xyU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/IEs5XPt-xyU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Semua tentunya telah tahu fungsi utama batu bata mulai digunakan untuk membuat tembok, pagar rumah dan lainnya. Sejalan perkembangannya batu batu kini telah ada batu bata merah, batako press hitam dan bata ringan. Bila dikala ini anda mempunyai agenda untuk membuat sebuah tempat tinggal yg idam-idamkan|impian|masa depan} dan membutuhkan material batu bata. Maka silahkan mengorder batu bata kepada warung penyedia bahan batu bata yang bermutu dan terpercaya.
 

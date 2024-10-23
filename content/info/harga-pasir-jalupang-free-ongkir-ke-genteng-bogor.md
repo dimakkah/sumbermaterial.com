@@ -119,7 +119,7 @@ Berikut Daftar Harga Bahan Bangunan Terupdate yang kami jual.
 
 ## Sistem Pemesanan Pasir Bebas Ongkos Kirim dan Penurunan Di Genteng Bogor
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Sesudah anda memahami model - Jenis Tipe Pasir mulai kini anda sepatutnya akurat dalam memilih jenis pasir yang akan anda gunakan untuk membangun sebuah Konstruksi Bangunan. Jikalau anda hendak membeli pasir dari kami Sistem Pemesanan nya ialah dengan memberikan data alamat lengkap dan nomor handphond saja, kami akan seketika mengirimnya ke lokasi proyek anda dengan tidak ada tambahan ongkos apapun. Harga yang kami berikan ialah telah termasuk biaya pengiriman dan bongkar jadi anda tak perlu cemas dengan pembengkakan biaya lagi. Cara pembayaran yang kami terapkan juga amat aman, adalah anda bayar sesudah material sampe ke tempat anda atau di sebut dengan istilah COD (Cash On Delivery). Anda juga bisa konsultasi atau perundingan dengan kami via no telepon yang ada di laman ini.
 

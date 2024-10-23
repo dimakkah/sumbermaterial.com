@@ -119,7 +119,7 @@ Berikut Urutan Harga Bahan Bangunan Free Ongkir yang kami jual.
 
 ## Cara Pemesanan Pasir Bebas Ongkos Kirim dan Bongkar Di Kamal Jakarta
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Sesudah anda memahami Jenis - Tipe Tipe Pasir mulai kini anda mesti teliti dalam memilih jenis pasir yang akan anda manfaatkan untuk membangun sebuah Konstruksi Bangunan. Jikalau anda berencana membeli pasir dari kami Metode Pengorderan nya yakni dengan memberikan data domisili komplit dan nomor telepon saja, kami akan seketika mengirimnya ke lokasi proyek anda dengan tanpa tambahan biaya apa saja. Harga yang kami berikan adalah telah termasuk ongkir dan tumpah jadi anda tidak perlu khawatir dengan pembengkakan ongkos lagi. Cara pembayaran yang kami terapkan juga benar-benar aman, yaitu anda bayar sesudah material sampai ke tempat anda atau di ucap dengan istilah COD (Cash On Delivery). Anda juga dapat konsultasi atau perundingan dengan kami via no telepon yang ada di laman ini.
 

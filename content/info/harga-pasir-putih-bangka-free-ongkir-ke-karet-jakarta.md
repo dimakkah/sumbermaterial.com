@@ -160,7 +160,7 @@ Berikut Price List Harga Bahan Material Alam Terupdate yang kami jual.
 
 ## Cara Pengorderan Pasir Free Ongkos Kirim dan Kuli Di Karet Jakarta
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Sesudah kalian mengenal model - Ragam Macam Pasir mulai kini anda mesti akurat di dalam memilih model pasir yg akan kalian pergunakan untuk membangun sebuah Konstruksi Bangunan. Kalau anda akan membeli pasir dari kami Cara Pengorderan nya adalah dengan whatsapp data domisili komplit dan nomor handphond saja, kami akan lantas mengirimnya ke lokasi proyek anda tanpa ada tambahan biaya apapun. Harga yang kami berikan ialah sudah termasuk ongkos kirim dan tumpah jadi anda tak perlu khawatir dengan penambahan harga lagi. Sistem pembayaran yang kami terapkan juga sangat aman, yakni anda bayar sesudah material sampai ke tempat anda atau di ucap dengan istilah COD (Cash On Delivery). Anda juga bisa konsultasi atau negosiasi dengan kami via no telepon yang ada di web ini.
 

@@ -119,7 +119,7 @@ Berikut Urutan Harga Bahan Material Alam Free Ongkir yang kami jual.
 
 ## Sistem Pengorderan Pasir Free Ongkos Kirim dan Kuli Di Tajur Kecamatan Bogor
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Setelah anda memahami Macam - Tipe Ragam Pasir mulai kini anda wajib akurat di dalam memilih ragam pasir yang akan kalian pergunakan untuk membangun sebuah Konstruksi. Bila anda berencana membeli pasir dari kami Sistem Pengorderan nya ialah dengan memberikan data domisili komplit dan nomor telepon saja, kami akan langsung mengirimnya ke lokasi proyek anda tanpa ada tambahan ongkos apa saja. Harga yang kami berikan yakni telah termasuk ongkir dan penurunan jadi anda tidak perlu cemas dengan pembengkakan ongkos lagi. Cara pembayaran yang kami terapkan juga sungguh-sungguh aman, yaitu anda bayar setelah material sampai ke lokasi anda atau di sebut dengan istilah COD (Cash On Delivery). Anda juga bisa konsultasi atau diplomasi dengan kami melewati no telepon yang ada di web ini.
 

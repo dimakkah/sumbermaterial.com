@@ -63,7 +63,7 @@ Baja ringan SNI ditawarkan dengan hitungan harga sesuai dengan ketebalan dan dih
 
 ## Metode Order Bondek, Wiremesh Dan Baja Ringan Di Pejaten Barat Jakarta
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/RlgIAwKCWFI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/RlgIAwKCWFI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Apabila anda berencana mengorder bahan bangunan melewati Harga Bondek Wiremesh Baja Ringan Kirim Ke Pejaten Barat Jakarta online karenanya salah satunya dapat menggunakan cara pembayaran COD. Dimana sistem Bayar Setelah sampe, pembeli patut membayar pesanan dengan pembayaran tunai saat barang yang diorder tiba di tempat tujuan. Berikut ini akan dibeberkan langkah pemesanan bondek, wiremesh dan baja ringan secara COD yang wajib anda kenal.
 

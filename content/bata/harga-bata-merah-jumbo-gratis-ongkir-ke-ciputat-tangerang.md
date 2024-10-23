@@ -45,7 +45,7 @@ Yang perlu Anda tahu dari material hebel ini adalah tipe ukuran dan harganya. Ja
 
 ## Jual Bata Merah, Batako, Hebel Di Ciputat Tangerang
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/IEs5XPt-xyU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/IEs5XPt-xyU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 **Daftar Harga Bata Merah Jumbo Gratis Ongkir Ke Ciputat Tangerang**
 

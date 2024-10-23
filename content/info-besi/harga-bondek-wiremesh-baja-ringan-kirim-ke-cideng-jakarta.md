@@ -63,7 +63,7 @@ Baja ringan SNI dijual dengan hitungan harga sesuai dengan ketebalan dan dihitun
 
 ## System Pemesanan Bondek, Wiremesh Dan Baja Ringan Di Cideng Jakarta
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/RlgIAwKCWFI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/RlgIAwKCWFI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Apabila anda berencana membeli bahan bangunan lewat Harga Bondek Wiremesh Baja Ringan Kirim Ke Cideng Jakarta online maka salah satunya dapat mengaplikasikan metode pembayaran bayar ditempat. Dimana metode Bayar Setelah sampe, pembeli wajib membayar pesanan dengan pembayaran tunai ketika barang yang diorder sampai di tempat tujuan. Dibawah ini akan digambarkan langkah pemesanan bondek, wiremesh dan baja ringan secara COD yang perlu anda kenal.
 

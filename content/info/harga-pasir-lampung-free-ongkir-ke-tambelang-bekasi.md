@@ -160,7 +160,7 @@ Dibawah ini List Harga Bahan Material Alam Terbaru yang kami jual.
 
 ## Metode Pengorderan Pasir Bebas Biaya Pengiriman dan Kuli Di Tambelang Bekasi
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Setelah kamu mengetahui model - Ragam Macam Pasir mulai kini kamu sepatutnya akurat di dalam memilih jenis pasir yang akan kamu manfaatkan untuk membangun sebuah Konstruksi Bangunan. Apabila anda berencana membeli pasir dari kami Metode Pengorderan nya ialah dengan memberikan data domisili lengkap dan nomor telepon saja, kami akan lantas mengirimnya ke lokasi proyek anda dengan tanpa tambahan biaya apapun. Harga yang kami berikan yakni sudah termasuk biaya pengiriman dan tumpah jadi anda tak perlu cemas dengan pembengkakan harga lagi. Sistem pembayaran yang kami terapkan juga sangat aman, adalah anda bayar setelah material sampai ke lokasi anda atau di sebut dengan istilah COD (Cash On Delivery). Anda juga dapat konsultasi atau diplomasi dengan kami melewati no telepon yang ada di laman ini.
 

@@ -119,7 +119,7 @@ Berikut ini Urutan Harga Bahan Material Terlengkap yang kami jual.
 
 ## Cara Pengorderan Pasir Bebas Ongkos Kirim dan Bongkar Di Harjasari Bogor
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Setelah anda memahami model - Ragam Macam Pasir mulai kini anda wajib cermat di dalam memilih jenis pasir yang akan kamu manfaatkan untuk membangun sebuah Bangunan. Bila anda akan membeli pasir dari kami Metode Pemesanan nya yakni dengan whatsapp data alamat lengkap dan nomor HP saja, kami akan lantas mengirimnya ke lokasi proyek anda tanpa ada tambahan biaya apapun. Harga yang kami berikan yakni sudah termasuk ongkos kirim dan bongkar jadi anda tidak perlu kuatir dengan penambahan harga lagi. Cara pembayaran yang kami terapkan juga benar-benar aman, merupakan anda bayar setelah material sampe ke daerah anda atau di sebut dengan istilah COD (Cash On Delivery). Anda juga dapat konsultasi atau negosiasi dengan kami melewati no telepon yang ada di situs ini.
 

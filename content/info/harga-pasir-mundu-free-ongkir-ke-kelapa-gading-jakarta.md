@@ -119,7 +119,7 @@ Dibawah ini Price List Harga Bahan Bangunan Terupdate yang kami jual.
 
 ## Cara Pemesanan Pasir Gratis Ongkir dan Kuli Di Kelapa Gading Jakarta
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Sesudah anda memahami Ragam - model model Pasir mulai sekarang kamu seharusnya akurat dalam memilih jenis pasir yang akan anda manfaatkan untuk membangun sebuah Konstruksi Bangunan. Jikalau anda hendak membeli pasir dari kami Sistem Pemesanan nya ialah dengan memberikan data alamat lengkap dan nomor HP saja, kami akan seketika mengirimnya ke lokasi proyek anda dengan tidak ada tambahan biaya apa saja. Harga yang kami berikan yaitu telah termasuk biaya pengiriman dan bongkar jadi anda tak perlu kuatir dengan pembengkakan ongkos lagi. Metode pembayaran yang kami terapkan juga sangat aman, yakni anda bayar setelah material sampe ke daerah anda atau di sebut dengan istilah COD (Cash On Delivery). Anda juga bisa konsultasi atau diplomasi dengan kami melewati no telepon yang ada di laman ini.
 

@@ -119,7 +119,7 @@ Berikut ini Price List Harga Bahan Bangunan Termurah yang kami jual.
 
 ## Sistem Pemesanan Pasir Bebas Ongkos Kirim dan Penurunan Di Pabaton Bogor
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Setelah kamu memahami Tipe - Ragam Tipe Pasir mulai kini kamu semestinya cermat dalam memilih tipe pasir yg akan anda pergunakan untuk membangun sebuah Bangunan. Bila anda akan membeli pasir dari kami Metode Pengorderan nya adalah dengan sms data alamat lengkap dan nomor handphond saja, kami akan langsung mengirimnya ke lokasi proyek anda dengan tanpa tambahan ongkos apapun. Harga yang kami berikan ialah telah termasuk ongkos kirim dan tumpah jadi anda tidak perlu cemas dengan penambahan biaya lagi. Metode pembayaran yang kami terapkan juga sungguh-sungguh aman, adalah anda bayar sesudah material sampe ke tempat anda atau di ucap dengan istilah COD (Cash On Delivery). Anda juga dapat konsultasi atau negosiasi dengan kami lewat no telepon yang ada di situs ini.
 

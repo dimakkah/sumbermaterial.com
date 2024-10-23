@@ -160,7 +160,7 @@ Dibawah ini List Harga Bahan Bangunan Free Ongkir yang kami jual.
 
 ## Metode Pengorderan Pasir Bebas Biaya Pengiriman dan Kuli Di Leuwinanggung Depok
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Setelah kalian mengenal Tipe - Ragam Macam Pasir mulai kini kalian mesti akurat di dalam memilih jenis pasir yang akan kalian manfaatkan untuk membangun sebuah Bangunan. Seandainya anda hendak membeli pasir dari kami Cara Pengorderan nya yakni dengan sms data domisili lengkap dan nomor handphond saja, kami akan seketika mengirimnya ke lokasi proyek anda tanpa ada tambahan biaya apa saja. Harga yang kami berikan ialah sudah termasuk biaya pengiriman dan penurunan jadi anda tidak perlu kuatir dengan pembengkakan ongkos lagi. Metode pembayaran yang kami terapkan juga sungguh-sungguh aman, adalah anda bayar setelah material terkirim ke daerah anda atau di sebut dengan istilah COD (Cash On Delivery). Anda juga bisa konsultasi atau negosiasi dengan kami lewat no telepon yang ada di web ini.
 

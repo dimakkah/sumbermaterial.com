@@ -119,7 +119,7 @@ Berikut ini Urutan Harga Bahan Material Termurah yang kami jual.
 
 ## Metode Pengorderan Pasir Bebas Ongkir dan Kuli Di Solear Tangerang
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Setelah anda memahami Ragam - model Macam Pasir mulai kini anda mesti akurat di dalam memilih jenis pasir yang akan anda gunakan untuk membangun sebuah Konstruksi. Kalau anda hendak membeli pasir dari kami Cara Pemesanan nya merupakan dengan whatsapp data domisili lengkap dan nomor telepon saja, kami akan seketika mengirimnya ke lokasi proyek anda tanpa ada tambahan ongkos apapun. Harga yang kami berikan yakni telah termasuk ongkos kirim dan bongkar jadi anda tak perlu kuatir dengan penambahan ongkos lagi. Sistem pembayaran yang kami terapkan juga sangat aman, yaitu anda bayar setelah material terkirim ke tempat anda atau di ucap dengan istilah COD (Cash On Delivery). Anda juga dapat konsultasi atau negosiasi dengan kami lewat no telepon yang ada di situs ini.
 

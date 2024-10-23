@@ -119,7 +119,7 @@ Berikut ini Daftar Harga Bahan Bangunan Free Ongkir yang kami jual.
 
 ## Sistem Pemesanan Pasir Gratis Biaya Pengiriman dan Penurunan Di Susukan Jakarta
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Setelah anda memahami Tipe - model Ragam Pasir mulai kini kamu mesti akurat di dalam memilih model pasir yg akan kamu manfaatkan untuk membangun sebuah Bangunan. Apabila anda mau membeli pasir dari kami Metode Pengorderan nya adalah dengan sms data domisili komplit dan nomor telepon saja, kami akan langsung mengirimnya ke lokasi proyek anda tanpa ada tambahan ongkos apa saja. Harga yang kami berikan ialah telah termasuk ongkir dan bongkar jadi anda tak perlu khawatir dengan penambahan ongkos lagi. Metode pembayaran yang kami terapkan juga sungguh-sungguh aman, yaitu anda bayar sesudah material sampe ke daerah anda atau di ucap dengan istilah COD (Cash On Delivery). Anda juga dapat konsultasi atau negosiasi dengan kami lewat no telepon yang ada di website ini.
 

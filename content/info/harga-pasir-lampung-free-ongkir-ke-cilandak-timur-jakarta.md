@@ -160,7 +160,7 @@ Berikut Daftar Harga Bahan Material Alam Terupdate yang kami jual.
 
 ## Metode Pengorderan Pasir Free Ongkir dan Penurunan Di Cilandak Timur Jakarta
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Setelah anda mengenal Ragam - Ragam Ragam Pasir mulai kini anda sepatutnya cermat di dalam memilih jenis pasir yang akan kalian gunakan untuk membangun sebuah Bangunan. Seandainya anda berencana membeli pasir dari kami Metode Pengorderan nya merupakan dengan memberikan data domisili komplit dan nomor HP saja, kami akan seketika mengirimnya ke lokasi proyek anda dengan tanpa tambahan biaya apapun. Harga yang kami berikan yaitu telah termasuk ongkos kirim dan penurunan jadi anda tidak perlu kuatir dengan pembengkakan biaya lagi. Metode pembayaran yang kami terapkan juga betul-betul aman, yaitu anda bayar setelah material sampe ke lokasi anda atau di ucap dengan istilah COD (Cash On Delivery). Anda juga dapat konsultasi atau perundingan dengan kami melewati no telepon yang ada di situs ini.
 

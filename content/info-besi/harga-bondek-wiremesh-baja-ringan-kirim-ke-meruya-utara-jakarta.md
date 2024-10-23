@@ -63,7 +63,7 @@ Baja ringan SNI ditawarkan dengan hitungan harga selaras dengan ketebalan dan di
 
 ## Cara Pembelian Bondek, Wiremesh Dan Baja Ringan Di Meruya Utara Jakarta
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/RlgIAwKCWFI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/RlgIAwKCWFI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Jika anda berencana memesan material lewat Harga Bondek Wiremesh Baja Ringan Kirim Ke Meruya Utara Jakarta online karenanya salah satunya bisa menggunakan cara pembayaran Bayar Setelah sampe. Dimana metode COD, pembeli semestinya membayar orderan dengan pembayaran tunai ketika barang yang dipesan sampai di lokasi tujuan. Dibawah ini akan diterangkan langkah pengorderan bondek, wiremesh dan baja ringan secara COD yang wajib anda kenal.
 

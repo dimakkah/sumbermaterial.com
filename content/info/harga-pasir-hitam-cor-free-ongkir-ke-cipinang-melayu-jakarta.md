@@ -119,7 +119,7 @@ Dibawah ini Price List Harga Bahan Material Free Ongkir yang kami jual.
 
 ## Metode Pemesanan Pasir Gratis Biaya Pengiriman dan Penurunan Di Cipinang Melayu Jakarta
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Setelah kamu mengenal model - Macam Tipe Pasir mulai kini kalian harus akurat dalam memilih model pasir yg akan anda gunakan untuk membangun sebuah Bangunan. Kalau anda akan membeli pasir dari kami Metode Pengorderan nya merupakan dengan Email data domisili lengkap dan nomor HP saja, kami akan lantas mengirimnya ke lokasi proyek anda dengan tanpa tambahan ongkos apa saja. Harga yang kami berikan yaitu sudah termasuk ongkos kirim dan penurunan jadi anda tidak perlu kuatir dengan pembengkakan harga lagi. Metode pembayaran yang kami terapkan juga amat aman, adalah anda bayar setelah material sampai ke daerah anda atau di ucap dengan istilah COD (Cash On Delivery). Anda juga dapat konsultasi atau diplomasi dengan kami melewati no telepon yang ada di laman ini.
 

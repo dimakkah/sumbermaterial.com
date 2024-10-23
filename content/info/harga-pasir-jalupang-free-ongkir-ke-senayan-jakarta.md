@@ -119,7 +119,7 @@ Berikut Urutan Harga Bahan Bangunan Terupdate yang kami jual.
 
 ## Cara Pengorderan Pasir Free Ongkos Kirim dan Penurunan Di Senayan Jakarta
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Sesudah kamu memahami Tipe - Tipe model Pasir mulai sekarang kamu patut akurat di dalam memilih ragam pasir yang akan kamu pergunakan untuk membangun sebuah Bangunan. Bila anda mau membeli pasir dari kami Sistem Pengorderan nya yaitu dengan sms data domisili komplit dan nomor telepon saja, kami akan segera mengirimnya ke lokasi proyek anda dengan tanpa tambahan ongkos apapun. Harga yang kami berikan yakni sudah termasuk ongkir dan bongkar jadi anda tak perlu kuatir dengan pembengkakan harga lagi. Sistem pembayaran yang kami terapkan juga benar-benar aman, ialah anda bayar setelah material terkirim ke tempat anda atau di sebut dengan istilah COD (Cash On Delivery). Anda juga bisa konsultasi atau perundingan dengan kami melewati no telepon yang ada di website ini.
 

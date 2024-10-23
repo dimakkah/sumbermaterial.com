@@ -160,7 +160,7 @@ Berikut Urutan Harga Bahan Bangunan Terlengkap yang kami jual.
 
 ## Cara Pemesanan Pasir Bebas Ongkos Kirim dan Kuli Di Tegallega Bogor
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Setelah kalian memahami model - model Tipe Pasir mulai kini anda semestinya akurat dalam memilih ragam pasir yang akan kamu gunakan untuk membangun sebuah Konstruksi Bangunan. Sekiranya anda mau membeli pasir dari kami Sistem Pengorderan nya yaitu dengan memberikan data domisili komplit dan nomor handphond saja, kami akan lantas mengirimnya ke lokasi proyek anda dengan tidak ada tambahan biaya apapun. Harga yang kami berikan merupakan sudah termasuk biaya pengiriman dan bongkar jadi anda tak perlu khawatir dengan penambahan harga lagi. Metode pembayaran yang kami terapkan juga sungguh-sungguh aman, ialah anda bayar setelah material sampai ke lokasi anda atau di sebut dengan istilah COD (Cash On Delivery). Anda juga bisa konsultasi atau negosiasi dengan kami melalui no telepon yang ada di laman ini.
 

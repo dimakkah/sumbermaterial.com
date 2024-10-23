@@ -51,7 +51,7 @@ Setiap orang pasti mengharapkan mempunyai rumah yang bermutu baik dan nyaman. Ki
 
 ## Cara Order Besi Beton Per Batang Di Cilendek Barat Bogor
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/RlgIAwKCWFI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/RlgIAwKCWFI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Kini setiap dari anda tentunya telah tahu guna utama besi, wf, hollow mulai digunakan untuk membuat tulangan beton, kanopi, pagar rumah dan lainnya. Seiring perkembanganya batu batu kini telah ada besi, wf, hollow dengan bermacam ukuran dan kualitas. Jikalau ketika ini anda mempunyai rencana untuk membangun sebuah rumah impian dan membutuhkan bahan besi, wf, hollow. Maka silahkan memesan besi, wf, hollow kepada kami selaku penyedia bahan besi, wf, hollow yang bermutu dan terpercaya.
 

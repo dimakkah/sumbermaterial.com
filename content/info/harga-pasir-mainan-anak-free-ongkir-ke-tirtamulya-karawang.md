@@ -160,7 +160,7 @@ Berikut ini List Harga Bahan Bangunan Free Ongkir yang kami jual.
 
 ## Sistem Pemesanan Pasir Free Ongkos Kirim dan Bongkar Di Tirtamulya Karawang
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Setelah anda mengenal Jenis - Jenis model Pasir mulai sekarang kamu sepatutnya teliti di dalam memilih jenis pasir yang akan anda pergunakan untuk membangun sebuah Konstruksi. Seandainya anda akan membeli pasir dari kami Sistem Pemesanan nya merupakan dengan whatsapp data domisili komplit dan nomor telepon saja, kami akan seketika mengirimnya ke lokasi proyek anda tanpa ada tambahan ongkos apa saja. Harga yang kami berikan merupakan telah termasuk ongkir dan penurunan jadi anda tak perlu cemas dengan pembengkakan biaya lagi. Metode pembayaran yang kami terapkan juga benar-benar aman, yaitu anda bayar sesudah material sampai ke daerah anda atau di sebut dengan istilah COD (Cash On Delivery). Anda juga dapat konsultasi atau diplomasi dengan kami lewat no telepon yang ada di laman ini.
 

@@ -119,7 +119,7 @@ Berikut ini Urutan Harga Bahan Material Alam Free Ongkir yang kami jual.
 
 ## Metode Pengorderan Pasir Free Ongkos Kirim dan Kuli Di Bedahan Depok
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Setelah kamu mengenal Tipe - Jenis Macam Pasir mulai kini kalian patut akurat di dalam memilih model pasir yg akan anda manfaatkan untuk membangun sebuah Konstruksi. Seandainya anda akan membeli pasir dari kami Cara Pemesanan nya yakni dengan whatsapp data alamat komplit dan nomor handphond saja, kami akan lantas mengirimnya ke lokasi proyek anda dengan tanpa tambahan biaya apa saja. Harga yang kami berikan yakni sudah termasuk biaya pengiriman dan tumpah jadi anda tidak perlu khawatir dengan penambahan harga lagi. Cara pembayaran yang kami terapkan juga sungguh-sungguh aman, merupakan anda bayar setelah material sampai ke lokasi anda atau di ucap dengan istilah COD (Cash On Delivery). Anda juga bisa konsultasi atau perundingan dengan kami via no telepon yang ada di web ini.
 

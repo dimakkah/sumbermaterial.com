@@ -63,7 +63,7 @@ Baja ringan SNI dijual dengan hitungan harga selaras dengan ketebalan dan dihitu
 
 ## Sistem Pembelian Bondek, Wiremesh Dan Baja Ringan Di Banjarsari Rangkasbitung
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/RlgIAwKCWFI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/RlgIAwKCWFI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Kalau anda berencana memesan material lewat Harga Bondek Wiremesh Baja Ringan Kirim Ke Banjarsari Rangkasbitung online karenanya salah satunya dapat menggunakan metode pembayaran bayar ditempat. Dimana metode Bayar Setelah sampe, pembeli patut membayar orderan dengan pembayaran tunai ketika barang yang diorder sampai di lokasi tujuan. Dibawah ini akan diterangkan langkah pembelian bondek, wiremesh dan baja ringan secara COD yang wajib anda ketahui.
 

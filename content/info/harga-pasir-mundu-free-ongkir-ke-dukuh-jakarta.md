@@ -160,7 +160,7 @@ Dibawah ini List Harga Bahan Material Alam Terlengkap yang kami jual.
 
 ## Cara Pengorderan Pasir Free Biaya Pengiriman dan Penurunan Di Dukuh Jakarta
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Setelah kalian memahami Macam - model Jenis Pasir mulai sekarang anda patut teliti dalam memilih macam pasir yg akan kamu gunakan untuk membangun sebuah Konstruksi. Seandainya anda berencana membeli pasir dari kami Metode Pengorderan nya yakni dengan memberikan data domisili lengkap dan nomor HP saja, kami akan segera mengirimnya ke lokasi proyek anda dengan tidak ada tambahan biaya apapun. Harga yang kami berikan adalah telah termasuk ongkos kirim dan penurunan jadi anda tidak perlu khawatir dengan penambahan harga lagi. Metode pembayaran yang kami terapkan juga sungguh-sungguh aman, merupakan anda bayar sesudah material sampai ke daerah anda atau di ucap dengan istilah COD (Cash On Delivery). Anda juga dapat konsultasi atau negosiasi dengan kami via no telepon yang ada di situs ini.
 

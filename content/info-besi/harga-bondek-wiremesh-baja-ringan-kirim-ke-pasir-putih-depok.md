@@ -63,7 +63,7 @@ Baja ringan SNI ditawarkan dengan hitungan harga pas dengan ketebalan dan dihitu
 
 ## System Pengorderan Bondek, Wiremesh Dan Baja Ringan Di Pasir Putih Depok
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/RlgIAwKCWFI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/RlgIAwKCWFI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Apabila anda berencana membeli material melewati Harga Bondek Wiremesh Baja Ringan Kirim Ke Pasir Putih Depok online karenanya salah satunya bisa menerapkan sistem pembayaran COD. Dimana metode COD, pembeli harus membayar orderan dengan pembayaran tunai saat barang yang diorder sampai di lokasi tujuan. Berikut ini akan digambarkan langkah pembelian bondek, wiremesh dan baja ringan secara COD yang wajib anda ketahui.
 

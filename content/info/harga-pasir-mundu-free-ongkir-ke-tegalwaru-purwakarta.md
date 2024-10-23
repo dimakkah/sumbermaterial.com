@@ -160,7 +160,7 @@ Dibawah ini Urutan Harga Bahan Bangunan Termurah yang kami jual.
 
 ## Cara Pengorderan Pasir Bebas Ongkos Kirim dan Bongkar Di Tegalwaru Purwakarta
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Setelah kalian mengenal Ragam - Ragam Macam Pasir mulai sekarang anda patut teliti dalam memilih ragam pasir yg akan anda gunakan untuk membangun sebuah Bangunan. Sekiranya anda hendak membeli pasir dari kami Sistem Pemesanan nya yaitu dengan Email data alamat lengkap dan nomor handphond saja, kami akan lantas mengirimnya ke lokasi proyek anda tanpa ada tambahan biaya apa saja. Harga yang kami berikan ialah sudah termasuk ongkir dan tumpah jadi anda tak perlu khawatir dengan penambahan harga lagi. Cara pembayaran yang kami terapkan juga amat aman, merupakan anda bayar setelah material sampai ke daerah anda atau di ucap dengan istilah COD (Cash On Delivery). Anda juga dapat konsultasi atau perundingan dengan kami melewati no telepon yang ada di web ini.
 

@@ -160,7 +160,7 @@ Dibawah ini Price List Harga Bahan Material Terlengkap yang kami jual.
 
 ## Metode Pengorderan Pasir Gratis Biaya Pengiriman dan Bongkar Di Cimpaeun Depok
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Sesudah anda mengetahui Jenis - Tipe model Pasir mulai kini anda patut cermat dalam memilih jenis pasir yg akan anda manfaatkan untuk membangun sebuah Konstruksi Bangunan. Seandainya anda berencana membeli pasir dari kami Sistem Pemesanan nya ialah dengan sms data domisili lengkap dan nomor HP saja, kami akan seketika mengirimnya ke lokasi proyek anda tanpa ada tambahan ongkos apa saja. Harga yang kami berikan yaitu sudah termasuk biaya pengiriman dan penurunan jadi anda tidak perlu cemas dengan pembengkakan biaya lagi. Sistem pembayaran yang kami terapkan juga sungguh-sungguh aman, ialah anda bayar sesudah material sampe ke daerah anda atau di sebut dengan istilah COD (Cash On Delivery). Anda juga bisa konsultasi atau negosiasi dengan kami via no telepon yang ada di laman ini.
 

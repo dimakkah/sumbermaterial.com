@@ -63,7 +63,7 @@ Baja ringan SNI ditawarkan dengan hitungan harga selaras dengan ketebalan dan di
 
 ## System Order Bondek, Wiremesh Dan Baja Ringan Di Semper Jakarta
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/RlgIAwKCWFI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/RlgIAwKCWFI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Jika anda berencana mengorder material melewati Harga Bondek Wiremesh Baja Ringan Kirim Ke Semper Jakarta online maka salah satunya bisa menggunakan metode pembayaran bayar ditempat. Dimana cara bayar ditempat, pembeli semestinya membayar orderan dengan pembayaran tunai saat barang yang diorder sampai di lokasi tujuan. Berikut ini akan diterangkan langkah pemesanan bondek, wiremesh dan baja ringan secara COD yang perlu anda kenal.
 

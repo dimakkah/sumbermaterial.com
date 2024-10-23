@@ -119,7 +119,7 @@ Berikut Daftar Harga Bahan Bangunan Terupdate yang kami jual.
 
 ## Cara Pengorderan Pasir Gratis Biaya Pengiriman dan Kuli Di Duri Utara Jakarta
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Setelah anda mengetahui Ragam - model model Pasir mulai sekarang kamu mesti akurat di dalam memilih macam pasir yg akan anda pakai untuk membangun sebuah Bangunan. Apabila anda berencana membeli pasir dari kami Sistem Pemesanan nya ialah dengan Email data domisili komplit dan nomor handphond saja, kami akan lantas mengirimnya ke lokasi proyek anda dengan tidak ada tambahan biaya apa saja. Harga yang kami berikan adalah telah termasuk ongkir dan penurunan jadi anda tak perlu khawatir dengan penambahan biaya lagi. Sistem pembayaran yang kami terapkan juga betul-betul aman, adalah anda bayar setelah material sampe ke tempat anda atau di sebut dengan istilah COD (Cash On Delivery). Anda juga bisa konsultasi atau negosiasi dengan kami melalui no telepon yang ada di web ini.
 

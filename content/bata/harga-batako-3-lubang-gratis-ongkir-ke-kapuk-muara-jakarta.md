@@ -55,7 +55,7 @@ Bila diperbandingkan dg material bangunan lainnya, batako mempunyai harga sekita
 
 ## Metode Order Bata Merah, Batako & Hebel Di Kapuk Muara Jakarta
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/IEs5XPt-xyU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/IEs5XPt-xyU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Segalanya tentu sudah tahu kegunaan utama batu bata mulai diaplikasikan untuk membikin tembok, pagar bangunan dan lainnya. Bersamaan dengan perkembangannya batu batu sekarang sudah ada batu bata merah, batako press hitam dan bata ringan. Jikalau dikala ini anda mempunyai agenda untuk membangun sebuah rumah yang idam-idamkan|impian|masa depan} dan memerlukan material batu bata. Karenanya silahkan mengorder batu bata terhadap toko penyedia material batu bata yang berkwalitas dan terpercaya.
 

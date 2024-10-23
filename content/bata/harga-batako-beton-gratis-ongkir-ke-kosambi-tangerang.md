@@ -55,7 +55,7 @@ Jika diperbandingkan dg bahan bangunan lainnya, batako trus memiliki harga sekit
 
 ## Cara Pembelian Bata Merah, Batako & Hebel Di Kosambi Tangerang
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/IEs5XPt-xyU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/IEs5XPt-xyU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Segalanya tentu sudah tahu kegunaan utama batu bata mulai digunakan untuk membuat tembok, pagar gedung dan lainnya. Sejalan perkembangannya batu batu kini sudah ada batu bata merah, batako trus hitam dan hebel. Kalau sekarang ini anda memiliki rencana untuk membuat sebuah gedung yg idam-idamkan|impian|masa depan} dan memerlukan bahan batu bata. Karenanya silahkan memesan batu bata terhadap warung penyedia bahan batu bata yg bermutu dan terpercaya.
 

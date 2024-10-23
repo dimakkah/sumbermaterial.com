@@ -160,7 +160,7 @@ Berikut ini Urutan Harga Bahan Material Alam Terupdate yang kami jual.
 
 ## Sistem Pengorderan Pasir Free Biaya Pengiriman dan Bongkar Di Mangga Besar Jakarta
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Setelah kalian mengenal Tipe - Macam Macam Pasir mulai kini kalian patut cermat di dalam memilih ragam pasir yang akan anda manfaatkan untuk membangun sebuah Konstruksi Bangunan. Bila anda akan membeli pasir dari kami Metode Pengorderan nya adalah dengan Email data domisili komplit dan nomor HP saja, kami akan langsung mengirimnya ke lokasi proyek anda tanpa ada tambahan biaya apapun. Harga yang kami berikan adalah sudah termasuk biaya pengiriman dan bongkar jadi anda tidak perlu kuatir dengan pembengkakan ongkos lagi. Metode pembayaran yang kami terapkan juga sungguh-sungguh aman, yaitu anda bayar sesudah material sampai ke tempat anda atau di ucap dengan istilah COD (Cash On Delivery). Anda juga bisa konsultasi atau negosiasi dengan kami melewati no telepon yang ada di web ini.
 

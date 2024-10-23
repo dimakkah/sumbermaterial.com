@@ -160,7 +160,7 @@ Dibawah ini List Harga Bahan Bangunan Terbaru yang kami jual.
 
 ## Sistem Pengorderan Pasir Bebas Ongkir dan Bongkar Di Rawajati Jakarta
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Setelah kamu memahami Jenis - Jenis Tipe Pasir mulai kini kamu sepatutnya akurat dalam memilih jenis pasir yang akan anda manfaatkan untuk membangun sebuah Bangunan. Apabila anda berencana membeli pasir dari kami Metode Pemesanan nya merupakan dengan memberikan data domisili komplit dan nomor telepon saja, kami akan seketika mengirimnya ke lokasi proyek anda dengan tanpa tambahan ongkos apapun. Harga yang kami berikan merupakan telah termasuk ongkir dan penurunan jadi anda tak perlu cemas dengan penambahan harga lagi. Metode pembayaran yang kami terapkan juga sangat aman, yaitu anda bayar setelah material sampai ke tempat anda atau di sebut dengan istilah COD (Cash On Delivery). Anda juga bisa konsultasi atau negosiasi dengan kami via no telepon yang ada di situs ini.
 

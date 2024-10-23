@@ -160,7 +160,7 @@ Dibawah ini Price List Harga Bahan Material Terupdate yang kami jual.
 
 ## Sistem Pengorderan Pasir Bebas Ongkos Kirim dan Bongkar Di Sunter Agung Jakarta
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Sesudah kalian mengetahui model - Tipe model Pasir mulai sekarang kamu wajib cermat di dalam memilih model pasir yang akan kamu pergunakan untuk membangun sebuah Konstruksi. Kalau anda mau membeli pasir dari kami Cara Pemesanan nya adalah dengan whatsapp data alamat lengkap dan nomor telepon saja, kami akan segera mengirimnya ke lokasi proyek anda dengan tidak ada tambahan ongkos apa saja. Harga yang kami berikan adalah telah termasuk biaya pengiriman dan tumpah jadi anda tidak perlu khawatir dengan penambahan biaya lagi. Metode pembayaran yang kami terapkan juga sungguh-sungguh aman, yakni anda bayar setelah material terkirim ke lokasi anda atau di ucap dengan istilah COD (Cash On Delivery). Anda juga bisa konsultasi atau diplomasi dengan kami lewat no telepon yang ada di website ini.
 

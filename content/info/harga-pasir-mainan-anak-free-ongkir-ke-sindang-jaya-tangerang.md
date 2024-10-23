@@ -119,7 +119,7 @@ Berikut Daftar Harga Bahan Material Terbaru yang kami jual.
 
 ## Metode Pengorderan Pasir Bebas Ongkos Kirim dan Penurunan Di Sindang Jaya Tangerang
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Setelah kamu mengetahui Ragam - Ragam Macam Pasir mulai sekarang anda mesti teliti di dalam memilih tipe pasir yg akan anda manfaatkan untuk membangun sebuah Bangunan. Sekiranya anda hendak membeli pasir dari kami Cara Pengorderan nya yakni dengan sms data alamat lengkap dan nomor HP saja, kami akan langsung mengirimnya ke lokasi proyek anda tanpa ada tambahan biaya apa saja. Harga yang kami berikan yakni sudah termasuk ongkir dan bongkar jadi anda tidak perlu khawatir dengan pembengkakan harga lagi. Cara pembayaran yang kami terapkan juga benar-benar aman, adalah anda bayar sesudah material sampe ke lokasi anda atau di sebut dengan istilah COD (Cash On Delivery). Anda juga dapat konsultasi atau negosiasi dengan kami lewat no telepon yang ada di situs ini.
 

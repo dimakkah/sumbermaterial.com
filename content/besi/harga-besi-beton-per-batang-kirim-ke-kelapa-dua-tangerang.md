@@ -51,7 +51,7 @@ Seluruh orang pasti menginginkan memiliki rumah yang berkualitas baik dan nyaman
 
 ## Cara Order Besi Beton Per Batang Di Kelapa Dua Tangerang
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/RlgIAwKCWFI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/RlgIAwKCWFI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Sekarang setiap dari anda tentunya telah tahu manfaat utama besi, wf, hollow mulai diaplikasikan untuk membikin tulangan beton, kanopi, pagar rumah dan lainnya. Seiring perkembanganya batu batu kini sudah ada besi, wf, hollow dengan bermacam ukuran dan kualitas. Kalau ketika ini anda memiliki agenda untuk membangun sebuah rumah idaman dan memerlukan bahan besi, wf, hollow. Karenanya silahkan mengorder besi, wf, hollow terhadap kami selaku penyedia bahan besi, wf, hollow yang berkwalitas dan terpercaya.
 

@@ -160,7 +160,7 @@ Berikut Price List Harga Bahan Material Alam Terupdate yang kami jual.
 
 ## Sistem Pemesanan Pasir Bebas Ongkir dan Penurunan Di Cipinang Cempedak Jakarta
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Setelah kamu mengetahui Jenis - Macam Jenis Pasir mulai kini kamu sepatutnya cermat di dalam memilih model pasir yg akan anda manfaatkan untuk membangun sebuah Bangunan. Kalau anda mau membeli pasir dari kami Metode Pengorderan nya yakni dengan sms data domisili komplit dan nomor HP saja, kami akan langsung mengirimnya ke lokasi proyek anda tanpa ada tambahan ongkos apapun. Harga yang kami berikan merupakan telah termasuk biaya pengiriman dan tumpah jadi anda tak perlu cemas dengan pembengkakan ongkos lagi. Sistem pembayaran yang kami terapkan juga betul-betul aman, yakni anda bayar sesudah material sampe ke daerah anda atau di sebut dengan istilah COD (Cash On Delivery). Anda juga dapat konsultasi atau negosiasi dengan kami lewat no telepon yang ada di laman ini.
 

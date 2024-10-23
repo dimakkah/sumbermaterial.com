@@ -119,7 +119,7 @@ Berikut Urutan Harga Bahan Material Alam Termurah yang kami jual.
 
 ## Cara Pemesanan Pasir Free Ongkos Kirim dan Kuli Di Karet Semanggi Jakarta
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Sesudah anda memahami Ragam - Macam Macam Pasir mulai kini kamu mesti akurat di dalam memilih ragam pasir yg akan kalian manfaatkan untuk membangun sebuah Konstruksi. Kalau anda akan membeli pasir dari kami Cara Pemesanan nya yaitu dengan whatsapp data alamat komplit dan nomor handphond saja, kami akan seketika mengirimnya ke lokasi proyek anda tanpa ada tambahan biaya apa saja. Harga yang kami berikan yaitu telah termasuk ongkir dan bongkar jadi anda tak perlu khawatir dengan penambahan biaya lagi. Metode pembayaran yang kami terapkan juga benar-benar aman, merupakan anda bayar setelah material sampai ke lokasi anda atau di sebut dengan istilah COD (Cash On Delivery). Anda juga dapat konsultasi atau perundingan dengan kami lewat no telepon yang ada di situs ini.
 

@@ -160,7 +160,7 @@ Berikut Urutan Harga Bahan Material Free Ongkir yang kami jual.
 
 ## Metode Pengorderan Pasir Gratis Biaya Pengiriman dan Bongkar Di Majalaya Karawang
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Sesudah kalian mengenal Macam - Tipe Macam Pasir mulai kini anda patut cermat di dalam memilih model pasir yang akan kamu manfaatkan untuk membangun sebuah Bangunan. Jika anda berencana membeli pasir dari kami Cara Pengorderan nya yakni dengan whatsapp data alamat lengkap dan nomor telepon saja, kami akan seketika mengirimnya ke lokasi proyek anda dengan tanpa tambahan biaya apapun. Harga yang kami berikan yakni sudah termasuk ongkir dan tumpah jadi anda tak perlu kuatir dengan pembengkakan biaya lagi. Cara pembayaran yang kami terapkan juga amat aman, yakni anda bayar sesudah material sampai ke lokasi anda atau di ucap dengan istilah COD (Cash On Delivery). Anda juga bisa konsultasi atau perundingan dengan kami melewati no telepon yang ada di situs ini.
 

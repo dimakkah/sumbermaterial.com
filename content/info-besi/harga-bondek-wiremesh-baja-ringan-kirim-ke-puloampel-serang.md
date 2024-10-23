@@ -63,7 +63,7 @@ Baja ringan SNI dijual dengan hitungan harga selaras dengan ketebalan dan dihitu
 
 ## Metode Pengorderan Bondek, Wiremesh Dan Baja Ringan Di Puloampel Serang
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/RlgIAwKCWFI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/RlgIAwKCWFI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Jika anda berencana memesan bahan bangunan melewati Harga Bondek Wiremesh Baja Ringan Kirim Ke Puloampel Serang online karenanya salah satunya dapat menggunakan cara pembayaran bayar ditempat. Dimana metode bayar ditempat, pembeli harus membayar pesanan dengan pembayaran tunai saat barang yang diorder tiba di tempat tujuan. Berikut ini akan digambarkan langkah pemesanan bondek, wiremesh dan baja ringan secara COD yang perlu anda ketahui.
 

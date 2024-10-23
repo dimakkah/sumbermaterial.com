@@ -160,7 +160,7 @@ Berikut ini Daftar Harga Bahan Bangunan Terbaru yang kami jual.
 
 ## Metode Pengorderan Pasir Free Ongkos Kirim dan Penurunan Di Krendang Jakarta
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Sesudah kalian mengenal Ragam - Macam Jenis Pasir mulai sekarang anda semestinya teliti dalam memilih macam pasir yang akan anda pakai untuk membangun sebuah Konstruksi. Bila anda akan membeli pasir dari kami Sistem Pengorderan nya yaitu dengan Email data domisili komplit dan nomor HP saja, kami akan lantas mengirimnya ke lokasi proyek anda dengan tidak ada tambahan biaya apa saja. Harga yang kami berikan merupakan telah termasuk ongkir dan penurunan jadi anda tak perlu khawatir dengan penambahan harga lagi. Metode pembayaran yang kami terapkan juga betul-betul aman, adalah anda bayar setelah material sampai ke daerah anda atau di sebut dengan istilah COD (Cash On Delivery). Anda juga dapat konsultasi atau diplomasi dengan kami lewat no telepon yang ada di website ini.
 

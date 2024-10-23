@@ -119,7 +119,7 @@ Berikut Price List Harga Bahan Material Alam Termurah yang kami jual.
 
 ## Cara Pengorderan Pasir Bebas Biaya Pengiriman dan Penurunan Di Cengkareng Timur Jakarta
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Setelah kalian mengenal model - Tipe Ragam Pasir mulai sekarang kamu mesti akurat dalam memilih tipe pasir yg akan kalian pergunakan untuk membangun sebuah Konstruksi. Jika anda berencana membeli pasir dari kami Metode Pengorderan nya yaitu dengan memberikan data domisili komplit dan nomor HP saja, kami akan lantas mengirimnya ke lokasi proyek anda dengan tanpa tambahan biaya apapun. Harga yang kami berikan yaitu telah termasuk ongkir dan bongkar jadi anda tidak perlu khawatir dengan penambahan ongkos lagi. Sistem pembayaran yang kami terapkan juga sangat aman, ialah anda bayar sesudah material sampe ke lokasi anda atau di sebut dengan istilah COD (Cash On Delivery). Anda juga dapat konsultasi atau perundingan dengan kami melalui no telepon yang ada di situs ini.
 

@@ -119,7 +119,7 @@ Dibawah ini Price List Harga Bahan Material Alam Termurah yang kami jual.
 
 ## Sistem Pengorderan Pasir Bebas Biaya Pengiriman dan Kuli Di Sukadamai Bogor
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Setelah anda mengetahui Jenis - Tipe Ragam Pasir mulai sekarang anda semestinya akurat di dalam memilih macam pasir yang akan kamu manfaatkan untuk membangun sebuah Bangunan. Jika anda mau membeli pasir dari kami Cara Pemesanan nya merupakan dengan Email data domisili komplit dan nomor HP saja, kami akan segera mengirimnya ke lokasi proyek anda dengan tanpa tambahan biaya apapun. Harga yang kami berikan ialah telah termasuk ongkir dan bongkar jadi anda tak perlu kuatir dengan penambahan biaya lagi. Metode pembayaran yang kami terapkan juga sungguh-sungguh aman, adalah anda bayar setelah material terkirim ke tempat anda atau di sebut dengan istilah COD (Cash On Delivery). Anda juga dapat konsultasi atau perundingan dengan kami melewati no telepon yang ada di situs ini.
 

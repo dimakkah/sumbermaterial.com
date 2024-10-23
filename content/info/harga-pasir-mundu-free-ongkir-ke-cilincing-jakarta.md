@@ -119,7 +119,7 @@ Berikut List Harga Bahan Material Alam Free Ongkir yang kami jual.
 
 ## Metode Pemesanan Pasir Bebas Ongkos Kirim dan Penurunan Di Cilincing Jakarta
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Sesudah anda mengenal Macam - model Ragam Pasir mulai sekarang anda harus teliti di dalam memilih model pasir yang akan kamu manfaatkan untuk membangun sebuah Konstruksi Bangunan. Bila anda hendak membeli pasir dari kami Metode Pengorderan nya yakni dengan Email data alamat komplit dan nomor telepon saja, kami akan seketika mengirimnya ke lokasi proyek anda tanpa ada tambahan biaya apa saja. Harga yang kami berikan ialah sudah termasuk ongkir dan bongkar jadi anda tidak perlu cemas dengan penambahan harga lagi. Cara pembayaran yang kami terapkan juga amat aman, merupakan anda bayar setelah material terkirim ke daerah anda atau di sebut dengan istilah COD (Cash On Delivery). Anda juga bisa konsultasi atau negosiasi dengan kami melewati no telepon yang ada di web ini.
 

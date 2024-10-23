@@ -55,7 +55,7 @@ Jikalau dibandingi dg bahan bangunan lainnya, batako memiliki harga sekitar Rp 3
 
 ## Cara Pesan Bata Merah, Batako & Hebel Di Pegadungan Jakarta
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/IEs5XPt-xyU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/IEs5XPt-xyU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Seluruhnya tentu telah tahu fungsi utama batu bata mulai diaplikasikan untuk membikin tembok, pagar rumah dan lainnya. Bersamaan dengan perkembangannya batu batu sekarang sudah ada batu bata merah, batako trus hitam dan herbel. Sekiranya dikala ini anda memiliki rencana untuk membuat sebuah tempat tinggal yang idam-idamkan|impian|masa depan} dan membutuhkan material batu bata. Karenanya silahkan mengorder batu bata kepada toko penyedia bahan batu bata yang berkualitas dan terpercaya.
 

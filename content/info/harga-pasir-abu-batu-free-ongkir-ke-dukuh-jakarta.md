@@ -160,7 +160,7 @@ Berikut Daftar Harga Bahan Material Alam Terupdate yang kami jual.
 
 ## Metode Pemesanan Pasir Gratis Ongkir dan Kuli Di Dukuh Jakarta
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Setelah anda mengenal Jenis - Tipe model Pasir mulai sekarang anda wajib akurat dalam memilih macam pasir yang akan anda pergunakan untuk membangun sebuah Bangunan. Jika anda hendak membeli pasir dari kami Sistem Pengorderan nya yaitu dengan memberikan data alamat komplit dan nomor telepon saja, kami akan seketika mengirimnya ke lokasi proyek anda dengan tanpa tambahan ongkos apapun. Harga yang kami berikan yakni telah termasuk ongkir dan penurunan jadi anda tidak perlu kuatir dengan penambahan biaya lagi. Metode pembayaran yang kami terapkan juga amat aman, merupakan anda bayar sesudah material sampe ke daerah anda atau di ucap dengan istilah COD (Cash On Delivery). Anda juga dapat konsultasi atau perundingan dengan kami melalui no telepon yang ada di laman ini.
 

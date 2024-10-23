@@ -119,7 +119,7 @@ Berikut ini Daftar Harga Bahan Material Alam Termurah yang kami jual.
 
 ## Metode Pemesanan Pasir Gratis Ongkos Kirim dan Penurunan Di Pinang Ranti Jakarta
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Sesudah kalian mengetahui Macam - Macam Macam Pasir mulai kini anda semestinya cermat dalam memilih model pasir yang akan kamu manfaatkan untuk membangun sebuah Bangunan. Apabila anda hendak membeli pasir dari kami Cara Pemesanan nya adalah dengan Email data alamat lengkap dan nomor handphond saja, kami akan seketika mengirimnya ke lokasi proyek anda dengan tidak ada tambahan ongkos apa saja. Harga yang kami berikan yakni sudah termasuk biaya pengiriman dan tumpah jadi anda tak perlu cemas dengan pembengkakan ongkos lagi. Cara pembayaran yang kami terapkan juga sangat aman, adalah anda bayar setelah material sampe ke lokasi anda atau di ucap dengan istilah COD (Cash On Delivery). Anda juga dapat konsultasi atau diplomasi dengan kami via no telepon yang ada di web ini.
 

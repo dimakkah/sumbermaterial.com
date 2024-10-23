@@ -33,7 +33,7 @@ Beton Readymix kwalitas ini adalah kwalitas beton Readymix yg didesain khusus un
 
 ### Beton Ready mix K375 sd K500 dan Harganya Di Sukatani Purwakarta
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/MVuQWwYFCiA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/MVuQWwYFCiA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Mutu beton Readymix yg terkhir ialah mutu beton yang didesaian khusus utk pekerjaan cepat biasa disebut juga dengan beton fast track adalah kualitas beton Ready mix yg bisa kering hanya dalam sebagian hari saja. Harganya pun cukup mahal utk K375 sendiri per kubiknya 1.000.000, K400 harganya 1.200.000 per kubik dan K500 1.400.000 per m3nya. Mutu-kualitas beton tadi digunakna pada pengecoran jalan rigit yang akan diterapkan bebera hari kemudian atau pada pengecoran jembatan dan bendungan serta pengecoran dalam air.
 

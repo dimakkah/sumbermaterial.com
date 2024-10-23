@@ -119,7 +119,7 @@ Berikut ini Urutan Harga Bahan Bangunan Termurah yang kami jual.
 
 ## Sistem Pemesanan Pasir Free Ongkir dan Penurunan Di Bangka Jakarta
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Sesudah anda memahami Macam - Ragam Tipe Pasir mulai kini kalian mesti cermat di dalam memilih tipe pasir yang akan anda pakai untuk membangun sebuah Konstruksi. Jikalau anda hendak membeli pasir dari kami Metode Pengorderan nya merupakan dengan Email data alamat komplit dan nomor telepon saja, kami akan seketika mengirimnya ke lokasi proyek anda dengan tanpa tambahan ongkos apa saja. Harga yang kami berikan adalah sudah termasuk biaya pengiriman dan bongkar jadi anda tidak perlu khawatir dengan pembengkakan ongkos lagi. Cara pembayaran yang kami terapkan juga betul-betul aman, yakni anda bayar setelah material sampai ke lokasi anda atau di ucap dengan istilah COD (Cash On Delivery). Anda juga dapat konsultasi atau negosiasi dengan kami melewati no telepon yang ada di situs ini.
 

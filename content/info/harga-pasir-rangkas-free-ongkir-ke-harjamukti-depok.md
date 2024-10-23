@@ -160,7 +160,7 @@ Berikut ini Urutan Harga Bahan Material Alam Terbaru yang kami jual.
 
 ## Cara Pengorderan Pasir Free Biaya Pengiriman dan Kuli Di Harjamukti Depok
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Sesudah kalian mengenal Ragam - Ragam Tipe Pasir mulai kini kamu harus teliti dalam memilih model pasir yang akan anda manfaatkan untuk membangun sebuah Bangunan. Bila anda berencana membeli pasir dari kami Sistem Pengorderan nya ialah dengan memberikan data alamat lengkap dan nomor HP saja, kami akan langsung mengirimnya ke lokasi proyek anda dengan tidak ada tambahan ongkos apapun. Harga yang kami berikan ialah sudah termasuk ongkos kirim dan penurunan jadi anda tidak perlu kuatir dengan pembengkakan biaya lagi. Sistem pembayaran yang kami terapkan juga betul-betul aman, ialah anda bayar sesudah material sampai ke lokasi anda atau di ucap dengan istilah COD (Cash On Delivery). Anda juga dapat konsultasi atau perundingan dengan kami lewat no telepon yang ada di laman ini.
 

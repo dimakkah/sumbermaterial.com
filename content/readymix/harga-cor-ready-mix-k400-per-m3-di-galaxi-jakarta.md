@@ -33,7 +33,7 @@ Beton Ready mix mutu ini yaitu mutu beton Ready mix yg didesign khusus untuk kon
 
 ### Beton Ready mix K375 sd K500 dan Harganya Di Di Galaxi Jakarta
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/MVuQWwYFCiA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/MVuQWwYFCiA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Mutu beton Readymix yg terkhir ialah mutu beton yg didesaian khusus untuk pekerjaan cepat lazim dinamakan juga dengan beton fast track yakni kualitas beton Ready mix yang bisa kering cuma dalam beberapa hari saja. Harganya bahkan cukup mahal untuk K375 sendiri per kubiknya 1.000.000, K400 harganya 1.200.000 per m3 dan K500 1.400.000 per kubiknya. Kualitas-kualitas beton tadi digunakna pada pengecoran jalan rigit yg akan diterapkan bebera hari kemudian atau pada pengecoran jembatan dan bendungan serta pengecoran dalam air.
 

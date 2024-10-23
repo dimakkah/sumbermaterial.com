@@ -160,7 +160,7 @@ Dibawah ini List Harga Bahan Bangunan Terlengkap yang kami jual.
 
 ## Metode Pemesanan Pasir Gratis Biaya Pengiriman dan Penurunan Di Rajeg Tangerang
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Setelah anda mengetahui Jenis - Ragam Macam Pasir mulai sekarang kamu semestinya akurat di dalam memilih jenis pasir yang akan anda pergunakan untuk membangun sebuah Bangunan. Bila anda hendak membeli pasir dari kami Cara Pemesanan nya adalah dengan Email data domisili komplit dan nomor telepon saja, kami akan seketika mengirimnya ke lokasi proyek anda dengan tanpa tambahan ongkos apapun. Harga yang kami berikan adalah telah termasuk ongkos kirim dan tumpah jadi anda tak perlu cemas dengan pembengkakan harga lagi. Cara pembayaran yang kami terapkan juga sangat aman, merupakan anda bayar sesudah material sampai ke lokasi anda atau di sebut dengan istilah COD (Cash On Delivery). Anda juga dapat konsultasi atau negosiasi dengan kami via no telepon yang ada di website ini.
 

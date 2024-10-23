@@ -119,7 +119,7 @@ Dibawah ini Price List Harga Bahan Material Terlengkap yang kami jual.
 
 ## Metode Pemesanan Pasir Bebas Ongkos Kirim dan Penurunan Di Karang Anyar Jakarta
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Setelah anda memahami model - Ragam Jenis Pasir mulai kini kalian wajib akurat di dalam memilih tipe pasir yg akan kalian pergunakan untuk membangun sebuah Bangunan. Apabila anda akan membeli pasir dari kami Sistem Pemesanan nya yaitu dengan whatsapp data domisili lengkap dan nomor telepon saja, kami akan segera mengirimnya ke lokasi proyek anda tanpa ada tambahan biaya apa saja. Harga yang kami berikan ialah telah termasuk ongkir dan bongkar jadi anda tak perlu cemas dengan penambahan harga lagi. Metode pembayaran yang kami terapkan juga betul-betul aman, ialah anda bayar setelah material sampai ke tempat anda atau di sebut dengan istilah COD (Cash On Delivery). Anda juga dapat konsultasi atau perundingan dengan kami melalui no telepon yang ada di situs ini.
 

@@ -160,7 +160,7 @@ Berikut ini Urutan Harga Bahan Material Alam Terlengkap yang kami jual.
 
 ## Metode Pengorderan Pasir Gratis Ongkir dan Kuli Di Ciputat Tangerang
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Sesudah anda mengenal Jenis - Jenis Ragam Pasir mulai sekarang kamu sepatutnya akurat dalam memilih tipe pasir yang akan anda pakai untuk membangun sebuah Bangunan. Apabila anda akan membeli pasir dari kami Cara Pemesanan nya yaitu dengan memberikan data domisili komplit dan nomor handphond saja, kami akan seketika mengirimnya ke lokasi proyek anda dengan tanpa tambahan biaya apa saja. Harga yang kami berikan yaitu telah termasuk ongkos kirim dan bongkar jadi anda tak perlu khawatir dengan pembengkakan biaya lagi. Metode pembayaran yang kami terapkan juga sungguh-sungguh aman, yaitu anda bayar setelah material sampe ke daerah anda atau di ucap dengan istilah COD (Cash On Delivery). Anda juga bisa konsultasi atau negosiasi dengan kami melewati no telepon yang ada di website ini.
 

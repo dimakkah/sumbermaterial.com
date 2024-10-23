@@ -160,7 +160,7 @@ Dibawah ini Price List Harga Bahan Bangunan Terupdate yang kami jual.
 
 ## Sistem Pengorderan Pasir Bebas Biaya Pengiriman dan Bongkar Di Kamal Jakarta
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Sesudah kalian mengenal Ragam - Macam Macam Pasir mulai kini anda patut akurat di dalam memilih macam pasir yg akan kalian pergunakan untuk membangun sebuah Konstruksi Bangunan. Seandainya anda hendak membeli pasir dari kami Cara Pemesanan nya yaitu dengan sms data domisili komplit dan nomor telepon saja, kami akan lantas mengirimnya ke lokasi proyek anda tanpa ada tambahan biaya apa saja. Harga yang kami berikan merupakan telah termasuk ongkos kirim dan bongkar jadi anda tidak perlu khawatir dengan pembengkakan biaya lagi. Cara pembayaran yang kami terapkan juga benar-benar aman, merupakan anda bayar sesudah material sampe ke tempat anda atau di sebut dengan istilah COD (Cash On Delivery). Anda juga bisa konsultasi atau perundingan dengan kami melewati no telepon yang ada di website ini.
 

@@ -160,7 +160,7 @@ Dibawah ini List Harga Bahan Material Alam Terlengkap yang kami jual.
 
 ## Sistem Pemesanan Pasir Free Ongkos Kirim dan Bongkar Di Bale Kambang Jakarta
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Setelah kalian memahami Ragam - Macam Macam Pasir mulai sekarang kamu wajib cermat dalam memilih ragam pasir yang akan kalian manfaatkan untuk membangun sebuah Konstruksi Bangunan. Apabila anda akan membeli pasir dari kami Sistem Pemesanan nya merupakan dengan sms data domisili komplit dan nomor handphond saja, kami akan lantas mengirimnya ke lokasi proyek anda tanpa ada tambahan biaya apa saja. Harga yang kami berikan ialah sudah termasuk ongkir dan tumpah jadi anda tidak perlu kuatir dengan penambahan biaya lagi. Cara pembayaran yang kami terapkan juga amat aman, yaitu anda bayar sesudah material terkirim ke daerah anda atau di ucap dengan istilah COD (Cash On Delivery). Anda juga bisa konsultasi atau diplomasi dengan kami via no telepon yang ada di web ini.
 

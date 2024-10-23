@@ -119,7 +119,7 @@ Berikut ini List Harga Bahan Material Free Ongkir yang kami jual.
 
 ## Sistem Pemesanan Pasir Free Ongkos Kirim dan Bongkar Di Kronjo Tangerang
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Sesudah anda mengetahui model - Macam model Pasir mulai sekarang kalian mesti akurat di dalam memilih macam pasir yang akan anda pakai untuk membangun sebuah Bangunan. Kalau anda berencana membeli pasir dari kami Cara Pengorderan nya merupakan dengan sms data domisili komplit dan nomor handphond saja, kami akan segera mengirimnya ke lokasi proyek anda dengan tidak ada tambahan biaya apa saja. Harga yang kami berikan adalah sudah termasuk biaya pengiriman dan penurunan jadi anda tidak perlu kuatir dengan penambahan ongkos lagi. Cara pembayaran yang kami terapkan juga sangat aman, yaitu anda bayar setelah material sampai ke lokasi anda atau di ucap dengan istilah COD (Cash On Delivery). Anda juga dapat konsultasi atau perundingan dengan kami via no telepon yang ada di web ini.
 

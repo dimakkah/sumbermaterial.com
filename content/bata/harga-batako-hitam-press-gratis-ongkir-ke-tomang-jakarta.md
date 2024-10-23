@@ -55,7 +55,7 @@ Jika diperbandingkan dg bahan bangunan lainnya, batako mempunyai harga sekitar R
 
 ## Metode Pembelian Bata Merah, Batako & Hebel Di Tomang Jakarta
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/IEs5XPt-xyU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/IEs5XPt-xyU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Segalanya tentu sudah tahu fungsi utama batu bata mulai dipakai untuk membuat tembok, pagar tempat tinggal dan lainnya. Bersamaan dengan perkembangannya batu batu kini sudah ada batu bata merah, batako trus hitam dan hebel. Jikalau sekarang ini anda memiliki agenda untuk membuat sebuah rumah yang idam-idamkan|impian|masa depan} dan memerlukan bahan batu bata. Maka silahkan mengorder batu bata terhadap warung penyedia material batu bata yg berkwalitas dan terpercaya.
 

@@ -55,7 +55,7 @@ Jikalau dibandingi dg bahan bangunan lainnya, batako press mempunyai harga sekit
 
 ## Cara Pesan Bata Merah, Batako & Hebel Di Limo Depok
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/IEs5XPt-xyU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/IEs5XPt-xyU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Seluruhnya tentu sudah tahu fungsi utama batu bata mulai digunakan untuk membikin tembok, pagar rumah dan lainnya. Bersamaan dengan perkembangannya batu batu kini telah ada batu bata merah, batako hitam dan bata ringan. Sekiranya sekarang ini anda mempunyai rencana untuk membangun sebuah tempat tinggal yg idam-idamkan|impian|masa depan} dan memerlukan material batu bata. Maka silahkan mengorder batu bata terhadap toko penyedia material batu bata yang berkualitas dan terpercaya.
 

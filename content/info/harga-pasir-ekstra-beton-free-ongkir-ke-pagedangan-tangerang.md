@@ -160,7 +160,7 @@ Berikut Daftar Harga Bahan Material Alam Free Ongkir yang kami jual.
 
 ## Metode Pengorderan Pasir Bebas Ongkir dan Bongkar Di Pagedangan Tangerang
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Setelah anda mengetahui Macam - Macam Macam Pasir mulai kini kamu sepatutnya teliti dalam memilih tipe pasir yang akan anda manfaatkan untuk membangun sebuah Bangunan. Sekiranya anda hendak membeli pasir dari kami Sistem Pemesanan nya merupakan dengan whatsapp data alamat lengkap dan nomor handphond saja, kami akan segera mengirimnya ke lokasi proyek anda dengan tanpa tambahan ongkos apa saja. Harga yang kami berikan merupakan telah termasuk biaya pengiriman dan tumpah jadi anda tak perlu kuatir dengan penambahan ongkos lagi. Cara pembayaran yang kami terapkan juga amat aman, merupakan anda bayar setelah material terkirim ke daerah anda atau di ucap dengan istilah COD (Cash On Delivery). Anda juga dapat konsultasi atau negosiasi dengan kami melewati no telepon yang ada di web ini.
 

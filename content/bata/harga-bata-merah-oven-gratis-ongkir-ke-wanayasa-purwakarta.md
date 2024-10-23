@@ -45,7 +45,7 @@ Yang harus Anda ketahui dari material hebel ini ialah model ukuran dan harganya.
 
 ## Supplier Bata Merah, Batako, Hebel Di Wanayasa Purwakarta
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/IEs5XPt-xyU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/IEs5XPt-xyU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 **Daftar Harga Bata Merah Oven Gratis Ongkir Ke Wanayasa Purwakarta**
 

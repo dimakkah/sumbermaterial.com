@@ -55,7 +55,7 @@ Jikalau dibandingkan dg bahan bangunan lainnya, batako mempunyai harga sekitar R
 
 ## Metode Pemesanan Bata Merah, Batako & Hebel Di Ciledug Tangerang
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/IEs5XPt-xyU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/IEs5XPt-xyU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Segalanya tentu telah tahu kegunaan utama batu bata mulai dipakai untuk membuat tembok, pagar gedung dan lainnya. Bertepatan dengan perkembangannya batu batu kini telah ada batu bata merah, batako hitam dan bata ringan. Seandainya saat ini anda memiliki rencana untuk membuat sebuah rumah yang idam-idamkan|impian|masa depan} dan memerlukan material batu bata. Maka silahkan memesan batu bata kepada warung penyedia bahan batu bata yang bermutu dan terpercaya.
 

@@ -63,7 +63,7 @@ Baja ringan SNI dijual dengan hitungan harga sesuai dengan ketebalan dan dihitun
 
 ## Metode Pembelian Bondek, Wiremesh Dan Baja Ringan Di Bendungan Hilir Jakarta
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/RlgIAwKCWFI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/RlgIAwKCWFI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Apabila anda berencana mengorder material melewati Harga Bondek Wiremesh Baja Ringan Kirim Ke Bendungan Hilir Jakarta online karenanya salah satunya bisa memakai cara pembayaran COD. Dimana cara bayar ditempat, pembeli semestinya membayar pesanan dengan pembayaran tunai saat barang yang dipesan tiba di tempat tujuan. Berikut ini akan dijelaskan langkah pengorderan bondek, wiremesh dan baja ringan secara COD yang wajib anda ketahui.
 

@@ -55,7 +55,7 @@ Jikalau diperbandingkan dengan material bangunan lainnya, batako mempunyai harga
 
 ## Sistem Order Bata Merah, Batako & Hebel Di Sindangsari Bogor
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/IEs5XPt-xyU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/IEs5XPt-xyU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Segalanya tentu telah tahu fungsi utama batu bata mulai diaplikasikan untuk membikin tembok, pagar bangunan dan lainnya. Bersamaan dengan perkembangannya batu batu sekarang telah ada batu bata merah, batako hitam dan herbel. Jikalau sekarang ini anda memiliki rencana untuk membuat sebuah tempat tinggal yg idam-idamkan|impian|masa depan} dan memerlukan bahan batu bata. Maka silahkan memesan batu bata terhadap warung penyedia bahan batu bata yg berkwalitas dan terpercaya.
 

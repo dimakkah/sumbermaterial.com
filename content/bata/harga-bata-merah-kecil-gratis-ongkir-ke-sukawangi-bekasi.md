@@ -45,7 +45,7 @@ Yang perlu Anda tahu dari material hebel ini yaitu variasi ukuran dan harganya. 
 
 ## Distributor Bata Merah, Batako, Hebel Di Sukawangi Bekasi
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/IEs5XPt-xyU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/IEs5XPt-xyU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 **Daftar Harga Bata Merah Kecil Gratis Ongkir Ke Sukawangi Bekasi**
 

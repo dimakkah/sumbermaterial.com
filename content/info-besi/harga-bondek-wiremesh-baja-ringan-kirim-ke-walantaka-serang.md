@@ -63,7 +63,7 @@ Baja ringan SNI dijual dengan hitungan harga selaras dengan ketebalan dan dihitu
 
 ## Sistem Pemesanan Bondek, Wiremesh Dan Baja Ringan Di Walantaka Serang
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/RlgIAwKCWFI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/RlgIAwKCWFI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Kalau anda berencana membeli material lewat Harga Bondek Wiremesh Baja Ringan Kirim Ke Walantaka Serang online maka salah satunya dapat menerapkan metode pembayaran Bayar Setelah sampe. Dimana metode COD, pembeli sepatutnya membayar orderan dengan pembayaran tunai saat barang yang diorder sampai di lokasi tujuan. Berikut ini akan ditunjukkan langkah pengorderan bondek, wiremesh dan baja ringan secara COD yang wajib anda ketahui.
 

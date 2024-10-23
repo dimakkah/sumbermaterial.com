@@ -63,7 +63,7 @@ Baja ringan SNI dijual dengan hitungan harga pas dengan ketebalan dan dihitung p
 
 ## Sistem Pengorderan Bondek, Wiremesh Dan Baja Ringan Di Kosambi Tangerang
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/RlgIAwKCWFI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/RlgIAwKCWFI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Jika anda berencana membeli bahan bangunan lewat Harga Bondek Wiremesh Baja Ringan Kirim Ke Kosambi Tangerang online maka salah satunya dapat memakai cara pembayaran Bayar Setelah sampe. Dimana metode Bayar Setelah sampe, pembeli patut membayar orderan dengan pembayaran tunai ketika barang yang dipesan tiba di tempat tujuan. Dibawah ini akan digambarkan langkah pemesanan bondek, wiremesh dan baja ringan secara COD yang wajib anda ketahui.
 

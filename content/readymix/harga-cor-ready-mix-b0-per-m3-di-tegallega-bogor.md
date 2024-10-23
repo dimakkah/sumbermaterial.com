@@ -33,7 +33,7 @@ Beton Readymix kualitas ini yaitu kwalitas beton Ready mix yang didesign khusus 
 
 ### Beton Ready mix K375 sd K500 dan Harganya Di Tegallega Bogor
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/MVuQWwYFCiA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/MVuQWwYFCiA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Mutu beton Ready mix yang terkhir yaitu kwalitas beton yang didesaian khusus utk pekerjaan ekspress biasa disebut juga dengan beton fast track ialah mutu beton Readymix yg bisa kering hanya dalam beberapa hari saja. Harganya pun cukup mahal utk K375 sendiri per kubiknya 1.000.000, K400 harganya 1.200.000 per m3 dan K500 1.400.000 per kubiknya. Kualitas-kwalitas beton tersebut digunakna pada pengecoran jalan rigit yg akan diaplikasikan bebera hari kemudian atau pada pengecoran jembatan dan bendungan serta pengecoran dalam air.
 

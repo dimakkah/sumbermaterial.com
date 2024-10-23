@@ -160,7 +160,7 @@ Dibawah ini Daftar Harga Bahan Material Free Ongkir yang kami jual.
 
 ## Sistem Pemesanan Pasir Free Ongkir dan Kuli Di Pademangan Jakarta
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Sesudah anda memahami Jenis - Ragam model Pasir mulai sekarang anda wajib akurat dalam memilih jenis pasir yg akan anda manfaatkan untuk membangun sebuah Bangunan. Seandainya anda berencana membeli pasir dari kami Cara Pemesanan nya merupakan dengan sms data alamat lengkap dan nomor HP saja, kami akan seketika mengirimnya ke lokasi proyek anda dengan tanpa tambahan biaya apapun. Harga yang kami berikan merupakan telah termasuk ongkos kirim dan penurunan jadi anda tak perlu cemas dengan penambahan ongkos lagi. Cara pembayaran yang kami terapkan juga betul-betul aman, merupakan anda bayar sesudah material sampai ke lokasi anda atau di sebut dengan istilah COD (Cash On Delivery). Anda juga dapat konsultasi atau perundingan dengan kami melewati no telepon yang ada di web ini.
 

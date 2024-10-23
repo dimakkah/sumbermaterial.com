@@ -97,7 +97,7 @@ Blow molding adalah sebuah tahapan pengecoran yang memanfaatkan beberapa produk 
 
 ## List Harga Di Tegal Parang Jakarta
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/MVuQWwYFCiA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/MVuQWwYFCiA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 List Biaya Jasa Cor Lantai dan Jalan Per Meter Di Tegal Parang Jakarta
 

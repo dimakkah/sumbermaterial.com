@@ -63,7 +63,7 @@ Baja ringan SNI ditawarkan dengan hitungan harga selaras dengan ketebalan dan di
 
 ## Metode Pemesanan Bondek, Wiremesh Dan Baja Ringan Di Gunung Sahari Selatan Jakarta
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/RlgIAwKCWFI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/RlgIAwKCWFI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Kalau anda berencana mengorder bahan bangunan melewati Harga Bondek Wiremesh Baja Ringan Kirim Ke Gunung Sahari Selatan Jakarta online maka salah satunya bisa mengaplikasikan sistem pembayaran COD. Dimana cara COD, pembeli wajib membayar orderan dengan pembayaran tunai saat barang yang diorder sampai di lokasi tujuan. Berikut ini akan dibeberkan langkah pembelian bondek, wiremesh dan baja ringan secara COD yang wajib anda ketahui.
 

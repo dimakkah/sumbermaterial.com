@@ -91,7 +91,7 @@ c. Proses pengiriman yang cukup susah. Besi H Beam tidak dapat masuk ke tempat s
 
 ## List Harga Besi H Beam Dan WF Kirim Ke Paledang Bogor
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/BVtHMa11pnc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/BVtHMa11pnc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 **Daftar Harga Harga Besi H Beam Dan WF Kirim Ke Paledang Bogor**
 

@@ -51,7 +51,7 @@ Seluruh orang pasti mengharapkan memiliki rumah yang berkualitas baik dan nyaman
 
 ## Metode Pengorderan Besi Beton Per Batang Di Kedungwaringin Bekasi
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/RlgIAwKCWFI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/RlgIAwKCWFI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Sekarang tiap-tiap dari anda tentunya telah tahu guna utama besi, wf, hollow mulai digunakan untuk membikin tulangan beton, kanopi, pagar rumah dan lainnya. Seiring perkembanganya batu batu sekarang telah ada besi, wf, hollow dengan berbagai ukuran dan kualitas. Sekiranya dikala ini anda mempunyai agenda untuk membangun sebuah rumah impian dan memerlukan bahan besi, wf, hollow. Maka silahkan mengorder besi, wf, hollow kepada kami selaku penyedia bahan besi, wf, hollow yang berkwalitas dan terpercaya.
 

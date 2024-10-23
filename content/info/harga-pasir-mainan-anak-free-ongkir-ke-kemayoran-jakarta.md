@@ -119,7 +119,7 @@ Berikut Price List Harga Bahan Material Terbaru yang kami jual.
 
 ## Cara Pemesanan Pasir Free Biaya Pengiriman dan Penurunan Di Kemayoran Jakarta
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Sesudah anda mengetahui Tipe - Macam Tipe Pasir mulai kini anda seharusnya cermat di dalam memilih tipe pasir yg akan kamu pergunakan untuk membangun sebuah Bangunan. Sekiranya anda hendak membeli pasir dari kami Metode Pengorderan nya merupakan dengan memberikan data domisili komplit dan nomor HP saja, kami akan lantas mengirimnya ke lokasi proyek anda dengan tanpa tambahan ongkos apapun. Harga yang kami berikan adalah sudah termasuk ongkir dan bongkar jadi anda tidak perlu kuatir dengan penambahan ongkos lagi. Cara pembayaran yang kami terapkan juga sungguh-sungguh aman, ialah anda bayar sesudah material sampe ke tempat anda atau di ucap dengan istilah COD (Cash On Delivery). Anda juga bisa konsultasi atau diplomasi dengan kami melewati no telepon yang ada di laman ini.
 

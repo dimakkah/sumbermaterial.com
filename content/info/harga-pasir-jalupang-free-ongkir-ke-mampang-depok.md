@@ -119,7 +119,7 @@ Berikut ini Urutan Harga Bahan Material Terbaru yang kami jual.
 
 ## Sistem Pengorderan Pasir Free Biaya Pengiriman dan Kuli Di Mampang Depok
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Setelah anda mengetahui Jenis - Macam Tipe Pasir mulai kini anda mesti cermat di dalam memilih jenis pasir yg akan anda gunakan untuk membangun sebuah Konstruksi. Jikalau anda hendak membeli pasir dari kami Cara Pengorderan nya adalah dengan Email data domisili komplit dan nomor HP saja, kami akan seketika mengirimnya ke lokasi proyek anda dengan tidak ada tambahan ongkos apa saja. Harga yang kami berikan merupakan telah termasuk ongkos kirim dan bongkar jadi anda tidak perlu khawatir dengan pembengkakan harga lagi. Sistem pembayaran yang kami terapkan juga sungguh-sungguh aman, yakni anda bayar sesudah material sampai ke tempat anda atau di ucap dengan istilah COD (Cash On Delivery). Anda juga dapat konsultasi atau diplomasi dengan kami melalui no telepon yang ada di laman ini.
 

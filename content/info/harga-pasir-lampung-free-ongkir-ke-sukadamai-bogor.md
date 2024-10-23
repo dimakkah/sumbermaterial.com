@@ -160,7 +160,7 @@ Berikut Daftar Harga Bahan Bangunan Free Ongkir yang kami jual.
 
 ## Sistem Pengorderan Pasir Gratis Ongkir dan Penurunan Di Sukadamai Bogor
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Sesudah anda memahami Macam - model Macam Pasir mulai sekarang anda mesti akurat dalam memilih model pasir yg akan kalian pakai untuk membangun sebuah Konstruksi. Apabila anda hendak membeli pasir dari kami Cara Pengorderan nya ialah dengan Email data domisili komplit dan nomor HP saja, kami akan lantas mengirimnya ke lokasi proyek anda tanpa ada tambahan biaya apapun. Harga yang kami berikan merupakan telah termasuk ongkir dan penurunan jadi anda tidak perlu cemas dengan pembengkakan ongkos lagi. Cara pembayaran yang kami terapkan juga sungguh-sungguh aman, yaitu anda bayar sesudah material sampe ke daerah anda atau di ucap dengan istilah COD (Cash On Delivery). Anda juga dapat konsultasi atau perundingan dengan kami via no telepon yang ada di laman ini.
 

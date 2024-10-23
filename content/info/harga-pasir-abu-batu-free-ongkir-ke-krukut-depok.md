@@ -119,7 +119,7 @@ Berikut Price List Harga Bahan Material Alam Termurah yang kami jual.
 
 ## Cara Pengorderan Pasir Free Ongkos Kirim dan Bongkar Di Krukut Depok
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Setelah anda mengenal Macam - Tipe model Pasir mulai sekarang kamu semestinya cermat di dalam memilih model pasir yg akan kamu gunakan untuk membangun sebuah Konstruksi Bangunan. Bila anda hendak membeli pasir dari kami Cara Pengorderan nya merupakan dengan whatsapp data domisili lengkap dan nomor telepon saja, kami akan lantas mengirimnya ke lokasi proyek anda tanpa ada tambahan ongkos apa saja. Harga yang kami berikan adalah sudah termasuk ongkos kirim dan tumpah jadi anda tak perlu khawatir dengan pembengkakan harga lagi. Cara pembayaran yang kami terapkan juga betul-betul aman, merupakan anda bayar sesudah material sampe ke daerah anda atau di ucap dengan istilah COD (Cash On Delivery). Anda juga dapat konsultasi atau perundingan dengan kami melewati no telepon yang ada di web ini.
 

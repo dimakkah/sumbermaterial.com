@@ -160,7 +160,7 @@ Dibawah ini List Harga Bahan Material Alam Termurah yang kami jual.
 
 ## Cara Pemesanan Pasir Bebas Ongkir dan Penurunan Di Sukatani Depok
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Sesudah kamu mengetahui Jenis - Macam Ragam Pasir mulai kini kalian mesti akurat dalam memilih model pasir yg akan kamu pakai untuk membangun sebuah Bangunan. Seandainya anda akan membeli pasir dari kami Sistem Pengorderan nya ialah dengan memberikan data alamat komplit dan nomor HP saja, kami akan lantas mengirimnya ke lokasi proyek anda dengan tanpa tambahan ongkos apa saja. Harga yang kami berikan merupakan telah termasuk ongkir dan bongkar jadi anda tidak perlu khawatir dengan penambahan biaya lagi. Sistem pembayaran yang kami terapkan juga sangat aman, merupakan anda bayar sesudah material sampai ke tempat anda atau di ucap dengan istilah COD (Cash On Delivery). Anda juga bisa konsultasi atau negosiasi dengan kami lewat no telepon yang ada di web ini.
 

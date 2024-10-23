@@ -67,7 +67,7 @@ Urugan yg satu ini ialah variasi urugan yg khusus diperuntukkan untuk pengurukan
 
 ## Supplier Material Urugan Di Harapan Mulya Jakarta
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/xyK39kGeskE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/xyK39kGeskE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 **Daftar Harga Jual Batu Makadam Gratis Ongkir Ke Harapan Mulya Jakarta**
 

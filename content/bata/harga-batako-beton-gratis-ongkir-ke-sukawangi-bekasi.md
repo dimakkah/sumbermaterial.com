@@ -55,7 +55,7 @@ Bila dibandingi dengan material bangunan lainnya, batako mempunyai harga sekitar
 
 ## Cara Pemesanan Bata Merah, Batako & Hebel Di Sukawangi Bekasi
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/IEs5XPt-xyU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/IEs5XPt-xyU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Seluruhnya tentu sudah tahu fungsi utama batu bata mulai diterapkan untuk membuat tembok, pagar tempat tinggal dan lainnya. Sejalan perkembangannya batu batu kini telah ada batu bata merah, batako hitam dan bata ringan. Jika sekarang ini anda mempunyai agenda untuk membuat sebuah bangunan yang idam-idamkan|impian|masa depan} dan membutuhkan bahan batu bata. Maka silahkan mengorder batu bata kepada kios penyedia bahan batu bata yg berkwalitas dan terpercaya.
 

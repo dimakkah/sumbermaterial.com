@@ -119,7 +119,7 @@ Dibawah ini Price List Harga Bahan Material Terlengkap yang kami jual.
 
 ## Sistem Pemesanan Pasir Free Ongkir dan Bongkar Di Cililitan Jakarta
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Sesudah kamu mengetahui Jenis - Tipe Ragam Pasir mulai kini kalian semestinya teliti di dalam memilih ragam pasir yg akan anda manfaatkan untuk membangun sebuah Bangunan. Jika anda hendak membeli pasir dari kami Metode Pengorderan nya ialah dengan whatsapp data domisili komplit dan nomor telepon saja, kami akan lantas mengirimnya ke lokasi proyek anda dengan tanpa tambahan biaya apa saja. Harga yang kami berikan ialah sudah termasuk ongkos kirim dan bongkar jadi anda tak perlu cemas dengan pembengkakan ongkos lagi. Cara pembayaran yang kami terapkan juga sangat aman, yaitu anda bayar sesudah material sampe ke daerah anda atau di sebut dengan istilah COD (Cash On Delivery). Anda juga dapat konsultasi atau diplomasi dengan kami via no telepon yang ada di situs ini.
 

@@ -160,7 +160,7 @@ Dibawah ini List Harga Bahan Material Alam Free Ongkir yang kami jual.
 
 ## Metode Pengorderan Pasir Bebas Ongkir dan Penurunan Di Cilamaya Wetan Karawang
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Setelah anda mengenal Jenis - Ragam Ragam Pasir mulai sekarang anda harus teliti di dalam memilih macam pasir yg akan anda manfaatkan untuk membangun sebuah Bangunan. Sekiranya anda akan membeli pasir dari kami Cara Pengorderan nya yakni dengan sms data domisili lengkap dan nomor telepon saja, kami akan langsung mengirimnya ke lokasi proyek anda tanpa ada tambahan ongkos apapun. Harga yang kami berikan ialah sudah termasuk biaya pengiriman dan tumpah jadi anda tidak perlu kuatir dengan penambahan biaya lagi. Sistem pembayaran yang kami terapkan juga sungguh-sungguh aman, yakni anda bayar setelah material sampe ke tempat anda atau di ucap dengan istilah COD (Cash On Delivery). Anda juga dapat konsultasi atau diplomasi dengan kami melalui no telepon yang ada di situs ini.
 

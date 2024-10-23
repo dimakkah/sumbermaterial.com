@@ -119,7 +119,7 @@ Berikut ini Price List Harga Bahan Material Alam Terlengkap yang kami jual.
 
 ## Metode Pemesanan Pasir Gratis Biaya Pengiriman dan Bongkar Di Loji Bogor
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Sesudah anda mengenal Ragam - model model Pasir mulai kini anda semestinya cermat dalam memilih tipe pasir yang akan anda pakai untuk membangun sebuah Konstruksi Bangunan. Apabila anda hendak membeli pasir dari kami Metode Pemesanan nya merupakan dengan memberikan data alamat lengkap dan nomor handphond saja, kami akan langsung mengirimnya ke lokasi proyek anda dengan tidak ada tambahan ongkos apapun. Harga yang kami berikan yakni sudah termasuk biaya pengiriman dan penurunan jadi anda tidak perlu kuatir dengan penambahan ongkos lagi. Cara pembayaran yang kami terapkan juga sangat aman, adalah anda bayar setelah material sampai ke tempat anda atau di ucap dengan istilah COD (Cash On Delivery). Anda juga bisa konsultasi atau diplomasi dengan kami melewati no telepon yang ada di laman ini.
 

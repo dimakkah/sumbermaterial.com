@@ -160,7 +160,7 @@ Berikut Daftar Harga Bahan Material Alam Terlengkap yang kami jual.
 
 ## Metode Pengorderan Pasir Free Ongkir dan Penurunan Di Kutawaluya Karawang
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Setelah anda memahami Macam - model model Pasir mulai kini kalian sepatutnya cermat di dalam memilih jenis pasir yg akan anda pakai untuk membangun sebuah Konstruksi Bangunan. Sekiranya anda akan membeli pasir dari kami Sistem Pengorderan nya ialah dengan memberikan data alamat lengkap dan nomor handphond saja, kami akan segera mengirimnya ke lokasi proyek anda dengan tidak ada tambahan ongkos apa saja. Harga yang kami berikan ialah sudah termasuk biaya pengiriman dan penurunan jadi anda tak perlu cemas dengan penambahan harga lagi. Metode pembayaran yang kami terapkan juga amat aman, yakni anda bayar setelah material terkirim ke tempat anda atau di sebut dengan istilah COD (Cash On Delivery). Anda juga dapat konsultasi atau negosiasi dengan kami melalui no telepon yang ada di website ini.
 

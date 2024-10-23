@@ -160,7 +160,7 @@ Berikut Daftar Harga Bahan Bangunan Free Ongkir yang kami jual.
 
 ## Metode Pengorderan Pasir Free Ongkos Kirim dan Bongkar Di Sempur Bogor
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Setelah anda mengenal Macam - Macam model Pasir mulai kini kamu patut teliti dalam memilih tipe pasir yg akan kalian manfaatkan untuk membangun sebuah Bangunan. Bila anda mau membeli pasir dari kami Sistem Pemesanan nya adalah dengan Email data alamat lengkap dan nomor handphond saja, kami akan lantas mengirimnya ke lokasi proyek anda dengan tanpa tambahan biaya apapun. Harga yang kami berikan merupakan telah termasuk biaya pengiriman dan tumpah jadi anda tidak perlu khawatir dengan penambahan ongkos lagi. Metode pembayaran yang kami terapkan juga sangat aman, adalah anda bayar setelah material sampai ke lokasi anda atau di ucap dengan istilah COD (Cash On Delivery). Anda juga bisa konsultasi atau negosiasi dengan kami via no telepon yang ada di web ini.
 

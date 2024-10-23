@@ -119,7 +119,7 @@ Berikut Urutan Harga Bahan Bangunan Terlengkap yang kami jual.
 
 ## Cara Pengorderan Pasir Free Ongkir dan Bongkar Di Kampung Bali Jakarta
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Setelah kamu mengenal Jenis - Macam Tipe Pasir mulai sekarang kalian seharusnya teliti di dalam memilih macam pasir yg akan kalian pakai untuk membangun sebuah Konstruksi Bangunan. Apabila anda berencana membeli pasir dari kami Sistem Pengorderan nya yaitu dengan sms data domisili lengkap dan nomor telepon saja, kami akan segera mengirimnya ke lokasi proyek anda dengan tidak ada tambahan ongkos apa saja. Harga yang kami berikan ialah sudah termasuk ongkos kirim dan penurunan jadi anda tidak perlu khawatir dengan pembengkakan ongkos lagi. Sistem pembayaran yang kami terapkan juga sungguh-sungguh aman, merupakan anda bayar sesudah material terkirim ke tempat anda atau di ucap dengan istilah COD (Cash On Delivery). Anda juga bisa konsultasi atau negosiasi dengan kami melalui no telepon yang ada di website ini.
 

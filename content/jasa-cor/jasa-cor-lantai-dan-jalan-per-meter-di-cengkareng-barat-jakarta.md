@@ -111,7 +111,7 @@ Blow molding adalah sebuah proses pengecoran yg menggunakan beberapa produk sepe
 
 ## Harga Di Cengkareng Barat Jakarta
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/MVuQWwYFCiA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/MVuQWwYFCiA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 List Harga Jasa Cor Lantai dan Jalan Per Meter Di Cengkareng Barat Jakarta
 

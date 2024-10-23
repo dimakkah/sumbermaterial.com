@@ -119,7 +119,7 @@ Berikut Price List Harga Bahan Material Alam Terbaru yang kami jual.
 
 ## Metode Pengorderan Pasir Free Ongkir dan Kuli Di Tambora Jakarta
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Sesudah anda mengenal Jenis - model Macam Pasir mulai sekarang kalian patut cermat di dalam memilih model pasir yang akan anda pergunakan untuk membangun sebuah Konstruksi. Jika anda mau membeli pasir dari kami Metode Pemesanan nya ialah dengan memberikan data alamat lengkap dan nomor handphond saja, kami akan seketika mengirimnya ke lokasi proyek anda tanpa ada tambahan biaya apapun. Harga yang kami berikan ialah telah termasuk biaya pengiriman dan tumpah jadi anda tidak perlu kuatir dengan pembengkakan harga lagi. Metode pembayaran yang kami terapkan juga sungguh-sungguh aman, ialah anda bayar sesudah material sampai ke lokasi anda atau di sebut dengan istilah COD (Cash On Delivery). Anda juga dapat konsultasi atau negosiasi dengan kami lewat no telepon yang ada di laman ini.
 

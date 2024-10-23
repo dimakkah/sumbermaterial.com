@@ -43,7 +43,7 @@ Batu split Kasur ukuran 3 /5 ini adalah batu split yg dipecah oleh mesin pemecah
 
 ## Harga Batu Split Di Karang Anyar Jakarta
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/QUk5FUujSQs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/QUk5FUujSQs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 **Daftar Harga Batu Split 1/2 Free Ongkir Ke Karang Anyar Jakarta**
 

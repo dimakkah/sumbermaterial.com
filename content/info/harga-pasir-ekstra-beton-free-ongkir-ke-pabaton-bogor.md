@@ -119,7 +119,7 @@ Berikut ini Price List Harga Bahan Material Alam Free Ongkir yang kami jual.
 
 ## Metode Pengorderan Pasir Gratis Biaya Pengiriman dan Penurunan Di Pabaton Bogor
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Sesudah kamu memahami Jenis - Tipe Tipe Pasir mulai sekarang anda harus teliti di dalam memilih model pasir yang akan kamu manfaatkan untuk membangun sebuah Konstruksi. Jikalau anda hendak membeli pasir dari kami Metode Pemesanan nya yaitu dengan sms data alamat lengkap dan nomor telepon saja, kami akan langsung mengirimnya ke lokasi proyek anda dengan tanpa tambahan ongkos apa saja. Harga yang kami berikan yakni sudah termasuk ongkos kirim dan tumpah jadi anda tidak perlu cemas dengan penambahan harga lagi. Metode pembayaran yang kami terapkan juga betul-betul aman, adalah anda bayar sesudah material sampai ke lokasi anda atau di ucap dengan istilah COD (Cash On Delivery). Anda juga dapat konsultasi atau diplomasi dengan kami via no telepon yang ada di laman ini.
 

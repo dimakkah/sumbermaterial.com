@@ -55,7 +55,7 @@ Seandainya dibandingkan dengan bahan bangunan lainnya, batako trus memiliki harg
 
 ## Metode Pengorderan Bata Merah, Batako & Hebel Di Pasir Jaya Bogor
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/IEs5XPt-xyU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/IEs5XPt-xyU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Segalanya tentu sudah tahu fungsi utama batu bata mulai digunakan untuk membikin tembok, pagar gedung dan lainnya. Bersamaan dengan perkembangannya batu batu kini sudah ada batu bata merah, batako press hitam dan bata ringan. Jika sekarang ini anda memiliki agenda untuk membuat sebuah bangunan yg idam-idamkan|impian|masa depan} dan memerlukan material batu bata. Karenanya silahkan memesan batu bata kepada kios penyedia material batu bata yang bermutu dan terpercaya.
 

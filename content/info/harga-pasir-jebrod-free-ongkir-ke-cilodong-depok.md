@@ -119,7 +119,7 @@ Berikut List Harga Bahan Material Alam Terbaru yang kami jual.
 
 ## Sistem Pengorderan Pasir Bebas Ongkos Kirim dan Penurunan Di Cilodong Depok
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Setelah anda mengenal Jenis - Ragam Tipe Pasir mulai kini anda seharusnya teliti dalam memilih macam pasir yang akan anda gunakan untuk membangun sebuah Bangunan. Kalau anda berencana membeli pasir dari kami Cara Pengorderan nya merupakan dengan whatsapp data alamat komplit dan nomor handphond saja, kami akan seketika mengirimnya ke lokasi proyek anda tanpa ada tambahan biaya apapun. Harga yang kami berikan yakni telah termasuk biaya pengiriman dan tumpah jadi anda tidak perlu kuatir dengan penambahan biaya lagi. Metode pembayaran yang kami terapkan juga amat aman, merupakan anda bayar sesudah material sampai ke lokasi anda atau di sebut dengan istilah COD (Cash On Delivery). Anda juga bisa konsultasi atau negosiasi dengan kami melewati no telepon yang ada di situs ini.
 

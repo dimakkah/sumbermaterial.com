@@ -55,7 +55,7 @@ Jikalau diperbandingkan dengan bahan bangunan lainnya, batako press memiliki har
 
 ## Metode Order Bata Merah, Batako & Hebel Di Tanah Sareal Bogor
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/IEs5XPt-xyU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/IEs5XPt-xyU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Seluruhnya tentu telah tahu kegunaan utama batu bata mulai dipakai untuk membuat tembok, pagar tempat tinggal dan lainnya. Bertepatan dengan perkembangannya batu batu sekarang sudah ada batu bata merah, batako press hitam dan bata ringan. Jika sekarang ini anda mempunyai rencana untuk membuat sebuah rumah yg idam-idamkan|impian|masa depan} dan memerlukan bahan batu bata. Karenanya silahkan memesan batu bata terhadap warung penyedia material batu bata yang berkwalitas dan terpercaya.
 

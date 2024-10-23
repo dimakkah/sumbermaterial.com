@@ -119,7 +119,7 @@ Berikut ini Daftar Harga Bahan Material Terbaru yang kami jual.
 
 ## Sistem Pengorderan Pasir Bebas Ongkir dan Bongkar Di Babelan Bekasi
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Setelah kalian mengetahui Tipe - Tipe model Pasir mulai kini kalian patut akurat di dalam memilih macam pasir yg akan anda manfaatkan untuk membangun sebuah Konstruksi. Kalau anda hendak membeli pasir dari kami Cara Pemesanan nya merupakan dengan sms data domisili lengkap dan nomor HP saja, kami akan segera mengirimnya ke lokasi proyek anda tanpa ada tambahan ongkos apa saja. Harga yang kami berikan ialah telah termasuk ongkos kirim dan bongkar jadi anda tidak perlu kuatir dengan pembengkakan ongkos lagi. Cara pembayaran yang kami terapkan juga sungguh-sungguh aman, adalah anda bayar setelah material sampe ke lokasi anda atau di ucap dengan istilah COD (Cash On Delivery). Anda juga dapat konsultasi atau diplomasi dengan kami melalui no telepon yang ada di laman ini.
 

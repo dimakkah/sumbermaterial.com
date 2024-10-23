@@ -119,7 +119,7 @@ Dibawah ini Price List Harga Bahan Material Alam Terbaru yang kami jual.
 
 ## Cara Pengorderan Pasir Gratis Biaya Pengiriman dan Penurunan Di Duren Sawit Jakarta
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Setelah kalian memahami Tipe - Jenis Ragam Pasir mulai sekarang anda patut akurat di dalam memilih model pasir yg akan anda manfaatkan untuk membangun sebuah Konstruksi. Apabila anda berencana membeli pasir dari kami Sistem Pengorderan nya yaitu dengan memberikan data alamat komplit dan nomor telepon saja, kami akan lantas mengirimnya ke lokasi proyek anda dengan tanpa tambahan biaya apa saja. Harga yang kami berikan yakni sudah termasuk biaya pengiriman dan penurunan jadi anda tak perlu kuatir dengan penambahan biaya lagi. Cara pembayaran yang kami terapkan juga sungguh-sungguh aman, adalah anda bayar setelah material sampe ke tempat anda atau di sebut dengan istilah COD (Cash On Delivery). Anda juga bisa konsultasi atau diplomasi dengan kami melewati no telepon yang ada di web ini.
 

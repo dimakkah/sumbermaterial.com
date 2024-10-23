@@ -55,7 +55,7 @@ Jikalau dibandingi dengan material bangunan lainnya, batako press mempunyai harg
 
 ## Sistem Pemesanan Bata Merah, Batako & Hebel Di Karet Kuningan Jakarta
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/IEs5XPt-xyU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/IEs5XPt-xyU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Semua tentunya sudah tahu fungsi utama batu bata mulai diaplikasikan untuk membuat tembok, pagar gedung dan lainnya. Seiring perkembangannya batu batu sekarang sudah ada batu bata merah, batako trus hitam dan hebel. Bila dikala ini anda mempunyai agenda untuk membuat sebuah gedung yg idam-idamkan|impian|masa depan} dan memerlukan bahan batu bata. Karenanya silahkan mengorder batu bata terhadap kios penyedia bahan batu bata yg berkwalitas dan terpercaya.
 

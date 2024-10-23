@@ -51,7 +51,7 @@ Setiap orang pasti mengharapkan memiliki rumah yang berkwalitas bagus dan nyaman
 
 ## System Pengorderan Besi Beton Per Batang Di Pancoran Mas Depok
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/RlgIAwKCWFI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/RlgIAwKCWFI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Kini semua dari anda tentunya sudah tahu manfaat utama besi, wf, hollow mulai dipakai untuk membuat tulangan beton, kanopi, pagar rumah dan lainnya. Seiring perkembanganya batu batu sekarang telah ada besi, wf, hollow dengan berbagai ukuran dan kualitas. Apabila saat ini anda mempunyai rencana untuk membangun sebuah rumah impian dan membutuhkan bahan besi, wf, hollow. Maka silahkan memesan besi, wf, hollow kepada kami selaku penyedia bahan besi, wf, hollow yang bermutu dan terpercaya.
 

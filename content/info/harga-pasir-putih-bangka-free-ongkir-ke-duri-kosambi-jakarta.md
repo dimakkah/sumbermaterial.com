@@ -160,7 +160,7 @@ Berikut ini Price List Harga Bahan Material Free Ongkir yang kami jual.
 
 ## Metode Pemesanan Pasir Bebas Ongkos Kirim dan Penurunan Di Duri Kosambi Jakarta
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Sesudah anda mengetahui Jenis - Tipe Macam Pasir mulai sekarang kalian sepatutnya akurat dalam memilih macam pasir yg akan kamu pergunakan untuk membangun sebuah Konstruksi Bangunan. Jika anda berencana membeli pasir dari kami Metode Pengorderan nya yakni dengan Email data domisili komplit dan nomor telepon saja, kami akan seketika mengirimnya ke lokasi proyek anda tanpa ada tambahan biaya apapun. Harga yang kami berikan adalah sudah termasuk ongkir dan penurunan jadi anda tidak perlu kuatir dengan penambahan harga lagi. Cara pembayaran yang kami terapkan juga sangat aman, adalah anda bayar setelah material terkirim ke lokasi anda atau di sebut dengan istilah COD (Cash On Delivery). Anda juga bisa konsultasi atau diplomasi dengan kami via no telepon yang ada di web ini.
 

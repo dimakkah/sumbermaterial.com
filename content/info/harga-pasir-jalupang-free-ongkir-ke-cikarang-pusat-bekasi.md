@@ -119,7 +119,7 @@ Dibawah ini Urutan Harga Bahan Material Alam Terbaru yang kami jual.
 
 ## Sistem Pengorderan Pasir Free Biaya Pengiriman dan Kuli Di Cikarang Pusat Bekasi
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Sesudah anda mengetahui Macam - Jenis Macam Pasir mulai kini kamu seharusnya akurat di dalam memilih model pasir yg akan anda gunakan untuk membangun sebuah Konstruksi. Seandainya anda berencana membeli pasir dari kami Metode Pengorderan nya yakni dengan memberikan data alamat komplit dan nomor HP saja, kami akan segera mengirimnya ke lokasi proyek anda dengan tanpa tambahan biaya apa saja. Harga yang kami berikan yaitu sudah termasuk ongkir dan tumpah jadi anda tak perlu khawatir dengan pembengkakan harga lagi. Cara pembayaran yang kami terapkan juga sungguh-sungguh aman, merupakan anda bayar sesudah material terkirim ke lokasi anda atau di ucap dengan istilah COD (Cash On Delivery). Anda juga bisa konsultasi atau diplomasi dengan kami melewati no telepon yang ada di website ini.
 

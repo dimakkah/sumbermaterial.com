@@ -160,7 +160,7 @@ Dibawah ini Urutan Harga Bahan Material Terbaru yang kami jual.
 
 ## Metode Pengorderan Pasir Gratis Ongkos Kirim dan Kuli Di Cikupa Tangerang
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Setelah anda mengetahui Jenis - model model Pasir mulai kini anda mesti akurat di dalam memilih jenis pasir yg akan kalian pakai untuk membangun sebuah Konstruksi. Bila anda akan membeli pasir dari kami Metode Pengorderan nya ialah dengan whatsapp data alamat komplit dan nomor telepon saja, kami akan seketika mengirimnya ke lokasi proyek anda dengan tidak ada tambahan ongkos apa saja. Harga yang kami berikan adalah sudah termasuk ongkir dan tumpah jadi anda tidak perlu kuatir dengan penambahan harga lagi. Sistem pembayaran yang kami terapkan juga amat aman, yaitu anda bayar sesudah material sampai ke daerah anda atau di ucap dengan istilah COD (Cash On Delivery). Anda juga bisa konsultasi atau perundingan dengan kami via no telepon yang ada di web ini.
 

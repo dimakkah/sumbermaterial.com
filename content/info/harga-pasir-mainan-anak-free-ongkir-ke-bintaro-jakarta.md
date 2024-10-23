@@ -160,7 +160,7 @@ Berikut Urutan Harga Bahan Material Alam Terupdate yang kami jual.
 
 ## Metode Pemesanan Pasir Bebas Ongkos Kirim dan Penurunan Di Bintaro Jakarta
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Sesudah anda memahami Tipe - Tipe model Pasir mulai kini kalian wajib teliti dalam memilih jenis pasir yg akan anda pakai untuk membangun sebuah Konstruksi Bangunan. Jikalau anda mau membeli pasir dari kami Metode Pengorderan nya ialah dengan memberikan data alamat komplit dan nomor telepon saja, kami akan lantas mengirimnya ke lokasi proyek anda dengan tanpa tambahan biaya apa saja. Harga yang kami berikan yakni sudah termasuk ongkos kirim dan bongkar jadi anda tak perlu khawatir dengan penambahan ongkos lagi. Metode pembayaran yang kami terapkan juga benar-benar aman, yaitu anda bayar sesudah material terkirim ke daerah anda atau di sebut dengan istilah COD (Cash On Delivery). Anda juga bisa konsultasi atau negosiasi dengan kami melalui no telepon yang ada di situs ini.
 

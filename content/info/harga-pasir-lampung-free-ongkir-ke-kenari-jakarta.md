@@ -160,7 +160,7 @@ Dibawah ini Price List Harga Bahan Material Alam Terlengkap yang kami jual.
 
 ## Cara Pengorderan Pasir Free Biaya Pengiriman dan Penurunan Di Kenari Jakarta
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Sesudah anda memahami Macam - Jenis Tipe Pasir mulai sekarang anda harus teliti dalam memilih ragam pasir yang akan anda manfaatkan untuk membangun sebuah Konstruksi Bangunan. Jika anda akan membeli pasir dari kami Metode Pemesanan nya ialah dengan Email data alamat komplit dan nomor HP saja, kami akan lantas mengirimnya ke lokasi proyek anda dengan tidak ada tambahan biaya apa saja. Harga yang kami berikan adalah sudah termasuk biaya pengiriman dan bongkar jadi anda tak perlu kuatir dengan penambahan ongkos lagi. Sistem pembayaran yang kami terapkan juga sangat aman, ialah anda bayar sesudah material terkirim ke tempat anda atau di ucap dengan istilah COD (Cash On Delivery). Anda juga dapat konsultasi atau perundingan dengan kami melewati no telepon yang ada di laman ini.
 

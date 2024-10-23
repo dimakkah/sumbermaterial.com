@@ -119,7 +119,7 @@ Dibawah ini Daftar Harga Bahan Bangunan Terbaru yang kami jual.
 
 ## Metode Pemesanan Pasir Gratis Biaya Pengiriman dan Penurunan Di Cikaret Bogor
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Setelah kalian memahami Jenis - Tipe model Pasir mulai kini kalian mesti cermat di dalam memilih model pasir yg akan kalian gunakan untuk membangun sebuah Konstruksi. Jika anda hendak membeli pasir dari kami Metode Pemesanan nya yakni dengan sms data alamat komplit dan nomor telepon saja, kami akan segera mengirimnya ke lokasi proyek anda tanpa ada tambahan ongkos apa saja. Harga yang kami berikan yaitu sudah termasuk ongkos kirim dan bongkar jadi anda tak perlu khawatir dengan penambahan ongkos lagi. Metode pembayaran yang kami terapkan juga amat aman, adalah anda bayar setelah material sampai ke tempat anda atau di ucap dengan istilah COD (Cash On Delivery). Anda juga dapat konsultasi atau perundingan dengan kami melewati no telepon yang ada di situs ini.
 

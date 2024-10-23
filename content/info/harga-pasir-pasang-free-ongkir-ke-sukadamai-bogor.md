@@ -119,7 +119,7 @@ Berikut Price List Harga Bahan Bangunan Terlengkap yang kami jual.
 
 ## Sistem Pemesanan Pasir Free Biaya Pengiriman dan Bongkar Di Sukadamai Bogor
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Sesudah kamu mengenal Macam - Jenis Tipe Pasir mulai sekarang anda sepatutnya cermat dalam memilih jenis pasir yang akan anda pergunakan untuk membangun sebuah Konstruksi Bangunan. Apabila anda mau membeli pasir dari kami Cara Pengorderan nya yaitu dengan Email data alamat lengkap dan nomor handphond saja, kami akan langsung mengirimnya ke lokasi proyek anda dengan tanpa tambahan ongkos apapun. Harga yang kami berikan yaitu sudah termasuk ongkir dan tumpah jadi anda tak perlu khawatir dengan penambahan ongkos lagi. Sistem pembayaran yang kami terapkan juga sungguh-sungguh aman, adalah anda bayar setelah material terkirim ke tempat anda atau di ucap dengan istilah COD (Cash On Delivery). Anda juga dapat konsultasi atau perundingan dengan kami lewat no telepon yang ada di situs ini.
 

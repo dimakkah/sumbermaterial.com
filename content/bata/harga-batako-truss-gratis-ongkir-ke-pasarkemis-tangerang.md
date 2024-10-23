@@ -55,7 +55,7 @@ Bila dibandingkan dengan material bangunan lainnya, batako trus memiliki harga s
 
 ## Metode Pesan Bata Merah, Batako & Hebel Di Pasarkemis Tangerang
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/IEs5XPt-xyU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/IEs5XPt-xyU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Semua tentunya telah tahu fungsi utama batu bata mulai dipakai untuk membuat tembok, pagar tempat tinggal dan lainnya. Bersamaan dengan perkembangannya batu batu sekarang telah ada batu bata merah, batako trus hitam dan herbel. Kalau saat ini anda memiliki rencana untuk membangun sebuah bangunan yang idam-idamkan|impian|masa depan} dan membutuhkan material batu bata. Karenanya silahkan memesan batu bata terhadap warung penyedia bahan batu bata yg berkualitas dan terpercaya.
 

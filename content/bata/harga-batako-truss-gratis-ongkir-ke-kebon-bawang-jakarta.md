@@ -55,7 +55,7 @@ Seandainya dibandingi dengan bahan bangunan lainnya, batako trus mempunyai harga
 
 ## Cara Pemesanan Bata Merah, Batako & Hebel Di Kebon Bawang Jakarta
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/IEs5XPt-xyU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/IEs5XPt-xyU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Segalanya tentu telah tahu fungsi utama batu bata mulai diterapkan untuk membikin tembok, pagar rumah dan lainnya. Bersamaan dengan perkembangannya batu batu sekarang sudah ada batu bata merah, batako press hitam dan bata ringan. Jikalau saat ini anda memiliki agenda untuk membuat sebuah bangunan yg idam-idamkan|impian|masa depan} dan memerlukan material batu bata. Karenanya silahkan mengorder batu bata kepada toko penyedia material batu bata yg berkwalitas dan terpercaya.
 

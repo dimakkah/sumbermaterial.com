@@ -119,7 +119,7 @@ Berikut Urutan Harga Bahan Material Free Ongkir yang kami jual.
 
 ## Cara Pemesanan Pasir Free Ongkir dan Kuli Di Kecamatan Bogor Selatan
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Sesudah anda memahami Jenis - Jenis Jenis Pasir mulai kini anda wajib cermat dalam memilih jenis pasir yg akan anda pergunakan untuk membangun sebuah Bangunan. Sekiranya anda mau membeli pasir dari kami Sistem Pengorderan nya yakni dengan memberikan data alamat komplit dan nomor handphond saja, kami akan seketika mengirimnya ke lokasi proyek anda dengan tanpa tambahan ongkos apapun. Harga yang kami berikan merupakan telah termasuk ongkir dan tumpah jadi anda tidak perlu kuatir dengan penambahan harga lagi. Sistem pembayaran yang kami terapkan juga sungguh-sungguh aman, adalah anda bayar sesudah material terkirim ke lokasi anda atau di ucap dengan istilah COD (Cash On Delivery). Anda juga dapat konsultasi atau negosiasi dengan kami melewati no telepon yang ada di web ini.
 

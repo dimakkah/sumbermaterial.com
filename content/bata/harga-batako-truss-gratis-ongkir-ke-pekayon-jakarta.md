@@ -55,7 +55,7 @@ Seandainya dibandingi dg bahan bangunan lainnya, batako press memiliki harga sek
 
 ## Metode Pesan Bata Merah, Batako & Hebel Di Pekayon Jakarta
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/IEs5XPt-xyU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/IEs5XPt-xyU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Seluruhnya tentu sudah tahu kegunaan utama batu bata mulai diaplikasikan untuk membikin tembok, pagar bangunan dan lainnya. Bertepatan dengan perkembangannya batu batu kini telah ada batu bata merah, batako trus hitam dan bata ringan. Jika sekarang ini anda memiliki rencana untuk membuat sebuah bangunan yang idam-idamkan|impian|masa depan} dan memerlukan bahan batu bata. Maka silahkan memesan batu bata terhadap kios penyedia material batu bata yg berkwalitas dan terpercaya.
 

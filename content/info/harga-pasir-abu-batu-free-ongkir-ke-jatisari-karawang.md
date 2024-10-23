@@ -119,7 +119,7 @@ Dibawah ini Urutan Harga Bahan Material Alam Terupdate yang kami jual.
 
 ## Cara Pengorderan Pasir Gratis Ongkir dan Bongkar Di Jatisari Karawang
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Setelah kalian mengetahui model - model Tipe Pasir mulai kini kalian patut akurat di dalam memilih tipe pasir yang akan kamu gunakan untuk membangun sebuah Bangunan. Jika anda berencana membeli pasir dari kami Metode Pengorderan nya merupakan dengan whatsapp data domisili lengkap dan nomor telepon saja, kami akan seketika mengirimnya ke lokasi proyek anda tanpa ada tambahan biaya apa saja. Harga yang kami berikan adalah telah termasuk ongkos kirim dan tumpah jadi anda tidak perlu cemas dengan penambahan ongkos lagi. Metode pembayaran yang kami terapkan juga benar-benar aman, yaitu anda bayar setelah material terkirim ke lokasi anda atau di ucap dengan istilah COD (Cash On Delivery). Anda juga dapat konsultasi atau perundingan dengan kami melewati no telepon yang ada di laman ini.
 

@@ -1,7 +1,7 @@
 name: Recycle Posts and Deploy
 on:
   schedule:
-    - cron: '0 0 * * *'  # Fixed cron syntax
+    - cron: '0 0 * * *'
   push:
     branches: [ master ]
   workflow_dispatch:
@@ -27,7 +27,9 @@ jobs:
         echo "Directory contents:"
         ls -R content
     - name: Run recycle and build
-      run: npm run build:recycle
+      run: |
+        npm run build:recycle  # Jalankan script recycle
+        hugo --minify           # Build Hugo site dengan minifikasi
     - name: Commit changes
       run: |
         git config --local user.email "action@github.com"
@@ -38,8 +40,11 @@ jobs:
       uses: ad-m/github-push-action@master
       with:
         github_token: ${{ secrets.GITHUB_TOKEN }}
-    - name: Deploy to GitHub Pages  # Fixed indentation
+    - name: Ensure CNAME exists
+      run: echo "sumbermaterial.com" > public/CNAME
+    - name: Deploy to GitHub Pages
       uses: peaceiris/actions-gh-pages@v3
       with:
         github_token: ${{ secrets.GITHUB_TOKEN }}
         publish_dir: ./public
+        publish_branch: gh-pages

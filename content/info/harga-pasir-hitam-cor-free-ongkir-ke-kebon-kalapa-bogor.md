@@ -160,7 +160,7 @@ Berikut ini Urutan Harga Bahan Material Alam Free Ongkir yang kami jual.
 
 ## Sistem Pengorderan Pasir Bebas Ongkir dan Bongkar Di Kebon Kalapa Bogor
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Setelah anda memahami Ragam - Ragam Tipe Pasir mulai sekarang kalian harus akurat di dalam memilih model pasir yg akan kamu pakai untuk membangun sebuah Konstruksi Bangunan. Jika anda berencana membeli pasir dari kami Sistem Pengorderan nya yakni dengan whatsapp data domisili lengkap dan nomor handphond saja, kami akan seketika mengirimnya ke lokasi proyek anda dengan tanpa tambahan ongkos apa saja. Harga yang kami berikan yakni sudah termasuk ongkos kirim dan penurunan jadi anda tidak perlu khawatir dengan penambahan harga lagi. Metode pembayaran yang kami terapkan juga benar-benar aman, yakni anda bayar sesudah material sampe ke daerah anda atau di sebut dengan istilah COD (Cash On Delivery). Anda juga dapat konsultasi atau negosiasi dengan kami lewat no telepon yang ada di laman ini.
 

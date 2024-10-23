@@ -63,7 +63,7 @@ Baja ringan SNI dijual dengan hitungan harga sesuai dengan ketebalan dan dihitun
 
 ## System Order Bondek, Wiremesh Dan Baja Ringan Di Selong Jakarta
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/RlgIAwKCWFI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/RlgIAwKCWFI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Kalau anda berencana mengorder bahan bangunan melalui Harga Bondek Wiremesh Baja Ringan Kirim Ke Selong Jakarta online maka salah satunya bisa mengaplikasikan cara pembayaran bayar ditempat. Dimana sistem bayar ditempat, pembeli sepatutnya membayar orderan dengan pembayaran tunai saat barang yang diorder tiba di tempat tujuan. Berikut ini akan ditunjukkan langkah pemesanan bondek, wiremesh dan baja ringan secara COD yang wajib anda kenal.
 

@@ -160,7 +160,7 @@ Berikut Urutan Harga Bahan Material Alam Terbaru yang kami jual.
 
 ## Cara Pemesanan Pasir Bebas Biaya Pengiriman dan Bongkar Di Karawaci Tangerang
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Setelah kalian memahami Macam - model Jenis Pasir mulai kini anda seharusnya akurat dalam memilih model pasir yg akan anda pakai untuk membangun sebuah Bangunan. Seandainya anda berencana membeli pasir dari kami Sistem Pemesanan nya adalah dengan Email data domisili lengkap dan nomor telepon saja, kami akan seketika mengirimnya ke lokasi proyek anda tanpa ada tambahan biaya apa saja. Harga yang kami berikan yaitu sudah termasuk ongkos kirim dan penurunan jadi anda tidak perlu kuatir dengan pembengkakan ongkos lagi. Sistem pembayaran yang kami terapkan juga betul-betul aman, merupakan anda bayar setelah material sampai ke daerah anda atau di sebut dengan istilah COD (Cash On Delivery). Anda juga bisa konsultasi atau diplomasi dengan kami melewati no telepon yang ada di web ini.
 

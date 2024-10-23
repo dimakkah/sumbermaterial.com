@@ -119,7 +119,7 @@ Berikut Daftar Harga Bahan Bangunan Terupdate yang kami jual.
 
 ## Cara Pemesanan Pasir Gratis Biaya Pengiriman dan Kuli Di Tamansari Jakarta
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Sesudah kamu mengenal model - Jenis Tipe Pasir mulai sekarang kalian mesti akurat di dalam memilih macam pasir yang akan anda pergunakan untuk membangun sebuah Bangunan. Jikalau anda mau membeli pasir dari kami Metode Pemesanan nya yakni dengan sms data domisili komplit dan nomor HP saja, kami akan lantas mengirimnya ke lokasi proyek anda tanpa ada tambahan ongkos apapun. Harga yang kami berikan ialah telah termasuk biaya pengiriman dan bongkar jadi anda tidak perlu khawatir dengan penambahan biaya lagi. Metode pembayaran yang kami terapkan juga sungguh-sungguh aman, yaitu anda bayar sesudah material terkirim ke lokasi anda atau di ucap dengan istilah COD (Cash On Delivery). Anda juga dapat konsultasi atau perundingan dengan kami melewati no telepon yang ada di laman ini.
 

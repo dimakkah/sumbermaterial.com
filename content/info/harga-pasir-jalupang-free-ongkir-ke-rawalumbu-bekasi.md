@@ -160,7 +160,7 @@ Berikut ini Price List Harga Bahan Material Termurah yang kami jual.
 
 ## Metode Pemesanan Pasir Bebas Biaya Pengiriman dan Penurunan Di Rawalumbu Bekasi
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Sesudah kalian memahami model - Tipe Jenis Pasir mulai sekarang kalian wajib teliti dalam memilih tipe pasir yang akan anda manfaatkan untuk membangun sebuah Bangunan. Seandainya anda berencana membeli pasir dari kami Cara Pemesanan nya yakni dengan sms data alamat komplit dan nomor handphond saja, kami akan segera mengirimnya ke lokasi proyek anda dengan tanpa tambahan ongkos apa saja. Harga yang kami berikan yakni sudah termasuk ongkos kirim dan tumpah jadi anda tidak perlu khawatir dengan pembengkakan harga lagi. Cara pembayaran yang kami terapkan juga sungguh-sungguh aman, yakni anda bayar setelah material terkirim ke lokasi anda atau di sebut dengan istilah COD (Cash On Delivery). Anda juga bisa konsultasi atau perundingan dengan kami via no telepon yang ada di website ini.
 

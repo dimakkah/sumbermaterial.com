@@ -119,7 +119,7 @@ Berikut ini List Harga Bahan Material Terlengkap yang kami jual.
 
 ## Metode Pengorderan Pasir Bebas Ongkir dan Penurunan Di Matraman Jakarta
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Setelah anda memahami Ragam - Ragam Macam Pasir mulai kini anda patut cermat di dalam memilih model pasir yg akan anda pergunakan untuk membangun sebuah Konstruksi Bangunan. Seandainya anda hendak membeli pasir dari kami Metode Pengorderan nya adalah dengan sms data alamat komplit dan nomor HP saja, kami akan lantas mengirimnya ke lokasi proyek anda dengan tanpa tambahan ongkos apapun. Harga yang kami berikan merupakan telah termasuk biaya pengiriman dan tumpah jadi anda tak perlu cemas dengan pembengkakan ongkos lagi. Cara pembayaran yang kami terapkan juga sangat aman, adalah anda bayar setelah material terkirim ke lokasi anda atau di sebut dengan istilah COD (Cash On Delivery). Anda juga dapat konsultasi atau negosiasi dengan kami lewat no telepon yang ada di web ini.
 

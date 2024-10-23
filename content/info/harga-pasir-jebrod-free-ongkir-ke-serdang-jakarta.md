@@ -160,7 +160,7 @@ Berikut ini Daftar Harga Bahan Material Termurah yang kami jual.
 
 ## Cara Pemesanan Pasir Bebas Ongkos Kirim dan Penurunan Di Serdang Jakarta
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Sesudah anda mengenal Tipe - model Ragam Pasir mulai kini anda semestinya akurat di dalam memilih tipe pasir yg akan anda pergunakan untuk membangun sebuah Konstruksi. Jikalau anda hendak membeli pasir dari kami Sistem Pemesanan nya ialah dengan whatsapp data alamat lengkap dan nomor HP saja, kami akan segera mengirimnya ke lokasi proyek anda dengan tidak ada tambahan ongkos apapun. Harga yang kami berikan yakni sudah termasuk ongkos kirim dan penurunan jadi anda tidak perlu cemas dengan pembengkakan harga lagi. Metode pembayaran yang kami terapkan juga sungguh-sungguh aman, ialah anda bayar setelah material sampe ke lokasi anda atau di sebut dengan istilah COD (Cash On Delivery). Anda juga dapat konsultasi atau perundingan dengan kami lewat no telepon yang ada di website ini.
 

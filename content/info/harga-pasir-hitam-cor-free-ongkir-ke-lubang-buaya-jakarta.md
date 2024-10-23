@@ -160,7 +160,7 @@ Berikut ini List Harga Bahan Bangunan Terlengkap yang kami jual.
 
 ## Metode Pemesanan Pasir Gratis Ongkos Kirim dan Kuli Di Lubang Buaya Jakarta
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Sesudah anda mengenal model - Ragam Ragam Pasir mulai sekarang anda patut akurat di dalam memilih jenis pasir yang akan anda gunakan untuk membangun sebuah Konstruksi Bangunan. Sekiranya anda mau membeli pasir dari kami Metode Pengorderan nya merupakan dengan sms data domisili lengkap dan nomor handphond saja, kami akan seketika mengirimnya ke lokasi proyek anda dengan tanpa tambahan ongkos apa saja. Harga yang kami berikan ialah sudah termasuk biaya pengiriman dan tumpah jadi anda tak perlu kuatir dengan pembengkakan harga lagi. Metode pembayaran yang kami terapkan juga amat aman, yaitu anda bayar sesudah material sampai ke daerah anda atau di ucap dengan istilah COD (Cash On Delivery). Anda juga bisa konsultasi atau perundingan dengan kami via no telepon yang ada di website ini.
 

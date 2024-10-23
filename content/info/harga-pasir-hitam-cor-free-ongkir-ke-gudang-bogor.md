@@ -160,7 +160,7 @@ Dibawah ini Daftar Harga Bahan Bangunan Terlengkap yang kami jual.
 
 ## Metode Pengorderan Pasir Gratis Biaya Pengiriman dan Bongkar Di Gudang Bogor
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Setelah kamu mengenal Jenis - Tipe Ragam Pasir mulai sekarang anda sepatutnya cermat dalam memilih jenis pasir yg akan anda manfaatkan untuk membangun sebuah Konstruksi Bangunan. Jikalau anda mau membeli pasir dari kami Sistem Pengorderan nya merupakan dengan sms data domisili komplit dan nomor telepon saja, kami akan segera mengirimnya ke lokasi proyek anda dengan tanpa tambahan ongkos apapun. Harga yang kami berikan yaitu telah termasuk biaya pengiriman dan tumpah jadi anda tidak perlu cemas dengan penambahan ongkos lagi. Metode pembayaran yang kami terapkan juga sangat aman, merupakan anda bayar sesudah material terkirim ke daerah anda atau di sebut dengan istilah COD (Cash On Delivery). Anda juga bisa konsultasi atau diplomasi dengan kami melalui no telepon yang ada di laman ini.
 

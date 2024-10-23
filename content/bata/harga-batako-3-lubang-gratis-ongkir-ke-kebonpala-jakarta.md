@@ -55,7 +55,7 @@ Seandainya diperbandingkan dg material bangunan lainnya, batako press mempunyai 
 
 ## Metode Pemesanan Bata Merah, Batako & Hebel Di Kebonpala Jakarta
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/IEs5XPt-xyU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/IEs5XPt-xyU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Semua tentunya sudah tahu kegunaan utama batu bata mulai digunakan untuk membuat tembok, pagar gedung dan lainnya. Seiring perkembangannya batu batu sekarang telah ada batu bata merah, batako trus hitam dan herbel. Jika saat ini anda memiliki rencana untuk membangun sebuah bangunan yang idam-idamkan|impian|masa depan} dan membutuhkan material batu bata. Karenanya silahkan mengorder batu bata terhadap toko penyedia bahan batu bata yang bermutu dan terpercaya.
 

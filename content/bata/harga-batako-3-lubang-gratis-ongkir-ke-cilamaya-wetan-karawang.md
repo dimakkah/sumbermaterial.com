@@ -55,7 +55,7 @@ Kalau dibandingkan dengan material bangunan lainnya, batako press mempunyai harg
 
 ## Sistem Pesan Bata Merah, Batako & Hebel Di Cilamaya Wetan Karawang
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/IEs5XPt-xyU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/IEs5XPt-xyU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Seluruhnya tentu telah tahu fungsi utama batu bata mulai diterapkan untuk membuat tembok, pagar tempat tinggal dan lainnya. Bertepatan dengan perkembangannya batu batu sekarang sudah ada batu bata merah, batako press hitam dan bata ringan. Jikalau dikala ini anda memiliki rencana untuk membuat sebuah tempat tinggal yg idam-idamkan|impian|masa depan} dan memerlukan bahan batu bata. Maka silahkan memesan batu bata terhadap toko penyedia material batu bata yang berkualitas dan terpercaya.
 

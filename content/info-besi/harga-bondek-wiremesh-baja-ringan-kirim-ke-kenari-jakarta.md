@@ -63,7 +63,7 @@ Baja ringan SNI ditawarkan dengan hitungan harga selaras dengan ketebalan dan di
 
 ## Cara Pengorderan Bondek, Wiremesh Dan Baja Ringan Di Kenari Jakarta
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/RlgIAwKCWFI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/RlgIAwKCWFI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Apabila anda berencana membeli bahan bangunan lewat Harga Bondek Wiremesh Baja Ringan Kirim Ke Kenari Jakarta online maka salah satunya bisa mengaplikasikan sistem pembayaran Bayar Setelah sampe. Dimana metode COD, pembeli semestinya membayar orderan dengan pembayaran tunai saat barang yang dipesan sampai di lokasi tujuan. Dibawah ini akan digambarkan langkah pengorderan bondek, wiremesh dan baja ringan secara COD yang wajib anda kenal.
 

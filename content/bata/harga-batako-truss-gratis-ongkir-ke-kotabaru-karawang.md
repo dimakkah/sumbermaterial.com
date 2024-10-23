@@ -55,7 +55,7 @@ Jika dibandingi dg bahan bangunan lainnya, batako memiliki harga sekitar Rp 3.50
 
 ## Cara Pemesanan Bata Merah, Batako & Hebel Di Kotabaru Karawang
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/IEs5XPt-xyU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/IEs5XPt-xyU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Segalanya tentu sudah tahu fungsi utama batu bata mulai diaplikasikan untuk membuat tembok, pagar bangunan dan lainnya. Bersamaan dengan perkembangannya batu batu sekarang sudah ada batu bata merah, batako hitam dan hebel. Bila dikala ini anda mempunyai rencana untuk membangun sebuah bangunan yg idam-idamkan|impian|masa depan} dan membutuhkan bahan batu bata. Maka silahkan mengorder batu bata kepada toko penyedia bahan batu bata yg bermutu dan terpercaya.
 

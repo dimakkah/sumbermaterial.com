@@ -119,7 +119,7 @@ Dibawah ini List Harga Bahan Material Alam Terlengkap yang kami jual.
 
 ## Metode Pemesanan Pasir Bebas Biaya Pengiriman dan Bongkar Di Pasir Mulya Bogor
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Sesudah anda memahami Macam - model Jenis Pasir mulai sekarang anda mesti teliti dalam memilih model pasir yang akan anda gunakan untuk membangun sebuah Konstruksi. Kalau anda akan membeli pasir dari kami Sistem Pengorderan nya ialah dengan memberikan data alamat komplit dan nomor telepon saja, kami akan seketika mengirimnya ke lokasi proyek anda dengan tidak ada tambahan biaya apapun. Harga yang kami berikan yakni sudah termasuk ongkir dan bongkar jadi anda tidak perlu cemas dengan pembengkakan ongkos lagi. Cara pembayaran yang kami terapkan juga sangat aman, yaitu anda bayar setelah material terkirim ke lokasi anda atau di ucap dengan istilah COD (Cash On Delivery). Anda juga bisa konsultasi atau diplomasi dengan kami melewati no telepon yang ada di situs ini.
 

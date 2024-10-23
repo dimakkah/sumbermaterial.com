@@ -160,7 +160,7 @@ Dibawah ini Price List Harga Bahan Bangunan Terupdate yang kami jual.
 
 ## Metode Pemesanan Pasir Bebas Ongkir dan Bongkar Di Ciparigi Bogor
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Setelah anda mengenal Tipe - Jenis Jenis Pasir mulai kini kalian harus akurat di dalam memilih jenis pasir yg akan kalian manfaatkan untuk membangun sebuah Konstruksi. Sekiranya anda akan membeli pasir dari kami Metode Pemesanan nya ialah dengan sms data domisili lengkap dan nomor HP saja, kami akan langsung mengirimnya ke lokasi proyek anda dengan tanpa tambahan biaya apa saja. Harga yang kami berikan yaitu sudah termasuk ongkos kirim dan tumpah jadi anda tidak perlu kuatir dengan penambahan harga lagi. Sistem pembayaran yang kami terapkan juga benar-benar aman, yakni anda bayar setelah material sampe ke tempat anda atau di ucap dengan istilah COD (Cash On Delivery). Anda juga dapat konsultasi atau negosiasi dengan kami melalui no telepon yang ada di laman ini.
 

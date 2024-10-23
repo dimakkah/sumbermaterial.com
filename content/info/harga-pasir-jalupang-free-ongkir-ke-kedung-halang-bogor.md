@@ -160,7 +160,7 @@ Dibawah ini Price List Harga Bahan Material Termurah yang kami jual.
 
 ## Sistem Pemesanan Pasir Bebas Ongkir dan Kuli Di Kedung Halang Bogor
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Setelah kalian memahami model - Tipe Jenis Pasir mulai sekarang kamu harus akurat dalam memilih model pasir yg akan anda manfaatkan untuk membangun sebuah Konstruksi Bangunan. Sekiranya anda akan membeli pasir dari kami Cara Pengorderan nya yakni dengan memberikan data domisili lengkap dan nomor telepon saja, kami akan seketika mengirimnya ke lokasi proyek anda tanpa ada tambahan ongkos apapun. Harga yang kami berikan yaitu sudah termasuk ongkos kirim dan penurunan jadi anda tidak perlu khawatir dengan pembengkakan ongkos lagi. Cara pembayaran yang kami terapkan juga sungguh-sungguh aman, yakni anda bayar sesudah material sampai ke daerah anda atau di ucap dengan istilah COD (Cash On Delivery). Anda juga bisa konsultasi atau negosiasi dengan kami melalui no telepon yang ada di website ini.
 

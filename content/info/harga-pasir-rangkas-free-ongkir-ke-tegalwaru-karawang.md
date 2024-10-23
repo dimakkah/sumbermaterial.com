@@ -119,7 +119,7 @@ Dibawah ini Urutan Harga Bahan Bangunan Terbaru yang kami jual.
 
 ## Cara Pengorderan Pasir Bebas Biaya Pengiriman dan Penurunan Di Tegalwaru Karawang
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Sesudah kamu memahami Macam - Jenis Macam Pasir mulai kini kalian harus cermat dalam memilih ragam pasir yang akan anda pergunakan untuk membangun sebuah Bangunan. Jika anda akan membeli pasir dari kami Sistem Pengorderan nya adalah dengan memberikan data alamat komplit dan nomor telepon saja, kami akan langsung mengirimnya ke lokasi proyek anda dengan tanpa tambahan biaya apa saja. Harga yang kami berikan merupakan sudah termasuk biaya pengiriman dan bongkar jadi anda tidak perlu kuatir dengan penambahan ongkos lagi. Cara pembayaran yang kami terapkan juga betul-betul aman, yakni anda bayar setelah material terkirim ke tempat anda atau di ucap dengan istilah COD (Cash On Delivery). Anda juga dapat konsultasi atau perundingan dengan kami melewati no telepon yang ada di web ini.
 

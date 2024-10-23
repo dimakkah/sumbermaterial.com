@@ -119,7 +119,7 @@ Berikut List Harga Bahan Bangunan Terlengkap yang kami jual.
 
 ## Cara Pemesanan Pasir Free Biaya Pengiriman dan Penurunan Di Srengseng Sawah Jakarta
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Setelah kamu mengenal Macam - model Tipe Pasir mulai kini kalian sepatutnya cermat dalam memilih model pasir yang akan anda pakai untuk membangun sebuah Konstruksi Bangunan. Kalau anda akan membeli pasir dari kami Cara Pemesanan nya yaitu dengan whatsapp data domisili lengkap dan nomor handphond saja, kami akan langsung mengirimnya ke lokasi proyek anda dengan tidak ada tambahan ongkos apa saja. Harga yang kami berikan yakni sudah termasuk ongkos kirim dan tumpah jadi anda tak perlu kuatir dengan penambahan biaya lagi. Sistem pembayaran yang kami terapkan juga betul-betul aman, merupakan anda bayar setelah material sampe ke tempat anda atau di sebut dengan istilah COD (Cash On Delivery). Anda juga dapat konsultasi atau negosiasi dengan kami melewati no telepon yang ada di situs ini.
 

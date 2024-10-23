@@ -119,7 +119,7 @@ Dibawah ini Daftar Harga Bahan Material Alam Termurah yang kami jual.
 
 ## Sistem Pemesanan Pasir Gratis Ongkos Kirim dan Penurunan Di Sunter Agung Jakarta
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Setelah anda mengetahui Macam - Ragam Ragam Pasir mulai sekarang kamu semestinya teliti di dalam memilih model pasir yg akan anda pakai untuk membangun sebuah Bangunan. Kalau anda hendak membeli pasir dari kami Cara Pemesanan nya ialah dengan whatsapp data domisili lengkap dan nomor HP saja, kami akan seketika mengirimnya ke lokasi proyek anda dengan tidak ada tambahan biaya apa saja. Harga yang kami berikan yakni sudah termasuk biaya pengiriman dan tumpah jadi anda tidak perlu cemas dengan pembengkakan biaya lagi. Metode pembayaran yang kami terapkan juga benar-benar aman, merupakan anda bayar setelah material sampe ke lokasi anda atau di ucap dengan istilah COD (Cash On Delivery). Anda juga dapat konsultasi atau perundingan dengan kami melalui no telepon yang ada di website ini.
 

@@ -119,7 +119,7 @@ Berikut List Harga Bahan Material Terupdate yang kami jual.
 
 ## Sistem Pemesanan Pasir Gratis Ongkir dan Penurunan Di Katulampa Bogor
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Setelah kamu mengenal Ragam - Ragam Jenis Pasir mulai kini anda seharusnya cermat dalam memilih ragam pasir yang akan anda pergunakan untuk membangun sebuah Konstruksi Bangunan. Kalau anda akan membeli pasir dari kami Cara Pengorderan nya yakni dengan memberikan data alamat komplit dan nomor telepon saja, kami akan lantas mengirimnya ke lokasi proyek anda tanpa ada tambahan ongkos apapun. Harga yang kami berikan yakni sudah termasuk ongkos kirim dan tumpah jadi anda tak perlu cemas dengan pembengkakan biaya lagi. Sistem pembayaran yang kami terapkan juga sungguh-sungguh aman, yaitu anda bayar setelah material terkirim ke tempat anda atau di ucap dengan istilah COD (Cash On Delivery). Anda juga dapat konsultasi atau negosiasi dengan kami lewat no telepon yang ada di laman ini.
 

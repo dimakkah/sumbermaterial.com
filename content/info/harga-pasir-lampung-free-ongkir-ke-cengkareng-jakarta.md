@@ -160,7 +160,7 @@ Berikut ini Urutan Harga Bahan Material Terlengkap yang kami jual.
 
 ## Cara Pemesanan Pasir Gratis Biaya Pengiriman dan Bongkar Di Cengkareng Jakarta
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Sesudah kamu mengenal Jenis - Ragam Jenis Pasir mulai kini anda mesti teliti di dalam memilih macam pasir yg akan kamu pergunakan untuk membangun sebuah Bangunan. Apabila anda hendak membeli pasir dari kami Sistem Pemesanan nya yaitu dengan Email data alamat komplit dan nomor HP saja, kami akan langsung mengirimnya ke lokasi proyek anda dengan tanpa tambahan ongkos apapun. Harga yang kami berikan ialah sudah termasuk ongkir dan tumpah jadi anda tak perlu kuatir dengan pembengkakan biaya lagi. Cara pembayaran yang kami terapkan juga betul-betul aman, yaitu anda bayar sesudah material sampe ke lokasi anda atau di ucap dengan istilah COD (Cash On Delivery). Anda juga bisa konsultasi atau perundingan dengan kami lewat no telepon yang ada di laman ini.
 

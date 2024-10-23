@@ -119,7 +119,7 @@ Dibawah ini List Harga Bahan Material Alam Termurah yang kami jual.
 
 ## Metode Pengorderan Pasir Free Biaya Pengiriman dan Penurunan Di Angke Jakarta
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Sesudah kamu mengenal model - Tipe Tipe Pasir mulai kini anda seharusnya cermat di dalam memilih model pasir yg akan anda gunakan untuk membangun sebuah Konstruksi. Jika anda akan membeli pasir dari kami Sistem Pengorderan nya merupakan dengan memberikan data domisili komplit dan nomor telepon saja, kami akan seketika mengirimnya ke lokasi proyek anda tanpa ada tambahan ongkos apa saja. Harga yang kami berikan yaitu telah termasuk biaya pengiriman dan penurunan jadi anda tak perlu kuatir dengan penambahan harga lagi. Metode pembayaran yang kami terapkan juga sungguh-sungguh aman, adalah anda bayar sesudah material terkirim ke daerah anda atau di sebut dengan istilah COD (Cash On Delivery). Anda juga dapat konsultasi atau perundingan dengan kami melewati no telepon yang ada di laman ini.
 

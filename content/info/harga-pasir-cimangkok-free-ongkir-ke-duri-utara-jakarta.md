@@ -160,7 +160,7 @@ Dibawah ini List Harga Bahan Material Free Ongkir yang kami jual.
 
 ## Sistem Pengorderan Pasir Gratis Ongkos Kirim dan Penurunan Di Duri Utara Jakarta
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Setelah anda mengetahui Ragam - model Ragam Pasir mulai kini kamu seharusnya akurat di dalam memilih ragam pasir yang akan anda pergunakan untuk membangun sebuah Konstruksi Bangunan. Apabila anda hendak membeli pasir dari kami Cara Pemesanan nya adalah dengan Email data domisili lengkap dan nomor telepon saja, kami akan langsung mengirimnya ke lokasi proyek anda dengan tanpa tambahan ongkos apa saja. Harga yang kami berikan yakni telah termasuk ongkos kirim dan penurunan jadi anda tidak perlu cemas dengan pembengkakan biaya lagi. Metode pembayaran yang kami terapkan juga amat aman, adalah anda bayar setelah material sampe ke daerah anda atau di ucap dengan istilah COD (Cash On Delivery). Anda juga dapat konsultasi atau negosiasi dengan kami melewati no telepon yang ada di situs ini.
 

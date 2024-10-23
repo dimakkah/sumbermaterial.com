@@ -160,7 +160,7 @@ Dibawah ini Urutan Harga Bahan Bangunan Terupdate yang kami jual.
 
 ## Metode Pengorderan Pasir Free Biaya Pengiriman dan Bongkar Di Pagedangan Tangerang
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Setelah kamu memahami Jenis - model Jenis Pasir mulai kini kamu seharusnya cermat dalam memilih tipe pasir yang akan anda pergunakan untuk membangun sebuah Konstruksi Bangunan. Apabila anda akan membeli pasir dari kami Cara Pemesanan nya yaitu dengan Email data alamat komplit dan nomor telepon saja, kami akan langsung mengirimnya ke lokasi proyek anda tanpa ada tambahan ongkos apa saja. Harga yang kami berikan merupakan telah termasuk ongkos kirim dan penurunan jadi anda tak perlu khawatir dengan penambahan biaya lagi. Sistem pembayaran yang kami terapkan juga sangat aman, ialah anda bayar setelah material terkirim ke daerah anda atau di sebut dengan istilah COD (Cash On Delivery). Anda juga bisa konsultasi atau perundingan dengan kami via no telepon yang ada di laman ini.
 

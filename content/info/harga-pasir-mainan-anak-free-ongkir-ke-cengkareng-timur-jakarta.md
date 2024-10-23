@@ -119,7 +119,7 @@ Berikut ini List Harga Bahan Material Alam Free Ongkir yang kami jual.
 
 ## Sistem Pemesanan Pasir Gratis Ongkir dan Kuli Di Cengkareng Timur Jakarta
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Setelah anda mengenal Ragam - Ragam Macam Pasir mulai sekarang anda patut akurat di dalam memilih tipe pasir yang akan anda manfaatkan untuk membangun sebuah Bangunan. Kalau anda mau membeli pasir dari kami Metode Pemesanan nya merupakan dengan whatsapp data alamat komplit dan nomor HP saja, kami akan lantas mengirimnya ke lokasi proyek anda dengan tanpa tambahan ongkos apa saja. Harga yang kami berikan merupakan sudah termasuk ongkos kirim dan bongkar jadi anda tak perlu kuatir dengan penambahan harga lagi. Metode pembayaran yang kami terapkan juga sangat aman, adalah anda bayar setelah material sampai ke tempat anda atau di ucap dengan istilah COD (Cash On Delivery). Anda juga dapat konsultasi atau diplomasi dengan kami melalui no telepon yang ada di web ini.
 

@@ -160,7 +160,7 @@ Berikut Daftar Harga Bahan Bangunan Free Ongkir yang kami jual.
 
 ## Cara Pengorderan Pasir Gratis Ongkir dan Bongkar Di Tegalwaru Purwakarta
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Setelah kalian mengetahui Macam - Macam model Pasir mulai sekarang kalian patut akurat di dalam memilih model pasir yg akan kalian pergunakan untuk membangun sebuah Konstruksi. Bila anda mau membeli pasir dari kami Cara Pengorderan nya ialah dengan sms data alamat komplit dan nomor telepon saja, kami akan langsung mengirimnya ke lokasi proyek anda dengan tanpa tambahan ongkos apa saja. Harga yang kami berikan adalah sudah termasuk biaya pengiriman dan tumpah jadi anda tidak perlu khawatir dengan pembengkakan harga lagi. Sistem pembayaran yang kami terapkan juga sungguh-sungguh aman, merupakan anda bayar setelah material sampe ke tempat anda atau di sebut dengan istilah COD (Cash On Delivery). Anda juga bisa konsultasi atau perundingan dengan kami melalui no telepon yang ada di laman ini.
 

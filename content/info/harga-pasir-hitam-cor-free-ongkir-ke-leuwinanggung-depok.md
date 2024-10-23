@@ -119,7 +119,7 @@ Dibawah ini Price List Harga Bahan Material Alam Termurah yang kami jual.
 
 ## Metode Pemesanan Pasir Bebas Biaya Pengiriman dan Kuli Di Leuwinanggung Depok
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Sesudah kalian mengenal model - Jenis Ragam Pasir mulai sekarang kalian semestinya akurat di dalam memilih ragam pasir yg akan kamu gunakan untuk membangun sebuah Bangunan. Apabila anda akan membeli pasir dari kami Metode Pemesanan nya yakni dengan sms data domisili lengkap dan nomor handphond saja, kami akan seketika mengirimnya ke lokasi proyek anda tanpa ada tambahan biaya apa saja. Harga yang kami berikan adalah telah termasuk biaya pengiriman dan bongkar jadi anda tak perlu cemas dengan penambahan ongkos lagi. Metode pembayaran yang kami terapkan juga amat aman, yakni anda bayar setelah material sampai ke tempat anda atau di sebut dengan istilah COD (Cash On Delivery). Anda juga bisa konsultasi atau perundingan dengan kami melewati no telepon yang ada di situs ini.
 

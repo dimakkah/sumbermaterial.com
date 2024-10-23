@@ -160,7 +160,7 @@ Berikut ini List Harga Bahan Material Termurah yang kami jual.
 
 ## Sistem Pengorderan Pasir Bebas Biaya Pengiriman dan Penurunan Di Menteng Atas Jakarta
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Sesudah anda memahami Macam - model Jenis Pasir mulai sekarang anda semestinya cermat dalam memilih macam pasir yg akan anda manfaatkan untuk membangun sebuah Bangunan. Bila anda berencana membeli pasir dari kami Cara Pengorderan nya adalah dengan Email data domisili lengkap dan nomor HP saja, kami akan langsung mengirimnya ke lokasi proyek anda tanpa ada tambahan ongkos apa saja. Harga yang kami berikan yakni sudah termasuk ongkos kirim dan penurunan jadi anda tidak perlu kuatir dengan penambahan harga lagi. Metode pembayaran yang kami terapkan juga sangat aman, merupakan anda bayar sesudah material sampai ke daerah anda atau di ucap dengan istilah COD (Cash On Delivery). Anda juga dapat konsultasi atau diplomasi dengan kami melalui no telepon yang ada di web ini.
 

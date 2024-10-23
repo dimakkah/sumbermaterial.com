@@ -119,7 +119,7 @@ Berikut Daftar Harga Bahan Bangunan Free Ongkir yang kami jual.
 
 ## Sistem Pengorderan Pasir Bebas Biaya Pengiriman dan Penurunan Di Gelora Jakarta
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Setelah kamu memahami Tipe - Macam Macam Pasir mulai sekarang kalian patut akurat dalam memilih ragam pasir yang akan anda gunakan untuk membangun sebuah Konstruksi Bangunan. Jika anda berencana membeli pasir dari kami Metode Pemesanan nya adalah dengan whatsapp data alamat lengkap dan nomor HP saja, kami akan langsung mengirimnya ke lokasi proyek anda dengan tanpa tambahan ongkos apapun. Harga yang kami berikan ialah telah termasuk ongkir dan penurunan jadi anda tak perlu kuatir dengan pembengkakan harga lagi. Metode pembayaran yang kami terapkan juga betul-betul aman, ialah anda bayar sesudah material sampai ke daerah anda atau di ucap dengan istilah COD (Cash On Delivery). Anda juga dapat konsultasi atau negosiasi dengan kami melalui no telepon yang ada di situs ini.
 

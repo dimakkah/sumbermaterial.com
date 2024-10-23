@@ -63,7 +63,7 @@ Baja ringan SNI ditawarkan dengan hitungan harga sesuai dengan ketebalan dan dih
 
 ## Cara Pengorderan Bondek, Wiremesh Dan Baja Ringan Di Neglasari Tangerang
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/RlgIAwKCWFI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/RlgIAwKCWFI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Kalau anda berencana mengorder material melalui Harga Bondek Wiremesh Baja Ringan Kirim Ke Neglasari Tangerang online maka salah satunya bisa memakai sistem pembayaran COD. Dimana metode COD, pembeli patut membayar orderan dengan pembayaran tunai ketika barang yang dipesan sampai di tempat tujuan. Berikut ini akan dijelaskan langkah pemesanan bondek, wiremesh dan baja ringan secara COD yang wajib anda ketahui.
 

@@ -119,7 +119,7 @@ Berikut Urutan Harga Bahan Material Alam Terbaru yang kami jual.
 
 ## Metode Pemesanan Pasir Bebas Ongkos Kirim dan Bongkar Di Kedaung Depok
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Sesudah anda mengenal Jenis - model Tipe Pasir mulai kini anda wajib teliti di dalam memilih model pasir yang akan kamu pergunakan untuk membangun sebuah Konstruksi Bangunan. Bila anda berencana membeli pasir dari kami Metode Pemesanan nya ialah dengan Email data alamat lengkap dan nomor handphond saja, kami akan segera mengirimnya ke lokasi proyek anda tanpa ada tambahan ongkos apapun. Harga yang kami berikan yakni telah termasuk ongkir dan penurunan jadi anda tidak perlu cemas dengan penambahan harga lagi. Sistem pembayaran yang kami terapkan juga sungguh-sungguh aman, adalah anda bayar setelah material terkirim ke tempat anda atau di sebut dengan istilah COD (Cash On Delivery). Anda juga dapat konsultasi atau perundingan dengan kami melewati no telepon yang ada di web ini.
 

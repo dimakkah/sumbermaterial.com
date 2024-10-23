@@ -45,7 +45,7 @@ Yang perlu Anda tahu dari material hebel ini ialah variasi ukuran dan harganya. 
 
 ## Jual Bata Merah, Batako, Hebel Di Pondok Gede Bekasi
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/IEs5XPt-xyU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/IEs5XPt-xyU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 **Daftar Harga Batako 2 Lubang Gratis Ongkir Ke Pondok Gede Bekasi**
 

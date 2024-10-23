@@ -63,7 +63,7 @@ Baja ringan SNI ditawarkan dengan hitungan harga pas dengan ketebalan dan dihitu
 
 ## Metode Pembelian Bondek, Wiremesh Dan Baja Ringan Di Cikeusal Serang
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/RlgIAwKCWFI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/RlgIAwKCWFI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Kalau anda berencana memesan material melalui Harga Bondek Wiremesh Baja Ringan Kirim Ke Cikeusal Serang online karenanya salah satunya dapat menggunakan metode pembayaran bayar ditempat. Dimana sistem bayar ditempat, pembeli patut membayar orderan dengan pembayaran tunai saat barang yang diorder tiba di lokasi tujuan. Dibawah ini akan digambarkan langkah pembelian bondek, wiremesh dan baja ringan secara COD yang perlu anda kenal.
 

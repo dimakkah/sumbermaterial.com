@@ -55,7 +55,7 @@ Seandainya dibandingi dg bahan bangunan lainnya, batako trus memiliki harga seki
 
 ## Metode Beli Bata Merah, Batako & Hebel Di Kronjo Tangerang
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/IEs5XPt-xyU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/IEs5XPt-xyU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Semua tentunya telah tahu fungsi utama batu bata mulai diterapkan untuk membuat tembok, pagar rumah dan lainnya. Seiring perkembangannya batu batu kini sudah ada batu bata merah, batako hitam dan hebel. Sekiranya saat ini anda mempunyai rencana untuk membangun sebuah rumah yg idam-idamkan|impian|masa depan} dan membutuhkan bahan batu bata. Karenanya silahkan mengorder batu bata terhadap toko penyedia material batu bata yang berkualitas dan terpercaya.
 

@@ -119,7 +119,7 @@ Berikut List Harga Bahan Bangunan Free Ongkir yang kami jual.
 
 ## Cara Pemesanan Pasir Free Ongkir dan Kuli Di Sukadiri Tangerang
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Setelah anda mengetahui Macam - Ragam Ragam Pasir mulai sekarang anda harus cermat dalam memilih jenis pasir yang akan kamu manfaatkan untuk membangun sebuah Bangunan. Kalau anda mau membeli pasir dari kami Metode Pemesanan nya merupakan dengan Email data domisili lengkap dan nomor handphond saja, kami akan seketika mengirimnya ke lokasi proyek anda dengan tanpa tambahan ongkos apapun. Harga yang kami berikan yaitu telah termasuk ongkos kirim dan bongkar jadi anda tidak perlu cemas dengan pembengkakan harga lagi. Cara pembayaran yang kami terapkan juga sangat aman, yaitu anda bayar sesudah material terkirim ke lokasi anda atau di sebut dengan istilah COD (Cash On Delivery). Anda juga bisa konsultasi atau diplomasi dengan kami melewati no telepon yang ada di web ini.
 

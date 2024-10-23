@@ -119,7 +119,7 @@ Berikut Daftar Harga Bahan Material Alam Terupdate yang kami jual.
 
 ## Sistem Pengorderan Pasir Bebas Ongkos Kirim dan Bongkar Di Sukasari Bogor
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Setelah anda mengenal Macam - model Jenis Pasir mulai sekarang anda harus cermat dalam memilih tipe pasir yang akan kamu pergunakan untuk membangun sebuah Konstruksi. Apabila anda hendak membeli pasir dari kami Cara Pengorderan nya yakni dengan Email data domisili komplit dan nomor handphond saja, kami akan segera mengirimnya ke lokasi proyek anda dengan tidak ada tambahan ongkos apa saja. Harga yang kami berikan merupakan telah termasuk ongkos kirim dan bongkar jadi anda tidak perlu khawatir dengan pembengkakan harga lagi. Sistem pembayaran yang kami terapkan juga sungguh-sungguh aman, merupakan anda bayar setelah material terkirim ke daerah anda atau di sebut dengan istilah COD (Cash On Delivery). Anda juga bisa konsultasi atau diplomasi dengan kami melewati no telepon yang ada di web ini.
 

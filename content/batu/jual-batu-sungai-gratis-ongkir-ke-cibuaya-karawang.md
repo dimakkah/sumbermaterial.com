@@ -31,7 +31,7 @@ Batu kali belah adalah batuan alami dari kali atau gunung yang bentuk fisiknya b
 
 ## Harga Murah Batu Blondos Atau Batu Bronjol Di Cibuaya Karawang
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/QUk5FUujSQs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/QUk5FUujSQs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 **Daftar Harga Jual Batu Sungai Gratis Ongkir Ke Cibuaya Karawang**
 

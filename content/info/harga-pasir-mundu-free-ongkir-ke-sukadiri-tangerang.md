@@ -119,7 +119,7 @@ Dibawah ini Price List Harga Bahan Bangunan Termurah yang kami jual.
 
 ## Metode Pemesanan Pasir Gratis Ongkos Kirim dan Bongkar Di Sukadiri Tangerang
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Setelah kalian mengetahui Jenis - Tipe Jenis Pasir mulai kini anda patut akurat di dalam memilih macam pasir yang akan kamu gunakan untuk membangun sebuah Konstruksi Bangunan. Kalau anda hendak membeli pasir dari kami Cara Pemesanan nya yaitu dengan sms data domisili komplit dan nomor handphond saja, kami akan segera mengirimnya ke lokasi proyek anda dengan tidak ada tambahan ongkos apa saja. Harga yang kami berikan ialah sudah termasuk ongkir dan penurunan jadi anda tidak perlu khawatir dengan penambahan harga lagi. Metode pembayaran yang kami terapkan juga sungguh-sungguh aman, yaitu anda bayar sesudah material terkirim ke tempat anda atau di ucap dengan istilah COD (Cash On Delivery). Anda juga bisa konsultasi atau negosiasi dengan kami melewati no telepon yang ada di website ini.
 

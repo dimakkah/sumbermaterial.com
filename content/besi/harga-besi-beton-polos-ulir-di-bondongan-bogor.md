@@ -49,7 +49,7 @@ Besi beton sendiri mempunyai beberapa tipe ukuran selaras dengan kegunaannya. Ba
 
 ## Informasi Harga Besi Beton Polos & Ulir Di Bondongan Bogor
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/RlgIAwKCWFI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/RlgIAwKCWFI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 **Daftar Harga Besi Beton Polos & Ulir Di Bondongan Bogor**
 

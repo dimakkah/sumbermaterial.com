@@ -33,7 +33,7 @@ Beton Readymix kualitas ini ialah kualitas beton Ready mix yg didesain khusus un
 
 ### Beton Readymix K375 sd K500 dan Harganya Di Kapuk Muara Jakarta
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/MVuQWwYFCiA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/MVuQWwYFCiA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Mutu beton Readymix yg terkhir yakni kwalitas beton yg didesaian khusus utk pekerjaan cepat biasa disebut juga dengan beton fast track yaitu kualitas beton Readymix yg dapat kering hanya dalam beberapa hari saja. Harganya malah cukup mahal utk K375 sendiri per kubiknya 1.000.000, K400 harganya 1.200.000 per m3 dan K500 1.400.000 per kubiknya. Kwalitas-mutu beton tadi digunakna pada pengecoran jalan rigit yg akan digunakan bebera hari kemudian atau pada pengecoran jembatan dan bendungan serta pengecoran dalam air.
 

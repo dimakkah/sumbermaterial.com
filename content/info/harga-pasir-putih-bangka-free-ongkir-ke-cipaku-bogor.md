@@ -119,7 +119,7 @@ Berikut List Harga Bahan Material Alam Terupdate yang kami jual.
 
 ## Cara Pengorderan Pasir Bebas Ongkos Kirim dan Bongkar Di Cipaku Bogor
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Setelah kamu mengetahui Jenis - Tipe Jenis Pasir mulai sekarang anda harus cermat di dalam memilih model pasir yg akan anda manfaatkan untuk membangun sebuah Konstruksi Bangunan. Jika anda hendak membeli pasir dari kami Metode Pemesanan nya ialah dengan whatsapp data domisili komplit dan nomor HP saja, kami akan seketika mengirimnya ke lokasi proyek anda dengan tidak ada tambahan ongkos apa saja. Harga yang kami berikan adalah sudah termasuk ongkir dan bongkar jadi anda tidak perlu kuatir dengan penambahan harga lagi. Cara pembayaran yang kami terapkan juga benar-benar aman, ialah anda bayar sesudah material terkirim ke daerah anda atau di ucap dengan istilah COD (Cash On Delivery). Anda juga dapat konsultasi atau negosiasi dengan kami lewat no telepon yang ada di web ini.
 

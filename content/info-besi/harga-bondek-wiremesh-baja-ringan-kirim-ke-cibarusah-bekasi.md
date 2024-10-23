@@ -63,7 +63,7 @@ Baja ringan SNI ditawarkan dengan hitungan harga pas dengan ketebalan dan dihitu
 
 ## Metode Pengorderan Bondek, Wiremesh Dan Baja Ringan Di Cibarusah Bekasi
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/RlgIAwKCWFI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/RlgIAwKCWFI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Jika anda berencana mengorder material melalui Harga Bondek Wiremesh Baja Ringan Kirim Ke Cibarusah Bekasi online karenanya salah satunya dapat menggunakan sistem pembayaran COD. Dimana sistem Bayar Setelah sampe, pembeli patut membayar orderan dengan pembayaran tunai ketika barang yang dipesan sampai di tempat tujuan. Berikut ini akan dijelaskan langkah pembelian bondek, wiremesh dan baja ringan secara COD yang perlu anda ketahui.
 

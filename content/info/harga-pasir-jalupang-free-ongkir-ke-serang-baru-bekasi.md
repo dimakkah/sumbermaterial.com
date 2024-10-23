@@ -160,7 +160,7 @@ Berikut ini List Harga Bahan Material Terupdate yang kami jual.
 
 ## Cara Pemesanan Pasir Free Ongkos Kirim dan Bongkar Di Serang Baru Bekasi
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Sesudah kalian memahami model - model Ragam Pasir mulai kini anda patut akurat dalam memilih macam pasir yg akan anda pergunakan untuk membangun sebuah Bangunan. Bila anda mau membeli pasir dari kami Metode Pengorderan nya adalah dengan whatsapp data alamat lengkap dan nomor telepon saja, kami akan seketika mengirimnya ke lokasi proyek anda dengan tanpa tambahan ongkos apapun. Harga yang kami berikan adalah sudah termasuk biaya pengiriman dan tumpah jadi anda tak perlu kuatir dengan pembengkakan biaya lagi. Cara pembayaran yang kami terapkan juga amat aman, merupakan anda bayar setelah material sampe ke lokasi anda atau di sebut dengan istilah COD (Cash On Delivery). Anda juga bisa konsultasi atau perundingan dengan kami lewat no telepon yang ada di website ini.
 

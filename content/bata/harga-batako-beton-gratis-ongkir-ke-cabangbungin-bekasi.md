@@ -55,7 +55,7 @@ Apabila diperbandingkan dg bahan bangunan lainnya, batako trus memiliki harga se
 
 ## System Pemesanan Bata Merah, Batako & Hebel Di Cabangbungin Bekasi
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/IEs5XPt-xyU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/IEs5XPt-xyU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Seluruhnya tentu telah tahu fungsi utama batu bata mulai digunakan untuk membikin tembok, pagar tempat tinggal dan lainnya. Bersamaan dengan perkembangannya batu batu sekarang sudah ada batu bata merah, batako trus hitam dan bata ringan. Sekiranya sekarang ini anda memiliki rencana untuk membangun sebuah rumah yg idam-idamkan|impian|masa depan} dan membutuhkan material batu bata. Maka silahkan memesan batu bata terhadap warung penyedia bahan batu bata yang berkwalitas dan terpercaya.
 

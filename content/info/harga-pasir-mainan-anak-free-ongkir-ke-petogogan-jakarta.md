@@ -119,7 +119,7 @@ Dibawah ini Price List Harga Bahan Bangunan Free Ongkir yang kami jual.
 
 ## Sistem Pengorderan Pasir Gratis Biaya Pengiriman dan Penurunan Di Petogogan Jakarta
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Sesudah kalian mengetahui Tipe - Tipe model Pasir mulai kini kalian seharusnya teliti dalam memilih macam pasir yg akan anda pergunakan untuk membangun sebuah Konstruksi Bangunan. Bila anda mau membeli pasir dari kami Metode Pemesanan nya yaitu dengan whatsapp data alamat komplit dan nomor HP saja, kami akan lantas mengirimnya ke lokasi proyek anda tanpa ada tambahan biaya apapun. Harga yang kami berikan yaitu telah termasuk ongkir dan bongkar jadi anda tak perlu cemas dengan pembengkakan biaya lagi. Metode pembayaran yang kami terapkan juga sangat aman, ialah anda bayar setelah material sampai ke tempat anda atau di sebut dengan istilah COD (Cash On Delivery). Anda juga dapat konsultasi atau diplomasi dengan kami via no telepon yang ada di laman ini.
 

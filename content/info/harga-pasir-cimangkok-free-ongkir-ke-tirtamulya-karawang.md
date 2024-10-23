@@ -160,7 +160,7 @@ Dibawah ini Daftar Harga Bahan Bangunan Termurah yang kami jual.
 
 ## Metode Pengorderan Pasir Gratis Biaya Pengiriman dan Kuli Di Tirtamulya Karawang
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Sesudah kalian memahami Ragam - Jenis Ragam Pasir mulai kini kalian patut cermat di dalam memilih macam pasir yang akan kamu pergunakan untuk membangun sebuah Konstruksi Bangunan. Sekiranya anda mau membeli pasir dari kami Sistem Pengorderan nya merupakan dengan whatsapp data alamat lengkap dan nomor handphond saja, kami akan seketika mengirimnya ke lokasi proyek anda tanpa ada tambahan ongkos apa saja. Harga yang kami berikan adalah telah termasuk ongkos kirim dan penurunan jadi anda tidak perlu cemas dengan penambahan ongkos lagi. Metode pembayaran yang kami terapkan juga sangat aman, adalah anda bayar sesudah material sampai ke lokasi anda atau di sebut dengan istilah COD (Cash On Delivery). Anda juga dapat konsultasi atau negosiasi dengan kami melewati no telepon yang ada di laman ini.
 

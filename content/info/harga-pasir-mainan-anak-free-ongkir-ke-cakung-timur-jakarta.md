@@ -119,7 +119,7 @@ Berikut List Harga Bahan Material Free Ongkir yang kami jual.
 
 ## Sistem Pengorderan Pasir Bebas Ongkir dan Kuli Di Cakung Timur Jakarta
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Setelah anda mengetahui Macam - Jenis Macam Pasir mulai sekarang kamu patut akurat dalam memilih ragam pasir yang akan anda pergunakan untuk membangun sebuah Konstruksi. Bila anda berencana membeli pasir dari kami Metode Pengorderan nya merupakan dengan whatsapp data domisili komplit dan nomor HP saja, kami akan seketika mengirimnya ke lokasi proyek anda dengan tanpa tambahan ongkos apapun. Harga yang kami berikan ialah sudah termasuk biaya pengiriman dan tumpah jadi anda tak perlu cemas dengan pembengkakan ongkos lagi. Cara pembayaran yang kami terapkan juga sangat aman, yakni anda bayar sesudah material sampe ke lokasi anda atau di sebut dengan istilah COD (Cash On Delivery). Anda juga dapat konsultasi atau perundingan dengan kami melewati no telepon yang ada di website ini.
 

@@ -119,7 +119,7 @@ Berikut ini Daftar Harga Bahan Bangunan Termurah yang kami jual.
 
 ## Sistem Pemesanan Pasir Free Biaya Pengiriman dan Penurunan Di Pasir Mulya Bogor
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Sesudah anda mengenal Tipe - model Macam Pasir mulai sekarang kamu harus cermat di dalam memilih macam pasir yang akan anda pergunakan untuk membangun sebuah Konstruksi Bangunan. Apabila anda akan membeli pasir dari kami Cara Pemesanan nya yaitu dengan whatsapp data alamat lengkap dan nomor telepon saja, kami akan segera mengirimnya ke lokasi proyek anda dengan tidak ada tambahan biaya apa saja. Harga yang kami berikan adalah telah termasuk biaya pengiriman dan bongkar jadi anda tidak perlu cemas dengan pembengkakan ongkos lagi. Sistem pembayaran yang kami terapkan juga benar-benar aman, adalah anda bayar setelah material terkirim ke lokasi anda atau di ucap dengan istilah COD (Cash On Delivery). Anda juga dapat konsultasi atau diplomasi dengan kami lewat no telepon yang ada di situs ini.
 

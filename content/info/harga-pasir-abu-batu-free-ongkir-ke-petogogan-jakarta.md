@@ -160,7 +160,7 @@ Berikut ini Price List Harga Bahan Bangunan Terbaru yang kami jual.
 
 ## Sistem Pengorderan Pasir Gratis Ongkos Kirim dan Penurunan Di Petogogan Jakarta
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Setelah kalian mengetahui Macam - Macam Macam Pasir mulai sekarang kamu sepatutnya akurat di dalam memilih macam pasir yg akan anda manfaatkan untuk membangun sebuah Konstruksi. Jikalau anda hendak membeli pasir dari kami Sistem Pengorderan nya adalah dengan memberikan data alamat lengkap dan nomor handphond saja, kami akan segera mengirimnya ke lokasi proyek anda dengan tidak ada tambahan biaya apapun. Harga yang kami berikan yaitu sudah termasuk biaya pengiriman dan penurunan jadi anda tidak perlu cemas dengan penambahan biaya lagi. Sistem pembayaran yang kami terapkan juga amat aman, yaitu anda bayar sesudah material sampai ke lokasi anda atau di sebut dengan istilah COD (Cash On Delivery). Anda juga dapat konsultasi atau perundingan dengan kami melalui no telepon yang ada di website ini.
 

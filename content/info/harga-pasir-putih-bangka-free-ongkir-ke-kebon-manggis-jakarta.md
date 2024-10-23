@@ -160,7 +160,7 @@ Dibawah ini Urutan Harga Bahan Material Terbaru yang kami jual.
 
 ## Cara Pengorderan Pasir Bebas Ongkos Kirim dan Penurunan Di Kebon Manggis Jakarta
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Setelah anda memahami Ragam - Ragam Macam Pasir mulai sekarang anda harus teliti dalam memilih macam pasir yg akan kalian manfaatkan untuk membangun sebuah Bangunan. Jikalau anda mau membeli pasir dari kami Cara Pemesanan nya yakni dengan Email data domisili lengkap dan nomor handphond saja, kami akan langsung mengirimnya ke lokasi proyek anda tanpa ada tambahan ongkos apapun. Harga yang kami berikan ialah sudah termasuk ongkir dan penurunan jadi anda tidak perlu kuatir dengan pembengkakan biaya lagi. Metode pembayaran yang kami terapkan juga betul-betul aman, yakni anda bayar sesudah material terkirim ke tempat anda atau di sebut dengan istilah COD (Cash On Delivery). Anda juga dapat konsultasi atau negosiasi dengan kami lewat no telepon yang ada di website ini.
 

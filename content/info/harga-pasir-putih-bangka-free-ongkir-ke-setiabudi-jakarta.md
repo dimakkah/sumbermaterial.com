@@ -160,7 +160,7 @@ Berikut Urutan Harga Bahan Material Terbaru yang kami jual.
 
 ## Metode Pengorderan Pasir Free Ongkos Kirim dan Penurunan Di Setiabudi Jakarta
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Setelah kamu memahami model - Ragam Macam Pasir mulai kini kamu patut akurat di dalam memilih model pasir yang akan anda manfaatkan untuk membangun sebuah Konstruksi Bangunan. Jika anda akan membeli pasir dari kami Metode Pemesanan nya ialah dengan sms data domisili lengkap dan nomor telepon saja, kami akan langsung mengirimnya ke lokasi proyek anda tanpa ada tambahan biaya apa saja. Harga yang kami berikan yakni sudah termasuk ongkir dan tumpah jadi anda tidak perlu kuatir dengan penambahan harga lagi. Cara pembayaran yang kami terapkan juga benar-benar aman, yaitu anda bayar sesudah material terkirim ke lokasi anda atau di ucap dengan istilah COD (Cash On Delivery). Anda juga dapat konsultasi atau negosiasi dengan kami lewat no telepon yang ada di laman ini.
 

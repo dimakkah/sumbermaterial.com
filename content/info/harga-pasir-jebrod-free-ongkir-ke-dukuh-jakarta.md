@@ -119,7 +119,7 @@ Berikut Daftar Harga Bahan Bangunan Termurah yang kami jual.
 
 ## Metode Pengorderan Pasir Bebas Biaya Pengiriman dan Penurunan Di Dukuh Jakarta
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Sesudah anda memahami Jenis - model model Pasir mulai sekarang kamu mesti cermat dalam memilih model pasir yg akan kamu pergunakan untuk membangun sebuah Konstruksi Bangunan. Jikalau anda mau membeli pasir dari kami Sistem Pemesanan nya yakni dengan whatsapp data domisili komplit dan nomor handphond saja, kami akan langsung mengirimnya ke lokasi proyek anda tanpa ada tambahan biaya apa saja. Harga yang kami berikan adalah telah termasuk ongkos kirim dan bongkar jadi anda tidak perlu kuatir dengan pembengkakan harga lagi. Metode pembayaran yang kami terapkan juga sangat aman, yaitu anda bayar setelah material sampai ke daerah anda atau di sebut dengan istilah COD (Cash On Delivery). Anda juga dapat konsultasi atau perundingan dengan kami melalui no telepon yang ada di web ini.
 

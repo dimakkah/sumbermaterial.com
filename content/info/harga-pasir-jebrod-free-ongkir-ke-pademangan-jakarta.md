@@ -119,7 +119,7 @@ Berikut Daftar Harga Bahan Material Alam Terlengkap yang kami jual.
 
 ## Cara Pemesanan Pasir Bebas Ongkir dan Penurunan Di Pademangan Jakarta
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Sesudah kamu mengenal model - Macam Jenis Pasir mulai sekarang anda sepatutnya cermat di dalam memilih jenis pasir yang akan anda manfaatkan untuk membangun sebuah Konstruksi. Jikalau anda mau membeli pasir dari kami Sistem Pengorderan nya yakni dengan memberikan data domisili lengkap dan nomor telepon saja, kami akan segera mengirimnya ke lokasi proyek anda dengan tanpa tambahan biaya apa saja. Harga yang kami berikan yaitu telah termasuk ongkos kirim dan bongkar jadi anda tidak perlu cemas dengan pembengkakan biaya lagi. Metode pembayaran yang kami terapkan juga betul-betul aman, yaitu anda bayar setelah material sampe ke lokasi anda atau di sebut dengan istilah COD (Cash On Delivery). Anda juga bisa konsultasi atau negosiasi dengan kami lewat no telepon yang ada di situs ini.
 

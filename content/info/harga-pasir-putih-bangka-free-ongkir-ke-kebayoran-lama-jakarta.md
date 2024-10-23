@@ -119,7 +119,7 @@ Berikut ini List Harga Bahan Bangunan Terlengkap yang kami jual.
 
 ## Sistem Pengorderan Pasir Free Ongkos Kirim dan Penurunan Di Kebayoran Lama Jakarta
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Setelah anda memahami Macam - Ragam Macam Pasir mulai kini anda harus cermat di dalam memilih jenis pasir yang akan kalian pakai untuk membangun sebuah Konstruksi. Apabila anda berencana membeli pasir dari kami Metode Pemesanan nya adalah dengan sms data domisili komplit dan nomor handphond saja, kami akan lantas mengirimnya ke lokasi proyek anda tanpa ada tambahan biaya apapun. Harga yang kami berikan merupakan sudah termasuk ongkos kirim dan tumpah jadi anda tidak perlu khawatir dengan pembengkakan biaya lagi. Cara pembayaran yang kami terapkan juga amat aman, yaitu anda bayar setelah material sampai ke daerah anda atau di sebut dengan istilah COD (Cash On Delivery). Anda juga bisa konsultasi atau diplomasi dengan kami melalui no telepon yang ada di web ini.
 

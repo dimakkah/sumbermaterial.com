@@ -160,7 +160,7 @@ Berikut Urutan Harga Bahan Bangunan Terbaru yang kami jual.
 
 ## Cara Pemesanan Pasir Gratis Ongkir dan Penurunan Di Kecamatan Bogor Selatan
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Sesudah kamu mengetahui Ragam - Ragam Macam Pasir mulai kini anda seharusnya teliti di dalam memilih ragam pasir yang akan kalian pergunakan untuk membangun sebuah Konstruksi Bangunan. Jika anda berencana membeli pasir dari kami Sistem Pengorderan nya ialah dengan memberikan data alamat lengkap dan nomor handphond saja, kami akan lantas mengirimnya ke lokasi proyek anda dengan tidak ada tambahan biaya apa saja. Harga yang kami berikan yaitu sudah termasuk biaya pengiriman dan bongkar jadi anda tidak perlu khawatir dengan penambahan biaya lagi. Cara pembayaran yang kami terapkan juga benar-benar aman, adalah anda bayar setelah material sampe ke tempat anda atau di ucap dengan istilah COD (Cash On Delivery). Anda juga dapat konsultasi atau perundingan dengan kami via no telepon yang ada di situs ini.
 

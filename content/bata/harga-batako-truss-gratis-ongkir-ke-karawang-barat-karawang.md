@@ -55,7 +55,7 @@ Bila dibandingi dg material bangunan lainnya, batako press memiliki harga sekita
 
 ## Cara Pembelian Bata Merah, Batako & Hebel Di Karawang Barat Karawang
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/IEs5XPt-xyU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/IEs5XPt-xyU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Segalanya tentu telah tahu fungsi utama batu bata mulai digunakan untuk membuat tembok, pagar rumah dan lainnya. Bertepatan dengan perkembangannya batu batu kini sudah ada batu bata merah, batako trus hitam dan hebel. Kalau saat ini anda mempunyai rencana untuk membangun sebuah rumah yg idam-idamkan|impian|masa depan} dan memerlukan material batu bata. Maka silahkan memesan batu bata kepada kios penyedia material batu bata yang bermutu dan terpercaya.
 

@@ -119,7 +119,7 @@ Dibawah ini Daftar Harga Bahan Material Terupdate yang kami jual.
 
 ## Cara Pemesanan Pasir Free Ongkos Kirim dan Kuli Di Utan Kayu Jakarta
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Sesudah kalian mengenal Jenis - Jenis Macam Pasir mulai sekarang kalian sepatutnya teliti di dalam memilih macam pasir yang akan anda pakai untuk membangun sebuah Konstruksi. Kalau anda akan membeli pasir dari kami Metode Pemesanan nya yaitu dengan Email data alamat komplit dan nomor telepon saja, kami akan lantas mengirimnya ke lokasi proyek anda dengan tanpa tambahan biaya apa saja. Harga yang kami berikan merupakan sudah termasuk ongkos kirim dan penurunan jadi anda tidak perlu cemas dengan penambahan harga lagi. Metode pembayaran yang kami terapkan juga betul-betul aman, yaitu anda bayar sesudah material sampai ke daerah anda atau di sebut dengan istilah COD (Cash On Delivery). Anda juga dapat konsultasi atau negosiasi dengan kami melalui no telepon yang ada di laman ini.
 

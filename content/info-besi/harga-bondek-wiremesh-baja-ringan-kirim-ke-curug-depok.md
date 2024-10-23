@@ -63,7 +63,7 @@ Baja ringan SNI dijual dengan hitungan harga pas dengan ketebalan dan dihitung p
 
 ## Sistem Pembelian Bondek, Wiremesh Dan Baja Ringan Di Curug Depok
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/RlgIAwKCWFI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/RlgIAwKCWFI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Jika anda berencana membeli material melalui Harga Bondek Wiremesh Baja Ringan Kirim Ke Curug Depok online karenanya salah satunya dapat memakai cara pembayaran bayar ditempat. Dimana sistem bayar ditempat, pembeli seharusnya membayar orderan dengan pembayaran tunai saat barang yang dipesan tiba di lokasi tujuan. Berikut ini akan ditunjukkan langkah pengorderan bondek, wiremesh dan baja ringan secara COD yang wajib anda kenal.
 

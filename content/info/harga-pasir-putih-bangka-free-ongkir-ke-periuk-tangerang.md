@@ -119,7 +119,7 @@ Dibawah ini List Harga Bahan Bangunan Terupdate yang kami jual.
 
 ## Cara Pengorderan Pasir Gratis Biaya Pengiriman dan Kuli Di Periuk Tangerang
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Sesudah kamu memahami Ragam - model model Pasir mulai sekarang anda wajib teliti dalam memilih jenis pasir yang akan anda pakai untuk membangun sebuah Konstruksi Bangunan. Bila anda hendak membeli pasir dari kami Cara Pengorderan nya merupakan dengan Email data domisili komplit dan nomor telepon saja, kami akan lantas mengirimnya ke lokasi proyek anda dengan tanpa tambahan biaya apa saja. Harga yang kami berikan yaitu telah termasuk biaya pengiriman dan bongkar jadi anda tidak perlu cemas dengan penambahan biaya lagi. Metode pembayaran yang kami terapkan juga benar-benar aman, merupakan anda bayar setelah material sampai ke lokasi anda atau di sebut dengan istilah COD (Cash On Delivery). Anda juga dapat konsultasi atau perundingan dengan kami via no telepon yang ada di situs ini.
 

@@ -119,7 +119,7 @@ Berikut ini Daftar Harga Bahan Bangunan Terlengkap yang kami jual.
 
 ## Metode Pemesanan Pasir Free Ongkir dan Bongkar Di Pebayuran Bekasi
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Sesudah kamu mengenal Ragam - Macam Ragam Pasir mulai kini anda patut cermat di dalam memilih tipe pasir yang akan anda pakai untuk membangun sebuah Konstruksi. Bila anda berencana membeli pasir dari kami Sistem Pemesanan nya ialah dengan Email data alamat komplit dan nomor handphond saja, kami akan segera mengirimnya ke lokasi proyek anda dengan tidak ada tambahan ongkos apa saja. Harga yang kami berikan yakni telah termasuk ongkir dan bongkar jadi anda tak perlu kuatir dengan pembengkakan harga lagi. Metode pembayaran yang kami terapkan juga sungguh-sungguh aman, adalah anda bayar sesudah material terkirim ke tempat anda atau di sebut dengan istilah COD (Cash On Delivery). Anda juga bisa konsultasi atau negosiasi dengan kami via no telepon yang ada di laman ini.
 

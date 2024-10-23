@@ -119,7 +119,7 @@ Berikut Price List Harga Bahan Material Alam Termurah yang kami jual.
 
 ## Sistem Pemesanan Pasir Bebas Ongkir dan Kuli Di Duri Utara Jakarta
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Setelah anda mengenal Tipe - Ragam Jenis Pasir mulai sekarang anda mesti teliti dalam memilih jenis pasir yang akan kalian gunakan untuk membangun sebuah Konstruksi Bangunan. Sekiranya anda mau membeli pasir dari kami Sistem Pengorderan nya adalah dengan sms data alamat komplit dan nomor telepon saja, kami akan langsung mengirimnya ke lokasi proyek anda dengan tanpa tambahan ongkos apa saja. Harga yang kami berikan adalah sudah termasuk biaya pengiriman dan tumpah jadi anda tidak perlu cemas dengan penambahan biaya lagi. Metode pembayaran yang kami terapkan juga amat aman, merupakan anda bayar sesudah material sampai ke daerah anda atau di ucap dengan istilah COD (Cash On Delivery). Anda juga dapat konsultasi atau diplomasi dengan kami via no telepon yang ada di situs ini.
 

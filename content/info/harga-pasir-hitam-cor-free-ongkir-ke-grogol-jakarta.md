@@ -160,7 +160,7 @@ Berikut Price List Harga Bahan Material Alam Terbaru yang kami jual.
 
 ## Sistem Pemesanan Pasir Free Biaya Pengiriman dan Penurunan Di Grogol Jakarta
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Sesudah anda mengetahui Tipe - Jenis Macam Pasir mulai kini anda mesti teliti dalam memilih macam pasir yang akan anda gunakan untuk membangun sebuah Konstruksi. Jikalau anda mau membeli pasir dari kami Sistem Pengorderan nya yaitu dengan Email data domisili lengkap dan nomor telepon saja, kami akan lantas mengirimnya ke lokasi proyek anda tanpa ada tambahan ongkos apa saja. Harga yang kami berikan adalah sudah termasuk ongkir dan tumpah jadi anda tidak perlu kuatir dengan pembengkakan harga lagi. Sistem pembayaran yang kami terapkan juga sungguh-sungguh aman, yaitu anda bayar setelah material sampai ke daerah anda atau di sebut dengan istilah COD (Cash On Delivery). Anda juga dapat konsultasi atau negosiasi dengan kami melalui no telepon yang ada di web ini.
 

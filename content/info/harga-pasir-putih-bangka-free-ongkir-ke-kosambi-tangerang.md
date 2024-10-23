@@ -119,7 +119,7 @@ Berikut ini Daftar Harga Bahan Bangunan Terbaru yang kami jual.
 
 ## Metode Pemesanan Pasir Free Ongkir dan Bongkar Di Kosambi Tangerang
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Sesudah kamu mengetahui Jenis - model Ragam Pasir mulai sekarang kalian wajib teliti dalam memilih macam pasir yg akan anda gunakan untuk membangun sebuah Konstruksi Bangunan. Kalau anda berencana membeli pasir dari kami Sistem Pemesanan nya ialah dengan memberikan data alamat komplit dan nomor telepon saja, kami akan seketika mengirimnya ke lokasi proyek anda dengan tanpa tambahan biaya apapun. Harga yang kami berikan yakni sudah termasuk ongkos kirim dan bongkar jadi anda tak perlu cemas dengan pembengkakan harga lagi. Metode pembayaran yang kami terapkan juga benar-benar aman, merupakan anda bayar sesudah material sampe ke lokasi anda atau di sebut dengan istilah COD (Cash On Delivery). Anda juga dapat konsultasi atau diplomasi dengan kami melalui no telepon yang ada di web ini.
 

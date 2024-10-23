@@ -160,7 +160,7 @@ Dibawah ini Urutan Harga Bahan Material Alam Terupdate yang kami jual.
 
 ## Cara Pengorderan Pasir Gratis Ongkos Kirim dan Penurunan Di Rajeg Tangerang
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Setelah kamu mengetahui Tipe - Macam Ragam Pasir mulai kini kalian patut cermat di dalam memilih jenis pasir yang akan anda gunakan untuk membangun sebuah Konstruksi Bangunan. Apabila anda berencana membeli pasir dari kami Metode Pemesanan nya ialah dengan Email data domisili komplit dan nomor telepon saja, kami akan langsung mengirimnya ke lokasi proyek anda dengan tidak ada tambahan biaya apa saja. Harga yang kami berikan merupakan sudah termasuk ongkir dan penurunan jadi anda tidak perlu cemas dengan pembengkakan biaya lagi. Cara pembayaran yang kami terapkan juga sungguh-sungguh aman, yaitu anda bayar sesudah material sampai ke daerah anda atau di sebut dengan istilah COD (Cash On Delivery). Anda juga dapat konsultasi atau diplomasi dengan kami melalui no telepon yang ada di website ini.
 

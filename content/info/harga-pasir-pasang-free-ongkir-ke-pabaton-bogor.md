@@ -119,7 +119,7 @@ Dibawah ini Urutan Harga Bahan Bangunan Terbaru yang kami jual.
 
 ## Metode Pemesanan Pasir Gratis Biaya Pengiriman dan Bongkar Di Pabaton Bogor
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Setelah kalian mengenal model - Macam Tipe Pasir mulai sekarang anda wajib teliti dalam memilih tipe pasir yg akan anda manfaatkan untuk membangun sebuah Konstruksi. Jika anda berencana membeli pasir dari kami Sistem Pemesanan nya yaitu dengan sms data domisili komplit dan nomor HP saja, kami akan langsung mengirimnya ke lokasi proyek anda dengan tanpa tambahan ongkos apa saja. Harga yang kami berikan adalah sudah termasuk biaya pengiriman dan tumpah jadi anda tidak perlu cemas dengan pembengkakan ongkos lagi. Metode pembayaran yang kami terapkan juga sangat aman, yaitu anda bayar setelah material terkirim ke daerah anda atau di ucap dengan istilah COD (Cash On Delivery). Anda juga bisa konsultasi atau negosiasi dengan kami melewati no telepon yang ada di situs ini.
 

@@ -160,7 +160,7 @@ Dibawah ini Daftar Harga Bahan Material Alam Free Ongkir yang kami jual.
 
 ## Sistem Pemesanan Pasir Free Biaya Pengiriman dan Penurunan Di Tanah Tinggi Jakarta
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Setelah kalian mengetahui Macam - Tipe Macam Pasir mulai sekarang anda mesti teliti di dalam memilih macam pasir yang akan anda pergunakan untuk membangun sebuah Konstruksi Bangunan. Apabila anda hendak membeli pasir dari kami Metode Pemesanan nya ialah dengan whatsapp data alamat komplit dan nomor telepon saja, kami akan segera mengirimnya ke lokasi proyek anda dengan tidak ada tambahan biaya apa saja. Harga yang kami berikan yaitu telah termasuk ongkir dan tumpah jadi anda tak perlu khawatir dengan pembengkakan biaya lagi. Metode pembayaran yang kami terapkan juga betul-betul aman, yakni anda bayar sesudah material terkirim ke daerah anda atau di ucap dengan istilah COD (Cash On Delivery). Anda juga dapat konsultasi atau diplomasi dengan kami lewat no telepon yang ada di laman ini.
 

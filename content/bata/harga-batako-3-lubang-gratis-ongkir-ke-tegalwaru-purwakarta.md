@@ -55,7 +55,7 @@ Bila dibandingi dengan material bangunan lainnya, batako press memiliki harga se
 
 ## System Beli Bata Merah, Batako & Hebel Di Tegalwaru Purwakarta
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/IEs5XPt-xyU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/IEs5XPt-xyU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Semua tentunya telah tahu fungsi utama batu bata mulai dipakai untuk membuat tembok, pagar tempat tinggal dan lainnya. Seiring perkembangannya batu batu sekarang sudah ada batu bata merah, batako trus hitam dan hebel. Seandainya sekarang ini anda mempunyai agenda untuk membangun sebuah tempat tinggal yg idam-idamkan|impian|masa depan} dan membutuhkan material batu bata. Karenanya silahkan memesan batu bata kepada kios penyedia material batu bata yang bermutu dan terpercaya.
 

@@ -119,7 +119,7 @@ Berikut ini List Harga Bahan Bangunan Termurah yang kami jual.
 
 ## Metode Pengorderan Pasir Free Biaya Pengiriman dan Bongkar Di Grogol Depok
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Sesudah kalian memahami Macam - Tipe Macam Pasir mulai sekarang kalian semestinya teliti dalam memilih macam pasir yang akan kamu pergunakan untuk membangun sebuah Konstruksi Bangunan. Seandainya anda mau membeli pasir dari kami Sistem Pemesanan nya adalah dengan sms data alamat lengkap dan nomor handphond saja, kami akan langsung mengirimnya ke lokasi proyek anda tanpa ada tambahan biaya apapun. Harga yang kami berikan yaitu telah termasuk ongkir dan penurunan jadi anda tak perlu kuatir dengan pembengkakan biaya lagi. Cara pembayaran yang kami terapkan juga amat aman, merupakan anda bayar setelah material sampai ke lokasi anda atau di ucap dengan istilah COD (Cash On Delivery). Anda juga bisa konsultasi atau negosiasi dengan kami melalui no telepon yang ada di situs ini.
 

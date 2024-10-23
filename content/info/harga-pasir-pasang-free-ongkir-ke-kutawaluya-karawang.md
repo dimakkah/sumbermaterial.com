@@ -160,7 +160,7 @@ Berikut Price List Harga Bahan Bangunan Free Ongkir yang kami jual.
 
 ## Cara Pengorderan Pasir Bebas Ongkir dan Kuli Di Kutawaluya Karawang
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Setelah kalian mengenal model - Ragam Macam Pasir mulai sekarang kalian harus cermat di dalam memilih model pasir yang akan kalian pergunakan untuk membangun sebuah Konstruksi. Jika anda berencana membeli pasir dari kami Metode Pemesanan nya adalah dengan sms data domisili lengkap dan nomor telepon saja, kami akan segera mengirimnya ke lokasi proyek anda dengan tidak ada tambahan biaya apapun. Harga yang kami berikan yakni sudah termasuk biaya pengiriman dan bongkar jadi anda tidak perlu kuatir dengan pembengkakan ongkos lagi. Metode pembayaran yang kami terapkan juga sungguh-sungguh aman, yaitu anda bayar sesudah material terkirim ke lokasi anda atau di sebut dengan istilah COD (Cash On Delivery). Anda juga dapat konsultasi atau diplomasi dengan kami melewati no telepon yang ada di laman ini.
 

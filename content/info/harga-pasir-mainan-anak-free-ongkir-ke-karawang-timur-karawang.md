@@ -119,7 +119,7 @@ Berikut Price List Harga Bahan Bangunan Terupdate yang kami jual.
 
 ## Metode Pemesanan Pasir Free Ongkos Kirim dan Kuli Di Karawang Timur Karawang
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Setelah kamu mengetahui model - Tipe Macam Pasir mulai sekarang anda wajib teliti di dalam memilih macam pasir yang akan anda pakai untuk membangun sebuah Konstruksi. Bila anda hendak membeli pasir dari kami Cara Pengorderan nya yakni dengan whatsapp data alamat komplit dan nomor telepon saja, kami akan langsung mengirimnya ke lokasi proyek anda dengan tanpa tambahan biaya apapun. Harga yang kami berikan merupakan sudah termasuk biaya pengiriman dan tumpah jadi anda tidak perlu cemas dengan pembengkakan ongkos lagi. Cara pembayaran yang kami terapkan juga amat aman, merupakan anda bayar setelah material terkirim ke lokasi anda atau di ucap dengan istilah COD (Cash On Delivery). Anda juga dapat konsultasi atau perundingan dengan kami via no telepon yang ada di website ini.
 

@@ -119,7 +119,7 @@ Dibawah ini Urutan Harga Bahan Material Termurah yang kami jual.
 
 ## Cara Pemesanan Pasir Gratis Ongkos Kirim dan Bongkar Di Bambu Apus Jakarta
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Sesudah anda mengetahui Macam - model Ragam Pasir mulai sekarang anda semestinya teliti di dalam memilih macam pasir yang akan anda manfaatkan untuk membangun sebuah Konstruksi Bangunan. Jika anda mau membeli pasir dari kami Sistem Pemesanan nya merupakan dengan whatsapp data domisili komplit dan nomor HP saja, kami akan segera mengirimnya ke lokasi proyek anda dengan tanpa tambahan biaya apapun. Harga yang kami berikan yakni sudah termasuk ongkir dan bongkar jadi anda tak perlu kuatir dengan penambahan ongkos lagi. Sistem pembayaran yang kami terapkan juga benar-benar aman, adalah anda bayar sesudah material sampe ke daerah anda atau di ucap dengan istilah COD (Cash On Delivery). Anda juga dapat konsultasi atau diplomasi dengan kami melalui no telepon yang ada di laman ini.
 

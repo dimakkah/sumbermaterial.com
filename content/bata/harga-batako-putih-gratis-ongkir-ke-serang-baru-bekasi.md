@@ -55,7 +55,7 @@ Sekiranya dibandingkan dg bahan bangunan lainnya, batako press mempunyai harga s
 
 ## System Pemesanan Bata Merah, Batako & Hebel Di Serang Baru Bekasi
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/IEs5XPt-xyU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/IEs5XPt-xyU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Segalanya tentu sudah tahu fungsi utama batu bata mulai dipakai untuk membuat tembok, pagar rumah dan lainnya. Bersamaan dengan perkembangannya batu batu sekarang telah ada batu bata merah, batako trus hitam dan bata ringan. Jika dikala ini anda mempunyai rencana untuk membangun sebuah tempat tinggal yang idam-idamkan|impian|masa depan} dan membutuhkan bahan batu bata. Maka silahkan memesan batu bata kepada toko penyedia bahan batu bata yg berkualitas dan terpercaya.
 

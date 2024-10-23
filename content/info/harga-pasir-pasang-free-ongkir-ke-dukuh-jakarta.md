@@ -119,7 +119,7 @@ Berikut ini List Harga Bahan Bangunan Free Ongkir yang kami jual.
 
 ## Metode Pemesanan Pasir Bebas Ongkir dan Bongkar Di Dukuh Jakarta
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Setelah kalian mengetahui Tipe - model Tipe Pasir mulai kini anda seharusnya cermat dalam memilih model pasir yang akan anda manfaatkan untuk membangun sebuah Konstruksi Bangunan. Jika anda hendak membeli pasir dari kami Metode Pengorderan nya yaitu dengan Email data alamat lengkap dan nomor telepon saja, kami akan lantas mengirimnya ke lokasi proyek anda dengan tanpa tambahan biaya apapun. Harga yang kami berikan adalah sudah termasuk ongkir dan tumpah jadi anda tidak perlu khawatir dengan pembengkakan harga lagi. Sistem pembayaran yang kami terapkan juga benar-benar aman, adalah anda bayar setelah material sampe ke daerah anda atau di sebut dengan istilah COD (Cash On Delivery). Anda juga bisa konsultasi atau perundingan dengan kami melewati no telepon yang ada di laman ini.
 

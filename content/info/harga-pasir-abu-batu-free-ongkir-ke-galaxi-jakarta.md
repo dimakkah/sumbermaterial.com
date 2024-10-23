@@ -160,7 +160,7 @@ Berikut ini List Harga Bahan Material Alam Terupdate yang kami jual.
 
 ## Metode Pemesanan Pasir Bebas Biaya Pengiriman dan Bongkar Di Galaxi Jakarta
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Sesudah kalian mengetahui Jenis - Jenis Macam Pasir mulai sekarang anda mesti cermat di dalam memilih macam pasir yg akan anda pergunakan untuk membangun sebuah Konstruksi. Jikalau anda hendak membeli pasir dari kami Cara Pengorderan nya yakni dengan sms data domisili komplit dan nomor handphond saja, kami akan seketika mengirimnya ke lokasi proyek anda tanpa ada tambahan ongkos apa saja. Harga yang kami berikan ialah sudah termasuk biaya pengiriman dan tumpah jadi anda tidak perlu kuatir dengan pembengkakan harga lagi. Metode pembayaran yang kami terapkan juga benar-benar aman, ialah anda bayar sesudah material terkirim ke daerah anda atau di sebut dengan istilah COD (Cash On Delivery). Anda juga bisa konsultasi atau perundingan dengan kami melalui no telepon yang ada di website ini.
 

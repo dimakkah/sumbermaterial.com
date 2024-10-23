@@ -119,7 +119,7 @@ Berikut ini Urutan Harga Bahan Material Terbaru yang kami jual.
 
 ## Cara Pemesanan Pasir Free Biaya Pengiriman dan Penurunan Di Pakuan Bogor
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Sesudah kalian memahami Macam - Tipe Macam Pasir mulai kini anda semestinya cermat di dalam memilih tipe pasir yang akan kalian manfaatkan untuk membangun sebuah Konstruksi Bangunan. Jika anda hendak membeli pasir dari kami Metode Pengorderan nya yaitu dengan Email data domisili lengkap dan nomor HP saja, kami akan segera mengirimnya ke lokasi proyek anda tanpa ada tambahan ongkos apa saja. Harga yang kami berikan merupakan telah termasuk ongkir dan penurunan jadi anda tak perlu cemas dengan pembengkakan ongkos lagi. Metode pembayaran yang kami terapkan juga benar-benar aman, merupakan anda bayar setelah material sampai ke tempat anda atau di ucap dengan istilah COD (Cash On Delivery). Anda juga bisa konsultasi atau perundingan dengan kami lewat no telepon yang ada di website ini.
 

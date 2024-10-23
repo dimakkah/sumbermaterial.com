@@ -63,7 +63,7 @@ Baja ringan SNI dijual dengan hitungan harga sesuai dengan ketebalan dan dihitun
 
 ## System Pembelian Bondek, Wiremesh Dan Baja Ringan Di Cisauk Tangerang
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/RlgIAwKCWFI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/RlgIAwKCWFI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Jika anda berencana memesan bahan bangunan melalui Harga Bondek Wiremesh Baja Ringan Kirim Ke Cisauk Tangerang online karenanya salah satunya dapat menggunakan cara pembayaran COD. Dimana sistem Bayar Setelah sampe, pembeli harus membayar pesanan dengan pembayaran tunai saat barang yang diorder sampai di tempat tujuan. Dibawah ini akan digambarkan langkah pemesanan bondek, wiremesh dan baja ringan secara COD yang wajib anda ketahui.
 

@@ -119,7 +119,7 @@ Berikut Daftar Harga Bahan Material Alam Terlengkap yang kami jual.
 
 ## Sistem Pengorderan Pasir Bebas Ongkos Kirim dan Penurunan Di Kamal Jakarta
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Setelah anda memahami Tipe - Ragam model Pasir mulai sekarang kalian patut teliti dalam memilih ragam pasir yang akan anda pergunakan untuk membangun sebuah Konstruksi Bangunan. Kalau anda berencana membeli pasir dari kami Sistem Pemesanan nya yaitu dengan whatsapp data alamat lengkap dan nomor HP saja, kami akan segera mengirimnya ke lokasi proyek anda dengan tanpa tambahan biaya apapun. Harga yang kami berikan adalah sudah termasuk biaya pengiriman dan penurunan jadi anda tidak perlu kuatir dengan penambahan harga lagi. Metode pembayaran yang kami terapkan juga amat aman, merupakan anda bayar setelah material terkirim ke tempat anda atau di ucap dengan istilah COD (Cash On Delivery). Anda juga bisa konsultasi atau diplomasi dengan kami melalui no telepon yang ada di website ini.
 

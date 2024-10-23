@@ -119,7 +119,7 @@ Dibawah ini Daftar Harga Bahan Material Termurah yang kami jual.
 
 ## Metode Pemesanan Pasir Bebas Ongkir dan Kuli Di Tangki Jakarta
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Setelah anda mengenal Macam - Jenis model Pasir mulai kini kalian wajib cermat di dalam memilih tipe pasir yang akan anda manfaatkan untuk membangun sebuah Konstruksi. Kalau anda akan membeli pasir dari kami Cara Pemesanan nya yakni dengan whatsapp data domisili lengkap dan nomor telepon saja, kami akan seketika mengirimnya ke lokasi proyek anda dengan tanpa tambahan ongkos apa saja. Harga yang kami berikan ialah sudah termasuk ongkir dan bongkar jadi anda tidak perlu kuatir dengan penambahan harga lagi. Metode pembayaran yang kami terapkan juga benar-benar aman, adalah anda bayar setelah material sampe ke tempat anda atau di ucap dengan istilah COD (Cash On Delivery). Anda juga dapat konsultasi atau diplomasi dengan kami melewati no telepon yang ada di website ini.
 

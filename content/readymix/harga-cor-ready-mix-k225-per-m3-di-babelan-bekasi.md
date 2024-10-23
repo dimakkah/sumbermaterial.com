@@ -33,7 +33,7 @@ Beton Readymix mutu ini ialah kwalitas beton Readymix yg didesign khusus untuk k
 
 ### Beton Ready mix K375 sd K500 dan Harganya Di Babelan Bekasi
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/MVuQWwYFCiA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/MVuQWwYFCiA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Kwalitas beton Readymix yang terkhir ialah mutu beton yg didesaian khusus utk pekerjaan cepat umum dinamakan juga dengan beton fast track ialah kualitas beton Ready mix yang dapat kering hanya dalam sebagian hari saja. Harganya pun cukup mahal untuk K375 sendiri per m3nya 1.000.000, K400 harganya 1.200.000 per m3 dan K500 1.400.000 per kubiknya. Kwalitas-mutu beton tersebut digunakna pada pengecoran jalan rigit yg akan dipakai bebera hari kemudian atau pada pengecoran jembatan dan bendungan serta pengecoran dalam air.
 

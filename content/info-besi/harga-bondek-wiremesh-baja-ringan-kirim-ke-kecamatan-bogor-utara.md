@@ -63,7 +63,7 @@ Baja ringan SNI ditawarkan dengan hitungan harga pas dengan ketebalan dan dihitu
 
 ## Cara Pemesanan Bondek, Wiremesh Dan Baja Ringan Di Kecamatan Bogor Utara
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/RlgIAwKCWFI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/RlgIAwKCWFI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Jika anda berencana membeli bahan bangunan melewati Harga Bondek Wiremesh Baja Ringan Kirim Ke Kecamatan Bogor Utara online maka salah satunya bisa menggunakan cara pembayaran COD. Dimana cara COD, pembeli mesti membayar pesanan dengan pembayaran tunai saat barang yang dipesan tiba di tempat tujuan. Dibawah ini akan ditunjukkan langkah pemesanan bondek, wiremesh dan baja ringan secara COD yang perlu anda ketahui.
 

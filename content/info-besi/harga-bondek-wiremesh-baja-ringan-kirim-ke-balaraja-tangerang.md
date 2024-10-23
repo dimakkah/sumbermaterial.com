@@ -63,7 +63,7 @@ Baja ringan SNI ditawarkan dengan hitungan harga selaras dengan ketebalan dan di
 
 ## System Order Bondek, Wiremesh Dan Baja Ringan Di Balaraja Tangerang
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/RlgIAwKCWFI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/RlgIAwKCWFI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Apabila anda berencana mengorder bahan bangunan melewati Harga Bondek Wiremesh Baja Ringan Kirim Ke Balaraja Tangerang online maka salah satunya dapat memakai metode pembayaran Bayar Setelah sampe. Dimana metode bayar ditempat, pembeli sepatutnya membayar pesanan dengan pembayaran tunai ketika barang yang dipesan sampai di lokasi tujuan. Berikut ini akan diterangkan langkah pembelian bondek, wiremesh dan baja ringan secara COD yang wajib anda kenal.
 

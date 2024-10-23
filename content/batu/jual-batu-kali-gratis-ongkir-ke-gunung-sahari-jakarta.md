@@ -29,7 +29,7 @@ Batu belah gunung yakni batu yang bersumber dari batu bulat. Batu ini memiliki u
 
 ## Harga Batu Blondos Atau Batu Bronjol Di Gunung Sahari Jakarta
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/QUk5FUujSQs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/QUk5FUujSQs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 **Daftar Harga Jual Batu Kali Gratis Ongkir Ke Gunung Sahari Jakarta**
 

@@ -160,7 +160,7 @@ Berikut Daftar Harga Bahan Material Termurah yang kami jual.
 
 ## Cara Pengorderan Pasir Gratis Ongkos Kirim dan Kuli Di Bojongkerta Bogor
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Setelah anda mengetahui Tipe - Macam Tipe Pasir mulai kini anda semestinya teliti di dalam memilih macam pasir yg akan anda pergunakan untuk membangun sebuah Konstruksi. Sekiranya anda mau membeli pasir dari kami Cara Pemesanan nya merupakan dengan memberikan data domisili komplit dan nomor telepon saja, kami akan langsung mengirimnya ke lokasi proyek anda dengan tidak ada tambahan ongkos apa saja. Harga yang kami berikan merupakan sudah termasuk biaya pengiriman dan bongkar jadi anda tak perlu kuatir dengan penambahan ongkos lagi. Cara pembayaran yang kami terapkan juga betul-betul aman, adalah anda bayar sesudah material sampe ke lokasi anda atau di ucap dengan istilah COD (Cash On Delivery). Anda juga dapat konsultasi atau negosiasi dengan kami via no telepon yang ada di situs ini.
 

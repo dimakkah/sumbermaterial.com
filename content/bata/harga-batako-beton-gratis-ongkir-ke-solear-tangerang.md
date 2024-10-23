@@ -55,7 +55,7 @@ Jika diperbandingkan dengan bahan bangunan lainnya, batako trus mempunyai harga 
 
 ## Sistem Pembelian Bata Merah, Batako & Hebel Di Solear Tangerang
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/IEs5XPt-xyU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/IEs5XPt-xyU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Segalanya tentu sudah tahu kegunaan utama batu bata mulai digunakan untuk membikin tembok, pagar tempat tinggal dan lainnya. Bersamaan dengan perkembangannya batu batu kini telah ada batu bata merah, batako trus hitam dan bata ringan. Kalau sekarang ini anda memiliki rencana untuk membuat sebuah tempat tinggal yg idam-idamkan|impian|masa depan} dan membutuhkan material batu bata. Maka silahkan memesan batu bata terhadap kios penyedia material batu bata yg berkualitas dan terpercaya.
 

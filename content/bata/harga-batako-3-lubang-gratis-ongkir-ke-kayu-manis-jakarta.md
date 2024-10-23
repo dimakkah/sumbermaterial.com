@@ -55,7 +55,7 @@ Bila dibandingi dengan bahan bangunan lainnya, batako press mempunyai harga seki
 
 ## Sistem Pesan Bata Merah, Batako & Hebel Di Kayu Manis Jakarta
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/IEs5XPt-xyU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/IEs5XPt-xyU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Semua tentunya telah tahu fungsi utama batu bata mulai dipakai untuk membuat tembok, pagar gedung dan lainnya. Bertepatan dengan perkembangannya batu batu kini telah ada batu bata merah, batako hitam dan herbel. Apabila saat ini anda memiliki agenda untuk membuat sebuah rumah yang idam-idamkan|impian|masa depan} dan memerlukan material batu bata. Karenanya silahkan memesan batu bata kepada warung penyedia material batu bata yg berkwalitas dan terpercaya.
 

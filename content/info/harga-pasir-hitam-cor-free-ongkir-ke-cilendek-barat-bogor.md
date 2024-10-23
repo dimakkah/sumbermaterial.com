@@ -160,7 +160,7 @@ Berikut ini Daftar Harga Bahan Bangunan Termurah yang kami jual.
 
 ## Sistem Pengorderan Pasir Bebas Biaya Pengiriman dan Kuli Di Cilendek Barat Bogor
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Setelah kamu mengetahui Macam - Ragam model Pasir mulai sekarang anda patut akurat dalam memilih ragam pasir yg akan kalian pergunakan untuk membangun sebuah Konstruksi Bangunan. Sekiranya anda hendak membeli pasir dari kami Cara Pemesanan nya yaitu dengan memberikan data domisili komplit dan nomor telepon saja, kami akan segera mengirimnya ke lokasi proyek anda tanpa ada tambahan ongkos apapun. Harga yang kami berikan yaitu sudah termasuk ongkos kirim dan penurunan jadi anda tidak perlu khawatir dengan pembengkakan biaya lagi. Metode pembayaran yang kami terapkan juga sungguh-sungguh aman, yakni anda bayar setelah material sampe ke daerah anda atau di sebut dengan istilah COD (Cash On Delivery). Anda juga dapat konsultasi atau diplomasi dengan kami lewat no telepon yang ada di website ini.
 

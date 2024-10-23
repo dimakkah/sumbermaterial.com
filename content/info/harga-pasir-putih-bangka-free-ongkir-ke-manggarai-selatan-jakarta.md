@@ -160,7 +160,7 @@ Berikut ini Urutan Harga Bahan Bangunan Terupdate yang kami jual.
 
 ## Cara Pemesanan Pasir Gratis Ongkos Kirim dan Bongkar Di Manggarai Selatan Jakarta
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Setelah kalian mengenal Jenis - model model Pasir mulai kini anda harus teliti dalam memilih macam pasir yang akan anda manfaatkan untuk membangun sebuah Bangunan. Seandainya anda mau membeli pasir dari kami Sistem Pemesanan nya yakni dengan Email data alamat lengkap dan nomor telepon saja, kami akan seketika mengirimnya ke lokasi proyek anda dengan tidak ada tambahan biaya apa saja. Harga yang kami berikan ialah telah termasuk ongkos kirim dan tumpah jadi anda tidak perlu cemas dengan penambahan harga lagi. Cara pembayaran yang kami terapkan juga betul-betul aman, adalah anda bayar sesudah material sampai ke lokasi anda atau di sebut dengan istilah COD (Cash On Delivery). Anda juga dapat konsultasi atau perundingan dengan kami via no telepon yang ada di laman ini.
 

@@ -119,7 +119,7 @@ Berikut ini Price List Harga Bahan Bangunan Terupdate yang kami jual.
 
 ## Sistem Pemesanan Pasir Bebas Ongkos Kirim dan Penurunan Di Cikarang Pusat Bekasi
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Setelah anda mengetahui Macam - model model Pasir mulai sekarang kalian seharusnya akurat di dalam memilih ragam pasir yang akan anda manfaatkan untuk membangun sebuah Konstruksi. Kalau anda akan membeli pasir dari kami Metode Pengorderan nya adalah dengan sms data alamat komplit dan nomor handphond saja, kami akan segera mengirimnya ke lokasi proyek anda dengan tanpa tambahan biaya apapun. Harga yang kami berikan yakni sudah termasuk ongkir dan penurunan jadi anda tidak perlu cemas dengan pembengkakan biaya lagi. Metode pembayaran yang kami terapkan juga amat aman, merupakan anda bayar setelah material sampe ke tempat anda atau di ucap dengan istilah COD (Cash On Delivery). Anda juga bisa konsultasi atau negosiasi dengan kami via no telepon yang ada di website ini.
 

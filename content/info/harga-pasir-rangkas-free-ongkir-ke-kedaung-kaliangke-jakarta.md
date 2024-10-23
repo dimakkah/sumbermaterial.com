@@ -119,7 +119,7 @@ Berikut Price List Harga Bahan Bangunan Terupdate yang kami jual.
 
 ## Cara Pemesanan Pasir Bebas Biaya Pengiriman dan Penurunan Di Kedaung Kaliangke Jakarta
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Sesudah kamu memahami Tipe - Jenis Tipe Pasir mulai kini anda seharusnya cermat di dalam memilih model pasir yg akan kalian pergunakan untuk membangun sebuah Bangunan. Bila anda mau membeli pasir dari kami Sistem Pemesanan nya yakni dengan whatsapp data domisili lengkap dan nomor telepon saja, kami akan segera mengirimnya ke lokasi proyek anda dengan tanpa tambahan biaya apapun. Harga yang kami berikan ialah sudah termasuk ongkos kirim dan penurunan jadi anda tidak perlu khawatir dengan pembengkakan harga lagi. Metode pembayaran yang kami terapkan juga amat aman, yakni anda bayar sesudah material terkirim ke tempat anda atau di ucap dengan istilah COD (Cash On Delivery). Anda juga dapat konsultasi atau perundingan dengan kami lewat no telepon yang ada di web ini.
 

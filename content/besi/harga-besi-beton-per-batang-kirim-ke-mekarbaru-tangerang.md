@@ -51,7 +51,7 @@ Seluruh orang pasti mengharapkan mempunyai rumah yang berkwalitas bagus dan nyam
 
 ## Cara Pembelian Besi Beton Per Batang Di Mekarbaru Tangerang
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/RlgIAwKCWFI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/RlgIAwKCWFI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Kini setiap dari anda tentunya telah tahu guna utama besi, wf, hollow mulai digunakan untuk membuat tulangan beton, kanopi, pagar rumah dan lainnya. Seiring perkembanganya batu batu sekarang telah ada besi, wf, hollow dengan bermacam ukuran dan kualitas. Jika dikala ini anda memiliki agenda untuk membangun sebuah rumah idaman dan memerlukan bahan besi, wf, hollow. Karenanya silahkan mengorder besi, wf, hollow kepada kami selaku penyedia bahan besi, wf, hollow yang berkwalitas dan terpercaya.
 

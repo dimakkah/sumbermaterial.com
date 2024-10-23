@@ -160,7 +160,7 @@ Dibawah ini List Harga Bahan Bangunan Terlengkap yang kami jual.
 
 ## Metode Pemesanan Pasir Gratis Biaya Pengiriman dan Bongkar Di Cipete Selatan Jakarta
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Setelah kamu mengenal Tipe - Macam Ragam Pasir mulai kini anda harus cermat di dalam memilih jenis pasir yg akan anda gunakan untuk membangun sebuah Bangunan. Jikalau anda hendak membeli pasir dari kami Metode Pengorderan nya adalah dengan whatsapp data alamat komplit dan nomor handphond saja, kami akan lantas mengirimnya ke lokasi proyek anda dengan tanpa tambahan ongkos apapun. Harga yang kami berikan yakni sudah termasuk ongkir dan tumpah jadi anda tidak perlu kuatir dengan penambahan harga lagi. Sistem pembayaran yang kami terapkan juga sangat aman, yaitu anda bayar setelah material sampai ke daerah anda atau di sebut dengan istilah COD (Cash On Delivery). Anda juga bisa konsultasi atau negosiasi dengan kami lewat no telepon yang ada di laman ini.
 

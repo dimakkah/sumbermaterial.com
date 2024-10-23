@@ -119,7 +119,7 @@ Berikut ini List Harga Bahan Material Termurah yang kami jual.
 
 ## Sistem Pemesanan Pasir Gratis Ongkir dan Bongkar Di Jayakerta Karawang
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Sesudah kalian mengetahui Tipe - Jenis Macam Pasir mulai kini kalian wajib akurat dalam memilih macam pasir yang akan anda manfaatkan untuk membangun sebuah Bangunan. Apabila anda akan membeli pasir dari kami Cara Pemesanan nya yaitu dengan whatsapp data alamat komplit dan nomor telepon saja, kami akan langsung mengirimnya ke lokasi proyek anda dengan tanpa tambahan ongkos apa saja. Harga yang kami berikan adalah sudah termasuk ongkos kirim dan tumpah jadi anda tidak perlu kuatir dengan penambahan ongkos lagi. Sistem pembayaran yang kami terapkan juga sangat aman, ialah anda bayar setelah material terkirim ke lokasi anda atau di sebut dengan istilah COD (Cash On Delivery). Anda juga dapat konsultasi atau diplomasi dengan kami melewati no telepon yang ada di web ini.
 

@@ -119,7 +119,7 @@ Berikut Daftar Harga Bahan Material Alam Terlengkap yang kami jual.
 
 ## Cara Pemesanan Pasir Gratis Ongkir dan Kuli Di Cipinang Besar Jakarta
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Setelah kalian memahami Tipe - Macam Macam Pasir mulai kini kalian semestinya teliti dalam memilih tipe pasir yg akan kalian pergunakan untuk membangun sebuah Bangunan. Jika anda hendak membeli pasir dari kami Cara Pemesanan nya adalah dengan Email data alamat lengkap dan nomor HP saja, kami akan segera mengirimnya ke lokasi proyek anda dengan tidak ada tambahan ongkos apapun. Harga yang kami berikan ialah sudah termasuk biaya pengiriman dan tumpah jadi anda tak perlu cemas dengan pembengkakan biaya lagi. Cara pembayaran yang kami terapkan juga benar-benar aman, ialah anda bayar sesudah material terkirim ke daerah anda atau di sebut dengan istilah COD (Cash On Delivery). Anda juga dapat konsultasi atau perundingan dengan kami via no telepon yang ada di laman ini.
 

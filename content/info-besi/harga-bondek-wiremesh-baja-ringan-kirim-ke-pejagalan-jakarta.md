@@ -63,7 +63,7 @@ Baja ringan SNI ditawarkan dengan hitungan harga selaras dengan ketebalan dan di
 
 ## Metode Pemesanan Bondek, Wiremesh Dan Baja Ringan Di Pejagalan Jakarta
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/RlgIAwKCWFI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/RlgIAwKCWFI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Kalau anda berencana membeli bahan bangunan melalui Harga Bondek Wiremesh Baja Ringan Kirim Ke Pejagalan Jakarta online maka salah satunya bisa menerapkan sistem pembayaran Bayar Setelah sampe. Dimana sistem bayar ditempat, pembeli mesti membayar pesanan dengan pembayaran tunai saat barang yang dipesan tiba di lokasi tujuan. Dibawah ini akan dibeberkan langkah pengorderan bondek, wiremesh dan baja ringan secara COD yang perlu anda kenal.
 

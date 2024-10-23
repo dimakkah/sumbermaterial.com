@@ -63,7 +63,7 @@ Baja ringan SNI ditawarkan dengan hitungan harga selaras dengan ketebalan dan di
 
 ## Cara Pembelian Bondek, Wiremesh Dan Baja Ringan Di Karet Semanggi Jakarta
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/RlgIAwKCWFI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/RlgIAwKCWFI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Jika anda berencana mengorder bahan bangunan melewati Harga Bondek Wiremesh Baja Ringan Kirim Ke Karet Semanggi Jakarta online karenanya salah satunya dapat memakai metode pembayaran Bayar Setelah sampe. Dimana metode bayar ditempat, pembeli seharusnya membayar pesanan dengan pembayaran tunai ketika barang yang dipesan sampai di tempat tujuan. Berikut ini akan digambarkan langkah pembelian bondek, wiremesh dan baja ringan secara COD yang wajib anda kenal.
 

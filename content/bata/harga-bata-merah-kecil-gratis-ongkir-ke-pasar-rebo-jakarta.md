@@ -45,7 +45,7 @@ Yang wajib Anda tahu dari material hebel ini yakni jenis ukuran dan harganya. Ja
 
 ## Jual Bata Merah, Batako, Hebel Di Pasar Rebo Jakarta
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/IEs5XPt-xyU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/IEs5XPt-xyU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 **Daftar Harga Bata Merah Kecil Gratis Ongkir Ke Pasar Rebo Jakarta**
 

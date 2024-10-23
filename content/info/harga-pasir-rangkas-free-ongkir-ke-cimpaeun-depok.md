@@ -160,7 +160,7 @@ Berikut List Harga Bahan Bangunan Terlengkap yang kami jual.
 
 ## Sistem Pemesanan Pasir Free Ongkir dan Bongkar Di Cimpaeun Depok
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Setelah kamu memahami model - Macam Jenis Pasir mulai kini anda wajib cermat dalam memilih tipe pasir yang akan kamu gunakan untuk membangun sebuah Konstruksi. Kalau anda berencana membeli pasir dari kami Cara Pengorderan nya yakni dengan memberikan data alamat komplit dan nomor handphond saja, kami akan segera mengirimnya ke lokasi proyek anda tanpa ada tambahan ongkos apapun. Harga yang kami berikan adalah sudah termasuk ongkos kirim dan penurunan jadi anda tak perlu khawatir dengan pembengkakan harga lagi. Cara pembayaran yang kami terapkan juga amat aman, adalah anda bayar sesudah material sampai ke lokasi anda atau di ucap dengan istilah COD (Cash On Delivery). Anda juga bisa konsultasi atau perundingan dengan kami lewat no telepon yang ada di laman ini.
 

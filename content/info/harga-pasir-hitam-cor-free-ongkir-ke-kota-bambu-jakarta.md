@@ -119,7 +119,7 @@ Berikut ini Daftar Harga Bahan Material Alam Free Ongkir yang kami jual.
 
 ## Metode Pemesanan Pasir Gratis Ongkos Kirim dan Bongkar Di Kota Bambu Jakarta
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Sesudah kamu memahami Ragam - Ragam Macam Pasir mulai kini anda mesti cermat dalam memilih macam pasir yang akan kalian pergunakan untuk membangun sebuah Bangunan. Jika anda berencana membeli pasir dari kami Cara Pengorderan nya adalah dengan Email data domisili komplit dan nomor telepon saja, kami akan lantas mengirimnya ke lokasi proyek anda tanpa ada tambahan ongkos apa saja. Harga yang kami berikan yaitu sudah termasuk ongkos kirim dan penurunan jadi anda tak perlu cemas dengan pembengkakan harga lagi. Sistem pembayaran yang kami terapkan juga amat aman, yaitu anda bayar sesudah material sampe ke lokasi anda atau di sebut dengan istilah COD (Cash On Delivery). Anda juga bisa konsultasi atau perundingan dengan kami lewat no telepon yang ada di website ini.
 

@@ -160,7 +160,7 @@ Berikut ini Daftar Harga Bahan Material Termurah yang kami jual.
 
 ## Cara Pemesanan Pasir Bebas Ongkos Kirim dan Penurunan Di Sawah Besar Jakarta
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Sesudah kamu memahami model - model Ragam Pasir mulai sekarang anda wajib cermat di dalam memilih ragam pasir yg akan kamu gunakan untuk membangun sebuah Konstruksi Bangunan. Sekiranya anda akan membeli pasir dari kami Sistem Pengorderan nya yaitu dengan memberikan data domisili lengkap dan nomor telepon saja, kami akan lantas mengirimnya ke lokasi proyek anda tanpa ada tambahan biaya apapun. Harga yang kami berikan yaitu telah termasuk biaya pengiriman dan penurunan jadi anda tidak perlu kuatir dengan penambahan biaya lagi. Metode pembayaran yang kami terapkan juga sangat aman, ialah anda bayar sesudah material terkirim ke daerah anda atau di sebut dengan istilah COD (Cash On Delivery). Anda juga bisa konsultasi atau negosiasi dengan kami lewat no telepon yang ada di situs ini.
 

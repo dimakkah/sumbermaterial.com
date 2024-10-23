@@ -119,7 +119,7 @@ Berikut ini Price List Harga Bahan Material Alam Terupdate yang kami jual.
 
 ## Sistem Pengorderan Pasir Gratis Ongkir dan Bongkar Di Cikoko Jakarta
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Sesudah kamu memahami Jenis - Tipe Tipe Pasir mulai kini anda harus akurat dalam memilih jenis pasir yang akan kalian gunakan untuk membangun sebuah Konstruksi. Sekiranya anda akan membeli pasir dari kami Cara Pengorderan nya adalah dengan sms data domisili komplit dan nomor HP saja, kami akan seketika mengirimnya ke lokasi proyek anda tanpa ada tambahan biaya apa saja. Harga yang kami berikan yakni telah termasuk ongkos kirim dan bongkar jadi anda tidak perlu kuatir dengan pembengkakan biaya lagi. Cara pembayaran yang kami terapkan juga betul-betul aman, adalah anda bayar sesudah material terkirim ke lokasi anda atau di ucap dengan istilah COD (Cash On Delivery). Anda juga bisa konsultasi atau perundingan dengan kami via no telepon yang ada di situs ini.
 

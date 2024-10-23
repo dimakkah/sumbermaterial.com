@@ -55,7 +55,7 @@ Kalau dibandingkan dengan bahan bangunan lainnya, batako press mempunyai harga s
 
 ## System Pembelian Bata Merah, Batako & Hebel Di Ciparigi Bogor
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/IEs5XPt-xyU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/IEs5XPt-xyU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Segalanya tentu sudah tahu fungsi utama batu bata mulai dipakai untuk membuat tembok, pagar bangunan dan lainnya. Bersamaan dengan perkembangannya batu batu kini sudah ada batu bata merah, batako hitam dan herbel. Apabila saat ini anda memiliki rencana untuk membangun sebuah bangunan yg idam-idamkan|impian|masa depan} dan memerlukan material batu bata. Karenanya silahkan memesan batu bata kepada kios penyedia material batu bata yg berkwalitas dan terpercaya.
 

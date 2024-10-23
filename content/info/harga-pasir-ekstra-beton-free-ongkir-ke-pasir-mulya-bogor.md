@@ -119,7 +119,7 @@ Berikut Price List Harga Bahan Bangunan Free Ongkir yang kami jual.
 
 ## Metode Pemesanan Pasir Free Biaya Pengiriman dan Bongkar Di Pasir Mulya Bogor
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Setelah anda mengetahui Jenis - Jenis model Pasir mulai sekarang kamu harus akurat dalam memilih tipe pasir yang akan kamu manfaatkan untuk membangun sebuah Bangunan. Bila anda berencana membeli pasir dari kami Metode Pengorderan nya ialah dengan Email data domisili lengkap dan nomor HP saja, kami akan lantas mengirimnya ke lokasi proyek anda dengan tidak ada tambahan biaya apapun. Harga yang kami berikan yaitu sudah termasuk biaya pengiriman dan penurunan jadi anda tak perlu khawatir dengan penambahan biaya lagi. Cara pembayaran yang kami terapkan juga sungguh-sungguh aman, yakni anda bayar sesudah material sampai ke tempat anda atau di ucap dengan istilah COD (Cash On Delivery). Anda juga dapat konsultasi atau negosiasi dengan kami melewati no telepon yang ada di website ini.
 

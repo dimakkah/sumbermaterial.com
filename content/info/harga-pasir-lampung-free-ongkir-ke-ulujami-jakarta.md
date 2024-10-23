@@ -160,7 +160,7 @@ Berikut ini Urutan Harga Bahan Bangunan Termurah yang kami jual.
 
 ## Cara Pemesanan Pasir Gratis Ongkos Kirim dan Bongkar Di Ulujami Jakarta
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Setelah kamu mengetahui Macam - Jenis Ragam Pasir mulai kini anda sepatutnya akurat di dalam memilih jenis pasir yang akan anda pakai untuk membangun sebuah Konstruksi Bangunan. Apabila anda berencana membeli pasir dari kami Sistem Pemesanan nya adalah dengan whatsapp data alamat komplit dan nomor HP saja, kami akan seketika mengirimnya ke lokasi proyek anda dengan tanpa tambahan ongkos apapun. Harga yang kami berikan ialah telah termasuk biaya pengiriman dan tumpah jadi anda tidak perlu khawatir dengan penambahan harga lagi. Metode pembayaran yang kami terapkan juga betul-betul aman, ialah anda bayar sesudah material terkirim ke daerah anda atau di ucap dengan istilah COD (Cash On Delivery). Anda juga bisa konsultasi atau diplomasi dengan kami lewat no telepon yang ada di situs ini.
 

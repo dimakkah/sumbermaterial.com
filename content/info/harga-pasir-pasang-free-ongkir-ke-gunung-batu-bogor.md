@@ -119,7 +119,7 @@ Dibawah ini Price List Harga Bahan Material Alam Termurah yang kami jual.
 
 ## Metode Pemesanan Pasir Free Biaya Pengiriman dan Penurunan Di Gunung Batu Bogor
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Setelah kamu mengenal Tipe - Ragam model Pasir mulai sekarang anda harus akurat di dalam memilih macam pasir yang akan anda pergunakan untuk membangun sebuah Konstruksi Bangunan. Kalau anda berencana membeli pasir dari kami Cara Pemesanan nya ialah dengan whatsapp data alamat lengkap dan nomor handphond saja, kami akan lantas mengirimnya ke lokasi proyek anda dengan tidak ada tambahan ongkos apapun. Harga yang kami berikan yaitu sudah termasuk biaya pengiriman dan penurunan jadi anda tak perlu kuatir dengan penambahan harga lagi. Sistem pembayaran yang kami terapkan juga sungguh-sungguh aman, merupakan anda bayar setelah material terkirim ke lokasi anda atau di ucap dengan istilah COD (Cash On Delivery). Anda juga dapat konsultasi atau diplomasi dengan kami melewati no telepon yang ada di situs ini.
 

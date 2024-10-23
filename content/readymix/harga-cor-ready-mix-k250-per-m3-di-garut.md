@@ -33,7 +33,7 @@ Beton Readymix kwalitas ini yakni kwalitas beton Ready mix yg didesain khusus un
 
 ### Beton Ready mix K375 sd K500 dan Harganya Di Garut
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/MVuQWwYFCiA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/MVuQWwYFCiA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Mutu beton Ready mix yg terkhir ialah kualitas beton yg didesaian khusus untuk pekerjaan ekspress umum disebut juga dengan beton fast track yakni kualitas beton Ready mix yg bisa kering hanya dalam sebagian hari saja. Harganya malah cukup mahal untuk K375 sendiri per kubiknya 1.000.000, K400 harganya 1.200.000 per m3 dan K500 1.400.000 per m3nya. Kwalitas-mutu beton tadi digunakna pada pengecoran jalan rigit yg akan digunakan bebera hari kemudian atau pada pengecoran jembatan dan bendungan serta pengecoran dalam air.
 

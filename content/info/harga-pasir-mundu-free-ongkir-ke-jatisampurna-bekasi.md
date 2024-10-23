@@ -119,7 +119,7 @@ Berikut ini List Harga Bahan Material Terbaru yang kami jual.
 
 ## Metode Pengorderan Pasir Bebas Biaya Pengiriman dan Bongkar Di Jatisampurna Bekasi
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Setelah kamu mengetahui Jenis - Tipe Macam Pasir mulai sekarang anda semestinya akurat dalam memilih jenis pasir yg akan kamu pakai untuk membangun sebuah Konstruksi. Kalau anda mau membeli pasir dari kami Sistem Pemesanan nya yakni dengan sms data domisili lengkap dan nomor HP saja, kami akan langsung mengirimnya ke lokasi proyek anda dengan tanpa tambahan ongkos apapun. Harga yang kami berikan adalah telah termasuk ongkir dan bongkar jadi anda tidak perlu khawatir dengan pembengkakan ongkos lagi. Metode pembayaran yang kami terapkan juga betul-betul aman, yakni anda bayar setelah material sampai ke tempat anda atau di ucap dengan istilah COD (Cash On Delivery). Anda juga dapat konsultasi atau perundingan dengan kami lewat no telepon yang ada di web ini.
 

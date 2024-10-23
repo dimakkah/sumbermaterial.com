@@ -119,7 +119,7 @@ Berikut ini Price List Harga Bahan Material Termurah yang kami jual.
 
 ## Cara Pemesanan Pasir Free Ongkos Kirim dan Penurunan Di Campaka Purwakarta
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Setelah anda mengetahui Jenis - Ragam Jenis Pasir mulai sekarang anda wajib akurat dalam memilih jenis pasir yang akan kalian gunakan untuk membangun sebuah Bangunan. Kalau anda hendak membeli pasir dari kami Cara Pemesanan nya yakni dengan whatsapp data alamat komplit dan nomor handphond saja, kami akan lantas mengirimnya ke lokasi proyek anda tanpa ada tambahan ongkos apa saja. Harga yang kami berikan yaitu telah termasuk ongkos kirim dan tumpah jadi anda tidak perlu cemas dengan penambahan harga lagi. Cara pembayaran yang kami terapkan juga sangat aman, merupakan anda bayar setelah material terkirim ke daerah anda atau di ucap dengan istilah COD (Cash On Delivery). Anda juga dapat konsultasi atau diplomasi dengan kami melewati no telepon yang ada di website ini.
 

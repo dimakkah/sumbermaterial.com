@@ -119,7 +119,7 @@ Berikut ini Daftar Harga Bahan Bangunan Free Ongkir yang kami jual.
 
 ## Metode Pengorderan Pasir Bebas Ongkos Kirim dan Bongkar Di Kedaung Depok
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Sesudah anda mengetahui Tipe - Macam Tipe Pasir mulai sekarang kalian wajib cermat di dalam memilih jenis pasir yang akan kalian pergunakan untuk membangun sebuah Konstruksi Bangunan. Sekiranya anda berencana membeli pasir dari kami Sistem Pengorderan nya yaitu dengan Email data domisili komplit dan nomor telepon saja, kami akan seketika mengirimnya ke lokasi proyek anda dengan tidak ada tambahan ongkos apa saja. Harga yang kami berikan adalah sudah termasuk ongkir dan tumpah jadi anda tidak perlu kuatir dengan pembengkakan biaya lagi. Cara pembayaran yang kami terapkan juga sangat aman, adalah anda bayar sesudah material sampe ke tempat anda atau di ucap dengan istilah COD (Cash On Delivery). Anda juga dapat konsultasi atau perundingan dengan kami melalui no telepon yang ada di situs ini.
 

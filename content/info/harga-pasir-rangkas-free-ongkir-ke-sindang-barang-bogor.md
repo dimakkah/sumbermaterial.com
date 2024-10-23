@@ -160,7 +160,7 @@ Berikut Urutan Harga Bahan Material Terupdate yang kami jual.
 
 ## Cara Pengorderan Pasir Free Ongkir dan Kuli Di Sindang Barang Bogor
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Setelah anda memahami Jenis - Jenis Ragam Pasir mulai sekarang anda seharusnya akurat dalam memilih macam pasir yang akan anda pergunakan untuk membangun sebuah Bangunan. Kalau anda hendak membeli pasir dari kami Metode Pemesanan nya merupakan dengan memberikan data domisili lengkap dan nomor telepon saja, kami akan lantas mengirimnya ke lokasi proyek anda dengan tanpa tambahan ongkos apapun. Harga yang kami berikan adalah sudah termasuk ongkir dan bongkar jadi anda tak perlu cemas dengan penambahan biaya lagi. Sistem pembayaran yang kami terapkan juga sungguh-sungguh aman, ialah anda bayar setelah material terkirim ke tempat anda atau di sebut dengan istilah COD (Cash On Delivery). Anda juga bisa konsultasi atau negosiasi dengan kami melewati no telepon yang ada di website ini.
 

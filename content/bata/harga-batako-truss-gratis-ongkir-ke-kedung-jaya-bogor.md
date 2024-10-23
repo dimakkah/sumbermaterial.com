@@ -55,7 +55,7 @@ Kalau diperbandingkan dengan material bangunan lainnya, batako memiliki harga se
 
 ## Sistem Beli Bata Merah, Batako & Hebel Di Kedung Jaya Bogor
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/IEs5XPt-xyU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/IEs5XPt-xyU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Seluruhnya tentu telah tahu fungsi utama batu bata mulai digunakan untuk membikin tembok, pagar rumah dan lainnya. Bersamaan dengan perkembangannya batu batu kini telah ada batu bata merah, batako hitam dan herbel. Jika dikala ini anda memiliki agenda untuk membuat sebuah tempat tinggal yang idam-idamkan|impian|masa depan} dan memerlukan bahan batu bata. Karenanya silahkan mengorder batu bata terhadap warung penyedia material batu bata yang bermutu dan terpercaya.
 

@@ -160,7 +160,7 @@ Dibawah ini Price List Harga Bahan Material Alam Free Ongkir yang kami jual.
 
 ## Cara Pemesanan Pasir Free Biaya Pengiriman dan Kuli Di Kebayoran Baru Jakarta
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Setelah anda mengenal Macam - Jenis Jenis Pasir mulai kini anda wajib teliti dalam memilih model pasir yg akan anda gunakan untuk membangun sebuah Bangunan. Sekiranya anda hendak membeli pasir dari kami Sistem Pengorderan nya merupakan dengan whatsapp data domisili komplit dan nomor HP saja, kami akan langsung mengirimnya ke lokasi proyek anda dengan tanpa tambahan biaya apapun. Harga yang kami berikan merupakan telah termasuk ongkos kirim dan penurunan jadi anda tidak perlu kuatir dengan penambahan biaya lagi. Sistem pembayaran yang kami terapkan juga betul-betul aman, ialah anda bayar setelah material sampai ke lokasi anda atau di sebut dengan istilah COD (Cash On Delivery). Anda juga bisa konsultasi atau perundingan dengan kami melalui no telepon yang ada di web ini.
 

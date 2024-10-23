@@ -55,7 +55,7 @@ Seandainya dibandingkan dg bahan bangunan lainnya, batako press memiliki harga s
 
 ## Sistem Pemesanan Bata Merah, Batako & Hebel Di Medan Satria Bekasi
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/IEs5XPt-xyU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/IEs5XPt-xyU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Semua tentunya sudah tahu kegunaan utama batu bata mulai diaplikasikan untuk membuat tembok, pagar gedung dan lainnya. Sejalan perkembangannya batu batu kini telah ada batu bata merah, batako hitam dan bata ringan. Jika sekarang ini anda mempunyai agenda untuk membangun sebuah gedung yang idam-idamkan|impian|masa depan} dan membutuhkan bahan batu bata. Maka silahkan memesan batu bata kepada toko penyedia bahan batu bata yang berkwalitas dan terpercaya.
 

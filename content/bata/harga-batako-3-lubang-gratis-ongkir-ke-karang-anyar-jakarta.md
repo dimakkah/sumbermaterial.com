@@ -55,7 +55,7 @@ Sekiranya diperbandingkan dengan material bangunan lainnya, batako trus memiliki
 
 ## Metode Pengorderan Bata Merah, Batako & Hebel Di Karang Anyar Jakarta
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/IEs5XPt-xyU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/IEs5XPt-xyU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Seluruhnya tentu telah tahu fungsi utama batu bata mulai digunakan untuk membikin tembok, pagar bangunan dan lainnya. Sejalan perkembangannya batu batu sekarang telah ada batu bata merah, batako press hitam dan hebel. Bila sekarang ini anda memiliki agenda untuk membangun sebuah bangunan yang idam-idamkan|impian|masa depan} dan membutuhkan bahan batu bata. Karenanya silahkan memesan batu bata terhadap kios penyedia material batu bata yang berkwalitas dan terpercaya.
 

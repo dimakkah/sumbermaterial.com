@@ -160,7 +160,7 @@ Berikut ini List Harga Bahan Bangunan Termurah yang kami jual.
 
 ## Metode Pengorderan Pasir Bebas Ongkir dan Penurunan Di Glodok Jakarta
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Setelah kalian mengenal Ragam - Jenis Macam Pasir mulai kini anda harus akurat dalam memilih tipe pasir yang akan anda manfaatkan untuk membangun sebuah Konstruksi. Apabila anda berencana membeli pasir dari kami Metode Pengorderan nya adalah dengan sms data alamat lengkap dan nomor HP saja, kami akan segera mengirimnya ke lokasi proyek anda dengan tanpa tambahan biaya apa saja. Harga yang kami berikan yaitu sudah termasuk biaya pengiriman dan bongkar jadi anda tidak perlu cemas dengan penambahan biaya lagi. Cara pembayaran yang kami terapkan juga amat aman, adalah anda bayar sesudah material terkirim ke tempat anda atau di ucap dengan istilah COD (Cash On Delivery). Anda juga dapat konsultasi atau negosiasi dengan kami via no telepon yang ada di situs ini.
 

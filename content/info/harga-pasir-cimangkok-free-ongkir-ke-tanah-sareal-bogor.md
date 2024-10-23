@@ -160,7 +160,7 @@ Berikut Daftar Harga Bahan Material Terlengkap yang kami jual.
 
 ## Metode Pengorderan Pasir Gratis Biaya Pengiriman dan Kuli Di Tanah Sareal Bogor
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Setelah anda mengenal model - Jenis Macam Pasir mulai sekarang anda wajib teliti dalam memilih tipe pasir yg akan anda pergunakan untuk membangun sebuah Bangunan. Seandainya anda hendak membeli pasir dari kami Sistem Pengorderan nya yaitu dengan sms data domisili komplit dan nomor HP saja, kami akan segera mengirimnya ke lokasi proyek anda tanpa ada tambahan biaya apapun. Harga yang kami berikan merupakan telah termasuk ongkos kirim dan tumpah jadi anda tak perlu khawatir dengan pembengkakan biaya lagi. Sistem pembayaran yang kami terapkan juga amat aman, merupakan anda bayar sesudah material terkirim ke daerah anda atau di ucap dengan istilah COD (Cash On Delivery). Anda juga bisa konsultasi atau negosiasi dengan kami melalui no telepon yang ada di website ini.
 

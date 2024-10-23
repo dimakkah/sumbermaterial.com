@@ -119,7 +119,7 @@ Dibawah ini Price List Harga Bahan Bangunan Termurah yang kami jual.
 
 ## Sistem Pemesanan Pasir Bebas Biaya Pengiriman dan Kuli Di Cibuaya Karawang
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Setelah anda mengetahui Tipe - Macam Ragam Pasir mulai kini kamu seharusnya cermat di dalam memilih model pasir yang akan anda pergunakan untuk membangun sebuah Konstruksi. Apabila anda berencana membeli pasir dari kami Cara Pemesanan nya yakni dengan whatsapp data domisili komplit dan nomor HP saja, kami akan langsung mengirimnya ke lokasi proyek anda dengan tanpa tambahan ongkos apa saja. Harga yang kami berikan yaitu telah termasuk ongkir dan tumpah jadi anda tak perlu khawatir dengan pembengkakan biaya lagi. Cara pembayaran yang kami terapkan juga benar-benar aman, yakni anda bayar sesudah material sampai ke daerah anda atau di ucap dengan istilah COD (Cash On Delivery). Anda juga dapat konsultasi atau perundingan dengan kami melalui no telepon yang ada di web ini.
 

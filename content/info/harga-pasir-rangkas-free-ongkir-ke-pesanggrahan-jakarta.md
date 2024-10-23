@@ -119,7 +119,7 @@ Dibawah ini Price List Harga Bahan Material Alam Free Ongkir yang kami jual.
 
 ## Metode Pemesanan Pasir Free Ongkir dan Bongkar Di Pesanggrahan Jakarta
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Setelah anda mengetahui Ragam - Macam model Pasir mulai kini kalian semestinya akurat dalam memilih model pasir yang akan kalian pakai untuk membangun sebuah Konstruksi. Seandainya anda akan membeli pasir dari kami Cara Pemesanan nya adalah dengan sms data alamat komplit dan nomor telepon saja, kami akan lantas mengirimnya ke lokasi proyek anda dengan tanpa tambahan ongkos apa saja. Harga yang kami berikan ialah sudah termasuk ongkir dan penurunan jadi anda tak perlu khawatir dengan pembengkakan ongkos lagi. Cara pembayaran yang kami terapkan juga betul-betul aman, yaitu anda bayar sesudah material terkirim ke daerah anda atau di ucap dengan istilah COD (Cash On Delivery). Anda juga dapat konsultasi atau perundingan dengan kami lewat no telepon yang ada di web ini.
 

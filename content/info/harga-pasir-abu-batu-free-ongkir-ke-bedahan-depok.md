@@ -160,7 +160,7 @@ Dibawah ini Urutan Harga Bahan Material Terbaru yang kami jual.
 
 ## Sistem Pemesanan Pasir Free Ongkos Kirim dan Bongkar Di Bedahan Depok
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Sesudah kamu mengetahui Tipe - Macam Tipe Pasir mulai sekarang kamu mesti cermat di dalam memilih macam pasir yg akan anda pakai untuk membangun sebuah Konstruksi Bangunan. Seandainya anda berencana membeli pasir dari kami Sistem Pemesanan nya ialah dengan memberikan data domisili komplit dan nomor telepon saja, kami akan lantas mengirimnya ke lokasi proyek anda dengan tanpa tambahan ongkos apa saja. Harga yang kami berikan yakni sudah termasuk ongkir dan bongkar jadi anda tak perlu khawatir dengan penambahan harga lagi. Cara pembayaran yang kami terapkan juga amat aman, yakni anda bayar setelah material sampe ke lokasi anda atau di ucap dengan istilah COD (Cash On Delivery). Anda juga bisa konsultasi atau negosiasi dengan kami melewati no telepon yang ada di website ini.
 

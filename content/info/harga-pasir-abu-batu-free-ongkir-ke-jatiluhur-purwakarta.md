@@ -119,7 +119,7 @@ Berikut ini List Harga Bahan Material Terbaru yang kami jual.
 
 ## Metode Pengorderan Pasir Bebas Biaya Pengiriman dan Kuli Di Jatiluhur Purwakarta
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Setelah anda memahami Macam - model Tipe Pasir mulai sekarang anda harus teliti dalam memilih tipe pasir yg akan kamu gunakan untuk membangun sebuah Bangunan. Seandainya anda hendak membeli pasir dari kami Cara Pemesanan nya adalah dengan memberikan data alamat komplit dan nomor HP saja, kami akan segera mengirimnya ke lokasi proyek anda dengan tidak ada tambahan ongkos apa saja. Harga yang kami berikan yaitu telah termasuk ongkir dan bongkar jadi anda tak perlu khawatir dengan pembengkakan ongkos lagi. Cara pembayaran yang kami terapkan juga sangat aman, merupakan anda bayar sesudah material terkirim ke tempat anda atau di ucap dengan istilah COD (Cash On Delivery). Anda juga dapat konsultasi atau negosiasi dengan kami melewati no telepon yang ada di situs ini.
 

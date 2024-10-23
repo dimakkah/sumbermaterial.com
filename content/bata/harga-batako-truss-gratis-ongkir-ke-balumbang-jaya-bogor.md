@@ -55,7 +55,7 @@ Apabila dibandingi dg material bangunan lainnya, batako memiliki harga sekitar R
 
 ## Metode Beli Bata Merah, Batako & Hebel Di Balumbang Jaya Bogor
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/IEs5XPt-xyU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/IEs5XPt-xyU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Semua tentunya sudah tahu fungsi utama batu bata mulai digunakan untuk membikin tembok, pagar tempat tinggal dan lainnya. Bersamaan dengan perkembangannya batu batu sekarang telah ada batu bata merah, batako hitam dan herbel. Sekiranya sekarang ini anda memiliki agenda untuk membangun sebuah gedung yang idam-idamkan|impian|masa depan} dan membutuhkan bahan batu bata. Karenanya silahkan mengorder batu bata terhadap toko penyedia material batu bata yg berkualitas dan terpercaya.
 

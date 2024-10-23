@@ -119,7 +119,7 @@ Berikut ini Daftar Harga Bahan Material Terbaru yang kami jual.
 
 ## Metode Pengorderan Pasir Free Ongkir dan Kuli Di Kalideres Jakarta
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Sesudah kamu memahami Jenis - Ragam Tipe Pasir mulai kini kamu harus teliti dalam memilih macam pasir yg akan anda gunakan untuk membangun sebuah Konstruksi. Apabila anda akan membeli pasir dari kami Sistem Pemesanan nya ialah dengan whatsapp data domisili komplit dan nomor HP saja, kami akan segera mengirimnya ke lokasi proyek anda dengan tidak ada tambahan biaya apa saja. Harga yang kami berikan adalah telah termasuk biaya pengiriman dan tumpah jadi anda tak perlu kuatir dengan pembengkakan harga lagi. Sistem pembayaran yang kami terapkan juga sungguh-sungguh aman, ialah anda bayar sesudah material sampe ke tempat anda atau di sebut dengan istilah COD (Cash On Delivery). Anda juga bisa konsultasi atau negosiasi dengan kami lewat no telepon yang ada di laman ini.
 

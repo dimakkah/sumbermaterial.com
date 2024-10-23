@@ -160,7 +160,7 @@ Berikut List Harga Bahan Material Termurah yang kami jual.
 
 ## Metode Pengorderan Pasir Bebas Ongkos Kirim dan Kuli Di Koja Jakarta
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Setelah kamu mengetahui Ragam - model Ragam Pasir mulai kini kalian harus teliti dalam memilih macam pasir yg akan kalian gunakan untuk membangun sebuah Bangunan. Jika anda hendak membeli pasir dari kami Sistem Pengorderan nya yaitu dengan sms data domisili lengkap dan nomor handphond saja, kami akan lantas mengirimnya ke lokasi proyek anda dengan tidak ada tambahan biaya apapun. Harga yang kami berikan yakni telah termasuk ongkir dan tumpah jadi anda tidak perlu kuatir dengan penambahan biaya lagi. Cara pembayaran yang kami terapkan juga amat aman, ialah anda bayar sesudah material terkirim ke lokasi anda atau di ucap dengan istilah COD (Cash On Delivery). Anda juga bisa konsultasi atau perundingan dengan kami melalui no telepon yang ada di web ini.
 

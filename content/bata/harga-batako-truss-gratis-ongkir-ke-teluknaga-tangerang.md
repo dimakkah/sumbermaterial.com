@@ -55,7 +55,7 @@ Jika dibandingi dengan material bangunan lainnya, batako trus mempunyai harga se
 
 ## Metode Pemesanan Bata Merah, Batako & Hebel Di Teluknaga Tangerang
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/IEs5XPt-xyU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/IEs5XPt-xyU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Segalanya tentu telah tahu kegunaan utama batu bata mulai diaplikasikan untuk membuat tembok, pagar gedung dan lainnya. Sejalan perkembangannya batu batu kini telah ada batu bata merah, batako trus hitam dan bata ringan. Jikalau saat ini anda memiliki rencana untuk membuat sebuah bangunan yg idam-idamkan|impian|masa depan} dan memerlukan bahan batu bata. Maka silahkan mengorder batu bata terhadap toko penyedia bahan batu bata yang berkwalitas dan terpercaya.
 

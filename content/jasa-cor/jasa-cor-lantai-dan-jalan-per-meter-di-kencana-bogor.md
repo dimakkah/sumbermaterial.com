@@ -101,7 +101,7 @@ Blow molding yaitu sebuah tahapan pengecoran yg mempergunakan beberapa produk se
 
 ## List Harga Di Kencana Bogor
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/MVuQWwYFCiA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/MVuQWwYFCiA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Daftar Harga Jasa Cor Lantai dan Jalan Per Meter Di Kencana Bogor
 

@@ -55,7 +55,7 @@ Sekiranya diperbandingkan dengan bahan bangunan lainnya, batako press mempunyai 
 
 ## Sistem Pembelian Bata Merah, Batako & Hebel Di Pondok Labu Jakarta
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/IEs5XPt-xyU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/IEs5XPt-xyU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Semua tentunya sudah tahu kegunaan utama batu bata mulai digunakan untuk membikin tembok, pagar bangunan dan lainnya. Bersamaan dengan perkembangannya batu batu sekarang telah ada batu bata merah, batako trus hitam dan hebel. Jikalau sekarang ini anda memiliki agenda untuk membuat sebuah bangunan yang idam-idamkan|impian|masa depan} dan membutuhkan bahan batu bata. Maka silahkan memesan batu bata terhadap warung penyedia material batu bata yang berkualitas dan terpercaya.
 

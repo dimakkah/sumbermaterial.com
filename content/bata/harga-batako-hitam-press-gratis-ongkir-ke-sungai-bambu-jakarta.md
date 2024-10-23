@@ -55,7 +55,7 @@ Seandainya dibandingi dg material bangunan lainnya, batako trus memiliki harga s
 
 ## Metode Pemesanan Bata Merah, Batako & Hebel Di Sungai Bambu Jakarta
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/IEs5XPt-xyU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/IEs5XPt-xyU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Segalanya tentu telah tahu fungsi utama batu bata mulai diaplikasikan untuk membikin tembok, pagar tempat tinggal dan lainnya. Bersamaan dengan perkembangannya batu batu sekarang telah ada batu bata merah, batako trus hitam dan hebel. Sekiranya saat ini anda memiliki rencana untuk membuat sebuah rumah yg idam-idamkan|impian|masa depan} dan memerlukan bahan batu bata. Karenanya silahkan memesan batu bata terhadap kios penyedia bahan batu bata yg bermutu dan terpercaya.
 

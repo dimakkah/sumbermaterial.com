@@ -119,7 +119,7 @@ Dibawah ini Price List Harga Bahan Bangunan Terupdate yang kami jual.
 
 ## Metode Pemesanan Pasir Gratis Ongkir dan Kuli Di Muaragembong Bekasi
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Setelah anda mengenal Tipe - Ragam Tipe Pasir mulai sekarang anda wajib cermat dalam memilih macam pasir yang akan kamu pergunakan untuk membangun sebuah Konstruksi. Bila anda berencana membeli pasir dari kami Metode Pemesanan nya merupakan dengan whatsapp data domisili lengkap dan nomor handphond saja, kami akan segera mengirimnya ke lokasi proyek anda dengan tanpa tambahan biaya apa saja. Harga yang kami berikan ialah sudah termasuk ongkir dan bongkar jadi anda tidak perlu khawatir dengan penambahan ongkos lagi. Cara pembayaran yang kami terapkan juga benar-benar aman, adalah anda bayar setelah material terkirim ke tempat anda atau di ucap dengan istilah COD (Cash On Delivery). Anda juga bisa konsultasi atau perundingan dengan kami melewati no telepon yang ada di laman ini.
 

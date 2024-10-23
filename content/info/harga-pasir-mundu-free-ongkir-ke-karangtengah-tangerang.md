@@ -160,7 +160,7 @@ Dibawah ini Urutan Harga Bahan Material Termurah yang kami jual.
 
 ## Metode Pemesanan Pasir Bebas Ongkir dan Penurunan Di Karangtengah Tangerang
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Sesudah anda mengenal Jenis - Macam Ragam Pasir mulai kini kamu seharusnya cermat di dalam memilih ragam pasir yang akan kalian pergunakan untuk membangun sebuah Konstruksi Bangunan. Seandainya anda akan membeli pasir dari kami Sistem Pemesanan nya merupakan dengan memberikan data alamat lengkap dan nomor handphond saja, kami akan lantas mengirimnya ke lokasi proyek anda tanpa ada tambahan biaya apapun. Harga yang kami berikan merupakan telah termasuk biaya pengiriman dan tumpah jadi anda tidak perlu kuatir dengan pembengkakan harga lagi. Metode pembayaran yang kami terapkan juga betul-betul aman, ialah anda bayar sesudah material terkirim ke lokasi anda atau di ucap dengan istilah COD (Cash On Delivery). Anda juga bisa konsultasi atau negosiasi dengan kami melalui no telepon yang ada di laman ini.
 

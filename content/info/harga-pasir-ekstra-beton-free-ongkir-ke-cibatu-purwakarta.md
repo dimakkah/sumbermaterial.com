@@ -160,7 +160,7 @@ Dibawah ini Price List Harga Bahan Bangunan Free Ongkir yang kami jual.
 
 ## Sistem Pemesanan Pasir Bebas Ongkos Kirim dan Penurunan Di Cibatu Purwakarta
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Setelah anda mengenal Tipe - Ragam Macam Pasir mulai kini kalian harus teliti di dalam memilih ragam pasir yg akan kalian pergunakan untuk membangun sebuah Konstruksi Bangunan. Jika anda akan membeli pasir dari kami Metode Pemesanan nya yaitu dengan sms data alamat lengkap dan nomor HP saja, kami akan seketika mengirimnya ke lokasi proyek anda tanpa ada tambahan ongkos apa saja. Harga yang kami berikan merupakan telah termasuk ongkos kirim dan tumpah jadi anda tidak perlu khawatir dengan pembengkakan ongkos lagi. Metode pembayaran yang kami terapkan juga benar-benar aman, adalah anda bayar setelah material sampai ke daerah anda atau di sebut dengan istilah COD (Cash On Delivery). Anda juga bisa konsultasi atau diplomasi dengan kami lewat no telepon yang ada di laman ini.
 

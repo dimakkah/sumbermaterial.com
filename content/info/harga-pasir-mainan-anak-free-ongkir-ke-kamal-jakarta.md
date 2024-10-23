@@ -119,7 +119,7 @@ Berikut Urutan Harga Bahan Material Alam Terupdate yang kami jual.
 
 ## Cara Pengorderan Pasir Gratis Biaya Pengiriman dan Bongkar Di Kamal Jakarta
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Sesudah kamu mengetahui model - Macam Ragam Pasir mulai kini anda semestinya akurat di dalam memilih tipe pasir yang akan kalian gunakan untuk membangun sebuah Konstruksi. Apabila anda mau membeli pasir dari kami Cara Pengorderan nya adalah dengan Email data domisili lengkap dan nomor telepon saja, kami akan lantas mengirimnya ke lokasi proyek anda tanpa ada tambahan ongkos apapun. Harga yang kami berikan ialah sudah termasuk ongkos kirim dan tumpah jadi anda tidak perlu khawatir dengan pembengkakan ongkos lagi. Metode pembayaran yang kami terapkan juga sangat aman, adalah anda bayar sesudah material sampai ke daerah anda atau di sebut dengan istilah COD (Cash On Delivery). Anda juga bisa konsultasi atau diplomasi dengan kami melewati no telepon yang ada di situs ini.
 

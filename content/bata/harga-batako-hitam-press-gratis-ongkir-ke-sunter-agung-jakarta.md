@@ -55,7 +55,7 @@ Apabila dibandingkan dengan material bangunan lainnya, batako press mempunyai ha
 
 ## Metode Beli Bata Merah, Batako & Hebel Di Sunter Agung Jakarta
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/IEs5XPt-xyU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/IEs5XPt-xyU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Semua tentunya sudah tahu kegunaan utama batu bata mulai diaplikasikan untuk membikin tembok, pagar tempat tinggal dan lainnya. Seiring perkembangannya batu batu kini telah ada batu bata merah, batako trus hitam dan hebel. Kalau dikala ini anda memiliki rencana untuk membuat sebuah rumah yang idam-idamkan|impian|masa depan} dan membutuhkan material batu bata. Karenanya silahkan memesan batu bata kepada kios penyedia bahan batu bata yg berkwalitas dan terpercaya.
 

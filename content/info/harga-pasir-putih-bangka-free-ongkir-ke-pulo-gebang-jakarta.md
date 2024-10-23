@@ -160,7 +160,7 @@ Berikut ini Urutan Harga Bahan Bangunan Free Ongkir yang kami jual.
 
 ## Metode Pemesanan Pasir Bebas Biaya Pengiriman dan Bongkar Di Pulo Gebang Jakarta
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Setelah anda mengenal Macam - Ragam Jenis Pasir mulai kini anda seharusnya teliti dalam memilih ragam pasir yang akan anda manfaatkan untuk membangun sebuah Bangunan. Jika anda akan membeli pasir dari kami Cara Pengorderan nya yaitu dengan sms data alamat lengkap dan nomor telepon saja, kami akan langsung mengirimnya ke lokasi proyek anda dengan tidak ada tambahan biaya apapun. Harga yang kami berikan yaitu telah termasuk ongkos kirim dan bongkar jadi anda tidak perlu khawatir dengan penambahan ongkos lagi. Sistem pembayaran yang kami terapkan juga sangat aman, merupakan anda bayar setelah material sampe ke tempat anda atau di sebut dengan istilah COD (Cash On Delivery). Anda juga bisa konsultasi atau diplomasi dengan kami lewat no telepon yang ada di laman ini.
 

@@ -160,7 +160,7 @@ Berikut ini Price List Harga Bahan Material Free Ongkir yang kami jual.
 
 ## Cara Pemesanan Pasir Free Ongkir dan Bongkar Di Cibogor Bogor
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Setelah anda mengetahui Jenis - Jenis Ragam Pasir mulai sekarang kamu harus akurat di dalam memilih ragam pasir yg akan anda pergunakan untuk membangun sebuah Konstruksi. Jika anda akan membeli pasir dari kami Sistem Pengorderan nya yaitu dengan whatsapp data domisili lengkap dan nomor telepon saja, kami akan lantas mengirimnya ke lokasi proyek anda dengan tanpa tambahan biaya apapun. Harga yang kami berikan merupakan sudah termasuk ongkir dan tumpah jadi anda tak perlu khawatir dengan penambahan ongkos lagi. Metode pembayaran yang kami terapkan juga betul-betul aman, adalah anda bayar setelah material terkirim ke daerah anda atau di ucap dengan istilah COD (Cash On Delivery). Anda juga bisa konsultasi atau diplomasi dengan kami melalui no telepon yang ada di laman ini.
 

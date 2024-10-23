@@ -119,7 +119,7 @@ Berikut ini List Harga Bahan Material Terbaru yang kami jual.
 
 ## Metode Pengorderan Pasir Bebas Biaya Pengiriman dan Penurunan Di Papanggo Jakarta
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Setelah kalian mengenal Tipe - Ragam Ragam Pasir mulai sekarang kamu mesti akurat dalam memilih tipe pasir yang akan kamu pergunakan untuk membangun sebuah Konstruksi Bangunan. Sekiranya anda akan membeli pasir dari kami Sistem Pengorderan nya ialah dengan Email data domisili komplit dan nomor HP saja, kami akan langsung mengirimnya ke lokasi proyek anda dengan tidak ada tambahan ongkos apapun. Harga yang kami berikan merupakan sudah termasuk ongkir dan tumpah jadi anda tak perlu khawatir dengan pembengkakan biaya lagi. Cara pembayaran yang kami terapkan juga betul-betul aman, ialah anda bayar sesudah material sampe ke tempat anda atau di sebut dengan istilah COD (Cash On Delivery). Anda juga dapat konsultasi atau negosiasi dengan kami melalui no telepon yang ada di laman ini.
 

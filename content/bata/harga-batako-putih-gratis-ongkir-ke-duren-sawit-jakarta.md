@@ -55,7 +55,7 @@ Kalau dibandingkan dengan bahan bangunan lainnya, batako memiliki harga sekitar 
 
 ## System Pemesanan Bata Merah, Batako & Hebel Di Duren Sawit Jakarta
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/IEs5XPt-xyU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/IEs5XPt-xyU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Semua tentunya telah tahu kegunaan utama batu bata mulai digunakan untuk membikin tembok, pagar bangunan dan lainnya. Bertepatan dengan perkembangannya batu batu kini telah ada batu bata merah, batako trus hitam dan hebel. Seandainya saat ini anda mempunyai rencana untuk membangun sebuah gedung yang idam-idamkan|impian|masa depan} dan memerlukan material batu bata. Karenanya silahkan memesan batu bata kepada kios penyedia material batu bata yg bermutu dan terpercaya.
 

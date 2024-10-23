@@ -55,7 +55,7 @@ Bila dibandingi dengan bahan bangunan lainnya, batako mempunyai harga sekitar Rp
 
 ## Metode Beli Bata Merah, Batako & Hebel Di Pedes Karawang
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/IEs5XPt-xyU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/IEs5XPt-xyU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Seluruhnya tentu sudah tahu kegunaan utama batu bata mulai digunakan untuk membuat tembok, pagar rumah dan lainnya. Bersamaan dengan perkembangannya batu batu sekarang sudah ada batu bata merah, batako trus hitam dan herbel. Bila saat ini anda mempunyai rencana untuk membangun sebuah gedung yg idam-idamkan|impian|masa depan} dan membutuhkan bahan batu bata. Maka silahkan mengorder batu bata kepada toko penyedia material batu bata yang berkwalitas dan terpercaya.
 

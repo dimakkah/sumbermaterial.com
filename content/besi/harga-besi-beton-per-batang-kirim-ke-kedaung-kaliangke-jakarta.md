@@ -51,7 +51,7 @@ Semua orang pasti mengharapkan mempunyai rumah yang berkwalitas bagus dan nyaman
 
 ## Cara Order Besi Beton Per Batang Di Kedaung Kaliangke Jakarta
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/RlgIAwKCWFI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/RlgIAwKCWFI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Kini semua dari anda tentunya telah tahu fungsi utama besi, wf, hollow mulai digunakan untuk membuat tulangan beton, kanopi, pagar rumah dan lainnya. Seiring perkembanganya batu batu kini telah ada besi, wf, hollow dengan bermacam ukuran dan kualitas. Kalau saat ini anda mempunyai agenda untuk membangun sebuah rumah impian dan memerlukan bahan besi, wf, hollow. Maka silahkan mengorder besi, wf, hollow kepada kami selaku penyedia bahan besi, wf, hollow yang berkualitas dan terpercaya.
 

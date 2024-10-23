@@ -51,7 +51,7 @@ Seluruh orang pasti menginginkan mempunyai rumah yang berkualitas baik dan nyama
 
 ## Cara Order Besi Beton Per Batang Di Tigaraksa Tangerang
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/RlgIAwKCWFI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/RlgIAwKCWFI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Sekarang tiap-tiap dari anda tentunya telah tahu fungsi utama besi, wf, hollow mulai diaplikasikan untuk membuat tulangan beton, kanopi, pagar rumah dan lainnya. Seiring perkembanganya batu batu sekarang telah ada besi, wf, hollow dengan berbagai ukuran dan kualitas. Apabila saat ini anda memiliki agenda untuk membangun sebuah rumah impian dan memerlukan bahan besi, wf, hollow. Maka silahkan mengorder besi, wf, hollow terhadap kami selaku penyedia bahan besi, wf, hollow yang berkualitas dan terpercaya.
 

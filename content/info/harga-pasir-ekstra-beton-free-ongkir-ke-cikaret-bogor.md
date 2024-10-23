@@ -160,7 +160,7 @@ Berikut ini Urutan Harga Bahan Material Alam Free Ongkir yang kami jual.
 
 ## Sistem Pengorderan Pasir Free Biaya Pengiriman dan Penurunan Di Cikaret Bogor
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Setelah kamu mengetahui Macam - Jenis Macam Pasir mulai sekarang anda seharusnya teliti dalam memilih model pasir yang akan kalian pergunakan untuk membangun sebuah Konstruksi. Sekiranya anda mau membeli pasir dari kami Cara Pemesanan nya adalah dengan whatsapp data alamat lengkap dan nomor HP saja, kami akan lantas mengirimnya ke lokasi proyek anda dengan tanpa tambahan biaya apa saja. Harga yang kami berikan ialah telah termasuk ongkos kirim dan penurunan jadi anda tidak perlu cemas dengan pembengkakan ongkos lagi. Sistem pembayaran yang kami terapkan juga sungguh-sungguh aman, yaitu anda bayar setelah material terkirim ke daerah anda atau di sebut dengan istilah COD (Cash On Delivery). Anda juga bisa konsultasi atau negosiasi dengan kami via no telepon yang ada di situs ini.
 

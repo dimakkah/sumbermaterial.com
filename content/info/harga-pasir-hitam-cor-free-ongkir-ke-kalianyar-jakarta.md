@@ -119,7 +119,7 @@ Dibawah ini Price List Harga Bahan Bangunan Termurah yang kami jual.
 
 ## Cara Pemesanan Pasir Free Ongkos Kirim dan Bongkar Di Kalianyar Jakarta
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Sesudah kamu mengenal Macam - model model Pasir mulai kini kalian wajib akurat dalam memilih model pasir yang akan anda manfaatkan untuk membangun sebuah Konstruksi. Jikalau anda berencana membeli pasir dari kami Sistem Pengorderan nya ialah dengan whatsapp data alamat lengkap dan nomor telepon saja, kami akan segera mengirimnya ke lokasi proyek anda dengan tidak ada tambahan biaya apapun. Harga yang kami berikan adalah sudah termasuk biaya pengiriman dan penurunan jadi anda tak perlu khawatir dengan penambahan biaya lagi. Cara pembayaran yang kami terapkan juga benar-benar aman, yakni anda bayar sesudah material terkirim ke daerah anda atau di sebut dengan istilah COD (Cash On Delivery). Anda juga dapat konsultasi atau perundingan dengan kami melalui no telepon yang ada di web ini.
 

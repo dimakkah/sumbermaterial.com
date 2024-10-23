@@ -160,7 +160,7 @@ Dibawah ini Price List Harga Bahan Material Alam Terupdate yang kami jual.
 
 ## Cara Pengorderan Pasir Gratis Ongkir dan Penurunan Di Cibogor Bogor
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Sesudah anda mengetahui Macam - model model Pasir mulai kini kalian patut teliti dalam memilih macam pasir yg akan kalian gunakan untuk membangun sebuah Konstruksi Bangunan. Apabila anda akan membeli pasir dari kami Metode Pemesanan nya yaitu dengan whatsapp data domisili komplit dan nomor telepon saja, kami akan langsung mengirimnya ke lokasi proyek anda dengan tidak ada tambahan ongkos apa saja. Harga yang kami berikan adalah sudah termasuk ongkir dan bongkar jadi anda tak perlu cemas dengan penambahan harga lagi. Cara pembayaran yang kami terapkan juga sangat aman, merupakan anda bayar setelah material sampai ke lokasi anda atau di ucap dengan istilah COD (Cash On Delivery). Anda juga dapat konsultasi atau diplomasi dengan kami melalui no telepon yang ada di website ini.
 

@@ -160,7 +160,7 @@ Dibawah ini Urutan Harga Bahan Bangunan Terlengkap yang kami jual.
 
 ## Cara Pengorderan Pasir Gratis Ongkir dan Bongkar Di Duren Mekar Depok
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Setelah anda mengenal model - model Macam Pasir mulai sekarang anda patut cermat di dalam memilih tipe pasir yang akan anda manfaatkan untuk membangun sebuah Bangunan. Sekiranya anda mau membeli pasir dari kami Cara Pemesanan nya adalah dengan sms data alamat komplit dan nomor handphond saja, kami akan segera mengirimnya ke lokasi proyek anda dengan tanpa tambahan ongkos apa saja. Harga yang kami berikan adalah telah termasuk biaya pengiriman dan bongkar jadi anda tak perlu khawatir dengan penambahan ongkos lagi. Cara pembayaran yang kami terapkan juga sungguh-sungguh aman, ialah anda bayar setelah material terkirim ke lokasi anda atau di sebut dengan istilah COD (Cash On Delivery). Anda juga dapat konsultasi atau negosiasi dengan kami melalui no telepon yang ada di website ini.
 

@@ -119,7 +119,7 @@ Berikut ini Urutan Harga Bahan Material Terbaru yang kami jual.
 
 ## Cara Pengorderan Pasir Bebas Ongkir dan Bongkar Di Karawang Timur Karawang
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Sesudah kalian memahami Tipe - Jenis Jenis Pasir mulai kini anda sepatutnya teliti dalam memilih macam pasir yg akan anda manfaatkan untuk membangun sebuah Konstruksi Bangunan. Bila anda mau membeli pasir dari kami Cara Pengorderan nya yakni dengan Email data alamat lengkap dan nomor telepon saja, kami akan langsung mengirimnya ke lokasi proyek anda tanpa ada tambahan ongkos apa saja. Harga yang kami berikan ialah sudah termasuk biaya pengiriman dan penurunan jadi anda tidak perlu kuatir dengan pembengkakan ongkos lagi. Metode pembayaran yang kami terapkan juga betul-betul aman, merupakan anda bayar sesudah material sampe ke tempat anda atau di ucap dengan istilah COD (Cash On Delivery). Anda juga bisa konsultasi atau diplomasi dengan kami lewat no telepon yang ada di web ini.
 

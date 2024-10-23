@@ -119,7 +119,7 @@ Berikut ini Price List Harga Bahan Bangunan Terupdate yang kami jual.
 
 ## Metode Pemesanan Pasir Free Ongkos Kirim dan Penurunan Di Cilodong Depok
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Setelah anda memahami model - Tipe model Pasir mulai kini anda sepatutnya teliti di dalam memilih model pasir yang akan anda pakai untuk membangun sebuah Bangunan. Kalau anda hendak membeli pasir dari kami Cara Pengorderan nya merupakan dengan whatsapp data domisili komplit dan nomor handphond saja, kami akan segera mengirimnya ke lokasi proyek anda dengan tanpa tambahan biaya apa saja. Harga yang kami berikan yakni sudah termasuk biaya pengiriman dan bongkar jadi anda tak perlu cemas dengan pembengkakan biaya lagi. Cara pembayaran yang kami terapkan juga sungguh-sungguh aman, adalah anda bayar sesudah material terkirim ke daerah anda atau di ucap dengan istilah COD (Cash On Delivery). Anda juga bisa konsultasi atau diplomasi dengan kami via no telepon yang ada di web ini.
 

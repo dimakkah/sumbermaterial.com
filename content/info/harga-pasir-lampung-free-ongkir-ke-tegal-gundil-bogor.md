@@ -119,7 +119,7 @@ Dibawah ini Urutan Harga Bahan Bangunan Terlengkap yang kami jual.
 
 ## Sistem Pengorderan Pasir Bebas Biaya Pengiriman dan Bongkar Di Tegal Gundil Bogor
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Setelah anda mengenal Tipe - Ragam Ragam Pasir mulai kini anda semestinya cermat dalam memilih jenis pasir yang akan anda pergunakan untuk membangun sebuah Konstruksi Bangunan. Apabila anda mau membeli pasir dari kami Metode Pemesanan nya adalah dengan memberikan data domisili lengkap dan nomor HP saja, kami akan langsung mengirimnya ke lokasi proyek anda dengan tanpa tambahan ongkos apa saja. Harga yang kami berikan merupakan sudah termasuk ongkos kirim dan penurunan jadi anda tak perlu khawatir dengan penambahan ongkos lagi. Metode pembayaran yang kami terapkan juga sangat aman, yaitu anda bayar setelah material terkirim ke daerah anda atau di sebut dengan istilah COD (Cash On Delivery). Anda juga dapat konsultasi atau diplomasi dengan kami melalui no telepon yang ada di web ini.
 

@@ -119,7 +119,7 @@ Dibawah ini Price List Harga Bahan Material Alam Terbaru yang kami jual.
 
 ## Sistem Pengorderan Pasir Free Ongkir dan Kuli Di Jayanti Tangerang
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Setelah anda mengenal Jenis - Jenis model Pasir mulai kini anda harus akurat dalam memilih macam pasir yg akan kamu pergunakan untuk membangun sebuah Konstruksi. Jikalau anda hendak membeli pasir dari kami Cara Pemesanan nya ialah dengan sms data alamat komplit dan nomor HP saja, kami akan lantas mengirimnya ke lokasi proyek anda tanpa ada tambahan ongkos apa saja. Harga yang kami berikan adalah sudah termasuk ongkos kirim dan bongkar jadi anda tidak perlu cemas dengan penambahan biaya lagi. Cara pembayaran yang kami terapkan juga amat aman, merupakan anda bayar sesudah material sampe ke tempat anda atau di sebut dengan istilah COD (Cash On Delivery). Anda juga bisa konsultasi atau perundingan dengan kami lewat no telepon yang ada di web ini.
 

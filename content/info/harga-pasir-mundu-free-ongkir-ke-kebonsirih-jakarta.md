@@ -160,7 +160,7 @@ Berikut Daftar Harga Bahan Material Termurah yang kami jual.
 
 ## Sistem Pemesanan Pasir Bebas Biaya Pengiriman dan Bongkar Di Kebonsirih Jakarta
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Sesudah anda mengenal Jenis - model model Pasir mulai kini anda mesti akurat di dalam memilih ragam pasir yang akan kalian manfaatkan untuk membangun sebuah Konstruksi Bangunan. Sekiranya anda hendak membeli pasir dari kami Sistem Pengorderan nya ialah dengan sms data domisili komplit dan nomor handphond saja, kami akan segera mengirimnya ke lokasi proyek anda dengan tanpa tambahan biaya apapun. Harga yang kami berikan yaitu telah termasuk ongkir dan penurunan jadi anda tidak perlu khawatir dengan pembengkakan biaya lagi. Sistem pembayaran yang kami terapkan juga sungguh-sungguh aman, yaitu anda bayar sesudah material terkirim ke tempat anda atau di sebut dengan istilah COD (Cash On Delivery). Anda juga dapat konsultasi atau negosiasi dengan kami melewati no telepon yang ada di web ini.
 

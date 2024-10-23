@@ -119,7 +119,7 @@ Berikut ini Daftar Harga Bahan Bangunan Free Ongkir yang kami jual.
 
 ## Cara Pemesanan Pasir Free Ongkir dan Bongkar Di Selong Jakarta
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Setelah anda mengenal Macam - Ragam model Pasir mulai kini kamu harus cermat dalam memilih ragam pasir yang akan kalian gunakan untuk membangun sebuah Bangunan. Seandainya anda akan membeli pasir dari kami Cara Pemesanan nya yakni dengan whatsapp data domisili lengkap dan nomor telepon saja, kami akan seketika mengirimnya ke lokasi proyek anda tanpa ada tambahan biaya apa saja. Harga yang kami berikan yaitu sudah termasuk ongkos kirim dan penurunan jadi anda tak perlu cemas dengan penambahan biaya lagi. Cara pembayaran yang kami terapkan juga betul-betul aman, yakni anda bayar sesudah material terkirim ke tempat anda atau di ucap dengan istilah COD (Cash On Delivery). Anda juga bisa konsultasi atau diplomasi dengan kami melewati no telepon yang ada di laman ini.
 

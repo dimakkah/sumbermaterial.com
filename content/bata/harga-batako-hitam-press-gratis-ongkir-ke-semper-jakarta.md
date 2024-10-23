@@ -55,7 +55,7 @@ Apabila diperbandingkan dengan bahan bangunan lainnya, batako trus mempunyai har
 
 ## Sistem Beli Bata Merah, Batako & Hebel Di Semper Jakarta
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/IEs5XPt-xyU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/IEs5XPt-xyU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Segalanya tentu telah tahu fungsi utama batu bata mulai dipakai untuk membikin tembok, pagar rumah dan lainnya. Sejalan perkembangannya batu batu sekarang telah ada batu bata merah, batako hitam dan herbel. Jikalau sekarang ini anda memiliki rencana untuk membuat sebuah gedung yang idam-idamkan|impian|masa depan} dan membutuhkan material batu bata. Maka silahkan memesan batu bata terhadap toko penyedia material batu bata yang berkualitas dan terpercaya.
 

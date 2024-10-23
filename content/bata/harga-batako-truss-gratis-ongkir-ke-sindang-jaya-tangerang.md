@@ -55,7 +55,7 @@ Bila dibandingi dengan bahan bangunan lainnya, batako press mempunyai harga seki
 
 ## Sistem Pembelian Bata Merah, Batako & Hebel Di Sindang Jaya Tangerang
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/IEs5XPt-xyU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/IEs5XPt-xyU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Seluruhnya tentu sudah tahu fungsi utama batu bata mulai diaplikasikan untuk membikin tembok, pagar gedung dan lainnya. Sejalan perkembangannya batu batu sekarang telah ada batu bata merah, batako hitam dan bata ringan. Sekiranya sekarang ini anda mempunyai rencana untuk membuat sebuah rumah yang idam-idamkan|impian|masa depan} dan memerlukan material batu bata. Karenanya silahkan memesan batu bata kepada kios penyedia bahan batu bata yg bermutu dan terpercaya.
 

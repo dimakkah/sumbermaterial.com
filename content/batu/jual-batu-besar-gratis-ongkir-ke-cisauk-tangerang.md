@@ -33,7 +33,7 @@ Batu kali belah adalah batuan natural dari kali atau gunung yang bentuk fisiknya
 
 ## Jual Batu Blondos Atau Batu Bronjol Di Cisauk Tangerang
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/QUk5FUujSQs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/QUk5FUujSQs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 **Daftar Harga Jual Batu Besar Gratis Ongkir Ke Cisauk Tangerang**
 

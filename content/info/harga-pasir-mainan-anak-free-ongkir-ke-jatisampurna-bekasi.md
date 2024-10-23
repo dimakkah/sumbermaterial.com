@@ -160,7 +160,7 @@ Dibawah ini Urutan Harga Bahan Material Alam Terbaru yang kami jual.
 
 ## Metode Pengorderan Pasir Gratis Ongkir dan Kuli Di Jatisampurna Bekasi
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Setelah kamu mengenal Tipe - Ragam Tipe Pasir mulai sekarang anda seharusnya akurat di dalam memilih macam pasir yg akan kalian gunakan untuk membangun sebuah Konstruksi. Sekiranya anda mau membeli pasir dari kami Sistem Pengorderan nya ialah dengan whatsapp data alamat komplit dan nomor handphond saja, kami akan lantas mengirimnya ke lokasi proyek anda dengan tidak ada tambahan biaya apapun. Harga yang kami berikan yaitu sudah termasuk ongkos kirim dan tumpah jadi anda tak perlu kuatir dengan penambahan ongkos lagi. Sistem pembayaran yang kami terapkan juga betul-betul aman, ialah anda bayar sesudah material terkirim ke lokasi anda atau di ucap dengan istilah COD (Cash On Delivery). Anda juga bisa konsultasi atau diplomasi dengan kami lewat no telepon yang ada di laman ini.
 

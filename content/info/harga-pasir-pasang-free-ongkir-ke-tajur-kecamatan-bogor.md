@@ -160,7 +160,7 @@ Dibawah ini List Harga Bahan Material Terbaru yang kami jual.
 
 ## Sistem Pemesanan Pasir Gratis Biaya Pengiriman dan Kuli Di Tajur Kecamatan Bogor
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Sesudah anda mengetahui Ragam - Ragam Macam Pasir mulai kini anda patut teliti dalam memilih jenis pasir yang akan kalian gunakan untuk membangun sebuah Konstruksi Bangunan. Apabila anda mau membeli pasir dari kami Sistem Pengorderan nya merupakan dengan Email data domisili komplit dan nomor telepon saja, kami akan langsung mengirimnya ke lokasi proyek anda dengan tanpa tambahan ongkos apapun. Harga yang kami berikan yakni telah termasuk biaya pengiriman dan bongkar jadi anda tak perlu cemas dengan penambahan ongkos lagi. Metode pembayaran yang kami terapkan juga benar-benar aman, adalah anda bayar setelah material sampe ke lokasi anda atau di ucap dengan istilah COD (Cash On Delivery). Anda juga bisa konsultasi atau perundingan dengan kami via no telepon yang ada di situs ini.
 

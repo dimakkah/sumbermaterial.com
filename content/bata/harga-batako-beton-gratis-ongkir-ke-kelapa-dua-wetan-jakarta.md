@@ -55,7 +55,7 @@ Apabila dibandingkan dg material bangunan lainnya, batako memiliki harga sekitar
 
 ## System Beli Bata Merah, Batako & Hebel Di Kelapa Dua Wetan Jakarta
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/IEs5XPt-xyU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/IEs5XPt-xyU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Segalanya tentu sudah tahu fungsi utama batu bata mulai digunakan untuk membikin tembok, pagar bangunan dan lainnya. Sejalan perkembangannya batu batu sekarang sudah ada batu bata merah, batako press hitam dan hebel. Apabila saat ini anda mempunyai rencana untuk membangun sebuah gedung yg idam-idamkan|impian|masa depan} dan memerlukan material batu bata. Karenanya silahkan mengorder batu bata kepada kios penyedia material batu bata yg berkualitas dan terpercaya.
 

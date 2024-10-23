@@ -160,7 +160,7 @@ Berikut ini Urutan Harga Bahan Material Alam Terlengkap yang kami jual.
 
 ## Sistem Pengorderan Pasir Free Biaya Pengiriman dan Penurunan Di Babelan Bekasi
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Sesudah anda mengetahui Jenis - Macam Jenis Pasir mulai sekarang anda patut cermat dalam memilih tipe pasir yang akan anda manfaatkan untuk membangun sebuah Konstruksi Bangunan. Sekiranya anda akan membeli pasir dari kami Metode Pemesanan nya merupakan dengan Email data domisili lengkap dan nomor handphond saja, kami akan seketika mengirimnya ke lokasi proyek anda tanpa ada tambahan ongkos apapun. Harga yang kami berikan adalah sudah termasuk ongkir dan tumpah jadi anda tidak perlu cemas dengan penambahan harga lagi. Cara pembayaran yang kami terapkan juga benar-benar aman, yaitu anda bayar sesudah material sampe ke daerah anda atau di ucap dengan istilah COD (Cash On Delivery). Anda juga bisa konsultasi atau perundingan dengan kami via no telepon yang ada di website ini.
 

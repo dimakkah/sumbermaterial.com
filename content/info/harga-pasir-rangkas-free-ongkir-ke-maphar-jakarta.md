@@ -119,7 +119,7 @@ Berikut ini List Harga Bahan Material Terupdate yang kami jual.
 
 ## Sistem Pengorderan Pasir Free Ongkir dan Penurunan Di Maphar Jakarta
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Setelah kamu mengenal Tipe - Jenis Tipe Pasir mulai kini kamu wajib cermat di dalam memilih macam pasir yg akan kamu gunakan untuk membangun sebuah Bangunan. Seandainya anda berencana membeli pasir dari kami Sistem Pemesanan nya yaitu dengan whatsapp data alamat lengkap dan nomor HP saja, kami akan lantas mengirimnya ke lokasi proyek anda tanpa ada tambahan biaya apa saja. Harga yang kami berikan yaitu sudah termasuk ongkir dan tumpah jadi anda tak perlu cemas dengan penambahan biaya lagi. Sistem pembayaran yang kami terapkan juga sangat aman, adalah anda bayar setelah material terkirim ke lokasi anda atau di sebut dengan istilah COD (Cash On Delivery). Anda juga bisa konsultasi atau perundingan dengan kami lewat no telepon yang ada di website ini.
 

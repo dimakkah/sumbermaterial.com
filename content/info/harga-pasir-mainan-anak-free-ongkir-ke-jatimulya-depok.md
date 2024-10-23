@@ -119,7 +119,7 @@ Berikut ini Daftar Harga Bahan Bangunan Termurah yang kami jual.
 
 ## Cara Pengorderan Pasir Free Biaya Pengiriman dan Penurunan Di Jatimulya Depok
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Sesudah kalian memahami Jenis - Macam Jenis Pasir mulai sekarang anda semestinya cermat dalam memilih tipe pasir yg akan anda manfaatkan untuk membangun sebuah Konstruksi Bangunan. Apabila anda akan membeli pasir dari kami Cara Pengorderan nya adalah dengan Email data domisili lengkap dan nomor telepon saja, kami akan langsung mengirimnya ke lokasi proyek anda dengan tidak ada tambahan ongkos apa saja. Harga yang kami berikan ialah telah termasuk biaya pengiriman dan penurunan jadi anda tidak perlu cemas dengan pembengkakan ongkos lagi. Cara pembayaran yang kami terapkan juga benar-benar aman, adalah anda bayar setelah material sampai ke lokasi anda atau di sebut dengan istilah COD (Cash On Delivery). Anda juga dapat konsultasi atau negosiasi dengan kami melewati no telepon yang ada di situs ini.
 

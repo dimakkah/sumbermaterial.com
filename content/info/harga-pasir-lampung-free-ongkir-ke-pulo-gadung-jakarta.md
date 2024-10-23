@@ -119,7 +119,7 @@ Dibawah ini Urutan Harga Bahan Bangunan Terbaru yang kami jual.
 
 ## Metode Pemesanan Pasir Bebas Ongkos Kirim dan Penurunan Di Pulo Gadung Jakarta
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Setelah anda mengetahui Jenis - Ragam Tipe Pasir mulai kini anda seharusnya teliti dalam memilih ragam pasir yang akan anda manfaatkan untuk membangun sebuah Konstruksi Bangunan. Seandainya anda berencana membeli pasir dari kami Cara Pemesanan nya adalah dengan Email data domisili komplit dan nomor telepon saja, kami akan lantas mengirimnya ke lokasi proyek anda tanpa ada tambahan biaya apapun. Harga yang kami berikan yakni telah termasuk ongkos kirim dan penurunan jadi anda tak perlu cemas dengan penambahan harga lagi. Cara pembayaran yang kami terapkan juga benar-benar aman, adalah anda bayar sesudah material sampai ke lokasi anda atau di ucap dengan istilah COD (Cash On Delivery). Anda juga bisa konsultasi atau perundingan dengan kami via no telepon yang ada di laman ini.
 

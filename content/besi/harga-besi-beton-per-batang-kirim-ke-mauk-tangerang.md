@@ -51,7 +51,7 @@ Seluruh orang pasti mengharapkan mempunyai rumah yang berkwalitas baik dan nyama
 
 ## Cara Pengorderan Besi Beton Per Batang Di Mauk Tangerang
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/RlgIAwKCWFI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/RlgIAwKCWFI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Sekarang tiap-tiap dari anda tentunya telah tahu fungsi utama besi, wf, hollow mulai digunakan untuk membuat tulangan beton, kanopi, pagar rumah dan lainnya. Seiring perkembanganya batu batu sekarang sudah ada besi, wf, hollow dengan bermacam ukuran dan kualitas. Apabila dikala ini anda memiliki agenda untuk membangun sebuah rumah idaman dan memerlukan bahan besi, wf, hollow. Karenanya silahkan memesan besi, wf, hollow kepada kami selaku penyedia bahan besi, wf, hollow yang berkualitas dan terpercaya.
 

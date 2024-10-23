@@ -119,7 +119,7 @@ Berikut ini Daftar Harga Bahan Bangunan Termurah yang kami jual.
 
 ## Metode Pengorderan Pasir Free Ongkos Kirim dan Penurunan Di Kedung Jaya Bogor
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Sesudah kalian mengetahui Macam - Macam Macam Pasir mulai sekarang anda sepatutnya akurat di dalam memilih macam pasir yg akan kamu pergunakan untuk membangun sebuah Konstruksi. Bila anda mau membeli pasir dari kami Metode Pengorderan nya yakni dengan sms data domisili lengkap dan nomor handphond saja, kami akan segera mengirimnya ke lokasi proyek anda dengan tidak ada tambahan biaya apa saja. Harga yang kami berikan yaitu sudah termasuk ongkos kirim dan tumpah jadi anda tidak perlu cemas dengan penambahan biaya lagi. Cara pembayaran yang kami terapkan juga amat aman, yaitu anda bayar sesudah material sampe ke lokasi anda atau di ucap dengan istilah COD (Cash On Delivery). Anda juga bisa konsultasi atau negosiasi dengan kami via no telepon yang ada di website ini.
 

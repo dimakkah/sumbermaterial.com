@@ -119,7 +119,7 @@ Berikut ini Daftar Harga Bahan Material Termurah yang kami jual.
 
 ## Metode Pemesanan Pasir Gratis Ongkir dan Kuli Di Kedungwaringin Bekasi
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Sesudah anda mengenal Tipe - Macam Tipe Pasir mulai sekarang kamu semestinya cermat di dalam memilih macam pasir yg akan kalian pergunakan untuk membangun sebuah Konstruksi Bangunan. Jika anda berencana membeli pasir dari kami Sistem Pemesanan nya merupakan dengan memberikan data domisili lengkap dan nomor HP saja, kami akan langsung mengirimnya ke lokasi proyek anda dengan tanpa tambahan ongkos apapun. Harga yang kami berikan merupakan telah termasuk ongkos kirim dan penurunan jadi anda tak perlu cemas dengan penambahan biaya lagi. Sistem pembayaran yang kami terapkan juga betul-betul aman, ialah anda bayar sesudah material terkirim ke daerah anda atau di ucap dengan istilah COD (Cash On Delivery). Anda juga dapat konsultasi atau negosiasi dengan kami melewati no telepon yang ada di website ini.
 

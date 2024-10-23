@@ -55,7 +55,7 @@ Jika dibandingi dg material bangunan lainnya, batako mempunyai harga sekitar Rp 
 
 ## System Pesan Bata Merah, Batako & Hebel Di Pakuhaji Tangerang
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/IEs5XPt-xyU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/IEs5XPt-xyU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Seluruhnya tentu telah tahu fungsi utama batu bata mulai diaplikasikan untuk membuat tembok, pagar rumah dan lainnya. Bertepatan dengan perkembangannya batu batu sekarang telah ada batu bata merah, batako press hitam dan bata ringan. Jikalau sekarang ini anda memiliki rencana untuk membuat sebuah gedung yang idam-idamkan|impian|masa depan} dan membutuhkan bahan batu bata. Karenanya silahkan mengorder batu bata kepada warung penyedia bahan batu bata yg berkwalitas dan terpercaya.
 

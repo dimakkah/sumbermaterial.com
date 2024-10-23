@@ -55,7 +55,7 @@ Apabila diperbandingkan dg bahan bangunan lainnya, batako press mempunyai harga 
 
 ## Cara Pembelian Bata Merah, Batako & Hebel Di Pluit Jakarta
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/IEs5XPt-xyU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/IEs5XPt-xyU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Semua tentunya sudah tahu fungsi utama batu bata mulai digunakan untuk membuat tembok, pagar tempat tinggal dan lainnya. Sejalan perkembangannya batu batu kini telah ada batu bata merah, batako hitam dan bata ringan. Sekiranya saat ini anda memiliki agenda untuk membangun sebuah bangunan yg idam-idamkan|impian|masa depan} dan membutuhkan material batu bata. Karenanya silahkan memesan batu bata terhadap kios penyedia bahan batu bata yang bermutu dan terpercaya.
 

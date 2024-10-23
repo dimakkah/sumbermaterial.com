@@ -119,7 +119,7 @@ Dibawah ini Urutan Harga Bahan Material Alam Termurah yang kami jual.
 
 ## Metode Pemesanan Pasir Gratis Ongkir dan Kuli Di Sindang Jaya Tangerang
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Setelah kamu mengetahui Jenis - Ragam Tipe Pasir mulai sekarang kamu patut akurat dalam memilih macam pasir yg akan kamu pakai untuk membangun sebuah Konstruksi. Bila anda berencana membeli pasir dari kami Sistem Pemesanan nya merupakan dengan Email data alamat komplit dan nomor telepon saja, kami akan seketika mengirimnya ke lokasi proyek anda dengan tanpa tambahan biaya apapun. Harga yang kami berikan ialah sudah termasuk ongkir dan bongkar jadi anda tak perlu kuatir dengan penambahan ongkos lagi. Metode pembayaran yang kami terapkan juga sangat aman, merupakan anda bayar setelah material sampe ke daerah anda atau di ucap dengan istilah COD (Cash On Delivery). Anda juga dapat konsultasi atau perundingan dengan kami melalui no telepon yang ada di website ini.
 

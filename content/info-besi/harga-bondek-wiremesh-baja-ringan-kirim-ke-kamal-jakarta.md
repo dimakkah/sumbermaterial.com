@@ -63,7 +63,7 @@ Baja ringan SNI dijual dengan hitungan harga pas dengan ketebalan dan dihitung p
 
 ## Metode Pemesanan Bondek, Wiremesh Dan Baja Ringan Di Kamal Jakarta
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/RlgIAwKCWFI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/RlgIAwKCWFI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Kalau anda berencana membeli material melewati Harga Bondek Wiremesh Baja Ringan Kirim Ke Kamal Jakarta online karenanya salah satunya dapat menerapkan cara pembayaran bayar ditempat. Dimana metode Bayar Setelah sampe, pembeli sepatutnya membayar orderan dengan pembayaran tunai ketika barang yang diorder sampai di lokasi tujuan. Dibawah ini akan dijelaskan langkah pembelian bondek, wiremesh dan baja ringan secara COD yang wajib anda ketahui.
 

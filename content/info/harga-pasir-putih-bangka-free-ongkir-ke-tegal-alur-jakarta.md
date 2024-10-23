@@ -160,7 +160,7 @@ Dibawah ini Daftar Harga Bahan Material Terbaru yang kami jual.
 
 ## Sistem Pemesanan Pasir Bebas Ongkos Kirim dan Penurunan Di Tegal Alur Jakarta
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Sesudah kamu mengenal Ragam - Ragam Ragam Pasir mulai kini anda patut teliti di dalam memilih tipe pasir yg akan anda manfaatkan untuk membangun sebuah Konstruksi Bangunan. Kalau anda akan membeli pasir dari kami Metode Pengorderan nya ialah dengan Email data alamat komplit dan nomor telepon saja, kami akan lantas mengirimnya ke lokasi proyek anda dengan tidak ada tambahan ongkos apa saja. Harga yang kami berikan merupakan telah termasuk biaya pengiriman dan bongkar jadi anda tidak perlu kuatir dengan pembengkakan harga lagi. Cara pembayaran yang kami terapkan juga benar-benar aman, adalah anda bayar setelah material sampai ke daerah anda atau di ucap dengan istilah COD (Cash On Delivery). Anda juga bisa konsultasi atau perundingan dengan kami lewat no telepon yang ada di situs ini.
 

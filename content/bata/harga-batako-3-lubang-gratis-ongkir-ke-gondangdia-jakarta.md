@@ -55,7 +55,7 @@ Bila diperbandingkan dg bahan bangunan lainnya, batako press memiliki harga seki
 
 ## Metode Beli Bata Merah, Batako & Hebel Di Gondangdia Jakarta
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/IEs5XPt-xyU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/IEs5XPt-xyU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Semua tentunya telah tahu kegunaan utama batu bata mulai dipakai untuk membikin tembok, pagar bangunan dan lainnya. Seiring perkembangannya batu batu sekarang sudah ada batu bata merah, batako trus hitam dan hebel. Kalau sekarang ini anda memiliki agenda untuk membangun sebuah tempat tinggal yg idam-idamkan|impian|masa depan} dan membutuhkan material batu bata. Maka silahkan memesan batu bata kepada toko penyedia bahan batu bata yang bermutu dan terpercaya.
 

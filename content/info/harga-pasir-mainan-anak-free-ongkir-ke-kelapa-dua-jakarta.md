@@ -160,7 +160,7 @@ Berikut List Harga Bahan Bangunan Terupdate yang kami jual.
 
 ## Cara Pengorderan Pasir Bebas Biaya Pengiriman dan Bongkar Di Kelapa Dua Jakarta
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Setelah anda mengenal Jenis - Ragam Macam Pasir mulai kini anda harus cermat dalam memilih macam pasir yang akan anda pergunakan untuk membangun sebuah Bangunan. Kalau anda berencana membeli pasir dari kami Metode Pengorderan nya yakni dengan Email data alamat lengkap dan nomor HP saja, kami akan seketika mengirimnya ke lokasi proyek anda dengan tanpa tambahan ongkos apa saja. Harga yang kami berikan yaitu sudah termasuk ongkir dan penurunan jadi anda tidak perlu kuatir dengan pembengkakan biaya lagi. Cara pembayaran yang kami terapkan juga sangat aman, adalah anda bayar sesudah material sampe ke tempat anda atau di ucap dengan istilah COD (Cash On Delivery). Anda juga bisa konsultasi atau diplomasi dengan kami melalui no telepon yang ada di laman ini.
 

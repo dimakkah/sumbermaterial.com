@@ -55,7 +55,7 @@ Jika dibandingkan dg material bangunan lainnya, batako memiliki harga sekitar Rp
 
 ## Metode Pengorderan Bata Merah, Batako & Hebel Di Cibuluh Bogor
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/IEs5XPt-xyU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/IEs5XPt-xyU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Semua tentunya sudah tahu fungsi utama batu bata mulai digunakan untuk membikin tembok, pagar bangunan dan lainnya. Bertepatan dengan perkembangannya batu batu sekarang sudah ada batu bata merah, batako trus hitam dan bata ringan. Kalau saat ini anda memiliki agenda untuk membangun sebuah tempat tinggal yang idam-idamkan|impian|masa depan} dan memerlukan bahan batu bata. Karenanya silahkan mengorder batu bata terhadap warung penyedia material batu bata yg berkwalitas dan terpercaya.
 

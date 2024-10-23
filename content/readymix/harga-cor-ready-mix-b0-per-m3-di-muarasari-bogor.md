@@ -33,7 +33,7 @@ Beton Ready mix kwalitas ini yakni kwalitas beton Readymix yang didesign khusus 
 
 ### Beton Ready mix K375 sd K500 dan Harganya Di Muarasari Bogor
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/MVuQWwYFCiA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/MVuQWwYFCiA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Mutu beton Readymix yg terkhir yakni mutu beton yg didesaian khusus utk pekerjaan ekspress biasa disebut juga dengan beton fast track yaitu kualitas beton Ready mix yang bisa kering hanya dalam beberapa hari saja. Harganya malahan cukup mahal untuk K375 sendiri per kubiknya 1.000.000, K400 harganya 1.200.000 per kubik dan K500 1.400.000 per kubiknya. Kualitas-kwalitas beton tersebut digunakna pada pengecoran jalan rigit yg akan dipakai bebera hari kemudian atau pada pengecoran jembatan dan bendungan serta pengecoran dalam air.
 

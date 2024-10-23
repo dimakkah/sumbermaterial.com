@@ -63,7 +63,7 @@ Baja ringan SNI ditawarkan dengan hitungan harga pas dengan ketebalan dan dihitu
 
 ## Metode Pengorderan Bondek, Wiremesh Dan Baja Ringan Di Pisangan Timur Jakarta
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/RlgIAwKCWFI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/RlgIAwKCWFI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Jika anda berencana memesan material lewat Harga Bondek Wiremesh Baja Ringan Kirim Ke Pisangan Timur Jakarta online karenanya salah satunya bisa mengaplikasikan sistem pembayaran COD. Dimana cara Bayar Setelah sampe, pembeli mesti membayar pesanan dengan pembayaran tunai ketika barang yang dipesan tiba di lokasi tujuan. Dibawah ini akan dibeberkan langkah pembelian bondek, wiremesh dan baja ringan secara COD yang wajib anda kenal.
 

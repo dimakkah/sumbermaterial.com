@@ -33,7 +33,7 @@ Beton Ready mix kwalitas ini yaitu kwalitas beton Ready mix yang didesign khusus
 
 ### Beton Ready mix K375 sd K500 dan Harganya Di Tigaraksa Tangerang
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/MVuQWwYFCiA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/MVuQWwYFCiA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Kualitas beton Ready mix yg terkhir yakni kwalitas beton yang didesaian khusus untuk pekerjaan cepat lazim disebut juga dengan beton fast track yaitu kwalitas beton Ready mix yg bisa kering hanya dalam beberapa hari saja. Harganya malahan cukup mahal untuk K375 sendiri per kubiknya 1.000.000, K400 harganya 1.200.000 per m3 dan K500 1.400.000 per m3nya. Mutu-kualitas beton tersebut digunakna pada pengecoran jalan rigit yang akan diterapkan bebera hari kemudian atau pada pengecoran jembatan dan bendungan serta pengecoran dalam air.
 

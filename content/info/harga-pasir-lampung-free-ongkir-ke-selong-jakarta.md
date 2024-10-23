@@ -119,7 +119,7 @@ Dibawah ini Daftar Harga Bahan Bangunan Terupdate yang kami jual.
 
 ## Metode Pengorderan Pasir Free Biaya Pengiriman dan Kuli Di Selong Jakarta
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Sesudah anda mengetahui Ragam - model Macam Pasir mulai kini kalian mesti akurat di dalam memilih model pasir yg akan kalian pergunakan untuk membangun sebuah Konstruksi. Kalau anda akan membeli pasir dari kami Sistem Pemesanan nya adalah dengan sms data domisili lengkap dan nomor telepon saja, kami akan lantas mengirimnya ke lokasi proyek anda dengan tidak ada tambahan ongkos apa saja. Harga yang kami berikan yakni telah termasuk ongkos kirim dan bongkar jadi anda tak perlu cemas dengan penambahan ongkos lagi. Sistem pembayaran yang kami terapkan juga sungguh-sungguh aman, ialah anda bayar sesudah material sampai ke daerah anda atau di sebut dengan istilah COD (Cash On Delivery). Anda juga bisa konsultasi atau diplomasi dengan kami via no telepon yang ada di web ini.
 

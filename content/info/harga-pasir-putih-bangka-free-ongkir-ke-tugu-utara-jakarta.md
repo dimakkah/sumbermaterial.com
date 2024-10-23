@@ -119,7 +119,7 @@ Berikut List Harga Bahan Bangunan Termurah yang kami jual.
 
 ## Metode Pengorderan Pasir Free Biaya Pengiriman dan Bongkar Di Tugu Utara Jakarta
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Setelah kalian mengetahui Macam - model Jenis Pasir mulai sekarang kamu wajib teliti dalam memilih tipe pasir yang akan anda pergunakan untuk membangun sebuah Konstruksi. Kalau anda berencana membeli pasir dari kami Sistem Pemesanan nya yakni dengan Email data domisili lengkap dan nomor handphond saja, kami akan lantas mengirimnya ke lokasi proyek anda tanpa ada tambahan biaya apapun. Harga yang kami berikan merupakan telah termasuk biaya pengiriman dan penurunan jadi anda tidak perlu kuatir dengan pembengkakan harga lagi. Metode pembayaran yang kami terapkan juga benar-benar aman, yaitu anda bayar setelah material terkirim ke daerah anda atau di ucap dengan istilah COD (Cash On Delivery). Anda juga dapat konsultasi atau negosiasi dengan kami melewati no telepon yang ada di situs ini.
 

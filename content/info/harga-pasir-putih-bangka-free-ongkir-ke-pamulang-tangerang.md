@@ -160,7 +160,7 @@ Dibawah ini Daftar Harga Bahan Bangunan Terbaru yang kami jual.
 
 ## Sistem Pengorderan Pasir Gratis Ongkir dan Bongkar Di Pamulang Tangerang
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Sesudah anda mengetahui Macam - Ragam Jenis Pasir mulai kini kamu harus cermat di dalam memilih jenis pasir yg akan kamu pergunakan untuk membangun sebuah Konstruksi. Jikalau anda akan membeli pasir dari kami Cara Pengorderan nya adalah dengan sms data domisili lengkap dan nomor telepon saja, kami akan seketika mengirimnya ke lokasi proyek anda tanpa ada tambahan biaya apa saja. Harga yang kami berikan yakni telah termasuk ongkir dan bongkar jadi anda tidak perlu khawatir dengan penambahan ongkos lagi. Metode pembayaran yang kami terapkan juga amat aman, merupakan anda bayar sesudah material sampai ke tempat anda atau di sebut dengan istilah COD (Cash On Delivery). Anda juga bisa konsultasi atau diplomasi dengan kami lewat no telepon yang ada di web ini.
 

@@ -55,7 +55,7 @@ Seandainya dibandingi dg material bangunan lainnya, batako trus memiliki harga s
 
 ## Metode Pengorderan Bata Merah, Batako & Hebel Di Curug Depok
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/IEs5XPt-xyU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/IEs5XPt-xyU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Segalanya tentu telah tahu fungsi utama batu bata mulai diterapkan untuk membuat tembok, pagar tempat tinggal dan lainnya. Seiring perkembangannya batu batu sekarang sudah ada batu bata merah, batako hitam dan hebel. Bila sekarang ini anda memiliki agenda untuk membangun sebuah tempat tinggal yg idam-idamkan|impian|masa depan} dan membutuhkan bahan batu bata. Maka silahkan memesan batu bata kepada toko penyedia material batu bata yg berkualitas dan terpercaya.
 

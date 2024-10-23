@@ -63,7 +63,7 @@ Baja ringan SNI ditawarkan dengan hitungan harga selaras dengan ketebalan dan di
 
 ## System Pembelian Bondek, Wiremesh Dan Baja Ringan Di Karawaci Tangerang
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/RlgIAwKCWFI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/RlgIAwKCWFI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Apabila anda berencana mengorder material melalui Harga Bondek Wiremesh Baja Ringan Kirim Ke Karawaci Tangerang online karenanya salah satunya dapat memakai cara pembayaran bayar ditempat. Dimana sistem bayar ditempat, pembeli semestinya membayar orderan dengan pembayaran tunai ketika barang yang dipesan tiba di tempat tujuan. Berikut ini akan ditunjukkan langkah pengorderan bondek, wiremesh dan baja ringan secara COD yang perlu anda ketahui.
 

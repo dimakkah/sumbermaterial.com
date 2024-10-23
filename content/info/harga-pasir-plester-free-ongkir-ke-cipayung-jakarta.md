@@ -119,7 +119,7 @@ Berikut ini Urutan Harga Bahan Material Alam Terlengkap yang kami jual.
 
 ## Cara Pengorderan Pasir Bebas Ongkos Kirim dan Bongkar Di Cipayung Jakarta
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Sesudah kamu mengetahui Macam - Jenis model Pasir mulai kini kalian semestinya akurat di dalam memilih tipe pasir yang akan anda gunakan untuk membangun sebuah Konstruksi. Jikalau anda mau membeli pasir dari kami Metode Pemesanan nya yaitu dengan Email data alamat lengkap dan nomor HP saja, kami akan lantas mengirimnya ke lokasi proyek anda dengan tanpa tambahan biaya apapun. Harga yang kami berikan yaitu telah termasuk ongkir dan tumpah jadi anda tidak perlu cemas dengan pembengkakan ongkos lagi. Metode pembayaran yang kami terapkan juga benar-benar aman, adalah anda bayar setelah material sampai ke daerah anda atau di sebut dengan istilah COD (Cash On Delivery). Anda juga bisa konsultasi atau diplomasi dengan kami via no telepon yang ada di website ini.
 

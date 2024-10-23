@@ -160,7 +160,7 @@ Dibawah ini List Harga Bahan Material Terupdate yang kami jual.
 
 ## Sistem Pemesanan Pasir Bebas Ongkos Kirim dan Kuli Di Pondok Rangon Jakarta
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Setelah anda memahami model - model Macam Pasir mulai sekarang kalian sepatutnya akurat dalam memilih macam pasir yg akan anda gunakan untuk membangun sebuah Konstruksi Bangunan. Bila anda berencana membeli pasir dari kami Sistem Pengorderan nya yaitu dengan whatsapp data alamat komplit dan nomor HP saja, kami akan lantas mengirimnya ke lokasi proyek anda tanpa ada tambahan biaya apa saja. Harga yang kami berikan merupakan telah termasuk ongkir dan bongkar jadi anda tidak perlu khawatir dengan penambahan biaya lagi. Sistem pembayaran yang kami terapkan juga sungguh-sungguh aman, yaitu anda bayar setelah material terkirim ke lokasi anda atau di ucap dengan istilah COD (Cash On Delivery). Anda juga dapat konsultasi atau diplomasi dengan kami melalui no telepon yang ada di web ini.
 

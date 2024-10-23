@@ -160,7 +160,7 @@ Dibawah ini Daftar Harga Bahan Material Terupdate yang kami jual.
 
 ## Sistem Pemesanan Pasir Free Ongkos Kirim dan Kuli Di Cipete Selatan Jakarta
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Setelah kalian mengenal Jenis - Macam Jenis Pasir mulai kini anda semestinya cermat dalam memilih macam pasir yg akan kamu manfaatkan untuk membangun sebuah Bangunan. Apabila anda berencana membeli pasir dari kami Cara Pemesanan nya yaitu dengan Email data domisili lengkap dan nomor HP saja, kami akan segera mengirimnya ke lokasi proyek anda tanpa ada tambahan ongkos apapun. Harga yang kami berikan yaitu sudah termasuk ongkir dan tumpah jadi anda tak perlu kuatir dengan penambahan ongkos lagi. Sistem pembayaran yang kami terapkan juga benar-benar aman, ialah anda bayar sesudah material sampai ke lokasi anda atau di ucap dengan istilah COD (Cash On Delivery). Anda juga bisa konsultasi atau diplomasi dengan kami lewat no telepon yang ada di website ini.
 

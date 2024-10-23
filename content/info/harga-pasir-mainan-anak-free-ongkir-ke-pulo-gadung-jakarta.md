@@ -160,7 +160,7 @@ Berikut Daftar Harga Bahan Bangunan Free Ongkir yang kami jual.
 
 ## Sistem Pengorderan Pasir Free Ongkir dan Penurunan Di Pulo Gadung Jakarta
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Sesudah kalian mengetahui Jenis - Tipe Ragam Pasir mulai kini anda sepatutnya cermat dalam memilih macam pasir yg akan kalian pergunakan untuk membangun sebuah Konstruksi. Jika anda berencana membeli pasir dari kami Sistem Pengorderan nya ialah dengan Email data alamat lengkap dan nomor handphond saja, kami akan segera mengirimnya ke lokasi proyek anda dengan tanpa tambahan biaya apapun. Harga yang kami berikan adalah telah termasuk biaya pengiriman dan penurunan jadi anda tak perlu kuatir dengan pembengkakan harga lagi. Sistem pembayaran yang kami terapkan juga sangat aman, yakni anda bayar setelah material sampai ke daerah anda atau di sebut dengan istilah COD (Cash On Delivery). Anda juga bisa konsultasi atau diplomasi dengan kami melewati no telepon yang ada di web ini.
 

@@ -160,7 +160,7 @@ Berikut Urutan Harga Bahan Bangunan Free Ongkir yang kami jual.
 
 ## Metode Pengorderan Pasir Bebas Biaya Pengiriman dan Penurunan Di Cilamaya Kulon Karawang
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Sesudah anda memahami Jenis - Ragam Jenis Pasir mulai sekarang kamu wajib cermat di dalam memilih tipe pasir yg akan kalian manfaatkan untuk membangun sebuah Bangunan. Kalau anda hendak membeli pasir dari kami Sistem Pengorderan nya merupakan dengan memberikan data domisili komplit dan nomor HP saja, kami akan lantas mengirimnya ke lokasi proyek anda tanpa ada tambahan biaya apapun. Harga yang kami berikan yaitu telah termasuk ongkir dan tumpah jadi anda tidak perlu khawatir dengan pembengkakan ongkos lagi. Metode pembayaran yang kami terapkan juga benar-benar aman, merupakan anda bayar sesudah material sampe ke lokasi anda atau di sebut dengan istilah COD (Cash On Delivery). Anda juga dapat konsultasi atau diplomasi dengan kami via no telepon yang ada di laman ini.
 

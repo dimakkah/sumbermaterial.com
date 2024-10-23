@@ -49,7 +49,7 @@ Besi beton sendiri memiliki beberapa jenis ukuran pas dengan fungsinya. Apakah i
 
 ## Daftar Harga Besi Beton Polos & Ulir Di Grogol Depok
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/RlgIAwKCWFI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/RlgIAwKCWFI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 **Daftar Harga Besi Beton Polos & Ulir Di Grogol Depok**
 

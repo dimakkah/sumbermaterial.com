@@ -160,7 +160,7 @@ Berikut ini Price List Harga Bahan Material Termurah yang kami jual.
 
 ## Metode Pengorderan Pasir Bebas Biaya Pengiriman dan Kuli Di Sukasari Bogor
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Sesudah anda mengenal Ragam - Jenis Tipe Pasir mulai kini kalian sepatutnya teliti dalam memilih macam pasir yg akan kalian manfaatkan untuk membangun sebuah Bangunan. Bila anda hendak membeli pasir dari kami Sistem Pengorderan nya merupakan dengan whatsapp data alamat lengkap dan nomor HP saja, kami akan lantas mengirimnya ke lokasi proyek anda dengan tidak ada tambahan biaya apapun. Harga yang kami berikan yakni sudah termasuk biaya pengiriman dan bongkar jadi anda tidak perlu cemas dengan pembengkakan harga lagi. Metode pembayaran yang kami terapkan juga benar-benar aman, adalah anda bayar setelah material sampai ke lokasi anda atau di sebut dengan istilah COD (Cash On Delivery). Anda juga dapat konsultasi atau perundingan dengan kami melewati no telepon yang ada di website ini.
 

@@ -119,7 +119,7 @@ Dibawah ini Daftar Harga Bahan Material Alam Free Ongkir yang kami jual.
 
 ## Metode Pemesanan Pasir Gratis Biaya Pengiriman dan Kuli Di Tegal Alur Jakarta
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Setelah anda mengetahui Tipe - Macam Tipe Pasir mulai sekarang kamu seharusnya teliti di dalam memilih jenis pasir yg akan kamu manfaatkan untuk membangun sebuah Bangunan. Jika anda akan membeli pasir dari kami Cara Pengorderan nya yaitu dengan memberikan data alamat lengkap dan nomor handphond saja, kami akan langsung mengirimnya ke lokasi proyek anda dengan tidak ada tambahan biaya apa saja. Harga yang kami berikan adalah sudah termasuk ongkos kirim dan bongkar jadi anda tak perlu cemas dengan penambahan biaya lagi. Cara pembayaran yang kami terapkan juga benar-benar aman, adalah anda bayar sesudah material terkirim ke tempat anda atau di sebut dengan istilah COD (Cash On Delivery). Anda juga bisa konsultasi atau perundingan dengan kami melalui no telepon yang ada di website ini.
 

@@ -55,7 +55,7 @@ Bila diperbandingkan dg material bangunan lainnya, batako trus memiliki harga se
 
 ## Cara Pesan Bata Merah, Batako & Hebel Di Cilamaya Kulon Karawang
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/IEs5XPt-xyU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/IEs5XPt-xyU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Semua tentunya telah tahu kegunaan utama batu bata mulai dipakai untuk membuat tembok, pagar gedung dan lainnya. Seiring perkembangannya batu batu kini sudah ada batu bata merah, batako trus hitam dan bata ringan. Jikalau saat ini anda memiliki agenda untuk membuat sebuah tempat tinggal yang idam-idamkan|impian|masa depan} dan membutuhkan bahan batu bata. Maka silahkan memesan batu bata kepada toko penyedia material batu bata yang berkualitas dan terpercaya.
 

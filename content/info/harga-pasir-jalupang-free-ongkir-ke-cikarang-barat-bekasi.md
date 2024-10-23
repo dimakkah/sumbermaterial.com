@@ -119,7 +119,7 @@ Dibawah ini Price List Harga Bahan Bangunan Termurah yang kami jual.
 
 ## Sistem Pengorderan Pasir Bebas Ongkos Kirim dan Kuli Di Cikarang Barat Bekasi
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Sesudah anda mengenal Ragam - Macam Tipe Pasir mulai sekarang kamu sepatutnya akurat dalam memilih jenis pasir yang akan anda manfaatkan untuk membangun sebuah Konstruksi Bangunan. Apabila anda berencana membeli pasir dari kami Metode Pengorderan nya adalah dengan memberikan data domisili komplit dan nomor handphond saja, kami akan langsung mengirimnya ke lokasi proyek anda dengan tidak ada tambahan ongkos apapun. Harga yang kami berikan yaitu telah termasuk ongkir dan tumpah jadi anda tidak perlu kuatir dengan pembengkakan biaya lagi. Metode pembayaran yang kami terapkan juga betul-betul aman, ialah anda bayar setelah material sampe ke tempat anda atau di sebut dengan istilah COD (Cash On Delivery). Anda juga bisa konsultasi atau perundingan dengan kami melalui no telepon yang ada di website ini.
 

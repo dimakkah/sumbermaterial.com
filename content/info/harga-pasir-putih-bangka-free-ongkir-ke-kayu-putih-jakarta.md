@@ -119,7 +119,7 @@ Dibawah ini Urutan Harga Bahan Material Alam Terupdate yang kami jual.
 
 ## Cara Pengorderan Pasir Free Biaya Pengiriman dan Kuli Di Kayu Putih Jakarta
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Setelah kalian mengetahui Macam - model Tipe Pasir mulai sekarang anda harus teliti dalam memilih tipe pasir yg akan anda pakai untuk membangun sebuah Konstruksi. Seandainya anda akan membeli pasir dari kami Metode Pengorderan nya merupakan dengan memberikan data alamat lengkap dan nomor handphond saja, kami akan lantas mengirimnya ke lokasi proyek anda tanpa ada tambahan ongkos apa saja. Harga yang kami berikan yaitu telah termasuk biaya pengiriman dan tumpah jadi anda tidak perlu cemas dengan pembengkakan harga lagi. Metode pembayaran yang kami terapkan juga amat aman, ialah anda bayar sesudah material sampe ke daerah anda atau di ucap dengan istilah COD (Cash On Delivery). Anda juga bisa konsultasi atau perundingan dengan kami melewati no telepon yang ada di situs ini.
 

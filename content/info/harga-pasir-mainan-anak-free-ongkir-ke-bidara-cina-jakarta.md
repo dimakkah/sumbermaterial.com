@@ -119,7 +119,7 @@ Berikut ini Urutan Harga Bahan Bangunan Terlengkap yang kami jual.
 
 ## Sistem Pemesanan Pasir Gratis Biaya Pengiriman dan Penurunan Di Bidara Cina Jakarta
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Sesudah kalian mengenal model - Macam Tipe Pasir mulai sekarang anda seharusnya akurat di dalam memilih tipe pasir yg akan anda pergunakan untuk membangun sebuah Konstruksi. Sekiranya anda hendak membeli pasir dari kami Sistem Pengorderan nya yakni dengan sms data domisili lengkap dan nomor handphond saja, kami akan langsung mengirimnya ke lokasi proyek anda dengan tanpa tambahan biaya apapun. Harga yang kami berikan yakni telah termasuk biaya pengiriman dan bongkar jadi anda tak perlu khawatir dengan pembengkakan ongkos lagi. Cara pembayaran yang kami terapkan juga amat aman, yaitu anda bayar setelah material sampai ke lokasi anda atau di ucap dengan istilah COD (Cash On Delivery). Anda juga bisa konsultasi atau negosiasi dengan kami melewati no telepon yang ada di situs ini.
 

@@ -160,7 +160,7 @@ Berikut ini Price List Harga Bahan Bangunan Terupdate yang kami jual.
 
 ## Metode Pemesanan Pasir Bebas Biaya Pengiriman dan Penurunan Di Guntur Jakarta
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Sesudah kalian memahami Jenis - Ragam Ragam Pasir mulai sekarang kalian harus akurat di dalam memilih ragam pasir yang akan anda pergunakan untuk membangun sebuah Bangunan. Apabila anda berencana membeli pasir dari kami Sistem Pengorderan nya yaitu dengan memberikan data domisili lengkap dan nomor handphond saja, kami akan langsung mengirimnya ke lokasi proyek anda tanpa ada tambahan ongkos apapun. Harga yang kami berikan yaitu sudah termasuk biaya pengiriman dan penurunan jadi anda tidak perlu kuatir dengan penambahan biaya lagi. Sistem pembayaran yang kami terapkan juga betul-betul aman, merupakan anda bayar setelah material sampe ke daerah anda atau di ucap dengan istilah COD (Cash On Delivery). Anda juga bisa konsultasi atau perundingan dengan kami melalui no telepon yang ada di situs ini.
 

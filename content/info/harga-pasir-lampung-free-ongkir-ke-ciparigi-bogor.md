@@ -119,7 +119,7 @@ Berikut ini Daftar Harga Bahan Bangunan Terupdate yang kami jual.
 
 ## Sistem Pengorderan Pasir Gratis Ongkos Kirim dan Kuli Di Ciparigi Bogor
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Sesudah anda mengenal model - Macam Jenis Pasir mulai kini kamu mesti akurat di dalam memilih model pasir yg akan kamu pergunakan untuk membangun sebuah Bangunan. Seandainya anda hendak membeli pasir dari kami Sistem Pengorderan nya yaitu dengan Email data domisili lengkap dan nomor telepon saja, kami akan seketika mengirimnya ke lokasi proyek anda dengan tanpa tambahan ongkos apapun. Harga yang kami berikan yaitu telah termasuk ongkos kirim dan bongkar jadi anda tak perlu cemas dengan pembengkakan harga lagi. Sistem pembayaran yang kami terapkan juga sungguh-sungguh aman, ialah anda bayar sesudah material terkirim ke tempat anda atau di sebut dengan istilah COD (Cash On Delivery). Anda juga bisa konsultasi atau perundingan dengan kami melalui no telepon yang ada di situs ini.
 

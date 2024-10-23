@@ -119,7 +119,7 @@ Dibawah ini Urutan Harga Bahan Material Free Ongkir yang kami jual.
 
 ## Metode Pemesanan Pasir Gratis Ongkos Kirim dan Bongkar Di Cideng Jakarta
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Sesudah anda mengenal Macam - Macam model Pasir mulai sekarang kalian mesti teliti dalam memilih jenis pasir yg akan anda pergunakan untuk membangun sebuah Konstruksi. Bila anda mau membeli pasir dari kami Metode Pengorderan nya adalah dengan whatsapp data domisili komplit dan nomor HP saja, kami akan langsung mengirimnya ke lokasi proyek anda tanpa ada tambahan biaya apa saja. Harga yang kami berikan adalah sudah termasuk ongkir dan bongkar jadi anda tak perlu kuatir dengan penambahan ongkos lagi. Cara pembayaran yang kami terapkan juga benar-benar aman, yaitu anda bayar sesudah material sampai ke tempat anda atau di ucap dengan istilah COD (Cash On Delivery). Anda juga dapat konsultasi atau perundingan dengan kami melewati no telepon yang ada di laman ini.
 

@@ -119,7 +119,7 @@ Dibawah ini Price List Harga Bahan Material Alam Terupdate yang kami jual.
 
 ## Cara Pemesanan Pasir Free Ongkir dan Penurunan Di Beji Depok
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Sesudah anda mengetahui Tipe - Ragam Jenis Pasir mulai kini kalian sepatutnya akurat dalam memilih tipe pasir yg akan anda gunakan untuk membangun sebuah Konstruksi Bangunan. Kalau anda berencana membeli pasir dari kami Metode Pemesanan nya merupakan dengan sms data domisili komplit dan nomor handphond saja, kami akan langsung mengirimnya ke lokasi proyek anda dengan tanpa tambahan biaya apapun. Harga yang kami berikan adalah telah termasuk ongkir dan tumpah jadi anda tak perlu cemas dengan penambahan ongkos lagi. Cara pembayaran yang kami terapkan juga betul-betul aman, yaitu anda bayar setelah material terkirim ke daerah anda atau di sebut dengan istilah COD (Cash On Delivery). Anda juga dapat konsultasi atau perundingan dengan kami lewat no telepon yang ada di laman ini.
 

@@ -119,7 +119,7 @@ Berikut Urutan Harga Bahan Bangunan Terupdate yang kami jual.
 
 ## Sistem Pemesanan Pasir Bebas Biaya Pengiriman dan Kuli Di Cengkareng Timur Jakarta
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Setelah anda memahami model - Ragam Jenis Pasir mulai kini kalian patut teliti di dalam memilih macam pasir yang akan kalian pergunakan untuk membangun sebuah Konstruksi. Seandainya anda berencana membeli pasir dari kami Sistem Pemesanan nya yakni dengan memberikan data alamat lengkap dan nomor handphond saja, kami akan segera mengirimnya ke lokasi proyek anda dengan tidak ada tambahan biaya apa saja. Harga yang kami berikan yaitu telah termasuk biaya pengiriman dan tumpah jadi anda tak perlu kuatir dengan penambahan ongkos lagi. Sistem pembayaran yang kami terapkan juga betul-betul aman, adalah anda bayar setelah material sampai ke tempat anda atau di sebut dengan istilah COD (Cash On Delivery). Anda juga bisa konsultasi atau diplomasi dengan kami lewat no telepon yang ada di web ini.
 

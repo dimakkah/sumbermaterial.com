@@ -55,7 +55,7 @@ Seandainya dibandingkan dengan material bangunan lainnya, batako memiliki harga 
 
 ## Metode Pembelian Bata Merah, Batako & Hebel Di Sepatan Timur Tangerang
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/IEs5XPt-xyU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/IEs5XPt-xyU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Seluruhnya tentu sudah tahu kegunaan utama batu bata mulai digunakan untuk membuat tembok, pagar rumah dan lainnya. Bertepatan dengan perkembangannya batu batu kini telah ada batu bata merah, batako hitam dan hebel. Bila sekarang ini anda mempunyai rencana untuk membangun sebuah bangunan yg idam-idamkan|impian|masa depan} dan memerlukan bahan batu bata. Karenanya silahkan memesan batu bata kepada warung penyedia material batu bata yg bermutu dan terpercaya.
 

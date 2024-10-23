@@ -119,7 +119,7 @@ Dibawah ini Price List Harga Bahan Material Terbaru yang kami jual.
 
 ## Cara Pemesanan Pasir Gratis Ongkir dan Kuli Di Cisauk Tangerang
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Sesudah anda memahami Jenis - Macam Ragam Pasir mulai kini anda seharusnya cermat di dalam memilih ragam pasir yg akan kalian pakai untuk membangun sebuah Konstruksi Bangunan. Apabila anda hendak membeli pasir dari kami Sistem Pemesanan nya yaitu dengan memberikan data domisili lengkap dan nomor handphond saja, kami akan seketika mengirimnya ke lokasi proyek anda dengan tidak ada tambahan biaya apapun. Harga yang kami berikan yaitu telah termasuk biaya pengiriman dan penurunan jadi anda tak perlu kuatir dengan penambahan ongkos lagi. Sistem pembayaran yang kami terapkan juga benar-benar aman, yaitu anda bayar sesudah material sampai ke daerah anda atau di ucap dengan istilah COD (Cash On Delivery). Anda juga dapat konsultasi atau diplomasi dengan kami via no telepon yang ada di web ini.
 

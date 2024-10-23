@@ -119,7 +119,7 @@ Berikut Daftar Harga Bahan Bangunan Free Ongkir yang kami jual.
 
 ## Sistem Pengorderan Pasir Free Ongkir dan Penurunan Di Rambtan Jakarta
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Sesudah anda mengenal model - model Tipe Pasir mulai sekarang kamu harus cermat di dalam memilih macam pasir yang akan anda pergunakan untuk membangun sebuah Konstruksi. Kalau anda akan membeli pasir dari kami Cara Pemesanan nya yaitu dengan whatsapp data domisili lengkap dan nomor handphond saja, kami akan langsung mengirimnya ke lokasi proyek anda tanpa ada tambahan biaya apa saja. Harga yang kami berikan ialah telah termasuk ongkir dan penurunan jadi anda tak perlu cemas dengan penambahan biaya lagi. Cara pembayaran yang kami terapkan juga betul-betul aman, adalah anda bayar setelah material sampai ke daerah anda atau di ucap dengan istilah COD (Cash On Delivery). Anda juga bisa konsultasi atau diplomasi dengan kami via no telepon yang ada di web ini.
 

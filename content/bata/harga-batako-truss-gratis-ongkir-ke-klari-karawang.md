@@ -55,7 +55,7 @@ Sekiranya diperbandingkan dengan bahan bangunan lainnya, batako press mempunyai 
 
 ## Sistem Pemesanan Bata Merah, Batako & Hebel Di Klari Karawang
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/IEs5XPt-xyU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/IEs5XPt-xyU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Segalanya tentu telah tahu kegunaan utama batu bata mulai diterapkan untuk membikin tembok, pagar bangunan dan lainnya. Sejalan perkembangannya batu batu sekarang sudah ada batu bata merah, batako press hitam dan bata ringan. Bila sekarang ini anda memiliki agenda untuk membangun sebuah rumah yg idam-idamkan|impian|masa depan} dan memerlukan material batu bata. Karenanya silahkan mengorder batu bata terhadap toko penyedia material batu bata yg berkualitas dan terpercaya.
 

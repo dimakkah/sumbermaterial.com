@@ -55,7 +55,7 @@ Jikalau diperbandingkan dengan bahan bangunan lainnya, batako trus mempunyai har
 
 ## System Pengorderan Bata Merah, Batako & Hebel Di Bukit Duri Jakarta
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/IEs5XPt-xyU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/IEs5XPt-xyU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Segalanya tentu sudah tahu kegunaan utama batu bata mulai diterapkan untuk membikin tembok, pagar rumah dan lainnya. Bertepatan dengan perkembangannya batu batu sekarang telah ada batu bata merah, batako press hitam dan herbel. Bila dikala ini anda memiliki agenda untuk membangun sebuah bangunan yg idam-idamkan|impian|masa depan} dan membutuhkan material batu bata. Maka silahkan mengorder batu bata kepada kios penyedia bahan batu bata yang bermutu dan terpercaya.
 

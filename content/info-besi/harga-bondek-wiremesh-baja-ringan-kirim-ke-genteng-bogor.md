@@ -63,7 +63,7 @@ Baja ringan SNI ditawarkan dengan hitungan harga sesuai dengan ketebalan dan dih
 
 ## System Order Bondek, Wiremesh Dan Baja Ringan Di Genteng Bogor
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/RlgIAwKCWFI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/RlgIAwKCWFI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Jika anda berencana membeli material melewati Harga Bondek Wiremesh Baja Ringan Kirim Ke Genteng Bogor online maka salah satunya bisa memakai sistem pembayaran Bayar Setelah sampe. Dimana cara Bayar Setelah sampe, pembeli seharusnya membayar orderan dengan pembayaran tunai ketika barang yang dipesan sampai di lokasi tujuan. Berikut ini akan dijelaskan langkah pemesanan bondek, wiremesh dan baja ringan secara COD yang perlu anda kenal.
 

@@ -119,7 +119,7 @@ Berikut ini List Harga Bahan Material Alam Terbaru yang kami jual.
 
 ## Metode Pengorderan Pasir Bebas Ongkos Kirim dan Penurunan Di Tajur Kecamatan Bogor
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Sesudah kamu mengenal Jenis - Jenis Tipe Pasir mulai kini anda patut akurat dalam memilih model pasir yang akan anda pergunakan untuk membangun sebuah Konstruksi. Apabila anda hendak membeli pasir dari kami Sistem Pemesanan nya yaitu dengan sms data domisili komplit dan nomor HP saja, kami akan seketika mengirimnya ke lokasi proyek anda dengan tanpa tambahan biaya apapun. Harga yang kami berikan yakni telah termasuk ongkos kirim dan bongkar jadi anda tidak perlu khawatir dengan pembengkakan ongkos lagi. Metode pembayaran yang kami terapkan juga sangat aman, yaitu anda bayar sesudah material terkirim ke daerah anda atau di sebut dengan istilah COD (Cash On Delivery). Anda juga dapat konsultasi atau negosiasi dengan kami melewati no telepon yang ada di laman ini.
 

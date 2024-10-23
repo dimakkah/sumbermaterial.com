@@ -55,7 +55,7 @@ Seandainya dibandingi dg bahan bangunan lainnya, batako mempunyai harga sekitar 
 
 ## System Pembelian Bata Merah, Batako & Hebel Di Mampang Prapatan Jakarta
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/IEs5XPt-xyU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/IEs5XPt-xyU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Segalanya tentu telah tahu fungsi utama batu bata mulai diterapkan untuk membuat tembok, pagar tempat tinggal dan lainnya. Sejalan perkembangannya batu batu sekarang sudah ada batu bata merah, batako trus hitam dan bata ringan. Jika dikala ini anda memiliki agenda untuk membuat sebuah gedung yang idam-idamkan|impian|masa depan} dan membutuhkan bahan batu bata. Karenanya silahkan mengorder batu bata terhadap kios penyedia material batu bata yang berkwalitas dan terpercaya.
 

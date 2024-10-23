@@ -63,7 +63,7 @@ Baja ringan SNI ditawarkan dengan hitungan harga pas dengan ketebalan dan dihitu
 
 ## System Order Bondek, Wiremesh Dan Baja Ringan Di Cikoko Jakarta
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/RlgIAwKCWFI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/RlgIAwKCWFI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Kalau anda berencana membeli material melalui Harga Bondek Wiremesh Baja Ringan Kirim Ke Cikoko Jakarta online karenanya salah satunya bisa memakai sistem pembayaran bayar ditempat. Dimana metode bayar ditempat, pembeli sepatutnya membayar orderan dengan pembayaran tunai ketika barang yang dipesan sampai di lokasi tujuan. Dibawah ini akan diterangkan langkah pemesanan bondek, wiremesh dan baja ringan secara COD yang perlu anda ketahui.
 

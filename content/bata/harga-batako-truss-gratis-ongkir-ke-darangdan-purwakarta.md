@@ -55,7 +55,7 @@ Kalau diperbandingkan dg material bangunan lainnya, batako trus memiliki harga s
 
 ## Sistem Beli Bata Merah, Batako & Hebel Di Darangdan Purwakarta
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/IEs5XPt-xyU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/IEs5XPt-xyU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Seluruhnya tentu sudah tahu fungsi utama batu bata mulai digunakan untuk membikin tembok, pagar bangunan dan lainnya. Sejalan perkembangannya batu batu kini telah ada batu bata merah, batako trus hitam dan hebel. Kalau sekarang ini anda memiliki agenda untuk membangun sebuah tempat tinggal yg idam-idamkan|impian|masa depan} dan memerlukan bahan batu bata. Karenanya silahkan memesan batu bata terhadap toko penyedia bahan batu bata yang berkwalitas dan terpercaya.
 

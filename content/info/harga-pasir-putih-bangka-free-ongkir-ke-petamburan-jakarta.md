@@ -160,7 +160,7 @@ Berikut ini List Harga Bahan Material Alam Terlengkap yang kami jual.
 
 ## Sistem Pemesanan Pasir Gratis Ongkir dan Bongkar Di Petamburan Jakarta
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Setelah anda memahami model - Ragam Tipe Pasir mulai sekarang kalian semestinya teliti dalam memilih tipe pasir yang akan anda manfaatkan untuk membangun sebuah Bangunan. Jika anda akan membeli pasir dari kami Cara Pengorderan nya yaitu dengan sms data alamat lengkap dan nomor handphond saja, kami akan seketika mengirimnya ke lokasi proyek anda tanpa ada tambahan ongkos apa saja. Harga yang kami berikan adalah sudah termasuk biaya pengiriman dan tumpah jadi anda tidak perlu kuatir dengan penambahan ongkos lagi. Sistem pembayaran yang kami terapkan juga sungguh-sungguh aman, adalah anda bayar setelah material sampai ke daerah anda atau di sebut dengan istilah COD (Cash On Delivery). Anda juga bisa konsultasi atau diplomasi dengan kami melalui no telepon yang ada di web ini.
 

@@ -63,7 +63,7 @@ Baja ringan SNI dijual dengan hitungan harga sesuai dengan ketebalan dan dihitun
 
 ## Metode Pengorderan Bondek, Wiremesh Dan Baja Ringan Di Joglo Jakarta
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/RlgIAwKCWFI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/RlgIAwKCWFI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Jika anda berencana mengorder material melewati Harga Bondek Wiremesh Baja Ringan Kirim Ke Joglo Jakarta online karenanya salah satunya bisa menerapkan metode pembayaran Bayar Setelah sampe. Dimana metode COD, pembeli sepatutnya membayar pesanan dengan pembayaran tunai ketika barang yang diorder sampai di lokasi tujuan. Berikut ini akan ditunjukkan langkah pembelian bondek, wiremesh dan baja ringan secara COD yang perlu anda kenal.
 

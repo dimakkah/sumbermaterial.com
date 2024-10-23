@@ -51,7 +51,7 @@ Semua orang pasti mengharapkan mempunyai rumah yang berkualitas bagus dan nyaman
 
 ## Sistem Pembelian Besi Beton Per Batang Di Sungai Bambu Jakarta
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/RlgIAwKCWFI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/RlgIAwKCWFI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Sekarang setiap dari anda tentunya telah tahu guna utama besi, wf, hollow mulai digunakan untuk membuat tulangan beton, kanopi, pagar rumah dan lainnya. Seiring perkembanganya batu batu sekarang telah ada besi, wf, hollow dengan bermacam ukuran dan kualitas. Kalau saat ini anda mempunyai rencana untuk membangun sebuah rumah impian dan memerlukan bahan besi, wf, hollow. Karenanya silahkan mengorder besi, wf, hollow kepada kami selaku penyedia bahan besi, wf, hollow yang berkualitas dan terpercaya.
 

@@ -55,7 +55,7 @@ Seandainya dibandingi dengan material bangunan lainnya, batako trus mempunyai ha
 
 ## System Pesan Bata Merah, Batako & Hebel Di Mulyaharja Bogor
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/IEs5XPt-xyU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/IEs5XPt-xyU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Segalanya tentu sudah tahu kegunaan utama batu bata mulai diaplikasikan untuk membikin tembok, pagar rumah dan lainnya. Sejalan perkembangannya batu batu kini telah ada batu bata merah, batako trus hitam dan bata ringan. Sekiranya dikala ini anda mempunyai agenda untuk membangun sebuah bangunan yg idam-idamkan|impian|masa depan} dan memerlukan bahan batu bata. Karenanya silahkan mengorder batu bata terhadap warung penyedia bahan batu bata yang berkualitas dan terpercaya.
 

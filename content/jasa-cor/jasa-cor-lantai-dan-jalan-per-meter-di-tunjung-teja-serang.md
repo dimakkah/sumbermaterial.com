@@ -85,7 +85,7 @@ Blow molding adalah sebuah proses pengecoran yang memanfaatkan beberapa produk s
 
 ## List Harga Di Tunjung Teja Serang
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/MVuQWwYFCiA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/MVuQWwYFCiA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Daftar Biaya Jasa Cor Lantai dan Jalan Per Meter Di Tunjung Teja Serang
 

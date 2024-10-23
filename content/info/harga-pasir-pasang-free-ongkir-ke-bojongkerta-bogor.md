@@ -160,7 +160,7 @@ Dibawah ini Price List Harga Bahan Bangunan Terbaru yang kami jual.
 
 ## Sistem Pemesanan Pasir Bebas Biaya Pengiriman dan Penurunan Di Bojongkerta Bogor
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Setelah kalian mengetahui Ragam - Jenis Macam Pasir mulai kini anda patut akurat di dalam memilih ragam pasir yg akan anda manfaatkan untuk membangun sebuah Konstruksi Bangunan. Apabila anda mau membeli pasir dari kami Cara Pengorderan nya merupakan dengan Email data domisili lengkap dan nomor telepon saja, kami akan lantas mengirimnya ke lokasi proyek anda dengan tidak ada tambahan ongkos apa saja. Harga yang kami berikan yaitu sudah termasuk ongkir dan tumpah jadi anda tak perlu khawatir dengan penambahan biaya lagi. Cara pembayaran yang kami terapkan juga amat aman, ialah anda bayar sesudah material sampe ke tempat anda atau di ucap dengan istilah COD (Cash On Delivery). Anda juga dapat konsultasi atau diplomasi dengan kami melewati no telepon yang ada di laman ini.
 

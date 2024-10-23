@@ -55,7 +55,7 @@ Seandainya dibandingi dengan material bangunan lainnya, batako trus mempunyai ha
 
 ## Metode Pengorderan Bata Merah, Batako & Hebel Di Rawamerta Karawang
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/IEs5XPt-xyU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/IEs5XPt-xyU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Segalanya tentu telah tahu kegunaan utama batu bata mulai digunakan untuk membuat tembok, pagar bangunan dan lainnya. Bersamaan dengan perkembangannya batu batu kini telah ada batu bata merah, batako hitam dan bata ringan. Jikalau saat ini anda memiliki agenda untuk membangun sebuah gedung yg idam-idamkan|impian|masa depan} dan memerlukan bahan batu bata. Maka silahkan memesan batu bata terhadap warung penyedia bahan batu bata yg berkualitas dan terpercaya.
 

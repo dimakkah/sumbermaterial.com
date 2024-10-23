@@ -160,7 +160,7 @@ Berikut Urutan Harga Bahan Material Termurah yang kami jual.
 
 ## Sistem Pemesanan Pasir Free Biaya Pengiriman dan Bongkar Di Tirtamulya Karawang
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Setelah kalian mengetahui Tipe - Tipe Ragam Pasir mulai kini kamu harus akurat di dalam memilih ragam pasir yg akan anda manfaatkan untuk membangun sebuah Konstruksi Bangunan. Apabila anda mau membeli pasir dari kami Sistem Pemesanan nya adalah dengan whatsapp data domisili lengkap dan nomor handphond saja, kami akan seketika mengirimnya ke lokasi proyek anda tanpa ada tambahan biaya apapun. Harga yang kami berikan ialah telah termasuk ongkos kirim dan tumpah jadi anda tidak perlu kuatir dengan penambahan harga lagi. Cara pembayaran yang kami terapkan juga sangat aman, merupakan anda bayar sesudah material terkirim ke lokasi anda atau di sebut dengan istilah COD (Cash On Delivery). Anda juga dapat konsultasi atau perundingan dengan kami lewat no telepon yang ada di laman ini.
 

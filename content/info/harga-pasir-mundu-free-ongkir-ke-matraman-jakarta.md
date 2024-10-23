@@ -119,7 +119,7 @@ Berikut ini Daftar Harga Bahan Material Terupdate yang kami jual.
 
 ## Metode Pemesanan Pasir Free Ongkir dan Penurunan Di Matraman Jakarta
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Sesudah kalian mengetahui Ragam - Tipe Macam Pasir mulai sekarang kamu mesti teliti di dalam memilih tipe pasir yg akan anda pergunakan untuk membangun sebuah Bangunan. Apabila anda hendak membeli pasir dari kami Sistem Pemesanan nya yakni dengan whatsapp data domisili lengkap dan nomor handphond saja, kami akan seketika mengirimnya ke lokasi proyek anda tanpa ada tambahan ongkos apapun. Harga yang kami berikan adalah telah termasuk biaya pengiriman dan tumpah jadi anda tidak perlu kuatir dengan pembengkakan biaya lagi. Cara pembayaran yang kami terapkan juga amat aman, yakni anda bayar sesudah material sampai ke lokasi anda atau di sebut dengan istilah COD (Cash On Delivery). Anda juga bisa konsultasi atau perundingan dengan kami melalui no telepon yang ada di situs ini.
 

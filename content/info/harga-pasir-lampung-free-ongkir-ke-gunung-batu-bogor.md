@@ -160,7 +160,7 @@ Berikut Daftar Harga Bahan Bangunan Free Ongkir yang kami jual.
 
 ## Metode Pemesanan Pasir Free Ongkos Kirim dan Kuli Di Gunung Batu Bogor
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Setelah kalian mengetahui model - Ragam model Pasir mulai kini kamu harus akurat di dalam memilih model pasir yg akan anda pergunakan untuk membangun sebuah Bangunan. Sekiranya anda hendak membeli pasir dari kami Sistem Pengorderan nya ialah dengan memberikan data alamat komplit dan nomor telepon saja, kami akan langsung mengirimnya ke lokasi proyek anda dengan tanpa tambahan biaya apapun. Harga yang kami berikan merupakan sudah termasuk ongkos kirim dan tumpah jadi anda tak perlu khawatir dengan penambahan biaya lagi. Cara pembayaran yang kami terapkan juga sangat aman, ialah anda bayar setelah material sampe ke daerah anda atau di ucap dengan istilah COD (Cash On Delivery). Anda juga dapat konsultasi atau negosiasi dengan kami lewat no telepon yang ada di website ini.
 

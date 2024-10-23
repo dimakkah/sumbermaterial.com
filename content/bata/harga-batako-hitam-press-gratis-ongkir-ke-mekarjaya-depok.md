@@ -55,7 +55,7 @@ Bila diperbandingkan dg material bangunan lainnya, batako memiliki harga sekitar
 
 ## System Pembelian Bata Merah, Batako & Hebel Di Mekarjaya Depok
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/IEs5XPt-xyU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/IEs5XPt-xyU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Segalanya tentu telah tahu kegunaan utama batu bata mulai digunakan untuk membikin tembok, pagar rumah dan lainnya. Bersamaan dengan perkembangannya batu batu kini telah ada batu bata merah, batako trus hitam dan hebel. Jika saat ini anda memiliki rencana untuk membangun sebuah tempat tinggal yang idam-idamkan|impian|masa depan} dan memerlukan material batu bata. Maka silahkan mengorder batu bata kepada kios penyedia bahan batu bata yg berkualitas dan terpercaya.
 

@@ -119,7 +119,7 @@ Berikut Urutan Harga Bahan Material Terlengkap yang kami jual.
 
 ## Sistem Pemesanan Pasir Free Ongkir dan Bongkar Di Babakan Bogor
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Setelah kalian mengenal Jenis - Ragam Ragam Pasir mulai sekarang kamu semestinya akurat di dalam memilih macam pasir yg akan kalian pergunakan untuk membangun sebuah Konstruksi Bangunan. Bila anda hendak membeli pasir dari kami Sistem Pengorderan nya yaitu dengan memberikan data alamat lengkap dan nomor HP saja, kami akan seketika mengirimnya ke lokasi proyek anda dengan tidak ada tambahan biaya apa saja. Harga yang kami berikan merupakan telah termasuk ongkir dan tumpah jadi anda tak perlu khawatir dengan pembengkakan biaya lagi. Cara pembayaran yang kami terapkan juga sungguh-sungguh aman, merupakan anda bayar setelah material sampai ke lokasi anda atau di ucap dengan istilah COD (Cash On Delivery). Anda juga bisa konsultasi atau perundingan dengan kami melewati no telepon yang ada di website ini.
 

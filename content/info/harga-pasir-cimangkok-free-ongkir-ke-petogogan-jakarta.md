@@ -160,7 +160,7 @@ Berikut ini Daftar Harga Bahan Material Alam Terbaru yang kami jual.
 
 ## Sistem Pemesanan Pasir Gratis Ongkos Kirim dan Penurunan Di Petogogan Jakarta
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Sesudah kamu memahami Tipe - Jenis model Pasir mulai sekarang kalian seharusnya teliti di dalam memilih tipe pasir yg akan kalian gunakan untuk membangun sebuah Konstruksi. Kalau anda berencana membeli pasir dari kami Metode Pengorderan nya ialah dengan memberikan data domisili komplit dan nomor HP saja, kami akan lantas mengirimnya ke lokasi proyek anda dengan tanpa tambahan biaya apa saja. Harga yang kami berikan ialah telah termasuk ongkir dan bongkar jadi anda tidak perlu khawatir dengan penambahan ongkos lagi. Sistem pembayaran yang kami terapkan juga sangat aman, yaitu anda bayar sesudah material sampe ke daerah anda atau di ucap dengan istilah COD (Cash On Delivery). Anda juga bisa konsultasi atau perundingan dengan kami lewat no telepon yang ada di web ini.
 

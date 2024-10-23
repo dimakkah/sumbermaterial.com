@@ -119,7 +119,7 @@ Berikut ini Urutan Harga Bahan Bangunan Termurah yang kami jual.
 
 ## Sistem Pengorderan Pasir Free Biaya Pengiriman dan Bongkar Di Jelambar Jakarta
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Sesudah anda memahami Ragam - Jenis model Pasir mulai kini kalian wajib teliti dalam memilih model pasir yg akan kalian manfaatkan untuk membangun sebuah Konstruksi. Seandainya anda akan membeli pasir dari kami Sistem Pemesanan nya ialah dengan Email data alamat komplit dan nomor HP saja, kami akan lantas mengirimnya ke lokasi proyek anda dengan tidak ada tambahan ongkos apapun. Harga yang kami berikan merupakan sudah termasuk ongkos kirim dan penurunan jadi anda tak perlu cemas dengan pembengkakan ongkos lagi. Sistem pembayaran yang kami terapkan juga sungguh-sungguh aman, yakni anda bayar sesudah material terkirim ke daerah anda atau di sebut dengan istilah COD (Cash On Delivery). Anda juga bisa konsultasi atau diplomasi dengan kami melalui no telepon yang ada di web ini.
 

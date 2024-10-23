@@ -63,7 +63,7 @@ Baja ringan SNI ditawarkan dengan hitungan harga pas dengan ketebalan dan dihitu
 
 ## Cara Pembelian Bondek, Wiremesh Dan Baja Ringan Di Rawa Buaya Jakarta
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/RlgIAwKCWFI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/RlgIAwKCWFI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Jika anda berencana mengorder material melalui Harga Bondek Wiremesh Baja Ringan Kirim Ke Rawa Buaya Jakarta online karenanya salah satunya dapat memakai cara pembayaran bayar ditempat. Dimana cara Bayar Setelah sampe, pembeli mesti membayar pesanan dengan pembayaran tunai saat barang yang dipesan tiba di tempat tujuan. Berikut ini akan dibeberkan langkah pembelian bondek, wiremesh dan baja ringan secara COD yang perlu anda ketahui.
 

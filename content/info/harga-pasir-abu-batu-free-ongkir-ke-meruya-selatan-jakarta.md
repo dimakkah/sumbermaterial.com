@@ -160,7 +160,7 @@ Berikut ini Daftar Harga Bahan Material Terlengkap yang kami jual.
 
 ## Metode Pengorderan Pasir Gratis Ongkos Kirim dan Kuli Di Meruya Selatan Jakarta
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Setelah anda mengenal Tipe - Tipe Macam Pasir mulai sekarang kalian wajib akurat di dalam memilih ragam pasir yang akan anda manfaatkan untuk membangun sebuah Bangunan. Kalau anda mau membeli pasir dari kami Metode Pemesanan nya adalah dengan whatsapp data alamat lengkap dan nomor telepon saja, kami akan segera mengirimnya ke lokasi proyek anda dengan tanpa tambahan biaya apapun. Harga yang kami berikan yakni telah termasuk ongkir dan tumpah jadi anda tak perlu cemas dengan pembengkakan ongkos lagi. Sistem pembayaran yang kami terapkan juga sangat aman, ialah anda bayar setelah material sampe ke daerah anda atau di ucap dengan istilah COD (Cash On Delivery). Anda juga bisa konsultasi atau negosiasi dengan kami melewati no telepon yang ada di situs ini.
 

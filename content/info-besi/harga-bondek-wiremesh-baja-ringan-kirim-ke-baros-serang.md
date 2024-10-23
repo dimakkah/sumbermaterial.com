@@ -63,7 +63,7 @@ Baja ringan SNI dijual dengan hitungan harga selaras dengan ketebalan dan dihitu
 
 ## Sistem Pemesanan Bondek, Wiremesh Dan Baja Ringan Di Baros Serang
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/RlgIAwKCWFI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/RlgIAwKCWFI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Jika anda berencana membeli material melalui Harga Bondek Wiremesh Baja Ringan Kirim Ke Baros Serang online maka salah satunya bisa mengaplikasikan sistem pembayaran bayar ditempat. Dimana sistem COD, pembeli wajib membayar pesanan dengan pembayaran tunai ketika barang yang dipesan tiba di tempat tujuan. Berikut ini akan digambarkan langkah pemesanan bondek, wiremesh dan baja ringan secara COD yang wajib anda kenal.
 

@@ -160,7 +160,7 @@ Dibawah ini Price List Harga Bahan Material Alam Terlengkap yang kami jual.
 
 ## Cara Pengorderan Pasir Free Ongkos Kirim dan Kuli Di Pamulang Tangerang
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Sesudah anda mengenal model - Ragam Macam Pasir mulai sekarang kalian mesti akurat dalam memilih model pasir yg akan kamu pakai untuk membangun sebuah Konstruksi. Sekiranya anda mau membeli pasir dari kami Cara Pengorderan nya merupakan dengan memberikan data domisili lengkap dan nomor telepon saja, kami akan lantas mengirimnya ke lokasi proyek anda dengan tidak ada tambahan ongkos apa saja. Harga yang kami berikan merupakan sudah termasuk biaya pengiriman dan bongkar jadi anda tak perlu kuatir dengan pembengkakan biaya lagi. Metode pembayaran yang kami terapkan juga betul-betul aman, yakni anda bayar sesudah material sampai ke tempat anda atau di ucap dengan istilah COD (Cash On Delivery). Anda juga bisa konsultasi atau negosiasi dengan kami lewat no telepon yang ada di situs ini.
 

@@ -55,7 +55,7 @@ Seandainya diperbandingkan dengan bahan bangunan lainnya, batako press memiliki 
 
 ## Sistem Pesan Bata Merah, Batako & Hebel Di Lawang Gintung Bogor
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/IEs5XPt-xyU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/IEs5XPt-xyU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Semua tentunya telah tahu kegunaan utama batu bata mulai diaplikasikan untuk membuat tembok, pagar bangunan dan lainnya. Sejalan perkembangannya batu batu sekarang telah ada batu bata merah, batako press hitam dan herbel. Jika sekarang ini anda mempunyai rencana untuk membangun sebuah rumah yang idam-idamkan|impian|masa depan} dan memerlukan material batu bata. Karenanya silahkan memesan batu bata kepada warung penyedia bahan batu bata yang berkualitas dan terpercaya.
 

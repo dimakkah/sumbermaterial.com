@@ -55,7 +55,7 @@ Seandainya dibandingi dengan material bangunan lainnya, batako press memiliki ha
 
 ## Cara Pesan Bata Merah, Batako & Hebel Di Balumbang Jaya Bogor
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/IEs5XPt-xyU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/IEs5XPt-xyU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Segalanya tentu sudah tahu kegunaan utama batu bata mulai dipakai untuk membikin tembok, pagar tempat tinggal dan lainnya. Sejalan perkembangannya batu batu kini telah ada batu bata merah, batako hitam dan bata ringan. Bila sekarang ini anda memiliki rencana untuk membangun sebuah bangunan yang idam-idamkan|impian|masa depan} dan membutuhkan material batu bata. Maka silahkan mengorder batu bata terhadap toko penyedia bahan batu bata yang berkualitas dan terpercaya.
 

@@ -160,7 +160,7 @@ Berikut List Harga Bahan Material Terupdate yang kami jual.
 
 ## Sistem Pengorderan Pasir Bebas Ongkir dan Kuli Di Gunung Batu Bogor
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Sesudah kalian mengenal Macam - Ragam model Pasir mulai kini anda seharusnya teliti di dalam memilih model pasir yang akan anda gunakan untuk membangun sebuah Bangunan. Jikalau anda mau membeli pasir dari kami Cara Pemesanan nya adalah dengan sms data domisili lengkap dan nomor telepon saja, kami akan langsung mengirimnya ke lokasi proyek anda dengan tanpa tambahan ongkos apa saja. Harga yang kami berikan yaitu telah termasuk ongkos kirim dan penurunan jadi anda tidak perlu kuatir dengan penambahan biaya lagi. Sistem pembayaran yang kami terapkan juga sangat aman, merupakan anda bayar setelah material sampai ke lokasi anda atau di ucap dengan istilah COD (Cash On Delivery). Anda juga dapat konsultasi atau negosiasi dengan kami melewati no telepon yang ada di situs ini.
 

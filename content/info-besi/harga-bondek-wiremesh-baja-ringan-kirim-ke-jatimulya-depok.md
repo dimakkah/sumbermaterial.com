@@ -63,7 +63,7 @@ Baja ringan SNI dijual dengan hitungan harga pas dengan ketebalan dan dihitung p
 
 ## Cara Pengorderan Bondek, Wiremesh Dan Baja Ringan Di Jatimulya Depok
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/RlgIAwKCWFI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/RlgIAwKCWFI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Jika anda berencana memesan material lewat Harga Bondek Wiremesh Baja Ringan Kirim Ke Jatimulya Depok online karenanya salah satunya dapat memakai metode pembayaran bayar ditempat. Dimana metode bayar ditempat, pembeli semestinya membayar pesanan dengan pembayaran tunai saat barang yang dipesan tiba di lokasi tujuan. Berikut ini akan digambarkan langkah pemesanan bondek, wiremesh dan baja ringan secara COD yang perlu anda kenal.
 

@@ -55,7 +55,7 @@ Sekiranya dibandingi dengan material bangunan lainnya, batako trus memiliki harg
 
 ## Metode Pemesanan Bata Merah, Batako & Hebel Di Melawai Jakarta
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/IEs5XPt-xyU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/IEs5XPt-xyU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Semua tentunya sudah tahu kegunaan utama batu bata mulai diterapkan untuk membuat tembok, pagar tempat tinggal dan lainnya. Bertepatan dengan perkembangannya batu batu sekarang sudah ada batu bata merah, batako press hitam dan hebel. Jika saat ini anda mempunyai agenda untuk membuat sebuah tempat tinggal yang idam-idamkan|impian|masa depan} dan memerlukan bahan batu bata. Maka silahkan memesan batu bata terhadap warung penyedia bahan batu bata yang berkwalitas dan terpercaya.
 

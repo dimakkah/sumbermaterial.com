@@ -55,7 +55,7 @@ Jika diperbandingkan dengan material bangunan lainnya, batako trus mempunyai har
 
 ## Sistem Pemesanan Bata Merah, Batako & Hebel Di Kedoya Jakarta
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/IEs5XPt-xyU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/IEs5XPt-xyU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Seluruhnya tentu sudah tahu fungsi utama batu bata mulai diterapkan untuk membuat tembok, pagar rumah dan lainnya. Seiring perkembangannya batu batu sekarang telah ada batu bata merah, batako press hitam dan herbel. Bila saat ini anda memiliki rencana untuk membangun sebuah tempat tinggal yg idam-idamkan|impian|masa depan} dan memerlukan material batu bata. Maka silahkan mengorder batu bata kepada toko penyedia bahan batu bata yg berkualitas dan terpercaya.
 

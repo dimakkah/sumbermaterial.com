@@ -51,7 +51,7 @@ Setiap orang pasti mengharapkan memiliki rumah yang bermutu bagus dan nyaman. Ki
 
 ## Cara Pembelian Besi Beton Per Batang Di Bantarjati Bogor
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/RlgIAwKCWFI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/RlgIAwKCWFI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Sekarang tiap-tiap dari anda tentunya telah tahu guna utama besi, wf, hollow mulai dipakai untuk membuat tulangan beton, kanopi, pagar rumah dan lainnya. Seiring perkembanganya batu batu kini sudah ada besi, wf, hollow dengan berbagai ukuran dan kualitas. Jika saat ini anda memiliki rencana untuk membangun sebuah rumah idaman dan memerlukan bahan besi, wf, hollow. Karenanya silahkan mengorder besi, wf, hollow terhadap kami selaku penyedia bahan besi, wf, hollow yang berkualitas dan terpercaya.
 

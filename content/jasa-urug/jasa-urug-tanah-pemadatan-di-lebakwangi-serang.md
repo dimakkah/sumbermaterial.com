@@ -45,7 +45,7 @@ Batu bescose adalah batu yg berukuran 3 hingga dengan 5 cm yg dicampur dengan pa
 
 ## Jasa Pengurukan Di Lebakwangi Serang
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/r2ee7fFvW9w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/r2ee7fFvW9w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 **Daftar Harga Jasa Urug Tanah & Pemadatan Di Lebakwangi Serang**
 

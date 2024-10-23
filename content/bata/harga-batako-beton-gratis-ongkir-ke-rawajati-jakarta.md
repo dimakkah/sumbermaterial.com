@@ -55,7 +55,7 @@ Apabila dibandingi dg bahan bangunan lainnya, batako press mempunyai harga sekit
 
 ## Cara Beli Bata Merah, Batako & Hebel Di Rawajati Jakarta
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/IEs5XPt-xyU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/IEs5XPt-xyU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Seluruhnya tentu telah tahu fungsi utama batu bata mulai diaplikasikan untuk membuat tembok, pagar gedung dan lainnya. Seiring perkembangannya batu batu sekarang telah ada batu bata merah, batako hitam dan bata ringan. Jika sekarang ini anda memiliki agenda untuk membuat sebuah tempat tinggal yg idam-idamkan|impian|masa depan} dan memerlukan bahan batu bata. Karenanya silahkan mengorder batu bata kepada kios penyedia bahan batu bata yang berkualitas dan terpercaya.
 

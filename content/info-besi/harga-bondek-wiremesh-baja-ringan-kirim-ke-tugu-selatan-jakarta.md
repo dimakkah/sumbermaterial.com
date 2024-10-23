@@ -63,7 +63,7 @@ Baja ringan SNI ditawarkan dengan hitungan harga selaras dengan ketebalan dan di
 
 ## Sistem Order Bondek, Wiremesh Dan Baja Ringan Di Tugu Selatan Jakarta
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/RlgIAwKCWFI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/RlgIAwKCWFI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Jika anda berencana memesan material melalui Harga Bondek Wiremesh Baja Ringan Kirim Ke Tugu Selatan Jakarta online karenanya salah satunya bisa mengaplikasikan cara pembayaran bayar ditempat. Dimana sistem bayar ditempat, pembeli patut membayar pesanan dengan pembayaran tunai ketika barang yang dipesan sampai di lokasi tujuan. Dibawah ini akan diterangkan langkah pengorderan bondek, wiremesh dan baja ringan secara COD yang perlu anda kenal.
 

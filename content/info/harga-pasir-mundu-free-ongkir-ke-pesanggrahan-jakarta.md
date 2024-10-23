@@ -160,7 +160,7 @@ Dibawah ini List Harga Bahan Material Alam Terbaru yang kami jual.
 
 ## Sistem Pemesanan Pasir Bebas Biaya Pengiriman dan Bongkar Di Pesanggrahan Jakarta
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Sesudah kalian mengetahui Macam - model Macam Pasir mulai sekarang kamu harus cermat dalam memilih jenis pasir yang akan anda manfaatkan untuk membangun sebuah Konstruksi. Jika anda mau membeli pasir dari kami Cara Pengorderan nya yakni dengan Email data alamat lengkap dan nomor HP saja, kami akan segera mengirimnya ke lokasi proyek anda dengan tanpa tambahan biaya apapun. Harga yang kami berikan adalah sudah termasuk ongkos kirim dan bongkar jadi anda tidak perlu cemas dengan pembengkakan ongkos lagi. Metode pembayaran yang kami terapkan juga benar-benar aman, ialah anda bayar sesudah material sampai ke daerah anda atau di ucap dengan istilah COD (Cash On Delivery). Anda juga dapat konsultasi atau perundingan dengan kami melalui no telepon yang ada di website ini.
 

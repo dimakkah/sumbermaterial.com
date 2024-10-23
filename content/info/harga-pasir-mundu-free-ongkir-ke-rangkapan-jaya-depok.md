@@ -119,7 +119,7 @@ Dibawah ini Daftar Harga Bahan Material Alam Terbaru yang kami jual.
 
 ## Sistem Pemesanan Pasir Gratis Ongkos Kirim dan Penurunan Di Rangkapan Jaya Depok
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Sesudah kamu mengenal Ragam - Tipe Macam Pasir mulai kini anda semestinya teliti di dalam memilih jenis pasir yang akan anda manfaatkan untuk membangun sebuah Bangunan. Jikalau anda mau membeli pasir dari kami Cara Pengorderan nya merupakan dengan whatsapp data domisili komplit dan nomor handphond saja, kami akan segera mengirimnya ke lokasi proyek anda dengan tanpa tambahan ongkos apapun. Harga yang kami berikan merupakan sudah termasuk ongkos kirim dan penurunan jadi anda tak perlu khawatir dengan penambahan harga lagi. Cara pembayaran yang kami terapkan juga sangat aman, yaitu anda bayar setelah material sampai ke tempat anda atau di sebut dengan istilah COD (Cash On Delivery). Anda juga bisa konsultasi atau diplomasi dengan kami via no telepon yang ada di web ini.
 

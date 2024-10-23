@@ -119,7 +119,7 @@ Berikut ini Urutan Harga Bahan Material Alam Terupdate yang kami jual.
 
 ## Sistem Pemesanan Pasir Free Biaya Pengiriman dan Penurunan Di Penjaringan Jakarta
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Sesudah anda mengenal Jenis - Ragam Ragam Pasir mulai kini anda sepatutnya cermat dalam memilih macam pasir yg akan kalian gunakan untuk membangun sebuah Bangunan. Seandainya anda berencana membeli pasir dari kami Sistem Pemesanan nya ialah dengan sms data alamat komplit dan nomor handphond saja, kami akan segera mengirimnya ke lokasi proyek anda tanpa ada tambahan ongkos apa saja. Harga yang kami berikan yakni sudah termasuk ongkir dan bongkar jadi anda tak perlu khawatir dengan penambahan biaya lagi. Sistem pembayaran yang kami terapkan juga amat aman, adalah anda bayar setelah material terkirim ke daerah anda atau di ucap dengan istilah COD (Cash On Delivery). Anda juga dapat konsultasi atau perundingan dengan kami lewat no telepon yang ada di laman ini.
 

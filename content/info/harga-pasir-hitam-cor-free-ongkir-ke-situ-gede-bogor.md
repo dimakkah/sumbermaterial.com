@@ -119,7 +119,7 @@ Berikut ini Daftar Harga Bahan Bangunan Terbaru yang kami jual.
 
 ## Cara Pengorderan Pasir Bebas Ongkir dan Kuli Di Situ Gede Bogor
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Sesudah anda mengetahui Macam - Tipe Macam Pasir mulai sekarang anda harus teliti dalam memilih model pasir yang akan anda manfaatkan untuk membangun sebuah Bangunan. Jikalau anda berencana membeli pasir dari kami Sistem Pengorderan nya merupakan dengan Email data alamat komplit dan nomor telepon saja, kami akan segera mengirimnya ke lokasi proyek anda dengan tidak ada tambahan ongkos apa saja. Harga yang kami berikan ialah telah termasuk ongkir dan penurunan jadi anda tak perlu kuatir dengan penambahan biaya lagi. Cara pembayaran yang kami terapkan juga sangat aman, ialah anda bayar setelah material sampai ke daerah anda atau di ucap dengan istilah COD (Cash On Delivery). Anda juga dapat konsultasi atau diplomasi dengan kami via no telepon yang ada di web ini.
 

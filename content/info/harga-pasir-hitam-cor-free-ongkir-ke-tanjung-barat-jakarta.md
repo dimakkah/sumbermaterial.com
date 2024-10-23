@@ -160,7 +160,7 @@ Berikut ini Urutan Harga Bahan Bangunan Terupdate yang kami jual.
 
 ## Sistem Pengorderan Pasir Bebas Ongkos Kirim dan Bongkar Di Tanjung Barat Jakarta
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Sesudah kalian mengenal Ragam - model Jenis Pasir mulai sekarang kalian harus teliti di dalam memilih ragam pasir yg akan anda manfaatkan untuk membangun sebuah Konstruksi. Jika anda hendak membeli pasir dari kami Cara Pengorderan nya adalah dengan sms data alamat komplit dan nomor telepon saja, kami akan segera mengirimnya ke lokasi proyek anda dengan tanpa tambahan ongkos apa saja. Harga yang kami berikan adalah sudah termasuk ongkos kirim dan tumpah jadi anda tak perlu kuatir dengan pembengkakan harga lagi. Cara pembayaran yang kami terapkan juga sungguh-sungguh aman, yakni anda bayar sesudah material sampai ke daerah anda atau di ucap dengan istilah COD (Cash On Delivery). Anda juga dapat konsultasi atau negosiasi dengan kami via no telepon yang ada di website ini.
 

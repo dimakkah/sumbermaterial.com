@@ -160,7 +160,7 @@ Dibawah ini Price List Harga Bahan Bangunan Free Ongkir yang kami jual.
 
 ## Sistem Pengorderan Pasir Free Ongkir dan Kuli Di Halim Perdana Kusumah Jakarta
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Setelah anda mengenal Tipe - Ragam model Pasir mulai sekarang anda semestinya akurat dalam memilih ragam pasir yang akan kamu pergunakan untuk membangun sebuah Konstruksi Bangunan. Apabila anda berencana membeli pasir dari kami Cara Pemesanan nya adalah dengan Email data alamat komplit dan nomor telepon saja, kami akan seketika mengirimnya ke lokasi proyek anda dengan tanpa tambahan biaya apapun. Harga yang kami berikan merupakan sudah termasuk ongkir dan tumpah jadi anda tak perlu cemas dengan penambahan ongkos lagi. Cara pembayaran yang kami terapkan juga benar-benar aman, merupakan anda bayar sesudah material sampe ke daerah anda atau di ucap dengan istilah COD (Cash On Delivery). Anda juga dapat konsultasi atau perundingan dengan kami melalui no telepon yang ada di situs ini.
 

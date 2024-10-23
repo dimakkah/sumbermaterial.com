@@ -63,7 +63,7 @@ Baja ringan SNI dijual dengan hitungan harga pas dengan ketebalan dan dihitung p
 
 ## Sistem Pengorderan Bondek, Wiremesh Dan Baja Ringan Di Maphar Jakarta
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/RlgIAwKCWFI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/RlgIAwKCWFI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Kalau anda berencana membeli bahan bangunan melewati Harga Bondek Wiremesh Baja Ringan Kirim Ke Maphar Jakarta online maka salah satunya dapat menggunakan metode pembayaran bayar ditempat. Dimana sistem COD, pembeli seharusnya membayar pesanan dengan pembayaran tunai ketika barang yang dipesan tiba di lokasi tujuan. Berikut ini akan dijelaskan langkah pengorderan bondek, wiremesh dan baja ringan secara COD yang wajib anda ketahui.
 

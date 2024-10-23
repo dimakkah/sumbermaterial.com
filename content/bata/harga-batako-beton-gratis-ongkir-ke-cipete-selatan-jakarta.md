@@ -55,7 +55,7 @@ Jika dibandingkan dengan material bangunan lainnya, batako memiliki harga sekita
 
 ## Metode Pemesanan Bata Merah, Batako & Hebel Di Cipete Selatan Jakarta
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/IEs5XPt-xyU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/IEs5XPt-xyU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Semua tentunya sudah tahu fungsi utama batu bata mulai diterapkan untuk membuat tembok, pagar tempat tinggal dan lainnya. Sejalan perkembangannya batu batu kini telah ada batu bata merah, batako press hitam dan hebel. Sekiranya saat ini anda mempunyai agenda untuk membuat sebuah bangunan yang idam-idamkan|impian|masa depan} dan membutuhkan material batu bata. Karenanya silahkan memesan batu bata terhadap warung penyedia material batu bata yg berkualitas dan terpercaya.
 

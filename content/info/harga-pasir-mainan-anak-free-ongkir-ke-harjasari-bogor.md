@@ -119,7 +119,7 @@ Dibawah ini Price List Harga Bahan Bangunan Termurah yang kami jual.
 
 ## Sistem Pemesanan Pasir Bebas Ongkir dan Penurunan Di Harjasari Bogor
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Setelah anda mengenal Jenis - model Macam Pasir mulai kini anda semestinya cermat di dalam memilih jenis pasir yang akan anda pergunakan untuk membangun sebuah Bangunan. Jikalau anda akan membeli pasir dari kami Cara Pengorderan nya merupakan dengan whatsapp data domisili komplit dan nomor handphond saja, kami akan lantas mengirimnya ke lokasi proyek anda tanpa ada tambahan biaya apapun. Harga yang kami berikan yaitu telah termasuk ongkos kirim dan tumpah jadi anda tidak perlu cemas dengan pembengkakan biaya lagi. Cara pembayaran yang kami terapkan juga betul-betul aman, merupakan anda bayar sesudah material sampe ke lokasi anda atau di ucap dengan istilah COD (Cash On Delivery). Anda juga dapat konsultasi atau diplomasi dengan kami lewat no telepon yang ada di website ini.
 

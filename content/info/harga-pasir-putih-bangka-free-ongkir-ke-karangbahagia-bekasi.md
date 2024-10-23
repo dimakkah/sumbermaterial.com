@@ -160,7 +160,7 @@ Berikut List Harga Bahan Material Alam Terlengkap yang kami jual.
 
 ## Cara Pemesanan Pasir Bebas Ongkos Kirim dan Penurunan Di Karangbahagia Bekasi
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Setelah anda mengenal Tipe - Macam Jenis Pasir mulai sekarang anda harus teliti dalam memilih jenis pasir yg akan kamu manfaatkan untuk membangun sebuah Konstruksi. Jikalau anda hendak membeli pasir dari kami Metode Pengorderan nya yaitu dengan sms data alamat lengkap dan nomor handphond saja, kami akan lantas mengirimnya ke lokasi proyek anda dengan tidak ada tambahan ongkos apa saja. Harga yang kami berikan merupakan telah termasuk biaya pengiriman dan penurunan jadi anda tidak perlu kuatir dengan pembengkakan ongkos lagi. Cara pembayaran yang kami terapkan juga betul-betul aman, yaitu anda bayar sesudah material sampai ke daerah anda atau di ucap dengan istilah COD (Cash On Delivery). Anda juga bisa konsultasi atau diplomasi dengan kami melalui no telepon yang ada di web ini.
 

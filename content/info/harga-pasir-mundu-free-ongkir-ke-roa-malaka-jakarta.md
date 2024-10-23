@@ -119,7 +119,7 @@ Berikut Daftar Harga Bahan Material Alam Terupdate yang kami jual.
 
 ## Cara Pengorderan Pasir Free Ongkos Kirim dan Bongkar Di Roa Malaka Jakarta
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Sesudah kamu mengenal Tipe - Jenis model Pasir mulai kini anda seharusnya akurat dalam memilih model pasir yang akan anda pergunakan untuk membangun sebuah Konstruksi. Bila anda hendak membeli pasir dari kami Cara Pengorderan nya yaitu dengan sms data alamat lengkap dan nomor telepon saja, kami akan segera mengirimnya ke lokasi proyek anda tanpa ada tambahan biaya apa saja. Harga yang kami berikan adalah telah termasuk biaya pengiriman dan penurunan jadi anda tidak perlu khawatir dengan penambahan biaya lagi. Cara pembayaran yang kami terapkan juga betul-betul aman, yakni anda bayar setelah material sampe ke lokasi anda atau di sebut dengan istilah COD (Cash On Delivery). Anda juga dapat konsultasi atau negosiasi dengan kami via no telepon yang ada di website ini.
 

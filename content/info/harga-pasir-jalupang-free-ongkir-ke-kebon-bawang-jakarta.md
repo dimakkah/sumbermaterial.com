@@ -160,7 +160,7 @@ Berikut Daftar Harga Bahan Material Alam Termurah yang kami jual.
 
 ## Sistem Pemesanan Pasir Bebas Ongkir dan Bongkar Di Kebon Bawang Jakarta
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Setelah anda memahami model - Macam Jenis Pasir mulai sekarang kalian wajib teliti dalam memilih tipe pasir yg akan anda pakai untuk membangun sebuah Konstruksi Bangunan. Jika anda mau membeli pasir dari kami Cara Pengorderan nya yaitu dengan whatsapp data alamat komplit dan nomor telepon saja, kami akan lantas mengirimnya ke lokasi proyek anda dengan tidak ada tambahan biaya apa saja. Harga yang kami berikan yaitu sudah termasuk ongkos kirim dan penurunan jadi anda tidak perlu cemas dengan pembengkakan ongkos lagi. Cara pembayaran yang kami terapkan juga benar-benar aman, yaitu anda bayar sesudah material terkirim ke tempat anda atau di sebut dengan istilah COD (Cash On Delivery). Anda juga bisa konsultasi atau perundingan dengan kami via no telepon yang ada di website ini.
 

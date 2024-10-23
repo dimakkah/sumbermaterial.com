@@ -160,7 +160,7 @@ Dibawah ini Price List Harga Bahan Material Free Ongkir yang kami jual.
 
 ## Cara Pemesanan Pasir Gratis Biaya Pengiriman dan Penurunan Di Pangkalan Jati Depok
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Sesudah kalian mengenal Macam - model Jenis Pasir mulai sekarang kalian harus teliti dalam memilih macam pasir yg akan anda pakai untuk membangun sebuah Konstruksi. Apabila anda berencana membeli pasir dari kami Cara Pengorderan nya merupakan dengan memberikan data domisili lengkap dan nomor HP saja, kami akan lantas mengirimnya ke lokasi proyek anda dengan tidak ada tambahan biaya apapun. Harga yang kami berikan merupakan sudah termasuk ongkos kirim dan tumpah jadi anda tak perlu kuatir dengan pembengkakan biaya lagi. Metode pembayaran yang kami terapkan juga amat aman, yakni anda bayar setelah material terkirim ke daerah anda atau di ucap dengan istilah COD (Cash On Delivery). Anda juga bisa konsultasi atau diplomasi dengan kami lewat no telepon yang ada di situs ini.
 

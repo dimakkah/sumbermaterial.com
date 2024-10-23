@@ -119,7 +119,7 @@ Berikut ini Price List Harga Bahan Material Terbaru yang kami jual.
 
 ## Sistem Pengorderan Pasir Free Ongkos Kirim dan Bongkar Di Gelora Jakarta
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Setelah kalian mengetahui Ragam - Macam Jenis Pasir mulai sekarang anda harus akurat di dalam memilih macam pasir yg akan anda manfaatkan untuk membangun sebuah Konstruksi Bangunan. Jikalau anda berencana membeli pasir dari kami Sistem Pengorderan nya yaitu dengan sms data alamat lengkap dan nomor handphond saja, kami akan seketika mengirimnya ke lokasi proyek anda tanpa ada tambahan ongkos apapun. Harga yang kami berikan merupakan telah termasuk biaya pengiriman dan bongkar jadi anda tidak perlu kuatir dengan penambahan harga lagi. Sistem pembayaran yang kami terapkan juga sangat aman, adalah anda bayar sesudah material sampai ke daerah anda atau di ucap dengan istilah COD (Cash On Delivery). Anda juga bisa konsultasi atau negosiasi dengan kami melalui no telepon yang ada di web ini.
 

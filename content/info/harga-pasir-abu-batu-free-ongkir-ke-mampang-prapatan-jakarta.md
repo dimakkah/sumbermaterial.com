@@ -160,7 +160,7 @@ Dibawah ini Daftar Harga Bahan Material Alam Free Ongkir yang kami jual.
 
 ## Cara Pengorderan Pasir Gratis Ongkos Kirim dan Penurunan Di Mampang Prapatan Jakarta
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Setelah kamu mengenal Ragam - Ragam model Pasir mulai kini anda harus cermat di dalam memilih model pasir yg akan kalian pergunakan untuk membangun sebuah Konstruksi Bangunan. Apabila anda mau membeli pasir dari kami Cara Pemesanan nya adalah dengan Email data alamat lengkap dan nomor HP saja, kami akan langsung mengirimnya ke lokasi proyek anda dengan tidak ada tambahan ongkos apapun. Harga yang kami berikan adalah telah termasuk ongkos kirim dan tumpah jadi anda tak perlu kuatir dengan penambahan harga lagi. Sistem pembayaran yang kami terapkan juga betul-betul aman, yaitu anda bayar setelah material sampai ke tempat anda atau di sebut dengan istilah COD (Cash On Delivery). Anda juga bisa konsultasi atau perundingan dengan kami via no telepon yang ada di laman ini.
 

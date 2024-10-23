@@ -33,7 +33,7 @@ Beton Ready mix kualitas ini ialah mutu beton Ready mix yang didesain khusus utk
 
 ### Beton Ready mix K375 sd K500 dan Harganya Di Tegal Parang Jakarta
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/MVuQWwYFCiA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/MVuQWwYFCiA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Kualitas beton Ready mix yg terkhir yaitu mutu beton yg didesaian khusus untuk pekerjaan cepat lazim disebut juga dengan beton fast track yakni kwalitas beton Ready mix yg dapat kering hanya dalam beberapa hari saja. Harganya malah cukup mahal untuk K375 sendiri per m3nya 1.000.000, K400 harganya 1.200.000 per kubik dan K500 1.400.000 per m3nya. Mutu-mutu beton tadi digunakna pada pengecoran jalan rigit yg akan dipakai bebera hari kemudian atau pada pengecoran jembatan dan bendungan serta pengecoran dalam air.
 

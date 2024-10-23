@@ -63,7 +63,7 @@ Baja ringan SNI dijual dengan hitungan harga selaras dengan ketebalan dan dihitu
 
 ## Sistem Pengorderan Bondek, Wiremesh Dan Baja Ringan Di Kresek Tangerang
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/RlgIAwKCWFI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/RlgIAwKCWFI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Jika anda berencana membeli material melalui Harga Bondek Wiremesh Baja Ringan Kirim Ke Kresek Tangerang online karenanya salah satunya bisa menggunakan sistem pembayaran bayar ditempat. Dimana sistem Bayar Setelah sampe, pembeli wajib membayar pesanan dengan pembayaran tunai ketika barang yang diorder tiba di tempat tujuan. Dibawah ini akan dibeberkan langkah pengorderan bondek, wiremesh dan baja ringan secara COD yang wajib anda kenal.
 

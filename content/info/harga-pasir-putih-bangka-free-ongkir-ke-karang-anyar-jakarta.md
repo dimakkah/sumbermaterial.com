@@ -119,7 +119,7 @@ Berikut List Harga Bahan Material Alam Free Ongkir yang kami jual.
 
 ## Sistem Pemesanan Pasir Free Ongkir dan Penurunan Di Karang Anyar Jakarta
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Setelah anda mengenal Macam - Ragam Ragam Pasir mulai kini kamu seharusnya cermat dalam memilih tipe pasir yang akan kamu manfaatkan untuk membangun sebuah Konstruksi. Sekiranya anda berencana membeli pasir dari kami Metode Pengorderan nya ialah dengan whatsapp data alamat komplit dan nomor handphond saja, kami akan seketika mengirimnya ke lokasi proyek anda dengan tanpa tambahan ongkos apapun. Harga yang kami berikan adalah sudah termasuk ongkos kirim dan penurunan jadi anda tidak perlu kuatir dengan pembengkakan harga lagi. Metode pembayaran yang kami terapkan juga betul-betul aman, merupakan anda bayar setelah material sampai ke tempat anda atau di ucap dengan istilah COD (Cash On Delivery). Anda juga bisa konsultasi atau perundingan dengan kami via no telepon yang ada di situs ini.
 

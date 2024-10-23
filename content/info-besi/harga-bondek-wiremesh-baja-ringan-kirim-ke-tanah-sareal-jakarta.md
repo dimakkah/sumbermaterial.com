@@ -63,7 +63,7 @@ Baja ringan SNI ditawarkan dengan hitungan harga pas dengan ketebalan dan dihitu
 
 ## Metode Pengorderan Bondek, Wiremesh Dan Baja Ringan Di Tanah Sareal Jakarta
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/RlgIAwKCWFI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/RlgIAwKCWFI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Kalau anda berencana mengorder material lewat Harga Bondek Wiremesh Baja Ringan Kirim Ke Tanah Sareal Jakarta online maka salah satunya bisa memakai sistem pembayaran bayar ditempat. Dimana sistem Bayar Setelah sampe, pembeli patut membayar orderan dengan pembayaran tunai ketika barang yang dipesan tiba di tempat tujuan. Dibawah ini akan dibeberkan langkah pembelian bondek, wiremesh dan baja ringan secara COD yang wajib anda kenal.
 

@@ -37,7 +37,7 @@ Batu Split Ukuran 20 – 30 mm (mili meter). Material split ukuran ini banyak di
 
 ## Harga Batu Split Di Tanah Sareal Bogor
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/QUk5FUujSQs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/QUk5FUujSQs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 **Daftar Jual Batu Split 2/3 Free Ongkir Ke Tanah Sareal Bogor**
 

@@ -119,7 +119,7 @@ Berikut Urutan Harga Bahan Material Free Ongkir yang kami jual.
 
 ## Sistem Pemesanan Pasir Gratis Biaya Pengiriman dan Bongkar Di Kutawaluya Karawang
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/mPfvGQ9FYlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Setelah anda mengenal Jenis - Jenis Ragam Pasir mulai sekarang kalian mesti cermat dalam memilih macam pasir yang akan anda pergunakan untuk membangun sebuah Bangunan. Apabila anda berencana membeli pasir dari kami Sistem Pemesanan nya ialah dengan memberikan data alamat lengkap dan nomor telepon saja, kami akan langsung mengirimnya ke lokasi proyek anda dengan tidak ada tambahan biaya apa saja. Harga yang kami berikan yakni sudah termasuk biaya pengiriman dan bongkar jadi anda tidak perlu cemas dengan penambahan harga lagi. Sistem pembayaran yang kami terapkan juga sangat aman, merupakan anda bayar setelah material sampe ke daerah anda atau di ucap dengan istilah COD (Cash On Delivery). Anda juga dapat konsultasi atau negosiasi dengan kami melewati no telepon yang ada di situs ini.
 
