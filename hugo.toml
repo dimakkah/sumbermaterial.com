@@ -44,48 +44,16 @@ paginate = 6
   # Schema settings
   base_price = 750000
   price_range = 2000000
-  categories = ["Pasir", "Batu", "Bata", "Hebel", "Besi", "Wiremesh"]
   payment_methods = ["COD (Cash On Delivery)", "Transfer Bank", "Bayar DP 50%", "Transfer Setelah Terkirim", "Bayar Bertahap", "Transfer Setelah Selesai"]
   area_served = ["Jakarta", "Bogor", "Depok", "Tangerang", "Bekasi", "Cikarang", "Karawang", "Bandung", "Serang", "Purwakarta", "Cilegon", "Cikampek", "Subang", "Rangkas Bitung"]
-  keywords = ["jual pasir", "jual batu kali", "jual split", "jual hebel", "jual besi", "jual wiremesh", "material bangunan", "pasir cor", "pasir pasang", "batu belah", "batu split", "batu bata", "batako", "urugan makadam", "sirdam", "basecose", "sirtu", "tanah urug", "baja ringan", "bondek"]
   free_shipping = true
 
-  # Product
-  materials = [
-  "Baja ringan",
-  "Bata merah dan batako",
-  "Bengkel las",
-  "Hebel atau bata ringan",
-  "Besi ulir dan polos",
-  "Jasa aspal hotmix",
-  "JaBarasa pengurugan",
-  "Kusen pintu alumunium",
-  "Pasir bangunan",
-  "Readymix cor",
-  "Batu split dan batu kali",
-  "Jasa bangun rumah bangunan",
-  "Besi hollow dan siku",
-  "Jasa pengecoran",
-  "Kanopi rumah minimalis",
-  "Pagar besi dan teralis",
-  "Besi wf dan besi H beam"
-  ]
   return_policies = [
     "Material dapat dikembalikan jika tidak sesuai spesifikasi dalam 1 hari.",
     "Pengembalian gratis untuk material dengan cacat produksi.",
     "Barang yang tidak sesuai pesanan dapat dikembalikan tanpa biaya tambahan."
 ]
 
-  # Service
-  service_types = [
-    "Jasa Pengecoran",
-    "Jasa Pengurugan",
-    "Jasa Pemadatan",
-    "Jasa Pengaspalan",
-    "Jasa Bangun Rumah",
-    "Jasa Psang Kanopi",
-    "Jasa Pasang Teralis & Pagar"
-  ]
   cancellation_policies = [
     "Pesanan dan Layanan Jasa dapat dibatalkan sebelum kesepakatan.",
     "Biaya jasa tidak dapat dikembalikan jika pembatalan dilakukan setelah pengerjaan 20%.",
