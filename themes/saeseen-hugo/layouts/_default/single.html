@@ -50,18 +50,24 @@
          {{ $content := .Content }}
          {{ $paragraphs := split $content "<p>" }}
          {{ $newContent := "" }}
-            {{ $count := 0 }}
+          {{ $count := 0 }}
           {{ $relatedCount := 0 }}
           {{ range $index, $paragraph := $paragraphs }}
-           {{ if eq $index 0 }} {{ $newContent = $paragraph }} {{ else }} {{ $newContent = printf "%s<p>%s" $newContent $paragraph }} {{ end }}    
-            {{ $count = add $count 1 }}
-            {{ if and (gt $count 3) (lt $relatedCount 3) }}
-              {{ $randomRelated := index $shuffledRelated $relatedCount }}
-              {{ $newContent = printf "%s<div class='inline-related-post'>Lainnya: <a href='%s'>%s</a></div>" $newContent $randomRelated.RelPermalink $randomRelated.Title }}
-              {{ $relatedCount = add $relatedCount 1 }}
-              {{ $count = 0 }}
-            {{ end }}
+          {{ if eq $index 0 }} 
+          {{ $newContent = $paragraph }} 
+          {{ else }} 
+          {{ $newContent = printf "%s<p>%s" $newContent $paragraph }} 
           {{ end }}
+          {{ $count = add $count 1 }}
+          {{ if and (gt $count 3) (lt $relatedCount $maxRelated) }}
+          {{ $randomRelated := index $shuffledRelated $relatedCount }}
+          {{ if $randomRelated.Params.categories }}
+          {{ $newContent = printf "%s<div class='inline-related-post'>Lainnya: <a href='%s'>%s</a></div>" $newContent $randomRelated.RelPermalink $randomRelated.Title }}
+          {{ $relatedCount = add $relatedCount 1 }}
+          {{ $count = 0 }}
+                {{ end }}
+              {{ end }}
+            {{ end }}
           {{ $newContent | safeHTML }}
         </div>
       <div class="post-footer">
