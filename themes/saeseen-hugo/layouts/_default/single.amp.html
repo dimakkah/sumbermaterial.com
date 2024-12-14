@@ -17,9 +17,7 @@
   {{- $ogDescription := .Summary | plainify | truncate 160 -}}
   {{- $removeWords := "^(Jual|Sewa|Harga|Biaya|Tukang) " -}}
   {{- $titleKeywords := replaceRE $removeWords "" .Title | lower -}}
-  {{- $globalKeywords := .Site.Params.keywords -}}
-  {{- $randomKeyword := first 6 (shuffle $globalKeywords) | default "" -}}
-  {{- $allKeywords := delimit (slice $randomKeyword $titleKeywords) ", " -}}
+  {{- $allKeywords := delimit (slice $titleKeywords) ", " -}}
   <meta name="keywords" content="{{ $allKeywords }}">
   {{ if .IsPage }}
   {{ if eq .Params.type "service" }}
@@ -59,8 +57,11 @@
   {{- $ := $basePrice -}}
   {{- $maxPrice := add $basePrice $priceRange -}}
   {{- $minPrice := sub $basePrice $priceRange -}}
-  {{- $randomMaterial := index .Site.Params.materials (mod (now.Unix) (len .Site.Params.materials)) -}}
-  {{- $randomCategory := index .Site.Params.categories (mod (now.Unix) (len .Site.Params.categories)) -}}
+  {{- $currentCategory := "" -}}
+  {{- if .Params.categories -}}
+  {{- $currentCategory = index .Params.categories 0 -}}
+  {{- end -}}
+  {{- $material := $currentCategory -}}
   {{- $randomPayment := index .Site.Params.payment_methods (mod (now.Unix) (len .Site.Params.payment_methods)) -}}
   {{- $sku := printf "SKU-%d" (add 1000 (math.Mod (now.Unix) 9000)) -}}
   {{- $freeShipping := .Site.Params.free_shipping -}}
@@ -132,8 +133,8 @@
         "description": "{{ index .Site.Params.return_policies (mod (now.Unix) (len .Site.Params.return_policies)) }}"
       }
     },
-    "material": "{{ $randomMaterial }}",
-    "category": "{{ $randomCategory }}",
+    "material": "{{ $material }}",
+    "category": "{{ $currentCategory }}",
     "aggregateRating": {
       "@type": "AggregateRating",
       "ratingValue": "{{ $rating }}",
@@ -151,8 +152,11 @@
 {{- $ := $basePrice -}}
 {{- $maxPrice := add $basePrice $priceRange -}}
 {{- $minPrice := sub $basePrice $priceRange -}}
-{{- $randomServiceType := index .Site.Params.service_types (mod (now.Unix) (len .Site.Params.service_types)) -}}
-{{- $randomCategory := index .Site.Params.categories (mod (now.Unix) (len .Site.Params.categories)) -}}
+{{- $serviceCategory := "" -}}
+{{- if .Params.categories -}}
+{{- $serviceCategory = index .Params.categories 0 -}}
+{{- end -}}
+{{- $serviceType := $serviceCategory -}}
 {{- $randomPayment := index .Site.Params.payment_methods (mod (now.Unix) (len .Site.Params.payment_methods)) -}}
 {{- $freeConsultation := .Site.Params.free_consultation -}}
 {{- $titleWithoutTag := replaceRE "\\s*\\[.*?\\]\\s*$" "" .Title -}}
@@ -216,8 +220,8 @@
       }
     {{ end }}
   ],
-  "serviceType": "{{ $randomServiceType }}",
-  "category": "{{ $randomCategory }}",
+  "serviceType": "{{ $serviceType }}",
+  "category": "{{ $serviceCategory }}",
   "aggregateRating": {
     "@type": "AggregateRating",
     "ratingValue": "{{ $rating }}",
