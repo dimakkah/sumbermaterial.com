@@ -8,7 +8,7 @@
 <script src="{{ "js/spintax.js" | relURL }}"></script>
 <link rel="stylesheet" href="{{ .Site.Params.fontawesome }}" media="print" onload="this.media='all'">
 <link rel="canonical" href="{{ .Permalink }}">
-{{ if and (not .IsHome) (ne .Kind "page") (not .IstaxonomyTerm) }}
+{{ if and (not .IsHome) (ne .Kind "page") (not .IsSection) }}
   <link rel="amphtml" href="{{ .Permalink | replaceRE "/$" "" }}/amp/">
 {{ end }}
 {{- $ogTitle := cond .IsHome .Site.Title (printf "%s - %d" .Title (now.Year)) -}}
