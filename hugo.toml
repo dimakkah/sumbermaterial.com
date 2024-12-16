@@ -466,9 +466,6 @@ paginate = 6
 
 [outputs]
   home = ["HTML", "RSS"]
-  section = ["HTML"]
-  taxonomy = ["HTML"]
-  taxonomyTerm = ["HTML"]
   page = ["HTML", "AMP"]
 
 [outputFormats]
