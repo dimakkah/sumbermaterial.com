@@ -45,31 +45,36 @@
           {{ .TableOfContents }}
           {{ end }}
         <div class="post-content">
-         {{ $related := .Site.RegularPages.Related . | first 5 }}
-        {{ $shuffledRelated := shuffle $related }}
-         {{ $content := .Content }}
-         {{ $paragraphs := split $content "<p>" }}
-         {{ $newContent := "" }}
-          {{ $count := 0 }}
-          {{ $relatedCount := 0 }}
-          {{ range $index, $paragraph := $paragraphs }}
-          {{ if eq $index 0 }} 
-          {{ $newContent = $paragraph }} 
-          {{ else }} 
-          {{ $newContent = printf "%s<p>%s" $newContent $paragraph }} 
-          {{ end }}
-          {{ $count = add $count 1 }}
-          {{ if and (gt $count 3) (lt $relatedCount $maxRelated) }}
-          {{ $randomRelated := index $shuffledRelated $relatedCount }}
-          {{ if $randomRelated.Params.categories }}
-          {{ $newContent = printf "%s<div class='inline-related-post'>Lainnya: <a href='%s'>%s</a></div>" $newContent $randomRelated.RelPermalink $randomRelated.Title }}
-          {{ $relatedCount = add $relatedCount 1 }}
-          {{ $count = 0 }}
+            {{ $related := .Site.RegularPages.Related . | first 5 }}
+            {{ $shuffledRelated := shuffle $related }}
+            {{ $content := .Content }}
+            {{ $paragraphs := split $content "<p>" }}
+            {{ $totalParagraphs := len $paragraphs }}
+            {{ $maxRelated := 3 }}
+            {{ if le $totalParagraphs 3 }}
+              {{ $maxRelated = 2 }}
+            {{ end }}
+            {{ $newContent := "" }}
+            {{ $count := 0 }}
+            {{ $relatedCount := 0 }}
+            {{ range $index, $paragraph := $paragraphs }}
+            {{ if eq $index 0 }} 
+            {{ $newContent = $paragraph }} 
+            {{ else }} 
+            {{ $newContent = printf "%s<p>%s" $newContent $paragraph }} 
+            {{ end }}
+            {{ $count = add $count 1 }}
+            {{ if and (gt $count 3) (lt $relatedCount $maxRelated) }}
+            {{ $randomRelated := index $shuffledRelated $relatedCount }}
+            {{ if $randomRelated.Params.categories }}
+            {{ $newContent = printf "%s<div class='inline-related-post'>Lainnya: <a href='%s'>%s</a></div>" $newContent $randomRelated.RelPermalink $randomRelated.Title }}
+            {{ $relatedCount = add $relatedCount 1 }}
+            {{ $count = 0 }}
                 {{ end }}
               {{ end }}
             {{ end }}
-          {{ $newContent | safeHTML }}
-        </div>
+            {{ $newContent | safeHTML }}
+          </div>
       <div class="post-footer">
         <div class="social-share">
           <h3>Share artikel ini:</h3>
