@@ -1016,11 +1016,10 @@ const redirectMap = {
     "/wf/harga-besi-h-beam-dan-wf-kirim-ke-srengseng-sawah-jakarta": "/wf/harga-besi-h-beam-dan-wf-kirim-ke-srengseng-sawah-jakarta/"
 };
 
-(function() {
-    // Fungsi untuk mendapatkan current path
+(function () {
     function getCurrentPath() {
-        // Gunakan location.pathname dan hilangkan trailing slash
-        let path = window.location.pathname;
+        // Ambil path + query string
+        let path = window.location.pathname + window.location.search;
         path = path.replace(/\/$/, '') || '/';
         return path;
     }
@@ -1032,19 +1031,7 @@ const redirectMap = {
                             redirectMap[currentPath.replace(/\/$/, '')];
 
         if (redirectUrl) {
-            // Log redirect
             console.log(`Redirecting from ${currentPath} to ${redirectUrl}`);
-            
-            // Kirim event custom untuk tracking (jika tersedia)
-            if (window.dataLayer) {
-                window.dataLayer.push({
-                    'event': 'url_redirect',
-                    'source_url': currentPath,
-                    'target_url': redirectUrl
-                });
-            }
-
-            // Redirect dengan opsi tambahan
             window.location.replace(window.location.origin + redirectUrl);
         }
     });
