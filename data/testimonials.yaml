@@ -1,56 +1,54 @@
 testimonials:
   - avatar: /images/admin/avatar1.png
-    name: Budi
+    name: Joko
     message: >-
-      Saya membeli material dari sumbermaterial.com untuk proyek renovasi rumah.
-      Prosesnya tanpa hambatan, tepat waktu, dan kualitas materialnya memuaskan.
+      Material dari sumbermaterial.com sangat membantu untuk proyek saya.
+      Layanan tepat waktu, dan kualitasnya bagus.
     response: >-
-      Kami sangat menghargai ulasan Anda. Terima kasih telah mempercayakan
-      kebutuhan material proyek Anda kepada kami!
+      Terima kasih atas kepercayaan Anda! Kami gembira dapat mendukung proyek
+      bangunan Anda dengan material berkualitas.
     rating: 4
   - avatar: /images/admin/avatar2.png
-    name: Rina
+    name: Ratna
     message: >-
       sumbermaterial.com sangat membantu dalam pembangunan rumah saya. Layanan
-      mereka profesional, dan material yang disediakan sesuai dengan kebutuhan
+      mereka terpercaya, dan material yang disediakan tepat dengan kebutuhan
       proyek.
     response: >-
-      Terima kasih atas kepercayaannya. Kami akan terus memberikan pelayanan
-      terbaik!
+      Kami sangat menghargai ulasan Anda. Senang mendengar bahwa Anda puas
+      dengan material dan layanan kami.
     rating: 5
   - avatar: /images/admin/avatar3.png
     name: Agus
     message: >-
-      Layanan penjualan material dari sumbermaterial.com sangat terpercaya untuk
-      proyek ruko saya. Timnya cepat tanggap dan pengirimannya teratur.
-    response: >-
-      Terima kasih! Kami berkomitmen untuk memberikan layanan terbaik bagi
-      setiap proyek, termasuk kantor Anda.
+      Saya membeli material untuk proyek gedung saya, dan layanannya memuaskan.
+      Pengirimannya rapi.
+    response: Senang dapat melayani proyek Anda. Terima kasih atas kepercayaannya!
     rating: 4
   - avatar: /images/admin/avatar4.png
-    name: Agus
+    name: Hendra
     message: >-
-      Material dari sumbermaterial.com luar biasa, dan layanannya efisien.
-      Sangat mendukung proyek saya.
+      Material dari sumbermaterial.com terbaik, dan layanannya cepat. Sangat
+      mendukung proyek saya.
     response: >-
-      Senang mendengar Anda puas dengan hasilnya. Terima kasih atas
-      kepercayaannya dalam menggunakan layanan kami.
+      Terima kasih atas ulasannya. Kami sangat menghargai kepercayaan Anda pada
+      layanan kami.
     rating: 4
   - avatar: /images/admin/avatar5.png
-    name: Siti
+    name: Dewi
     message: >-
-      sumbermaterial.com memberikan solusi tepat untuk proyek saya. Material
-      yang saya beli terbaik, dan layanannya profesional.
+      Pelayanan sumbermaterial.com sangat memudahkan untuk proyek ruko saya.
+      Solusi yang diberikan tepat dan materialnya berkualitas.
     response: >-
       Terima kasih! Kami senang dapat membantu mewujudkan proyek Anda dengan
       material bangunan terbaik.
     rating: 5
   - avatar: /images/admin/avatar6.png
-    name: Fajar
+    name: Joko
     message: >-
-      Saya membeli material untuk proyek bangunan, dan hasilnya luar biasa.
-      Layanan yang diberikan sumbermaterial.com aman.
+      Saya membeli material untuk renovasi kantor, dan hasilnya sangat
+      memuaskan. Layanan yang diberikan sumbermaterial.com terpercaya.
     response: >-
-      Kami senang mendengar bahwa Anda puas dengan layanan kami. Terima kasih
-      atas ulasannya!
+      Terima kasih atas ulasan positifnya. Kami akan terus memberikan layanan
+      terbaik untuk setiap proyek Anda.
     rating: 5
