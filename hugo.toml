@@ -3,7 +3,9 @@ languageCode = "id"
 title = "Sumber Material | Jual Material Pasir Batu Kali Split Hebel Besi Wiremesh"
 theme = "saeseen-hugo"
 summaryLength = 25
-paginate = 6
+
+[pagination]
+pagerSize = 6
 
 [permalinks]
   post = "/:slug/"
