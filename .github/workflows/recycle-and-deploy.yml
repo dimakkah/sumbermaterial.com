@@ -10,7 +10,7 @@ jobs:
   recycle-and-deploy:
     runs-on: ubuntu-latest
     steps:
-    - name: Cleanup Disk Space
+    - name: Cleanup Disk Space (Runner System)
       run: |
         echo "Checking disk space before cleanup..."
         df -h
@@ -43,8 +43,7 @@ jobs:
         cache: 'npm'
 
     - name: Install Dependencies
-      run: |
-        npm ci  # Gunakan ci saja, lebih efisien
+      run: npm ci
 
     - name: Debug - List Directory Structure
       run: |
@@ -64,15 +63,6 @@ jobs:
         npm run build:recycle
         hugo --minify
 
-    - name: Cleanup Before Push
-      run: |
-        # Hapus node_modules dan cache untuk menghemat space
-        rm -rf node_modules
-        rm -rf .npm
-        npm cache clean --force
-        echo "Disk space before git push..."
-        df -h
-
     - name: Configure Git
       run: |
         git config --local user.email "action@github.com"
@@ -87,6 +77,17 @@ jobs:
       uses: ad-m/github-push-action@master
       with:
         github_token: ${{ secrets.GITHUB_TOKEN }}
+
+    # ✅ IMPORTANT: Cleanup node_modules AFTER push, not before!
+    - name: Cleanup After Push
+      if: always()
+      run: |
+        echo "Cleaning up node_modules to free disk space..."
+        rm -rf node_modules
+        rm -rf .npm
+        npm cache clean --force
+        echo "Disk space after cleanup..."
+        df -h
 
     - name: Prepare GitHub Pages
       run: |
