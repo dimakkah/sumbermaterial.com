@@ -40,7 +40,7 @@ pagerSize = 6
   # Informasi Kontak
   phone = "0857-7678-6091"
   email = "cssumbermaterial@gmail.com"
-  address = "Jl. Sersan Muhtar Dramaga, Bogor – Jabar"
+  address = "Jl. Maritim Raya, Pelabuhan Sunda kelapa, Penjaringan – Jakarta"
   whatsappNumber = "6285776786091"
 
   # Schema settings
@@ -83,9 +83,6 @@ pagerSize = 6
   [[params.footer_services]]
   text = "Kami menyediakan berbagai jenis material bangunan berkualitas dengan layanan profesional, gratis konsultasi, tanpa biaya tersembunyi, pengiriman tepat waktu, sistem pembayaran aman, dan berbagai layanan jasa tukang untuk mendukung proyek konstruksi bangunan Anda"
 
-  [[params.footer_contact]]
-    icon = "fas fa-map-marker-alt"
-    text = "Jl. Sersan Muhtar Dramaga, Bogor – Jabar"
   [[params.footer_contact]]
     icon = "fas fa-map-marker-alt"
     text = "Kp. Cijantra Jatake, Tangerang – Banten"
