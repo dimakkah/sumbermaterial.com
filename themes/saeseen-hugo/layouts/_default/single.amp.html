@@ -1015,7 +1015,7 @@ caption {
     {{ end }}
     <span>{{ .Title }}</span>
     </nav>
-    <p class="post-meta">Dibuat pada {{ .Date.Format "2 January 2006" }} Oleh {{ .Site.Params.author }}</p>
+    <p class="post-meta">Dibuat pada {{ .Date.Format "2 January 2006" }}{{ if ne .Lastmod .Date }} — Diperbarui pada {{ .Lastmod.Format "2 January 2006" }}{{ end }} Oleh {{ .Site.Params.author }}</p>
     {{ if and (.Params.toc) (gt .WordCount .Site.Params.tocMinWordCount) }}
     {{ .TableOfContents }}
     {{ end }}

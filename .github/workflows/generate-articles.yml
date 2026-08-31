@@ -1,0 +1,139 @@
+name: Generate Articles from GSC Keywords
+
+on:
+  schedule:
+    # 06:00 UTC = 13:00 WIB (siang hari). Deliberately far from revise-articles.yml's
+    # 18:00 UTC (01:00 WIB dini hari) — a ~12h gap so their (variable, sometimes 30-90min)
+    # runtimes don't overlap even on a bad day.
+    - cron: '0 6 * * *'
+  workflow_dispatch:
+
+# Serialize with revise-articles.yml and recycle-and-deploy.yml — they all commit/push to
+# the same `master` branch, and running in parallel causes push-rejected races (git rebase
+# can even fail outright if the working tree isn't clean). Same group name across all three
+# workflow files makes GitHub Actions queue them instead of racing.
+concurrency:
+  group: dataweb-repo-write
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+  # Needed to explicitly trigger recycle-and-deploy.yml at the end of this run (see last
+  # step below). Pushes made with GITHUB_TOKEN do NOT fire other workflows' `push` triggers
+  # (GitHub's anti-recursion safeguard) — an explicit workflow_dispatch call is the
+  # GitHub-sanctioned way around that, and it needs this permission.
+  actions: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      # One-time, self-healing repo cleanup: node_modules got committed to git at some point,
+      # which makes every `npm ci`/`npm install` produce spurious "modified" noise (minor
+      # dependency-resolution drift) that was breaking the commit/rebase steps below. Safe to
+      # run every time — it's a no-op once node_modules is untracked (checked via git ls-files).
+      - name: Untrack node_modules (one-time, idempotent)
+        run: |
+          if [ -n "$(git ls-files node_modules/ | head -n1)" ]; then
+            echo "📦 node_modules is tracked in git — untracking it now..."
+            git config --local user.email "action@github.com"
+            git config --local user.name "GitHub Action"
+            grep -qxF 'node_modules/' .gitignore 2>/dev/null || echo "node_modules/" >> .gitignore
+            git rm -r --cached node_modules >/dev/null
+            git add .gitignore
+            git commit -m "chore: untrack node_modules [skip ci]"
+            git push origin master
+            echo "✅ node_modules untracked and pushed."
+          else
+            echo "✅ node_modules already untracked — nothing to do."
+          fi
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: 'npm'
+
+      - name: Install Dependencies
+        run: npm ci
+
+      - name: Generate Articles
+        env:
+          GSC_CREDENTIALS: ${{ secrets.GSC_CREDENTIALS }}
+          GSC_SITE_URL: ${{ secrets.GSC_SITE_URL }}
+          CLOUDFLARE_ACCOUNT_ID: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+          CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+          # Serper.dev keyword research (2nd-tier fallback — Related Searches + People Also
+          # Ask, seeded from top GSC keywords, falling back to seed-keywords.txt only if GSC
+          # has no data). Only kicks in when GSC has nothing new to process. Without this
+          # secret set, the script just skips that tier (logs a warning, no crash) — nothing
+          # breaks, the tier just never fires.
+          SERPER_API_KEY: ${{ secrets.SERPER_API_KEY }}
+          # Optional overrides — safe defaults (false / 8) are already baked into the script,
+          # only set these secrets if you want to change them:
+          # SERPER_USE_AUTOCOMPLETE: ${{ secrets.SERPER_USE_AUTOCOMPLETE }}
+          # SERPER_DAILY_BUDGET: ${{ secrets.SERPER_DAILY_BUDGET }}
+        run: node tools/generate-articles.js
+
+      - name: Configure Git
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+
+      - name: Commit and Push Articles
+        id: commit_push
+        run: |
+          git add content/blog/ generated-articles.log static/images/blog/
+          [ -f keywords.txt ] && git add keywords.txt
+          [ -f .excluded-keywords.json ] && git add .excluded-keywords.json
+          [ -f .recent-openings.json ] && git add .recent-openings.json
+          [ -f .gsc-keyword-first-seen.json ] && git add .gsc-keyword-first-seen.json
+
+          if git diff --staged --quiet; then
+            echo "ℹ️  Nothing to commit (0 articles generated this session) — done."
+            echo "published=false" >> "$GITHUB_OUTPUT"
+            exit 0
+          fi
+
+          git commit -m "Generate articles from GSC keywords"
+          for i in 1 2 3 4 5; do
+            if git push origin master; then
+              echo "✅ Push succeeded (attempt $i)."
+              echo "published=true" >> "$GITHUB_OUTPUT"
+              exit 0
+            fi
+            if [ "$i" -eq 5 ]; then
+              echo "❌ Push still failed after 5 attempts — there may be a real conflict; check manually." >&2
+              exit 1
+            fi
+            wait_s=$(( (RANDOM % 10) + 5 ))
+            echo "⏳ Push rejected (possible race with another workflow), rebasing & trying again in ${wait_s}s... (attempt $i/5)"
+            sleep "$wait_s"
+            git fetch origin master
+            # Stash any incidental working-tree noise (e.g. package-lock.json drift from
+            # npm ci) so it can't block the rebase below with "unstaged changes" errors.
+            git stash push -u -m "pre-rebase-autostash" || true
+            git rebase origin/master
+            git stash drop || true
+          done
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      # Pushes made with GITHUB_TOKEN above do NOT trigger recycle-and-deploy.yml's `push`
+      # trigger (GitHub's built-in anti-recursion safeguard — see permissions comment at the
+      # top). Without this step, today's new articles would just sit committed on `master`
+      # until recycle-and-deploy.yml's own cron happens to fire (up to ~2 days later). This
+      # explicitly dispatches it now, so today's articles go live today.
+      - name: Trigger Recycle & Deploy (publish today's articles now)
+        if: steps.commit_push.outputs.published == 'true'
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          echo "🚀 New articles pushed — triggering recycle-and-deploy.yml so they go live now..."
+          gh workflow run deploy.yml --ref master

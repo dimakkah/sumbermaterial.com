@@ -427,6 +427,90 @@ pagerSize = 6
   item = "Pompa Beton Kodok/Portable"
   price = "7.500.000 /hari"
 
+[[params.products]]
+    name = "Bangunan"
+[[params.products.items]]
+  item = "Jasa Desain Gambar Arsitek"
+  price = "35.000 /m²"
+[[params.products.items]]
+  item = "Jasa Bangun Rumah Kelas Standar"
+  price = "3.200.000 /m²"
+[[params.products.items]]
+  item = "Jasa Bangun Rumah Kelas Menengah"
+  price = "4.500.000 /m²"
+[[params.products.items]]
+  item = "Jasa Bangun Rumah Kelas Eksekutif"
+  price = "6.000.000 /m²"
+[[params.products.items]]
+  item = "Jasa Renovasi Rumah"
+  price = "2.500.000 /m²"
+[[params.products.items]]
+  item = "Jasa Pengawasan Proyek"
+  price = "3.000.000 /bulan"
+
+[[params.products]]
+    name = "Bengkel"
+[[params.products.items]]
+  item = "Teralis Besi Jendela"
+  price = "350.000 /m²"
+[[params.products.items]]
+  item = "Pintu Besi / Folding Gate"
+  price = "850.000 /m²"
+[[params.products.items]]
+  item = "Railing Tangga Besi"
+  price = "450.000 /meter"
+[[params.products.items]]
+  item = "Rolling Door"
+  price = "1.200.000 /m²"
+[[params.products.items]]
+  item = "Jasa Las Panggil"
+  price = "150.000 /titik"
+
+[[params.products]]
+    name = "Kanopi"
+[[params.products.items]]
+  item = "Kanopi Baja Ringan Atap Spandek"
+  price = "350.000 /m²"
+[[params.products.items]]
+  item = "Kanopi Baja Ringan Atap Alderon"
+  price = "400.000 /m²"
+[[params.products.items]]
+  item = "Kanopi Polycarbonate Solite/Twinlite"
+  price = "450.000 /m²"
+[[params.products.items]]
+  item = "Kanopi Kaca Tempered"
+  price = "750.000 /m²"
+
+[[params.products]]
+    name = "Kusen"
+[[params.products.items]]
+  item = "Kusen Pintu Kayu Kamper"
+  price = "850.000 /set"
+[[params.products.items]]
+  item = "Kusen Jendela Kayu Kamper"
+  price = "450.000 /set"
+[[params.products.items]]
+  item = "Kusen Aluminium"
+  price = "275.000 /m²"
+[[params.products.items]]
+  item = "Kusen UPVC"
+  price = "650.000 /m²"
+
+[[params.products]]
+    name = "Pagar"
+[[params.products.items]]
+  item = "Pagar BRC"
+  price = "195.000 /meter"
+[[params.products.items]]
+  item = "Pagar Panel Beton"
+  price = "320.000 /meter"
+[[params.products.items]]
+  item = "Pagar Besi Minimalis"
+  price = "550.000 /meter"
+[[params.products.items]]
+  item = "Pagar Hollow Galvalum"
+  price = "280.000 /meter"
+
   # Menu Section
   [[params.menu_items]]
     title = "Beranda"
@@ -466,6 +550,7 @@ pagerSize = 6
 [outputs]
   home = ["HTML", "RSS"]
   page = ["HTML", "AMP"]
+  404  = ["HTML", "AMP"]
 
 [outputFormats]
   [outputFormats.AMP]

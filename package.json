@@ -4,23 +4,29 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "prebuild": "node process-spintax.js",
+    "prebuild": "node tools/process-spintax.js",
     "build": "hugo --minify && npm run compress-sitemap",
     "start": "npm run prebuild && hugo server",
-    "compress-sitemap": "node compress-sitemap.js",
-    "recycle": "node recycle-posts.js",
-    "build:recycle": "npm run recycle && npm run build",
     "dev": "hugo server -D",
     "clean": "rm -rf public resources",
-    "build:prod": "npm run clean && npm run build:recycle"
+    "compress-sitemap": "node tools/compress-sitemap.js",
+    "generate": "node tools/generate-articles.js",
+    "generate:dry-run": "node tools/generate-articles.js --dry-run",
+    "dedup:scan": "node tools/dedup-lapis1.js",
+    "revise": "node tools/revise-articles.js --apply --limit=20",
+    "revise:dry-run": "node tools/revise-articles.js",
+    "orphans:find": "node tools/find-orphans.js",
+    "orphans:fix": "node tools/fix-orphans.js --apply --limit=10",
+    "recycle": "node tools/recycle-posts.js"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "toml": "^3.0.0",
-    "js-yaml": "^4.1.0",
+    "axios": "^0.21.1",
     "gray-matter": "^4.0.3",
-    "axios": "^0.21.1"
+    "js-yaml": "^4.1.0",
+    "sharp": "^0.33.5",
+    "toml": "^3.0.0"
   }
 }

@@ -1,0 +1,156 @@
+name: Recycle Old Posts
+
+on:
+  schedule:
+    # Weekly (Sunday 00:00 UTC = 07:00 WIB). Recycling only touches articles ≥12 months old —
+    # the pool of newly-eligible articles per day/week is naturally tiny (a slow, gradual
+    # threshold), so there's no real freshness benefit to checking more often than this, only
+    # extra CI minutes and repo-checkout overhead (this repo's checkout alone can take
+    # 30-90 minutes). If you'd rather check every 2 days instead, change the cron below to
+    # '0 0 */2 * *' — either is fine, weekly just costs less for the same practical result.
+    - cron: '0 0 * * 0'
+  workflow_dispatch:
+
+# Serialize with deploy.yml — both can build/deploy to gh-pages, and this workflow also
+# commits to master, so running in parallel risks a messy deploy or a push race.
+concurrency:
+  group: dataweb-repo-write
+  cancel-in-progress: false
+
+jobs:
+  recycle:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Cleanup Disk Space
+        run: |
+          echo "Disk space sebelum cleanup:"
+          df -h
+          sudo rm -rf /usr/local/lib/android
+          sudo rm -rf /usr/share/dotnet
+          sudo rm -rf /opt/ghc
+          sudo rm -rf /opt/hostedtoolcache
+          echo "Disk space sesudah cleanup:"
+          df -h
+
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+          fetch-tags: false
+
+      # Idempotent — see the full explanation in generate-articles.yml. It simply needs to be executed.
+      # ...once by whichever workflow runs first; the other workflow will automatically skip.
+      - name: Untrack node_modules (one-way, idempotent)
+        run: |
+          if [ -n "$(git ls-files node_modules/ | head -n1)" ]; then
+            echo "📦 node_modules is still being tracked in Git — untrack it now..."
+            git config --local user.email "action@github.com"
+            git config --local user.name "GitHub Action"
+            grep -qxF 'node_modules/' .gitignore 2>/dev/null || echo "node_modules/" >> .gitignore
+            git rm -r --cached node_modules >/dev/null
+            git add .gitignore
+            git commit -m "chore: untrack node_modules [skip ci]"
+            git push origin master
+            echo "✅ node_modules has been successfully untracked and pushed."
+          else
+            echo "✅ node_modules is no longer tracked — nothing needs to be done."
+          fi
+
+      - name: Setup Hugo
+        uses: peaceiris/actions-hugo@v3
+        with:
+          hugo-version: '0.124.0'
+          extended: true
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20.14.0'
+          cache: 'npm'
+
+      - name: Install Dependencies
+        run: npm ci
+
+      - name: Verify Installations
+        run: |
+          node --version
+          npm --version
+          hugo version
+
+      - name: Run Recycle and Build
+        run: npm run build:recycle
+
+      - name: Prepare GitHub Pages
+        run: |
+          mkdir -p public
+          echo "sumbermaterial.com" > public/CNAME
+
+      - name: Configure Git
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+
+      - name: Commit Changes
+        run: |
+          # static/ added alongside content/ and data/: recycle-posts.js's IndexNow
+          # integration (tools/lib/index-ping.js) creates a one-time verification file at
+          # static/<key>.txt the first time it ever runs. Without committing static/ here,
+          # that file would never make it to the deployed site, and every IndexNow
+          # submission would keep failing key verification.
+          git add content/ data/ static/
+          # .indexnow-key.json (repo root) is the small state file that remembers the same
+          # key across runs — same pattern as .revise-progress.json elsewhere in this repo.
+          [ -f .indexnow-key.json ] && git add .indexnow-key.json
+
+          if git diff --staged --quiet; then
+            echo "ℹ️  No articles to recycle this week — done."
+            exit 0
+          fi
+
+          git commit -m "Recycle posts and rebuild [skip ci]"
+
+      - name: Push Changes
+        run: |
+          for i in 1 2 3 4 5; do
+            if git push origin master; then
+              echo "✅ Push successful (attempt $i)."
+              exit 0
+            fi
+            if [ "$i" -eq 5 ]; then
+              echo "❌ The push still fails after 5 attempts—there is likely a genuine conflict; please check manually." >&2
+              exit 1
+            fi
+            wait_s=$(( (RANDOM % 10) + 5 ))
+            echo "⏳ Push rejected (possible race with another workflow), rebasing & retrying in ${wait_s}s... (attempt $i/5)"
+            sleep "$wait_s"
+            git fetch origin master
+            # Stash irrelevant working-tree changes (mis. drift node_modules/
+            # package-lock.json from npm ci) so that it does not interfere with the rebase below.
+            git stash push -u -m "pre-rebase-autostash" || true
+            git rebase origin/master
+            git stash drop || true
+          done
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Cleanup node_modules
+        if: always()
+        run: |
+          rm -rf node_modules .npm
+          npm cache clean --force
+          echo "Disk space after cleanup node_modules:"
+          df -h
+
+      - name: Deploy to GitHub Pages
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./public
+          publish_branch: gh-pages
+          full_commit_message: ${{ format('Recycle & deploy — {0}', github.run_id) }}
+
+      - name: Verify Deployment
+        run: |
+          echo "Deployment complete!"
+          ls -l public

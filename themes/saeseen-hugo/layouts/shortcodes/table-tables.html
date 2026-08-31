@@ -1,0 +1,53 @@
+{{/*
+  layouts/shortcodes/table-tables.html
+
+  PEMAKAIAN DI KONTEN MARKDOWN:
+    {{< table-tables table="Pasir" >}}
+
+  Merender tabel HTML statis (BUKAN sintaks tabel Markdown/Goldmark) dari data yang SUDAH ADA
+  di config.toml lewat [[params.products]] — sumber data yang sama persis dipakai halaman
+  /daftar-harga/ (lihat layouts/_default/daftar-harga.html). Jadi harga hanya dikelola di SATU
+  tempat (config.toml); shortcode ini tidak pernah menyimpan salinan harga sendiri.
+
+  Kenapa HTML manual, bukan tabel Markdown biasa:
+  - AI (lewat generate-articles.js / revise-articles.js) tidak pernah diminta menulis sintaks
+    tabel Markdown mentah (baris "|...|" + garis pemisah "---") karena itu sumber umum build
+    Hugo gagal (kolom tidak konsisten, baris pemisah hilang, dsb). Prinsip yang sama dipakai
+    tools/lib/safe-table.js untuk tabel spesifikasi bebas buatan AI.
+  - config.toml sudah punya `[markup.goldmark.renderer] unsafe = true`, jadi HTML mentah di
+    dalam Markdown memang sudah didukung situs ini.
+
+  "table" harus sama persis (tidak case-sensitive) dengan salah satu field `name` di
+  [[params.products]], contoh yang sudah ada di config.toml saat ini:
+    "Pasir", "Batu", "Bata dan Batako", "Beton Readymix", "Aspal", "Wiremesh",
+    "Baja Ringan", "Material Atap", "Material Dinding", "Besi", "Baja", "Sewa Alat"
+
+  Kalau nama tidak cocok (typo, atau kategori belum ada di config.toml), shortcode ini TIDAK
+  menghasilkan tabel kosong/rusak — ia menyisipkan komentar HTML penanda supaya gampang dicari
+  saat inspect-element, dan build tetap jalan normal.
+*/}}
+{{ $tableArg := .Get "table" }}
+{{ $match := where .Site.Params.products "name" $tableArg }}
+{{ with $match }}
+  {{ $category := index . 0 }}
+  <table class="table price-table-shortcode">
+    <caption>Daftar Harga {{ $category.name }}</caption>
+    <thead>
+      <tr>
+        <th>Produk</th>
+        <th>Harga</th>
+      </tr>
+    </thead>
+    <tbody>
+      {{ range $category.items }}
+      <tr>
+        <td>{{ .item }}</td>
+        <td>Rp {{ .price }}</td>
+      </tr>
+      {{ end }}
+    </tbody>
+  </table>
+  <p class="price-info">Harga di atas bersifat estimasi dan dapat berubah sewaktu-waktu — hubungi Kami lewat tombol Telepon/WhatsApp di halaman ini untuk penawaran terbaru dan paling akurat.</p>
+{{ else }}
+  <!-- table-tables: tabel "{{ $tableArg }}" tidak ditemukan — cek ejaan terhadap field "name" di [[params.products]] pada config.toml -->
+{{ end }}
