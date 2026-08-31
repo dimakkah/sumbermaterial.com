@@ -1,7 +1,3 @@
-## SEED KEYWORDS - SUMBER MATERIAL
-## Diperbarui dengan keywords relevan dari semua kategori produk dan jasa
-
-# KATEGORI: BAJA RINGAN
 harga baja ringan
 baja ringan konstruksi
 rangka baja ringan
@@ -17,8 +13,6 @@ distributor baja ringan
 baja ringan harga grosir
 baja ringan CNP
 baja ringan Zincalume
-
-# KATEGORI: BANGUNAN
 material bangunan
 supplier bangunan
 konstruksi bangunan
@@ -34,8 +28,6 @@ material bangunan rumah
 material bangunan ruko
 material bangunan gedung
 list material bangunan
-
-# KATEGORI: BATA
 batu bata merah harga
 batu bata merah ukuran
 batu bata merah per biji
@@ -51,8 +43,6 @@ bata merah ringan
 bata merah solid
 beli bata merah
 supplier bata merah
-
-# KATEGORI: BATU
 harga batu split
 ukuran batu split
 batu split untuk cor
@@ -68,8 +58,6 @@ batu split 10-20
 batu split 15-30
 batu belah harga
 batu split per meter
-
-# KATEGORI: BENGKEL
 jasa bengkel besi
 jasa pengerjaan logam
 jasa fabrikasi besi
@@ -85,8 +73,6 @@ bengkel kalimantan
 jasa kustomisasi metal
 jasa pengelasan profesional
 jasa pembengkokan besi
-
-# KATEGORI: BESI
 harga besi beton
 besi tulangan harga
 besi profil harga
@@ -102,8 +88,6 @@ besi beton 12 mm
 besi beton 16 mm
 besi ulir
 besi polos
-
-# KATEGORI: HEBEL
 harga hebel per m3
 harga bata ringan per kubik
 harga hebel per biji
@@ -119,8 +103,6 @@ hebel ringan
 hebel berkualitas
 material hebel
 pemasangan hebel
-
-# KATEGORI: KANOPI
 harga kanopi
 kanopi baja ringan
 kanopi polycarbonate
@@ -136,8 +118,6 @@ kanopi transparan
 kanopi warna
 jual kanopi
 supplier kanopi
-
-# KATEGORI: KUSEN
 harga kusen
 kusen aluminium harga
 kusen kayu harga
@@ -153,8 +133,6 @@ kusen jendela minimalis
 pemasangan kusen
 kusen berkualitas
 kusen custom
-
-# KATEGORI: PAGAR
 harga pagar
 pagar besi harga
 pagar minimalis harga
@@ -170,8 +148,6 @@ pagar ornamen
 pagar anti rayap
 jual pagar
 supplier pagar
-
-# KATEGORI: PASIR
 harga pasir per kubik
 harga pasir 1 truk
 harga pasir bangunan per m3
@@ -187,8 +163,6 @@ pasir terusan
 pasir halus
 pasir kasar
 pasir bangunan murah
-
-# KATEGORI: READYMIX
 harga beton readymix
 ready mix beton harga
 cor readymix harga
@@ -204,8 +178,6 @@ beton cor rumah
 beton berkualitas
 supplier beton ready mix
 jual beton readymix
-
-# KATEGORI: JASA
 jasa konstruksi
 jasa bangunan
 jasa pengiriman material
@@ -221,8 +193,6 @@ jasa bergaransi
 jasa konsultasi
 jasa design
 jasa teknis
-
-# KATEGORI: JASA COR
 harga jasa cor beton
 jasa cor beton rumah
 jasa cor beton per m3
@@ -238,8 +208,6 @@ jasa cor berpengalaman
 jasa cor cepat
 jasa cor murah
 jasa cor berkualitas
-
-# KATEGORI: JASA URUG
 jasa urugan tanah
 harga tanah urug per m3
 harga tanah urug 1 truk
@@ -255,8 +223,6 @@ kontaktor urugan
 jasa urugan profesional
 jasa urugan cepat
 jasa urugan berpengalaman
-
-# KATEGORI: INFO
 tips konstruksi
 panduan pemilihan material
 artikel bangunan
@@ -272,8 +238,6 @@ guide konstruksi
 blog material bangunan
 artikel konstruksi
 berita bangunan
-
-# KATEGORI: INFO BESI
 jenis-jenis besi
 ukuran besi standar
 aplikasi besi beton
@@ -289,8 +253,6 @@ besi untuk pagar
 besi untuk tangga
 info besi beton
 info besi profil
-
-# KATEGORI: INFO URUGAN
 teknik pengurugan
 material urugan
 cara pengurugan
@@ -306,8 +268,6 @@ info urugan tanah
 info tanah urug
 spesifikasi urugan
 tutorial pengurugan
-
-# KATEGORI: WF (WIDE FLANGE)
 profil WF harga
 baja WF harga
 WF 100x50
@@ -323,20 +283,3 @@ WF untuk gedung
 WF untuk jembatan
 WF berkualitas
 distributor WF
-
-# KATEGORI: PRODUCT
-katalog produk
-daftar produk
-produk material bangunan
-produk terlengkap
-produk berkualitas
-produk terbaru
-harga produk
-info produk
-detail produk
-produk unggulan
-produk pilihan
-produk promo
-produk terjangkau
-produk grosir
-produk satuan
