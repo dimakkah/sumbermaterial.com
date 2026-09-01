@@ -164,6 +164,27 @@ function main() {
   }
   console.log(`\n\n🔗 Completed in ${fmtDuration(Date.now() - t0)}: ${candidatePairs.length} candidate pairs.\n`);
 
+  // On a site with many thousands of location-variant articles per product (e.g. "Jual Pasir
+  // Cor di <Kota>" repeated across hundreds of cities), it's normal for the vast majority of
+  // pairs within a category to legitimately score above CAND_THRESHOLD — they really are
+  // near-duplicates. But revise-articles.js can only ever process a small number per run
+  // (--limit=20/day), so persisting millions of pairs is both useless (it would take literal
+  // centuries to work through them all) AND unsafe: JSON.stringify() throws
+  // "RangeError: Invalid string length" once the serialized output exceeds V8's maximum
+  // string length (roughly 500MB-1GB depending on Node version) — which a multi-million-pair
+  // array easily can. Keeping only the highest-similarity pairs means the most urgent/obvious
+  // near-duplicates surface first; simply re-run this script after revise-articles.js works
+  // through the current batch to surface the next tier down.
+  const MAX_CANDIDATES = parseInt((ARGS.find(a => a.startsWith('--max-candidates=')) || '').replace('--max-candidates=', ''), 10) || 20000;
+  const totalFound = candidatePairs.length;
+  if (totalFound > MAX_CANDIDATES) {
+    candidatePairs.sort((a, b) => b.bigramScore - a.bigramScore); // most similar first
+    candidatePairs.length = MAX_CANDIDATES; // truncate array in place
+    console.log(`✂️  ${totalFound} pasangan ditemukan, dipangkas ke ${MAX_CANDIDATES} yang paling mirip`);
+    console.log(`   (sisanya akan muncul lagi kalau dijalankan ulang setelah batch ini selesai direvisi,`);
+    console.log(`   atau naikkan batas lewat --max-candidates=N kalau memang mau simpan lebih banyak sekaligus).\n`);
+  }
+
   // Only save titles that are actually needed (reduce file size & Layer 2 work)
   const neededUrls = new Set(candidatePairs.flatMap(p => [p.aUrl, p.bUrl]));
   const titleMap = {};
@@ -173,6 +194,8 @@ function main() {
     generatedAt: new Date().toISOString(),
     signature: computeSignature(allMeta),
     candidateThreshold: CAND_THRESHOLD,
+    totalCandidatesFound: totalFound,
+    candidatesSaved: candidatePairs.length,
     titles: titleMap,
     candidatePairs,
   };

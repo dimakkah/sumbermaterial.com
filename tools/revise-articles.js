@@ -12,6 +12,12 @@
  *     <div class="video-responsive">...</div> (embedded YouTube iframes) — never reworded or
  *     touched, since a multi-attribute HTML table is easy for an LLM to subtly malform
  *     (dropped closing tag, mismatched cell count) with no upside to letting it try.
+ *   - All pre-existing Markdown links [text](url) in the body, including external reference
+ *     links (e.g. "_Referensi tambahan: [Bata_merah_wikipedia](https://id.wikipedia.org/...)_"
+ *     in content/product articles) — the AI never sees the raw link syntax, only a
+ *     placeholder, so it cannot reword the anchor text, invent a different URL, or drop the
+ *     link. This does not block instruction #15 (revise-articles.json) from adding a brand
+ *     NEW internal link — only links already present before revision are protected.
  *
  * GUARANTEED IN THE REVISION RESULT:
  *   - The location name (extracted from title, e.g. "Abadijaya Depok") must still
@@ -316,6 +322,27 @@ function protectStructure(content) {
     placeholders.push(match);
     return `[[[PLACEHOLDER_${idx}]]]`;
   });
+
+  // Pre-existing Markdown links [text](url) — e.g. "_Referensi tambahan:
+  // [Bata_merah_wikipedia](https://id.wikipedia.org/wiki/Batu_bata)_" in content/product
+  // articles. These sit inline in ordinary prose, so without this step they would be sent to
+  // the AI as plain text along with everything else it's asked to reword — meaning the AI
+  // could paraphrase the anchor text, invent a different URL, or drop the reference entirely.
+  // Protecting them the same way as images/shortcodes means the AI never even sees the raw
+  // link syntax, only a placeholder token, so it literally cannot alter it. This intentionally
+  // protects ALL pre-existing links (external references AND any existing internal links),
+  // not just external ones — the revision task has no legitimate reason to change a link that
+  // was already there. This does NOT prevent instruction #15 (revise-articles.json) from
+  // having the AI ADD a brand-new internal link from the offered candidate list — that link
+  // does not exist in the original content, so there is nothing here for it to match.
+  // Must run AFTER image protection above (so `![...](...)` is already consumed and this
+  // plain-link pattern can't accidentally re-match its `[...](...)` remainder).
+  protectedContent = protectedContent.replace(/\[([^\]]+)\]\(([^)\s]+)\)/g, (match) => {
+    const idx = placeholders.length;
+    placeholders.push(match);
+    return `[[[PLACEHOLDER_${idx}]]]`;
+  });
+
   // Hugo shortcodes {{< ... >}}
   protectedContent = protectedContent.replace(/\{\{<.*?>\}\}/g, (match) => {
     const idx = placeholders.length;
