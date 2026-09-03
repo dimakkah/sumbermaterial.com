@@ -24,13 +24,13 @@ jobs:
     steps:
       - name: Cleanup Disk Space
         run: |
-          echo "Disk space sebelum cleanup:"
+          echo "Disk space before cleanup:"
           df -h
           sudo rm -rf /usr/local/lib/android
           sudo rm -rf /usr/share/dotnet
           sudo rm -rf /opt/ghc
           sudo rm -rf /opt/hostedtoolcache
-          echo "Disk space sesudah cleanup:"
+          echo "Disk space after cleanup:"
           df -h
 
       - name: Checkout Repository
@@ -125,7 +125,7 @@ jobs:
             echo "⏳ Push rejected (possible race with another workflow), rebasing & retrying in ${wait_s}s... (attempt $i/5)"
             sleep "$wait_s"
             git fetch origin master
-            # Stash irrelevant working-tree changes (mis. drift node_modules/
+            # Stash irrelevant working-tree changes (e.g. drift node_modules/
             # package-lock.json from npm ci) so that it does not interfere with the rebase below.
             git stash push -u -m "pre-rebase-autostash" || true
             git rebase origin/master
@@ -148,6 +148,7 @@ jobs:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./public
           publish_branch: gh-pages
+          force_orphan: true
           full_commit_message: ${{ format('Recycle & deploy — {0}', github.run_id) }}
 
       - name: Verify Deployment

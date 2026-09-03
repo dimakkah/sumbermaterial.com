@@ -23,13 +23,13 @@ jobs:
     steps:
       - name: Cleanup Disk Space
         run: |
-          echo "Disk space sebelum cleanup:"
+          echo "Disk space before cleanup:"
           df -h
           sudo rm -rf /usr/local/lib/android
           sudo rm -rf /usr/share/dotnet
           sudo rm -rf /opt/ghc
           sudo rm -rf /opt/hostedtoolcache
-          echo "Disk space sesudah cleanup:"
+          echo "Disk space after cleanup:"
           df -h
 
       - name: Checkout Repository
@@ -71,7 +71,7 @@ jobs:
         run: |
           rm -rf node_modules .npm
           npm cache clean --force
-          echo "Disk space setelah cleanup node_modules:"
+          echo "Disk space after node_modules cleanup:"
           df -h
 
       - name: Deploy to GitHub Pages
@@ -80,9 +80,16 @@ jobs:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./public
           publish_branch: gh-pages
+          # force_orphan: each deploy becomes EXACTLY 1 new commit (the gh-pages branch's old
+          # history is discarded automatically), instead of stacking a new commit on top of the
+          # previous one. gh-pages is purely a build artifact — nothing needs its old history —
+          # and without this, the branch can accumulate thousands of large commits (one per
+          # deploy) forever, becoming the main contributor to the repo's size ballooning over
+          # time.
+          force_orphan: true
           full_commit_message: ${{ github.event.head_commit.message || format('Deploy — {0}', github.run_id) }}
 
       - name: Verify Deployment
         run: |
-          echo "Deployment selesai!"
+          echo "Deployment complete!"
           ls -l public

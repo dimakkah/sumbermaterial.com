@@ -1,0 +1,88 @@
+name: Reset gh-pages History (every 6 months + manual)
+
+# Scheduled every 6 months (Jan 1 and Jul 1, 03:00 UTC) as a safety net in case gh-pages
+# history somehow starts accumulating again despite `force_orphan: true` being set on
+# deploy.yml / recycle.yml (e.g. if someone reverts that setting, or a future workflow change
+# reintroduces normal commits to this branch). Under normal operation, force_orphan already
+# keeps gh-pages at exactly one commit after every deploy, so this scheduled run should
+# usually find nothing to do and just exit quickly — it's a low-cost periodic check, not a
+# workflow this repo depends on running frequently. Can also be triggered manually anytime via
+# workflow_dispatch if history needs to be cleared sooner (e.g. right after a one-time
+# migration, as documented for this repo's initial cleanup).
+on:
+  schedule:
+    - cron: '0 3 1 1,7 *'
+  workflow_dispatch:
+    inputs:
+      confirm:
+        description: 'Type exactly RESET to confirm (this permanently deletes ALL gh-pages commit history — cannot be undone)'
+        required: true
+
+concurrency:
+  group: dataweb-repo-write
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+  actions: write
+
+jobs:
+  reset-gh-pages:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Validate confirmation input
+        run: |
+          # Scheduled runs don't provide this input at all — only require it for manual
+          # workflow_dispatch runs, so the 6-month cron trigger doesn't need a human present.
+          if [ "${{ github.event_name }}" = "workflow_dispatch" ] && [ "${{ github.event.inputs.confirm }}" != "RESET" ]; then
+            echo "❌ Confirmation text did not match. Type exactly 'RESET' (all caps) to run this."
+            exit 1
+          fi
+          echo "✅ Confirmed, proceeding."
+
+      - name: Checkout Repository (shallow — no history needed)
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+
+      - name: Configure Git
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+
+      - name: Create fresh orphan gh-pages branch
+        run: |
+          echo "📊 .git size BEFORE reset:"
+          du -sh .git
+
+          git checkout --orphan gh-pages-reset
+          git rm -rf . > /dev/null
+          echo "This branch is managed automatically by deploy.yml / recycle.yml — do not edit manually." > README.md
+          git add README.md
+          git commit -m "Reset gh-pages: clear old commit history"
+
+      - name: Force-push as new gh-pages
+        run: |
+          git push origin gh-pages-reset:gh-pages --force
+          echo "✅ gh-pages has been reset to a single commit."
+
+      # The live site will briefly show a blank/404 page since the new gh-pages branch only
+      # contains README.md at this point — trigger deploy.yml immediately so the actual built
+      # site republishes right away and minimizes downtime.
+      - name: Trigger Deploy (republish immediately to minimize downtime)
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          echo "🚀 Triggering deploy.yml so the site is live again..."
+          gh workflow run deploy.yml --ref master
+
+      - name: Summary
+        run: |
+          echo "✅ Reset complete. deploy.yml has been triggered to repopulate gh-pages."
+          echo "ℹ️  Check the Actions tab in a few minutes to confirm deploy.yml finished"
+          echo "   successfully, then check the live site to confirm it's back to normal."
+          echo ""
+          echo "⚠️  IMPORTANT: make sure deploy.yml and recycle.yml both have"
+          echo "   'force_orphan: true' set (check the 'Deploy to GitHub Pages' step in each"
+          echo "   file) — without it, gh-pages history will start accumulating again from the"
+          echo "   next deploy onward, and this reset will need to run again."

@@ -32,7 +32,7 @@ jobs:
       - name: Checkout Repository
         uses: actions/checkout@v4
         with:
-          fetch-depth: 0
+          fetch-depth: 1
 
       # Idempotent — see the same step in generate-articles.yml/revise-articles.yml for full
       # context. Included here too since this workflow can run independently of those.
@@ -90,7 +90,7 @@ jobs:
             exit 0
           fi
 
-          git commit -m "Sisipkan internal link untuk artikel yang belum ter-link (orphan fix)"
+          git commit -m "Insert internal link for previously unlinked article (orphan fix)"
 
           for i in 1 2 3 4 5; do
             if git push origin master; then

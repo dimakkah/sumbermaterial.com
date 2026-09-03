@@ -2,13 +2,13 @@ name: Generate Articles from GSC Keywords
 
 on:
   schedule:
-    # 06:00 UTC = 13:00 WIB (siang hari). Deliberately far from revise-articles.yml's
-    # 18:00 UTC (01:00 WIB dini hari) — a ~12h gap so their (variable, sometimes 30-90min)
-    # runtimes don't overlap even on a bad day.
+    # 06:00 UTC = 13:00 local Indonesia time (WIB/daytime). Deliberately far from
+    # revise-articles.yml's 18:00 UTC (01:00 WIB, early morning) — a ~12h gap so their
+    # (variable, sometimes 30-90min) runtimes don't overlap even on a bad day.
     - cron: '0 6 * * *'
   workflow_dispatch:
 
-# Serialize with revise-articles.yml and recycle-and-deploy.yml — they all commit/push to
+# Serialize with revise-articles.yml and deploy.yml — they all commit/push to
 # the same `master` branch, and running in parallel causes push-rejected races (git rebase
 # can even fail outright if the working tree isn't clean). Same group name across all three
 # workflow files makes GitHub Actions queue them instead of racing.
@@ -18,7 +18,7 @@ concurrency:
 
 permissions:
   contents: write
-  # Needed to explicitly trigger recycle-and-deploy.yml at the end of this run (see last
+  # Needed to explicitly trigger deploy.yml at the end of this run (see last
   # step below). Pushes made with GITHUB_TOKEN do NOT fire other workflows' `push` triggers
   # (GitHub's anti-recursion safeguard) — an explicit workflow_dispatch call is the
   # GitHub-sanctioned way around that, and it needs this permission.
@@ -32,7 +32,7 @@ jobs:
       - name: Checkout Repository
         uses: actions/checkout@v4
         with:
-          fetch-depth: 0
+          fetch-depth: 1
 
       # One-time, self-healing repo cleanup: node_modules got committed to git at some point,
       # which makes every `npm ci`/`npm install` produce spurious "modified" noise (minor
@@ -125,15 +125,15 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      # Pushes made with GITHUB_TOKEN above do NOT trigger recycle-and-deploy.yml's `push`
+      # Pushes made with GITHUB_TOKEN above do NOT trigger deploy.yml's `push`
       # trigger (GitHub's built-in anti-recursion safeguard — see permissions comment at the
       # top). Without this step, today's new articles would just sit committed on `master`
-      # until recycle-and-deploy.yml's own cron happens to fire (up to ~2 days later). This
+      # until deploy.yml's own cron happens to fire (up to ~2 days later). This
       # explicitly dispatches it now, so today's articles go live today.
-      - name: Trigger Recycle & Deploy (publish today's articles now)
+      - name: Trigger Deploy (publish today's articles now)
         if: steps.commit_push.outputs.published == 'true'
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
-          echo "🚀 New articles pushed — triggering recycle-and-deploy.yml so they go live now..."
+          echo "🚀 New articles pushed — triggering deploy.yml so they go live now..."
           gh workflow run deploy.yml --ref master
