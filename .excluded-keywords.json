@@ -173,5 +173,26 @@
     "matchedTitle": "Toko Material Terdekat: Solusi Lengkap Kebutuhan Bangunan Anda di Jabodetabek",
     "taggedAt": "2026-09-04T10:22:19.601Z",
     "algoVersion": 2
+  },
+  "jual pasir bangka terdekat": {
+    "reason": "similar to existing article",
+    "matchedFile": "pasir-bangka-coklat.md",
+    "matchedTitle": "Pasir Bangka Coklat: Panduan Lengkap untuk Proyek Konstruksi Anda",
+    "taggedAt": "2026-09-05T09:43:38.705Z",
+    "algoVersion": 2
+  },
+  "pasir coklat bangunan": {
+    "reason": "similar to existing article",
+    "matchedFile": "pasir-bangka-coklat.md",
+    "matchedTitle": "Pasir Bangka Coklat: Panduan Lengkap untuk Proyek Konstruksi Anda",
+    "taggedAt": "2026-09-05T09:43:38.706Z",
+    "algoVersion": 2
+  },
+  "beli batu kali terdekat": {
+    "reason": "similar to existing article",
+    "matchedFile": "harga-batu-kali-per-kubik.md",
+    "matchedTitle": "Harga Batu Kali Per Kubik Terbaru 2026: Panduan Lengkap untuk Proyek Anda",
+    "taggedAt": "2026-09-05T09:43:38.709Z",
+    "algoVersion": 2
   }
 }
