@@ -80,13 +80,14 @@ jobs:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./public
           publish_branch: gh-pages
-          # force_orphan: each deploy becomes EXACTLY 1 new commit (the gh-pages branch's old
-          # history is discarded automatically), instead of stacking a new commit on top of the
-          # previous one. gh-pages is purely a build artifact — nothing needs its old history —
-          # and without this, the branch can accumulate thousands of large commits (one per
-          # deploy) forever, becoming the main contributor to the repo's size ballooning over
-          # time.
-          force_orphan: true
+          # force_orphan is DELIBERATELY NOT set here. Routine deploys commit incrementally
+          # (git only transfers/stores what actually changed since the last deploy), which is
+          # far cheaper per-run than force_orphan's "every deploy is a full fresh tree" cost —
+          # this repo deploys multiple times a day (generate-articles.yml + revise-articles.yml
+          # both trigger it daily), so that cost adds up fast. gh-pages history is still kept
+          # from growing unbounded, but by reset-gh-pages.yml running on its own schedule
+          # (every 6 months) instead of on every single deploy — see that workflow's file
+          # header for the full reasoning behind this trade-off.
           full_commit_message: ${{ github.event.head_commit.message || format('Deploy — {0}', github.run_id) }}
 
       - name: Verify Deployment

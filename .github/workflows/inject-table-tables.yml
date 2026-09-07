@@ -1,0 +1,113 @@
+name: Inject / Convert Price Table Shortcodes
+
+# Manual only — this is an editorial content-cleanup operation, not something that should run
+# unattended. Two modes, selected via the `mode` input:
+#   heading-injection    → insert {{< table-tables table="..." >}} below the first "## Harga..."
+#                          heading, for articles that don't have a price table at all yet.
+#   convert-html-tables  → replace the first raw <table>...</table> block with the shortcode,
+#                          for older articles that already have a hand-written HTML price
+#                          table baked into the body.
+# See tools/inject-table-tables.js's own file header for the full reasoning and the
+# recommended order (convert-html-tables first, then heading-injection) when a category has a
+# mix of both article types.
+on:
+  workflow_dispatch:
+    inputs:
+      mode:
+        description: 'Which mode to run'
+        required: true
+        type: choice
+        options:
+          - heading-injection
+          - convert-html-tables
+        default: heading-injection
+      apply:
+        description: 'Actually write changes? (false = dry-run only, just shows the log)'
+        required: true
+        type: boolean
+        default: false
+
+concurrency:
+  group: dataweb-repo-write
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+  actions: write
+
+jobs:
+  inject-table-tables:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+
+      - name: Run inject-table-tables.js
+        run: |
+          FLAGS=""
+          if [ "${{ github.event.inputs.mode }}" = "convert-html-tables" ]; then
+            FLAGS="--convert-html-tables"
+          fi
+          if [ "${{ github.event.inputs.apply }}" = "true" ]; then
+            FLAGS="$FLAGS --apply"
+          fi
+          echo "Running: node tools/inject-table-tables.js $FLAGS"
+          node tools/inject-table-tables.js $FLAGS
+
+      - name: Configure Git
+        if: github.event.inputs.apply == 'true'
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+
+      - name: Commit and Push Changes
+        id: commit_push
+        if: github.event.inputs.apply == 'true'
+        run: |
+          git add content/
+
+          if git diff --staged --quiet; then
+            echo "ℹ️  Nothing to commit (no articles matched this run) — done."
+            echo "published=false" >> "$GITHUB_OUTPUT"
+            exit 0
+          fi
+
+          COMMIT_MSG="Price table shortcode: ${{ github.event.inputs.mode }}"
+          git commit -m "$COMMIT_MSG"
+
+          for i in 1 2 3 4 5; do
+            if git push origin master; then
+              echo "✅ Push succeeded (attempt $i)."
+              echo "published=true" >> "$GITHUB_OUTPUT"
+              exit 0
+            fi
+            if [ "$i" -eq 5 ]; then
+              echo "❌ Push still failed after 5 attempts — there may be a real conflict; check manually." >&2
+              exit 1
+            fi
+            wait_s=$(( (RANDOM % 10) + 5 ))
+            echo "⏳ Push rejected (possible race with another workflow), rebasing & trying again in ${wait_s}s... (attempt $i/5)"
+            sleep "$wait_s"
+            git fetch origin master
+            git stash push -u -m "pre-rebase-autostash" || true
+            git rebase origin/master
+            git stash drop || true
+          done
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Trigger Deploy (publish the change now)
+        if: steps.commit_push.outputs.published == 'true'
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          echo "🚀 Articles updated — triggering deploy.yml so the change goes live now..."
+          gh workflow run deploy.yml --ref master
+
+      - name: Dry-run notice
+        if: github.event.inputs.apply == 'false'
+        run: |
+          echo "ℹ️  This was a DRY-RUN (apply=false) — check the log above for the preview."
+          echo "   Nothing was written or committed. Re-run with apply=true once it looks right."

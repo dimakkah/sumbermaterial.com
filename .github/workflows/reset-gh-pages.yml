@@ -1,14 +1,15 @@
 name: Reset gh-pages History (every 6 months + manual)
 
-# Scheduled every 6 months (Jan 1 and Jul 1, 03:00 UTC) as a safety net in case gh-pages
-# history somehow starts accumulating again despite `force_orphan: true` being set on
-# deploy.yml / recycle.yml (e.g. if someone reverts that setting, or a future workflow change
-# reintroduces normal commits to this branch). Under normal operation, force_orphan already
-# keeps gh-pages at exactly one commit after every deploy, so this scheduled run should
-# usually find nothing to do and just exit quickly — it's a low-cost periodic check, not a
-# workflow this repo depends on running frequently. Can also be triggered manually anytime via
-# workflow_dispatch if history needs to be cleared sooner (e.g. right after a one-time
-# migration, as documented for this repo's initial cleanup).
+# Scheduled every 6 months (Jan 1 and Jul 1, 03:00 UTC). This is the ONLY mechanism that clears
+# gh-pages history in this repo — routine deploys (deploy.yml / recycle.yml) deliberately commit
+# incrementally, NOT with `force_orphan: true`, since a full-tree commit on every single deploy
+# (this repo deploys multiple times a day) is expensive. That trade-off means gh-pages DOES
+# accumulate commits between resets — roughly 6 months' worth each time — so unlike a pure
+# safety net, this workflow is expected to find real history to clear on every scheduled run,
+# not just occasionally. 6 months keeps that accumulation bounded to a moderate, predictable
+# amount (nowhere near the years of unbounded growth this repo had before this workflow
+# existed) while keeping routine deploys cheap. Can also be triggered manually anytime via
+# workflow_dispatch if history needs to be cleared sooner.
 on:
   schedule:
     - cron: '0 3 1 1,7 *'
@@ -82,7 +83,8 @@ jobs:
           echo "ℹ️  Check the Actions tab in a few minutes to confirm deploy.yml finished"
           echo "   successfully, then check the live site to confirm it's back to normal."
           echo ""
-          echo "⚠️  IMPORTANT: make sure deploy.yml and recycle.yml both have"
-          echo "   'force_orphan: true' set (check the 'Deploy to GitHub Pages' step in each"
-          echo "   file) — without it, gh-pages history will start accumulating again from the"
-          echo "   next deploy onward, and this reset will need to run again."
+          echo "ℹ️  By design, gh-pages will start accumulating incremental commits again from"
+          echo "   the very next deploy — routine deploys intentionally commit incrementally"
+          echo "   rather than resetting on every run (see deploy.yml / recycle.yml comments)."
+          echo "   That's expected: this workflow's 6-month schedule is what keeps that growth"
+          echo "   bounded, not a one-time fix. No action needed until the next scheduled run."

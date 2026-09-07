@@ -1252,16 +1252,15 @@ function parseAndSave(raw, keyword, slug, imagePath, greeting, relatedCandidates
 
   body = body.replace(/IMAGE_PLACEHOLDER/g, imagePath);
 
-  // Insert {{< toc >}} right after the opening paragraph — rather than relying on the automatic
-  // TOC rendering triggered by `toc: true` in the front matter. That automatic rendering
-  // (via `{{ if and (.Params.toc) ... }} {{ .TableOfContents }}` in single.html) appears
-  // *before* the featured image and post content, creating a disjointed flow—exactly the
-  // issue found in the actual sumbermaterial.com article (harga-batako-putih.md), where
-  // the TOC list sat right below the featured image—even before the opening paragraph
-  // appeared—and lacked a "Table of Contents:" heading. Explicitly inserting the shortcode
-  // here replicates the style of the site's older articles (e.g.,
-  // biaya-bangun-rumah-per-meter-di-abadijaya-depok.md): opening paragraph → {{< toc >}}
-  // (with the "Table of Contents:" heading from layouts/shortcodes/toc.html) → image → first H2.
+  // Insert {{< toc >}} right after the opening paragraph — NOT relying on the automatic TOC
+  // render from `toc: true` in frontmatter. That automatic render (via single.html's
+  // `{{ if and (.Params.toc) ... }} {{ .TableOfContents }}`) appears BEFORE the featured image
+  // and post-content, so it looks disconnected from the article flow — exactly the bug found
+  // in a real sumbermaterial.com article (harga-batako-putih.md): the TOC list sat right below
+  // the featured image, before the opening paragraph even appeared, with no "Daftar Isi:"
+  // heading. Inserting the shortcode explicitly here mirrors the site's older article style
+  // (e.g. biaya-bangun-rumah-per-meter-di-abadijaya-depok.md): opening paragraph → {{< toc >}}
+  // (with the "Daftar Isi:" heading from layouts/shortcodes/toc.html) → image → first H2.
   const paraEnd = body.indexOf('\n\n');
   let tocInserted = false;
   if (paraEnd !== -1 && !/\{\{<\s*toc\s*>\}\}/.test(body)) {
@@ -1270,8 +1269,8 @@ function parseAndSave(raw, keyword, slug, imagePath, greeting, relatedCandidates
   }
 
   if (!body.includes('![')) {
-  // Find the paragraph boundary AFTER the newly inserted TOC (if any), so the image is placed
-  // AFTER the TOC, not before — the correct order is: paragraph → TOC → image → first H2.
+    // Find the paragraph boundary AFTER the toc we just inserted (if any), so the image lands
+    // AFTER toc, not before — correct order: paragraph → toc → image → first H2.
     const searchFrom = tocInserted ? body.indexOf('{{< toc') + '{{< toc >}}'.length : 0;
     const imgParaEnd = body.indexOf('\n\n', searchFrom);
     if (imgParaEnd !== -1) {
@@ -1291,11 +1290,11 @@ function parseAndSave(raw, keyword, slug, imagePath, greeting, relatedCandidates
   // and never more than 2 total — regardless of what the AI actually did.
   body = enforceInternalLinks(body, relatedCandidates.map(c => c.url), 2);
 
-  // NOTE: The {{< table-tables table="..." >}} shortcode is intentionally NOT auto-injected here. 
-  // Some article categories already contain their own pricing table HTML code within the
-  // article body—auto-injection would result in duplicates. Shortcode insertion is performed
-  // manually on a per-category basis after publication (see the "How to manually insert
-  // the pricing table shortcode" section in README-PENERAPAN.md).
+  // NOTE: the {{< table-tables table="..." >}} shortcode is INTENTIONALLY NOT auto-inserted
+  // here. Some article categories already have their own hand-written HTML price table
+  // embedded in the body — auto-inserting would duplicate it. Shortcode insertion is done
+  // manually per category after articles are published (see README-PENERAPAN.md, section
+  // "Cara menyisipkan shortcode tabel harga secara manual").
 
   const today   = new Date().toISOString().split('T')[0];
   const type    = detectType(keyword);
@@ -1406,10 +1405,10 @@ function validateArticle(filePath) {
   const internalLinkCount = (bodyOnly.match(/(?<!!)\[[^\]]+\]\(\/[^)\s]+\/\)/g) || []).length;
   if (internalLinkCount > 2) issues.push(`❌ ${internalLinkCount} internal link ditemukan (maksimal 2) — periksa enforceInternalLinks()`);
 
-  // NOTE: The established voice of sumbermaterial.com intentionally allows informal words
-  // ("gimana", "yuk", "nah", "lho", "nih", etc. — see ORIGINAL STYLE EXAMPLES in
-  // prompts/revise-articles.json), so there are NO checks for informal words here —
-  // (unlike the initial draft, which treated informal words as stylistic deviations).
+  // NOTE: sumbermaterial.com's established voice intentionally allows informal words
+  // ("gimana", "yuk", "nah", "lho", "nih", dll — lihat CONTOH GAYA BAHASA ASLI di
+  // prompts/revise-articles.json), jadi TIDAK ADA pengecekan kata informal di sini —
+  // (beda dari draf awal yang menganggap kata informal sebagai penyimpangan gaya).
 
   // Price-disclaimer policy check (soft warning, not a hard reject — human review can confirm).
   const mentionsPrice = /Rp\s?\d[\d.,]*/.test(bodyOnly);

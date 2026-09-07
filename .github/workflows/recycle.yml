@@ -148,7 +148,9 @@ jobs:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./public
           publish_branch: gh-pages
-          force_orphan: true
+          # force_orphan is DELIBERATELY NOT set here — see the matching comment in deploy.yml.
+          # gh-pages commits incrementally on every routine deploy; reset-gh-pages.yml handles
+          # periodic history cleanup on its own 6-month schedule instead.
           full_commit_message: ${{ format('Recycle & deploy — {0}', github.run_id) }}
 
       - name: Verify Deployment
