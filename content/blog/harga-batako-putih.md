@@ -9,13 +9,15 @@ featured_image: "/images/blog/harga-batako-putih.jpg"
 tags: ["harga batako putih", "batako putih", "harga batako", "material bangunan", "batako press"]
 keywords: "harga batako putih"
 author: "Ibnu Koesnady"
-toc: true
+toc: false
 draft: false
 ---
 
 **Harga Batako Putih Terbaru 2026: Panduan Lengkap & Estimasi Biaya** - Mitra Sumber Material dimana saja berada, seringkali kita melihat kesalahan dalam memperkirakan kebutuhan batako putih untuk sebuah proyek. Banyak yang hanya fokus pada harga per unit tanpa mempertimbangkan biaya transportasi, pemasangan, atau bahkan potensi sisa material yang bisa jadi terbuang percuma.
 
 Batako putih memang menjadi pilihan populer untuk berbagai proyek konstruksi, mulai dari pembangunan rumah, pagar, hingga dinding pembatas. Popularitasnya ini didorong oleh beberapa faktor, termasuk kemudahan pemasangan, sifatnya yang relatif ringan, dan tampilan yang bersih. Namun, sebelum memutuskan untuk membeli, penting untuk memahami fluktuasi harga batako putih dan faktor-faktor yang bisa mempengaruhinya.
+
+{{< toc >}}
 
 ## Memahami Faktor yang Mempengaruhi Harga Batako Putih
 

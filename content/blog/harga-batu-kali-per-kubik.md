@@ -9,11 +9,13 @@ featured_image: "/images/batu/batu-kali-pondasi-21.png"
 tags: ["harga batu kali", "batu kali per kubik", "jual batu kali", "harga material bangunan", "fondasi bangunan"]
 keywords: "harga batu kali per kubik"
 author: "Ibnu Koesnady"
-toc: true
+toc: false
 draft: false
 ---
 
 **Harga Batu Kali Per Kubik Terbaru 2026** - Mitra Sumber Material dimana saja berada, seringkali kita jumpai kesalahan dalam memperkirakan kebutuhan batu kali untuk proyek konstruksi. Banyak yang langsung membeli tanpa menghitung volume yang tepat, sehingga berujung pada kekurangan material atau justru kelebihan yang membuang anggaran. Nah, di artikel ini, Kami akan membahas tuntas mengenai harga batu kali per kubik, jenis-jenisnya, fungsi pentingnya, dan bagaimana cara memilih yang tepat untuk fondasi bangunan Anda.
+
+{{< toc >}}
 
 ### Apa Itu Batu Kali dan Mengapa Penting?
 

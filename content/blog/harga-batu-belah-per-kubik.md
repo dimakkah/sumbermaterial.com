@@ -9,11 +9,13 @@ featured_image: "/images/blog/harga-batu-belah-per-kubik.jpg"
 tags: ["harga batu belah", "batu belah per kubik", "harga batu pondasi", "jual batu belah", "material bangunan"]
 keywords: "harga batu belah per kubik"
 author: "Ibnu Koesnady"
-toc: true
+toc: false
 draft: false
 ---
 
 **Harga Batu Belah Per Kubik** - Mitra Sumber Material, tahu nggak sih, kalau pondasi yang kuat itu kunci utama bangunan kokoh? Nah, salah satu material pondasi yang paling umum dipakai di Indonesia adalah batu belah. Artikel ini akan membahas tuntas soal harga batu belah per kubik terbaru di tahun 2026, lengkap dengan faktor-faktor yang mempengaruhinya serta tips memilih kualitas terbaik.
+
+{{< toc >}}
 
 ## Apa Itu Batu Belah dan Kenapa Penting untuk Pondasi?
 

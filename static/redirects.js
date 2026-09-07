@@ -1,5 +1,8 @@
 // Redirect Map
 const redirectMap = {
+"/blog/harga-hebel-satuan-ukuran-7-cm/": "/blog/harga-hebel-7-cm/",
+"/blog/harga-hebel-7-cm-per-biji/": "/blog/harga-hebel-7-cm/",
+"/blog/cimangkok-daerah-mana/": "/product/harga-jual-pasir-cimangkok-terbaru/",
 "/bengkel/borongan-pembuatan-kanopi-baja-ringan-di-pluit-jakarta/?amp": "/baja-ringan/harga-pasang-atap-baja-ringan-di-pluit-jakarta/amp/",
 "/bengkel/harga-kanopi-per-meter-di-kemiri-muka-depok/": "/kanopi/harga-kanopi-per-meter-di-kemiri-muka-depok/",
 "/bengkel/harga-kanopi-per-meter-di-kukusan-depok/?add-to-cart=25966": "/kanopi/harga-kanopi-per-meter-di-kukusan-depok/",
