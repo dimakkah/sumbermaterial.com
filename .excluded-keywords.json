@@ -418,5 +418,19 @@
     "matchedTitle": "Harga Material Bangunan 2026 Jakarta: Update Terbaru & Estimasi Biaya",
     "taggedAt": "2026-09-12T09:52:00.939Z",
     "algoVersion": 2
+  },
+  "harga batu batako putih": {
+    "reason": "similar to existing article",
+    "matchedFile": "harga-batako-putih.md",
+    "matchedTitle": "Harga Batako Putih Terbaru 2026: Panduan Lengkap & Estimasi Biaya",
+    "taggedAt": "2026-09-13T10:51:31.933Z",
+    "algoVersion": 2
+  },
+  "harga beton b0": {
+    "reason": "similar to existing article",
+    "matchedFile": "harga-beton-b0-per-m3.md",
+    "matchedTitle": "Harga Beton B0 Per M3: Update Terbaru 2026 & Tips Memilih yang Tepat",
+    "taggedAt": "2026-09-13T10:51:31.940Z",
+    "algoVersion": 2
   }
 }
