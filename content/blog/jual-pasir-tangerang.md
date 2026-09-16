@@ -1,10 +1,11 @@
 ---
-title: "Jual Pasir Tangerang: Panduan Lengkap Harga, Jenis, dan Penggunaan Terbaik"
+title: "Jual Pasir Tangerang: Jenis, Harga, dan Tips Memilihnya"
 date: "2026-09-02"
+lastmod: "2026-09-10"
 categories:
  - "blog"
 type: "product"
-description: "Jual pasir Tangerang untuk konstruksi bangunan Anda. Temukan harga terbaru, jenis pasir yang tepat (pasir beton, pasir urug, dll.), dan tips memilih pemasok terpercaya."
+description: "Cari pasir bangunan berkualitas di Tangerang? Kenali jenis-jenis pasir, kisaran harga terkini, dan tips memilih pemasok terpercaya dari Sumber Material."
 featured_image: "/images/blog/jual-pasir-tangerang.jpg"
 tags: ["jual pasir tangerang", "harga pasir tangerang", "pasir bangunan", "pasir urug", "pasir beton"]
 keywords: "jual pasir tangerang"
@@ -13,7 +14,7 @@ toc: false
 draft: false
 ---
 
-**Jual Pasir Tangerang: Panduan Lengkap Harga, Jenis, dan Penggunaan Terbaik** - Mitra Sumber Material yang budiman, pernahkah Anda merasa kesulitan mencari pasir bangunan berkualitas dengan harga bersaing di sekitar Tangerang? Atau mungkin bingung jenis pasir mana yang paling cocok untuk proyek konstruksi Anda? Banyak Mitra kami mengalami hal serupa, terutama saat mempersiapkan proyek pembangunan rumah, renovasi, atau infrastruktur lainnya. Nah, di artikel ini Kami akan membahas tuntas panduan lengkap mengenai jual pasir Tangerang, mulai dari jenis-jenisnya, harga terkini, hingga tips memilih pemasok yang tepat.
+**Jual Pasir Tangerang: Jenis, Harga, dan Tips Memilihnya** - Mitra Sumber Material yang budiman, pernahkah Anda merasa kesulitan mencari pasir bangunan berkualitas dengan harga bersaing di sekitar Tangerang? Atau mungkin bingung jenis pasir mana yang paling cocok untuk proyek konstruksi Anda? Banyak Mitra kami mengalami hal serupa, terutama saat mempersiapkan proyek pembangunan rumah, renovasi, atau infrastruktur lainnya. Nah, di artikel ini Kami akan membahas tuntas panduan lengkap mengenai jual pasir Tangerang, mulai dari jenis-jenisnya, harga terkini, hingga tips memilih pemasok yang tepat.
 
 {{< toc >}}
 
@@ -28,9 +29,9 @@ Mitra Sumber Material, pasir bukan hanya sekadar pasir. Ada berbagai jenis pasir
 
 ![Tumpukan Pasir di Tangerang](/images/blog/jual-pasir-tangerang.jpg)
 
-## Estimasi Harga Pasir Tangerang Terbaru (2026)
+## Estimasi Harga Pasir Tangerang
 
-Harga pasir Tangerang bervariasi tergantung jenis, kualitas, dan volume pembelian. Berikut adalah estimasi harga per meter kubik (m³) pada tahun 2026:
+Harga pasir Tangerang bervariasi tergantung jenis, kualitas, dan volume pembelian. Berikut adalah estimasi harga per meter kubik (m³) saat ini:
 
 | Jenis Pasir    | Estimasi Harga per m³ (Rp) |
 |----------------|----------------------------|

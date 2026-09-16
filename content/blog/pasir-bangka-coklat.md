@@ -1,10 +1,11 @@
 ---
-title: "Pasir Bangka Coklat: Panduan Lengkap untuk Proyek Konstruksi Anda"
+title: "Pasir Bangka Coklat: Kelebihan dan Kegunaannya untuk Konstruksi"
 date: "2026-09-04"
+lastmod: "2026-09-10"
 categories:
  - "blog"
 type: "product"
-description: "Pasir bangka coklat adalah material konstruksi unggulan. Pelajari kelebihan, kegunaan, harga, dan tips memilihnya untuk fondasi kuat dan hasil maksimal."
+description: "Pasir bangka coklat dikenal kuat dan tahan lama untuk beton maupun plesteran. Kenali kelebihan, kegunaan, harga, dan tips memilihnya."
 featured_image: "/images/blog/pasir-bangka-coklat.jpg"
 tags: ["pasir bangka coklat", "pasir bangka", "jual pasir bangka", "material konstruksi", "pasir bangunan"]
 keywords: "pasir bangka coklat"
@@ -13,7 +14,7 @@ toc: false
 draft: false
 ---
 
-**Pasir Bangka Coklat: Panduan Lengkap untuk Proyek Konstruksi Anda** - Mitra Sumber Material yang budiman, pernahkah Anda bertanya-tanya kenapa beberapa proyek konstruksi terlihat lebih kokoh dan tahan lama dibandingkan yang lain? Salah satu kuncinya mungkin terletak pada pemilihan material yang tepat, dan salah satunya adalah pasir. Khususnya, pasir bangka coklat, yang dikenal dengan kualitasnya yang unggul.
+**Pasir Bangka Coklat: Kelebihan dan Kegunaannya untuk Konstruksi** - Mitra Sumber Material yang budiman, pernahkah Anda bertanya-tanya kenapa beberapa proyek konstruksi terlihat lebih kokoh dan tahan lama dibandingkan yang lain? Salah satu kuncinya mungkin terletak pada pemilihan material yang tepat, dan salah satunya adalah pasir. Khususnya, pasir bangka coklat, yang dikenal dengan kualitasnya yang unggul.
 
 {{< toc >}}
 

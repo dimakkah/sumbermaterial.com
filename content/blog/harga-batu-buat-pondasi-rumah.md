@@ -1,10 +1,11 @@
 ---
-title: "Harga Batu Buat Pondasi Rumah: Panduan Lengkap & Estimasi Biaya 2026"
+title: "Batu Buat Pondasi Rumah: Jenis dan Kisaran Harganya"
 date: "2026-09-08"
+lastmod: "2026-09-10"
 categories:
  - "blog"
 type: "product"
-description: "Harga batu buat pondasi rumah bervariasi tergantung jenis dan lokasi. Pelajari panduan lengkap memilih batu pondasi berkualitas dengan estimasi biaya terbaru 2026 dari Sumber Material!"
+description: "Pilihan batu pondasi rumah menentukan kekuatan bangunan Mitra. Kenali jenis-jenisnya, kisaran harga per meter kubik, dan tips memilih yang paling sesuai kebutuhan."
 featured_image: "/images/batu/batu-kali-pondasi-16.png"
 tags: ["harga batu pondasi", "batu pondasi rumah", "biaya pondasi rumah", "jenis batu pondasi", "jual batu pondasi"]
 keywords: "harga batu buat pondasi rumah"
@@ -13,7 +14,7 @@ toc: false
 draft: false
 ---
 
-**Harga Batu Buat Pondasi Rumah: Panduan Lengkap & Estimasi Biaya 2026** - Mitra Sumber Material dimana saja berada, tahukah Anda bahwa kualitas pondasi rumah sangat berpengaruh terhadap kekuatan dan keamanan bangunan secara keseluruhan? Lebih dari 30% risiko kerusakan struktur bangunan berasal dari pondasi yang tidak kuat atau dibangun dengan material yang kurang tepat. Nah, artikel ini akan membahas tuntas mengenai harga batu buat pondasi rumah, jenis-jenisnya, serta estimasi biayanya di tahun 2026.
+**Batu Buat Pondasi Rumah: Jenis dan Kisaran Harganya** - Mitra Sumber Material dimana saja berada, tahukah Anda bahwa kualitas pondasi rumah sangat berpengaruh terhadap kekuatan dan keamanan bangunan secara keseluruhan? Lebih dari 30% risiko kerusakan struktur bangunan berasal dari pondasi yang tidak kuat atau dibangun dengan material yang kurang tepat. Nah, artikel ini akan membahas tuntas mengenai harga batu buat pondasi rumah, jenis-jenisnya, serta estimasi biayanya.
 
 {{< toc >}}
 
@@ -29,9 +30,9 @@ Mitra, ada beberapa jenis batu pondasi yang umum digunakan di Indonesia. Masing-
 
 ![Batu pondasi berbagai jenis](/images/batu/batu-kali-pondasi-16.png)
 
-## Estimasi Harga Batu Buat Pondasi Rumah di Tahun 2026
+## Estimasi Harga Batu Buat Pondasi Rumah
 
-Nah, sekarang kita masuk ke bahasan yang paling penting: harga. Harga batu buat pondasi rumah di tahun 2026 bisa bervariasi tergantung beberapa faktor, yaitu jenis batu, ukuran, lokasi, dan penjual. Berikut perkiraan harga per meter kubik (m³) di wilayah Jabodetabek:
+Nah, sekarang kita masuk ke bahasan yang paling penting: harga. Harga batu buat pondasi rumah saat ini bisa bervariasi tergantung beberapa faktor, yaitu jenis batu, ukuran, lokasi, dan penjual. Berikut perkiraan harga per meter kubik (m³) di wilayah Jabodetabek:
 
 | Jenis Batu   | Rentang Harga (Rp/m³) |
 |--------------|------------------------|

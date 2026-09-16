@@ -1,10 +1,11 @@
 ---
-title: "Harga Sirtu Per Kubik 2026: Update Terbaru & Tips Estimasi Biaya"
+title: "Harga Sirtu Per Kubik dan Tips Menghitung Kebutuhannya"
 date: "2026-09-02"
+lastmod: "2026-09-10"
 categories:
  - "blog"
 type: "product"
-description: "Harga sirtu per kubik terbaru 2026 untuk urugan bangunan Anda. Dapatkan estimasi biaya, faktor yang memengaruhi harga, & tips hemat!"
+description: "Sirtu jadi material andalan untuk urugan dan lantai kerja. Simak kisaran harga per kubik, faktor yang memengaruhi, dan cara menghitung kebutuhan proyek Mitra."
 featured_image: "/images/blog/harga-sirtu-per-kubik.jpg"
 tags: ["harga sirtu per kubik", "sirtu urug", "harga urugan", "material bangunan", "biaya konstruksi"]
 keywords: "harga sirtu per kubik"
@@ -13,7 +14,7 @@ toc: false
 draft: false
 ---
 
-**Harga Sirtu Per Kubik 2026: Update Terbaru & Tips Estimasi Biaya** - Mitra Sumber Material dimana saja berada, mencari tahu harga sirtu per kubik yang akurat untuk proyek Anda? Sirtu, atau pasir urug, adalah material penting untuk menimbun lahan, membuat lantai kerja, atau bahkan fondasi bangunan. Artikel ini akan membahas harga sirtu per kubik terbaru di tahun 2026, faktor-faktor yang memengaruhinya, dan tips untuk mengestimasi biaya yang dibutuhkan.
+**Harga Sirtu Per Kubik dan Tips Menghitung Kebutuhannya** - Mitra Sumber Material dimana saja berada, mencari tahu harga sirtu per kubik yang akurat untuk proyek Anda? Sirtu, atau pasir urug, adalah material penting untuk menimbun lahan, membuat lantai kerja, atau bahkan fondasi bangunan. Artikel ini akan membahas harga sirtu per kubik, faktor-faktor yang memengaruhinya, dan tips untuk mengestimasi biaya yang dibutuhkan.
 
 {{< toc >}}
 

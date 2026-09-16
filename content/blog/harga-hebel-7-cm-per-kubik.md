@@ -1,10 +1,11 @@
 ---
-title: "Harga Hebel 7 cm Per Kubik: Update Terbaru & Estimasi Biaya 2026"
+title: "Harga Hebel 7 cm Per Kubik: Contoh Hitungan Biaya Dinding"
 date: "2026-09-08"
+lastmod: "2026-09-10"
 categories:
  - "blog"
 type: "product"
-description: "Harga hebel 7 cm per kubik terbaru 2026. Dapatkan informasi lengkap mengenai faktor harga, keunggulan, dan estimasi biaya proyek Anda."
+description: "Hitung kebutuhan dan biaya hebel 7 cm per kubik untuk dinding proyek Mitra. Simak faktor harga dan contoh perhitungan lengkap dari Sumber Material."
 featured_image: "/images/blog/harga-hebel-7-cm-per-kubik.jpg"
 tags: ["harga hebel 7 cm", "bata ringan", "harga bata ringan", "material bangunan", "konstruksi"]
 keywords: "harga hebel 7 cm per kubik"
@@ -13,7 +14,7 @@ toc: false
 draft: false
 ---
 
-**Harga Hebel 7 cm Per Kubik: Update Terbaru & Estimasi Biaya 2026** - Mitra Sumber Material yang budiman, pernahkah Anda merasa kebingungan saat menghitung kebutuhan hebel untuk proyek bangunan? Apalagi soal harga, yang seringkali bikin pusing karena perbedaan antar daerah dan kualitas produk. Nah, di artikel ini, Kami akan membahas tuntas mengenai harga hebel 7 cm per kubik, faktor-faktor yang mempengaruhinya, serta memberikan estimasi biaya yang bisa menjadi gambaran awal perencanaan anggaran Anda.
+**Harga Hebel 7 cm Per Kubik: Contoh Hitungan Biaya Dinding** - Mitra Sumber Material yang budiman, pernahkah Anda merasa kebingungan saat menghitung kebutuhan hebel untuk proyek bangunan? Apalagi soal harga, yang seringkali bikin pusing karena perbedaan antar daerah dan kualitas produk. Nah, di artikel ini, Kami akan membahas tuntas mengenai harga hebel 7 cm per kubik, faktor-faktor yang mempengaruhinya, serta memberikan estimasi biaya yang bisa menjadi gambaran awal perencanaan anggaran Anda.
 
 {{< toc >}}
 
@@ -35,9 +36,9 @@ Harga hebel 7 cm per kubik bisa bervariasi tergantung pada beberapa faktor. Mema
 
 ![Pekerja bangunan sedang memasang bata hebel](/images/blog/harga-hebel-7-cm-per-kubik.jpg)
 
-### Estimasi Harga Hebel 7 cm Per Kubik Tahun 2026
+### Estimasi Harga Hebel 7 cm Per Kubik
 
-Lalu, berapa kisaran harga hebel 7 cm per kubik di tahun 2026? Secara umum, harga hebel 7 cm per kubik di wilayah Jabodetabek dan sekitarnya berkisar antara Rp 750.000 hingga Rp 950.000. Harga ini bersifat estimasi dan dapat berubah sewaktu-waktu — hubungi Kami untuk penawaran terbaru dan paling akurat sesuai kebutuhan proyek Mitra.
+Lalu, berapa kisaran harga hebel 7 cm per kubik saat ini? Secara umum, harga hebel 7 cm per kubik di wilayah Jabodetabek dan sekitarnya berkisar antara Rp 750.000 hingga Rp 950.000. Harga ini bersifat estimasi dan dapat berubah sewaktu-waktu — hubungi Kami untuk penawaran terbaru dan paling akurat sesuai kebutuhan proyek Mitra.
 
 Untuk memberikan gambaran yang lebih jelas, berikut adalah contoh perhitungan biaya untuk membangun dinding dengan luas 10 meter persegi menggunakan hebel 7 cm:
 

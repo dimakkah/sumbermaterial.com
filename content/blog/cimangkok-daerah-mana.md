@@ -1,10 +1,11 @@
 ---
-title: "Cimangkok Daerah Mana yang Terbaik untuk Proyek Anda? Panduan Lengkap 2026"
+title: "Pasir Cimangkok: Kenali Kualitas dan Asal Daerahnya"
 date: "2026-09-07"
+lastmod: "2026-09-10"
 categories:
  - "blog"
 type: "product"
-description: "Cimangkok daerah mana yang paling cocok untuk kebutuhan konstruksi Anda? Pelajari perbandingan kualitas, harga, dan tips memilih pasir cimangkok terbaik di Jabodetabek."
+description: "Pasir cimangkok berasal dari beberapa daerah dengan karakteristik berbeda-beda. Kenali perbandingan kualitas, harga, dan tips memilih pasir cimangkok terbaik di Jabodetabek."
 featured_image: "/images/blog/cimangkok-daerah-mana.jpg"
 tags: ["pasir cimangkok", "harga pasir cimangkok", "pasir cimangkok jabodetabek", "material bangunan", "pasir urug"]
 keywords: "cimangkok daerah mana"
@@ -13,11 +14,11 @@ toc: false
 draft: false
 ---
 
-**Cimangkok Daerah Mana yang Terbaik untuk Proyek Anda? Panduan Lengkap 2026** - Mitra Sumber Material yang berbahagia, pernahkah Anda merasa bingung saat ditawari berbagai jenis pasir cimangkok? Banyaknya sumber dan variasi kualitas seringkali membuat Mitra kesulitan menentukan pilihan yang paling tepat untuk proyek konstruksi. Nah, artikel ini hadir untuk membantu Anda memahami perbedaan pasir cimangkok dari berbagai daerah, sehingga Anda bisa mendapatkan material terbaik sesuai kebutuhan dan anggaran.
+**Pasir Cimangkok: Kenali Kualitas dan Asal Daerahnya** - Mitra Sumber Material yang berbahagia, memilih pasir cimangkok kadang bikin bingung karena variasinya cukup banyak — mulai dari sumber, warna, sampai kandungan lumpurnya berbeda-beda antar daerah asal. Nah, artikel ini merangkum perbedaan pasir cimangkok dari beberapa daerah, supaya Mitra bisa menentukan pilihan yang paling sesuai kebutuhan dan anggaran proyek.
 
 {{< toc >}}
 
-![Cimangkok Daerah Mana yang Terbaik untuk Proyek Anda? Panduan Lengkap 2026](/images/blog/cimangkok-daerah-mana.jpg)
+![Pasir Cimangkok: Kenali Kualitas dan Asal Daerahnya](/images/blog/cimangkok-daerah-mana.jpg)
 
 
 

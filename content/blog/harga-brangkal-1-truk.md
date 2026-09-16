@@ -1,10 +1,11 @@
 ---
-title: "Harga Brangkal 1 Truk: Panduan Lengkap & Estimasi Biaya 2026"
+title: "Harga Brangkal 1 Truk: Segini Kisarannya untuk Urugan"
 date: "2026-09-04"
+lastmod: "2026-09-10"
 categories:
  - "blog"
 type: "product"
-description: "Harga brangkal 1 truk terbaru 2026? Dapatkan panduan lengkap mengenai harga, faktor yang memengaruhi, dan tips memilih brangkal berkualitas dari Sumber Material."
+description: "Brangkal jadi solusi ekonomis untuk urugan proyek konstruksi. Simak kisaran harga per truk, faktor yang memengaruhi, dan tips memilih brangkal berkualitas."
 featured_image: "/images/blog/harga-brangkal-1-truk.jpg"
 tags: ["harga brangkal", "urugan brangkal", "brangkal 1 truk", "material urugan", "harga urugan tanah"]
 keywords: "harga brangkal 1 truk"
@@ -13,11 +14,11 @@ toc: false
 draft: false
 ---
 
-**Harga Brangkal 1 Truk** - Mitra Sumber Material di mana pun berada, pernahkah Anda kesulitan mencari material urugan yang tepat untuk proyek konstruksi? Terutama urugan untuk pondasi, reklamasi lahan, atau menimbun area yang rendah? Nah, brangkal sering jadi solusi praktis. Tapi, pastinya Anda juga bertanya-tanya berapa ya harga brangkal 1 truk? Artikel ini akan membahas tuntas mengenai harga brangkal, faktor yang mempengaruhinya, serta tips memilih yang berkualitas.
+**Harga Brangkal 1 Truk: Segini Kisarannya untuk Urugan** - Mitra Sumber Material di mana pun berada, pernahkah Anda kesulitan mencari material urugan yang tepat untuk proyek konstruksi? Terutama urugan untuk pondasi, reklamasi lahan, atau menimbun area yang rendah? Nah, brangkal sering jadi solusi praktis. Tapi, pastinya Anda juga bertanya-tanya berapa ya harga brangkal 1 truk? Artikel ini akan membahas tuntas mengenai harga brangkal, faktor yang mempengaruhinya, serta tips memilih yang berkualitas.
 
 {{< toc >}}
 
-![Harga Brangkal 1 Truk: Panduan Lengkap & Estimasi Biaya 2026](/images/blog/harga-brangkal-1-truk.jpg)
+![Harga Brangkal 1 Truk: Segini Kisarannya untuk Urugan](/images/blog/harga-brangkal-1-truk.jpg)
 
 
 
@@ -37,7 +38,7 @@ Harga brangkal 1 truk bisa bervariasi tergantung beberapa faktor. Berikut ini be
 *   **Jenis Truk:** Jenis truk yang digunakan juga memengaruhi harga. Truk engkel, truk sedang, dan truk besar memiliki kapasitas yang berbeda, sehingga harga per rit juga berbeda.
 *   **Kondisi Pasar:** Permintaan dan penawaran di pasar juga bisa memengaruhi harga brangkal. Saat permintaan tinggi, harga cenderung naik.
 
-Sebagai gambaran, harga brangkal 1 truk (kurang lebih 8-12 meter kubik) di wilayah Jabodetabek pada tahun 2026 berkisar antara Rp 350.000 - Rp 600.000. Harga ini bersifat estimasi dan dapat berubah sewaktu-waktu — hubungi Kami untuk penawaran terbaru dan paling akurat sesuai kebutuhan proyek Mitra.
+Sebagai gambaran, harga brangkal 1 truk (kurang lebih 8-12 meter kubik) di wilayah Jabodetabek saat ini berkisar antara Rp 350.000 - Rp 600.000. Harga ini bersifat estimasi dan dapat berubah sewaktu-waktu — hubungi Kami untuk penawaran terbaru dan paling akurat sesuai kebutuhan proyek Mitra.
 
 ## Perbandingan Brangkal dengan Material Urugan Lain
 
@@ -47,7 +48,7 @@ Sebelum memutuskan untuk menggunakan brangkal, ada baiknya Anda mempertimbangkan
 <table class="table">
   <caption>Perbandingan Material Urugan</caption>
   <thead>
-    <tr><th>Material</th><th>Kelebihan</th><th>Kekurangan</th><th>Estimasi Harga/m³ (2026)</th></tr>
+    <tr><th>Material</th><th>Kelebihan</th><th>Kekurangan</th><th>Estimasi Harga/m³</th></tr>
   </thead>
   <tbody>
     <tr><td>Brangkal</td><td>Harga terjangkau, Mudah didapatkan</td><td>Daya dukung rendah, Potensi mengandung sampah</td><td>Rp 30.000 - Rp 50.000</td></tr>

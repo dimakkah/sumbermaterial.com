@@ -1,10 +1,11 @@
 ---
-title: "Toko Material Terdekat: Solusi Lengkap Kebutuhan Bangunan Anda di Jabodetabek"
+title: "Toko Material Terdekat di Jabodetabek: Solusi Bahan Bangunan"
 date: "2026-09-03"
+lastmod: "2026-09-10"
 categories:
  - "blog"
 type: "product"
-description: "Toko material terdekat untuk kebutuhan konstruksi Anda di Jabodetabek. Dapatkan pasir, batu, semen, besi, dan jasa sewa alat berat berkualitas dengan harga terbaik di Sumber Material."
+description: "Cari toko material terdekat di Jabodetabek? Sumber Material sediakan pasir, batu, semen, besi, hingga sewa alat berat dengan harga bersaing dan pengiriman cepat."
 featured_image: "/images/blog/toko-material-terdekat.jpg"
 tags: ["toko material terdekat", "bahan bangunan Jabodetabek", "suplai material konstruksi", "sewa alat berat", "harga material bangunan"]
 keywords: "toko material terdekat"
@@ -13,7 +14,7 @@ toc: false
 draft: false
 ---
 
-**Toko Material Terdekat: Solusi Lengkap Kebutuhan Bangunan Anda di Jabodetabek** - Mitra, mencari material bangunan berkualitas tanpa harus repot bepergian jauh? Sumber Material hadir sebagai solusi lengkap untuk semua kebutuhan konstruksi Anda di wilayah Jabodetabek dan sekitarnya. Kami menyediakan berbagai macam material alam dan konstruksi, mulai dari pasir, batu, semen, hingga besi dan baja ringan. Selain itu, kami juga menawarkan jasa sewa alat berat untuk mempercepat dan mempermudah pekerjaan Anda.
+**Toko Material Terdekat di Jabodetabek: Solusi Bahan Bangunan** - Mitra, mencari material bangunan berkualitas tanpa harus repot bepergian jauh? Sumber Material hadir sebagai solusi lengkap untuk semua kebutuhan konstruksi Anda di wilayah Jabodetabek dan sekitarnya. Kami menyediakan berbagai macam material alam dan konstruksi, mulai dari pasir, batu, semen, hingga besi dan baja ringan. Selain itu, kami juga menawarkan jasa sewa alat berat untuk mempercepat dan mempermudah pekerjaan Anda.
 
 {{< toc >}}
 

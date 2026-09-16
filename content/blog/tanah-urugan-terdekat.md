@@ -1,10 +1,11 @@
 ---
-title: "Tanah Urugan Terdekat: Panduan Lengkap Jenis, Harga, dan Penyedia Terpercaya di Jabodetabek"
+title: "Tanah Urugan Terdekat di Jabodetabek: Jenis dan Harganya"
 date: "2026-09-05"
+lastmod: "2026-09-10"
 categories:
  - "blog"
 type: "product"
-description: "Tanah urugan terdekat untuk proyek Anda? Temukan jenis-jenisnya (sirtu, basecose, puing), perkiraan harga, serta tips memilih penyedia terpercaya di Jabodetabek."
+description: "Cari tanah urugan terdekat untuk proyek Anda? Kenali jenis-jenisnya (sirtu, basecose, puing), kisaran harga, serta tips memilih penyedia terpercaya di Jabodetabek."
 featured_image: "/images/jasa-urug/jasa-pengurugan-tanah-1.png"
 tags: ["tanah urugan", "urugan terdekat", "harga tanah urugan", "sirtu", "basecose"]
 keywords: "tanah urugan terdekat"
@@ -13,7 +14,7 @@ toc: false
 draft: false
 ---
 
-**Tanah Urugan Terdekat** - Mitra, pernahkah Anda bertanya-tanya jenis tanah urugan apa yang paling tepat untuk proyek konstruksi Anda? Memilih material yang tepat itu krusial, lho. Apalagi kalau Anda sedang mencari yang terdekat, biar ongkos transportasi nggak membengkak.
+**Tanah Urugan Terdekat di Jabodetabek: Jenis dan Harganya** - Mitra, pernahkah Anda bertanya-tanya jenis tanah urugan apa yang paling tepat untuk proyek konstruksi Anda? Memilih material yang tepat itu krusial, lho. Apalagi kalau Anda sedang mencari yang terdekat, biar ongkos transportasi nggak membengkak.
 
 {{< toc >}}
 

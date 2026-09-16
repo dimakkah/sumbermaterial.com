@@ -1,10 +1,11 @@
 ---
-title: "Ukuran Batu Split 2/3: Panduan Lengkap untuk Proyek Konstruksi Anda"
+title: "Ukuran Batu Split 2/3: Kegunaan dan Kisaran Harganya"
 date: "2026-09-08"
+lastmod: "2026-09-10"
 categories:
  - "blog"
 type: "product"
-description: "Ukuran batu split 2/3 adalah pilihan populer untuk base course, drainase, dan campuran beton. Pelajari panduan lengkapnya di sini, termasuk kegunaan, harga, dan tips memilih yang tepat!"
+description: "Batu split ukuran 2/3 jadi pilihan populer untuk base course dan campuran beton. Kenali kegunaan, kisaran harga, dan tips memilih kualitas terbaik."
 featured_image: "/images/batu/batu-split-cor-koral-23.png"
 tags: ["batu split 2/3", "ukuran batu split", "harga batu split", "material konstruksi", "base course"]
 keywords: "ukuran batu split 2/ 3"
@@ -13,7 +14,7 @@ toc: false
 draft: false
 ---
 
-**Ukuran Batu Split 2/3: Panduan Lengkap untuk Proyek Konstruksi Anda** - Mitra Sumber Material dimana saja berada, seringkali kita jumpai kebingungan dalam memilih ukuran batu split yang tepat untuk proyek konstruksi. Banyak yang belum memahami perbedaan antara berbagai ukuran batu split, termasuk yang populer yaitu ukuran 2/3. Kesalahan pemilihan ukuran dapat berdampak pada kualitas dan kekuatan struktur bangunan.
+**Ukuran Batu Split 2/3: Kegunaan dan Kisaran Harganya** - Mitra Sumber Material dimana saja berada, seringkali kita jumpai kebingungan dalam memilih ukuran batu split yang tepat untuk proyek konstruksi. Banyak yang belum memahami perbedaan antara berbagai ukuran batu split, termasuk yang populer yaitu ukuran 2/3. Kesalahan pemilihan ukuran dapat berdampak pada kualitas dan kekuatan struktur bangunan.
 
 {{< toc >}}
 

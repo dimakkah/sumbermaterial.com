@@ -1,10 +1,11 @@
 ---
-title: "Harga Batu Belah Per Kubik Terbaru 2026: Panduan Lengkap & Estimasi Biaya"
+title: "Batu Belah Per Kubik untuk Pondasi: Ini Kisaran Harganya"
 date: "2026-09-02"
+lastmod: "2026-09-10"
 categories:
  - "blog"
 type: "product"
-description: "Harga batu belah per kubik terbaru 2026 untuk pondasi bangunan. Dapatkan estimasi biaya, faktor yang memengaruhi, dan tips memilih kualitas terbaik dari Sumber Material."
+description: "Batu belah jadi andalan untuk pondasi bangunan karena kuat dan ekonomis. Simak kisaran harga per kubik, jenis, dan tips memilih kualitas terbaik dari Sumber Material."
 featured_image: "/images/blog/harga-batu-belah-per-kubik.jpg"
 tags: ["harga batu belah", "batu belah per kubik", "harga batu pondasi", "jual batu belah", "material bangunan"]
 keywords: "harga batu belah per kubik"
@@ -13,7 +14,7 @@ toc: false
 draft: false
 ---
 
-**Harga Batu Belah Per Kubik** - Mitra Sumber Material, tahu nggak sih, kalau pondasi yang kuat itu kunci utama bangunan kokoh? Nah, salah satu material pondasi yang paling umum dipakai di Indonesia adalah batu belah. Artikel ini akan membahas tuntas soal harga batu belah per kubik terbaru di tahun 2026, lengkap dengan faktor-faktor yang mempengaruhinya serta tips memilih kualitas terbaik.
+**Batu Belah Per Kubik untuk Pondasi: Ini Kisaran Harganya** - Mitra Sumber Material, tahu nggak sih, kalau pondasi yang kuat itu kunci utama bangunan kokoh? Nah, salah satu material pondasi yang paling umum dipakai di Indonesia adalah batu belah. Artikel ini akan membahas tuntas soal harga batu belah per kubik, lengkap dengan faktor-faktor yang mempengaruhinya serta tips memilih kualitas terbaik.
 
 {{< toc >}}
 
@@ -34,9 +35,9 @@ Harga batu belah per kubik bisa bervariasi tergantung beberapa faktor. Anda perl
 
 Harga ini bersifat estimasi dan dapat berubah sewaktu-waktu — hubungi Kami untuk penawaran terbaru dan paling akurat sesuai kebutuhan proyek Mitra.
 
-## Estimasi Harga Batu Belah Per Kubik di Tahun 2026
+## Estimasi Harga Batu Belah Per Kubik
 
-Nah, sekarang kita masuk ke inti pembahasannya: berapa sih harga batu belah per kubik di tahun 2026 ini? Berdasarkan data terbaru yang Kami kumpulkan, berikut adalah estimasi harga batu belah per kubik di wilayah Jabodetabek:
+Nah, sekarang kita masuk ke inti pembahasannya: berapa sih harga batu belah per kubik saat ini? Berdasarkan data terbaru yang Kami kumpulkan, berikut adalah estimasi harga batu belah per kubik di wilayah Jabodetabek:
 
 | Jenis Batu Belah | Ukuran (cm) | Harga Per Kubik (Estimasi) |
 |-------------------|-------------|-----------------------------|
