@@ -782,6 +782,135 @@ function filterOutSimilarKeywords(keywords) {
   return kept;
 }
 
+// ─── Keyword relevance filter (AI-based, off-topic keywords) ────────────────────────────────
+// Catches keywords that are technically well-formed (≥3 significant words — see
+// CONJUNCTION_STOPWORDS above) and not textually similar to any existing article (see
+// filterOutSimilarKeywords above), but have NO real connection to this business at all —
+// e.g. GSC surfacing "cimangkok daerah mana" (a pure "which region is Cimangkok in"
+// lookup query) just because an earlier article happened to rank for it. Neither of the two
+// filters above catches this: the keyword is long enough, and there's nothing existing to
+// compare it against for similarity.
+//
+// A hardcoded word-blacklist (e.g. banning "dimana"/"mana") is deliberately NOT used here —
+// plenty of legitimate commercial keywords legitimately contain those words ("beli pasir
+// dimana yang murah dekat sini" is a real buying-intent query). What actually makes a
+// keyword irrelevant is the ABSENCE of any real connection to buying/renting/pricing/
+// installing/comparing construction materials or services — that's a judgment call about
+// MEANING, not a specific word, so it's delegated to the AI model here (same reasoning as
+// generateImagePromptViaAI() above, which also lets the model use its own judgment instead
+// of a hardcoded keyword-to-category table).
+//
+// Cost note: reuses the SAME Cloudflare Workers AI text model + credentials already used
+// for article generation — no new API/provider needed. Bounded to a small lookahead window
+// (see maxChecks in main()) so it costs at most a handful of cheap max_tokens:20 calls per
+// run, never the whole backlog.
+const RELEVANCE_ALGO_VERSION = 1;
+const RELEVANCE_EXCLUDED_FILE = path.join(__dirname, '..', '.excluded-keywords-relevance.json');
+
+// Deliberately a SEPARATE cache file from EXCLUDED_KEYWORDS_FILE (similarity cache) above —
+// that file's load/save logic auto-releases any entry whose algoVersion doesn't match
+// SIMILARITY_ALGO_VERSION, which would wrongly discard relevance-filter entries (a different
+// kind of exclusion, versioned independently) if they shared one file.
+function loadRelevanceExcluded() {
+  if (!fs.existsSync(RELEVANCE_EXCLUDED_FILE)) return {};
+  try { return JSON.parse(fs.readFileSync(RELEVANCE_EXCLUDED_FILE, 'utf8')); } catch { return {}; }
+}
+function saveRelevanceExcluded(obj) {
+  fs.writeFileSync(RELEVANCE_EXCLUDED_FILE, JSON.stringify(obj, null, 2));
+}
+
+async function checkKeywordRelevanceViaAI(keyword) {
+  const systemPrompt = renderTemplate(PROMPTS.keywordRelevance.system, { siteName: CONFIG.SITE_NAME });
+  const body = JSON.stringify({
+    model      : CONFIG.AI_MODEL,
+    messages   : [
+      { role: 'system', content: systemPrompt },
+      { role: 'user',   content: renderTemplate(PROMPTS.keywordRelevance.userTemplate, { keyword }) },
+    ],
+    temperature: 0,
+    max_tokens : 20,
+  });
+
+  const maxAttempts = Math.max(1, CONFIG.CF_API_TOKENS.length);
+  let lastErr;
+  for (let attempt = 1; attempt <= maxAttempts; attempt++) {
+    try {
+      const result = await httpRequest(
+        CONFIG.MODELS_API_HOST,
+        buildModelsApiPath(),
+        {
+          method : 'POST',
+          headers: {
+            'Authorization'  : `Bearer ${currentCfToken()}`,
+            'Content-Type'   : 'application/json',
+            'Content-Length' : Buffer.byteLength(body),
+          },
+        },
+        body,
+        20000
+      );
+      const text = (result?.choices?.[0]?.message?.content || '').trim().toUpperCase();
+      // Strict parse: only trust an unambiguous leading YA/TIDAK (or YES/NO, in case the
+      // model answers in English) — anything else (empty, garbled, refusal) is "uncertain"
+      // and fails OPEN (kept as relevant) rather than silently blocking a keyword the model
+      // just failed to answer clearly for.
+      if (text.startsWith('YA') || text.startsWith('YES')) return { relevant: true, raw: text };
+      if (text.startsWith('TIDAK') || text.startsWith('NO'))  return { relevant: false, raw: text };
+      return { relevant: null, raw: text };
+    } catch (err) {
+      lastErr = err;
+      if ((err.isRateLimit || err.isAuthError) && attempt < maxAttempts) {
+        rotateCfToken();
+        continue;
+      }
+      break;
+    }
+  }
+  console.log(`   ⚠️  Cek relevansi gagal untuk "${keyword}" (${lastErr?.message || 'unknown error'}) — dilewatkan sebagai RELEVAN (fail-open) supaya generator tidak berhenti total karena error jaringan/API.`);
+  return { relevant: true, error: true };
+}
+
+// maxChecks bounds this to a small lookahead window (not the whole backlog) — called with
+// enough headroom above MAX_ARTICLES that a few rejects still leave enough relevant
+// keywords to fill this run's quota. Keywords beyond the window are left unchecked (they've
+// already passed the length + similarity filters) and get checked on a future run instead.
+async function filterOutIrrelevantKeywords(keywords, { maxChecks = 10 } = {}) {
+  if (IS_DRY_RUN) return keywords; // no real API calls in dry-run, same convention as elsewhere
+
+  const excluded = loadRelevanceExcluded();
+  const kept = [];
+  let checked = 0;
+  let newlyExcluded = 0;
+
+  for (const item of keywords) {
+    const key = item.keyword.toLowerCase().trim();
+    const cached = excluded[key];
+    if (cached && cached.relevanceAlgoVersion === RELEVANCE_ALGO_VERSION) continue; // previously tagged off-topic, skip silently
+
+    if (checked >= maxChecks) { kept.push(item); continue; } // beyond lookahead budget — let through unchecked this run
+    checked++;
+
+    const { relevant, raw } = await checkKeywordRelevanceViaAI(item.keyword);
+    if (relevant === false) {
+      excluded[key] = {
+        reason: 'off-topic — tidak ada kaitan dengan bisnis (dinilai AI)',
+        detail: raw || '',
+        taggedAt: new Date().toISOString(),
+        relevanceAlgoVersion: RELEVANCE_ALGO_VERSION,
+      };
+      newlyExcluded++;
+      console.log(`   🚫 Skip "${item.keyword}" — dinilai AI tidak relevan dengan bisnis (${raw || 'no reason given'}).`);
+      continue;
+    }
+    kept.push(item);
+  }
+
+  if (newlyExcluded > 0) saveRelevanceExcluded(excluded);
+  if (checked > 0) console.log(`   🧠 ${checked} keyword dicek relevansinya via AI, ${newlyExcluded} ditandai tidak relevan/off-topic.`);
+  return kept;
+}
+// ────────────────────────────────────────────────────────────────────────────
+
 async function pickImage(keyword, slug) {
   const imgDir = CONFIG.IMAGES_DIR;
   if (!fs.existsSync(imgDir)) return useGenericOrAIImage(keyword, slug);
@@ -1054,8 +1183,34 @@ const GREETING_STYLES = PROMPTS.greetingStyles;
 const OPENING_STYLES  = PROMPTS.openingStyles;
 const CLOSING_STYLES  = PROMPTS.closingStyles;
 const ADDRESS_STYLES  = PROMPTS.addressStyles;
+const TITLE_STYLES    = PROMPTS.titleStyles;
 
 function pickRandom(arr) { return arr[Math.floor(Math.random() * arr.length)]; }
+
+const TITLE_YEAR_RE = /\b(19|20)\d{2}\b/;
+function extractTitleLine(raw) {
+  const m = raw.match(/^JUDUL:\s*(.+)$/mi);
+  return m ? m[1].trim() : '';
+}
+
+// Belt-and-suspenders on top of ATURAN JUDUL in the prompt: the model is instructed never to
+// put a year in the title, but instructions get missed sometimes. Rather than only warning
+// after the fact (see the title-template guardrail in validateArticle() below), actively
+// regenerate the article when the title still has a year in it — up to 2 extra attempts —
+// before giving up and accepting the last attempt anyway (logged clearly so it's easy to spot
+// and fix by hand rather than silently publishing a dated title).
+async function generateArticleWithTitleGuard(keyword, relatedCandidates) {
+  const maxAttempts = IS_DRY_RUN ? 1 : 3;
+  let result;
+  for (let attempt = 1; attempt <= maxAttempts; attempt++) {
+    result = await generateArticle(keyword, relatedCandidates);
+    const titleLine = extractTitleLine(result.raw);
+    if (!TITLE_YEAR_RE.test(titleLine)) return result;
+    console.log(`   ⚠️  Judul hasil generate masih mengandung tahun ("${titleLine}") — generate ulang (percobaan ${attempt}/${maxAttempts})...`);
+  }
+  console.log(`   ⚠️  Judul masih mengandung tahun setelah ${maxAttempts} percobaan — dilanjutkan apa adanya, periksa manual nanti.`);
+  return result;
+}
 // ─────────────────────────────────────────────────────────────────
 
 async function generateArticle(keyword, relatedCandidates = []) {
@@ -1063,6 +1218,7 @@ async function generateArticle(keyword, relatedCandidates = []) {
   const openingStyle = pickRandom(OPENING_STYLES);
   const addressStyle  = pickRandom(ADDRESS_STYLES);
   const greeting      = pickRandom(GREETING_STYLES);
+  const titleStyle    = pickRandom(TITLE_STYLES);
   const closingStyle = renderTemplate(pickRandom(CLOSING_STYLES), { addr: addressStyle.name });
   const currentYear   = new Date().getFullYear();
 
@@ -1071,6 +1227,7 @@ async function generateArticle(keyword, relatedCandidates = []) {
     addressInstruction: addressStyle.instruction,
     greeting,
     openingStyle,
+    titleStyle,
     closingStyle,
     keyword,
     currentYear,
@@ -1405,6 +1562,21 @@ function validateArticle(filePath) {
   const internalLinkCount = (bodyOnly.match(/(?<!!)\[[^\]]+\]\(\/[^)\s]+\/\)/g) || []).length;
   if (internalLinkCount > 2) issues.push(`❌ ${internalLinkCount} internal link ditemukan (maksimal 2) — periksa enforceInternalLinks()`);
 
+  // Title-template guardrail (soft warning): catches the AI sliding back into generic
+  // SEO-news title templates ("... : Panduan Lengkap & Estimasi Biaya [tahun]", "Update
+  // Terbaru & ...") instead of the sales-oriented title styles instructed in ATURAN JUDUL
+  // (prompts/generate-articles.json). Threshold of ≥2 hits (not 1) so a single natural
+  // overlap doesn't false-positive — it's specifically the STACKED combo that reads as
+  // template-y.
+  const titleFmMatch = content.match(/^title:\s*"((?:[^"\\]|\\.)*)"/m);
+  if (titleFmMatch) {
+    const titleLower = titleFmMatch[1].toLowerCase();
+    const boilerplateHits = [/panduan lengkap/, /estimasi biaya/, /update terbaru/].filter(p => p.test(titleLower));
+    if (boilerplateHits.length >= 2) {
+      issues.push(`⚠️  Judul masih terasa template SEO-berita ("${titleFmMatch[1]}") — cek ATURAN JUDUL di prompt, harusnya lebih natural/sales-oriented.`);
+    }
+  }
+
   // NOTE: sumbermaterial.com's established voice intentionally allows informal words
   // ("gimana", "yuk", "nah", "lho", "nih", dll — lihat CONTOH GAYA BAHASA ASLI di
   // prompts/revise-articles.json), jadi TIDAK ADA pengecekan kata informal di sini —
@@ -1612,6 +1784,17 @@ async function main() {
     });
   }
 
+  // Relevance filter — catches keywords that are technically well-formed and not similar to
+  // any existing article, but have no real connection to this business at all (see
+  // filterOutIrrelevantKeywords() above for why a word-blacklist can't do this job). Applied
+  // HERE — after ordering, before slicing — so a rejected keyword never eats one of this
+  // run's MAX_ARTICLES slots for nothing. Lookahead window is a few slots wider than
+  // MAX_ARTICLES so a couple of rejects still leave enough relevant keywords to fill quota.
+  if (uniqueKeywords.length) {
+    console.log(`\n🧠 Checking topical relevance of up to ${CONFIG.MAX_ARTICLES + 7} candidate keyword(s)...`);
+    uniqueKeywords = await filterOutIrrelevantKeywords(uniqueKeywords, { maxChecks: CONFIG.MAX_ARTICLES + 7 });
+  }
+
   const toProcess = uniqueKeywords.slice(0, IS_DRY_RUN ? uniqueKeywords.length : CONFIG.MAX_ARTICLES);
   console.log(`\n📝 Will generate ${toProcess.length} articles (source: ${sourceLabel}):\n`);
 
@@ -1641,7 +1824,7 @@ async function main() {
       console.log(`   🔗 ${relatedCandidates.length} related article candidate(s) found for internal linking.`);
 
       const imgPath  = await pickImage(item.keyword, slug);
-      const { raw, greeting } = await generateArticle(item.keyword, relatedCandidates);
+      const { raw, greeting } = await generateArticleWithTitleGuard(item.keyword, relatedCandidates);
       const filePath = parseAndSave(raw, item.keyword, slug, imgPath, greeting, relatedCandidates);
       const issues   = validateArticle(filePath);
       results.push({ keyword: item.keyword, slug, filePath, imgPath, issues });

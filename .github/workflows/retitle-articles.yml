@@ -1,0 +1,100 @@
+name: Retitle & De-template Blog Articles (AI)
+
+# Monthly safety-net pass over content/blog: catches any title/description that still reads
+# like a generic SEO-news template ("Panduan Lengkap & Estimasi Biaya", a year baked into the
+# title) despite the guardrails already in generate-articles.js (ATURAN JUDUL + the
+# generateArticleWithTitleGuard() regeneration loop, which should stop this from happening to
+# new articles in the first place). Existing articles were retitled by hand and are pre-marked
+# "done" in .retitle-detemplate-progress.json, so in normal operation this workflow finds
+# nothing to do — it's a backstop, not the primary defense, hence the slow monthly cadence
+# (see dedup-directional-suffix.yml for the same reasoning applied to a different slow-growing
+# edge case).
+on:
+  schedule:
+    - cron: '0 5 1 * *'
+  workflow_dispatch:
+
+concurrency:
+  group: dataweb-repo-write
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+  actions: write
+
+jobs:
+  retitle:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: 'npm'
+
+      - name: Install Dependencies
+        run: npm install gray-matter
+
+      - name: Retitle & de-template (staged, max 20/run)
+        env:
+          CLOUDFLARE_ACCOUNT_ID: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+          CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+        run: node tools/retitle-detemplate-articles.js --apply --limit=20
+
+      - name: Configure Git
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+
+      - name: Commit and Push Changes
+        id: commit_push
+        run: |
+          git add content/ .retitle-detemplate-progress.json retitled-articles.log
+
+          if git diff --staged --quiet; then
+            echo "ℹ️  Nothing to commit (0 articles retitled this run) — done."
+            echo "published=false" >> "$GITHUB_OUTPUT"
+            exit 0
+          fi
+
+          git commit -m "Retitle: remove template phrasing & year from article titles"
+
+          for i in 1 2 3 4 5; do
+            if git push origin master; then
+              echo "✅ Push succeeded (attempt $i)."
+              echo "published=true" >> "$GITHUB_OUTPUT"
+              exit 0
+            fi
+            if [ "$i" -eq 5 ]; then
+              echo "❌ Push still failed after 5 attempts — possible real conflict, check manually." >&2
+              exit 1
+            fi
+            wait_s=$(( (RANDOM % 10) + 5 ))
+            echo "⏳ Push rejected (possible race with another workflow), rebase & retry in ${wait_s}s... (attempt $i/5)"
+            sleep "$wait_s"
+            git fetch origin master
+            # Stash any incidental working-tree noise (e.g. package-lock.json drift from
+            # npm install) so it can't block the rebase below with "unstaged changes" errors.
+            git stash push -u -m "pre-rebase-autostash" || true
+            git rebase origin/master
+            git stash drop || true
+          done
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      # Pushes made with GITHUB_TOKEN above do NOT trigger deploy.yml's `push` trigger
+      # (GitHub's anti-recursion safeguard — see the identical step in the other content
+      # workflows). Without this, retitled articles would stay live in git but not deployed
+      # until deploy.yml's next unrelated trigger.
+      - name: Trigger Deploy (publish today's changes now)
+        if: steps.commit_push.outputs.published == 'true'
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          echo "🚀 Articles retitled — triggering deploy.yml so they go live now..."
+          gh workflow run deploy.yml --ref master
