@@ -1,10 +1,11 @@
 ---
-title: "Harga Sirdam Per M3: Update Terbaru 2026 & Tips Mendapatkan Penawaran Terbaik"
+title: "Harga Sirdam Per M3 dan Tips Mendapatkan Penawaran Terbaik"
 date: "2026-09-11"
+lastmod: "2026-09-17"
 categories:
  - "blog"
 type: "product"
-description: "Harga sirdam per m3 terbaru 2026? Pelajari faktor yang memengaruhi harga, estimasi biaya, dan tips mendapatkan penawaran terbaik dari supplier terpercaya."
+description: "Sirdam jadi material andalan untuk pengurugan lahan dan pondasi. Simak faktor yang memengaruhi harga per m3 dan tips mendapatkan penawaran terbaik."
 featured_image: "/images/blog/harga-sirdam-per-m3.jpg"
 tags: ["harga sirdam", "sirdam per m3", "urugan sirdam", "harga urugan sirdam", "jual sirdam"]
 keywords: "harga sirdam per m3"
@@ -13,15 +14,15 @@ toc: false
 draft: false
 ---
 
-**Harga Sirdam Per M3: Update Terbaru 2026 & Tips Mendapatkan Penawaran Terbaik** - Mitra Sumber Material, pernahkah Anda bertanya-tanya berapa sebenarnya biaya yang dibutuhkan untuk mengurug lahan dengan sirdam?
+**Harga Sirdam Per M3 dan Tips Mendapatkan Penawaran Terbaik** - Mitra Sumber Material, pernahkah Anda bertanya-tanya berapa sebenarnya biaya yang dibutuhkan untuk mengurug lahan dengan sirdam?
 
 {{< toc >}}
 
-![Harga Sirdam Per M3: Update Terbaru 2026 & Tips Mendapatkan Penawaran Terbaik](/images/blog/harga-sirdam-per-m3.jpg)
+![Harga Sirdam Per M3 dan Tips Mendapatkan Penawaran Terbaik](/images/blog/harga-sirdam-per-m3.jpg)
 
 
 
-Sirdam, atau singkatan dari pasir urug dan dam, merupakan material konstruksi yang umum digunakan untuk pengurugan lahan, pembuatan pondasi, atau bahkan sebagai lapisan dasar jalan. Harganya bisa bervariasi tergantung beberapa faktor. Nah, artikel ini akan membahas secara detail mengenai harga sirdam per m3 di tahun 2026, faktor-faktor yang mempengaruhinya, serta tips untuk mendapatkan penawaran terbaik.
+Sirdam, atau singkatan dari pasir urug dan dam, merupakan material konstruksi yang umum digunakan untuk pengurugan lahan, pembuatan pondasi, atau bahkan sebagai lapisan dasar jalan. Harganya bisa bervariasi tergantung beberapa faktor. Nah, artikel ini akan membahas secara detail mengenai harga sirdam per m3, faktor-faktor yang mempengaruhinya, serta tips untuk mendapatkan penawaran terbaik.
 
 ## Memahami Harga Sirdam Per M3: Apa Saja yang Mempengaruhi?
 
@@ -29,9 +30,9 @@ Mitra Sumber Material, harga sirdam per m3 tidaklah statis. Ada beberapa faktor 
 
 Faktor lainnya adalah **kualitas sirdam**. Sirdam dengan kualitas lebih baik, misalnya yang memiliki kandungan lumpur lebih sedikit dan ukuran butir yang seragam, biasanya akan dijual dengan harga yang lebih tinggi. Selain itu, **permintaan dan penawaran pasar** juga berperan penting. Saat permintaan tinggi dan pasokan terbatas, harga cenderung naik, dan sebaliknya. Terakhir, kondisi ekonomi secara umum, seperti inflasi dan fluktuasi nilai tukar mata uang, juga dapat memengaruhi harga sirdam.
 
-## Estimasi Harga Sirdam Per M3 di Tahun 2026
+## Estimasi Harga Sirdam Per M3
 
-Lalu, berapa kisaran harga sirdam per m3 di tahun 2026 ini? Perlu diingat bahwa angka ini hanyalah estimasi dan dapat berubah sewaktu-waktu. Secara umum, Anda bisa memperkirakan harga sirdam per m3 berkisar antara Rp 300.000 hingga Rp 500.000. Harga ini sudah termasuk biaya pengiriman, tetapi belum termasuk biaya pemasangan atau penataan di lokasi proyek.
+Lalu, berapa kisaran harga sirdam per m3 saat ini? Perlu diingat bahwa angka ini hanyalah estimasi dan dapat berubah sewaktu-waktu. Secara umum, Anda bisa memperkirakan harga sirdam per m3 berkisar antara Rp 300.000 hingga Rp 500.000. Harga ini sudah termasuk biaya pengiriman, tetapi belum termasuk biaya pemasangan atau penataan di lokasi proyek.
 
 Untuk memberikan gambaran yang lebih jelas, berikut adalah contoh perhitungan sederhana:
 

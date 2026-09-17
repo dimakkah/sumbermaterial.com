@@ -1,10 +1,11 @@
 ---
-title: "Jasa Cor Lantai Profesional: Panduan Lengkap Biaya, Proses, dan Tips Pemilihan"
+title: "Jasa Cor Lantai Profesional di Jabodetabek: Proses dan Biayanya"
 date: "2026-09-13"
+lastmod: "2026-09-17"
 categories:
  - "blog"
 type: "service"
-description: "Jasa cor lantai terbaik untuk bangunan Anda di Jabodetabek! Pelajari biaya, tahapan pengerjaan, tips memilih penyedia, dan material yang tepat."
+description: "Cari jasa cor lantai profesional di Jabodetabek? Simak tahapan pengerjaan, estimasi biaya per m², dan tips memilih penyedia yang tepat dari Sumber Material."
 featured_image: "/images/blog/jasa-cor-lantai.jpg"
 tags: ["jasa cor lantai", "biaya cor lantai", "harga cor lantai", "tukang cor lantai", "cor lantai rumah"]
 keywords: "jasa cor lantai"
@@ -13,7 +14,7 @@ toc: false
 draft: false
 ---
 
-**Jasa Cor Lantai Profesional: Panduan Lengkap Biaya, Proses, dan Tips Pemilihan** - Mitra, seringkali kita melihat hasil cor lantai yang kurang memuaskan: retak, tidak rata, atau bahkan cepat rusak. Padahal, kualitas cor lantai sangat berpengaruh pada kekuatan dan umur bangunan. Nah, dalam artikel ini, Kami akan membahas tuntas seluk-beluk jasa cor lantai, mulai dari proses pengerjaan, perkiraan biaya, hingga tips memilih penyedia yang tepat di wilayah Jabodetabek.
+**Jasa Cor Lantai Profesional di Jabodetabek: Proses dan Biayanya** - Mitra, seringkali kita melihat hasil cor lantai yang kurang memuaskan: retak, tidak rata, atau bahkan cepat rusak. Padahal, kualitas cor lantai sangat berpengaruh pada kekuatan dan umur bangunan. Nah, dalam artikel ini, Kami akan membahas tuntas seluk-beluk jasa cor lantai, mulai dari proses pengerjaan, perkiraan biaya, hingga tips memilih penyedia yang tepat di wilayah Jabodetabek.
 
 {{< toc >}}
 
@@ -36,7 +37,7 @@ Sebelum memutuskan menggunakan jasa, ada baiknya Anda memahami tahapan pengerjaa
 
 ## Estimasi Biaya Jasa Cor Lantai Per Meter Persegi di Jabodetabek
 
-Pertanyaan paling umum yang muncul adalah soal biaya. Harga jasa cor lantai bervariasi tergantung beberapa faktor, seperti luas area, ketebalan lantai, mutu beton, dan lokasi. Secara umum, di wilayah Jabodetabek pada tahun 2026, Anda bisa memperkirakan biaya sebagai berikut:
+Pertanyaan paling umum yang muncul adalah soal biaya. Harga jasa cor lantai bervariasi tergantung beberapa faktor, seperti luas area, ketebalan lantai, mutu beton, dan lokasi. Secara umum, di wilayah Jabodetabek saat ini, Anda bisa memperkirakan biaya sebagai berikut:
 
 | Jenis Cor Lantai | Ketebalan (cm) | Mutu Beton | Estimasi Biaya/m² (Rp) |
 |---|---|---|---|

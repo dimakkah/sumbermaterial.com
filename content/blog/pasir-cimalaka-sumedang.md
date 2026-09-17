@@ -1,10 +1,11 @@
 ---
-title: "Pasir Cimalaka Sumedang: Panduan Lengkap Harga, Keunggulan, dan Penggunaan Terbaik"
+title: "Pasir Cimalaka Sumedang: Keunggulan dan Kisaran Harganya"
 date: "2026-09-13"
+lastmod: "2026-09-17"
 categories:
  - "blog"
 type: "product"
-description: "Pasir cimalaka sumedang dikenal dengan kualitasnya yang unggul. Pelajari harga terbaru, keunggulan, dan bagaimana memilih pasir cimalaka yang tepat untuk proyek Anda."
+description: "Pasir cimalaka dari Sumedang dikenal kuat dan rendah kadar lumpur. Simak keunggulan, kisaran harga per m3, dan tips memilih kualitas terbaik."
 featured_image: "/images/blog/pasir-cimalaka-sumedang.jpg"
 tags: ["pasir cimalaka", "pasir sumedang", "harga pasir cimalaka", "jual pasir cimalaka", "material bangunan"]
 keywords: "pasir cimalaka sumedang"
@@ -13,11 +14,11 @@ toc: false
 draft: false
 ---
 
-**Pasir Cimalaka Sumedang: Panduan Lengkap Harga, Keunggulan, dan Penggunaan Terbaik** - Mitra Sumber Material yang budiman, tahukah Anda bahwa sekitar 60% dari total biaya konstruksi sebuah bangunan berasal dari material bangunan? Nah, memilih material yang tepat, termasuk pasir, sangat krusial untuk efisiensi biaya dan kualitas bangunan. Di antara berbagai jenis pasir yang tersedia, pasir cimalaka dari Sumedang dikenal dengan kualitasnya yang prima. Artikel ini akan membahas secara mendalam mengenai pasir cimalaka, termasuk keunggulannya, harga, dan bagaimana memilih yang terbaik untuk proyek Anda.
+**Pasir Cimalaka Sumedang: Keunggulan dan Kisaran Harganya** - Mitra Sumber Material yang budiman, tahukah Anda bahwa sekitar 60% dari total biaya konstruksi sebuah bangunan berasal dari material bangunan? Nah, memilih material yang tepat, termasuk pasir, sangat krusial untuk efisiensi biaya dan kualitas bangunan. Di antara berbagai jenis pasir yang tersedia, pasir cimalaka dari Sumedang dikenal dengan kualitasnya yang prima. Artikel ini akan membahas secara mendalam mengenai pasir cimalaka, termasuk keunggulannya, harga, dan bagaimana memilih yang terbaik untuk proyek Anda.
 
 {{< toc >}}
 
-![Pasir Cimalaka Sumedang: Panduan Lengkap Harga, Keunggulan, dan Penggunaan Terbaik](/images/blog/pasir-cimalaka-sumedang.jpg)
+![Pasir Cimalaka Sumedang: Keunggulan dan Kisaran Harganya](/images/blog/pasir-cimalaka-sumedang.jpg)
 
 
 

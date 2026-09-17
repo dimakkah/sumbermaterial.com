@@ -1,10 +1,11 @@
 ---
-title: "Harga Pasir Laut Per M3: Update Terbaru 2026 & Tips Hitung Kebutuhan"
+title: "Harga Pasir Laut Per M3 dan Cara Hitung Kebutuhannya"
 date: "2026-09-12"
+lastmod: "2026-09-17"
 categories:
  - "blog"
 type: "product"
-description: "Harga pasir laut per m3 terbaru 2026. Pelajari faktor yang memengaruhi harga, tips menghitung kebutuhan material, dan dapatkan penawaran terbaik dari Sumber Material!"
+description: "Pasir laut jadi andalan untuk pondasi hingga urugan. Simak kisaran harga per m3, faktor yang memengaruhi, dan cara menghitung kebutuhan proyek Anda."
 featured_image: "/images/blog/harga-pasir-laut-per-m3.jpg"
 tags: ["harga pasir laut", "pasir laut per m3", "jual pasir laut", "harga material bangunan", "pasir urug"]
 keywords: "harga pasir laut per m3"
@@ -13,7 +14,7 @@ toc: false
 draft: false
 ---
 
-**Harga Pasir Laut Per M3: Update Terbaru 2026 & Tips Hitung Kebutuhan** - Mitra, mencari tahu harga pasir laut per m3 yang tepat untuk proyek Anda memang penting banget. Nah, di artikel ini, Kami akan kupas tuntas informasi harga terbaru di tahun 2026, faktor-faktor yang mempengaruhinya, serta cara menghitung kebutuhan material yang akurat supaya anggaran Anda tetap terkendali.
+**Harga Pasir Laut Per M3 dan Cara Hitung Kebutuhannya** - Mitra, mencari tahu harga pasir laut per m3 yang tepat untuk proyek Anda memang penting banget. Nah, di artikel ini, Kami akan kupas tuntas informasi harga terkini, faktor-faktor yang mempengaruhinya, serta cara menghitung kebutuhan material yang akurat supaya anggaran Anda tetap terkendali.
 
 {{< toc >}}
 
@@ -30,7 +31,7 @@ Harga pasir laut per m3 itu dinamis, alias bisa naik turun sewaktu-waktu. Ada be
 
 Ketiga, **kondisi cuaca**. Musim hujan bisa mengganggu proses penambangan dan pengiriman, sehingga memengaruhi pasokan dan harga. Keempat, **ukuran dan kualitas pasir**. Pasir laut dengan butiran yang lebih bersih dan memiliki gradasi yang baik biasanya harganya lebih mahal. Kelima, **volume pemesanan**. Biasanya, pembelian dalam jumlah besar (misalnya untuk proyek besar) bisa mendapatkan harga yang lebih kompetitif.
 
-Sebagai gambaran, harga pasir laut per m3 di wilayah Jabodetabek dan sekitarnya pada tahun 2026 berkisar antara Rp 150.000 hingga Rp 250.000. Harga ini bersifat estimasi dan dapat berubah sewaktu-waktu — hubungi Kami untuk penawaran terbaru dan paling akurat sesuai kebutuhan proyek Mitra.
+Sebagai gambaran, harga pasir laut per m3 di wilayah Jabodetabek dan sekitarnya saat ini berkisar antara Rp 150.000 hingga Rp 250.000. Harga ini bersifat estimasi dan dapat berubah sewaktu-waktu — hubungi Kami untuk penawaran terbaru dan paling akurat sesuai kebutuhan proyek Mitra.
 
 ## Tips Menghitung Kebutuhan Pasir Laut Secara Akurat
 

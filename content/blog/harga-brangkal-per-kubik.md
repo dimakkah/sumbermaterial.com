@@ -1,10 +1,11 @@
 ---
-title: "Harga Brangkal Per Kubik: Update 2026, Jenis, & Estimasi Biaya Proyek"
+title: "Harga Brangkal Per Kubik: Jenis dan Kegunaannya untuk Urugan"
 date: "2026-09-09"
+lastmod: "2026-09-17"
 categories:
  - "blog"
 type: "product"
-description: "Harga brangkal per kubik terbaru 2026. Pelajari jenis-jenis brangkal, faktor harga, dan estimasi biaya proyek urug untuk Jabodetabek dan sekitarnya."
+description: "Brangkal jadi pilihan ekonomis untuk urugan pondasi dan reklamasi lahan. Simak jenis-jenisnya, kisaran harga per kubik, dan cara menghitung kebutuhan proyek."
 featured_image: "/images/blog/harga-brangkal-per-kubik.jpg"
 tags: ["harga brangkal", "brangkal per kubik", "material urugan", "harga sirtu", "biaya urug"]
 keywords: "harga brangkal per kubik"
@@ -13,7 +14,7 @@ toc: false
 draft: false
 ---
 
-**Harga Brangkal Per Kubik** - Mitra, pernahkah Anda bertanya-tanya berapa harga brangkal per kubik di tahun 2026 ini? Brangkal, atau yang sering disebut juga dengan sirtu, adalah material urugan yang sangat krusial untuk berbagai proyek konstruksi. Artikel ini akan membahas secara detail harga brangkal per kubik, jenis-jenisnya, faktor-faktor yang memengaruhi harga, serta estimasi biaya yang perlu Anda pertimbangkan.
+**Harga Brangkal Per Kubik: Jenis dan Kegunaannya untuk Urugan** - Mitra, pernahkah Anda bertanya-tanya berapa harga brangkal per kubik saat ini? Brangkal, atau yang sering disebut juga dengan sirtu, adalah material urugan yang sangat krusial untuk berbagai proyek konstruksi. Artikel ini akan membahas secara detail harga brangkal per kubik, jenis-jenisnya, faktor-faktor yang memengaruhi harga, serta estimasi biaya yang perlu Anda pertimbangkan.
 
 {{< toc >}}
 
@@ -38,7 +39,7 @@ Harga brangkal per kubik bisa sangat bervariasi tergantung pada beberapa faktor.
 *   **Permintaan:** Permintaan pasar yang tinggi juga dapat mendorong harga brangkal naik.
 *   **Biaya Transportasi:** Seperti yang sudah disebutkan, biaya transportasi dari lokasi sumber material ke lokasi proyek sangat berpengaruh pada harga akhir.
 
-Sebagai gambaran, di wilayah Jabodetabek, harga brangkal per kubik di tahun 2026 ini berkisar antara Rp 150.000 hingga Rp 300.000. Harga ini bersifat estimasi dan dapat berubah sewaktu-waktu — hubungi Kami untuk penawaran terbaru dan paling akurat sesuai kebutuhan proyek Mitra.
+Sebagai gambaran, di wilayah Jabodetabek, harga brangkal per kubik saat ini berkisar antara Rp 150.000 hingga Rp 300.000. Harga ini bersifat estimasi dan dapat berubah sewaktu-waktu — hubungi Kami untuk penawaran terbaru dan paling akurat sesuai kebutuhan proyek Mitra.
 
 ## Estimasi Biaya Proyek Menggunakan Brangkal
 

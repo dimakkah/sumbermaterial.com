@@ -1,10 +1,11 @@
 ---
-title: "Harga Batu Per Kubik Terbaru 2026: Panduan Lengkap & Estimasi Biaya"
+title: "Harga Batu Per Kubik: Perbandingan Jenis dan Kegunaannya"
 date: "2026-09-15"
+lastmod: "2026-09-17"
 categories:
  - "blog"
 type: "product"
-description: "Harga batu perkubik terbaru 2026 untuk berbagai jenis material konstruksi seperti batu split, batu kali, dan sirtu. Dapatkan estimasi biaya & tips memilih yang tepat!"
+description: "Harga batu per kubik bervariasi tergantung jenisnya — split, kali, sirtu, andesit. Simak perbandingan harga dan tips memilih material yang tepat untuk proyek Anda."
 featured_image: "/images/blog/harga-batu-perkubik.jpg"
 tags: ["harga batu perkubik", "harga batu split", "harga batu kali", "sirtu", "material bangunan"]
 keywords: "harga batu perkubik"
@@ -13,7 +14,7 @@ toc: false
 draft: false
 ---
 
-**Harga Batu Per Kubik** - Mitra Sumber Material yang berbahagia, mencari tahu harga batu perkubik untuk proyek Anda? Nah, Anda datang ke tempat yang tepat! Artikel ini akan membahas secara mendalam mengenai harga berbagai jenis batu material konstruksi per kubik di tahun 2026, lengkap dengan faktor-faktor yang memengaruhi harga dan tips memilih material yang sesuai kebutuhan Anda.
+**Harga Batu Per Kubik: Perbandingan Jenis dan Kegunaannya** - Mitra Sumber Material yang berbahagia, mencari tahu harga batu perkubik untuk proyek Anda? Nah, Anda datang ke tempat yang tepat! Artikel ini akan membahas secara mendalam mengenai harga berbagai jenis batu material konstruksi per kubik, lengkap dengan faktor-faktor yang memengaruhi harga dan tips memilih material yang sesuai kebutuhan Anda.
 
 {{< toc >}}
 
@@ -28,7 +29,7 @@ Ada banyak sekali jenis batu yang digunakan dalam konstruksi, masing-masing deng
 *   **Batu Andesit:** Jenis batuan vulkanik yang kuat dan tahan lama. Sering digunakan untuk lantai, dinding, atau ornamen bangunan.
 *   **Batu Karang:** Berasal dari terumbu karang yang sudah mati. Biasanya digunakan untuk material campuran beton atau sebagai bahan dekoratif.
 
-Harga batu perkubik di tahun 2026 bisa sangat bervariasi tergantung pada lokasi, kualitas, dan permintaan pasar. Sebagai gambaran, berikut adalah estimasi harga per kubik (disclaimer: harga ini bersifat estimasi dan dapat berubah sewaktu-waktu — hubungi Kami untuk penawaran terbaru dan paling akurat sesuai kebutuhan proyek Mitra):
+Harga batu perkubik saat ini bisa sangat bervariasi tergantung pada lokasi, kualitas, dan permintaan pasar. Sebagai gambaran, berikut adalah estimasi harga per kubik (disclaimer: harga ini bersifat estimasi dan dapat berubah sewaktu-waktu — hubungi Kami untuk penawaran terbaru dan paling akurat sesuai kebutuhan proyek Mitra):
 
 *   Batu Split: Rp 300.000 – Rp 500.000 per kubik
 *   Batu Kali: Rp 250.000 – Rp 400.000 per kubik

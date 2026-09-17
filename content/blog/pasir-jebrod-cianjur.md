@@ -1,10 +1,11 @@
 ---
-title: "Pasir Jebrod Cianjur: Panduan Lengkap Harga, Jenis, dan Aplikasi Terbaik 2026"
+title: "Pasir Jebrod Cianjur: Jenis dan Kegunaan Terbaiknya"
 date: "2026-09-11"
+lastmod: "2026-09-17"
 categories:
  - "blog"
 type: "product"
-description: "Pasir jebrod cianjur adalah pilihan ideal untuk konstruksi. Dapatkan panduan lengkap tentang harga, jenis, keunggulan, dan aplikasi terbaiknya di tahun 2026!"
+description: "Pasir jebrod Cianjur dikenal kuat dan rendah kadar lumpur. Kenali jenis-jenisnya, kisaran harga per rit, dan aplikasi terbaiknya untuk proyek konstruksi."
 featured_image: "/images/blog/harga-pasir-jebrod-1-truk.jpg"
 tags: ["pasir jebrod cianjur", "harga pasir jebrod", "pasir bangunan", "material konstruksi", "jual pasir"]
 keywords: "pasir jebrod cianjur"
@@ -13,7 +14,7 @@ toc: false
 draft: false
 ---
 
-**Pasir Jebrod Cianjur: Panduan Lengkap Harga, Jenis, dan Aplikasi Terbaik 2026** - Mitra Sumber Material dimana saja berada, pernahkah Anda mengalami kesulitan mencari pasir bangunan yang berkualitas dengan harga terjangkau? Atau mungkin bingung membedakan jenis-jenis pasir yang ada? Nah, artikel ini hadir untuk menjawab semua pertanyaan Anda seputar pasir jebrod Cianjur – material yang banyak dicari para kontraktor dan pemilik rumah di Jabodetabek dan sekitarnya.
+**Pasir Jebrod Cianjur: Jenis dan Kegunaan Terbaiknya** - Mitra Sumber Material dimana saja berada, pernahkah Anda mengalami kesulitan mencari pasir bangunan yang berkualitas dengan harga terjangkau? Atau mungkin bingung membedakan jenis-jenis pasir yang ada? Nah, artikel ini hadir untuk menjawab semua pertanyaan Anda seputar pasir jebrod Cianjur – material yang banyak dicari para kontraktor dan pemilik rumah di Jabodetabek dan sekitarnya.
 
 {{< toc >}}
 
@@ -36,9 +37,9 @@ Pasir jebrod Cianjur sendiri memiliki beberapa variasi, tergantung pada ukuran b
 
 Nah, penting untuk memilih jenis pasir yang tepat sesuai dengan kebutuhan proyek Anda. Jangan ragu untuk berkonsultasi dengan Kami jika Anda masih bingung menentukan pilihan.
 
-## Harga Pasir Jebrod Cianjur Terbaru 2026 – Estimasi dan Faktor Pengaruh
+## Harga Pasir Jebrod Cianjur: Estimasi dan Faktor Pengaruh
 
-Harga pasir jebrod Cianjur tentu saja bervariasi, tergantung pada beberapa faktor. Secara umum, harga dipengaruhi oleh jarak lokasi pengiriman, volume pemesanan, dan kualitas pasir itu sendiri. Pada tahun 2026 ini, estimasi harga pasir jebrod Cianjur berkisar antara Rp 250.000 hingga Rp 450.000 per rit (sekitar 6-8 kubik). Harga ini bersifat estimasi dan dapat berubah sewaktu-waktu — hubungi Kami untuk penawaran terbaru dan paling akurat sesuai kebutuhan proyek Mitra.
+Harga pasir jebrod Cianjur tentu saja bervariasi, tergantung pada beberapa faktor. Secara umum, harga dipengaruhi oleh jarak lokasi pengiriman, volume pemesanan, dan kualitas pasir itu sendiri. Saat ini, estimasi harga pasir jebrod Cianjur berkisar antara Rp 250.000 hingga Rp 450.000 per rit (sekitar 6-8 kubik). Harga ini bersifat estimasi dan dapat berubah sewaktu-waktu — hubungi Kami untuk penawaran terbaru dan paling akurat sesuai kebutuhan proyek Mitra.
 
 Beberapa faktor lain yang turut mempengaruhi harga antara lain:
 

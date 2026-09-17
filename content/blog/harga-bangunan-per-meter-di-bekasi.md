@@ -1,10 +1,11 @@
 ---
-title: "Harga Bangunan Per Meter di Bekasi: Estimasi Biaya & Tips Hemat 2026"
+title: "Harga Bangunan Per Meter di Bekasi dan Tips Hematnya"
 date: "2026-09-15"
+lastmod: "2026-09-17"
 categories:
  - "blog"
 type: "service"
-description: "Harga bangunan per meter di Bekasi bervariasi tergantung material dan desain. Dapatkan estimasi biaya bangun rumah terbaru 2026 dan tips hemat dari Sumber Material!"
+description: "Harga bangunan per meter di Bekasi bervariasi tergantung material dan desain. Simak kisaran biaya per kategori kualitas dan tips hemat membangun dari Sumber Material."
 featured_image: "/images/blog/harga-bangunan-per-meter-di-bekasi.jpg"
 tags: ["harga bangunan bekasi", "biaya bangun rumah per meter", "material bangunan bekasi", "konstruksi bekasi", "renovasi bekasi"]
 keywords: "harga bangunan per meter di bekasi"
@@ -13,7 +14,7 @@ toc: false
 draft: false
 ---
 
-**Harga Bangunan Per Meter di Bekasi** - Mitra Sumber Material yang kami hormati, pernahkah Anda bertanya-tanya berapa biaya yang dibutuhkan untuk membangun rumah impian di Bekasi? Pertanyaan ini wajar sekali, karena biaya konstruksi bisa sangat bervariasi tergantung banyak faktor. Nah, di artikel ini, Kami akan membahas secara detail perkiraan harga bangunan per meter di Bekasi tahun 2026, lengkap dengan tips hematnya.
+**Harga Bangunan Per Meter di Bekasi dan Tips Hematnya** - Mitra Sumber Material yang kami hormati, pernahkah Anda bertanya-tanya berapa biaya yang dibutuhkan untuk membangun rumah impian di Bekasi? Pertanyaan ini wajar sekali, karena biaya konstruksi bisa sangat bervariasi tergantung banyak faktor. Nah, di artikel ini, Kami akan membahas secara detail perkiraan harga bangunan per meter di Bekasi, lengkap dengan tips hematnya.
 
 {{< toc >}}
 
@@ -24,7 +25,7 @@ Sebelum membahas angka, penting bagi Mitra untuk memahami bahwa harga bangunan p
 
 Selain itu, jangan lupakan biaya tenaga kerja. Upah tukang di Bekasi bisa bervariasi tergantung keahlian dan pengalaman mereka. Terakhir, adanya biaya-biaya tak terduga seperti perizinan atau penyesuaian desain di lapangan juga perlu diperhitungkan. Kami sarankan untuk selalu menyiapkan dana cadangan sekitar 10-15% dari total anggaran untuk mengantisipasi hal-hal seperti ini.
 
-## Estimasi Harga Bangunan Per Meter di Bekasi Tahun 2026
+## Estimasi Harga Bangunan Per Meter di Bekasi
 
 Lantas, berapa kisaran harga bangunan per meter di Bekasi saat ini? Secara umum, Kami bisa membagi estimasinya menjadi tiga kategori berdasarkan kualitas material dan finishing:
 
