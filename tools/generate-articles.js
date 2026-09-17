@@ -494,7 +494,18 @@ const SIMILARITY_STOPWORDS = new Set([
 ]);
 
 function significantWordsForSimilarity(text) {
-  return text.toLowerCase().replace(/[^a-z0-9\s]/g, '').split(/\s+/)
+  const normalized = text.toLowerCase()
+    .replace(/[^a-z0-9\s]/g, '')
+    // Collapse a number immediately followed by a unit/word ("7 cm" -> "7cm") so keyword
+    // variants that only differ in spacing around a measurement tokenize IDENTICALLY.
+    // Without this, "7 cm" splits into "7" (1 char, dropped by the length>2 filter below)
+    // + "cm" (2 chars, also dropped) while "7cm" survives as one 3-char token — so the two
+    // keywords end up being compared as {hebel} vs {hebel, 7cm} instead of {hebel, 7cm} vs
+    // {hebel, 7cm}, which silently drops the Jaccard score just under the similarity
+    // threshold (0.50 vs the 0.55 cutoff) and lets a near-duplicate slip through. Confirmed
+    // root cause of "harga hebel 7 cm" and "harga hebel 7cm" both getting articles.
+    .replace(/(\d)\s+([a-z])/g, '$1$2');
+  return normalized.split(/\s+/)
     .filter(w => w.length > 2 && !SIMILARITY_STOPWORDS.has(w)); // length > 2 so short but important niche words like "cor" remain
 }
 
