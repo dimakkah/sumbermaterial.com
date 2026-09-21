@@ -572,5 +572,19 @@
     "matchedTitle": "Jual Pasir Abu Batu Terdekat: Harga, Jenis, & Tips Pilih yang Tepat",
     "taggedAt": "2026-09-20T10:21:44.227Z",
     "algoVersion": 2
+  },
+  "harga bata hitam": {
+    "reason": "similar to existing article",
+    "matchedFile": "bata-hitam-terbuat-dari-apa.md",
+    "matchedTitle": "Bata Hitam Terbuat dari Apa? Ketahui Bahan & Keunggulannya",
+    "taggedAt": "2026-09-21T11:34:21.916Z",
+    "algoVersion": 2
+  },
+  "harga pasir abu": {
+    "reason": "similar to existing article",
+    "matchedFile": "jual-pasir-abu-batu-terdekat.md",
+    "matchedTitle": "Jual Pasir Abu Batu Terdekat: Harga, Jenis, & Tips Pilih yang Tepat",
+    "taggedAt": "2026-09-21T11:34:21.946Z",
+    "algoVersion": 2
   }
 }
