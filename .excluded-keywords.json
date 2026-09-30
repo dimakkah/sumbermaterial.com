@@ -698,5 +698,19 @@
     "matchedTitle": "Harga Besi 16 Ulir Per Batang: Update Terbaru & Estimasi Biaya",
     "taggedAt": "2026-09-28T12:29:10.405Z",
     "algoVersion": 2
+  },
+  "harga pasir abu batu 1 truk": {
+    "reason": "similar to existing article",
+    "matchedFile": "jual-pasir-abu-batu-terdekat.md",
+    "matchedTitle": "Jual Pasir Abu Batu Terdekat: Harga, Jenis, & Tips Pilih yang Tepat",
+    "taggedAt": "2026-09-30T11:40:06.017Z",
+    "algoVersion": 2
+  },
+  "jual batu kali bulat terdekat": {
+    "reason": "similar to existing article",
+    "matchedFile": "batu-kali-bulat-besar.md",
+    "matchedTitle": "Batu Kali Bulat Besar: Pilihan Tepat untuk Pondasi Kokoh & Harga Terjangkau",
+    "taggedAt": "2026-09-30T11:40:06.043Z",
+    "algoVersion": 2
   }
 }
