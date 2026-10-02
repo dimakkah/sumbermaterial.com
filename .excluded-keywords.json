@@ -775,5 +775,26 @@
     "matchedTitle": "Jasa Buat Pagar Rumah Terdekat: Berapa Biaya & Material Terbaik?",
     "taggedAt": "2026-10-01T12:09:01.004Z",
     "algoVersion": 2
+  },
+  "harga pasir cimalaka": {
+    "reason": "similar to existing article",
+    "matchedFile": "pasir-cimalaka-sumedang.md",
+    "matchedTitle": "Pasir Cimalaka Sumedang: Keunggulan dan Kisaran Harganya",
+    "taggedAt": "2026-10-02T11:39:17.509Z",
+    "algoVersion": 2
+  },
+  "split 2/3": {
+    "reason": "similar to existing article",
+    "matchedFile": "split-12.md",
+    "matchedTitle": "Split 1/2: Pilihan Tepat untuk Fondasi Kuat",
+    "taggedAt": "2026-10-02T11:39:17.553Z",
+    "algoVersion": 2
+  },
+  "split 3/5": {
+    "reason": "similar to existing article",
+    "matchedFile": "split-12.md",
+    "matchedTitle": "Split 1/2: Pilihan Tepat untuk Fondasi Kuat",
+    "taggedAt": "2026-10-02T11:39:17.554Z",
+    "algoVersion": 2
   }
 }
