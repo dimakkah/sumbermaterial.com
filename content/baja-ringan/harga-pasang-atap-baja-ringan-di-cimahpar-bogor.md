@@ -90,7 +90,7 @@ Berikut adalah beberapa alasan mengapa baja ringan adalah pilihan terbaik untuk 
  **Kualitas Terjamin:** Baja ringan yang kami gunakan bersertifikasi dan memiliki standar keamanan 4 kali lebih baik dari baja biasa, dengan kekuatan menahan beban berkilo-kilo. 
  **Tahan Rayap:** Djamin tahan terhadap serangan rayap.
 
-Percayakan semua kebutuhan rangka atap dan kanopi baja ringan Anda pada Mitra Sumber Material di Cimahpar Bogor. Kami siap membantu Anda memastikan ukuran, kualitas, dan pemasangan yang tepat sesuai dengan kebutuhan Anda. Hubungi kami untuk konsultasi dan penawaran terbaik! [Hubungi Kami](URL_KONTAK) untuk informasi lebih lanjut dan pemesanan. Jangan tunda lagi, wujudkan atap impian Anda sekarang!
+Percayakan semua kebutuhan rangka atap dan kanopi baja ringan Anda pada Mitra Sumber Material di Cimahpar Bogor. Kami siap membantu Anda memastikan ukuran, kualitas, dan pemasangan yang tepat sesuai dengan kebutuhan Anda. Hubungi kami untuk konsultasi dan penawaran terbaik! Hubungi Kami untuk informasi lebih lanjut dan pemesanan. Jangan tunda lagi, wujudkan atap impian Anda sekarang!
 
 
 

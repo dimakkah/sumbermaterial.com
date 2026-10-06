@@ -86,4 +86,4 @@ Berikut informasi rinci harga jasa pasang baja ringan yang perlu Anda ketahui, i
 *   Harga jasa pasang baja ringan dapat berubah sewaktu-waktu karena fluktuasi harga material.
 *   Pembayaran dapat dilakukan dengan *down payment* (DP) dan sisanya setelah pemasangan selesai.
 
-Anda dapat mempercayakan proyek Anda kepada kami. Kami dari Sumber Material siap membantu Anda dalam menentukan ukuran, kualitas, dan pemasangan yang paling sesuai dengan kebutuhan Anda tanpa meninggalkan sisa material yang tidak perlu. Hubungi kami segera untuk konsultasi gratis dan penawaran terbaik! [Dengan senang hati tim kami akan memberikan solusi terbaik untuk proyek Anda di Cinangka Depok.](URL)
+Anda dapat mempercayakan proyek Anda kepada kami. Kami dari Sumber Material siap membantu Anda dalam menentukan ukuran, kualitas, dan pemasangan yang paling sesuai dengan kebutuhan Anda tanpa meninggalkan sisa material yang tidak perlu. Hubungi kami segera untuk konsultasi gratis dan penawaran terbaik! Dengan senang hati tim kami akan memberikan solusi terbaik untuk proyek Anda di Cinangka Depok.
