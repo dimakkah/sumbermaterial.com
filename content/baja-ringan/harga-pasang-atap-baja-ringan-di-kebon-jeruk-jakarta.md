@@ -86,4 +86,4 @@ Berikut detail harga jasa pasang baja ringan yang perlu Anda ketahui:
 \- Harga layanan pasang baja ringan dapat berubah sewaktu-waktu tergantung fluktuasi harga material.
 - Pembayaran dapat dilakukan dengan sistem *down payment* dan sisanya setelah pemasangan selesai.
 
-Dengan begitu, Mitra Sumber Material sudah mendapatkan gambaran mengenai Harga Pasang Atap Baja Ringan Di Kebon Jeruk Jakarta. Jangan ragu untuk menghubungi kami untuk konsultasi gratis dan penawaran harga terbaik! [Hubungi kami sekarang](URL) untuk mendapatkan solusi atap terbaik untuk bangunan Anda.
+Dengan begitu, Mitra Sumber Material sudah mendapatkan gambaran mengenai Harga Pasang Atap Baja Ringan Di Kebon Jeruk Jakarta. Jangan ragu untuk menghubungi kami untuk konsultasi gratis dan penawaran harga terbaik! Hubungi kami sekarang untuk mendapatkan solusi atap terbaik untuk bangunan Anda.

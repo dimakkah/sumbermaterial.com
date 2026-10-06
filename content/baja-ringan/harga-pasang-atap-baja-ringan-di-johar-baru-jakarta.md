@@ -90,4 +90,4 @@ Berikut adalah beberapa alasan mengapa Anda harus memilih baja ringan sebagai ke
 *   **Kualitas Terjamin:** Baja ringan dari Mitra Sumber Material terbuat dari bahan zinc dan aluminium berkualitas tinggi dengan sertifikasi dan standar keamanan 4 kali lebih baik dari baja biasa.
 *   **Tahan Rayap:** Baja ringan dijamin tahan terhadap serangan rayap, sehingga Anda tidak perlu khawatir tentang kerusakan akibat hama.
 
-Demikian informasi mengenai Harga Pasang Atap Baja Ringan Di Johar Baru Jakarta. Jangan ragu untuk menghubungi kami untuk mendapatkan penawaran terbaik dan layanan profesional! [Hubungi Kami](URL_KONTAK) untuk konsultasi gratis dan penawaran harga terbaik. Kami siap membantu Anda mewujudkan proyek konstruksi impian Anda di Johar Baru Jakarta.
+Demikian informasi mengenai Harga Pasang Atap Baja Ringan Di Johar Baru Jakarta. Jangan ragu untuk menghubungi kami untuk mendapatkan penawaran terbaik dan layanan profesional! Hubungi Kami untuk konsultasi gratis dan penawaran harga terbaik. Kami siap membantu Anda mewujudkan proyek konstruksi impian Anda di Johar Baru Jakarta.

@@ -87,4 +87,4 @@ Berikut adalah beberapa alasan mengapa Anda harus memilih baja ringan sebagai ke
  Bahan berkualitas tinggi. Baja ringan yang kami gunakan terbuat dari zinc dan alumunium dengan sertifikasi dan standar keamanan yang 4 kali lebih baik dibandingkan baja biasa. Kekuatannya mampu menahan beban berkilo-kilo.
  Tahan rayap. Kami menjamin kerangka atap dan kanopi baja ringan ini tahan terhadap rayap.
 
-Hubungi kami sekarang juga untuk mendapatkan penawaran harga terbaik dan layanan pemasangan profesional di Kukusan Depok! [Hubungi kami melalui tombol Telepon/WhatsApp](URL_KONTAK) untuk konsultasi gratis.
+Hubungi kami sekarang juga untuk mendapatkan penawaran harga terbaik dan layanan pemasangan profesional di Kukusan Depok! Hubungi kami melalui tombol Telepon/WhatsApp untuk konsultasi gratis.

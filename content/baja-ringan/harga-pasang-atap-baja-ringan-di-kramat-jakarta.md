@@ -88,4 +88,4 @@ Berikut adalah rincian biaya jasa pasang baja ringan yang perlu Anda ketahui:
 *   Harga jasa pasang baja ringan dapat berubah sewaktu-waktu karena fluktuasi harga material.
 *   Pembayaran dapat dilakukan dengan sistem down payment dan sisanya setelah pemasangan selesai.
 
-Itulah informasi mengenai Harga Pasang Atap Baja Ringan Di Kramat Jakarta. Jangan ragu untuk menghubungi kami untuk konsultasi gratis dan penawaran terbaik! [Hubungi kami](URL) untuk mendapatkan solusi atap yang kuat, tahan lama, dan sesuai dengan kebutuhan Anda di Kramat Jakarta.
+Itulah informasi mengenai Harga Pasang Atap Baja Ringan Di Kramat Jakarta. Jangan ragu untuk menghubungi kami untuk konsultasi gratis dan penawaran terbaik! Hubungi kami untuk mendapatkan solusi atap yang kuat, tahan lama, dan sesuai dengan kebutuhan Anda di Kramat Jakarta.

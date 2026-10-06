@@ -90,4 +90,4 @@ Berikut adalah beberapa alasan mengapa Anda harus mempertimbangkan baja ringan s
  **Kualitas Terjamin:** Baja ringan yang kami gunakan adalah material berkualitas tinggi yang dilapisi zinc dan aluminium. Lapisan ini memberikan perlindungan 4 kali lebih baik dibandingkan baja biasa, dengan kekuatan mampu menahan beban berkilo-kilo.
  **Tahan Rayap:** Kami menjamin bahwa kerangka atap dan kanopi dari baja ringan tahan terhadap rayap.
 
-Demikian informasi mengenai Harga Pasang Atap Baja Ringan Di Galaxi Jakarta. Jangan ragu untuk [hubungi kami](URL) untuk mendapatkan penawaran terbaik dan layanan pemasangan profesional di Galaxi Jakarta! Kami siap membantu Anda mewujudkan atap impian Anda. Anda juga dapat melihat [[[PLACEHOLDER_N]]] untuk informasi lebih lanjut.
+Demikian informasi mengenai Harga Pasang Atap Baja Ringan Di Galaxi Jakarta. Jangan ragu untuk hubungi kami untuk mendapatkan penawaran terbaik dan layanan pemasangan profesional di Galaxi Jakarta! Kami siap membantu Anda mewujudkan atap impian Anda. Anda juga dapat melihat [[[PLACEHOLDER_N]]] untuk informasi lebih lanjut.

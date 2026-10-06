@@ -88,4 +88,4 @@ Berikut informasi detail harga jasa pasang baja ringan yang perlu Anda ketahui. 
 \- Harga jasa pasang baja ringan dapat berubah sewaktu-waktu karena fluktuasi harga material.
 \- Pembayaran dapat dilakukan dengan *down payment* dan sisanya setelah pemasangan selesai.
 
-Demikian informasi mengenai Harga Pasang Atap Baja Ringan Di Larangan Tangerang. Jangan ragu untuk menghubungi kami untuk mendapatkan penawaran terbaik dan solusi konstruksi yang Anda butuhkan di Larangan Tangerang! [Hubungi kami](URL) untuk konsultasi gratis!
+Demikian informasi mengenai Harga Pasang Atap Baja Ringan Di Larangan Tangerang. Jangan ragu untuk menghubungi kami untuk mendapatkan penawaran terbaik dan solusi konstruksi yang Anda butuhkan di Larangan Tangerang! Hubungi kami untuk konsultasi gratis!

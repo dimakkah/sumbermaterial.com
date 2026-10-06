@@ -80,4 +80,4 @@ Berikut adalah beberapa alasan penting mengapa Anda perlu mempertimbangkan baja 
 *   **Kualitas Terjamin:** Baja ringan yang kami gunakan adalah material berkualitas tinggi dengan lapisan zinc dan aluminium yang memiliki standar keamanan 4 kali lebih baik daripada baja biasa. Material ini mampu menahan beban berkilo-kilo.
 *   **Tahan Rayap:** Kami menjamin kerangka atap dan kanopi baja ringan tahan terhadap serangan rayap.
 
-Itulah informasi mengenai Harga Pasang Atap Baja Ringan Di Serdang Jakarta. Jangan ragu untuk menghubungi kami untuk konsultasi gratis dan penawaran terbaik! [Hubungi kami sekarang](URL_KONTAK) untuk mendapatkan solusi atap yang berkualitas dan terjangkau di Serdang Jakarta.
+Itulah informasi mengenai Harga Pasang Atap Baja Ringan Di Serdang Jakarta. Jangan ragu untuk menghubungi kami untuk konsultasi gratis dan penawaran terbaik! Hubungi kami sekarang untuk mendapatkan solusi atap yang berkualitas dan terjangkau di Serdang Jakarta.

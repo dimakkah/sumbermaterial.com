@@ -82,4 +82,4 @@ Berikut adalah detail biaya layanan pasang baja ringan yang perlu Anda ketahui:
 *   Harga jasa pasang baja ringan dapat berubah sewaktu-waktu karena fluktuasi harga material.
 *   Pembayaran dapat dilakukan dengan *down payment* dan sisanya setelah pemasangan selesai.
 
-Itulah informasi mengenai Harga Pasang Atap Baja Ringan Di Pengadegan Jakarta. Jangan ragu untuk menghubungi Mitra Sumber Material untuk mendapatkan penawaran terbaik dan konsultasi gratis! [Hubungi Kami](URL_KONTAK) sekarang juga untuk mewujudkan atap impian Anda.
+Itulah informasi mengenai Harga Pasang Atap Baja Ringan Di Pengadegan Jakarta. Jangan ragu untuk menghubungi Mitra Sumber Material untuk mendapatkan penawaran terbaik dan konsultasi gratis! Hubungi Kami sekarang juga untuk mewujudkan atap impian Anda.

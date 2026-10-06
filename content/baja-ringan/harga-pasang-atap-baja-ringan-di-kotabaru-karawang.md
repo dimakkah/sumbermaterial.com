@@ -86,6 +86,6 @@ Berikut informasi rinci mengenai Biaya Layanan pasang baja ringan yang perlu And
 - Harga yang kami tawarkan sudah layak dengan Layanan pemasangan, perhitungan, dan material yang terpasang.
 - Kami selalu mengutamakan harga terbaik untuk Anda.
 - Biaya Jasa pasang baja ringan dapat berubah sewaktu-waktu karena faktor material.
-- Pembayaran dapat dilakukan dengan down payment dan sisanya setelah pemasangan selesai. [Informasi lebih lanjut tentang harga dan konsultasi gratis di Kotabaru Karawang dapat Anda akses di sini](URL-ke-halaman-kontak).
+- Pembayaran dapat dilakukan dengan down payment dan sisanya setelah pemasangan selesai. Informasi lebih lanjut tentang harga dan konsultasi gratis di Kotabaru Karawang dapat Anda akses di sini.
 
 Hubungi kami hari ini juga untuk mendapatkan penawaran terbaik dan solusi atap baja ringan yang berkualitas untuk proyek Anda di Kotabaru Karawang! Jangan tunda lagi, bangunan kokoh dan aman adalah investasi masa depan Anda.

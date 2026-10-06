@@ -102,4 +102,4 @@ Berikut informasi detail mengenai harga jasa pasang baja ringan yang perlu Anda 
 </table>
 
 
-Sekian informasi mengenai Harga Pasang Atap Baja Ringan Di Tapos Depok. Jangan ragu untuk menghubungi kami untuk konsultasi dan penawaran terbaik! [Hubungi Kami](URL_KONTAK) untuk mendapatkan penawaran harga terkini dan solusi terbaik untuk kebutuhan atap dan canopy Anda di Tapos Depok.
+Sekian informasi mengenai Harga Pasang Atap Baja Ringan Di Tapos Depok. Jangan ragu untuk menghubungi kami untuk konsultasi dan penawaran terbaik! Hubungi Kami untuk mendapatkan penawaran harga terkini dan solusi terbaik untuk kebutuhan atap dan canopy Anda di Tapos Depok.

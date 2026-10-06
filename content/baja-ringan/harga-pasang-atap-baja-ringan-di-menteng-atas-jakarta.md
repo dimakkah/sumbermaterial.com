@@ -94,7 +94,7 @@ Berikut beberapa alasan mengapa Anda sebaiknya memilih baja ringan sebagai keran
 *   **Kualitas Terjamin:** Baja ringan yang kami gunakan memiliki kualitas terbaik dengan lapisan zinc dan aluminium yang tahan karat dan memiliki standar keamanan yang tinggi.
 *   **Tahan Rayap:** Baja ringan terjamin kuat dan tahan terhadap serangan rayap.
 
-Demikian informasi terkait Harga Pasang Atap Baja Ringan Di Menteng Atas Jakarta. Jangan ragu untuk [hubungi kami](URL_KONTAK) untuk konsultasi dan penawaran terbaik! Kami siap membantu Anda mewujudkan proyek bangunan impian Anda di Menteng Atas Jakarta.
+Demikian informasi terkait Harga Pasang Atap Baja Ringan Di Menteng Atas Jakarta. Jangan ragu untuk hubungi kami untuk konsultasi dan penawaran terbaik! Kami siap membantu Anda mewujudkan proyek bangunan impian Anda di Menteng Atas Jakarta.
 
 
 

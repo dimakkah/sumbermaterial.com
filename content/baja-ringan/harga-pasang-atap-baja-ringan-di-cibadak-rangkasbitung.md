@@ -84,7 +84,7 @@ Berikut beberapa alasan mengapa Anda harus memilih kerangka atap dan kanopi baja
 *   **Kualitas Terjamin:** Baja ringan yang kami gunakan memiliki kualitas tinggi dengan lapisan zinc dan aluminium yang memberikan perlindungan 4 kali lebih baik daripada baja biasa. Kekuatannya mampu menahan beban hingga berkilo-kilo.
 *   **Tahan Rayap:** Baja ringan tidak dimakan rayap, sehingga lebih tahan lama dan hemat biaya perbaikan.
 
-Sudah jelas kan keunggulan baja ringan? Jangan ragu untuk menghubungi Mitra Sumber Material di Cibadak Rangkasbitung untuk mendapatkan penawaran terbaik dan layanan pemasangan profesional! [Harga Spesial Baja Ringan](URL_DAPATKAN_HARGA_SPESIAL)
+Sudah jelas kan keunggulan baja ringan? Jangan ragu untuk menghubungi Mitra Sumber Material di Cibadak Rangkasbitung untuk mendapatkan penawaran terbaik dan layanan pemasangan profesional! Harga Spesial Baja Ringan
 
 
 

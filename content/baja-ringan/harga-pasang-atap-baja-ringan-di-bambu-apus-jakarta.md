@@ -88,4 +88,4 @@ Berikut adalah rincian biaya jasa pasang baja ringan yang perlu Anda ketahui:
 *   Harga jasa pasang baja ringan dapat berubah sewaktu-waktu tergantung pada fluktuasi harga material.
 *   Pembayaran dapat dilakukan dengan sistem *down payment* (DP) dan sisa pembayaran setelah pemasangan selesai.
 
-Demikian informasi mengenai Harga Pasang Atap Baja Ringan Di Bambu Apus Jakarta. Jangan ragu untuk menghubungi kami untuk konsultasi gratis dan penawaran khusus! [Lihat detailnya disini](URL). Kami siap membantu Anda mewujudkan atap impian Anda dengan kualitas terbaik dan harga yang kompetitif.
+Demikian informasi mengenai Harga Pasang Atap Baja Ringan Di Bambu Apus Jakarta. Jangan ragu untuk menghubungi kami untuk konsultasi gratis dan penawaran khusus! Lihat detailnya disini. Kami siap membantu Anda mewujudkan atap impian Anda dengan kualitas terbaik dan harga yang kompetitif.

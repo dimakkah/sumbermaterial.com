@@ -92,4 +92,4 @@ Berikut informasi rinci tentang biaya jasa pemasangan baja ringan yang perlu And
 *   Biaya jasa pemasangan baja ringan dapat berubah sewaktu-waktu karena fluktuasi harga material.
 *   Pembayaran dapat dilakukan dengan *down payment* dan sisanya setelah pemasangan selesai.
 
-Sekian informasi mengenai Harga Pasang Atap Baja Ringan Di Kedungwaringin Bekasi. Jangan ragu untuk menghubungi kami untuk konsultasi gratis dan penawaran terbaik! [Hubungi Kami](URL) untuk informasi lebih lanjut.
+Sekian informasi mengenai Harga Pasang Atap Baja Ringan Di Kedungwaringin Bekasi. Jangan ragu untuk menghubungi kami untuk konsultasi gratis dan penawaran terbaik! Hubungi Kami untuk informasi lebih lanjut.

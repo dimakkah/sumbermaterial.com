@@ -88,4 +88,4 @@ Berikut adalah informasi detail mengenai biaya jasa pasang baja ringan yang perl
 *   Biaya layanan pasang baja ringan dapat berubah sewaktu-waktu karena fluktuasi harga material.
 *   Pembayaran dapat dilakukan dengan sistem *down payment* dan sisanya setelah pemasangan selesai.
 
-Mitra Sumber Material siap membantu Anda dalam memilih ukuran, kualitas, dan pemasangan yang tepat sesuai kebutuhan Anda. Terima kasih. Hubungi kami sekarang untuk konsultasi dan penawaran terbaik! [Hubungi Kami](URL) untuk informasi lebih lanjut.
+Mitra Sumber Material siap membantu Anda dalam memilih ukuran, kualitas, dan pemasangan yang tepat sesuai kebutuhan Anda. Terima kasih. Hubungi kami sekarang untuk konsultasi dan penawaran terbaik! Hubungi Kami untuk informasi lebih lanjut.

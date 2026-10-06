@@ -92,4 +92,4 @@ Berikut beberapa alasan mengapa Anda harus memilih baja ringan sebagai kerangka 
  **Kualitas Terjamin:** Baja ringan yang kami gunakan memiliki kualitas terjamin dengan sertifikasi dan standar keamanan yang 4 kali lebih baik dibandingkan baja biasa. Kekuatannya mampu menahan beban berat.
  **Tahan Rayap:** Baja ringan tidak dimakan rayap, sehingga kerangka atap dan kanopi Anda terjamin kekuatannya.
 
-Silakan hubungi kami untuk mendapatkan informasi lebih lanjut mengenai Harga Pasang Atap Baja Ringan Di Kencana Bogor dan penawaran spesial lainnya. Kami siap membantu Anda membangun atap yang kuat, aman, dan tahan lama. [Hubungi kami sekarang juga](URL) untuk konsultasi gratis! Ayo wujudkan impian rumah Anda bersama Sumber Material.
+Silakan hubungi kami untuk mendapatkan informasi lebih lanjut mengenai Harga Pasang Atap Baja Ringan Di Kencana Bogor dan penawaran spesial lainnya. Kami siap membantu Anda membangun atap yang kuat, aman, dan tahan lama. Hubungi kami sekarang juga untuk konsultasi gratis! Ayo wujudkan impian rumah Anda bersama Sumber Material.

@@ -86,4 +86,4 @@ Berikut beberapa alasan mengapa Anda sebaiknya memilih baja ringan sebagai keran
  **Kualitas Terjamin:** Baja ringan yang kami gunakan memiliki sertifikat dan standar keamanan 4 kali lebih baik daripada baja umum, serta mampu menahan beban berkilo-kilo.
  **Tahan Rayap:** Kerangka atap dan *canopy* baja ringan terjamin tahan terhadap rayap.
 
-Demikian informasi mengenai Harga Pasang Atap Baja Ringan Di Selong Jakarta dari Mitra Sumber Material. Jangan ragu untuk menghubungi kami untuk mendapatkan penawaran terbaik dan layanan yang profesional! [Hubungi Kami Sekarang](URL) untuk konsultasi dan pemesanan.
+Demikian informasi mengenai Harga Pasang Atap Baja Ringan Di Selong Jakarta dari Mitra Sumber Material. Jangan ragu untuk menghubungi kami untuk mendapatkan penawaran terbaik dan layanan yang profesional! Hubungi Kami Sekarang untuk konsultasi dan pemesanan.
