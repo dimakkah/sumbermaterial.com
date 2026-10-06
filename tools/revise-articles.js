@@ -59,7 +59,8 @@ const {
   guessCategoryHint,
   findRelatedCandidates,
   formatCandidatesForPrompt,
-  enforceInternalLinks,
+  resolveLinkTokens,
+  stripBrokenLinks,
 } = require('./lib/related-articles.js');
 
 // Deterministic, crash-proof Markdown table rendering — see lib/safe-table.js.
@@ -550,16 +551,25 @@ async function main() {
         continue;
       }
 
-      let revisedContent = stripTrailingMarker(restoreStructure(revisedProtected, placeholders));
+      // URLs are written ONLY by script. The AI marks a link as [[LINK:N|anchor]]; here, BEFORE the
+      // placeholders are restored (so every pre-existing link is still an opaque token and cannot
+      // be touched), each token becomes [anchor](real candidate URL). Any other link syntax the AI
+      // wrote is demoted to plain text. See resolveLinkTokens() in lib/related-articles.js.
+      const linkResult = resolveLinkTokens(revisedProtected, relatedCandidates, 2);
+      let revisedContent = stripTrailingMarker(restoreStructure(linkResult.text, placeholders));
 
       // Turn any [[TABEL_MULAI]]...[[TABEL_SELESAI]] block into a guaranteed-valid Markdown
-      // table (lib/safe-table.js), then keep only internal links pointing at an offered
-      // candidate URL, capped at 2 (lib/related-articles.js) — same safety net as generate.
+      // table (lib/safe-table.js). Internal links were already resolved by script above (link tokens
+      // → real URLs); below, any leftover BROKEN link such as "(URL)" is demoted to plain text.
       revisedContent = renderSafeTables(revisedContent);
       if (hasLeftoverTableMarkers(revisedContent)) {
         log('   ⚠️  Leftover [[TABEL_...]] marker found after table rendering — check article manually.');
       }
-      revisedContent = enforceInternalLinks(revisedContent, relatedCandidates.map(c => c.url), 2);
+      const brokenResult = stripBrokenLinks(revisedContent);
+      revisedContent = brokenResult.text;
+      log(`   🔗 Internal links added by script: ${linkResult.resolved}` +
+        (linkResult.dropped ? ` (${linkResult.dropped} invalid AI link(s) demoted to plain text)` : '') +
+        (brokenResult.removed.length ? ` | ${brokenResult.removed.length} broken link(s) demoted: ${brokenResult.removed.map(r => `[${r.anchor}](${r.target})`).join(', ')}` : ''));
 
       const issues = validateFinalContent(parsed.content, revisedContent, location);
 

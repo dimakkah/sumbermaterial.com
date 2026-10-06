@@ -41,7 +41,8 @@ const {
   guessCategoryHint,
   findRelatedCandidates,
   formatCandidatesForPrompt,
-  enforceInternalLinks,
+  resolveLinkTokens,
+  stripBrokenLinks,
 } = require('./lib/related-articles.js');
 
 // Deterministic, crash-proof Markdown table rendering from AI-provided structured data — see
@@ -1456,7 +1457,15 @@ function parseAndSave(raw, keyword, slug, imagePath, greeting, relatedCandidates
 
   // Safety net: only keep internal links that point to one of the offered candidate URLs,
   // and never more than 2 total — regardless of what the AI actually did.
-  body = enforceInternalLinks(body, relatedCandidates.map(c => c.url), 2);
+  // URLs are written ONLY by script: the AI marks links as [[LINK:N|anchor]], resolved here to the
+  // real candidate URL (max 2); any other link syntax the AI wrote is demoted to plain text.
+  const linkResult = resolveLinkTokens(body, relatedCandidates, 2);
+  body = linkResult.text;
+  const brokenResult = stripBrokenLinks(body);
+  body = brokenResult.text;
+  console.log(`   🔗 Internal links added by script: ${linkResult.resolved}` +
+    (linkResult.dropped ? ` (${linkResult.dropped} invalid AI link(s) demoted to plain text)` : '') +
+    (brokenResult.removed.length ? ` | ${brokenResult.removed.length} broken link(s) demoted` : ''));
 
   // NOTE: the {{< table-tables table="..." >}} shortcode is INTENTIONALLY NOT auto-inserted
   // here. Some article categories already have their own hand-written HTML price table

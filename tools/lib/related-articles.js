@@ -208,7 +208,7 @@ function formatCandidatesForPrompt(candidates) {
     return '(Tidak ada artikel terkait yang cukup relevan untuk keyword/topik ini — lewati instruksi internal link, tidak perlu memaksakan.)';
   }
   return candidates.map((c, i) =>
-    `${i + 1}. [${c.title}](${c.url})\n   Ringkasan isi: ${c.excerpt || '(tidak ada ringkasan)'}`
+    `${i + 1}. ${c.title}\n   Ringkasan isi: ${c.excerpt || '(tidak ada ringkasan)'}`
   ).join('\n');
 }
 
@@ -247,6 +247,87 @@ function extractOutboundUrls(body) {
   return [...urls];
 }
 
+// ─── SCRIPT-OWNED INTERNAL LINKS ───────────────────────────────────────────────────────────
+// The AI NEVER writes a URL. The candidate list in the prompt shows only "N. Title" (see
+// formatCandidatesForPrompt above), and the AI marks a link with a token: [[LINK:N|anchor text]].
+// resolveLinkTokens() below turns each token into [anchor text](url-of-candidate-N) using the
+// real URL from the candidate list. Anything else the AI writes that looks like a Markdown
+// link is demoted to plain anchor text, so a hallucinated/placeholder target ("(URL)", "(2)",
+// "()", an invented path) can never reach a published file.
+//
+// MUST be run on the AI output BEFORE restoreStructure() in revise-articles.js: at that point
+// every pre-existing link is still a [[[PLACEHOLDER_N]]] token, so any [x](y) left in the text
+// was written by the AI (and pre-existing links are never touched).
+const MD_LINK_RE = /(?<!!)\[([^\]]+)\]\(([^)]*)\)/g;
+
+// A link target is valid when it is a site path ("/..."), an absolute http(s)/mailto/tel URL,
+// or an in-page anchor ("#something"). Empty, "URL", bare digits, bare "#" etc. are broken.
+function isValidLinkTarget(target) {
+  const t = (target || '').trim().split(/\s+/)[0] || ''; // ignore an optional "title" part
+  if (!t) return false;
+  if (/^(https?:\/\/|mailto:|tel:)\S+$/i.test(t)) return true;
+  if (/^\/\S*$/.test(t)) return true;
+  if (/^#\S+$/.test(t)) return true;
+  return false;
+}
+
+function resolveLinkTokens(text, candidates, maxLinks = 2) {
+  const list = candidates || [];
+  const urlToNum = new Map(list.map((c, i) => [c.url, i + 1]));
+  let dropped = 0;
+
+  // (a) Leniency: if the AI ignored the token format and wrote [anchor](N) or copied a real
+  //     candidate URL, treat it as the equivalent token instead of throwing the link away.
+  let out = (text || '').replace(MD_LINK_RE, (match, anchor, target) => {
+    const t = target.trim();
+    if (/^\d+$/.test(t)) return `[[LINK:${t}|${anchor}]]`;
+    if (urlToNum.has(t)) return `[[LINK:${urlToNum.get(t)}|${anchor}]]`;
+    return match;
+  });
+
+  // (b) Every other Markdown link the AI wrote is demoted to plain text.
+  out = out.replace(MD_LINK_RE, (m, anchor) => { dropped++; return anchor; });
+
+  // (c) Resolve tokens → real links. Unknown number / duplicate target / over the cap → plain text.
+  const used = new Set();
+  let kept = 0;
+  out = out.replace(/\[\[LINK:(\d+)\|([^\]\n]+?)\]\]/g, (m, n, anchor) => {
+    const idx = parseInt(n, 10) - 1;
+    const cand = list[idx];
+    if (!cand || used.has(idx) || kept >= maxLinks) { dropped++; return anchor.trim(); }
+    used.add(idx);
+    kept++;
+    return `[${anchor.trim()}](${cand.url})`;
+  });
+
+  // (d) Malformed leftovers such as [[LINK:abc|x]] or [[LINK:2]] never reach the file.
+  out = out.replace(/\[\[LINK:[^|\]]*\|([^\]]*)\]\]/g, (m, anchor) => { dropped++; return anchor.trim(); });
+  out = out.replace(/\[\[LINK:[^\]]*\]\]/g, () => { dropped++; return ''; });
+
+  return { text: out, resolved: kept, dropped };
+}
+
+// Lists Markdown links (not images) whose target is not a valid URL/path, e.g. "(URL)", "(2)", "()".
+function findBrokenLinks(body) {
+  const broken = [];
+  for (const m of (body || '').matchAll(MD_LINK_RE)) {
+    if (!isValidLinkTarget(m[2])) broken.push({ anchor: m[1], target: m[2], index: m.index });
+  }
+  return broken;
+}
+
+// Demotes every broken link to its plain anchor text (the sentence still reads naturally).
+// Safe to run on the FINAL restored body: valid links are left byte-identical.
+function stripBrokenLinks(body) {
+  const removed = [];
+  const text = (body || '').replace(MD_LINK_RE, (match, anchor, target) => {
+    if (isValidLinkTarget(target)) return match;
+    removed.push({ anchor, target });
+    return anchor;
+  });
+  return { text, removed };
+}
+
 module.exports = {
   buildArticleIndex,
   guessCategoryHint,
@@ -254,6 +335,10 @@ module.exports = {
   formatCandidatesForPrompt,
   enforceInternalLinks,
   extractOutboundUrls,
+  resolveLinkTokens,
+  stripBrokenLinks,
+  findBrokenLinks,
+  isValidLinkTarget,
   significantWords, // exported for reuse/testing
   significantWordsForMatching,
   stripLocationForMatching,
