@@ -887,5 +887,19 @@
     "matchedTitle": "Material Terdekat dari Lokasi Saya: Solusi Cepat di Jabodetabek",
     "taggedAt": "2026-10-07T12:23:31.875Z",
     "algoVersion": 2
+  },
+  "harga besi bangunan per batang": {
+    "reason": "similar to existing article",
+    "matchedFile": "harga-besi-4mm-per-batang.md",
+    "matchedTitle": "Harga Besi 4mm Per Batang: Update & Tips Cek Kualitas Terbaik",
+    "taggedAt": "2026-10-08T12:33:02.732Z",
+    "algoVersion": 2
+  },
+  "jual split terdekat": {
+    "reason": "similar to existing article",
+    "matchedFile": "split-12.md",
+    "matchedTitle": "Split 1/2: Pilihan Tepat untuk Fondasi Kuat",
+    "taggedAt": "2026-10-08T12:33:02.764Z",
+    "algoVersion": 2
   }
 }
