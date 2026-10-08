@@ -368,7 +368,10 @@
     "/bangunan/biaya-bangun-rumah-per-meter-di-babelan-bekasi/",
     "/bangunan/biaya-bangun-rumah-per-meter-di-balaraja-tangerang/",
     "/bangunan/biaya-bangun-rumah-per-meter-di-bambu-apus-jakarta/",
-    "/bangunan/biaya-bangun-rumah-per-meter-di-batu-ampar-jakarta/"
+    "/bangunan/biaya-bangun-rumah-per-meter-di-batu-ampar-jakarta/",
+    "/bangunan/biaya-bangun-rumah-per-meter-di-bangka-jakarta/",
+    "/bangunan/biaya-bangun-rumah-per-meter-di-banyusari-karawang/",
+    "/bangunan/biaya-bangun-rumah-per-meter-di-bekasi-timur/"
   ],
   "failed": {
     "/baja-ringan/harga-pasang-atap-baja-ringan-di-anyar-serang/": 2,
@@ -588,10 +591,16 @@
     "/bangunan/biaya-bangun-rumah-per-meter-di-babakan-bogor/": 2,
     "/bangunan/biaya-bangun-rumah-per-meter-di-babakan-pasar-bogor/": 1,
     "/bangunan/biaya-bangun-rumah-per-meter-di-babelan-bekasi/": 1,
-    "/bangunan/biaya-bangun-rumah-per-meter-di-bale-kambang-jakarta/": 1,
+    "/bangunan/biaya-bangun-rumah-per-meter-di-bale-kambang-jakarta/": 2,
     "/bangunan/biaya-bangun-rumah-per-meter-di-bangka-jakarta/": 1,
     "/bangunan/biaya-bangun-rumah-per-meter-di-banyusari-karawang/": 1,
-    "/bangunan/biaya-bangun-rumah-per-meter-di-baros-serang/": 1,
-    "/bangunan/biaya-bangun-rumah-per-meter-di-baru-jakarta/": 1
+    "/bangunan/biaya-bangun-rumah-per-meter-di-baros-serang/": 2,
+    "/bangunan/biaya-bangun-rumah-per-meter-di-baru-jakarta/": 2,
+    "/bangunan/biaya-bangun-rumah-per-meter-di-batujaya-karawang/": 1,
+    "/bangunan/biaya-bangun-rumah-per-meter-di-bayah-rangkasbitung/": 1,
+    "/bangunan/biaya-bangun-rumah-per-meter-di-bedahan-depok/": 1,
+    "/bangunan/biaya-bangun-rumah-per-meter-di-beji-depok/": 1,
+    "/bangunan/biaya-bangun-rumah-per-meter-di-bekasi-barat/": 1,
+    "/bangunan/biaya-bangun-rumah-per-meter-di-bekasi-selatan/": 1
   }
 }
