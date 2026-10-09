@@ -901,5 +901,19 @@
     "matchedTitle": "Split 1/2: Pilihan Tepat untuk Fondasi Kuat",
     "taggedAt": "2026-10-08T12:33:02.764Z",
     "algoVersion": 2
+  },
+  "harga abu batu per m3": {
+    "reason": "similar to existing article",
+    "matchedFile": "harga-abu-batu-per-kubik.md",
+    "matchedTitle": "Harga Abu Batu Per Kubik: Estimasi & Tips Penggunaan",
+    "taggedAt": "2026-10-09T12:21:07.863Z",
+    "algoVersion": 2
+  },
+  "harga split per kubik": {
+    "reason": "similar to existing article",
+    "matchedFile": "harga-split-23-per-kubik.md",
+    "matchedTitle": "Harga Split 2/3 Per Kubik: Update Terbaru & Tips Cek Kualitas",
+    "taggedAt": "2026-10-09T12:21:07.900Z",
+    "algoVersion": 2
   }
 }
