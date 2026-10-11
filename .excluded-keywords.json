@@ -922,5 +922,33 @@
     "matchedTitle": "Jasa Pembuatan Pagar Rumah Terdekat: Bebas Repot, Hasil Berkualitas",
     "taggedAt": "2026-10-10T11:39:39.151Z",
     "algoVersion": 2
+  },
+  "biaya las pagar": {
+    "reason": "similar to existing article",
+    "matchedFile": "jasa-las-pagar-per-meter.md",
+    "matchedTitle": "Jasa Las Pagar Per Meter: Harga & Tips Pilih yang Tepat",
+    "taggedAt": "2026-10-11T11:52:56.780Z",
+    "algoVersion": 2
+  },
+  "gambar pasir urug": {
+    "reason": "similar to existing article",
+    "matchedFile": "harga-pasir-urug-per-m3.md",
+    "matchedTitle": "Harga Pasir Urug Per M3: Update Terbaru & Tips Cek Kualitas",
+    "taggedAt": "2026-10-11T11:52:56.784Z",
+    "algoVersion": 2
+  },
+  "harga pasir urug per kubik": {
+    "reason": "similar to existing article",
+    "matchedFile": "harga-pasir-urug-per-m3.md",
+    "matchedTitle": "Harga Pasir Urug Per M3: Update Terbaru & Tips Cek Kualitas",
+    "taggedAt": "2026-10-11T11:52:56.828Z",
+    "algoVersion": 2
+  },
+  "tanah 1 bata berapa harganya": {
+    "reason": "similar to existing article",
+    "matchedFile": "1-bata-tanah-berapa-rupiah.md",
+    "matchedTitle": "1 Bata Tanah Berapa Rupiah? Harga Terbaru & Cara Menghitung Kebutuhan",
+    "taggedAt": "2026-10-11T11:52:56.863Z",
+    "algoVersion": 2
   }
 }
