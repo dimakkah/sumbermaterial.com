@@ -375,7 +375,10 @@
     "/bangunan/biaya-bangun-rumah-per-meter-di-bedahan-depok/",
     "/bangunan/biaya-bangun-rumah-per-meter-di-bintaro-jakarta/",
     "/bangunan/biaya-bangun-rumah-per-meter-di-binuang-serang/",
-    "/bangunan/biaya-bangun-rumah-per-meter-di-cempaka-baru-jakarta/"
+    "/bangunan/biaya-bangun-rumah-per-meter-di-cempaka-baru-jakarta/",
+    "/bangunan/biaya-bangun-rumah-per-meter-di-bubulak-bogor/",
+    "/bangunan/biaya-bangun-rumah-per-meter-di-cawang-jakarta/",
+    "/bangunan/biaya-bangun-rumah-per-meter-di-ciambar-sukabumi/"
   ],
   "failed": {
     "/baja-ringan/harga-pasang-atap-baja-ringan-di-anyar-serang/": 2,
@@ -609,15 +612,19 @@
     "/bangunan/biaya-bangun-rumah-per-meter-di-bekasi-utara/": 2,
     "/bangunan/biaya-bangun-rumah-per-meter-di-benda-tangerang/": 2,
     "/bangunan/biaya-bangun-rumah-per-meter-di-bubulak-bogor/": 1,
-    "/bangunan/biaya-bangun-rumah-per-meter-di-bukit-duri-jakarta/": 1,
-    "/bangunan/biaya-bangun-rumah-per-meter-di-bungur-jakarta/": 1,
-    "/bangunan/biaya-bangun-rumah-per-meter-di-bungursari-purwakarta/": 1,
-    "/bangunan/biaya-bangun-rumah-per-meter-di-cakung-barat-jakarta/": 1,
-    "/bangunan/biaya-bangun-rumah-per-meter-di-cakung-jakarta/": 1,
-    "/bangunan/biaya-bangun-rumah-per-meter-di-cakung-timur-jakarta/": 1,
-    "/bangunan/biaya-bangun-rumah-per-meter-di-campaka-purwakarta/": 1,
-    "/bangunan/biaya-bangun-rumah-per-meter-di-carenang-serang/": 1,
+    "/bangunan/biaya-bangun-rumah-per-meter-di-bukit-duri-jakarta/": 2,
+    "/bangunan/biaya-bangun-rumah-per-meter-di-bungur-jakarta/": 2,
+    "/bangunan/biaya-bangun-rumah-per-meter-di-bungursari-purwakarta/": 2,
+    "/bangunan/biaya-bangun-rumah-per-meter-di-cakung-barat-jakarta/": 2,
+    "/bangunan/biaya-bangun-rumah-per-meter-di-cakung-jakarta/": 2,
+    "/bangunan/biaya-bangun-rumah-per-meter-di-cakung-timur-jakarta/": 2,
+    "/bangunan/biaya-bangun-rumah-per-meter-di-campaka-purwakarta/": 2,
+    "/bangunan/biaya-bangun-rumah-per-meter-di-carenang-serang/": 2,
     "/bangunan/biaya-bangun-rumah-per-meter-di-cawang-jakarta/": 1,
-    "/bangunan/biaya-bangun-rumah-per-meter-di-ceger-jakarta/": 1
+    "/bangunan/biaya-bangun-rumah-per-meter-di-ceger-jakarta/": 2,
+    "/bangunan/biaya-bangun-rumah-per-meter-di-cempaka-jakarta/": 1,
+    "/bangunan/biaya-bangun-rumah-per-meter-di-cengkareng-barat-jakarta/": 1,
+    "/bangunan/biaya-bangun-rumah-per-meter-di-cengkareng-jakarta/": 1,
+    "/bangunan/biaya-bangun-rumah-per-meter-di-cengkareng-timur-jakarta/": 1
   }
 }
