@@ -950,5 +950,26 @@
     "matchedTitle": "1 Bata Tanah Berapa Rupiah? Harga Terbaru & Cara Menghitung Kebutuhan",
     "taggedAt": "2026-10-11T11:52:56.863Z",
     "algoVersion": 2
+  },
+  "1 bata berapa rupiah": {
+    "reason": "similar to existing article",
+    "matchedFile": "1-bata-tanah-berapa-rupiah.md",
+    "matchedTitle": "1 Bata Tanah Berapa Rupiah? Harga Terbaru & Cara Menghitung Kebutuhan",
+    "taggedAt": "2026-10-12T14:00:41.299Z",
+    "algoVersion": 2
+  },
+  "harga besi 12 ulir per batang 2026": {
+    "reason": "similar to existing article",
+    "matchedFile": "harga-besi-16-ulir-per-batang-2026.md",
+    "matchedTitle": "Harga Besi 16 Ulir Per Batang: Update Terbaru & Estimasi Biaya",
+    "taggedAt": "2026-10-12T14:00:41.328Z",
+    "algoVersion": 2
+  },
+  "harga besi 6 banci": {
+    "reason": "similar to existing article",
+    "matchedFile": "harga-besi-6-banci-per-batang.md",
+    "matchedTitle": "Harga Besi 6 Banci Per Batang: Update Terbaru & Cara Hitung Kebutuhan Proyek",
+    "taggedAt": "2026-10-12T14:00:41.330Z",
+    "algoVersion": 2
   }
 }
