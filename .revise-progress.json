@@ -384,7 +384,9 @@
     "/bangunan/biaya-bangun-rumah-per-meter-di-cibeber-rangkasbitung/",
     "/bangunan/biaya-bangun-rumah-per-meter-di-cibitung-bekasi/",
     "/bangunan/biaya-bangun-rumah-per-meter-di-cibodas-tangerang/",
-    "/bangunan/biaya-bangun-rumah-per-meter-di-cibuluh-bogor/"
+    "/bangunan/biaya-bangun-rumah-per-meter-di-cibuluh-bogor/",
+    "/bangunan/biaya-bangun-rumah-per-meter-di-cidadap-sukabumi/",
+    "/bangunan/biaya-bangun-rumah-per-meter-di-cideng-jakarta/"
   ],
   "failed": {
     "/baja-ringan/harga-pasang-atap-baja-ringan-di-anyar-serang/": 2,
@@ -632,13 +634,15 @@
     "/bangunan/biaya-bangun-rumah-per-meter-di-cengkareng-barat-jakarta/": 1,
     "/bangunan/biaya-bangun-rumah-per-meter-di-cengkareng-jakarta/": 2,
     "/bangunan/biaya-bangun-rumah-per-meter-di-cengkareng-timur-jakarta/": 1,
-    "/bangunan/biaya-bangun-rumah-per-meter-di-ciampel-karawang/": 1,
-    "/bangunan/biaya-bangun-rumah-per-meter-di-cibadak-bogor/": 1,
-    "/bangunan/biaya-bangun-rumah-per-meter-di-cibadak-rangkasbitung/": 1,
-    "/bangunan/biaya-bangun-rumah-per-meter-di-cibadak-sukabumi/": 1,
-    "/bangunan/biaya-bangun-rumah-per-meter-di-cibitung-sukabumi/": 1,
-    "/bangunan/biaya-bangun-rumah-per-meter-di-cibogor-bogor/": 1,
-    "/bangunan/biaya-bangun-rumah-per-meter-di-cibuaya-karawang/": 1,
-    "/bangunan/biaya-bangun-rumah-per-meter-di-cibubur-jakarta/": 1
+    "/bangunan/biaya-bangun-rumah-per-meter-di-ciampel-karawang/": 2,
+    "/bangunan/biaya-bangun-rumah-per-meter-di-cibadak-bogor/": 2,
+    "/bangunan/biaya-bangun-rumah-per-meter-di-cibadak-rangkasbitung/": 2,
+    "/bangunan/biaya-bangun-rumah-per-meter-di-cibadak-sukabumi/": 2,
+    "/bangunan/biaya-bangun-rumah-per-meter-di-cibitung-sukabumi/": 2,
+    "/bangunan/biaya-bangun-rumah-per-meter-di-cibogor-bogor/": 2,
+    "/bangunan/biaya-bangun-rumah-per-meter-di-cibuaya-karawang/": 2,
+    "/bangunan/biaya-bangun-rumah-per-meter-di-cibubur-jakarta/": 2,
+    "/bangunan/biaya-bangun-rumah-per-meter-di-cicurug-sukabumi/": 1,
+    "/bangunan/biaya-bangun-rumah-per-meter-di-cidahu-sukabumi/": 1
   }
 }
