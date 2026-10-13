@@ -1,0 +1,167 @@
+name: Dedupe Similar Articles (AI-judged, one-time)
+
+# Sekali pakai / manual. Urutan: judge (ulangi sampai "belum dinilai" = 0) -> report (tinjau dedupe-report.json
+# di Artifacts) -> apply. Sengaja TIDAK terjadwal: penghapusan artikel harus selalu ditinjau manusia dulu.
+# Beda dengan dedup-directional-suffix.yml (bulanan, aturan nama file): ini menilai kemiripan TOPIK lintas folder.
+
+on:
+  workflow_dispatch:
+    inputs:
+      phase:
+        description: 'judge = AI menilai (bisa diulang, hasil disimpan) | report = lihat rencana tanpa AI | apply = EKSEKUSI hapus + redirect'
+        type: choice
+        options: [judge, report, apply]
+        default: judge
+      limit:
+        description: '(judge) Maks. jumlah penilaian AI per run'
+        type: string
+        default: '40'
+      section:
+        description: 'Folder di content/ yang diperiksa: all, atau daftar dipisah koma (mis. blog,info,product)'
+        type: string
+        default: 'all'
+      max_delete:
+        description: '(apply) Batalkan jika artikel yang akan dihapus lebih dari ini'
+        type: string
+        default: '40'
+      max_cluster:
+        description: 'Kelompok dengan lebih dari N artikel yang dihapus dilewati (tinjau manual)'
+        type: string
+        default: '8'
+      retry_errors:
+        description: '(judge) Ulangi penilaian yang sebelumnya gagal diparse'
+        type: boolean
+        default: false
+      allow_partial:
+        description: '(apply) Tetap eksekusi walau masih ada artikel yang belum dinilai AI'
+        type: boolean
+        default: false
+      ai_only:
+        description: '(report/apply) Percaya AI saja. DEFAULT mati = konsensus: AI DAN aturan kata harus sama-sama setuju'
+        type: boolean
+        default: false
+
+# Serialize dengan workflow lain yang commit ke master.
+concurrency:
+  group: dataweb-repo-write
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+  actions: write   # untuk memicu deploy.yml
+
+jobs:
+  dedupe:
+    runs-on: ubuntu-latest
+    timeout-minutes: 120
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+          fetch-tags: false
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      # Tanpa npm install: script hanya memakai fs/path/https bawaan Node.
+      - name: Run dedupe
+        env:
+          IN_PHASE: ${{ inputs.phase }}
+          IN_LIMIT: ${{ inputs.limit }}
+          IN_SECTION: ${{ inputs.section }}
+          IN_MAX_DELETE: ${{ inputs.max_delete }}
+          IN_MAX_CLUSTER: ${{ inputs.max_cluster }}
+          IN_RETRY: ${{ inputs.retry_errors }}
+          IN_PARTIAL: ${{ inputs.allow_partial }}
+          IN_AI_ONLY: ${{ inputs.ai_only }}
+          CLOUDFLARE_ACCOUNT_ID: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+          CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+        run: |
+          ARGS="--section=$IN_SECTION --max-delete=$IN_MAX_DELETE --max-cluster=$IN_MAX_CLUSTER"
+          if [ "$IN_AI_ONLY" = "true" ]; then ARGS="$ARGS --ai-only"; fi
+          case "$IN_PHASE" in
+            judge)
+              ARGS="$ARGS --judge --limit=$IN_LIMIT"
+              if [ "$IN_RETRY" = "true" ]; then ARGS="$ARGS --retry-errors"; fi ;;
+            apply)
+              ARGS="$ARGS --apply"
+              if [ "$IN_PARTIAL" = "true" ]; then ARGS="$ARGS --allow-partial"; fi ;;
+          esac
+          node tools/dedupe-articles.js $ARGS
+
+      - name: Upload report
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: dedupe-report
+          path: dedupe-report.json
+          if-no-files-found: ignore
+
+      - name: Configure Git
+        if: ${{ inputs.phase != 'report' }}
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+
+      # judge  -> hanya menyimpan keputusan AI (.dedupe-decisions.json) agar bisa dilanjutkan run berikutnya
+      # apply  -> juga menyimpan penghapusan, redirects.js, dan exclude-list
+      - name: Commit and Push
+        id: commit_push
+        if: ${{ inputs.phase != 'report' }}
+        run: |
+          git add -A content/
+          [ -f static/redirects.js ] && git add static/redirects.js
+          [ -f .excluded-keywords.json ] && git add .excluded-keywords.json
+          [ -f .dedupe-decisions.json ] && git add .dedupe-decisions.json
+          # dedupe-report.json sengaja tidak di-commit: cukup sebagai Artifact di bawah (selalu berubah, bising di git).
+
+          if git diff --staged --quiet; then
+            echo "ℹ️  Tidak ada perubahan."
+            echo "published=false" >> "$GITHUB_OUTPUT"
+            exit 0
+          fi
+
+          git commit -m "Dedupe (${{ inputs.phase }}): keputusan AI / gabungkan artikel mirip + redirect"
+
+          for i in 1 2 3 4 5; do
+            if git push origin master; then
+              echo "✅ Push berhasil (percobaan $i)."
+              echo "published=true" >> "$GITHUB_OUTPUT"
+              exit 0
+            fi
+            if [ "$i" -eq 5 ]; then
+              echo "❌ Push gagal 5x — cek manual." >&2
+              exit 1
+            fi
+            sleep $(( (RANDOM % 10) + 5 ))
+            git fetch origin master
+            git stash push -u -m "pre-rebase-autostash" || true
+            git rebase origin/master
+            git stash drop || true
+          done
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      # Hanya apply, SETELAH commit berhasil (supaya 301 tidak aktif untuk artikel yang masih hidup): dorong redirects.js ke Cloudflare Workers KV supaya jadi 301 asli (sama seperti
+      # dedup-directional-suffix.yml). Dilewati otomatis bila CLOUDFLARE_KV_NAMESPACE_ID belum diset.
+      - name: Sync redirects.js to Cloudflare Workers KV (real 301s)
+        if: ${{ inputs.phase == 'apply' && steps.commit_push.outputs.published == 'true' }}
+        env:
+          CLOUDFLARE_ACCOUNT_ID: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+          CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+          CLOUDFLARE_KV_NAMESPACE_ID: ${{ secrets.CLOUDFLARE_KV_NAMESPACE_ID }}
+        run: |
+          if [ -z "$CLOUDFLARE_KV_NAMESPACE_ID" ]; then
+            echo "ℹ️  CLOUDFLARE_KV_NAMESPACE_ID belum diset — lewati sync KV (redirect JS di redirects.js tetap aktif)."
+            exit 0
+          fi
+          node tools/sync-redirects-to-kv.js --apply
+
+      - name: Trigger Deploy
+        if: ${{ inputs.phase == 'apply' && steps.commit_push.outputs.published == 'true' }}
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: gh workflow run deploy.yml --ref master
