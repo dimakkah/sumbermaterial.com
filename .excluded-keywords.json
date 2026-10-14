@@ -971,5 +971,19 @@
     "matchedTitle": "Harga Besi 6 Banci Per Batang: Update Terbaru & Cara Hitung Kebutuhan Proyek",
     "taggedAt": "2026-10-12T14:00:41.330Z",
     "algoVersion": 2
+  },
+  "batu split ukuran 1 2": {
+    "reason": "similar to existing article",
+    "matchedFile": "ukuran-batu-split-2-3.md",
+    "matchedTitle": "Ukuran Batu Split 2/3: Kegunaan dan Kisaran Harganya",
+    "taggedAt": "2026-10-14T10:55:33.428Z",
+    "algoVersion": 2
+  },
+  "harga batu gunung": {
+    "reason": "similar to existing article",
+    "matchedFile": "harga-batu-gunung-per-kubik.md",
+    "matchedTitle": "Harga Batu Gunung Per Kubik: Update Terbaru & Tips Negosiasi",
+    "taggedAt": "2026-10-14T10:55:33.450Z",
+    "algoVersion": 2
   }
 }
