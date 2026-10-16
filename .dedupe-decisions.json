@@ -1,0 +1,411 @@
+{
+ "version": 2,
+ "libVersion": 5,
+ "updatedAt": "2026-10-16T14:44:11.924Z",
+ "decisions": {
+  "/product/jual-pasir-beton-cimalaka/": {
+   "candidates": [
+    "/blog/pasir-cimalaka-sumedang/"
+   ],
+   "duplicates": [],
+   "reason": "",
+   "judgedAt": "2026-10-16T14:43:15.595Z"
+  },
+  "/product/harga-jual-batu-kali-dan-belah/": {
+   "candidates": [
+    "/blog/berapa-harga-batu-kali/",
+    "/blog/harga-batu-kali-belah-per-m3/",
+    "/blog/harga-batu-kali-per-kubik/",
+    "/blog/penjual-batu-kali-terdekat/",
+    "/blog/harga-batu-belah-per-kubik/"
+   ],
+   "duplicates": [
+    "/blog/berapa-harga-batu-kali/",
+    "/blog/harga-batu-kali-belah-per-m3/",
+    "/blog/harga-batu-kali-per-kubik/",
+    "/blog/harga-batu-belah-per-kubik/"
+   ],
+   "reason": "#1: Harga batu kali, informasi harga dan tips memilih. | #2: Harga batu kali belah per m3, update harga & perhitungan. | #3: Harga batu kali per kubik, kisaran harga untuk fondasi. | #5: Harga batu belah per kubik, informasi harga pondasi.",
+   "judgedAt": "2026-10-16T14:43:19.991Z"
+  },
+  "/product/harga-jual-pasir-cimangkok-terbaru/": {
+   "candidates": [
+    "/blog/cimangkok-daerah-mana/",
+    "/blog/harga-pasir-cimangkok-1-engkel/",
+    "/blog/harga-pasir-cimangkok-1-kubik/",
+    "/blog/harga-pasir-cimangkok-1-truk/",
+    "/blog/pasir-cimangkok-sukabumi/"
+   ],
+   "duplicates": [
+    "/blog/harga-pasir-cimangkok-1-engkel/",
+    "/blog/harga-pasir-cimangkok-1-kubik/",
+    "/blog/harga-pasir-cimangkok-1-truk/"
+   ],
+   "reason": "#2: Harga pasir cimangkok, varian 1 engkel, sama maksudnya. | #3: Harga pasir cimangkok, satuan 1 kubik, sama maksudnya. | #4: Harga pasir cimangkok, satuan 1 truk, sama maksudnya.",
+   "judgedAt": "2026-10-16T14:43:24.420Z"
+  },
+  "/product/jual-pasir-jebrod-merah-dan-hitam/": {
+   "candidates": [
+    "/blog/harga-pasir-jebrod-1-kubik/",
+    "/blog/bata-hitam-terbuat-dari-apa/"
+   ],
+   "duplicates": [],
+   "reason": "",
+   "judgedAt": "2026-10-16T14:43:26.391Z"
+  },
+  "/batu/jual-batu-split-1-2-free-ongkir-ke-tigaraksa-tangerang/": {
+   "candidates": [
+    "/batu/harga-batu-split-1-2-free-ongkir-ke-tigaraksa-tangerang/"
+   ],
+   "duplicates": [
+    "/batu/harga-batu-split-1-2-free-ongkir-ke-tigaraksa-tangerang/"
+   ],
+   "reason": "#1: Produk, lokasi, dan maksud (harga/jual) sama persis.",
+   "judgedAt": "2026-10-16T14:43:28.057Z"
+  },
+  "/blog/harga-urugan-limestone-per-m3/": {
+   "candidates": [
+    "/product/harga-batu-kapur-limestone-terbaru/"
+   ],
+   "duplicates": [],
+   "reason": "",
+   "judgedAt": "2026-10-16T14:43:29.336Z"
+  },
+  "/blog/batu-makadam-57/": {
+   "candidates": [
+    "/blog/harga-makadam-per-truk/"
+   ],
+   "duplicates": [
+    "/blog/harga-makadam-per-truk/"
+   ],
+   "reason": "#1: Harga makadam, fokus biaya, area Jabodetabek sama.",
+   "judgedAt": "2026-10-16T14:43:30.282Z"
+  },
+  "/blog/harga-batako-putih/": {
+   "candidates": [
+    "/blog/harga-batako-per-pcs/",
+    "/blog/jual-batako-terdekat/",
+    "/blog/penjual-batako-terdekat/"
+   ],
+   "duplicates": [
+    "/blog/harga-batako-per-pcs/"
+   ],
+   "reason": "#1: Harga batako, fokus pada harga per satuan berbeda.",
+   "judgedAt": "2026-10-16T14:43:32.952Z"
+  },
+  "/info/harga-pasir-abu-batu-free-ongkir-ke-tambelang-bekasi/": {
+   "candidates": [
+    "/pasir/jual-pasir-abu-batu-gratis-ongkir-ke-tambelang-bekasi/"
+   ],
+   "duplicates": [
+    "/pasir/jual-pasir-abu-batu-gratis-ongkir-ke-tambelang-bekasi/"
+   ],
+   "reason": "#1: Jual/harga sama, material & lokasi sama, \"free\" = \"gratis\".",
+   "judgedAt": "2026-10-16T14:43:34.191Z"
+  },
+  "/info/harga-pasir-ekstra-beton-free-ongkir-ke-karawang-timur-karawang/": {
+   "candidates": [
+    "/pasir/jual-pasir-ekstra-beton-gratis-ongkir-ke-karawang-timur-karawang/"
+   ],
+   "duplicates": [
+    "/pasir/jual-pasir-ekstra-beton-gratis-ongkir-ke-karawang-timur-karawang/"
+   ],
+   "reason": "#1: Jual/harga sama, produk & lokasi sama persis.",
+   "judgedAt": "2026-10-16T14:43:35.083Z"
+  },
+  "/info/harga-pasir-mainan-anak-free-ongkir-ke-kebon-bawang-jakarta/": {
+   "candidates": [
+    "/pasir/jual-pasir-mainan-anak-gratis-ongkir-ke-kebon-bawang-jakarta/"
+   ],
+   "duplicates": [
+    "/pasir/jual-pasir-mainan-anak-gratis-ongkir-ke-kebon-bawang-jakarta/"
+   ],
+   "reason": "#1: Sinonim \"harga\" dan \"jual\", lokasi dan produk sama.",
+   "judgedAt": "2026-10-16T14:43:36.144Z"
+  },
+  "/info/harga-pasir-hitam-cor-free-ongkir-ke-gudang-bogor/": {
+   "candidates": [
+    "/bangunan/daftar-harga-material-bangunan-di-gudang-bogor/"
+   ],
+   "duplicates": [],
+   "reason": "",
+   "judgedAt": "2026-10-16T14:43:37.657Z"
+  },
+  "/info/harga-pasir-mundu-free-ongkir-ke-tegal-alur-jakarta/": {
+   "candidates": [
+    "/pasir/jual-pasir-mundu-gratis-ongkir-ke-tegal-alur-jakarta/"
+   ],
+   "duplicates": [
+    "/pasir/jual-pasir-mundu-gratis-ongkir-ke-tegal-alur-jakarta/"
+   ],
+   "reason": "#1: Jual/harga, produk & lokasi sama, free ongkir sinonim.",
+   "judgedAt": "2026-10-16T14:43:38.650Z"
+  },
+  "/info/harga-pasir-ekstra-beton-free-ongkir-ke-pesanggrahan-jakarta/": {
+   "candidates": [
+    "/pasir/jual-pasir-ekstra-beton-gratis-ongkir-ke-pesanggrahan-jakarta/"
+   ],
+   "duplicates": [
+    "/pasir/jual-pasir-ekstra-beton-gratis-ongkir-ke-pesanggrahan-jakarta/"
+   ],
+   "reason": "#1: Sinonim \"harga\" dan \"jual\", lokasi dan material sama.",
+   "judgedAt": "2026-10-16T14:43:40.117Z"
+  },
+  "/info/harga-pasir-mainan-anak-free-ongkir-ke-ciputat-tangerang/": {
+   "candidates": [
+    "/pasir/jual-pasir-mainan-anak-gratis-ongkir-ke-ciputat-tangerang/"
+   ],
+   "duplicates": [
+    "/pasir/jual-pasir-mainan-anak-gratis-ongkir-ke-ciputat-tangerang/"
+   ],
+   "reason": "#1: Judul dan keyword sangat mirip, target lokasi sama.",
+   "judgedAt": "2026-10-16T14:43:40.966Z"
+  },
+  "/info/harga-pasir-abu-batu-free-ongkir-ke-cibatu-purwakarta/": {
+   "candidates": [
+    "/pasir/jual-pasir-abu-batu-gratis-ongkir-ke-cibatu-purwakarta/"
+   ],
+   "duplicates": [
+    "/pasir/jual-pasir-abu-batu-gratis-ongkir-ke-cibatu-purwakarta/"
+   ],
+   "reason": "#1: Jual/harga sama, material & lokasi identik.",
+   "judgedAt": "2026-10-16T14:43:42.071Z"
+  },
+  "/info/harga-pasir-mundu-free-ongkir-ke-karangtengah-tangerang/": {
+   "candidates": [
+    "/pasir/jual-pasir-mundu-gratis-ongkir-ke-karangtengah-tangerang/"
+   ],
+   "duplicates": [
+    "/pasir/jual-pasir-mundu-gratis-ongkir-ke-karangtengah-tangerang/"
+   ],
+   "reason": "#1: Sinonim \"harga\" vs \"jual\", lokasi & material sama.",
+   "judgedAt": "2026-10-16T14:43:43.031Z"
+  },
+  "/info/harga-pasir-lampung-free-ongkir-ke-pademangan-jakarta/": {
+   "candidates": [
+    "/pasir/jual-pasir-lampung-gratis-ongkir-ke-pademangan-jakarta/"
+   ],
+   "duplicates": [
+    "/pasir/jual-pasir-lampung-gratis-ongkir-ke-pademangan-jakarta/"
+   ],
+   "reason": "#1: Jual/harga, material & lokasi sama, sinonim \"gratis\"/\"free\".",
+   "judgedAt": "2026-10-16T14:43:44.111Z"
+  },
+  "/info/harga-pasir-jebrod-free-ongkir-ke-babakan-bogor/": {
+   "candidates": [
+    "/pasir/jual-pasir-jebrod-merah-gratis-ongkir-ke-babakan-bogor/"
+   ],
+   "duplicates": [
+    "/pasir/jual-pasir-jebrod-merah-gratis-ongkir-ke-babakan-bogor/"
+   ],
+   "reason": "#1: Jual vs harga, sama lokasi & material.",
+   "judgedAt": "2026-10-16T14:43:45.217Z"
+  },
+  "/info/harga-pasir-lampung-free-ongkir-ke-petogogan-jakarta/": {
+   "candidates": [
+    "/pasir/jual-pasir-lampung-gratis-ongkir-ke-petogogan-jakarta/"
+   ],
+   "duplicates": [
+    "/pasir/jual-pasir-lampung-gratis-ongkir-ke-petogogan-jakarta/"
+   ],
+   "reason": "#1: Jual/harga, material, lokasi, ongkir sama persis.",
+   "judgedAt": "2026-10-16T14:43:46.152Z"
+  },
+  "/info/harga-pasir-abu-batu-free-ongkir-ke-cilamaya-wetan-karawang/": {
+   "candidates": [
+    "/pasir/jual-pasir-abu-batu-gratis-ongkir-ke-cilamaya-wetan-karawang/"
+   ],
+   "duplicates": [
+    "/pasir/jual-pasir-abu-batu-gratis-ongkir-ke-cilamaya-wetan-karawang/"
+   ],
+   "reason": "#1: Jual/harga sama, material & lokasi sama persis.",
+   "judgedAt": "2026-10-16T14:43:47.109Z"
+  },
+  "/info/harga-pasir-mainan-anak-free-ongkir-ke-rajeg-tangerang/": {
+   "candidates": [
+    "/pasir/jual-pasir-mainan-anak-gratis-ongkir-ke-rajeg-tangerang/"
+   ],
+   "duplicates": [
+    "/pasir/jual-pasir-mainan-anak-gratis-ongkir-ke-rajeg-tangerang/"
+   ],
+   "reason": "#1: Produk, lokasi, dan maksud (harga/jual) sama persis.",
+   "judgedAt": "2026-10-16T14:43:48.100Z"
+  },
+  "/info/harga-pasir-jebrod-free-ongkir-ke-balumbang-jaya-bogor/": {
+   "candidates": [
+    "/pasir/jual-pasir-jebrod-merah-gratis-ongkir-ke-balumbang-jaya-bogor/"
+   ],
+   "duplicates": [
+    "/pasir/jual-pasir-jebrod-merah-gratis-ongkir-ke-balumbang-jaya-bogor/"
+   ],
+   "reason": "#1: Produk, lokasi, dan maksud (harga/jual) sama persis.",
+   "judgedAt": "2026-10-16T14:43:49.358Z"
+  },
+  "/info/harga-pasir-abu-batu-free-ongkir-ke-cibogor-bogor/": {
+   "candidates": [
+    "/pasir/jual-pasir-abu-batu-gratis-ongkir-ke-cibogor-bogor/"
+   ],
+   "duplicates": [
+    "/pasir/jual-pasir-abu-batu-gratis-ongkir-ke-cibogor-bogor/"
+   ],
+   "reason": "#1: Jual/harga, material & lokasi sama, free ongkir.",
+   "judgedAt": "2026-10-16T14:43:50.316Z"
+  },
+  "/info/harga-pasir-rangkas-free-ongkir-ke-pakuan-bogor/": {
+   "candidates": [
+    "/pasir/jual-pasir-rangkas-gratis-ongkir-ke-pakuan-bogor/"
+   ],
+   "duplicates": [
+    "/pasir/jual-pasir-rangkas-gratis-ongkir-ke-pakuan-bogor/"
+   ],
+   "reason": "#1: Jual/harga, material, lokasi, dan ongkir sama persis.",
+   "judgedAt": "2026-10-16T14:43:51.363Z"
+  },
+  "/info/harga-pasir-abu-batu-free-ongkir-ke-meruya-selatan-jakarta/": {
+   "candidates": [
+    "/pasir/jual-pasir-abu-batu-gratis-ongkir-ke-meruya-selatan-jakarta/"
+   ],
+   "duplicates": [
+    "/pasir/jual-pasir-abu-batu-gratis-ongkir-ke-meruya-selatan-jakarta/"
+   ],
+   "reason": "#1: Jual/harga, material & lokasi sama, free ongkir.",
+   "judgedAt": "2026-10-16T14:43:52.294Z"
+  },
+  "/info/harga-pasir-hitam-cor-free-ongkir-ke-palmeriam-jakarta/": {
+   "candidates": [
+    "/pasir/jual-pasir-hitam-cor-gratis-ongkir-ke-palmeriam-jakarta/"
+   ],
+   "duplicates": [
+    "/pasir/jual-pasir-hitam-cor-gratis-ongkir-ke-palmeriam-jakarta/"
+   ],
+   "reason": "#1: Jual/harga sama, lokasi sama, produk sama.",
+   "judgedAt": "2026-10-16T14:43:53.510Z"
+  },
+  "/info/harga-pasir-jebrod-free-ongkir-ke-krukut-depok/": {
+   "candidates": [
+    "/pasir/jual-pasir-jebrod-merah-gratis-ongkir-ke-krukut-depok/"
+   ],
+   "duplicates": [
+    "/pasir/jual-pasir-jebrod-merah-gratis-ongkir-ke-krukut-depok/"
+   ],
+   "reason": "#1: Produk, lokasi, dan maksud (harga/jual) sama persis.",
+   "judgedAt": "2026-10-16T14:43:54.501Z"
+  },
+  "/info/harga-pasir-mundu-free-ongkir-ke-mekarsari-depok/": {
+   "candidates": [
+    "/pasir/jual-pasir-mundu-gratis-ongkir-ke-mekarsari-depok/"
+   ],
+   "duplicates": [
+    "/pasir/jual-pasir-mundu-gratis-ongkir-ke-mekarsari-depok/"
+   ],
+   "reason": "#1: Sinonim \"harga\" vs \"jual\", lokasi & material sama.",
+   "judgedAt": "2026-10-16T14:43:55.546Z"
+  },
+  "/info/harga-pasir-jebrod-free-ongkir-ke-ulujami-jakarta/": {
+   "candidates": [
+    "/pasir/jual-pasir-jebrod-merah-gratis-ongkir-ke-ulujami-jakarta/"
+   ],
+   "duplicates": [
+    "/pasir/jual-pasir-jebrod-merah-gratis-ongkir-ke-ulujami-jakarta/"
+   ],
+   "reason": "#1: Jual vs harga, sama material, lokasi, dan ongkir.",
+   "judgedAt": "2026-10-16T14:43:56.568Z"
+  },
+  "/info/harga-pasir-mainan-anak-free-ongkir-ke-tebet-jakarta/": {
+   "candidates": [
+    "/pasir/jual-pasir-mainan-anak-gratis-ongkir-ke-tebet-jakarta/"
+   ],
+   "duplicates": [
+    "/pasir/jual-pasir-mainan-anak-gratis-ongkir-ke-tebet-jakarta/"
+   ],
+   "reason": "#1: Sinonim \"harga\" dan \"jual\", lokasi dan produk sama.",
+   "judgedAt": "2026-10-16T14:43:57.773Z"
+  },
+  "/info/harga-pasir-ekstra-beton-free-ongkir-ke-sukasari-bogor/": {
+   "candidates": [
+    "/pasir/jual-pasir-ekstra-beton-gratis-ongkir-ke-sukasari-bogor/"
+   ],
+   "duplicates": [
+    "/pasir/jual-pasir-ekstra-beton-gratis-ongkir-ke-sukasari-bogor/"
+   ],
+   "reason": "#1: Sinonim \"harga\" dan \"jual\", lokasi sama, maksud sama.",
+   "judgedAt": "2026-10-16T14:43:58.755Z"
+  },
+  "/info/harga-pasir-mundu-free-ongkir-ke-kenari-jakarta/": {
+   "candidates": [
+    "/pasir/jual-pasir-mundu-gratis-ongkir-ke-kenari-jakarta/"
+   ],
+   "duplicates": [
+    "/pasir/jual-pasir-mundu-gratis-ongkir-ke-kenari-jakarta/"
+   ],
+   "reason": "#1: Jual/harga sama, material, lokasi, ongkir sama.",
+   "judgedAt": "2026-10-16T14:43:59.643Z"
+  },
+  "/info/harga-pasir-mundu-free-ongkir-ke-pabaton-bogor/": {
+   "candidates": [
+    "/pasir/jual-pasir-mundu-gratis-ongkir-ke-pabaton-bogor/"
+   ],
+   "duplicates": [
+    "/pasir/jual-pasir-mundu-gratis-ongkir-ke-pabaton-bogor/"
+   ],
+   "reason": "#1: Jual/harga, material & lokasi sama, free ongkir.",
+   "judgedAt": "2026-10-16T14:44:00.569Z"
+  },
+  "/info/harga-pasir-abu-batu-free-ongkir-ke-pabaton-bogor/": {
+   "candidates": [
+    "/pasir/jual-pasir-abu-batu-gratis-ongkir-ke-pabaton-bogor/"
+   ],
+   "duplicates": [
+    "/pasir/jual-pasir-abu-batu-gratis-ongkir-ke-pabaton-bogor/"
+   ],
+   "reason": "#1: Jual/harga, material & lokasi sama, free ongkir.",
+   "judgedAt": "2026-10-16T14:44:01.605Z"
+  },
+  "/info/harga-pasir-lampung-free-ongkir-ke-jatiluhur-purwakarta/": {
+   "candidates": [
+    "/pasir/jual-pasir-lampung-gratis-ongkir-ke-jatiluhur-purwakarta/"
+   ],
+   "duplicates": [
+    "/pasir/jual-pasir-lampung-gratis-ongkir-ke-jatiluhur-purwakarta/"
+   ],
+   "reason": "#1: Jual/harga, material & lokasi sama, hanya variasi kata.",
+   "judgedAt": "2026-10-16T14:44:02.868Z"
+  },
+  "/info/harga-pasir-abu-batu-free-ongkir-ke-dukuh-jakarta/": {
+   "candidates": [
+    "/pasir/jual-pasir-abu-batu-gratis-ongkir-ke-dukuh-jakarta/"
+   ],
+   "duplicates": [
+    "/pasir/jual-pasir-abu-batu-gratis-ongkir-ke-dukuh-jakarta/"
+   ],
+   "reason": "#1: Jual/harga sama, material & lokasi sama persis.",
+   "judgedAt": "2026-10-16T14:44:03.790Z"
+  },
+  "/info/harga-pasir-jebrod-free-ongkir-ke-tebet-jakarta/": {
+   "candidates": [
+    "/pasir/jual-pasir-jebrod-merah-gratis-ongkir-ke-tebet-jakarta/"
+   ],
+   "duplicates": [
+    "/pasir/jual-pasir-jebrod-merah-gratis-ongkir-ke-tebet-jakarta/"
+   ],
+   "reason": "#1: Jual/harga pasir jebrod ke Tebet, free/gratis ongkir.",
+   "judgedAt": "2026-10-16T14:44:05.573Z"
+  },
+  "/product/harga-baja-ringan-terbaru/": {
+   "candidates": [
+    "/blog/baja-ringan-sukabumi/"
+   ],
+   "duplicates": [],
+   "reason": "",
+   "judgedAt": "2026-10-16T14:44:07.217Z"
+  },
+  "/info-urugan/harga-urugan-sirtu-free-ongkir-ke-gudang-bogor/": {
+   "candidates": [
+    "/bangunan/daftar-harga-material-bangunan-di-gudang-bogor/"
+   ],
+   "duplicates": [],
+   "reason": "",
+   "judgedAt": "2026-10-16T14:44:08.209Z"
+  }
+ }
+}
