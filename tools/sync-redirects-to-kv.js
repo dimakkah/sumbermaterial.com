@@ -36,9 +36,15 @@ const APPLY = ARGS.includes('--apply');
 
 const REDIRECTS_FILE = path.join(process.cwd(), 'static', 'redirects.js');
 
-const ACCOUNT_ID = process.env.CLOUDFLARE_ACCOUNT_ID;
-const API_TOKEN = process.env.CLOUDFLARE_API_TOKEN;
-const NAMESPACE_ID = process.env.CLOUDFLARE_KV_NAMESPACE_ID;
+// CLOUDFLARE_ACCOUNT_ID / CLOUDFLARE_API_TOKEN di repo ini boleh berisi BEBERAPA baris (akun ke-i berpasangan dengan token
+// ke-i, sama seperti generate-articles.js). Memakai nilai mentah memasukkan "\n" ke path HTTP dan Node menolaknya:
+// "Request path contains unescaped characters". Jadi pecah + trim dulu, lalu coba tiap pasangan sampai ada yang
+// memiliki namespace KV tsb (namespace hanya ada di SATU akun; pasangan lain membalas 401/403/404 dan dilewati).
+const parseList = raw => (raw || '').split(/[\n,]+/).map(x => x.trim()).filter(Boolean);
+const ACCOUNT_IDS = parseList(process.env.CLOUDFLARE_ACCOUNT_ID);
+const API_TOKENS = parseList(process.env.CLOUDFLARE_API_TOKEN);
+const NAMESPACE_ID = (process.env.CLOUDFLARE_KV_NAMESPACE_ID || '').trim();
+const PAIRS = ACCOUNT_IDS.map((id, i) => ({ id, token: API_TOKENS[i] || API_TOKENS[0] })).filter(p => p.token);
 
 function readRedirectMap() {
   if (!fs.existsSync(REDIRECTS_FILE)) {
@@ -103,10 +109,10 @@ async function main() {
     return;
   }
 
-  if (!ACCOUNT_ID || !API_TOKEN || !NAMESPACE_ID) {
+  if (!PAIRS.length || !NAMESPACE_ID) {
     console.error(`\n❌ Missing required environment variable(s):`);
-    if (!ACCOUNT_ID) console.error('   - CLOUDFLARE_ACCOUNT_ID');
-    if (!API_TOKEN) console.error('   - CLOUDFLARE_API_TOKEN');
+    if (!ACCOUNT_IDS.length) console.error('   - CLOUDFLARE_ACCOUNT_ID');
+    if (!API_TOKENS.length) console.error('   - CLOUDFLARE_API_TOKEN');
     if (!NAMESPACE_ID) console.error('   - CLOUDFLARE_KV_NAMESPACE_ID');
     process.exit(1);
   }
@@ -117,16 +123,27 @@ async function main() {
   const CHUNK_SIZE = 10000;
   const kvPairs = entries.map(([key, value]) => ({ key, value }));
 
-  let written = 0;
+  let written = 0, pairIdx = 0;
   for (let i = 0; i < kvPairs.length; i += CHUNK_SIZE) {
     const chunk = kvPairs.slice(i, i + CHUNK_SIZE);
-    const result = await httpsRequest(
-      'api.cloudflare.com',
-      `/client/v4/accounts/${ACCOUNT_ID}/storage/kv/namespaces/${NAMESPACE_ID}/bulk`,
-      'PUT',
-      chunk,
-      { Authorization: `Bearer ${API_TOKEN}` }
-    );
+    let result;
+    for (let tries = 0; tries < PAIRS.length; tries++) {
+      const pr = PAIRS[pairIdx];
+      result = await httpsRequest(
+        'api.cloudflare.com',
+        `/client/v4/accounts/${pr.id}/storage/kv/namespaces/${NAMESPACE_ID}/bulk`,
+        'PUT',
+        chunk,
+        { Authorization: `Bearer ${pr.token}` }
+      );
+      // 401/403/404 = pasangan akun/token ini bukan pemilik namespace (atau token tanpa izin KV): coba pasangan berikutnya.
+      if ([401, 403, 404].includes(result.statusCode) && tries < PAIRS.length - 1) {
+        console.log(`   ↪ akun/token #${pairIdx + 1} ditolak (HTTP ${result.statusCode}), mencoba pasangan berikutnya…`);
+        pairIdx = (pairIdx + 1) % PAIRS.length;
+        continue;
+      }
+      break;
+    }
 
     if (result.statusCode >= 200 && result.statusCode < 300 && result.body?.success) {
       written += chunk.length;

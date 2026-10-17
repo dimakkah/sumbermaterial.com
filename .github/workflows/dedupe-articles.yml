@@ -178,19 +178,6 @@ jobs:
 
       # Setelah commit berhasil (supaya 301 tidak aktif untuk artikel yang masih hidup): dorong redirects.js ke Cloudflare
       # Workers KV agar jadi 301 asli (sama seperti dedup-directional-suffix.yml). Dilewati bila secret KV belum diset.
-      - name: Sync redirects.js to Cloudflare Workers KV (real 301s)
-        if: ${{ steps.commit_push.outputs.published == 'true' && steps.commit_push.outputs.site_changed == 'true' }}
-        env:
-          CLOUDFLARE_ACCOUNT_ID: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
-          CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
-          CLOUDFLARE_KV_NAMESPACE_ID: ${{ secrets.CLOUDFLARE_KV_NAMESPACE_ID }}
-        run: |
-          if [ -z "$CLOUDFLARE_KV_NAMESPACE_ID" ]; then
-            echo "ℹ️  CLOUDFLARE_KV_NAMESPACE_ID belum diset — lewati sync KV (redirect JS di redirects.js tetap aktif)."
-            exit 0
-          fi
-          node tools/sync-redirects-to-kv.js --apply
-
       - name: Trigger Deploy
         if: ${{ steps.commit_push.outputs.published == 'true' && steps.commit_push.outputs.site_changed == 'true' }}
         env:
@@ -204,3 +191,16 @@ jobs:
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: gh workflow run fix-orphans.yml --ref master
+      - name: Sync redirects.js to Cloudflare Workers KV (real 301s)
+        continue-on-error: true   # gagal KV tidak boleh menggagalkan job; deploy/fix-orphans sudah dipicu di atas
+        if: ${{ steps.commit_push.outputs.published == 'true' && steps.commit_push.outputs.site_changed == 'true' }}
+        env:
+          CLOUDFLARE_ACCOUNT_ID: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+          CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+          CLOUDFLARE_KV_NAMESPACE_ID: ${{ secrets.CLOUDFLARE_KV_NAMESPACE_ID }}
+        run: |
+          if [ -z "$CLOUDFLARE_KV_NAMESPACE_ID" ]; then
+            echo "ℹ️  CLOUDFLARE_KV_NAMESPACE_ID belum diset — lewati sync KV (redirect JS di redirects.js tetap aktif)."
+            exit 0
+          fi
+          node tools/sync-redirects-to-kv.js --apply
