@@ -1196,10 +1196,18 @@ const OPENING_STYLES  = PROMPTS.openingStyles;
 const CLOSING_STYLES  = PROMPTS.closingStyles;
 const ADDRESS_STYLES  = PROMPTS.addressStyles;
 const TITLE_STYLES    = PROMPTS.titleStyles;
+const TITLE_SHAPES    = PROMPTS.titleShapes;
 
 function pickRandom(arr) { return arr[Math.floor(Math.random() * arr.length)]; }
 
 const TITLE_YEAR_RE = /\b(19|20)\d{2}\b/;
+// Pola judul "robotik": "Keyword: kalimat tambahan" (titik dua / pipa / strip sebagai pemisah) atau penutup klise.
+// Dipakai guard untuk generate ulang judul yang masih template.
+const TITLE_SEPARATOR_RE = /[:|｜–—]|\s-\s/;
+const TITLE_CLICHE_RE = /solusi (lengkap|tepat|terbaik)|rumah impian|pilihan tepat untuk (proyek|rumah)|kebutuhan anda/i;
+function titleLooksTemplated(title) {
+  return TITLE_SEPARATOR_RE.test(title) || TITLE_CLICHE_RE.test(title);
+}
 function extractTitleLine(raw) {
   const m = raw.match(/^JUDUL:\s*(.+)$/mi);
   return m ? m[1].trim() : '';
@@ -1217,10 +1225,12 @@ async function generateArticleWithTitleGuard(keyword, relatedCandidates) {
   for (let attempt = 1; attempt <= maxAttempts; attempt++) {
     result = await generateArticle(keyword, relatedCandidates);
     const titleLine = extractTitleLine(result.raw);
-    if (!TITLE_YEAR_RE.test(titleLine)) return result;
-    console.log(`   ⚠️  Judul hasil generate masih mengandung tahun ("${titleLine}") — generate ulang (percobaan ${attempt}/${maxAttempts})...`);
+    const hasYear = TITLE_YEAR_RE.test(titleLine);
+    const templated = titleLooksTemplated(titleLine);
+    if (!hasYear && !templated) return result;
+    console.log(`   ⚠️  Judul ${hasYear ? 'masih mengandung tahun' : 'masih berpola template (titik dua/klise)'} ("${titleLine}") — generate ulang (percobaan ${attempt}/${maxAttempts})...`);
   }
-  console.log(`   ⚠️  Judul masih mengandung tahun setelah ${maxAttempts} percobaan — dilanjutkan apa adanya, periksa manual nanti.`);
+  console.log(`   ⚠️  Judul masih bermasalah (tahun/template) setelah ${maxAttempts} percobaan — dilanjutkan apa adanya, periksa manual nanti.`);
   return result;
 }
 // ─────────────────────────────────────────────────────────────────
@@ -1231,6 +1241,7 @@ async function generateArticle(keyword, relatedCandidates = []) {
   const addressStyle  = pickRandom(ADDRESS_STYLES);
   const greeting      = pickRandom(GREETING_STYLES);
   const titleStyle    = pickRandom(TITLE_STYLES);
+  const titleShape    = pickRandom(TITLE_SHAPES);   // posisi keyword di judul (awal/tengah/akhir/tanya) supaya judul bervariasi
   const closingStyle = renderTemplate(pickRandom(CLOSING_STYLES), { addr: addressStyle.name });
   const currentYear   = new Date().getFullYear();
 
@@ -1240,6 +1251,7 @@ async function generateArticle(keyword, relatedCandidates = []) {
     greeting,
     openingStyle,
     titleStyle,
+    titleShape: titleShape.instruction,
     closingStyle,
     keyword,
     currentYear,
@@ -1287,7 +1299,7 @@ Demikian pembahasan Kami seputar ${keyword}. Kami berharap artikel ini bermanfaa
 
 Kalau Mitra masih ada pertanyaan atau ingin konsultasi lebih lanjut, silakan hubungi Kami melalui tombol **Telepon** atau **WhatsApp** yang tersedia di bawah halaman ini. Kami siap membantu!
 `;
-    return { raw, greeting };
+    return { raw, greeting, titleShapeId: titleShape.id };
   }
 
   const body = JSON.stringify({
@@ -1351,7 +1363,7 @@ Kalau Mitra masih ada pertanyaan atau ingin konsultasi lebih lanjut, silakan hub
   if (choice.finish_reason === 'length') {
     throw new Error('AI output truncated (finish_reason=length) — increase max_tokens.');
   }
-  return { raw: content, greeting };
+  return { raw: content, greeting, titleShapeId: titleShape.id };
 }
 
 function yamlEscape(str) {
