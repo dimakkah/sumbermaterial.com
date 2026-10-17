@@ -397,7 +397,12 @@
     "/bangunan/biaya-bangun-rumah-per-meter-di-cikoko-jakarta/",
     "/bangunan/biaya-bangun-rumah-per-meter-di-cilandak-jakarta/",
     "/bangunan/biaya-bangun-rumah-per-meter-di-cililitan-jakarta/",
-    "/bangunan/biaya-bangun-rumah-per-meter-di-cilograng-rangkasbitung/"
+    "/bangunan/biaya-bangun-rumah-per-meter-di-cilograng-rangkasbitung/",
+    "/bangunan/biaya-bangun-rumah-per-meter-di-cilandak-timur-jakarta/",
+    "/bangunan/biaya-bangun-rumah-per-meter-di-cileles-rangkasbitung/",
+    "/bangunan/biaya-bangun-rumah-per-meter-di-cinangka-depok/",
+    "/bangunan/biaya-bangun-rumah-per-meter-di-ciomas-serang/",
+    "/bangunan/biaya-bangun-rumah-per-meter-di-cipaku-bogor/"
   ],
   "failed": {
     "/baja-ringan/harga-pasang-atap-baja-ringan-di-anyar-serang/": 2,
@@ -671,13 +676,19 @@
     "/bangunan/biaya-bangun-rumah-per-meter-di-cikupa-tangerang/": 2,
     "/bangunan/biaya-bangun-rumah-per-meter-di-cilamaya-kulon-karawang/": 2,
     "/bangunan/biaya-bangun-rumah-per-meter-di-cilandak-timur-jakarta/": 1,
-    "/bangunan/biaya-bangun-rumah-per-meter-di-cilangkap-depok/": 1,
-    "/bangunan/biaya-bangun-rumah-per-meter-di-cilangkap-jakarta/": 1,
-    "/bangunan/biaya-bangun-rumah-per-meter-di-ciledug-tangerang/": 1,
+    "/bangunan/biaya-bangun-rumah-per-meter-di-cilangkap-depok/": 2,
+    "/bangunan/biaya-bangun-rumah-per-meter-di-cilangkap-jakarta/": 2,
+    "/bangunan/biaya-bangun-rumah-per-meter-di-ciledug-tangerang/": 2,
     "/bangunan/biaya-bangun-rumah-per-meter-di-cileles-rangkasbitung/": 1,
-    "/bangunan/biaya-bangun-rumah-per-meter-di-cilendek-barat-bogor/": 1,
-    "/bangunan/biaya-bangun-rumah-per-meter-di-cilendek-timur-bogor/": 1,
-    "/bangunan/biaya-bangun-rumah-per-meter-di-cilincing-jakarta/": 1,
-    "/bangunan/biaya-bangun-rumah-per-meter-di-cilodong-depok/": 1
+    "/bangunan/biaya-bangun-rumah-per-meter-di-cilendek-barat-bogor/": 2,
+    "/bangunan/biaya-bangun-rumah-per-meter-di-cilendek-timur-bogor/": 2,
+    "/bangunan/biaya-bangun-rumah-per-meter-di-cilincing-jakarta/": 2,
+    "/bangunan/biaya-bangun-rumah-per-meter-di-cilodong-depok/": 2,
+    "/bangunan/biaya-bangun-rumah-per-meter-di-cimahpar-bogor/": 1,
+    "/bangunan/biaya-bangun-rumah-per-meter-di-cimanggu-sukabumi/": 1,
+    "/bangunan/biaya-bangun-rumah-per-meter-di-cimarga-rangkasbitung/": 1,
+    "/bangunan/biaya-bangun-rumah-per-meter-di-cimpaeun-depok/": 1,
+    "/bangunan/biaya-bangun-rumah-per-meter-di-cinangka-serang/": 1,
+    "/bangunan/biaya-bangun-rumah-per-meter-di-cinere-depok/": 1
   }
 }
