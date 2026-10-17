@@ -1195,19 +1195,11 @@ const GREETING_STYLES = PROMPTS.greetingStyles;
 const OPENING_STYLES  = PROMPTS.openingStyles;
 const CLOSING_STYLES  = PROMPTS.closingStyles;
 const ADDRESS_STYLES  = PROMPTS.addressStyles;
-const TITLE_STYLES    = PROMPTS.titleStyles;
-const TITLE_SHAPES    = PROMPTS.titleShapes;
+const TitleStyle      = require('./lib/title-style.js');   // gaya/aturan judul + validasi (prompts/title-styles.json)
 
 function pickRandom(arr) { return arr[Math.floor(Math.random() * arr.length)]; }
 
 const TITLE_YEAR_RE = /\b(19|20)\d{2}\b/;
-// Pola judul "robotik": "Keyword: kalimat tambahan" (titik dua / pipa / strip sebagai pemisah) atau penutup klise.
-// Dipakai guard untuk generate ulang judul yang masih template.
-const TITLE_SEPARATOR_RE = /[:|｜–—]|\s-\s/;
-const TITLE_CLICHE_RE = /solusi (lengkap|tepat|terbaik)|rumah impian|pilihan tepat untuk (proyek|rumah)|kebutuhan anda/i;
-function titleLooksTemplated(title) {
-  return TITLE_SEPARATOR_RE.test(title) || TITLE_CLICHE_RE.test(title);
-}
 function extractTitleLine(raw) {
   const m = raw.match(/^JUDUL:\s*(.+)$/mi);
   return m ? m[1].trim() : '';
@@ -1219,29 +1211,27 @@ function extractTitleLine(raw) {
 // regenerate the article when the title still has a year in it — up to 2 extra attempts —
 // before giving up and accepting the last attempt anyway (logged clearly so it's easy to spot
 // and fix by hand rather than silently publishing a dated title).
-async function generateArticleWithTitleGuard(keyword, relatedCandidates) {
+async function generateArticleWithTitleGuard(keyword, relatedCandidates) {  // gaya judul dibuat ulang tiap percobaan (attempt)
   const maxAttempts = IS_DRY_RUN ? 1 : 3;
   let result;
   for (let attempt = 1; attempt <= maxAttempts; attempt++) {
-    result = await generateArticle(keyword, relatedCandidates);
+    result = await generateArticle(keyword, relatedCandidates, attempt);
     const titleLine = extractTitleLine(result.raw);
-    const hasYear = TITLE_YEAR_RE.test(titleLine);
-    const templated = titleLooksTemplated(titleLine);
-    if (!hasYear && !templated) return result;
-    console.log(`   ⚠️  Judul ${hasYear ? 'masih mengandung tahun' : 'masih berpola template (titik dua/klise)'} ("${titleLine}") — generate ulang (percobaan ${attempt}/${maxAttempts})...`);
+    const issues = TitleStyle.titleIssues(titleLine, keyword);
+    if (!issues.length) return result;
+    console.log(`   ⚠️  Judul bermasalah (${issues.join('; ')}) — "${titleLine}" — generate ulang dengan gaya lain (percobaan ${attempt}/${maxAttempts})...`);
   }
-  console.log(`   ⚠️  Judul masih bermasalah (tahun/template) setelah ${maxAttempts} percobaan — dilanjutkan apa adanya, periksa manual nanti.`);
+  console.log(`   ⚠️  Judul masih bermasalah setelah ${maxAttempts} percobaan — dilanjutkan apa adanya (keyword dijaga lewat fixTitle), periksa manual nanti.`);
   return result;
 }
 // ─────────────────────────────────────────────────────────────────
 
-async function generateArticle(keyword, relatedCandidates = []) {
+async function generateArticle(keyword, relatedCandidates = [], attempt = 1) {
   const type = detectType(keyword);
   const openingStyle = pickRandom(OPENING_STYLES);
   const addressStyle  = pickRandom(ADDRESS_STYLES);
   const greeting      = pickRandom(GREETING_STYLES);
-  const titleStyle    = pickRandom(TITLE_STYLES);
-  const titleShape    = pickRandom(TITLE_SHAPES);   // posisi keyword di judul (awal/tengah/akhir/tanya) supaya judul bervariasi
+  const titleStyle    = TitleStyle.pickTitleStyle(keyword, attempt);
   const closingStyle = renderTemplate(pickRandom(CLOSING_STYLES), { addr: addressStyle.name });
   const currentYear   = new Date().getFullYear();
 
@@ -1250,8 +1240,7 @@ async function generateArticle(keyword, relatedCandidates = []) {
     addressInstruction: addressStyle.instruction,
     greeting,
     openingStyle,
-    titleStyle,
-    titleShape: titleShape.instruction,
+    titleRules: TitleStyle.buildTitleRules(keyword, titleStyle, currentYear),
     closingStyle,
     keyword,
     currentYear,
@@ -1299,7 +1288,7 @@ Demikian pembahasan Kami seputar ${keyword}. Kami berharap artikel ini bermanfaa
 
 Kalau Mitra masih ada pertanyaan atau ingin konsultasi lebih lanjut, silakan hubungi Kami melalui tombol **Telepon** atau **WhatsApp** yang tersedia di bawah halaman ini. Kami siap membantu!
 `;
-    return { raw, greeting, titleShapeId: titleShape.id };
+    return { raw, greeting };
   }
 
   const body = JSON.stringify({
@@ -1363,7 +1352,7 @@ Kalau Mitra masih ada pertanyaan atau ingin konsultasi lebih lanjut, silakan hub
   if (choice.finish_reason === 'length') {
     throw new Error('AI output truncated (finish_reason=length) — increase max_tokens.');
   }
-  return { raw: content, greeting, titleShapeId: titleShape.id };
+  return { raw: content, greeting };
 }
 
 function yamlEscape(str) {
@@ -1419,7 +1408,12 @@ function parseAndSave(raw, keyword, slug, imagePath, greeting, relatedCandidates
     // Strip stray markdown (**bold**, leading #) — the AI sometimes carries the body's
     // "**Judul** - ..." bold-lead-in habit into this JUDUL: line too, which would otherwise
     // land literal asterisks in the YAML title (breaks <title>, meta tags, breadcrumbs).
-    if (t.startsWith('JUDUL:'))        { title = t.replace('JUDUL:', '').replace(/\*\*/g, '').replace(/^#+\s*/, '').trim(); continue; }
+    if (t.startsWith('JUDUL:'))        {
+      const fx = TitleStyle.fixTitle(t.replace('JUDUL:', ''), keyword);   // bersihkan; keyword hilang -> judul = keyword
+      title = fx.title;
+      if (fx.changed && /keyword/.test(fx.reason)) console.log(`   ⚠️  Judul AI tidak memuat keyword utuh — dipakai keyword sebagai judul: "${title}"`);
+      continue;
+    }
     if (t.startsWith('DESCRIPTION:'))  { desc  = t.replace('DESCRIPTION:', '').trim(); continue; }
     if (t.startsWith('CATEGORIES:'))   { /* ignored — always "blog" */ continue; }
     if (t.startsWith('TAGS:'))         { tags  = t.replace('TAGS:', '').trim().split(',').map(t => t.trim()); continue; }
