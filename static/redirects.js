@@ -1060,6 +1060,7 @@ const redirectMap = {
 "/batu/harga-batu-split-1-2-free-ongkir-ke-tigaraksa-tangerang/": "/batu/jual-batu-split-1-2-free-ongkir-ke-tigaraksa-tangerang/",
 "/batu/harga-batu-split-1-2-free-ongkir-ke-tigaraksa-tangerang/amp/": "/batu/jual-batu-split-1-2-free-ongkir-ke-tigaraksa-tangerang/amp/",
 "/blog/harga-batako-per-pcs/": "/blog/harga-batako-putih/",
+"/blog/harga-batako-per-biji-2026/": "/blog/harga-batako-bolong/",
 "/blog/harga-batako-per-pcs/amp/": "/blog/harga-batako-putih/amp/",
 "/pasir/jual-pasir-abu-batu-gratis-ongkir-ke-tambelang-bekasi/": "/info/harga-pasir-abu-batu-free-ongkir-ke-tambelang-bekasi/",
 "/pasir/jual-pasir-abu-batu-gratis-ongkir-ke-tambelang-bekasi/amp/": "/info/harga-pasir-abu-batu-free-ongkir-ke-tambelang-bekasi/amp/",
