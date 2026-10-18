@@ -402,7 +402,10 @@
     "/bangunan/biaya-bangun-rumah-per-meter-di-cileles-rangkasbitung/",
     "/bangunan/biaya-bangun-rumah-per-meter-di-cinangka-depok/",
     "/bangunan/biaya-bangun-rumah-per-meter-di-ciomas-serang/",
-    "/bangunan/biaya-bangun-rumah-per-meter-di-cipaku-bogor/"
+    "/bangunan/biaya-bangun-rumah-per-meter-di-cipaku-bogor/",
+    "/bangunan/biaya-bangun-rumah-per-meter-di-cipedak-jakarta/",
+    "/bangunan/biaya-bangun-rumah-per-meter-di-cipete-selatan-jakarta/",
+    "/bangunan/biaya-bangun-rumah-per-meter-di-cipinang-melayu-jakarta/"
   ],
   "failed": {
     "/baja-ringan/harga-pasang-atap-baja-ringan-di-anyar-serang/": 2,
@@ -684,11 +687,19 @@
     "/bangunan/biaya-bangun-rumah-per-meter-di-cilendek-timur-bogor/": 2,
     "/bangunan/biaya-bangun-rumah-per-meter-di-cilincing-jakarta/": 2,
     "/bangunan/biaya-bangun-rumah-per-meter-di-cilodong-depok/": 2,
-    "/bangunan/biaya-bangun-rumah-per-meter-di-cimahpar-bogor/": 1,
-    "/bangunan/biaya-bangun-rumah-per-meter-di-cimanggu-sukabumi/": 1,
-    "/bangunan/biaya-bangun-rumah-per-meter-di-cimarga-rangkasbitung/": 1,
-    "/bangunan/biaya-bangun-rumah-per-meter-di-cimpaeun-depok/": 1,
-    "/bangunan/biaya-bangun-rumah-per-meter-di-cinangka-serang/": 1,
-    "/bangunan/biaya-bangun-rumah-per-meter-di-cinere-depok/": 1
+    "/bangunan/biaya-bangun-rumah-per-meter-di-cimahpar-bogor/": 2,
+    "/bangunan/biaya-bangun-rumah-per-meter-di-cimanggu-sukabumi/": 2,
+    "/bangunan/biaya-bangun-rumah-per-meter-di-cimarga-rangkasbitung/": 2,
+    "/bangunan/biaya-bangun-rumah-per-meter-di-cimpaeun-depok/": 2,
+    "/bangunan/biaya-bangun-rumah-per-meter-di-cinangka-serang/": 2,
+    "/bangunan/biaya-bangun-rumah-per-meter-di-cinere-depok/": 2,
+    "/bangunan/biaya-bangun-rumah-per-meter-di-cipanas-rangkasbitung/": 1,
+    "/bangunan/biaya-bangun-rumah-per-meter-di-ciparigi-bogor/": 1,
+    "/bangunan/biaya-bangun-rumah-per-meter-di-cipayung-depok/": 1,
+    "/bangunan/biaya-bangun-rumah-per-meter-di-cipayung-jakarta/": 1,
+    "/bangunan/biaya-bangun-rumah-per-meter-di-cipete-utara-jakarta/": 1,
+    "/bangunan/biaya-bangun-rumah-per-meter-di-cipinang-besar-jakarta/": 1,
+    "/bangunan/biaya-bangun-rumah-per-meter-di-cipinang-cempedak-jakarta/": 1,
+    "/bangunan/biaya-bangun-rumah-per-meter-di-cipinang-jakarta/": 1
   }
 }
