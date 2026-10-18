@@ -17,7 +17,8 @@
     "revise:dry-run": "node tools/revise-articles.js",
     "orphans:find": "node tools/find-orphans.js",
     "orphans:fix": "node tools/fix-orphans.js --apply --limit=10",
-    "recycle": "node tools/recycle-posts.js"
+    "recycle": "node tools/recycle-posts.js",
+    "build:recycle": "node tools/recycle-posts.js"
   },
   "keywords": [],
   "author": "",
