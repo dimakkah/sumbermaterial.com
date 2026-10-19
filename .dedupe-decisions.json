@@ -1,7 +1,7 @@
 {
  "version": 2,
  "libVersion": 5,
- "updatedAt": "2026-10-18T13:55:27.461Z",
+ "updatedAt": "2026-10-19T16:56:10.007Z",
  "decisions": {
   "/product/jual-pasir-beton-cimalaka/": {
    "candidates": [
@@ -1206,6 +1206,408 @@
    ],
    "reason": "#1: Produk, lokasi, dan maksud (harga/jual) identik.",
    "judgedAt": "2026-10-18T13:55:26.701Z"
+  },
+  "/blog/baja-ringan-sukabumi/": {
+   "candidates": [
+    "/product/harga-baja-ringan-terbaru/",
+    "/blog/sumber-baja-sukabumi/",
+    "/baja-ringan/harga-pasang-atap-baja-ringan-di-sukabumi-sukabumi/"
+   ],
+   "duplicates": [
+    "/baja-ringan/harga-pasang-atap-baja-ringan-di-sukabumi-sukabumi/"
+   ],
+   "reason": "#3: Harga & lokasi baja ringan Sukabumi sama persis.",
+   "judgedAt": "2026-10-19T16:55:18.502Z"
+  },
+  "/batu/harga-batu-split-3-5-free-ongkir-ke-serpong-tangerang/": {
+   "candidates": [
+    "/batu/jual-batu-split-3-5-free-ongkir-ke-serpong-tangerang/"
+   ],
+   "duplicates": [
+    "/batu/jual-batu-split-3-5-free-ongkir-ke-serpong-tangerang/"
+   ],
+   "reason": "#1: Jual vs harga, objek & maksud identik.",
+   "judgedAt": "2026-10-19T16:55:22.718Z"
+  },
+  "/batu/harga-batu-split-3-5-free-ongkir-ke-sukamulya-tangerang/": {
+   "candidates": [
+    "/batu/jual-batu-split-3-5-free-ongkir-ke-sukamulya-tangerang/"
+   ],
+   "duplicates": [
+    "/batu/jual-batu-split-3-5-free-ongkir-ke-sukamulya-tangerang/"
+   ],
+   "reason": "#1: Jual vs harga, produk & lokasi sama persis.",
+   "judgedAt": "2026-10-19T16:55:24.709Z"
+  },
+  "/batu/harga-batu-split-3-5-free-ongkir-ke-kutawaluya-karawang/": {
+   "candidates": [
+    "/batu/jual-batu-split-3-5-free-ongkir-ke-kutawaluya-karawang/"
+   ],
+   "duplicates": [
+    "/batu/jual-batu-split-3-5-free-ongkir-ke-kutawaluya-karawang/"
+   ],
+   "reason": "#1: Jual vs harga, produk & lokasi sama persis.",
+   "judgedAt": "2026-10-19T16:55:25.876Z"
+  },
+  "/batu/harga-batu-split-3-5-free-ongkir-ke-curug-depok/": {
+   "candidates": [
+    "/batu/jual-batu-split-3-5-free-ongkir-ke-curug-depok/"
+   ],
+   "duplicates": [
+    "/batu/jual-batu-split-3-5-free-ongkir-ke-curug-depok/"
+   ],
+   "reason": "#1: Produk, lokasi, dan maksud (harga/jual) identik.",
+   "judgedAt": "2026-10-19T16:55:26.880Z"
+  },
+  "/batu/harga-batu-split-2-3-free-ongkir-ke-galaxi-jakarta/": {
+   "candidates": [
+    "/batu/jual-batu-split-2-3-free-ongkir-ke-galaxi-jakarta/"
+   ],
+   "duplicates": [
+    "/batu/jual-batu-split-2-3-free-ongkir-ke-galaxi-jakarta/"
+   ],
+   "reason": "#1: Jual vs harga, objek & maksud identik.",
+   "judgedAt": "2026-10-19T16:55:28.774Z"
+  },
+  "/batu/harga-batu-split-1-2-free-ongkir-ke-tapos-depok/": {
+   "candidates": [
+    "/batu/jual-batu-split-1-2-free-ongkir-ke-tapos-depok/"
+   ],
+   "duplicates": [
+    "/batu/jual-batu-split-1-2-free-ongkir-ke-tapos-depok/"
+   ],
+   "reason": "#1: Jual vs harga, objek & lokasi sama persis.",
+   "judgedAt": "2026-10-19T16:55:30.954Z"
+  },
+  "/batu/harga-batu-split-2-3-free-ongkir-ke-kamal-muara-jakarta/": {
+   "candidates": [
+    "/batu/jual-batu-split-2-3-free-ongkir-ke-kamal-muara-jakarta/"
+   ],
+   "duplicates": [
+    "/batu/jual-batu-split-2-3-free-ongkir-ke-kamal-muara-jakarta/"
+   ],
+   "reason": "#1: Jual vs harga, objek dan lokasi sama persis.",
+   "judgedAt": "2026-10-19T16:55:31.859Z"
+  },
+  "/batu/harga-batu-split-3-5-free-ongkir-ke-malaka-jaya-jakarta/": {
+   "candidates": [
+    "/batu/jual-batu-split-3-5-free-ongkir-ke-malaka-jaya-jakarta/"
+   ],
+   "duplicates": [
+    "/batu/jual-batu-split-3-5-free-ongkir-ke-malaka-jaya-jakarta/"
+   ],
+   "reason": "#1: Jual vs harga, produk, lokasi, ongkir sama persis.",
+   "judgedAt": "2026-10-19T16:55:33.297Z"
+  },
+  "/batu/harga-batu-split-2-3-free-ongkir-ke-pondok-aren-tangerang/": {
+   "candidates": [
+    "/batu/jual-batu-split-2-3-free-ongkir-ke-pondok-aren-tangerang/"
+   ],
+   "duplicates": [
+    "/batu/jual-batu-split-2-3-free-ongkir-ke-pondok-aren-tangerang/"
+   ],
+   "reason": "#1: Jual vs harga, objek & maksud identik, lokasi sama.",
+   "judgedAt": "2026-10-19T16:55:34.469Z"
+  },
+  "/batu/harga-batu-split-2-3-free-ongkir-ke-kampung-rawa-jakarta/": {
+   "candidates": [
+    "/batu/jual-batu-split-2-3-free-ongkir-ke-kampung-rawa-jakarta/"
+   ],
+   "duplicates": [
+    "/batu/jual-batu-split-2-3-free-ongkir-ke-kampung-rawa-jakarta/"
+   ],
+   "reason": "#1: Jual vs harga, objek & lokasi sama persis.",
+   "judgedAt": "2026-10-19T16:55:35.860Z"
+  },
+  "/batu/harga-batu-split-2-3-free-ongkir-ke-tanah-sareal-bogor/": {
+   "candidates": [
+    "/batu/jual-batu-split-2-3-free-ongkir-ke-tanah-sareal-bogor/"
+   ],
+   "duplicates": [
+    "/batu/jual-batu-split-2-3-free-ongkir-ke-tanah-sareal-bogor/"
+   ],
+   "reason": "#1: Jual vs harga, objek & maksud identik.",
+   "judgedAt": "2026-10-19T16:55:36.792Z"
+  },
+  "/batu/harga-batu-split-2-3-free-ongkir-ke-gunung-batu-bogor/": {
+   "candidates": [
+    "/batu/jual-batu-split-2-3-free-ongkir-ke-gunung-batu-bogor/"
+   ],
+   "duplicates": [
+    "/batu/jual-batu-split-2-3-free-ongkir-ke-gunung-batu-bogor/"
+   ],
+   "reason": "#1: Produk, lokasi, dan maksud (harga/jual) identik.",
+   "judgedAt": "2026-10-19T16:55:37.986Z"
+  },
+  "/batu/harga-batu-split-3-5-free-ongkir-ke-pejaten-barat-jakarta/": {
+   "candidates": [
+    "/batu/jual-batu-split-3-5-free-ongkir-ke-pejaten-barat-jakarta/"
+   ],
+   "duplicates": [
+    "/batu/jual-batu-split-3-5-free-ongkir-ke-pejaten-barat-jakarta/"
+   ],
+   "reason": "#1: Jual vs harga, objek & maksud identik, lokasi sama.",
+   "judgedAt": "2026-10-19T16:55:39.592Z"
+  },
+  "/batu/harga-batu-split-1-2-free-ongkir-ke-cakung-barat-jakarta/": {
+   "candidates": [
+    "/batu/jual-batu-split-1-2-free-ongkir-ke-cakung-barat-jakarta/"
+   ],
+   "duplicates": [
+    "/batu/jual-batu-split-1-2-free-ongkir-ke-cakung-barat-jakarta/"
+   ],
+   "reason": "#1: Jual vs harga, objek dan lokasi sama persis.",
+   "judgedAt": "2026-10-19T16:55:40.593Z"
+  },
+  "/batu/harga-batu-split-1-2-free-ongkir-ke-pasir-mulya-bogor/": {
+   "candidates": [
+    "/batu/jual-batu-split-1-2-free-ongkir-ke-pasir-mulya-bogor/"
+   ],
+   "duplicates": [
+    "/batu/jual-batu-split-1-2-free-ongkir-ke-pasir-mulya-bogor/"
+   ],
+   "reason": "#1: Jual vs harga, objek & lokasi sama persis.",
+   "judgedAt": "2026-10-19T16:55:42.240Z"
+  },
+  "/batu/harga-batu-split-2-3-free-ongkir-ke-telukjambe-barat-karawang/": {
+   "candidates": [
+    "/batu/jual-batu-split-2-3-free-ongkir-ke-telukjambe-barat-karawang/"
+   ],
+   "duplicates": [
+    "/batu/jual-batu-split-2-3-free-ongkir-ke-telukjambe-barat-karawang/"
+   ],
+   "reason": "#1: Produk, lokasi, dan maksud (harga/jual) identik.",
+   "judgedAt": "2026-10-19T16:55:43.463Z"
+  },
+  "/batu/harga-batu-split-1-2-free-ongkir-ke-rawa-badak-jakarta/": {
+   "candidates": [
+    "/batu/jual-batu-split-1-2-free-ongkir-ke-rawa-badak-jakarta/"
+   ],
+   "duplicates": [
+    "/batu/jual-batu-split-1-2-free-ongkir-ke-rawa-badak-jakarta/"
+   ],
+   "reason": "#1: Jual vs harga, objek dan lokasi sama persis.",
+   "judgedAt": "2026-10-19T16:55:44.653Z"
+  },
+  "/batu/harga-batu-split-3-5-free-ongkir-ke-kedung-waringin-bogor/": {
+   "candidates": [
+    "/batu/jual-batu-split-3-5-free-ongkir-ke-kedung-waringin-bogor/"
+   ],
+   "duplicates": [
+    "/batu/jual-batu-split-3-5-free-ongkir-ke-kedung-waringin-bogor/"
+   ],
+   "reason": "#1: Jual vs harga, produk, lokasi, ongkir sama persis.",
+   "judgedAt": "2026-10-19T16:55:45.886Z"
+  },
+  "/batu/harga-batu-split-1-2-free-ongkir-ke-utan-kayu-jakarta/": {
+   "candidates": [
+    "/batu/jual-batu-split-1-2-free-ongkir-ke-utan-kayu-jakarta/"
+   ],
+   "duplicates": [
+    "/batu/jual-batu-split-1-2-free-ongkir-ke-utan-kayu-jakarta/"
+   ],
+   "reason": "#1: Jual vs harga, produk & lokasi sama persis.",
+   "judgedAt": "2026-10-19T16:55:46.781Z"
+  },
+  "/batu/harga-batu-split-2-3-free-ongkir-ke-cisalak-pasar-depok/": {
+   "candidates": [
+    "/batu/jual-batu-split-2-3-free-ongkir-ke-cisalak-pasar-depok/"
+   ],
+   "duplicates": [
+    "/batu/jual-batu-split-2-3-free-ongkir-ke-cisalak-pasar-depok/"
+   ],
+   "reason": "#1: Jual vs harga, produk & lokasi sama persis.",
+   "judgedAt": "2026-10-19T16:55:47.672Z"
+  },
+  "/batu/harga-batu-split-1-2-free-ongkir-ke-koja-jakarta/": {
+   "candidates": [
+    "/batu/jual-batu-split-1-2-free-ongkir-ke-koja-jakarta/"
+   ],
+   "duplicates": [
+    "/batu/jual-batu-split-1-2-free-ongkir-ke-koja-jakarta/"
+   ],
+   "reason": "#1: Jual vs harga, produk & lokasi sama persis.",
+   "judgedAt": "2026-10-19T16:55:49.494Z"
+  },
+  "/batu/harga-batu-split-3-5-free-ongkir-ke-ulujami-jakarta/": {
+   "candidates": [
+    "/batu/jual-batu-split-3-5-free-ongkir-ke-ulujami-jakarta/"
+   ],
+   "duplicates": [
+    "/batu/jual-batu-split-3-5-free-ongkir-ke-ulujami-jakarta/"
+   ],
+   "reason": "#1: Jual vs harga, objek & maksud sama persis.",
+   "judgedAt": "2026-10-19T16:55:50.906Z"
+  },
+  "/batu/harga-batu-split-3-5-free-ongkir-ke-benda-tangerang/": {
+   "candidates": [
+    "/batu/jual-batu-split-3-5-free-ongkir-ke-benda-tangerang/"
+   ],
+   "duplicates": [
+    "/batu/jual-batu-split-3-5-free-ongkir-ke-benda-tangerang/"
+   ],
+   "reason": "#1: Jual vs harga, objek & maksud identik.",
+   "judgedAt": "2026-10-19T16:55:52.022Z"
+  },
+  "/batu/harga-batu-split-2-3-free-ongkir-ke-cimahpar-bogor/": {
+   "candidates": [
+    "/batu/jual-batu-split-2-3-free-ongkir-ke-cimahpar-bogor/"
+   ],
+   "duplicates": [
+    "/batu/jual-batu-split-2-3-free-ongkir-ke-cimahpar-bogor/"
+   ],
+   "reason": "#1: Produk, lokasi, dan maksud (harga/jual) identik.",
+   "judgedAt": "2026-10-19T16:55:53.507Z"
+  },
+  "/batu/harga-batu-split-1-2-free-ongkir-ke-cilodong-depok/": {
+   "candidates": [
+    "/batu/jual-batu-split-1-2-free-ongkir-ke-cilodong-depok/"
+   ],
+   "duplicates": [
+    "/batu/jual-batu-split-1-2-free-ongkir-ke-cilodong-depok/"
+   ],
+   "reason": "#1: Jual vs harga, produk, lokasi, ongkir sama persis.",
+   "judgedAt": "2026-10-19T16:55:54.450Z"
+  },
+  "/batu/harga-batu-split-2-3-free-ongkir-ke-curug-bogor/": {
+   "candidates": [
+    "/batu/jual-batu-split-2-3-free-ongkir-ke-curug-bogor/"
+   ],
+   "duplicates": [
+    "/batu/jual-batu-split-2-3-free-ongkir-ke-curug-bogor/"
+   ],
+   "reason": "#1: Jual vs harga, objek dan lokasi sama persis.",
+   "judgedAt": "2026-10-19T16:55:55.480Z"
+  },
+  "/batu/harga-batu-split-2-3-free-ongkir-ke-bantarjati-bogor/": {
+   "candidates": [
+    "/batu/jual-batu-split-2-3-free-ongkir-ke-bantarjati-bogor/"
+   ],
+   "duplicates": [
+    "/batu/jual-batu-split-2-3-free-ongkir-ke-bantarjati-bogor/"
+   ],
+   "reason": "#1: Jual vs harga, produk & lokasi sama persis.",
+   "judgedAt": "2026-10-19T16:55:56.593Z"
+  },
+  "/batu/harga-batu-split-1-2-free-ongkir-ke-cipayung-jakarta/": {
+   "candidates": [
+    "/batu/jual-batu-split-1-2-free-ongkir-ke-cipayung-jakarta/"
+   ],
+   "duplicates": [
+    "/batu/jual-batu-split-1-2-free-ongkir-ke-cipayung-jakarta/"
+   ],
+   "reason": "#1: Jual vs harga, produk & lokasi sama persis.",
+   "judgedAt": "2026-10-19T16:55:57.830Z"
+  },
+  "/batu/harga-batu-split-2-3-free-ongkir-ke-tamansari-jakarta/": {
+   "candidates": [
+    "/batu/jual-batu-split-2-3-free-ongkir-ke-tamansari-jakarta/"
+   ],
+   "duplicates": [
+    "/batu/jual-batu-split-2-3-free-ongkir-ke-tamansari-jakarta/"
+   ],
+   "reason": "#1: Jual vs harga, produk & lokasi sama persis.",
+   "judgedAt": "2026-10-19T16:55:58.731Z"
+  },
+  "/batu/harga-batu-split-2-3-free-ongkir-ke-rawalumbu-bekasi/": {
+   "candidates": [
+    "/batu/jual-batu-split-2-3-free-ongkir-ke-rawalumbu-bekasi/"
+   ],
+   "duplicates": [
+    "/batu/jual-batu-split-2-3-free-ongkir-ke-rawalumbu-bekasi/"
+   ],
+   "reason": "#1: Jual vs harga, produk & lokasi sama persis.",
+   "judgedAt": "2026-10-19T16:55:59.627Z"
+  },
+  "/batu/harga-batu-split-2-3-free-ongkir-ke-bekasi-utara/": {
+   "candidates": [
+    "/batu/jual-batu-split-2-3-free-ongkir-ke-bekasi-utara/"
+   ],
+   "duplicates": [
+    "/batu/jual-batu-split-2-3-free-ongkir-ke-bekasi-utara/"
+   ],
+   "reason": "#1: Jual vs harga, produk & lokasi sama persis.",
+   "judgedAt": "2026-10-19T16:56:00.544Z"
+  },
+  "/batu/harga-batu-split-3-5-free-ongkir-ke-kedoya-jakarta/": {
+   "candidates": [
+    "/batu/jual-batu-split-3-5-free-ongkir-ke-kedoya-jakarta/"
+   ],
+   "duplicates": [
+    "/batu/jual-batu-split-3-5-free-ongkir-ke-kedoya-jakarta/"
+   ],
+   "reason": "#1: Jual vs harga, objek & maksud identik.",
+   "judgedAt": "2026-10-19T16:56:01.455Z"
+  },
+  "/batu/harga-batu-split-2-3-free-ongkir-ke-cilincing-jakarta/": {
+   "candidates": [
+    "/batu/jual-batu-split-2-3-free-ongkir-ke-cilincing-jakarta/"
+   ],
+   "duplicates": [
+    "/batu/jual-batu-split-2-3-free-ongkir-ke-cilincing-jakarta/"
+   ],
+   "reason": "#1: Jual vs harga, objek & maksud identik.",
+   "judgedAt": "2026-10-19T16:56:02.330Z"
+  },
+  "/batu/harga-batu-split-3-5-free-ongkir-ke-curug-tangerang/": {
+   "candidates": [
+    "/batu/jual-batu-split-3-5-free-ongkir-ke-curug-tangerang/"
+   ],
+   "duplicates": [
+    "/batu/jual-batu-split-3-5-free-ongkir-ke-curug-tangerang/"
+   ],
+   "reason": "#1: Jual vs harga, produk, lokasi, ongkir sama persis.",
+   "judgedAt": "2026-10-19T16:56:03.626Z"
+  },
+  "/batu/harga-batu-split-3-5-free-ongkir-ke-pangkalan-karawang/": {
+   "candidates": [
+    "/batu/jual-batu-split-3-5-free-ongkir-ke-pangkalan-karawang/"
+   ],
+   "duplicates": [
+    "/batu/jual-batu-split-3-5-free-ongkir-ke-pangkalan-karawang/"
+   ],
+   "reason": "#1: Jual vs harga, objek & maksud sama persis.",
+   "judgedAt": "2026-10-19T16:56:04.693Z"
+  },
+  "/batu/harga-batu-split-2-3-free-ongkir-ke-koja-jakarta/": {
+   "candidates": [
+    "/batu/jual-batu-split-2-3-free-ongkir-ke-koja-jakarta/"
+   ],
+   "duplicates": [
+    "/batu/jual-batu-split-2-3-free-ongkir-ke-koja-jakarta/"
+   ],
+   "reason": "#1: Jual vs harga, objek & maksud identik, lokasi sama.",
+   "judgedAt": "2026-10-19T16:56:05.883Z"
+  },
+  "/batu/harga-batu-split-3-5-free-ongkir-ke-bintaro-jakarta/": {
+   "candidates": [
+    "/batu/jual-batu-split-3-5-free-ongkir-ke-bintaro-jakarta/"
+   ],
+   "duplicates": [
+    "/batu/jual-batu-split-3-5-free-ongkir-ke-bintaro-jakarta/"
+   ],
+   "reason": "#1: Produk, lokasi, dan maksud (harga/jual) identik.",
+   "judgedAt": "2026-10-19T16:56:06.836Z"
+  },
+  "/batu/harga-batu-split-3-5-free-ongkir-ke-cilodong-depok/": {
+   "candidates": [
+    "/batu/jual-batu-split-3-5-free-ongkir-ke-cilodong-depok/"
+   ],
+   "duplicates": [
+    "/batu/jual-batu-split-3-5-free-ongkir-ke-cilodong-depok/"
+   ],
+   "reason": "#1: Jual vs harga, produk & lokasi sama persis.",
+   "judgedAt": "2026-10-19T16:56:07.885Z"
+  },
+  "/batu/harga-batu-split-1-2-free-ongkir-ke-pinangsia-jakarta/": {
+   "candidates": [
+    "/batu/jual-batu-split-1-2-free-ongkir-ke-pinangsia-jakarta/"
+   ],
+   "duplicates": [
+    "/batu/jual-batu-split-1-2-free-ongkir-ke-pinangsia-jakarta/"
+   ],
+   "reason": "#1: Jual vs harga, objek dan lokasi sama persis.",
+   "judgedAt": "2026-10-19T16:56:09.047Z"
   }
  }
 }
