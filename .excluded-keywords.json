@@ -1573,5 +1573,19 @@
     "matchedTitle": "Harga Batu Split 2/3 Free Ongkir Ke Mampang Prapatan Jakarta",
     "taggedAt": "2026-10-18T13:55:28.706Z",
     "algoVersion": 2
+  },
+  "abu batu harga": {
+    "reason": "similar to existing article",
+    "matchedFile": "harga-abu-batu-per-kubik.md",
+    "matchedTitle": "Harga Abu Batu Per Kubik: Estimasi & Tips Penggunaan",
+    "taggedAt": "2026-10-19T11:41:40.337Z",
+    "algoVersion": 2
+  },
+  "harga las pagar besi": {
+    "reason": "similar to existing article",
+    "matchedFile": "las-besi-terdekat.md",
+    "matchedTitle": "Las Besi Terdekat: Pertimbangkan Ini Sebelum Memilih Jasa",
+    "taggedAt": "2026-10-19T11:41:40.362Z",
+    "algoVersion": 2
   }
 }
