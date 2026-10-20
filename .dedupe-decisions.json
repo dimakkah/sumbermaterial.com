@@ -1,7 +1,7 @@
 {
  "version": 2,
  "libVersion": 5,
- "updatedAt": "2026-10-19T16:56:10.007Z",
+ "updatedAt": "2026-10-20T14:55:40.830Z",
  "decisions": {
   "/product/jual-pasir-beton-cimalaka/": {
    "candidates": [
@@ -1608,6 +1608,382 @@
    ],
    "reason": "#1: Jual vs harga, objek dan lokasi sama persis.",
    "judgedAt": "2026-10-19T16:56:09.047Z"
+  },
+  "/blog/harga-brangkal-per-kubik/": {
+   "candidates": [
+    "/product/harga-sirtu-urug-brangkal-per-kubik/",
+    "/blog/harga-batu-perkubik/"
+   ],
+   "duplicates": [
+    "/product/harga-sirtu-urug-brangkal-per-kubik/"
+   ],
+   "reason": "#1: Brangkal & sirtu urug sama, harga per kubik, tujuan sama.",
+   "judgedAt": "2026-10-20T14:54:25.013Z"
+  },
+  "/batu/harga-batu-split-1-2-free-ongkir-ke-balaraja-tangerang/": {
+   "candidates": [
+    "/batu/jual-batu-split-1-2-free-ongkir-ke-balaraja-tangerang/"
+   ],
+   "duplicates": [
+    "/batu/jual-batu-split-1-2-free-ongkir-ke-balaraja-tangerang/"
+   ],
+   "reason": "#1: Produk, lokasi, dan maksud (harga/jual) sama persis.",
+   "judgedAt": "2026-10-20T14:54:29.636Z"
+  },
+  "/batu/harga-batu-split-3-5-free-ongkir-ke-cilegon/": {
+   "candidates": [
+    "/batu/jual-batu-split-3-5-free-ongkir-ke-cilegon/"
+   ],
+   "duplicates": [
+    "/batu/jual-batu-split-3-5-free-ongkir-ke-cilegon/"
+   ],
+   "reason": "#1: Produk, lokasi, dan maksud (harga/jual) identik.",
+   "judgedAt": "2026-10-20T14:54:31.741Z"
+  },
+  "/product/harga-jual-batu-split-cor/": {
+   "candidates": [
+    "/blog/harga-batu-split-12-per-m3/",
+    "/blog/harga-split-23-per-kubik/",
+    "/blog/split-12/",
+    "/blog/harga-batu-split-12-colt/",
+    "/blog/nama-lain-batu-split/",
+    "/blog/ukuran-batu-split-2-3/"
+   ],
+   "duplicates": [],
+   "reason": "",
+   "judgedAt": "2026-10-20T14:54:37.007Z"
+  },
+  "/product/harga-pasir-bangka-coklat-terbaru/": {
+   "candidates": [
+    "/blog/pasir-bangka-coklat/"
+   ],
+   "duplicates": [],
+   "reason": "",
+   "judgedAt": "2026-10-20T14:54:38.728Z"
+  },
+  "/product/harga-besi-beton-ulir-dan-polos-terbaru/": {
+   "candidates": [
+    "/blog/harga-besi-16-ulir-per-batang-2026/"
+   ],
+   "duplicates": [
+    "/blog/harga-besi-16-ulir-per-batang-2026/"
+   ],
+   "reason": "#1: Harga besi ulir, fokus pada harga dan informasi terbaru.",
+   "judgedAt": "2026-10-20T14:54:40.832Z"
+  },
+  "/product/jual-pasir-sedot-hitam-bebas-lumpur/": {
+   "candidates": [
+    "/blog/jual-pasir-hitam-terdekat/",
+    "/blog/bata-hitam-terbuat-dari-apa/"
+   ],
+   "duplicates": [],
+   "reason": "",
+   "judgedAt": "2026-10-20T14:54:44.200Z"
+  },
+  "/product/harga-jual-pasir-abu-atau-abu-batu-terbaru/": {
+   "candidates": [
+    "/blog/harga-abu-batu-per-kubik/",
+    "/blog/jual-pasir-abu-batu-terdekat/"
+   ],
+   "duplicates": [
+    "/blog/harga-abu-batu-per-kubik/",
+    "/blog/jual-pasir-abu-batu-terdekat/"
+   ],
+   "reason": "#1: Harga abu batu per kubik, informasi serupa, lokasi tidak spesifik. | #2: Jual pasir abu batu, harga dan jenis, lokasi tidak spesifik.",
+   "judgedAt": "2026-10-20T14:54:46.946Z"
+  },
+  "/product/harga-batako-press-hitam-terbaru/": {
+   "candidates": [
+    "/blog/harga-batako-press/",
+    "/blog/jual-batako-terdekat/",
+    "/blog/penjual-batako-terdekat/",
+    "/blog/bata-hitam-terbuat-dari-apa/",
+    "/blog/jual-pasir-hitam-terdekat/"
+   ],
+   "duplicates": [
+    "/blog/jual-batako-terdekat/",
+    "/blog/penjual-batako-terdekat/"
+   ],
+   "reason": "#2: Jual batako, fokus harga dan tips membeli. | #3: Jual batako terdekat, fokus harga dan tips memilih.",
+   "judgedAt": "2026-10-20T14:54:51.641Z"
+  },
+  "/product/harga-batu-makadam-5-7-per-kubik/": {
+   "candidates": [
+    "/blog/harga-makadam-per-truk/"
+   ],
+   "duplicates": [],
+   "reason": "",
+   "judgedAt": "2026-10-20T14:54:53.232Z"
+  },
+  "/product/harga-batu-beskos-grade-a-dan-b/": {
+   "candidates": [
+    "/blog/contoh-batu-beskos/",
+    "/blog/harga-beskos-per-kubik/"
+   ],
+   "duplicates": [
+    "/blog/harga-beskos-per-kubik/"
+   ],
+   "reason": "#2: Harga beskos per kubik, fokus sama: harga material.",
+   "judgedAt": "2026-10-20T14:54:55.369Z"
+  },
+  "/blog/1-bata-tanah-berapa-rupiah/": {
+   "candidates": [
+    "/blog/tanah-urug-terdekat/",
+    "/blog/tanah-urugan-terdekat/"
+   ],
+   "duplicates": [],
+   "reason": "",
+   "judgedAt": "2026-10-20T14:54:57.495Z"
+  },
+  "/blog/jual-pasir-besi-terdekat/": {
+   "candidates": [
+    "/blog/material-bangunan-terdekat/",
+    "/blog/jual-urugan-terdekat/"
+   ],
+   "duplicates": [],
+   "reason": "",
+   "judgedAt": "2026-10-20T14:54:59.351Z"
+  },
+  "/blog/ukuran-batu-split-2-3/": {
+   "candidates": [
+    "/blog/nama-lain-batu-split/",
+    "/blog/harga-batu-buat-pondasi-rumah/"
+   ],
+   "duplicates": [],
+   "reason": "",
+   "judgedAt": "2026-10-20T14:55:01.011Z"
+  },
+  "/blog/harga-hebel-satuan-ukuran-7-cm/": {
+   "candidates": [
+    "/blog/harga-hebel-7-cm-per-kubik/",
+    "/blog/harga-hebel-7-cm/",
+    "/blog/harga-hebel-7-cm-per-biji/"
+   ],
+   "duplicates": [
+    "/blog/harga-hebel-7-cm-per-kubik/",
+    "/blog/harga-hebel-7-cm-per-biji/"
+   ],
+   "reason": "#1: Ukuran sama, maksud sama (harga & cara hitung). | #3: Ukuran sama, maksud sama (harga & hemat biaya).",
+   "judgedAt": "2026-10-20T14:55:04.029Z"
+  },
+  "/blog/harga-batu-split-12-per-m3/": {
+   "candidates": [
+    "/blog/nama-lain-batu-split/",
+    "/blog/harga-besi-perbatang/",
+    "/blog/toko-pasir-terdekat/"
+   ],
+   "duplicates": [],
+   "reason": "",
+   "judgedAt": "2026-10-20T14:55:06.826Z"
+  },
+  "/blog/harga-batu-perkubik/": {
+   "candidates": [
+    "/blog/harga-pasir-pantai-per-kubik/",
+    "/blog/pasir-bangka-coklat/"
+   ],
+   "duplicates": [],
+   "reason": "",
+   "judgedAt": "2026-10-20T14:55:08.841Z"
+  },
+  "/blog/harga-penjaringan-atap-rumah/": {
+   "candidates": [
+    "/blog/harga-besi-perbatang/",
+    "/blog/toko-pasir-terdekat/"
+   ],
+   "duplicates": [],
+   "reason": "",
+   "judgedAt": "2026-10-20T14:55:10.674Z"
+  },
+  "/blog/jual-batako-terdekat/": {
+   "candidates": [
+    "/blog/harga-batako-bolong/",
+    "/blog/harga-batako-per-biji/",
+    "/blog/harga-batako-press/"
+   ],
+   "duplicates": [
+    "/blog/harga-batako-bolong/",
+    "/blog/harga-batako-per-biji/",
+    "/blog/harga-batako-press/"
+   ],
+   "reason": "#1: Batako, harga, dan informasi pembelian sama. | #2: Batako, harga, dan informasi pembelian sama. | #3: Batako, harga, dan informasi pembelian sama.",
+   "judgedAt": "2026-10-20T14:55:13.011Z"
+  },
+  "/blog/bata-hitam-terbuat-dari-apa/": {
+   "candidates": [
+    "/blog/jual-pasir-hitam-terdekat/"
+   ],
+   "duplicates": [],
+   "reason": "",
+   "judgedAt": "2026-10-20T14:55:14.159Z"
+  },
+  "/blog/jual-urugan-terdekat/": {
+   "candidates": [
+    "/blog/material-bangunan-terdekat/"
+   ],
+   "duplicates": [],
+   "reason": "",
+   "judgedAt": "2026-10-20T14:55:15.327Z"
+  },
+  "/blog/penjual-batu-kali-terdekat/": {
+   "candidates": [
+    "/blog/batu-kali-bulat-besar/",
+    "/blog/batu-kali-pipih/"
+   ],
+   "duplicates": [
+    "/blog/batu-kali-bulat-besar/",
+    "/blog/batu-kali-pipih/"
+   ],
+   "reason": "#1: Bahas batu kali, pondasi, kualitas, dan harga. | #2: Bahas batu kali, pondasi, kuat, dan harga.",
+   "judgedAt": "2026-10-20T14:55:17.306Z"
+  },
+  "/blog/jasa-las-pagar-per-meter/": {
+   "candidates": [
+    "/blog/tukang-las-terdekat/",
+    "/blog/tukang-pagar-terdekat/",
+    "/blog/jasa-buat-pagar-rumah-terdekat/",
+    "/blog/jasa-pembuatan-pagar-rumah-terdekat/"
+   ],
+   "duplicates": [
+    "/blog/jasa-buat-pagar-rumah-terdekat/",
+    "/blog/jasa-pembuatan-pagar-rumah-terdekat/"
+   ],
+   "reason": "#3: Pagar rumah, fokus biaya & material, sama dengan artikel utama. | #4: Pagar rumah, fokus bebas repot & kualitas, sama dengan artikel utama.",
+   "judgedAt": "2026-10-20T14:55:21.756Z"
+  },
+  "/blog/tukang-las-keliling-terdekat/": {
+   "candidates": [
+    "/blog/tukang-las-terdekat/"
+   ],
+   "duplicates": [
+    "/blog/tukang-las-terdekat/"
+   ],
+   "reason": "#1: Judul & keyword sangat mirip, membahas layanan tukang las.",
+   "judgedAt": "2026-10-20T14:55:22.689Z"
+  },
+  "/blog/jasa-pembuatan-pagar-rumah-terdekat/": {
+   "candidates": [
+    "/blog/jasa-buat-pagar-rumah-terdekat/",
+    "/blog/tukang-pagar-terdekat/"
+   ],
+   "duplicates": [
+    "/blog/jasa-buat-pagar-rumah-terdekat/",
+    "/blog/tukang-pagar-terdekat/"
+   ],
+   "reason": "#1: Judul & keyword serupa, membahas jasa pembuatan pagar rumah. | #2: Judul & keyword serupa, membahas jasa pembuatan pagar rumah.",
+   "judgedAt": "2026-10-20T14:55:25.124Z"
+  },
+  "/blog/harga-hebel-7-cm/": {
+   "candidates": [
+    "/blog/harga-hebel-7-cm-per-biji/"
+   ],
+   "duplicates": [
+    "/blog/harga-hebel-7-cm-per-biji/"
+   ],
+   "reason": "#1: Hebel 7cm, harga, dan maksud informasi sama.",
+   "judgedAt": "2026-10-20T14:55:25.979Z"
+  },
+  "/blog/harga-puing-per-kubik/": {
+   "candidates": [
+    "/blog/harga-urugan-puing-per-m3/"
+   ],
+   "duplicates": [
+    "/blog/harga-urugan-puing-per-m3/"
+   ],
+   "reason": "#1: Puing per kubik = urugan puing per m3, harga & lokasi sama.",
+   "judgedAt": "2026-10-20T14:55:26.970Z"
+  },
+  "/blog/harga-sirtu-per-kubik/": {
+   "candidates": [
+    "/blog/nama-lain-batu-split/",
+    "/blog/urugan-sirtu-padat/"
+   ],
+   "duplicates": [],
+   "reason": "",
+   "judgedAt": "2026-10-20T14:55:28.986Z"
+  },
+  "/blog/las-besi-terdekat/": {
+   "candidates": [
+    "/blog/bengkel-las-terdekat/",
+    "/blog/tempat-las-terdekat/"
+   ],
+   "duplicates": [
+    "/blog/bengkel-las-terdekat/",
+    "/blog/tempat-las-terdekat/"
+   ],
+   "reason": "#1: Sinonim \"las besi\" vs \"bengkel las\" & maksud sama. | #2: Sinonim \"las besi\" vs \"tempat las\" & maksud sama.",
+   "judgedAt": "2026-10-20T14:55:30.835Z"
+  },
+  "/blog/split-12/": {
+   "candidates": [
+    "/blog/harga-batu-split-12-colt/",
+    "/blog/nama-lain-batu-split/"
+   ],
+   "duplicates": [
+    "/blog/harga-batu-split-12-colt/"
+   ],
+   "reason": "#1: Harga split 1/2 colt sama dengan artikel utama.",
+   "judgedAt": "2026-10-20T14:55:32.434Z"
+  },
+  "/blog/harga-besi-perbatang/": {
+   "candidates": [
+    "/blog/toko-pasir-terdekat/"
+   ],
+   "duplicates": [],
+   "reason": "",
+   "judgedAt": "2026-10-20T14:55:33.802Z"
+  },
+  "/blog/harga-split-23-per-kubik/": {
+   "candidates": [
+    "/blog/nama-lain-batu-split/"
+   ],
+   "duplicates": [],
+   "reason": "",
+   "judgedAt": "2026-10-20T14:55:34.656Z"
+  },
+  "/blog/harga-pasir-jebrod-1-kubik/": {
+   "candidates": [
+    "/blog/pasir-jebrod-cianjur/"
+   ],
+   "duplicates": [],
+   "reason": "",
+   "judgedAt": "2026-10-20T14:55:35.868Z"
+  },
+  "/blog/harga-besi-4-mm-panjang-12-meter/": {
+   "candidates": [
+    "/blog/harga-besi-4mm-per-batang/"
+   ],
+   "duplicates": [],
+   "reason": "",
+   "judgedAt": "2026-10-20T14:55:36.719Z"
+  },
+  "/blog/makadam-57/": {
+   "candidates": [
+    "/blog/harga-makadam-per-truk/"
+   ],
+   "duplicates": [
+    "/blog/harga-makadam-per-truk/"
+   ],
+   "reason": "#1: Harga makadam, fokus biaya, area Jabodetabek sama.",
+   "judgedAt": "2026-10-20T14:55:37.952Z"
+  },
+  "/blog/sumber-baja-sukabumi/": {
+   "candidates": [
+    "/blog/kusen-aluminium-sukabumi/",
+    "/blog/pasir-cimangkok-sukabumi/"
+   ],
+   "duplicates": [],
+   "reason": "",
+   "judgedAt": "2026-10-20T14:55:39.515Z"
+  },
+  "/blog/tanah-urug-terdekat/": {
+   "candidates": [
+    "/blog/tanah-urugan-terdekat/"
+   ],
+   "duplicates": [
+    "/blog/tanah-urugan-terdekat/"
+   ],
+   "reason": "#1: Sinonim \"tanah urug\" vs \"tanah urugan\", lokasi & maksud sama.",
+   "judgedAt": "2026-10-20T14:55:40.829Z"
   }
  }
 }
