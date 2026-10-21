@@ -1232,6 +1232,8 @@ async function generateArticle(keyword, relatedCandidates = [], attempt = 1) {
   const addressStyle  = pickRandom(ADDRESS_STYLES);
   const greeting      = pickRandom(GREETING_STYLES);
   const titleStyle    = TitleStyle.pickTitleStyle(keyword, attempt);
+  const promoAngle    = pickRandom(PROMPTS.promoAngles);   // benang merah promosi artikel (prompts/generate-articles.json)
+  const storeFacts    = PROMPTS.storeFacts.map(f => `  • ${f}`).join('\n');
   const closingStyle = renderTemplate(pickRandom(CLOSING_STYLES), { addr: addressStyle.name });
   const currentYear   = new Date().getFullYear();
 
@@ -1241,6 +1243,8 @@ async function generateArticle(keyword, relatedCandidates = [], attempt = 1) {
     greeting,
     openingStyle,
     titleRules: TitleStyle.buildTitleRules(keyword, titleStyle, currentYear),
+    promoAngle,
+    storeFacts,
     closingStyle,
     keyword,
     currentYear,
@@ -1600,6 +1604,19 @@ function validateArticle(filePath) {
     const boilerplateHits = [/panduan lengkap/, /estimasi biaya/, /update terbaru/].filter(p => p.test(titleLower));
     if (boilerplateHits.length >= 2) {
       issues.push(`⚠️  Judul masih terasa template SEO-berita ("${titleFmMatch[1]}") — cek ATURAN JUDUL di prompt, harusnya lebih natural/sales-oriented.`);
+    }
+  }
+
+  // Promo guardrail (soft warning): artikel harus terasa menjual — banyak menyebut "Kami", ada ajakan bertindak
+  // di badan artikel, dan tidak menyuruh pembaca membandingkan/membeli dari supplier lain.
+  {
+    const kamiCount = (bodyOnly.match(/\bKami\b/g) || []).length;
+    if (kamiCount < 6) issues.push(`⚠️  Artikel kurang bernada promosi (kata "Kami" hanya ${kamiCount}x, target ≥6) — cek TUJUAN ARTIKEL di prompt.`);
+    if (/bandingkan (penawaran|harga) (dari )?(beberapa|berbagai|supplier|toko)|manfaatkan promo dari|beli (di|dari) (toko|supplier) lain/i.test(bodyOnly)) {
+      issues.push('⚠️  Artikel menyuruh pembaca membandingkan/membeli dari pihak lain — bertentangan dengan tujuan promosi.');
+    }
+    if (/\b(termurah|nomor\s*1|no\.?\s*1|terbaik se-?indonesia|paling lengkap)\b/i.test(bodyOnly)) {
+      issues.push('⚠️  Klaim mutlak tak terbukti ("termurah"/"nomor 1"/...) — hapus atau ganti klaim terukur.');
     }
   }
 

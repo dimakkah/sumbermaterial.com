@@ -1,54 +1,104 @@
 {
   "salesStyles": [
-    { "name": "awal-mengalir",
-      "instruction": "Keyword di AWAL judul, lalu disambung kata hubung (untuk, buat, yang, dengan, sampai) sehingga judul terbaca sebagai SATU kalimat utuh tanpa tanda baca pemisah." },
-    { "name": "pembuka-ajakan",
-      "instruction": "Diawali satu kata pembuka bernada ajakan atau kebutuhan (misalnya Cari, Butuh, Pilih, Cek, Pesan, Tanya), lalu keyword di TENGAH, lalu penutup singkat yang menyambung." },
-    { "name": "pertanyaan-pembeli",
-      "instruction": "Berbentuk PERTANYAAN yang benar-benar akan diketik calon pembeli, memuat keyword, diakhiri tanda tanya." },
-    { "name": "keunggulan-konkret",
-      "instruction": "Keyword disambung satu keunggulan konkret yang wajar bagi toko material (pengiriman, ketersediaan stok, harga per satuan, kemudahan pesan) tanpa klaim berlebihan dan tanpa slogan. Disusun sebagai satu frasa mengalir." },
-    { "name": "singkat",
-      "instruction": "Singkat dan lugas (maksimal 8 kata): keyword ditambah satu atau dua kata penjelas, tanpa tanda baca pemisah." },
-    { "name": "koma",
-      "instruction": "Boleh memakai SATU tanda koma untuk memisahkan keterangan. Keyword di awal atau tengah; bagian setelah koma berupa keterangan singkat yang spesifik (bukan slogan)." },
-    { "name": "konteks-pembeli",
-      "instruction": "Menyebut konteks pembeli (rumah tinggal, proyek kecil, renovasi, kontraktor, pemilik rumah) bersama keyword, keyword di posisi bebas." },
-    { "name": "akhir",
-      "instruction": "Keyword di AKHIR judul. Bagian depan berupa pembuka natural yang menyambung ke keyword (misalnya Sebelum Pesan, Biar Proyek Lancar, Kalau Cari)." }
+    {
+      "name": "awal-mengalir",
+      "instruction": "Keyword di AWAL judul, lalu disambung kata hubung (untuk, buat, yang, dengan, sampai) sehingga judul terbaca sebagai SATU kalimat utuh tanpa tanda baca pemisah."
+    },
+    {
+      "name": "pembuka-ajakan",
+      "instruction": "Diawali satu kata pembuka bernada ajakan atau kebutuhan (misalnya Cari, Butuh, Pilih, Cek, Pesan, Tanya), lalu keyword di TENGAH, lalu penutup singkat yang menyambung."
+    },
+    {
+      "name": "pertanyaan-pembeli",
+      "instruction": "Berbentuk PERTANYAAN yang benar-benar akan diketik calon pembeli, memuat keyword, diakhiri tanda tanya."
+    },
+    {
+      "name": "keunggulan-konkret",
+      "instruction": "Keyword disambung satu keunggulan konkret yang wajar bagi toko material (pengiriman, ketersediaan stok, harga per satuan, kemudahan pesan) tanpa klaim berlebihan dan tanpa slogan. Disusun sebagai satu frasa mengalir."
+    },
+    {
+      "name": "singkat",
+      "instruction": "Singkat dan lugas (maksimal 8 kata): keyword ditambah satu atau dua kata penjelas, tanpa tanda baca pemisah."
+    },
+    {
+      "name": "koma",
+      "instruction": "Boleh memakai SATU tanda koma untuk memisahkan keterangan. Keyword di awal atau tengah; bagian setelah koma berupa keterangan singkat yang spesifik (bukan slogan)."
+    },
+    {
+      "name": "konteks-pembeli",
+      "instruction": "Menyebut konteks pembeli (rumah tinggal, proyek kecil, renovasi, kontraktor, pemilik rumah) bersama keyword, keyword di posisi bebas."
+    },
+    {
+      "name": "akhir",
+      "instruction": "Keyword di AKHIR judul. Bagian depan berupa pembuka natural yang menyambung ke keyword (misalnya Sebelum Pesan, Biar Proyek Lancar, Kalau Cari)."
+    }
   ],
   "infoStyles": [
-    { "name": "awal-mengalir",
-      "instruction": "Keyword di AWAL judul, lalu langsung disambung kata hubung atau frasa (untuk, yang, sebelum, agar, dan) sehingga judul terbaca sebagai SATU kalimat utuh tanpa tanda baca pemisah." },
-    { "name": "tengah",
-      "instruction": "Keyword di TENGAH judul: diawali satu sampai tiga kata pembuka, lalu keyword, lalu penutup yang menyambung secara alami." },
-    { "name": "akhir",
-      "instruction": "Keyword di AKHIR judul. Bagian depan berupa pembuka natural (misalnya Memahami, Seluk-Beluk, Hal-Hal Seputar, Yang Sering Terlewat Soal)." },
-    { "name": "pertanyaan",
-      "instruction": "Berbentuk PERTANYAAN yang memuat keyword, diakhiri tanda tanya, seperti pertanyaan yang benar-benar diajukan pembaca." },
-    { "name": "cara-langkah",
-      "instruction": "Berbentuk Cara, Langkah, atau Tahapan yang memuat keyword. Pakai gaya ini HANYA jika keyword memang menyangkut proses; kalau tidak cocok, pilih gaya mengalir yang paling dekat." },
-    { "name": "pertimbangan",
-      "instruction": "Menekankan hal yang perlu dipertimbangkan sebelum memutuskan atau membeli, dengan keyword di tengah atau akhir judul." },
-    { "name": "kesalahan-umum",
-      "instruction": "Menyoroti kesalahan umum, mitos, atau hal yang sering terlewat terkait keyword. Posisi keyword bebas." },
-    { "name": "singkat",
-      "instruction": "Singkat dan lugas (maksimal 7 kata): keyword ditambah satu atau dua kata penjelas, tanpa tanda baca pemisah." },
-    { "name": "koma",
-      "instruction": "Boleh memakai SATU tanda koma untuk memisahkan keterangan. Keyword di awal atau tengah; bagian setelah koma berupa keterangan singkat yang spesifik (bukan slogan)." },
-    { "name": "alasan",
-      "instruction": "Menonjolkan alasan atau penyebab (Mengapa, Alasan, Kenapa) dengan keyword di tengah judul." },
-    { "name": "konteks-pembaca",
-      "instruction": "Menyebut konteks pembaca (rumah tinggal, proyek kecil, renovasi, pemula, pemilik rumah) bersama keyword di posisi bebas." }
+    {
+      "name": "manfaat-pembeli",
+      "instruction": "Judul menonjolkan manfaat bagi calon pembeli (hemat, tidak salah beli, cepat sampai, tinggal pesan) dengan keyword di AWAL atau TENGAH, disusun sebagai satu kalimat mengalir tanpa tanda baca pemisah."
+    },
+    {
+      "name": "masalah-solusi",
+      "instruction": "Judul menyebut masalah/kebutuhan pembeli lalu mengarahkan ke solusinya, dengan keyword di tengah (misalnya diawali Butuh, Cari, Bingung, Mau, lalu keyword, lalu penutup yang menyambung)."
+    },
+    {
+      "name": "pertanyaan-pembeli",
+      "instruction": "Berbentuk PERTANYAAN dari sudut pandang calon pembeli yang memuat keyword, diakhiri tanda tanya, dan menyiratkan bahwa jawabannya bisa ditanyakan atau dipesan langsung."
+    },
+    {
+      "name": "sebelum-pesan",
+      "instruction": "Menekankan hal yang perlu dicek SEBELUM memesan, dengan keyword di tengah atau akhir judul, bernada membantu pembeli memutuskan."
+    },
+    {
+      "name": "ajakan",
+      "instruction": "Diawali kata ajakan bertindak (Pesan, Tanya, Cek, Pilih, Hitung) lalu keyword, lalu penutup singkat yang menyambung."
+    },
+    {
+      "name": "singkat-menjual",
+      "instruction": "Singkat dan lugas (maksimal 8 kata): keyword ditambah satu atau dua kata yang menjual (mudah, cepat, pas, tepat), tanpa tanda baca pemisah."
+    },
+    {
+      "name": "koma",
+      "instruction": "Boleh memakai SATU tanda koma untuk memisahkan keterangan. Keyword di awal atau tengah; bagian setelah koma berupa manfaat spesifik bagi pembeli (bukan slogan)."
+    },
+    {
+      "name": "konteks-pembeli",
+      "instruction": "Menyebut konteks pembeli (rumah tinggal, proyek kecil, renovasi, kontraktor, pemilik rumah) bersama keyword, dengan nuansa siap dipesan atau dikonsultasikan."
+    }
   ],
   "bannedDisplay": [
-    "Panduan Lengkap", "Solusi (Lengkap/Tepat/Terbaik/Cepat/Praktis/dst.)", "Terlengkap", "Rumah Impian",
-    "Pilihan Tepat untuk Proyek Anda", "Estimasi Biaya", "Update Terbaru", "Berkualitas dan Terpercaya", "Tips dan Trik"
+    "Panduan Lengkap",
+    "Solusi (Lengkap/Tepat/Terbaik/Cepat/Praktis/dst.)",
+    "Terlengkap",
+    "Rumah Impian",
+    "Pilihan Tepat untuk Proyek Anda",
+    "Estimasi Biaya",
+    "Update Terbaru",
+    "Berkualitas dan Terpercaya",
+    "Tips dan Trik",
+    "Update Terkini",
+    "Tips Cerdas ...",
+    "Seluk-Beluk"
   ],
   "bannedRegex": [
-    "panduan lengkap", "solusi\\s+\\w+", "terlengkap", "rumah impian", "pilihan tepat", "kebutuhan anda",
-    "proyek anda", "estimasi biaya", "update terbaru", "terbaik untuk", "berkualitas\\s+(dan|&)\\s+terpercaya",
-    "tips\\s+(dan|&)\\s+trik"
+    "panduan lengkap",
+    "solusi\\s+\\w+",
+    "terlengkap",
+    "rumah impian",
+    "pilihan tepat",
+    "kebutuhan anda",
+    "proyek anda",
+    "estimasi biaya",
+    "update terbaru",
+    "terbaik untuk",
+    "berkualitas\\s+(dan|&)\\s+terpercaya",
+    "tips\\s+(dan|&)\\s+trik",
+    "update terkini",
+    "tips belinya",
+    "tips cerdas",
+    "tips memilih",
+    "seluk[- ]beluk"
   ],
   "rules": "ATURAN JUDUL — WAJIB DIIKUTI (menentukan baris \"JUDUL:\" pada output; situs ini toko/jasa material, BUKAN media berita):\n- Keyword utama \"{{keyword}}\" harus muncul UTUH dan berurutan di dalam judul. Boleh diberi kata sambung atau kata pembuka, tetapi kata-kata keyword tidak boleh diubah, dibuang, atau dipisah.\n- GAYA JUDUL artikel ini: {{titleStyle}}\n- Kalau gaya itu tidak cocok untuk keyword ini (misalnya keyword berupa nama toko atau lokasi), pakai gaya mengalir terdekat, tetap tanpa tanda titik dua.\n- Bila keyword mengandung kata harga/jual/jasa/sewa/biaya dan/atau nama lokasi, kata dan lokasi itu WAJIB tetap ada di judul (itulah yang dicari pembeli).\n- DILARANG memakai tanda titik dua (:), garis tegak (|), atau tanda pisah (-, –, —) sebagai pemisah di judul. Judul harus terbaca sebagai satu kalimat atau frasa utuh, bukan pola \"keyword + slogan\".\n- DILARANG memakai frasa klise: {{banned}}.\n- DILARANG memuat angka tahun apa pun ({{currentYear}} atau tahun lain), meskipun keyword mengandung angka tahun (tulis tanpa angka tahun tersebut).\n- Panjang ideal 40 sampai 62 karakter (maksimal 70, kecuali keyword sendiri panjang). Judul harus terdengar seperti ditulis orang yang paham produknya, bukan slogan iklan. Jangan menjiplak contoh pola; buat kalimat yang baru."
 }
