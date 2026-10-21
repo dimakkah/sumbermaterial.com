@@ -1,7 +1,7 @@
 {
  "version": 2,
  "libVersion": 5,
- "updatedAt": "2026-10-20T14:55:40.830Z",
+ "updatedAt": "2026-10-21T15:01:20.752Z",
  "decisions": {
   "/product/jual-pasir-beton-cimalaka/": {
    "candidates": [
@@ -1984,6 +1984,14 @@
    ],
    "reason": "#1: Sinonim \"tanah urug\" vs \"tanah urugan\", lokasi & maksud sama.",
    "judgedAt": "2026-10-20T14:55:40.829Z"
+  },
+  "/blog/harga-pasir-urug-per-m3/": {
+   "candidates": [
+    "/blog/harga-besi-pondasi-per-batang/"
+   ],
+   "duplicates": [],
+   "reason": "",
+   "judgedAt": "2026-10-21T15:01:20.751Z"
   }
  }
 }
