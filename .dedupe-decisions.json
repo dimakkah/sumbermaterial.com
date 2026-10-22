@@ -1,7 +1,7 @@
 {
  "version": 2,
  "libVersion": 5,
- "updatedAt": "2026-10-21T15:01:20.752Z",
+ "updatedAt": "2026-10-22T15:01:12.982Z",
  "decisions": {
   "/product/jual-pasir-beton-cimalaka/": {
    "candidates": [
@@ -1992,6 +1992,40 @@
    "duplicates": [],
    "reason": "",
    "judgedAt": "2026-10-21T15:01:20.751Z"
+  },
+  "/blog/material-bangunan-terdekat/": {
+   "candidates": [
+    "/blog/toko-kusen-aluminium-terdekat/"
+   ],
+   "duplicates": [],
+   "reason": "",
+   "judgedAt": "2026-10-22T15:01:07.182Z"
+  },
+  "/blog/urugan-sirtu-padat/": {
+   "candidates": [
+    "/blog/harga-sirtu-urug/"
+   ],
+   "duplicates": [
+    "/blog/harga-sirtu-urug/"
+   ],
+   "reason": "#1: Sirtu urug, harga, dan informasi terkait sama persis.",
+   "judgedAt": "2026-10-22T15:01:08.508Z"
+  },
+  "/blog/harga-sirtu-urug/": {
+   "candidates": [
+    "/blog/nama-lain-batu-split/"
+   ],
+   "duplicates": [],
+   "reason": "",
+   "judgedAt": "2026-10-22T15:01:10.693Z"
+  },
+  "/blog/toko-kusen-aluminium-terdekat/": {
+   "candidates": [
+    "/blog/kusen-aluminium-sukabumi/"
+   ],
+   "duplicates": [],
+   "reason": "",
+   "judgedAt": "2026-10-22T15:01:12.980Z"
   }
  }
 }
