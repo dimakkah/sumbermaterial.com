@@ -415,7 +415,9 @@
     "/bangunan/biaya-bangun-rumah-per-meter-di-curugkembar-sukabumi/",
     "/bangunan/biaya-bangun-rumah-per-meter-di-cisalak-pasar-depok/",
     "/bangunan/biaya-bangun-rumah-per-meter-di-curug-serang/",
-    "/bangunan/biaya-bangun-rumah-per-meter-di-curug-tangerang/"
+    "/bangunan/biaya-bangun-rumah-per-meter-di-curug-tangerang/",
+    "/bangunan/biaya-bangun-rumah-per-meter-di-duri-selatan-jakarta/",
+    "/bangunan/biaya-bangun-rumah-per-meter-di-gedong-jakarta/"
   ],
   "failed": {
     "/baja-ringan/harga-pasang-atap-baja-ringan-di-anyar-serang/": 2,
@@ -727,6 +729,20 @@
     "/bangunan/biaya-bangun-rumah-per-meter-di-curug-depok/": 2,
     "/bangunan/biaya-bangun-rumah-per-meter-di-curug-mekar-bogor/": 2,
     "/bangunan/biaya-bangun-rumah-per-meter-di-curug-serang/": 1,
-    "/bangunan/biaya-bangun-rumah-per-meter-di-curug-tangerang/": 1
+    "/bangunan/biaya-bangun-rumah-per-meter-di-curug-tangerang/": 1,
+    "/bangunan/biaya-bangun-rumah-per-meter-di-dukuh-jakarta/": 1,
+    "/bangunan/biaya-bangun-rumah-per-meter-di-duren-sawit-jakarta/": 1,
+    "/bangunan/biaya-bangun-rumah-per-meter-di-duren-tiga-jakarta/": 1,
+    "/bangunan/biaya-bangun-rumah-per-meter-di-duri-kepa-jakarta/": 1,
+    "/bangunan/biaya-bangun-rumah-per-meter-di-duri-kosambi-jakarta/": 1,
+    "/bangunan/biaya-bangun-rumah-per-meter-di-duri-utara-jakarta/": 1,
+    "/bangunan/biaya-bangun-rumah-per-meter-di-duripulo-jakarta/": 1,
+    "/bangunan/biaya-bangun-rumah-per-meter-di-empang-bogor/": 1,
+    "/bangunan/biaya-bangun-rumah-per-meter-di-galaxi-jakarta/": 1,
+    "/bangunan/biaya-bangun-rumah-per-meter-di-galur-jakarta/": 1,
+    "/bangunan/biaya-bangun-rumah-per-meter-di-gambir-jakarta/": 1,
+    "/bangunan/biaya-bangun-rumah-per-meter-di-gandaria-selatan-jakarta/": 1,
+    "/bangunan/biaya-bangun-rumah-per-meter-di-gandaria-utara-jakarta/": 1,
+    "/bangunan/biaya-bangun-rumah-per-meter-di-gandul-depok/": 1
   }
 }
