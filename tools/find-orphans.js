@@ -17,14 +17,15 @@
  *   3. Any article whose URL is NEVER a target anywhere else on the site has an inbound
  *      count of 0 — it's an orphan. (Its own outbound links don't count as inbound to itself.)
  *
- * HOW DONORS ARE MATCHED (non-AI):
- *   For each orphan, tools/lib/related-articles.js's findRelatedCandidates() scores every
- *   OTHER article by significant-word overlap with the orphan's title (same engine already
- *   used for generate/revise internal linking) — reused here in the opposite direction: the
- *   orphan's title becomes the query, and the best-matching existing articles become
- *   candidate donors to inject a link FROM.
+ * HOW DONORS ARE MATCHED (non-AI, v2 — location-aware):
+ *   - Orphan = halaman LOKASI ("Harga X Di Cakung Jakarta"): donor hanya halaman lokasi lain yang
+ *       a) produk SAMA & kota SAMA, kelurahan beda  -> relation 'sibling-area' (kelurahan bertetangga diutamakan), atau
+ *       b) lokasi SAMA, produk berbeda tapi terkait   -> relation 'same-area-related'.
+ *     Kota berbeda (Depok -> Jakarta) TIDAK PERNAH dijadikan donor: pembaca di Depok tidak butuh harga di Cakung.
+ *   - Orphan = artikel non-lokasi: kandidat donor dari findRelatedCandidates() (kecocokan kata topik), lalu fix-orphans.js
+ *     hanya menerima donor bila di dalamnya ada FRASA ASLI yang relevan untuk dijadikan anchor.
  *
- *   Donors already carrying a lot of outbound links (MAX_DONOR_OUTBOUND, default 8) are
+ *   Donors already carrying a lot of outbound links (MAX_DONOR_OUTBOUND, default 4) are
  *   skipped as candidates — this stops any single popular donor from silently accumulating
  *   dozens of inserted links over many weekly runs.
  *
@@ -41,10 +42,11 @@ const fs   = require('fs');
 const path = require('path');
 const { buildArticleIndex, findRelatedCandidates, guessCategoryHint, extractOutboundUrls } =
   require('./lib/related-articles.js');
+const OL = require('./lib/orphan-link.js');   // v2: donor dipilih dengan aturan produk + kota/lokasi (lihat header file itu)
 
 const ARGS = process.argv.slice(2);
 const MIN_SHARED = parseInt((ARGS.find(a => a.startsWith('--min-shared=')) || '').replace('--min-shared=', ''), 10) || 2;
-const MAX_DONOR_OUTBOUND = parseInt((ARGS.find(a => a.startsWith('--max-donor-links=')) || '').replace('--max-donor-links=', ''), 10) || 8;
+const MAX_DONOR_OUTBOUND = parseInt((ARGS.find(a => a.startsWith('--max-donor-links=')) || '').replace('--max-donor-links=', ''), 10) || 4;
 const MAX_DONORS_PER_ORPHAN = 3;
 const DIR_ARG = (ARGS.find(a => a.startsWith('--dir=')) || '--dir=content').replace('--dir=', '');
 
@@ -84,6 +86,17 @@ function main() {
   }
 
   const orphans = index.filter(a => (inboundCount.get(a.url) || 0) === 0);
+
+  // ─── Indeks bantu untuk pencocokan donor halaman lokasi (blocking supaya 13rb artikel tetap cepat) ───
+  const descByUrl = new Map(index.map(a => [a.url, OL.describe(a.title)]));
+  const bySig = new Map(), byLoc = new Map();
+  const push = (m, k, v) => { if (!m.has(k)) m.set(k, []); m.get(k).push(v); };
+  for (const a of index) {
+    const d = descByUrl.get(a.url);
+    if (!d.hasLoc || !d.topicSig) continue;
+    push(bySig, `${d.cityKey}|${d.flagKey}|${d.topicSig}|${d.numKey}`, a);
+    push(byLoc, `${d.cityKey}|${d.flagKey}|${d.locKey}`, a);
+  }
   console.log(`🕸️  ${orphans.length} orphan article(s) found (0 inbound links) out of ${index.length}.\n`);
 
   if (!orphans.length) {
@@ -100,17 +113,40 @@ function main() {
   let processed = 0;
   for (const orphan of orphans) {
     processed++;
-    const categoryHint = guessCategoryHint(orphan.title, knownCategories);
-    const allCandidates = findRelatedCandidates(
-      { text: orphan.title, excludeUrl: orphan.url, categoryHint },
-      index,
-      { max: MAX_DONORS_PER_ORPHAN * 4, minShared: MIN_SHARED } // over-fetch, then filter by outbound cap below
-    );
-
-    const donors = allCandidates
-      .filter(c => (outboundCount.get(c.url) || 0) < MAX_DONOR_OUTBOUND)
-      .slice(0, MAX_DONORS_PER_ORPHAN)
-      .map(c => ({ url: c.url, title: c.title, excerpt: c.excerpt }));
+    const od = descByUrl.get(orphan.url);
+    let donors;
+    if (od.hasLoc && od.topicSig) {
+      // Halaman lokasi: donor hanya yang sepadan secara produk + kota/lokasi (lihat OL.relation).
+      const pool = [
+        ...(bySig.get(`${od.cityKey}|${od.flagKey}|${od.topicSig}|${od.numKey}`) || []),
+        ...(byLoc.get(`${od.cityKey}|${od.flagKey}|${od.locKey}`) || []),
+      ];
+      const seen = new Set();
+      donors = pool
+        .filter(a => a.url !== orphan.url && !seen.has(a.url) && seen.add(a.url) && (outboundCount.get(a.url) || 0) < MAX_DONOR_OUTBOUND)
+        .map(a => ({ a, rel: OL.relation(od, descByUrl.get(a.url)) }))
+        .filter(x => x.rel)
+        .map(x => {
+          const dd = descByUrl.get(x.a.url);
+          const nearLoc = [...od.loc].filter(t => dd.loc.has(t)).length;          // "Cakung" ~ "Cakung Barat": tetangga lebih relevan
+          const inb = inboundCount.get(x.a.url) || 0;
+          return { ...x, rank: x.rel.type === 'sibling-area' ? 10 + nearLoc * 5 + Math.min(inb, 3) : 4 + x.rel.sim * 5 };
+        })
+        .sort((p, q) => q.rank - p.rank || OL.hash(orphan.url + p.a.url) - OL.hash(orphan.url + q.a.url))
+        .slice(0, MAX_DONORS_PER_ORPHAN)
+        .map(x => ({ url: x.a.url, title: x.a.title, relation: x.rel.type, excerpt: x.a.excerpt }));
+    } else {
+      const categoryHint = guessCategoryHint(orphan.title, knownCategories);
+      const allCandidates = findRelatedCandidates(
+        { text: orphan.title, excludeUrl: orphan.url, categoryHint },
+        index,
+        { max: MAX_DONORS_PER_ORPHAN * 4, minShared: MIN_SHARED } // over-fetch, then filter by outbound cap below
+      );
+      donors = allCandidates
+        .filter(c => (outboundCount.get(c.url) || 0) < MAX_DONOR_OUTBOUND)
+        .slice(0, MAX_DONORS_PER_ORPHAN)
+        .map(c => ({ url: c.url, title: c.title, relation: 'topik', excerpt: c.excerpt }));
+    }
 
     results.push({
       url: orphan.url,
@@ -120,7 +156,7 @@ function main() {
       donors,
     });
 
-    process.stdout.write(`\r   ${processed}/${orphans.length} orphans matched, ${results.filter(r => r.donors.length).length} have at least 1 donor candidate...   `);
+    if (processed % 500 === 0 || processed === orphans.length) process.stdout.write(`\r   ${processed}/${orphans.length} orphans matched...   `);
   }
   console.log(`\n\n🔗 Completed in ${fmtDuration(Date.now() - t0)}.\n`);
 

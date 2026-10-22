@@ -58,6 +58,10 @@ const MAX_DELETE = parseInt(arg('max-delete', '40'), 10);
 const MAX_CLUSTER = parseInt(arg('max-cluster', '8'), 10);
 const MAX_DELETE_PCT = parseFloat(arg('max-delete-pct', '10'));
 const MAX_CANDIDATES = 7;
+// Section "artikel utama" (default: product). Artikelnya TIDAK PERNAH dihapus/digabung sebagai korban, dan bila mirip dengan
+// artikel section lain, yang dipertahankan adalah artikel utama. Dua artikel utama tidak dibandingkan satu sama lain.
+const MAIN_SECTIONS = new Set(arg('main-sections', 'product').split(',').map(x => x.trim()).filter(Boolean));
+const sectionOf = url => url.split('/')[1] || '';
 // Ambang kandidat untuk AI. Halaman tanpa lokasi (blog/product/info umum) pakai ambang longgar; halaman programatik
 // per-kelurahan pakai ambang ketat — ada ribuan "saudara" berpola sama (harga-X-ke-<kelurahan>) yang jelas bukan
 // duplikat dan hanya menghabiskan kuota Workers AI.
@@ -180,6 +184,7 @@ for (const file of SECTIONS.flatMap(sec => walk(path.join(CONTENT, sec)))) {
   const slug = path.basename(file, '.md');
   articles.push({
     file, slug, url: toUrl(file), title: p.title, keyword: p.keyword, date: p.date || '9999',
+    main: MAIN_SECTIONS.has(sectionOf(toUrl(file))),
     words: p.body.trim().split(/\s+/).length, body: p.body, inbound: 0,
     excerpt: J.excerptOf(p.body), info: KS.analyzeArticle({ keyword: p.keyword, title: p.title, slug }),
   });
@@ -194,7 +199,7 @@ for (const a of articles) {
   }
 }
 // Urutan "terbaik dulu": inbound link terbanyak → isi terpanjang → tanggal terlama. Yang pertama jadi PEMENANG.
-const ranked = [...articles].sort((a, b) => b.inbound - a.inbound || b.words - a.words || (a.date < b.date ? -1 : a.date > b.date ? 1 : 0));
+const ranked = [...articles].sort((a, b) => (b.main - a.main) || b.inbound - a.inbound || b.words - a.words || (a.date < b.date ? -1 : a.date > b.date ? 1 : 0));
 
 // Indeks token → artikel, supaya pencarian kandidat tidak O(n²) (situs ini 13 ribu+ artikel).
 // Hanya kata SPESIFIK (bobot 1) yang diindeks; kata generik saja (pasir, besi, jakarta, ...) tidak cukup jadi kandidat
@@ -252,7 +257,7 @@ function candidatesFor(seed, used) {
   const pool = new Map();
   const minScore = (seed.info.kw.loc.size || seed.info.kw.cities.size || seed.info.kw.dirs.size) ? MIN_CAND_SCORE_LOCAL : MIN_CAND_SCORE;
   const toks = seed._spec.size ? seed._spec : new Set([...seed.info.kw.topic.keys(), ...seed.info.tt.topic.keys()]);
-  for (const t of toks) for (const o of tokenIndex.get(t) || []) if (o !== seed && !used.has(o.url)) pool.set(o.url, o);
+  for (const t of toks) for (const o of tokenIndex.get(t) || []) if (o !== seed && !used.has(o.url) && !(seed.main && o.main)) pool.set(o.url, o);
   return [...pool.values()]
     .map(o => ({ o, s: Math.max(KS.candidateScore(seed.info.kw, o.info.kw), KS.candidateScore(seed.info.tt, o.info.tt)) }))
     .filter(x => x.s >= minScore).sort((a, b) => b.s - a.s).slice(0, MAX_CANDIDATES).map(x => x.o);
@@ -327,6 +332,7 @@ async function main() {
     for (const u of d.duplicates || []) {
       const o = byUrl.get(u);
       if (!o || used.has(o.url)) continue;
+      if (o.main) continue;                                                                                      // artikel utama (product) tidak pernah dihapus
       if (protectedUrls.has(o.url)) continue;                                                                    // dilindungi manual
       if (forced.has(o.url) && forced.get(o.url) !== seed.url) continue;                                         // sudah ditetapkan manual ke pemenang lain
       if (KS.hardConflict(seed.info.kw, o.info.kw)) { vetoed.push({ keep: seed.url, drop: o.url }); continue; } // veto script
@@ -341,6 +347,7 @@ async function main() {
   for (const [lu, wu] of forced) {
     const L = byUrl.get(lu), W = byUrl.get(wu);
     const skip = m => warn(`penggabungan manual dilewati: ${lu} > ${wu} — ${m}`);
+    if (L && L.main) { skip(`korban adalah artikel utama (section ${[...MAIN_SECTIONS].join('/')}) — tidak boleh dihapus`); continue; }
     if (protectedUrls.has(lu)) { skip('korban ada di .dedupe-protect.txt'); continue; }
     if (allClusters.some(c => c.losers.some(x => x.url === wu))) { skip('pemenang sendiri akan dihapus di kelompok lain'); continue; }
     if (allClusters.some(c => c.winner.url === lu)) { skip('korban adalah pemenang kelompok lain — selesaikan manual'); continue; }
