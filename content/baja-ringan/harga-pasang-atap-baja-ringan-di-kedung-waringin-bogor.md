@@ -96,4 +96,4 @@ Berikut informasi rinci mengenai biaya layanan pemasangan baja ringan yang perlu
 *   Biaya layanan pemasangan baja ringan dapat berubah sewaktu-waktu karena fluktuasi harga material.
 *   Pembayaran dapat dilakukan dengan sistem *down payment* dan sisanya setelah pemasangan selesai.
 
-Sekian informasi mengenai Harga Pasang Atap Baja Ringan Di Kedung Waringin Bogor. Jangan ragu untuk menghubungi kami untuk konsultasi gratis dan penawaran terbaik! Kami siap membantu Anda mewujudkan atap dan kanopi impian Anda di Kedung Waringin Bogor. [Hubungi Kami Sekarang](/[URL_KONTAK]) untuk mendapatkan penawaran spesial!
+Sekian informasi mengenai Harga Pasang Atap Baja Ringan Di Kedung Waringin Bogor. Jangan ragu untuk menghubungi kami untuk konsultasi gratis dan penawaran terbaik! Kami siap membantu Anda mewujudkan atap dan kanopi impian Anda di Kedung Waringin Bogor. Hubungi Kami Sekarang untuk mendapatkan penawaran spesial!
