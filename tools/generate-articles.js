@@ -32,6 +32,7 @@ const crypto = require('crypto');
 // edited without touching code. Variables are injected via {{placeholder}} tokens, filled
 // in by renderTemplate() below.
 const PROMPTS = require('./prompts/generate-articles.json');
+const ContactLink = require('./lib/contact-link.js');
 
 // NON-AI internal-link candidate selection (buildArticleIndex/findRelatedCandidates) and the
 // post-generation internal-link safety net (enforceInternalLinks) — see file header comments
@@ -1471,6 +1472,12 @@ function parseAndSave(raw, keyword, slug, imagePath, greeting, relatedCandidates
   // real candidate URL (max 2); any other link syntax the AI wrote is demoted to plain text.
   const linkResult = resolveLinkTokens(body, relatedCandidates, 2);
   body = linkResult.text;
+  // Link KONTAK ditulis script: token [[KONTAK|teks]] -> URL resmi (hugo.toml); link placeholder (mis. /[URL_KONTAK]) diperbaiki/dibuang.
+  const contactResult = ContactLink.applyContactLinks(body);
+  body = contactResult.text;
+  if (contactResult.created || contactResult.repaired || contactResult.demoted) {
+    console.log(`   📞 Link kontak oleh script: ${contactResult.created} dibuat, ${contactResult.repaired} diperbaiki, ${contactResult.demoted} dijadikan teks`);
+  }
   const brokenResult = stripBrokenLinks(body);
   body = brokenResult.text;
   console.log(`   🔗 Internal links added by script: ${linkResult.resolved}` +
@@ -1589,6 +1596,7 @@ function validateArticle(filePath) {
 
   // Internal links are already hard-capped at 2 by enforceInternalLinks() before this file
   // was written — this is just a visibility check in case that logic is ever bypassed.
+  issues.push(...ContactLink.contactIssues(bodyOnly).map(i => `❌ ${i}`));
   const internalLinkCount = (bodyOnly.match(/(?<!!)\[[^\]]+\]\(\/[^)\s]+\/\)/g) || []).length;
   if (internalLinkCount > 2) issues.push(`❌ ${internalLinkCount} internal link ditemukan (maksimal 2) — periksa enforceInternalLinks()`);
 

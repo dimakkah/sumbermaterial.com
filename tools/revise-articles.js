@@ -62,6 +62,7 @@ const {
   resolveLinkTokens,
   stripBrokenLinks,
 } = require('./lib/related-articles.js');
+const ContactLink = require('./lib/contact-link.js');
 
 // Deterministic, crash-proof Markdown table rendering — see lib/safe-table.js.
 const { renderSafeTables, hasLeftoverTableMarkers } = require('./lib/safe-table.js');
@@ -438,6 +439,7 @@ function validatePlaceholders(revisedProtected, placeholders) {
 
 function validateFinalContent(original, revisedContent, location) {
   const issues = [];
+  issues.push(...ContactLink.contactIssues(revisedContent));   // placeholder/token kontak sisa = tolak
   if (location && !revisedContent.toLowerCase().includes(location.toLowerCase())) {
     issues.push(`Location name "${location}" not found in revised output`);
   }
@@ -557,6 +559,13 @@ async function main() {
       // wrote is demoted to plain text. See resolveLinkTokens() in lib/related-articles.js.
       const linkResult = resolveLinkTokens(revisedProtected, relatedCandidates, 2);
       let revisedContent = stripTrailingMarker(restoreStructure(linkResult.text, placeholders));
+      // Link KONTAK ditulis script (lihat lib/contact-link.js); dijalankan SETELAH restoreStructure agar placeholder
+      // lama yang ikut terlindungi (mis. /[URL_KONTAK]) juga diperbaiki.
+      const contactResult = ContactLink.applyContactLinks(revisedContent);
+      revisedContent = contactResult.text;
+      if (contactResult.created || contactResult.repaired || contactResult.demoted) {
+        log(`   📞 Link kontak oleh script: ${contactResult.created} dibuat, ${contactResult.repaired} diperbaiki, ${contactResult.demoted} dijadikan teks`);
+      }
 
       // Turn any [[TABEL_MULAI]]...[[TABEL_SELESAI]] block into a guaranteed-valid Markdown
       // table (lib/safe-table.js). Internal links were already resolved by script above (link tokens

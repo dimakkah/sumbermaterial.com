@@ -266,7 +266,9 @@ function isValidLinkTarget(target) {
   const t = (target || '').trim().split(/\s+/)[0] || ''; // ignore an optional "title" part
   if (!t) return false;
   if (/^(https?:\/\/|mailto:|tel:)\S+$/i.test(t)) return true;
-  if (/^\/\S*$/.test(t)) return true;
+  // Path situs: hanya karakter URL normal. Placeholder seperti "/[URL_KONTAK]", "/{{x}}", atau segmen HURUF-BESAR
+  // ("/URL_KONTAK") BUKAN link valid (situs ini selalu memakai path huruf kecil).
+  if (/^\/[^\s\[\]{}<>|\\^`"']*$/.test(t) && !/(^|\/)[A-Z][A-Z_]{3,}(\/|$)/.test(t)) return true;
   if (/^#\S+$/.test(t)) return true;
   return false;
 }
