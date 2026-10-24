@@ -419,7 +419,12 @@
     "/bangunan/biaya-bangun-rumah-per-meter-di-duri-selatan-jakarta/",
     "/bangunan/biaya-bangun-rumah-per-meter-di-gedong-jakarta/",
     "/bangunan/biaya-bangun-rumah-per-meter-di-gambir-jakarta/",
-    "/bangunan/biaya-bangun-rumah-per-meter-di-gandaria-utara-jakarta/"
+    "/bangunan/biaya-bangun-rumah-per-meter-di-gandaria-utara-jakarta/",
+    "/bangunan/biaya-bangun-rumah-per-meter-di-gandul-depok/",
+    "/bangunan/biaya-bangun-rumah-per-meter-di-gelora-jakarta/",
+    "/bangunan/biaya-bangun-rumah-per-meter-di-gunung-sahari-selatan-jakarta/",
+    "/bangunan/biaya-bangun-rumah-per-meter-di-harjasari-bogor/",
+    "/bangunan/biaya-bangun-rumah-per-meter-di-jambe-tangerang/"
   ],
   "failed": {
     "/baja-ringan/harga-pasang-atap-baja-ringan-di-anyar-serang/": 2,
@@ -745,6 +750,16 @@
     "/bangunan/biaya-bangun-rumah-per-meter-di-gambir-jakarta/": 1,
     "/bangunan/biaya-bangun-rumah-per-meter-di-gandaria-selatan-jakarta/": 2,
     "/bangunan/biaya-bangun-rumah-per-meter-di-gandaria-utara-jakarta/": 1,
-    "/bangunan/biaya-bangun-rumah-per-meter-di-gandul-depok/": 1
+    "/bangunan/biaya-bangun-rumah-per-meter-di-gandul-depok/": 1,
+    "/bangunan/biaya-bangun-rumah-per-meter-di-gegerbitung-sukabumi/": 1,
+    "/bangunan/biaya-bangun-rumah-per-meter-di-genteng-bogor/": 1,
+    "/bangunan/biaya-bangun-rumah-per-meter-di-glodok-jakarta/": 1,
+    "/bangunan/biaya-bangun-rumah-per-meter-di-grogol-depok/": 1,
+    "/bangunan/biaya-bangun-rumah-per-meter-di-grogol-jakarta/": 1,
+    "/bangunan/biaya-bangun-rumah-per-meter-di-gudang-bogor/": 1,
+    "/bangunan/biaya-bangun-rumah-per-meter-di-guntur-jakarta/": 1,
+    "/bangunan/biaya-bangun-rumah-per-meter-di-gunung-jakarta/": 1,
+    "/bangunan/biaya-bangun-rumah-per-meter-di-gunung-sahari-jakarta/": 1,
+    "/bangunan/biaya-bangun-rumah-per-meter-di-gunungkencana-rangkasbitung/": 1
   }
 }
