@@ -24,7 +24,7 @@ Penting sekali untuk memilih supplier hebel yang tepat, Mitra. Kualitas hebel ya
 
 Sebelum memutuskan pabrik hebel Bekasi mana yang akan Anda gunakan, ada beberapa hal yang perlu dipertimbangkan. Pertama, tentukan kebutuhan ukuran hebel yang sesuai dengan desain bangunan Anda. Hebel tersedia dalam berbagai ketebalan, mulai dari 7 cm, 10 cm, hingga 12.5 cm. Ketebalan ini akan memengaruhi kekuatan dan kemampuan insulasi termal hebel tersebut. 
 
-Kedua, perhatikan kekuatan tekan hebel. Semakin tinggi kekuatan tekan, semakin kuat hebel menahan beban. Untuk dinding, hebel dengan kekuatan tekan minimal 3.5 MPa sudah cukup baik. Namun, untuk struktur yang membutuhkan kekuatan lebih tinggi, pilihlah hebel dengan kekuatan tekan 5 MPa atau lebih. Jangan ragu untuk konsultasi dengan Kami, ya, agar Kami bisa bantu memilih jenis hebel yang paling cocok untuk proyek Anda. [tanyakan harga lewat WhatsApp](https://api.whatsapp.com/send?phone=6285776786091&text=*Halo sumbermaterial.com*%20%3A)
+Kedua, perhatikan kekuatan tekan hebel. Semakin tinggi kekuatan tekan, semakin kuat hebel menahan beban. Untuk dinding, hebel dengan kekuatan tekan minimal 3.5 MPa sudah cukup baik. Namun, untuk struktur yang membutuhkan kekuatan lebih tinggi, pilihlah hebel dengan kekuatan tekan 5 MPa atau lebih. Jangan ragu untuk konsultasi dengan Kami, ya, agar Kami bisa bantu memilih jenis hebel yang paling cocok untuk proyek Anda. [tanyakan harga lewat WhatsApp](https://api.whatsapp.com/send?phone=6285776786091&text=*Halo%20sumbermaterial.com*%20%3A)
 
 ## Solusi Hebel Berkualitas dari Sumber Material
 

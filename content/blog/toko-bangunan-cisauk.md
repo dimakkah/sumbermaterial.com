@@ -50,7 +50,7 @@ Ada beberapa alasan mengapa Mitra Sumber Material harus memilih Kami sebagai sup
 *   **Konsultasi Gratis:** Tim ahli Kami siap membantu Anda memilih material yang tepat sesuai kebutuhan proyek Anda.
 *   **Stok Banyak:** Kami selalu memastikan ketersediaan stok yang cukup untuk memenuhi kebutuhan proyek Anda.
 
-[tanyakan harga lewat WhatsApp](https://api.whatsapp.com/send?phone=6285776786091&text=*Halo sumbermaterial.com*%20%3A)
+[tanyakan harga lewat WhatsApp](https://api.whatsapp.com/send?phone=6285776786091&text=*Halo%20sumbermaterial.com*%20%3A)
 
 ### Pesan Material Bangunan dengan Mudah
 

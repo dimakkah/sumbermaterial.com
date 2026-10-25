@@ -27,7 +27,7 @@ Banyak kontraktor atau pemilik rumah yang akhirnya memesan hebel terlalu banyak 
 
 Sebelum menghitung jumlah hebel yang dibutuhkan, penting untuk memahami dimensi standar hebel yang tersedia di pasaran. Hebel ukuran 7 cm umumnya memiliki panjang 39 cm dan lebar 30 cm. Dengan ukuran ini, satu balok hebel akan memiliki volume sekitar 0,0117 kubik (39 cm x 30 cm x 7 cm = 8.190 cm³ = 0,00819 m³). 
 
-Sekarang, untuk menjawab pertanyaan "hebel ukuran 7 cm 1 kubik isi berapa?", maka satu kubik hebel akan berisi sekitar 85 balok (1 m³ / 0,0117 m³ per balok ≈ 85 balok). Angka ini bisa sedikit berbeda tergantung pada kerapatan dan presisi produksi dari pabrik hebel. Itulah sebabnya, Kami selalu menyarankan untuk sedikit memperhitungkan kelebihan material, sekitar 5-10%, untuk mengantisipasi pemotongan dan limbah selama proses pemasangan. [tanyakan harga lewat WhatsApp](https://api.whatsapp.com/send?phone=6285776786091&text=*Halo sumbermaterial.com*%20%3A)
+Sekarang, untuk menjawab pertanyaan "hebel ukuran 7 cm 1 kubik isi berapa?", maka satu kubik hebel akan berisi sekitar 85 balok (1 m³ / 0,0117 m³ per balok ≈ 85 balok). Angka ini bisa sedikit berbeda tergantung pada kerapatan dan presisi produksi dari pabrik hebel. Itulah sebabnya, Kami selalu menyarankan untuk sedikit memperhitungkan kelebihan material, sekitar 5-10%, untuk mengantisipasi pemotongan dan limbah selama proses pemasangan. [tanyakan harga lewat WhatsApp](https://api.whatsapp.com/send?phone=6285776786091&text=*Halo%20sumbermaterial.com*%20%3A)
 
 ## Pilihan Hebel 7 cm di Sumber Material: Kualitas dan Ukuran Terjamin
 

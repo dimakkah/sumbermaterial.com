@@ -26,7 +26,7 @@ Sirdam, atau singkatan dari pasir urug dan dam, merupakan material konstruksi ya
 
 ## Memahami Harga Sirdam Per M3: Apa Saja yang Mempengaruhi?
 
-Mitra Sumber Material, harga sirdam per m3 tidaklah statis. Ada beberapa faktor penting yang memengaruhi fluktuasi harga material ini. Pertama dan yang paling utama adalah **lokasi**. Semakin jauh lokasi pengiriman dari sumber material, tentu saja biaya transportasi akan semakin tinggi, dan ini akan tercermin pada harga jual. Sebagai contoh, [Harga Urugan Sirdam Free Ongkir Ke Balumbang Jaya Bogor](https://sumbermaterial.com/info-urugan/harga-urugan-sirdam-free-ongkir-ke-balumbang-jaya-bogor/) mungkin memiliki harga yang berbeda dengan harga di Jakarta.
+Mitra Sumber Material, harga sirdam per m3 tidaklah statis. Ada beberapa faktor penting yang memengaruhi fluktuasi harga material ini. Pertama dan yang paling utama adalah **lokasi**. Semakin jauh lokasi pengiriman dari sumber material, tentu saja biaya transportasi akan semakin tinggi, dan ini akan tercermin pada harga jual. Sebagai contoh, [Harga Urugan Sirdam Free Ongkir Ke Balumbang Jaya Bogor](/info-urugan/harga-urugan-sirdam-free-ongkir-ke-balumbang-jaya-bogor/) mungkin memiliki harga yang berbeda dengan harga di Jakarta.
 
 Faktor lainnya adalah **kualitas sirdam**. Sirdam dengan kualitas lebih baik, misalnya yang memiliki kandungan lumpur lebih sedikit dan ukuran butir yang seragam, biasanya akan dijual dengan harga yang lebih tinggi. Selain itu, **permintaan dan penawaran pasar** juga berperan penting. Saat permintaan tinggi dan pasokan terbatas, harga cenderung naik, dan sebaliknya. Terakhir, kondisi ekonomi secara umum, seperti inflasi dan fluktuasi nilai tukar mata uang, juga dapat memengaruhi harga sirdam.
 
