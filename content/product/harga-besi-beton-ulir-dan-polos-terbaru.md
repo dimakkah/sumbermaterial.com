@@ -1,6 +1,7 @@
 ---
 title: "Harga Besi Beton Ulir dan Polos Terbaru"
 date: "2024-06-19"
+lastmod: "2026-10-25"
 type: "product"
 description: "Harga Besi Beton Ulir dan Polos Terbaru. Harga kami juga kompetitip, anda boleh membandingkannya dengan distributor besi yang lain. Kami juga menerapkan sistem pembayaran yang aman dan menguntungkan, karena kami menggunakan sistem pembayaran dimuka"
 ---

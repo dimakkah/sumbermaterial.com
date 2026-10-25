@@ -1,6 +1,7 @@
 ---
 title: "Harga Bata Merah Oven Gratis Ongkir Ke Sukmajaya Depok"
 date: "2024-07-17"
+lastmod: "2026-10-25"
 categories: 
   - "bata"
 type: "product"

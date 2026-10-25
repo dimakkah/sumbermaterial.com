@@ -1,6 +1,7 @@
 ---
 title: "Harga Kusen Alumunium Per Meter Di Pegangsaan Jakarta"
 date: "2024-06-29"
+lastmod: "2026-10-25"
 categories: 
   - "kusen"
 type: "service"

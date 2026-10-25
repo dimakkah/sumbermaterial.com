@@ -1,6 +1,7 @@
 ---
 title: "Jasa Pengaspalan Jalan Hotmix Di Tarumajaya Bekasi"
 date: "2024-10-13"
+lastmod: "2026-10-25"
 categories: 
   - "hotmix"
 description: "Jasa Pengaspalan Jalan Hotmix Di Tarumajaya Bekasi. Kami yaitu jasa yang berada dalam bidang pembuatan jalan aspal juga lapangan hotmix, parkiran, lantai asp..."

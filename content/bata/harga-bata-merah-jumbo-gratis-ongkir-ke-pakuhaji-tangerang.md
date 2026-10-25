@@ -1,6 +1,7 @@
 ---
 title: "Harga Bata Merah Jumbo Gratis Ongkir Ke Pakuhaji Tangerang"
 date: "2024-07-15"
+lastmod: "2026-10-25"
 categories: 
   - "bata"
 type: "product"

@@ -1,7 +1,7 @@
 ---
 title: "Harga Pasang Atap Baja Ringan Di Pabaton Bogor"
 date: "2022-10-04"
-lastmod: "2026-09-21"
+lastmod: "2026-10-25"
 categories: 
   - "baja-ringan"
 type: "service"

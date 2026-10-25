@@ -1,6 +1,7 @@
 ---
 title: "Harga Cor Ready Mix K350 Per m3 Di Kukusan Depok"
 date: "2024-08-24"
+lastmod: "2026-10-25"
 categories: 
   - "readymix"
 type: "product"

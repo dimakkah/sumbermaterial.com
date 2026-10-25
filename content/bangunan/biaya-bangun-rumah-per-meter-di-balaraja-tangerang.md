@@ -1,7 +1,7 @@
 ---
 title: "Biaya Bangun Rumah Per Meter Di Balaraja Tangerang"
 date: "2022-12-08"
-lastmod: "2026-10-07"
+lastmod: "2026-10-25"
 categories: 
   - "bangunan"
 type: "service"

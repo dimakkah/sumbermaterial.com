@@ -1,6 +1,7 @@
 ---
 title: "Harga Beton Ready Mix Per m3 Kirim Ke Pondok Salam Purwakarta"
 date: "2024-08-07"
+lastmod: "2026-10-25"
 categories: 
   - "readymix"
 type: "product"

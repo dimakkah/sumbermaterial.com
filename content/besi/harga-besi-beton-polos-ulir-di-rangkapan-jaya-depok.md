@@ -1,6 +1,7 @@
 ---
 title: "Harga Besi Beton Polos & Ulir Di Rangkapan Jaya Depok"
 date: "2024-03-23"
+lastmod: "2026-10-25"
 categories: 
   - "besi"
 type: "product"

@@ -1,6 +1,7 @@
 ---
 title: "Jual Batu Besar Gratis Ongkir Ke Margajaya Bogor"
 date: "2024-01-31"
+lastmod: "2026-10-25"
 categories: 
   - "batu"
 type: "product"

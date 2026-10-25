@@ -1,6 +1,7 @@
 ---
 title: "Jasa Pembuatan Pagar Rumah Di Medan Satria Bekasi"
 date: "2022-08-14"
+lastmod: "2026-10-25"
 categories: 
   - "pagar"
 type: "service"

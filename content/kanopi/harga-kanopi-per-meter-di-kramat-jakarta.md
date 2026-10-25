@@ -1,6 +1,7 @@
 ---
 title: "Harga Kanopi Per Meter Di Kramat Jakarta"
 date: "2022-06-25"
+lastmod: "2026-10-25"
 categories: 
   - "kanopi"
 type: "service"

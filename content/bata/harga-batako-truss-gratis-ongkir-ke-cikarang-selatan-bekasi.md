@@ -1,6 +1,7 @@
 ---
 title: "Harga Batako Truss Gratis Ongkir Ke Cikarang Selatan Bekasi"
 date: "2024-09-09"
+lastmod: "2026-10-25"
 categories: 
   - "bata"
 type: "product"

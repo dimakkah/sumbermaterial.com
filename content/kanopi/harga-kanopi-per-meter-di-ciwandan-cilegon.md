@@ -1,6 +1,7 @@
 ---
 title: "Harga Kanopi Per Meter Di Ciwandan Cilegon"
 date: "2024-03-13"
+lastmod: "2026-10-25"
 categories: 
   - "kanopi"
 type: "service"

@@ -1,6 +1,7 @@
 ---
 title: "Harga Besi Beton Polos & Ulir Di Cisoka Tangerang"
 date: "2024-08-19"
+lastmod: "2026-10-25"
 categories: 
   - "besi"
 type: "product"

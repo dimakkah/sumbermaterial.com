@@ -1,7 +1,7 @@
 ---
 title: "Biaya Bangun Rumah Per Meter Di Batu Ampar Jakarta"
 date: "2024-01-31"
-lastmod: "2026-10-07"
+lastmod: "2026-10-25"
 categories: 
   - "bangunan"
 type: "service"

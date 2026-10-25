@@ -1,6 +1,7 @@
 ---
 title: "Harga Kanopi Per Meter Di Kebayoran Lama Jakarta"
 date: "2024-04-21"
+lastmod: "2026-10-25"
 categories: 
   - "kanopi"
 type: "service"

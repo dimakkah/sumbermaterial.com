@@ -1,6 +1,7 @@
 ---
 title: "Biaya Bangun Rumah Per Meter Di Jembatan Lima Jakarta"
 date: "2024-03-01"
+lastmod: "2026-10-25"
 categories: 
   - "bangunan"
 type: "service"

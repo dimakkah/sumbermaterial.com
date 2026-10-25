@@ -1,6 +1,7 @@
 ---
 title: "Harga Pasang Atap Baja Ringan Di Cikaret Bogor"
 date: "2022-01-24"
+lastmod: "2026-10-25"
 categories: 
   - "baja-ringan"
 type: "service"

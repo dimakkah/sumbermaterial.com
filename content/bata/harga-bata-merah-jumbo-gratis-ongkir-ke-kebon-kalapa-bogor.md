@@ -1,6 +1,7 @@
 ---
 title: "Harga Bata Merah Jumbo Gratis Ongkir Ke Kebon Kalapa Bogor"
 date: "2024-09-21"
+lastmod: "2026-10-25"
 categories: 
   - "bata"
 type: "product"

@@ -1,6 +1,7 @@
 ---
 title: "Jasa Pengaspalan Jalan Hotmix Di Karawang Barat Karawang"
 date: "2022-12-04"
+lastmod: "2026-10-25"
 categories: 
   - "hotmix"
 description: "Jasa Pengaspalan Jalan Hotmix Di Karawang Barat Karawang. Kami adalah jasa yang berada dalam bidang pembuatan jalan hotmix juga lapangan hotmix, parkiran, la..."

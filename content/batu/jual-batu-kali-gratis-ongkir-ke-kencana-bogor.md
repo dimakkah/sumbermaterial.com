@@ -1,6 +1,7 @@
 ---
 title: "Jual Batu Kali Gratis Ongkir Ke Kencana Bogor"
 date: "2024-08-02"
+lastmod: "2026-10-25"
 categories: 
   - "batu"
 type: "product"

@@ -1,6 +1,7 @@
 ---
 title: "Harga Batako 3 Lubang Gratis Ongkir Ke Sukatani Depok"
 date: "2024-09-21"
+lastmod: "2026-10-25"
 categories: 
   - "bata"
 type: "product"

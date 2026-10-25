@@ -1,7 +1,7 @@
 ---
 title: "Harga Pasang Atap Baja Ringan Di Telukjambe Barat Karawang"
 date: "2022-02-23"
-lastmod: "2026-10-04"
+lastmod: "2026-10-25"
 categories: 
   - "baja-ringan"
 type: "service"

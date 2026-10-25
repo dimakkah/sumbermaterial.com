@@ -1,6 +1,7 @@
 ---
 title: "Jual Batu Border Gratis Ongkir Ke Cikaret Bogor"
 date: "2024-02-24"
+lastmod: "2026-10-25"
 categories: 
   - "batu"
 type: "product"

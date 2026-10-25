@@ -1,6 +1,7 @@
 ---
 title: "Jasa Las Pagar Dan Kanopi Di Kembangan Barat Jakarta"
 date: "2024-09-03"
+lastmod: "2026-10-25"
 categories: 
   - "bengkel"
 type: "service"

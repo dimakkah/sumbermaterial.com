@@ -1,6 +1,7 @@
 ---
 title: "Harga Kanopi Per Meter Di Cengkareng Barat Jakarta"
 date: "2022-01-24"
+lastmod: "2026-10-25"
 categories: 
   - "kanopi"
 type: "service"

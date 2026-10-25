@@ -1,6 +1,7 @@
 ---
 title: "Biaya Bangun Rumah Per Meter Di Bojongsari Baru Depok"
 date: "2024-05-01"
+lastmod: "2026-10-25"
 categories: 
   - "bangunan"
 type: "service"

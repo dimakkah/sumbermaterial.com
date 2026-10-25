@@ -1,6 +1,7 @@
 ---
 title: "Harga Cor Ready Mix K300 Per m3 Di Pangkalan Jati Depok"
 date: "2024-07-30"
+lastmod: "2026-10-25"
 categories: 
   - "readymix"
 type: "product"

@@ -1,6 +1,7 @@
 ---
 title: "Harga Besi Beton Per Batang Kirim Ke Bojongmanik Rangkasbitung"
 date: "2024-02-24"
+lastmod: "2026-10-25"
 categories: 
   - "besi"
 type: "product"

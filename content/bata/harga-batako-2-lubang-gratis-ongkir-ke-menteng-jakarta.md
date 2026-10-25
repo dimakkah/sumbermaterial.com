@@ -1,6 +1,7 @@
 ---
 title: "Harga Batako 2 Lubang Gratis Ongkir Ke Menteng Jakarta"
 date: "2024-06-28"
+lastmod: "2026-10-25"
 categories: 
   - "bata"
 type: "product"

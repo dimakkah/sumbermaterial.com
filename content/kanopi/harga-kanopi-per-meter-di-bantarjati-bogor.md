@@ -1,6 +1,7 @@
 ---
 title: "Harga Kanopi Per Meter Di Bantarjati Bogor"
 date: "2022-05-31"
+lastmod: "2026-10-25"
 categories: 
   - "kanopi"
 type: "service"

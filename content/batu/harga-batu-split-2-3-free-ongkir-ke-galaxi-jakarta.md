@@ -1,6 +1,7 @@
 ---
 title: "Harga Batu Split 2/3 Free Ongkir Ke Galaxi Jakarta"
 date: "2024-02-17"
+lastmod: "2026-10-25"
 categories: 
   - "batu"
 type: "product"

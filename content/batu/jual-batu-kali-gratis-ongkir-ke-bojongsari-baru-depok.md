@@ -1,6 +1,7 @@
 ---
 title: "Jual Batu Kali Gratis Ongkir Ke Bojongsari Baru Depok"
 date: "2024-05-05"
+lastmod: "2026-10-25"
 categories: 
   - "batu"
 type: "product"

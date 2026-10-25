@@ -1,6 +1,7 @@
 ---
 title: "Harga Kanopi Per Meter Di Kelapa Dua Tangerang"
 date: "2022-10-31"
+lastmod: "2026-10-25"
 categories: 
   - "kanopi"
 type: "service"

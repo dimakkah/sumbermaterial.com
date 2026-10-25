@@ -1,6 +1,7 @@
 ---
 title: "Jual Batu Split 2/3 Free Ongkir Ke Kronjo Tangerang"
 date: "2022-12-26"
+lastmod: "2026-10-25"
 categories: 
   - "batu"
 type: "product"

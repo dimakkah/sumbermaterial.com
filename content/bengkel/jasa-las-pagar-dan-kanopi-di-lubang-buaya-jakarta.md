@@ -1,6 +1,7 @@
 ---
 title: "Jasa Las Pagar Dan Kanopi Di Lubang Buaya Jakarta"
 date: "2024-09-09"
+lastmod: "2026-10-25"
 categories: 
   - "bengkel"
 type: "service"

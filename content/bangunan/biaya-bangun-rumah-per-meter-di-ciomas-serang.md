@@ -1,7 +1,7 @@
 ---
 title: "Biaya Bangun Rumah Per Meter Di Ciomas Serang"
 date: "2024-09-13"
-lastmod: "2026-10-17"
+lastmod: "2026-10-25"
 categories: 
   - "bangunan"
 type: "service"

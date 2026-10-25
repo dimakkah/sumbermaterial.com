@@ -1,6 +1,7 @@
 ---
 title: "Jual Batu Split 2/3 Free Ongkir Ke Tambun Utara Bekasi"
 date: "2024-08-04"
+lastmod: "2026-10-25"
 categories: 
   - "batu"
 type: "product"

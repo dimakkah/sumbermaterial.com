@@ -1,6 +1,7 @@
 ---
 title: "Harga Bata Merah Kecil Gratis Ongkir Ke Bojong Purwakarta"
 date: "2024-09-13"
+lastmod: "2026-10-25"
 categories: 
   - "bata"
 type: "product"

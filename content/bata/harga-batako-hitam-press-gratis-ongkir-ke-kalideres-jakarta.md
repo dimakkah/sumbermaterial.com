@@ -1,6 +1,7 @@
 ---
 title: "Harga Batako Hitam Press Gratis Ongkir Ke Kalideres Jakarta"
 date: "2024-09-12"
+lastmod: "2026-10-25"
 categories: 
   - "bata"
 type: "product"

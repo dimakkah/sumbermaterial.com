@@ -1,6 +1,7 @@
 ---
 title: "Harga Batu Makadam 5/7 Per Kubik"
 date: "2024-06-19"
+lastmod: "2026-10-25"
 type: "product"
 description: "Harga Batu Makadam 5/7 Per Kubik. Harga batu makadam yang kami cantumkan diatas adalah harga batu makadam per satu kubik untuk armada truk colt diesel dengan volume truk 8kubik"
 ---

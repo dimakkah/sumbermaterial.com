@@ -1,6 +1,7 @@
 ---
 title: "Harga Kanopi Per Meter Di Kedung Waringin Bogor"
 date: "2022-07-13"
+lastmod: "2026-10-25"
 categories: 
   - "kanopi"
 type: "service"

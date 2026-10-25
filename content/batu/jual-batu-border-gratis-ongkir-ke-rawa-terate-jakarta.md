@@ -1,6 +1,7 @@
 ---
 title: "Jual Batu Border Gratis Ongkir Ke Rawa Terate Jakarta"
 date: "2024-09-18"
+lastmod: "2026-10-25"
 categories: 
   - "batu"
 type: "product"

@@ -1,6 +1,7 @@
 ---
 title: "Harga Besi Beton Per Batang Kirim Ke Bantarjati Bogor"
 date: "2024-02-04"
+lastmod: "2026-10-25"
 categories: 
   - "besi"
 type: "product"

@@ -1,6 +1,7 @@
 ---
 title: "Harga Batako Truss Gratis Ongkir Ke Beji Depok"
 date: "2024-09-26"
+lastmod: "2026-10-25"
 categories: 
   - "bata"
 type: "product"

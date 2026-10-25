@@ -1,6 +1,7 @@
 ---
 title: "Harga Bata Merah Jumbo Gratis Ongkir Ke Cimpaeun Depok"
 date: "2024-07-26"
+lastmod: "2026-10-25"
 categories: 
   - "bata"
 type: "product"

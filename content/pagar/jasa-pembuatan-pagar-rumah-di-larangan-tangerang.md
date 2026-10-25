@@ -1,6 +1,7 @@
 ---
 title: "Jasa Pembuatan Pagar Rumah Di Larangan Tangerang"
 date: "2022-05-16"
+lastmod: "2026-10-25"
 categories: 
   - "pagar"
 type: "service"

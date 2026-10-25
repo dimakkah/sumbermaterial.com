@@ -1,6 +1,7 @@
 ---
 title: "Biaya Bangun Rumah Per Meter Di Tegal Parang Jakarta"
 date: "2024-08-24"
+lastmod: "2026-10-25"
 categories: 
   - "bangunan"
 type: "service"

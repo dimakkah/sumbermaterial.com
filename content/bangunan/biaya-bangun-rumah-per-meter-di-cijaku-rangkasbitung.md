@@ -1,7 +1,7 @@
 ---
 title: "Biaya Bangun Rumah Per Meter Di Cijaku Rangkasbitung"
 date: "2024-08-26"
-lastmod: "2026-10-15"
+lastmod: "2026-10-25"
 categories: 
   - "bangunan"
 type: "service"

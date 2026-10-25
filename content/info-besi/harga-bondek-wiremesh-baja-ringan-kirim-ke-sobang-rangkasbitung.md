@@ -1,6 +1,7 @@
 ---
 title: "Harga Bondek Wiremesh Baja Ringan Kirim Ke Sobang Rangkasbitung"
 date: "2024-09-16"
+lastmod: "2026-10-25"
 categories: 
   - "info-besi"
 type: "product"

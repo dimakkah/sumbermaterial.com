@@ -1,6 +1,7 @@
 ---
 title: "Harga Batu Split 3/5 Free Ongkir Ke Sukatani Depok"
 date: "2024-02-29"
+lastmod: "2026-10-25"
 categories: 
   - "batu"
 type: "product"

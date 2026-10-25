@@ -1,6 +1,7 @@
 ---
 title: "Harga Batako Putih Gratis Ongkir Ke Cipaku Bogor"
 date: "2024-08-26"
+lastmod: "2026-10-25"
 categories: 
   - "bata"
 type: "product"

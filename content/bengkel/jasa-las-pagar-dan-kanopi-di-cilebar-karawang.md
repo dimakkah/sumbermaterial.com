@@ -1,6 +1,7 @@
 ---
 title: "Jasa Las Pagar Dan Kanopi Di Cilebar Karawang"
 date: "2022-12-24"
+lastmod: "2026-10-25"
 categories: 
   - "bengkel"
 type: "service"

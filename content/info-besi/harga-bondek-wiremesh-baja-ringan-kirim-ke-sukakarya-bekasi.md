@@ -1,6 +1,7 @@
 ---
 title: "Harga Bondek Wiremesh Baja Ringan Kirim Ke Sukakarya Bekasi"
 date: "2024-07-29"
+lastmod: "2026-10-25"
 categories: 
   - "info-besi"
 type: "product"

@@ -1,6 +1,7 @@
 ---
 title: "Harga Bata Merah Oven Gratis Ongkir Ke Jati Padang Jakarta"
 date: "2024-09-16"
+lastmod: "2026-10-25"
 categories: 
   - "bata"
 type: "product"

@@ -1,6 +1,7 @@
 ---
 title: "Harga Kanopi Per Meter Di Pisangan Timur Jakarta"
 date: "2022-04-15"
+lastmod: "2026-10-25"
 categories: 
   - "kanopi"
 type: "service"

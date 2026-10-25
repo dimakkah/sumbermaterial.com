@@ -1,6 +1,7 @@
 ---
 title: "Harga Besi H Beam Dan WF Kirim Ke Maphar Jakarta"
 date: "2024-06-26"
+lastmod: "2026-10-25"
 categories: 
   - "wf"
 type: "product"

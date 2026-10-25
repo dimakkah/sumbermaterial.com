@@ -1,7 +1,7 @@
 ---
 title: "Biaya Bangun Rumah Per Meter Di Gunung Sahari Selatan Jakarta"
 date: "2022-11-19"
-lastmod: "2026-10-24"
+lastmod: "2026-10-25"
 categories: 
   - "bangunan"
 type: "service"

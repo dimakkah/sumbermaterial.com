@@ -1,6 +1,7 @@
 ---
 title: "Harga Batako Hitam Press Gratis Ongkir Ke Kedung Jaya Bogor"
 date: "2024-09-14"
+lastmod: "2026-10-25"
 categories: 
   - "bata"
 type: "product"

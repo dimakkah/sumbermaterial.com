@@ -1,6 +1,7 @@
 ---
 title: "Jual Pasir Jawilan Gratis Ongkir Ke Tegalwaru Karawang"
 date: "2024-05-31"
+lastmod: "2026-10-25"
 categories: 
   - "pasir"
 type: "product"

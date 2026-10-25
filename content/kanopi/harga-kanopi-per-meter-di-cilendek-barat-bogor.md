@@ -1,6 +1,7 @@
 ---
 title: "Harga Kanopi Per Meter Di Cilendek Barat Bogor"
 date: "2022-02-28"
+lastmod: "2026-10-25"
 categories: 
   - "kanopi"
 type: "service"

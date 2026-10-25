@@ -1,6 +1,7 @@
 ---
 title: "Biaya Bangun Rumah Per Meter Di Bojong Genteng Sukabumi"
 date: "2024-05-19"
+lastmod: "2026-10-25"
 categories: 
   - "bangunan"
 type: "service"

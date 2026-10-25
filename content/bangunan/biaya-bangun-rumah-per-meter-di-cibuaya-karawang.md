@@ -1,6 +1,7 @@
 ---
 title: "Biaya Bangun Rumah Per Meter Di Cibuaya Karawang"
 date: "2024-08-27"
+lastmod: "2026-10-25"
 categories: 
   - "bangunan"
 type: "service"

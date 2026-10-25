@@ -1,6 +1,7 @@
 ---
 title: "Jasa Pengaspalan Jalan Hotmix Di Jayakerta Karawang"
 date: "2024-08-01"
+lastmod: "2026-10-25"
 categories: 
   - "hotmix"
 description: "Jasa Pengaspalan Jalan Hotmix Di Jayakerta Karawang. Kami ialah jasa yang bergerak dalam bidang pembuatan jalan aspal juga lapangan hotmix, parkiran, lantai..."

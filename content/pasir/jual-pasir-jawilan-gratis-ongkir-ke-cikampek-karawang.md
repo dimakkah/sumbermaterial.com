@@ -1,6 +1,7 @@
 ---
 title: "Jual Pasir Jawilan Gratis Ongkir Ke Cikampek Karawang"
 date: "2024-08-24"
+lastmod: "2026-10-25"
 categories: 
   - "pasir"
 type: "product"

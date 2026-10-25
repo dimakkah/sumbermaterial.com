@@ -1,6 +1,7 @@
 ---
 title: "Jasa Las Pagar Dan Kanopi Di Bintaro Jakarta"
 date: "2024-08-25"
+lastmod: "2026-10-25"
 categories: 
   - "bengkel"
 type: "service"

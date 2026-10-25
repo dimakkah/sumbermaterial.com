@@ -1,6 +1,7 @@
 ---
 title: "Harga Kanopi Per Meter Di Cisaat Sukabumi"
 date: "2022-07-25"
+lastmod: "2026-10-25"
 categories: 
   - "kanopi"
 type: "service"

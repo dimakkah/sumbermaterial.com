@@ -1,6 +1,7 @@
 ---
 title: "Harga Kanopi Per Meter Di Kiara Pedes Purwakarta"
 date: "2024-04-25"
+lastmod: "2026-10-25"
 categories: 
   - "kanopi"
 type: "service"

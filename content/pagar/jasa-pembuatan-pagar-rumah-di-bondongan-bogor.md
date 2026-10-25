@@ -1,6 +1,7 @@
 ---
 title: "Jasa Pembuatan Pagar Rumah Di Bondongan Bogor"
 date: "2022-08-07"
+lastmod: "2026-10-25"
 categories: 
   - "pagar"
 type: "service"

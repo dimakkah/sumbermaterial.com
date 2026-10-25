@@ -1,6 +1,7 @@
 ---
 title: "Harga Urugan Tanah Merah Free Ongkir Ke Tempuran Karawang"
 date: "2024-09-18"
+lastmod: "2026-10-25"
 categories: 
   - "info-urugan"
 type: "product"

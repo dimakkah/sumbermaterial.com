@@ -1,6 +1,7 @@
 ---
 title: "Harga Besi Beton Polos & Ulir Di Kedoya Jakarta"
 date: "2024-03-11"
+lastmod: "2026-10-25"
 categories: 
   - "besi"
 type: "product"

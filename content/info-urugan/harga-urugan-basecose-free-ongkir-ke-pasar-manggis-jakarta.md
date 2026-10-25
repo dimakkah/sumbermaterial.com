@@ -1,6 +1,7 @@
 ---
 title: "Harga Urugan Basecose Free Ongkir Ke Pasar Manggis Jakarta"
 date: "2024-08-28"
+lastmod: "2026-10-25"
 categories: 
   - "info-urugan"
 type: "product"

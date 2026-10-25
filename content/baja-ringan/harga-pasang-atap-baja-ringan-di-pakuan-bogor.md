@@ -1,6 +1,7 @@
 ---
 title: "Harga Pasang Atap Baja Ringan Di Pakuan Bogor"
 date: "2024-05-21"
+lastmod: "2026-10-25"
 categories: 
   - "baja-ringan"
 type: "service"

@@ -1,6 +1,7 @@
 ---
 title: "Harga Batu Split 1/2 Free Ongkir Ke Pebayuran Bekasi"
 date: "2024-04-25"
+lastmod: "2026-10-25"
 categories: 
   - "batu"
 type: "product"

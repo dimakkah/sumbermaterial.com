@@ -1,6 +1,7 @@
 ---
 title: "Jasa Las Pagar Dan Kanopi Di Pondok Bambu Jakarta"
 date: "2024-07-21"
+lastmod: "2026-10-25"
 categories: 
   - "bengkel"
 type: "service"

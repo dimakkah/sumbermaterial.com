@@ -1,6 +1,7 @@
 ---
 title: "Harga Batako 2 Lubang Gratis Ongkir Ke Melawai Jakarta"
 date: "2024-10-11"
+lastmod: "2026-10-25"
 categories: 
   - "bata"
 type: "product"

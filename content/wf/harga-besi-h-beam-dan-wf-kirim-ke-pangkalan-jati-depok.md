@@ -1,6 +1,7 @@
 ---
 title: "Harga Besi H Beam Dan WF Kirim Ke Pangkalan Jati Depok"
 date: "2024-06-19"
+lastmod: "2026-10-25"
 categories: 
   - "wf"
 type: "product"

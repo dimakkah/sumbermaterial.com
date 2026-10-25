@@ -1,6 +1,7 @@
 ---
 title: "Harga Cor Ready Mix K225 Per m3 Di Tambun Selatan Bekasi"
 date: "2024-08-12"
+lastmod: "2026-10-25"
 categories: 
   - "readymix"
 type: "product"

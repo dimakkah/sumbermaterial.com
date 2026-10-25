@@ -1,6 +1,7 @@
 ---
 title: "Harga Urugan Sirdam Free Ongkir Ke Margajaya Bogor"
 date: "2024-08-08"
+lastmod: "2026-10-25"
 categories: 
   - "info-urugan"
 type: "product"

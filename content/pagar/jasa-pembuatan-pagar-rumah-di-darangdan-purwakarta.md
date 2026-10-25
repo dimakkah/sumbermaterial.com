@@ -1,6 +1,7 @@
 ---
 title: "Jasa Pembuatan Pagar Rumah Di Darangdan Purwakarta"
 date: "2022-04-02"
+lastmod: "2026-10-25"
 categories: 
   - "pagar"
 type: "service"

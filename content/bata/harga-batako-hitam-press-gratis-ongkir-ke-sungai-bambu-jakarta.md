@@ -1,6 +1,7 @@
 ---
 title: "Harga Batako Hitam Press Gratis Ongkir Ke Sungai Bambu Jakarta"
 date: "2024-10-09"
+lastmod: "2026-10-25"
 categories: 
   - "bata"
 type: "product"

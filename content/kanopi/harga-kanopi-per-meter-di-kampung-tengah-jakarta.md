@@ -1,6 +1,7 @@
 ---
 title: "Harga Kanopi Per Meter Di Kampung Tengah Jakarta"
 date: "2022-10-23"
+lastmod: "2026-10-25"
 categories: 
   - "kanopi"
 type: "service"

@@ -1,6 +1,7 @@
 ---
 title: "Jual Batu Split 2/3 Free Ongkir Ke Kemanggisan Jakarta"
 date: "2024-07-14"
+lastmod: "2026-10-25"
 categories: 
   - "batu"
 type: "product"

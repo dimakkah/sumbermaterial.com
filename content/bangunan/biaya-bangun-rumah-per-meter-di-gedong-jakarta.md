@@ -1,7 +1,7 @@
 ---
 title: "Biaya Bangun Rumah Per Meter Di Gedong Jakarta"
 date: "2024-02-16"
-lastmod: "2026-10-22"
+lastmod: "2026-10-25"
 categories: 
   - "bangunan"
 type: "service"

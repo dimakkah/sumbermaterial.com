@@ -1,6 +1,7 @@
 ---
 title: "Harga Kanopi Per Meter Di Jatisampurna Bekasi"
 date: "2022-06-10"
+lastmod: "2026-10-25"
 categories: 
   - "kanopi"
 type: "service"

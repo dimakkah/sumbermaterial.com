@@ -1,6 +1,7 @@
 ---
 title: "Harga Pasang Atap Baja Ringan Di Majalaya Karawang"
 date: "2022-03-20"
+lastmod: "2026-10-25"
 categories: 
   - "baja-ringan"
 type: "service"

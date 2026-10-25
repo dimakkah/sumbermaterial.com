@@ -1,6 +1,7 @@
 ---
 title: "Biaya Pengaspalan Jalan Per M Di Karet Semanggi Jakarta"
 date: "2022-12-15"
+lastmod: "2026-10-25"
 categories: 
   - "jasa"
 type: "service"

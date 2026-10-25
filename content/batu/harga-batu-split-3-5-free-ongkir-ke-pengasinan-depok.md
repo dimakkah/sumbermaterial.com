@@ -1,6 +1,7 @@
 ---
 title: "Harga Batu Split 3/5 Free Ongkir Ke Pengasinan Depok"
 date: "2024-04-06"
+lastmod: "2026-10-25"
 categories: 
   - "batu"
 type: "product"

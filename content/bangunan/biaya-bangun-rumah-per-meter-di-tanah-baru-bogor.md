@@ -1,6 +1,7 @@
 ---
 title: "Biaya Bangun Rumah Per Meter Di Tanah Baru Bogor"
 date: "2022-12-11"
+lastmod: "2026-10-25"
 categories: 
   - "bangunan"
 type: "service"

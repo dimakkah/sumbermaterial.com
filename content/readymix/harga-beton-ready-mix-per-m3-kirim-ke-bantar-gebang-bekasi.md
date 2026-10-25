@@ -1,6 +1,7 @@
 ---
 title: "Harga Beton Ready Mix Per m3 Kirim Ke Bantar Gebang Bekasi"
 date: "2024-06-28"
+lastmod: "2026-10-25"
 categories: 
   - "readymix"
 type: "product"

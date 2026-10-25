@@ -1,6 +1,7 @@
 ---
 title: "Harga Bata Merah Oven Gratis Ongkir Ke Jatisampurna Bekasi"
 date: "2024-09-18"
+lastmod: "2026-10-25"
 categories: 
   - "bata"
 type: "product"

@@ -1,6 +1,7 @@
 ---
 title: "Biaya Bangun Rumah Per Meter Di Pasar Manggis Jakarta"
 date: "2022-12-06"
+lastmod: "2026-10-25"
 categories: 
   - "bangunan"
 type: "service"

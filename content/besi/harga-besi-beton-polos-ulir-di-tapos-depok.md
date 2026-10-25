@@ -1,6 +1,7 @@
 ---
 title: "Harga Besi Beton Polos & Ulir Di Tapos Depok"
 date: "2024-02-11"
+lastmod: "2026-10-25"
 categories: 
   - "besi"
 type: "product"

@@ -1,6 +1,7 @@
 ---
 title: "Harga Batu Split 1/2 Free Ongkir Ke Ciwaringin Bogor"
 date: "2024-02-14"
+lastmod: "2026-10-25"
 categories: 
   - "batu"
 type: "product"

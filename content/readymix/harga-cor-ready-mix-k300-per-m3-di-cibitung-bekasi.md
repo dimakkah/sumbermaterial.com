@@ -1,6 +1,7 @@
 ---
 title: "Harga Cor Ready Mix K300 Per m3 Di Cibitung Bekasi"
 date: "2024-09-14"
+lastmod: "2026-10-25"
 categories: 
   - "readymix"
 type: "product"

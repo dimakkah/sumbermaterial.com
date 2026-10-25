@@ -1,6 +1,7 @@
 ---
 title: "Harga Besi Beton Per Batang Kirim Ke Pasir Mulya Bogor"
 date: "2024-04-15"
+lastmod: "2026-10-25"
 categories: 
   - "besi"
 type: "product"

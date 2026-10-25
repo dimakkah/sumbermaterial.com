@@ -1,6 +1,7 @@
 ---
 title: "Jasa Urug Tanah & Pemadatan Di Sukakarya Bekasi"
 date: "2024-08-18"
+lastmod: "2026-10-25"
 categories: 
   - "jasa-urug"
 type: "service"

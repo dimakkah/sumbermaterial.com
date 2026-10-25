@@ -1,6 +1,7 @@
 ---
 title: "Harga Besi Beton Per Batang Kirim Ke Kembangan Timur Jakarta"
 date: "2024-03-06"
+lastmod: "2026-10-25"
 categories: 
   - "besi"
 type: "product"

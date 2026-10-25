@@ -1,6 +1,7 @@
 ---
 title: "Harga Kanopi Per Meter Di Curug Tangerang"
 date: "2024-05-28"
+lastmod: "2026-10-25"
 categories: 
   - "kanopi"
 type: "service"

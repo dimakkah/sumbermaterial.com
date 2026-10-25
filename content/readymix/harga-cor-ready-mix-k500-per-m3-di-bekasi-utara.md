@@ -1,6 +1,7 @@
 ---
 title: "Harga Cor Ready Mix K500 Per m3 Di Bekasi Utara"
 date: "2024-09-25"
+lastmod: "2026-10-25"
 categories: 
   - "readymix"
 type: "product"

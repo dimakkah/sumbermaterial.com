@@ -1,6 +1,7 @@
 ---
 title: "Jasa Las Pagar Dan Kanopi Di Kampung Rawa Jakarta"
 date: "2024-03-26"
+lastmod: "2026-10-25"
 categories: 
   - "bengkel"
 type: "service"

@@ -1,6 +1,7 @@
 ---
 title: "Harga Batu Split 1/2 Free Ongkir Ke Wanayasa Purwakarta"
 date: "2024-10-19"
+lastmod: "2026-10-25"
 categories: 
   - "batu"
 type: "product"

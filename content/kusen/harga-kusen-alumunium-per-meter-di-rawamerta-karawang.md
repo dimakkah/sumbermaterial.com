@@ -1,6 +1,7 @@
 ---
 title: "Harga Kusen Alumunium Per Meter Di Rawamerta Karawang"
 date: "2024-07-15"
+lastmod: "2026-10-25"
 categories: 
   - "kusen"
 type: "service"

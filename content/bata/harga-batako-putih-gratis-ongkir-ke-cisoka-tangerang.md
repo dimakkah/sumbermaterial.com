@@ -1,6 +1,7 @@
 ---
 title: "Harga Batako Putih Gratis Ongkir Ke Cisoka Tangerang"
 date: "2024-07-26"
+lastmod: "2026-10-25"
 categories: 
   - "bata"
 type: "product"

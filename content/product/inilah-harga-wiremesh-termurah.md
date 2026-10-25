@@ -1,6 +1,7 @@
 ---
 title: "Inilah Harga Wiremesh Termurah"
 date: "2024-06-19"
+lastmod: "2026-10-25"
 type: "product"
 description: "Inilah Harga Wiremesh Termurah. Kami menyedikan cara pembelian yang aman dan mudah. Anda bisa langsung menghubungi kami melalui nomor telepon, email dan whatsapp yang telah kami sediakan di website ini"
 ---

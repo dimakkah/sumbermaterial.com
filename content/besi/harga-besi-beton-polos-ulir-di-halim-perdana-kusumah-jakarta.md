@@ -1,6 +1,7 @@
 ---
 title: "Harga Besi Beton Polos & Ulir Di Halim Perdana kusumah Jakarta"
 date: "2024-02-19"
+lastmod: "2026-10-25"
 categories: 
   - "besi"
 type: "product"

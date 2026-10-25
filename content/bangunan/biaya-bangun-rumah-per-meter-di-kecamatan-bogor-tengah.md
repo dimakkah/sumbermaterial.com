@@ -1,6 +1,7 @@
 ---
 title: "Biaya Bangun Rumah Per Meter Di Kecamatan Bogor Tengah"
 date: "2022-12-30"
+lastmod: "2026-10-25"
 categories: 
   - "bangunan"
 type: "service"

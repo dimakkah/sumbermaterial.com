@@ -1,6 +1,7 @@
 ---
 title: "Jual Batu Split 1/2 Free Ongkir Ke Kembangan Jakarta"
 date: "2024-06-25"
+lastmod: "2026-10-25"
 categories: 
   - "batu"
 type: "product"

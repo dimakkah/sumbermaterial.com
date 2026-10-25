@@ -1,7 +1,7 @@
 ---
 title: "Harga Pasang Atap Baja Ringan Di Genteng Bogor"
 date: "2024-04-06"
-lastmod: "2026-09-10"
+lastmod: "2026-10-25"
 categories: 
   - "baja-ringan"
 type: "service"

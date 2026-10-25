@@ -1,6 +1,7 @@
 ---
 title: "Harga Kanopi Per Meter Di Setu Bekasi"
 date: "2024-02-24"
+lastmod: "2026-10-25"
 categories: 
   - "kanopi"
 type: "service"

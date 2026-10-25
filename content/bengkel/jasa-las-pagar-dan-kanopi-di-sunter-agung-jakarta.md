@@ -1,6 +1,7 @@
 ---
 title: "Jasa Las Pagar Dan Kanopi Di Sunter Agung Jakarta"
 date: "2024-04-01"
+lastmod: "2026-10-25"
 categories: 
   - "bengkel"
 type: "service"

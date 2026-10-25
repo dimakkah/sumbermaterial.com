@@ -1,6 +1,7 @@
 ---
 title: "Jasa Pengaspalan Jalan Hotmix Di Tambun Selatan Bekasi"
 date: "2024-06-28"
+lastmod: "2026-10-25"
 categories: 
   - "hotmix"
 description: "Jasa Pengaspalan Jalan Hotmix Di Tambun Selatan Bekasi. Kami yakni jasa yang bergerak dalam lingkup pembangunan jalan hotmix juga lapangan hotmix, parkiran,..."

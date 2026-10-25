@@ -1,6 +1,7 @@
 ---
 title: "Harga Bata Merah Kecil Gratis Ongkir Ke Bale Kambang Jakarta"
 date: "2024-07-19"
+lastmod: "2026-10-25"
 categories: 
   - "bata"
 type: "product"

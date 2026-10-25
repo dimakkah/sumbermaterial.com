@@ -1,6 +1,7 @@
 ---
 title: "Harga Kanopi Per Meter Di Pabaton Bogor"
 date: "2022-06-18"
+lastmod: "2026-10-25"
 categories: 
   - "kanopi"
 type: "service"

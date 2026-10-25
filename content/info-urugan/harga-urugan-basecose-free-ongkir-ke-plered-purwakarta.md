@@ -1,6 +1,7 @@
 ---
 title: "Harga Urugan Basecose Free Ongkir Ke Plered Purwakarta"
 date: "2024-08-16"
+lastmod: "2026-10-25"
 categories: 
   - "info-urugan"
 type: "product"

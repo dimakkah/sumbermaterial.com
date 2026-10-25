@@ -1,6 +1,7 @@
 ---
 title: "Harga Batako Beton Gratis Ongkir Ke Sindangsari Bogor"
 date: "2024-06-29"
+lastmod: "2026-10-25"
 categories: 
   - "bata"
 type: "product"

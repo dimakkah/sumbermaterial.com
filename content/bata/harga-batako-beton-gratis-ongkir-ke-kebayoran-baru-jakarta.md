@@ -1,6 +1,7 @@
 ---
 title: "Harga Batako Beton Gratis Ongkir Ke Kebayoran Baru Jakarta"
 date: "2024-06-25"
+lastmod: "2026-10-25"
 categories: 
   - "bata"
 type: "product"

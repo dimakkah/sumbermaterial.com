@@ -1,6 +1,7 @@
 ---
 title: "Harga Kanopi Per Meter Di Kampung Bali Jakarta"
 date: "2022-10-17"
+lastmod: "2026-10-25"
 categories: 
   - "kanopi"
 type: "service"

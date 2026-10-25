@@ -1,6 +1,7 @@
 ---
 title: "Harga Urugan Sirtu Free Ongkir Ke Sukakarya Bekasi"
 date: "2024-08-04"
+lastmod: "2026-10-25"
 categories: 
   - "info-urugan"
 type: "product"

@@ -1,6 +1,7 @@
 ---
 title: "Harga Kanopi Per Meter Di Cinangka Depok"
 date: "2022-04-27"
+lastmod: "2026-10-25"
 categories: 
   - "kanopi"
 type: "service"

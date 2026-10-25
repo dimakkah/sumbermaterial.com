@@ -1,6 +1,7 @@
 ---
 title: "Harga Kanopi Per Meter Di Babakan Bogor"
 date: "2022-09-08"
+lastmod: "2026-10-25"
 categories: 
   - "kanopi"
 type: "service"

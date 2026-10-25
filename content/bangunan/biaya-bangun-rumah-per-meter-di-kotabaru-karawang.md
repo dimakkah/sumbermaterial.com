@@ -1,6 +1,7 @@
 ---
 title: "Biaya Bangun Rumah Per Meter Di Kotabaru Karawang"
 date: "2024-03-16"
+lastmod: "2026-10-25"
 categories: 
   - "bangunan"
 type: "service"

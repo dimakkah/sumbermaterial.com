@@ -1,6 +1,7 @@
 ---
 title: "Harga Cor Ready Mix K225 Per m3 Di Cibarusah Bekasi"
 date: "2024-08-06"
+lastmod: "2026-10-25"
 categories: 
   - "readymix"
 type: "product"

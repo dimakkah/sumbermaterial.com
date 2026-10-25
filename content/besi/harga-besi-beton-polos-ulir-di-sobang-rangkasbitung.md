@@ -1,6 +1,7 @@
 ---
 title: "Harga Besi Beton Polos & Ulir Di Sobang Rangkasbitung"
 date: "2024-03-13"
+lastmod: "2026-10-25"
 categories: 
   - "besi"
 type: "product"

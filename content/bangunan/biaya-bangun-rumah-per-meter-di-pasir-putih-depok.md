@@ -1,6 +1,7 @@
 ---
 title: "Biaya Bangun Rumah Per Meter Di Pasir Putih Depok"
 date: "2024-03-30"
+lastmod: "2026-10-25"
 categories: 
   - "bangunan"
 type: "service"

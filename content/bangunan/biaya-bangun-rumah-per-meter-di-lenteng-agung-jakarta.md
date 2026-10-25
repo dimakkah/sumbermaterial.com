@@ -1,6 +1,7 @@
 ---
 title: "Biaya Bangun Rumah Per Meter Di Lenteng Agung Jakarta"
 date: "2024-03-06"
+lastmod: "2026-10-25"
 categories: 
   - "bangunan"
 type: "service"

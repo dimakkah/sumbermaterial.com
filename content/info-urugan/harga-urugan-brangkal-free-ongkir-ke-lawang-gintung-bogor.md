@@ -1,6 +1,7 @@
 ---
 title: "Harga Urugan Brangkal Free Ongkir Ke Lawang Gintung Bogor"
 date: "2024-09-22"
+lastmod: "2026-10-25"
 categories: 
   - "info-urugan"
 type: "product"

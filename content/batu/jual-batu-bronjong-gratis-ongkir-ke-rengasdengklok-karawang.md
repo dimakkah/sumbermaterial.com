@@ -1,6 +1,7 @@
 ---
 title: "Jual Batu Bronjong Gratis Ongkir Ke Rengasdengklok Karawang"
 date: "2024-05-04"
+lastmod: "2026-10-25"
 categories: 
   - "batu"
 type: "product"

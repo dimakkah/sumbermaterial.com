@@ -1,7 +1,7 @@
 ---
 title: "Harga Pasang Atap Baja Ringan Di Cikampek Karawang"
 date: "2022-06-03"
-lastmod: "2026-09-05"
+lastmod: "2026-10-25"
 categories: 
   - "baja-ringan"
 type: "service"

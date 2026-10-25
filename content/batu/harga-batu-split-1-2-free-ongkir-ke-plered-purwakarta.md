@@ -1,6 +1,7 @@
 ---
 title: "Harga Batu Split 1/2 Free Ongkir Ke Plered Purwakarta"
 date: "2024-08-15"
+lastmod: "2026-10-25"
 categories: 
   - "batu"
 type: "product"

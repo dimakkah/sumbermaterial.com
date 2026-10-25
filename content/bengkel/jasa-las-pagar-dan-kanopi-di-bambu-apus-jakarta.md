@@ -1,6 +1,7 @@
 ---
 title: "Jasa Las Pagar Dan Kanopi Di Bambu Apus Jakarta"
 date: "2024-02-11"
+lastmod: "2026-10-25"
 categories: 
   - "bengkel"
 type: "service"

@@ -1,6 +1,7 @@
 ---
 title: "Harga Beton Ready Mix Per m3 Kirim Ke Pakuan Bogor"
 date: "2024-08-17"
+lastmod: "2026-10-25"
 categories: 
   - "readymix"
 type: "product"

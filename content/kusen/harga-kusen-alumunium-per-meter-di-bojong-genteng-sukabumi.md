@@ -1,6 +1,7 @@
 ---
 title: "Harga Kusen Alumunium Per Meter Di Bojong Genteng Sukabumi"
 date: "2024-05-14"
+lastmod: "2026-10-25"
 categories: 
   - "kusen"
 type: "service"

@@ -1,6 +1,7 @@
 ---
 title: "Harga Batako Truss Gratis Ongkir Ke Sindang Jaya Tangerang"
 date: "2024-07-18"
+lastmod: "2026-10-25"
 categories: 
   - "bata"
 type: "product"

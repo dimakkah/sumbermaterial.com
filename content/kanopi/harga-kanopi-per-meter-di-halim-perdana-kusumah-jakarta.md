@@ -1,6 +1,7 @@
 ---
 title: "Harga Kanopi Per Meter Di Halim Perdana kusumah Jakarta"
 date: "2022-06-17"
+lastmod: "2026-10-25"
 categories: 
   - "kanopi"
 type: "service"

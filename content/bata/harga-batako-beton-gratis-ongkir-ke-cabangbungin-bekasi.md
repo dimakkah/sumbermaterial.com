@@ -1,6 +1,7 @@
 ---
 title: "Harga Batako Beton Gratis Ongkir Ke Cabangbungin Bekasi"
 date: "2024-09-20"
+lastmod: "2026-10-25"
 categories: 
   - "bata"
 type: "product"

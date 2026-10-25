@@ -1,6 +1,7 @@
 ---
 title: "Jasa Pengaspalan Jalan Hotmix Di Tirtajaya Karawang"
 date: "2024-09-12"
+lastmod: "2026-10-25"
 categories: 
   - "hotmix"
 description: "Jasa Pengaspalan Jalan Hotmix Di Tirtajaya Karawang. Kami yakni jasa yang fokus dalam lingkup pembangunan jalan hotmix juga lapangan hotmix, parkiran, lantai..."

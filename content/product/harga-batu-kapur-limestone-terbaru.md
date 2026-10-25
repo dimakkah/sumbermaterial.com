@@ -1,6 +1,7 @@
 ---
 title: "Harga Batu Kapur /Limestone Terbaru"
 date: "2024-06-19"
+lastmod: "2026-10-25"
 type: "product"
 description: "Harga Batu Kapur /Limestone Terbaru. Kenapa mesti memakai batu kapur /limestone ? ya, jawabannya adalah karena lebih murah dan bisa menyerap air. Tanah yang di urug dengan batu kapur selain lebih efesien juga akan menjadikan"
 ---

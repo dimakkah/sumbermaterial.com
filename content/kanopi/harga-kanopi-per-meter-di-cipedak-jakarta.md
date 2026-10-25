@@ -1,6 +1,7 @@
 ---
 title: "Harga Kanopi Per Meter Di Cipedak Jakarta"
 date: "2022-04-25"
+lastmod: "2026-10-25"
 categories: 
   - "kanopi"
 type: "service"

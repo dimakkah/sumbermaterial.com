@@ -1,6 +1,7 @@
 ---
 title: "Jasa Pengaspalan Jalan Hotmix Di Pakisjaya Karawang"
 date: "2024-05-27"
+lastmod: "2026-10-25"
 categories: 
   - "hotmix"
 description: "Jasa Pengaspalan Jalan Hotmix Di Pakisjaya Karawang. Kami yakni jasa yang fokus dalam kategori pembuatan jalan aspal juga lapangan hotmix, parkiran, lantai a..."

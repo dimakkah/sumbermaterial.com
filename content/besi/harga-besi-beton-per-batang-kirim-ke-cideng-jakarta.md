@@ -1,6 +1,7 @@
 ---
 title: "Harga Besi Beton Per Batang Kirim Ke Cideng Jakarta"
 date: "2024-08-12"
+lastmod: "2026-10-25"
 categories: 
   - "besi"
 type: "product"

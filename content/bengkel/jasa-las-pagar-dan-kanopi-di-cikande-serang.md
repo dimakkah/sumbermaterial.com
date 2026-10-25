@@ -1,6 +1,7 @@
 ---
 title: "Jasa Las Pagar Dan Kanopi Di Cikande Serang"
 date: "2024-02-28"
+lastmod: "2026-10-25"
 categories: 
   - "bengkel"
 type: "service"

@@ -1,6 +1,7 @@
 ---
 title: "Harga Besi Beton Per Batang Kirim Ke Pebayuran Bekasi"
 date: "2024-04-28"
+lastmod: "2026-10-25"
 categories: 
   - "besi"
 type: "product"

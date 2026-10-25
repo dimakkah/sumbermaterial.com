@@ -1,6 +1,7 @@
 ---
 title: "Harga Bata Merah Kecil Gratis Ongkir Ke Pasar Manggis Jakarta"
 date: "2024-05-31"
+lastmod: "2026-10-25"
 categories: 
   - "bata"
 type: "product"

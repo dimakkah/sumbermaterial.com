@@ -1,6 +1,7 @@
 ---
 title: "Harga Bata Merah Kecil Gratis Ongkir Ke Pesanggrahan Jakarta"
 date: "2024-07-21"
+lastmod: "2026-10-25"
 categories: 
   - "bata"
 type: "product"

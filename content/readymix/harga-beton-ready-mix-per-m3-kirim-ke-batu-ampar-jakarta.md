@@ -1,6 +1,7 @@
 ---
 title: "Harga Beton Ready Mix Per m3 Kirim Ke Batu Ampar Jakarta"
 date: "2024-07-04"
+lastmod: "2026-10-25"
 categories: 
   - "readymix"
 type: "product"

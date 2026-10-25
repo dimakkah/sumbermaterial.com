@@ -1,6 +1,7 @@
 ---
 title: "Harga Kanopi Per Meter Di Citangkil Cilegon"
 date: "2022-06-24"
+lastmod: "2026-10-25"
 categories: 
   - "kanopi"
 type: "service"

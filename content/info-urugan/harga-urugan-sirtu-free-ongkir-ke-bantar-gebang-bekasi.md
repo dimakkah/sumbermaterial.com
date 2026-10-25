@@ -1,6 +1,7 @@
 ---
 title: "Harga Urugan Sirtu Free Ongkir Ke Bantar Gebang Bekasi"
 date: "2024-10-11"
+lastmod: "2026-10-25"
 categories: 
   - "info-urugan"
 type: "product"

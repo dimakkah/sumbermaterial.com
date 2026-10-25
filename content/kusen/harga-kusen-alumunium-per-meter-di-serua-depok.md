@@ -1,6 +1,7 @@
 ---
 title: "Harga Kusen Alumunium Per Meter Di Serua Depok"
 date: "2024-04-08"
+lastmod: "2026-10-25"
 categories: 
   - "kusen"
 type: "service"

@@ -1,6 +1,7 @@
 ---
 title: "Harga Kanopi Per Meter Di Gunung Batu Bogor"
 date: "2022-08-11"
+lastmod: "2026-10-25"
 categories: 
   - "kanopi"
 type: "service"

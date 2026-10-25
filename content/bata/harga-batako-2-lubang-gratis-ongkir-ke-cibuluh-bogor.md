@@ -1,6 +1,7 @@
 ---
 title: "Harga Batako 2 Lubang Gratis Ongkir Ke Cibuluh Bogor"
 date: "2024-09-01"
+lastmod: "2026-10-25"
 categories: 
   - "bata"
 type: "product"

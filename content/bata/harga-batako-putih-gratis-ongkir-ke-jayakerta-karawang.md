@@ -1,6 +1,7 @@
 ---
 title: "Harga Batako Putih Gratis Ongkir Ke Jayakerta Karawang"
 date: "2024-10-10"
+lastmod: "2026-10-25"
 categories: 
   - "bata"
 type: "product"

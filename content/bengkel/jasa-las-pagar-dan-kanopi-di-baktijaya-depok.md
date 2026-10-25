@@ -1,6 +1,7 @@
 ---
 title: "Jasa Las Pagar Dan Kanopi Di Baktijaya Depok"
 date: "2024-07-30"
+lastmod: "2026-10-25"
 categories: 
   - "bengkel"
 type: "service"

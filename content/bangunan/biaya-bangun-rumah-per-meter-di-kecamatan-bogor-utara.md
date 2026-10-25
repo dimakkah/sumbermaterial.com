@@ -1,6 +1,7 @@
 ---
 title: "Biaya Bangun Rumah Per Meter Di Kecamatan Bogor Utara"
 date: "2024-10-12"
+lastmod: "2026-10-25"
 categories: 
   - "bangunan"
 type: "service"

@@ -1,6 +1,7 @@
 ---
 title: "Harga Batu Split 1/2 Free Ongkir Ke Bekasi Barat"
 date: "2024-03-18"
+lastmod: "2026-10-25"
 categories: 
   - "batu"
 type: "product"

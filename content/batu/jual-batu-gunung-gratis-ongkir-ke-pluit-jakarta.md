@@ -1,6 +1,7 @@
 ---
 title: "Jual Batu Gunung Gratis Ongkir Ke Pluit Jakarta"
 date: "2024-06-01"
+lastmod: "2026-10-25"
 categories: 
   - "batu"
 type: "product"

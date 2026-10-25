@@ -1,6 +1,7 @@
 ---
 title: "Jasa Las Pagar Dan Kanopi Di Klari Karawang"
 date: "2024-02-27"
+lastmod: "2026-10-25"
 categories: 
   - "bengkel"
 type: "service"

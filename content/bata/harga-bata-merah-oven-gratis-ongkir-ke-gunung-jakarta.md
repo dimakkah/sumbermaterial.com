@@ -1,6 +1,7 @@
 ---
 title: "Harga Bata Merah Oven Gratis Ongkir Ke Gunung Jakarta"
 date: "2024-06-06"
+lastmod: "2026-10-25"
 categories: 
   - "bata"
 type: "product"

@@ -1,6 +1,7 @@
 ---
 title: "Harga Kanopi Per Meter Di Cirinten Rangkasbitung"
 date: "2022-03-27"
+lastmod: "2026-10-25"
 categories: 
   - "kanopi"
 type: "service"

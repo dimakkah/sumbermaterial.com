@@ -1,6 +1,7 @@
 ---
 title: "Biaya Bangun Rumah Per Meter Di Tangki Jakarta"
 date: "2024-09-29"
+lastmod: "2026-10-25"
 categories: 
   - "bangunan"
 type: "service"

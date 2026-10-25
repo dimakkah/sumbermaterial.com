@@ -1,6 +1,7 @@
 ---
 title: "Harga Besi Beton Polos & Ulir Di Setu Tangerang"
 date: "2024-03-29"
+lastmod: "2026-10-25"
 categories: 
   - "besi"
 type: "product"

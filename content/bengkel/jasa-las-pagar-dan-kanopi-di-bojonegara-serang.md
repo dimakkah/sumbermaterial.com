@@ -1,6 +1,7 @@
 ---
 title: "Jasa Las Pagar Dan Kanopi Di Bojonegara Serang"
 date: "2024-10-07"
+lastmod: "2026-10-25"
 categories: 
   - "bengkel"
 type: "service"

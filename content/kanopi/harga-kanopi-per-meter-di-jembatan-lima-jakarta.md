@@ -1,6 +1,7 @@
 ---
 title: "Harga Kanopi Per Meter Di Jembatan Lima Jakarta"
 date: "2024-02-23"
+lastmod: "2026-10-25"
 categories: 
   - "kanopi"
 type: "service"

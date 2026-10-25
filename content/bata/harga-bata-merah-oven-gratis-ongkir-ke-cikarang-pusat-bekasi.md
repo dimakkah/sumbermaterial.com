@@ -1,6 +1,7 @@
 ---
 title: "Harga Bata Merah Oven Gratis Ongkir Ke Cikarang Pusat Bekasi"
 date: "2024-07-28"
+lastmod: "2026-10-25"
 categories: 
   - "bata"
 type: "product"

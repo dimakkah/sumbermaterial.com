@@ -1,6 +1,7 @@
 ---
 title: "Harga Cor Ready Mix K500 Per m3 Di Pondok Gede Bekasi"
 date: "2024-10-10"
+lastmod: "2026-10-25"
 categories: 
   - "readymix"
 type: "product"

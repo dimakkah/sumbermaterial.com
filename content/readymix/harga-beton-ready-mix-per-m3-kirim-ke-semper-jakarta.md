@@ -1,6 +1,7 @@
 ---
 title: "Harga Beton Ready Mix Per m3 Kirim Ke Semper Jakarta"
 date: "2024-09-19"
+lastmod: "2026-10-25"
 categories: 
   - "readymix"
 type: "product"

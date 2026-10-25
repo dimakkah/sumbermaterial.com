@@ -1,6 +1,7 @@
 ---
 title: "Biaya Bangun Rumah Per Meter Di Pamarayan Serang"
 date: "2022-12-31"
+lastmod: "2026-10-25"
 categories: 
   - "bangunan"
 type: "service"

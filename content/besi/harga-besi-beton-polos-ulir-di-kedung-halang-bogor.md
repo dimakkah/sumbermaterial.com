@@ -1,6 +1,7 @@
 ---
 title: "Harga Besi Beton Polos & Ulir Di Kedung Halang Bogor"
 date: "2024-10-09"
+lastmod: "2026-10-25"
 categories: 
   - "besi"
 type: "product"

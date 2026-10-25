@@ -1,6 +1,7 @@
 ---
 title: "Harga Batako Beton Gratis Ongkir Ke Pondok Labu Jakarta"
 date: "2024-08-29"
+lastmod: "2026-10-25"
 categories: 
   - "bata"
 type: "product"

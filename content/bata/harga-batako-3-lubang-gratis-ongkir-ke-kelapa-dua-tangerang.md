@@ -1,6 +1,7 @@
 ---
 title: "Harga Batako 3 Lubang Gratis Ongkir Ke Kelapa Dua Tangerang"
 date: "2024-06-04"
+lastmod: "2026-10-25"
 categories: 
   - "bata"
 type: "product"

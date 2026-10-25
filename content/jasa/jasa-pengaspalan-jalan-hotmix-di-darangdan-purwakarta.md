@@ -1,6 +1,7 @@
 ---
 title: "Jasa Pengaspalan Jalan Hotmix Di Darangdan Purwakarta"
 date: "2024-03-10"
+lastmod: "2026-10-25"
 categories: 
   - "hotmix"
 description: "Jasa Pengaspalan Jalan Hotmix Di Darangdan Purwakarta. Kami adalah jasa yang berada dalam bidang pembuatan jalan aspal juga lapangan aspal, parkiran, lantai..."

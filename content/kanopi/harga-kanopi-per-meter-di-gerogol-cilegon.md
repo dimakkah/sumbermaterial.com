@@ -1,6 +1,7 @@
 ---
 title: "Harga Kanopi Per Meter Di Gerogol Cilegon"
 date: "2022-02-12"
+lastmod: "2026-10-25"
 categories: 
   - "kanopi"
 type: "service"

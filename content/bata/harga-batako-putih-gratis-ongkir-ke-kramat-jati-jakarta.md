@@ -1,6 +1,7 @@
 ---
 title: "Harga Batako Putih Gratis Ongkir Ke Kramat Jati Jakarta"
 date: "2024-10-19"
+lastmod: "2026-10-25"
 categories: 
   - "bata"
 type: "product"

@@ -1,6 +1,7 @@
 ---
 title: "Jasa Las Pagar Dan Kanopi Di Kelapa Dua Jakarta"
 date: "2024-08-10"
+lastmod: "2026-10-25"
 categories: 
   - "bengkel"
 type: "service"

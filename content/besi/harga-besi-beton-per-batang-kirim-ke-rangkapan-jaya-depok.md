@@ -1,6 +1,7 @@
 ---
 title: "Harga Besi Beton Per Batang Kirim Ke Rangkapan Jaya Depok"
 date: "2024-07-01"
+lastmod: "2026-10-25"
 categories: 
   - "besi"
 type: "product"

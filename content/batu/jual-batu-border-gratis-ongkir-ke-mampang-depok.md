@@ -1,6 +1,7 @@
 ---
 title: "Jual Batu Border Gratis Ongkir Ke Mampang Depok"
 date: "2024-06-20"
+lastmod: "2026-10-25"
 categories: 
   - "batu"
 type: "product"

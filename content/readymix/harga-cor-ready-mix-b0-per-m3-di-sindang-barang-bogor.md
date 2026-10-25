@@ -1,6 +1,7 @@
 ---
 title: "Harga Cor Ready Mix B0 Per m3 Di Sindang Barang Bogor"
 date: "2024-07-23"
+lastmod: "2026-10-25"
 categories: 
   - "readymix"
 type: "product"

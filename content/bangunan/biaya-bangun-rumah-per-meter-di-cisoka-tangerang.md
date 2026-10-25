@@ -1,7 +1,7 @@
 ---
 title: "Biaya Bangun Rumah Per Meter Di Cisoka Tangerang"
 date: "2024-08-13"
-lastmod: "2026-10-20"
+lastmod: "2026-10-25"
 categories: 
   - "bangunan"
 type: "service"

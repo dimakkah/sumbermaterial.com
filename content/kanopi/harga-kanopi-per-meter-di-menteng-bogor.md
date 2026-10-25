@@ -1,6 +1,7 @@
 ---
 title: "Harga Kanopi Per Meter Di Menteng Bogor"
 date: "2024-04-16"
+lastmod: "2026-10-25"
 categories: 
   - "kanopi"
 type: "service"

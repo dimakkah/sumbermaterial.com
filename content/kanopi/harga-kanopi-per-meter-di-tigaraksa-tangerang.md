@@ -1,6 +1,7 @@
 ---
 title: "Harga Kanopi Per Meter Di Tigaraksa Tangerang"
 date: "2022-12-23"
+lastmod: "2026-10-25"
 categories: 
   - "kanopi"
 type: "service"

@@ -1,6 +1,7 @@
 ---
 title: "Harga Kanopi Per Meter Di Solear Tangerang"
 date: "2022-03-06"
+lastmod: "2026-10-25"
 categories: 
   - "kanopi"
 type: "service"

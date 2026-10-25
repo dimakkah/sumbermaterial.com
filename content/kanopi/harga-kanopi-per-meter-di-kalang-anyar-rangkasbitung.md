@@ -1,6 +1,7 @@
 ---
 title: "Harga Kanopi Per Meter Di Kalang Anyar Rangkasbitung"
 date: "2022-07-25"
+lastmod: "2026-10-25"
 categories: 
   - "kanopi"
 type: "service"

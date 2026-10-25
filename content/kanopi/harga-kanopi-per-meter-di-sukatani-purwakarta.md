@@ -1,6 +1,7 @@
 ---
 title: "Harga Kanopi Per Meter Di Sukatani Purwakarta"
 date: "2022-08-05"
+lastmod: "2026-10-25"
 categories: 
   - "kanopi"
 type: "service"

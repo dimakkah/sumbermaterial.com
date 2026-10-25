@@ -1,6 +1,7 @@
 ---
 title: "Harga Cor Ready Mix K225 Per m3 Di Ciputat Timur Tangerang"
 date: "2024-06-26"
+lastmod: "2026-10-25"
 categories: 
   - "readymix"
 type: "product"

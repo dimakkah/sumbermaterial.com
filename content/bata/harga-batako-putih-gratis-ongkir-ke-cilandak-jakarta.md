@@ -1,6 +1,7 @@
 ---
 title: "Harga Batako Putih Gratis Ongkir Ke Cilandak Jakarta"
 date: "2024-10-05"
+lastmod: "2026-10-25"
 categories: 
   - "bata"
 type: "product"

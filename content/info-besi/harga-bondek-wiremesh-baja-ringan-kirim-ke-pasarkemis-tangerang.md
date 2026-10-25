@@ -1,6 +1,7 @@
 ---
 title: "Harga Bondek Wiremesh Baja Ringan Kirim Ke Pasarkemis Tangerang"
 date: "2024-09-06"
+lastmod: "2026-10-25"
 categories: 
   - "info-besi"
 type: "product"

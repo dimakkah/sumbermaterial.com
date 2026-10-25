@@ -1,6 +1,7 @@
 ---
 title: "Harga Batu Split 2/3 Free Ongkir Ke Babakan Pasar Bogor"
 date: "2024-06-08"
+lastmod: "2026-10-25"
 categories: 
   - "batu"
 type: "product"

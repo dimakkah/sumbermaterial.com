@@ -1,6 +1,7 @@
 ---
 title: "Jasa Pembuatan Pagar Rumah Di Mancak Serang"
 date: "2022-03-18"
+lastmod: "2026-10-25"
 categories: 
   - "pagar"
 type: "service"

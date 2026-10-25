@@ -1,6 +1,7 @@
 ---
 title: "Harga Urugan Brangkal Free Ongkir Ke Palmeriam Jakarta"
 date: "2024-08-05"
+lastmod: "2026-10-25"
 categories: 
   - "info-urugan"
 type: "product"

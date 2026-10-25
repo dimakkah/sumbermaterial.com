@@ -1,6 +1,7 @@
 ---
 title: "Harga Batako Putih Gratis Ongkir Ke Cempaka Jakarta"
 date: "2024-08-15"
+lastmod: "2026-10-25"
 categories: 
   - "bata"
 type: "product"

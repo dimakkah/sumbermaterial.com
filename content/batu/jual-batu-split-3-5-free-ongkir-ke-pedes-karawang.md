@@ -1,6 +1,7 @@
 ---
 title: "Jual Batu Split 3/5 Free Ongkir Ke Pedes Karawang"
 date: "2024-03-31"
+lastmod: "2026-10-25"
 categories: 
   - "batu"
 type: "product"

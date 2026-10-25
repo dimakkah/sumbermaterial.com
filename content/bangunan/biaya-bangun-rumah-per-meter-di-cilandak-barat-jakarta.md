@@ -1,7 +1,7 @@
 ---
 title: "Biaya Bangun Rumah Per Meter Di Cilandak Barat Jakarta"
 date: "2024-01-31"
-lastmod: "2026-10-14"
+lastmod: "2026-10-25"
 categories: 
   - "bangunan"
 type: "service"

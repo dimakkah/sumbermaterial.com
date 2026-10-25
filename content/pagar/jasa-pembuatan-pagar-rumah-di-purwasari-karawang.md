@@ -1,6 +1,7 @@
 ---
 title: "Jasa Pembuatan Pagar Rumah Di Purwasari Karawang"
 date: "2022-04-21"
+lastmod: "2026-10-25"
 categories: 
   - "pagar"
 type: "service"

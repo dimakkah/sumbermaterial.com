@@ -1,6 +1,7 @@
 ---
 title: "Harga Urugan Sirtu Free Ongkir Ke Curug Mekar Bogor"
 date: "2024-08-17"
+lastmod: "2026-10-25"
 categories: 
   - "info-urugan"
 type: "product"

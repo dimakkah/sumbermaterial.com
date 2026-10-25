@@ -1,6 +1,7 @@
 ---
 title: "Harga Kanopi Per Meter Di Cikulur Rangkasbitung"
 date: "2024-06-06"
+lastmod: "2026-10-25"
 categories: 
   - "kanopi"
 type: "service"

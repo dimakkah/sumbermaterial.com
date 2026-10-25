@@ -1,6 +1,7 @@
 ---
 title: "Harga Batako Truss Gratis Ongkir Ke Bungursari Purwakarta"
 date: "2024-10-17"
+lastmod: "2026-10-25"
 categories: 
   - "bata"
 type: "product"

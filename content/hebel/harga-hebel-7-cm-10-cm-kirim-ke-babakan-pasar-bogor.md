@@ -1,6 +1,7 @@
 ---
 title: "Harga Hebel 7 cm 10 cm Kirim Ke Babakan Pasar Bogor"
 date: "2024-08-25"
+lastmod: "2026-10-25"
 categories: 
   - "hebel"
 type: "product"

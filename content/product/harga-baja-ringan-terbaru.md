@@ -1,6 +1,7 @@
 ---
 title: "Harga Baja Ringan Terbaru"
 date: "2024-06-19"
+lastmod: "2026-10-25"
 type: "product"
 description: "Harga Baja Ringan Terbaru. Bagi Anda yang ingin menggunakan baja ringan ini, Anda hanya perlu menghubungi kami melaui nomor telepon, whatsapp, email yang ada pada website ini"
 ---

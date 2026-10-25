@@ -1,6 +1,7 @@
 ---
 title: "Biaya Bangun Rumah Per Meter Di Cimanggis Depok"
 date: "2024-04-09"
+lastmod: "2026-10-25"
 categories: 
   - "bangunan"
 type: "service"

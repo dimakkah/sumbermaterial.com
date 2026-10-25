@@ -1,6 +1,7 @@
 ---
 title: "Harga Kusen Alumunium Per Meter Di Bekasi Selatan"
 date: "2022-12-15"
+lastmod: "2026-10-25"
 categories: 
   - "kusen"
 type: "service"

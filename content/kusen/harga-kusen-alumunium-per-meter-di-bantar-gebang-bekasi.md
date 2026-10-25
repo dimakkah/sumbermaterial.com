@@ -1,6 +1,7 @@
 ---
 title: "Harga Kusen Alumunium Per Meter Di Bantar Gebang Bekasi"
 date: "2024-09-18"
+lastmod: "2026-10-25"
 categories: 
   - "kusen"
 type: "service"

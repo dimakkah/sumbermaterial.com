@@ -1,7 +1,7 @@
 ---
 title: "Biaya Bangun Rumah Per Meter Di Cipinang Melayu Jakarta"
 date: "2024-03-22"
-lastmod: "2026-10-18"
+lastmod: "2026-10-25"
 categories: 
   - "bangunan"
 type: "service"

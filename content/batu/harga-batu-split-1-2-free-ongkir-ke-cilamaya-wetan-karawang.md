@@ -1,6 +1,7 @@
 ---
 title: "Harga Batu Split 1/2 Free Ongkir Ke Cilamaya Wetan Karawang"
 date: "2024-04-16"
+lastmod: "2026-10-25"
 categories: 
   - "batu"
 type: "product"

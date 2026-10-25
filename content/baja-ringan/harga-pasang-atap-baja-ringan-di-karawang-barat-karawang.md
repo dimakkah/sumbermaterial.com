@@ -1,7 +1,7 @@
 ---
 title: "Harga Pasang Atap Baja Ringan Di Karawang Barat Karawang"
 date: "2022-03-06"
-lastmod: "2026-09-14"
+lastmod: "2026-10-25"
 categories: 
   - "baja-ringan"
 type: "service"

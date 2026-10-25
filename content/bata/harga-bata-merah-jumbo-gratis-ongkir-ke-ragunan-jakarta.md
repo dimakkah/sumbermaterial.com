@@ -1,6 +1,7 @@
 ---
 title: "Harga Bata Merah Jumbo Gratis Ongkir Ke Ragunan Jakarta"
 date: "2024-07-06"
+lastmod: "2026-10-25"
 categories: 
   - "bata"
 type: "product"

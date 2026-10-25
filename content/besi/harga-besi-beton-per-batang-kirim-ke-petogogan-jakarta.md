@@ -1,6 +1,7 @@
 ---
 title: "Harga Besi Beton Per Batang Kirim Ke Petogogan Jakarta"
 date: "2024-04-24"
+lastmod: "2026-10-25"
 categories: 
   - "besi"
 type: "product"

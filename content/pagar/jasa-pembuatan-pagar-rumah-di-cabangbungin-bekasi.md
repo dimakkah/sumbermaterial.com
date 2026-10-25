@@ -1,6 +1,7 @@
 ---
 title: "Jasa Pembuatan Pagar Rumah Di Cabangbungin Bekasi"
 date: "2022-05-23"
+lastmod: "2026-10-25"
 categories: 
   - "pagar"
 type: "service"

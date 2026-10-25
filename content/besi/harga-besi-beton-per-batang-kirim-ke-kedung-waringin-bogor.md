@@ -1,6 +1,7 @@
 ---
 title: "Harga Besi Beton Per Batang Kirim Ke Kedung Waringin Bogor"
 date: "2024-06-26"
+lastmod: "2026-10-25"
 categories: 
   - "besi"
 type: "product"

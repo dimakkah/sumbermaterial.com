@@ -1,6 +1,7 @@
 ---
 title: "Harga Kanopi Per Meter Di Kembangan Barat Jakarta"
 date: "2022-10-20"
+lastmod: "2026-10-25"
 categories: 
   - "kanopi"
 type: "service"

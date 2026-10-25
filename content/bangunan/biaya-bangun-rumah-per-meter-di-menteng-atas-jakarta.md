@@ -1,6 +1,7 @@
 ---
 title: "Biaya Bangun Rumah Per Meter Di Menteng Atas Jakarta"
 date: "2024-03-25"
+lastmod: "2026-10-25"
 categories: 
   - "bangunan"
 type: "service"

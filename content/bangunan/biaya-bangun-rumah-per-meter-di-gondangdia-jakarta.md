@@ -1,6 +1,7 @@
 ---
 title: "Biaya Bangun Rumah Per Meter Di Gondangdia Jakarta"
 date: "2022-12-21"
+lastmod: "2026-10-25"
 categories: 
   - "bangunan"
 type: "service"

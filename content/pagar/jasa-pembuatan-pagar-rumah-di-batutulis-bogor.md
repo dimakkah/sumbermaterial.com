@@ -1,6 +1,7 @@
 ---
 title: "Jasa Pembuatan Pagar Rumah Di Batutulis Bogor"
 date: "2022-02-10"
+lastmod: "2026-10-25"
 categories: 
   - "pagar"
 type: "service"

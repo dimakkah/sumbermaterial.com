@@ -1,6 +1,7 @@
 ---
 title: "Harga Batako Beton Gratis Ongkir Ke Solear Tangerang"
 date: "2024-07-25"
+lastmod: "2026-10-25"
 categories: 
   - "bata"
 type: "product"

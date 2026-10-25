@@ -1,6 +1,7 @@
 ---
 title: "Harga Kanopi Per Meter Di Kelapa Dua Jakarta"
 date: "2022-06-19"
+lastmod: "2026-10-25"
 categories: 
   - "kanopi"
 type: "service"

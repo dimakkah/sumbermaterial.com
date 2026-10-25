@@ -1,6 +1,7 @@
 ---
 title: "Harga Bata Merah Jumbo Gratis Ongkir Ke Bambu Apus Jakarta"
 date: "2024-08-12"
+lastmod: "2026-10-25"
 categories: 
   - "bata"
 type: "product"

@@ -1,6 +1,7 @@
 ---
 title: "Harga Besi Beton Per Batang Kirim Ke Petojo Selatan Jakarta"
 date: "2024-06-03"
+lastmod: "2026-10-25"
 categories: 
   - "besi"
 type: "product"

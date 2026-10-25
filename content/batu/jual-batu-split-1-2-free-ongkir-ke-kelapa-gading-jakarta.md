@@ -1,6 +1,7 @@
 ---
 title: "Jual Batu Split 1/2 Free Ongkir Ke Kelapa Gading Jakarta"
 date: "2024-04-04"
+lastmod: "2026-10-25"
 categories: 
   - "batu"
 type: "product"

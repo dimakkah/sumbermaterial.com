@@ -1,6 +1,7 @@
 ---
 title: "Biaya Bangun Rumah Per Meter Di Kramat jati Jakarta"
 date: "2024-10-11"
+lastmod: "2026-10-25"
 categories: 
   - "bangunan"
 type: "service"

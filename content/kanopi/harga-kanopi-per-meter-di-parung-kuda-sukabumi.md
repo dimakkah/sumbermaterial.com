@@ -1,6 +1,7 @@
 ---
 title: "Harga Kanopi Per Meter Di Parung Kuda Sukabumi"
 date: "2024-05-22"
+lastmod: "2026-10-25"
 categories: 
   - "kanopi"
 type: "service"

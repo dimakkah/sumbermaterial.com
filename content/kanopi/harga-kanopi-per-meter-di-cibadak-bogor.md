@@ -1,6 +1,7 @@
 ---
 title: "Harga Kanopi Per Meter Di Cibadak Bogor"
 date: "2022-07-05"
+lastmod: "2026-10-25"
 categories: 
   - "kanopi"
 type: "service"

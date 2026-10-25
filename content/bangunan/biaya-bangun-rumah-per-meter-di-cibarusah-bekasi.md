@@ -1,6 +1,7 @@
 ---
 title: "Biaya Bangun Rumah Per Meter Di Cibarusah Bekasi"
 date: "2022-11-21"
+lastmod: "2026-10-25"
 categories: 
   - "bangunan"
 type: "service"

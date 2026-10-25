@@ -1,6 +1,7 @@
 ---
 title: "Harga Batako Putih Gratis Ongkir Ke Srengseng Sawah Jakarta"
 date: "2024-10-03"
+lastmod: "2026-10-25"
 categories: 
   - "bata"
 type: "product"

@@ -1,6 +1,7 @@
 ---
 title: "Harga Batako 3 Lubang Gratis Ongkir Ke Ciparigi Bogor"
 date: "2024-06-01"
+lastmod: "2026-10-25"
 categories: 
   - "bata"
 type: "product"

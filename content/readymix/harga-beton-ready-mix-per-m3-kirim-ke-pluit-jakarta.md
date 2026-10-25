@@ -1,6 +1,7 @@
 ---
 title: "Harga Beton Ready Mix Per m3 Kirim Ke Pluit Jakarta"
 date: "2024-08-14"
+lastmod: "2026-10-25"
 categories: 
   - "readymix"
 type: "product"

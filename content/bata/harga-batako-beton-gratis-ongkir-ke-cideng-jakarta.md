@@ -1,6 +1,7 @@
 ---
 title: "Harga Batako Beton Gratis Ongkir Ke Cideng Jakarta"
 date: "2024-06-24"
+lastmod: "2026-10-25"
 categories: 
   - "bata"
 type: "product"

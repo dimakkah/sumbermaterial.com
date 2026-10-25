@@ -1,6 +1,7 @@
 ---
 title: "Harga Pasang Atap Baja Ringan Di Curugbitung Rangkasbitung"
 date: "2022-02-01"
+lastmod: "2026-10-25"
 categories: 
   - "baja-ringan"
 type: "service"

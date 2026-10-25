@@ -1,6 +1,7 @@
 ---
 title: "Harga Kanopi Per Meter Di Mancak Serang"
 date: "2022-10-13"
+lastmod: "2026-10-25"
 categories: 
   - "kanopi"
 type: "service"

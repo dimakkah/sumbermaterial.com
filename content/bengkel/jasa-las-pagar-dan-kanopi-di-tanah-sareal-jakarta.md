@@ -1,6 +1,7 @@
 ---
 title: "Jasa Las Pagar Dan Kanopi Di Tanah Sareal Jakarta"
 date: "2024-07-10"
+lastmod: "2026-10-25"
 categories: 
   - "bengkel"
 type: "service"

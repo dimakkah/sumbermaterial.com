@@ -1,6 +1,7 @@
 ---
 title: "Jasa Pengaspalan Jalan Hotmix Di Telukjambe Barat Karawang"
 date: "2024-03-25"
+lastmod: "2026-10-25"
 categories: 
   - "hotmix"
 description: "Jasa Pengaspalan Jalan Hotmix Di Telukjambe Barat Karawang. Kami merupakan jasa yang fokus dalam bidang pembangunan jalan aspal juga lapangan hotmix, parkira..."

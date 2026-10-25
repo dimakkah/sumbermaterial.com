@@ -1,6 +1,7 @@
 ---
 title: "Harga Urugan Basecose Free Ongkir Ke Tanah Sareal Bogor"
 date: "2024-08-13"
+lastmod: "2026-10-25"
 categories: 
   - "info-urugan"
 type: "product"

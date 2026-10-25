@@ -1,6 +1,7 @@
 ---
 title: "Harga Besi Beton Polos &amp; Ulir Di Ciparigi Bogor"
 date: "2024-07-20"
+lastmod: "2026-10-25"
 categories: 
   - "besi"
 type: "product"

@@ -1,6 +1,7 @@
 ---
 title: "Harga Kanopi Per Meter Di Bojonegara Serang"
 date: "2022-04-22"
+lastmod: "2026-10-25"
 categories: 
   - "kanopi"
 type: "service"

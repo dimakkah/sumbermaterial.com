@@ -1,6 +1,7 @@
 ---
 title: "Jasa Las Pagar Dan Kanopi Di Rangkapan Jaya Depok"
 date: "2024-05-25"
+lastmod: "2026-10-25"
 categories: 
   - "bengkel"
 type: "service"

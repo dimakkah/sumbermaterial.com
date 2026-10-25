@@ -1,6 +1,7 @@
 ---
 title: "Biaya Bangun Rumah Per Meter Di Cicantayan Sukabumi"
 date: "2024-04-10"
+lastmod: "2026-10-25"
 categories: 
   - "bangunan"
 type: "service"

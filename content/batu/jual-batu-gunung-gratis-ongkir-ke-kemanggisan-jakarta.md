@@ -1,6 +1,7 @@
 ---
 title: "Jual Batu Gunung Gratis Ongkir Ke Kemanggisan Jakarta"
 date: "2024-03-09"
+lastmod: "2026-10-25"
 categories: 
   - "batu"
 type: "product"

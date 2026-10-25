@@ -1,6 +1,7 @@
 ---
 title: "Biaya Bangun Rumah Per Meter Di Kebagusan Jakarta"
 date: "2024-10-05"
+lastmod: "2026-10-25"
 categories: 
   - "bangunan"
 type: "service"

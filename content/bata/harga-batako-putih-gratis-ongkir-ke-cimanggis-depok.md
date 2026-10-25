@@ -1,6 +1,7 @@
 ---
 title: "Harga Batako Putih Gratis Ongkir Ke Cimanggis Depok"
 date: "2024-09-10"
+lastmod: "2026-10-25"
 categories: 
   - "bata"
 type: "product"

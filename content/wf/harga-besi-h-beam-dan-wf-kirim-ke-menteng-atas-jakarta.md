@@ -1,6 +1,7 @@
 ---
 title: "Harga Besi H Beam Dan WF Kirim Ke Menteng Atas Jakarta"
 date: "2024-10-04"
+lastmod: "2026-10-25"
 categories: 
   - "wf"
 type: "product"

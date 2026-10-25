@@ -1,6 +1,7 @@
 ---
 title: "Jual Batu Gunung Gratis Ongkir Ke Kampung Tengah Jakarta"
 date: "2024-03-02"
+lastmod: "2026-10-25"
 categories: 
   - "batu"
 type: "product"

@@ -1,6 +1,7 @@
 ---
 title: "Harga Urugan Brangkal Free Ongkir Ke Duri Kepa Jakarta"
 date: "2024-08-21"
+lastmod: "2026-10-25"
 categories: 
   - "info-urugan"
 type: "product"

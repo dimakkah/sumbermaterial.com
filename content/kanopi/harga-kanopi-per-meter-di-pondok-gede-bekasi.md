@@ -1,6 +1,7 @@
 ---
 title: "Harga Kanopi Per Meter Di Pondok Gede Bekasi"
 date: "2022-06-27"
+lastmod: "2026-10-25"
 categories: 
   - "kanopi"
 type: "service"

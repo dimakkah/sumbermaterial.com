@@ -1,6 +1,7 @@
 ---
 title: "Harga Besi Beton Polos & Ulir Di Cilangkap Depok"
 date: "2024-03-10"
+lastmod: "2026-10-25"
 categories: 
   - "besi"
 type: "product"

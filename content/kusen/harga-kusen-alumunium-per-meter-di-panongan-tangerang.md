@@ -1,6 +1,7 @@
 ---
 title: "Harga Kusen Alumunium Per Meter Di Panongan Tangerang"
 date: "2024-08-17"
+lastmod: "2026-10-25"
 categories: 
   - "kusen"
 type: "service"

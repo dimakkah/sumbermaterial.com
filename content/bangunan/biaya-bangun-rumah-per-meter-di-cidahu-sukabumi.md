@@ -1,7 +1,7 @@
 ---
 title: "Biaya Bangun Rumah Per Meter Di Cidahu Sukabumi"
 date: "2024-02-12"
-lastmod: "2026-10-14"
+lastmod: "2026-10-25"
 categories: 
   - "bangunan"
 type: "service"

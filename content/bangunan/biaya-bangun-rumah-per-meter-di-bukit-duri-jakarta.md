@@ -1,6 +1,7 @@
 ---
 title: "Biaya Bangun Rumah Per Meter Di Bukit Duri Jakarta"
 date: "2024-04-04"
+lastmod: "2026-10-25"
 categories: 
   - "bangunan"
 type: "service"

@@ -1,6 +1,7 @@
 ---
 title: "Harga Kanopi Per Meter Di Mangga Dua Jakarta"
 date: "2022-04-26"
+lastmod: "2026-10-25"
 categories: 
   - "kanopi"
 type: "service"

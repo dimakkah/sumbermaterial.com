@@ -1,6 +1,7 @@
 ---
 title: "Harga Cor Ready Mix K225 Per m3 Di Jatisampurna Bekasi"
 date: "2024-07-10"
+lastmod: "2026-10-25"
 categories: 
   - "readymix"
 type: "product"

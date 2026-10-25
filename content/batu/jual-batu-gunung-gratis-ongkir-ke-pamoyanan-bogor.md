@@ -1,6 +1,7 @@
 ---
 title: "Jual Batu Gunung Gratis Ongkir Ke Pamoyanan Bogor"
 date: "2024-08-23"
+lastmod: "2026-10-25"
 categories: 
   - "batu"
 type: "product"

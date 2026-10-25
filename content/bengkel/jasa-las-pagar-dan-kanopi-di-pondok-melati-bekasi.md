@@ -1,6 +1,7 @@
 ---
 title: "Jasa Las Pagar Dan Kanopi Di Pondok Melati Bekasi"
 date: "2024-07-29"
+lastmod: "2026-10-25"
 categories: 
   - "bengkel"
 type: "service"

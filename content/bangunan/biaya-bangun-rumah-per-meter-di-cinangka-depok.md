@@ -1,7 +1,7 @@
 ---
 title: "Biaya Bangun Rumah Per Meter Di Cinangka Depok"
 date: "2024-05-14"
-lastmod: "2026-10-17"
+lastmod: "2026-10-25"
 categories: 
   - "bangunan"
 type: "service"

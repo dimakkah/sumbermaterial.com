@@ -1,6 +1,7 @@
 ---
 title: "Harga Batu Split 2/3 Free Ongkir Ke Cilodong Depok"
 date: "2024-03-07"
+lastmod: "2026-10-25"
 categories: 
   - "batu"
 type: "product"

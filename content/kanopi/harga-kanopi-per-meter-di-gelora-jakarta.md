@@ -1,6 +1,7 @@
 ---
 title: "Harga Kanopi Per Meter Di Gelora Jakarta"
 date: "2022-02-24"
+lastmod: "2026-10-25"
 categories: 
   - "kanopi"
 type: "service"

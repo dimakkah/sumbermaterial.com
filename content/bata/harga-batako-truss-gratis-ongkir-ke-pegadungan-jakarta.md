@@ -1,6 +1,7 @@
 ---
 title: "Harga Batako Truss Gratis Ongkir Ke Pegadungan Jakarta"
 date: "2024-08-24"
+lastmod: "2026-10-25"
 categories: 
   - "bata"
 type: "product"

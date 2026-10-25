@@ -1,6 +1,7 @@
 ---
 title: "Harga Kanopi Per Meter Di Kedoya Jakarta"
 date: "2022-04-06"
+lastmod: "2026-10-25"
 categories: 
   - "kanopi"
 type: "service"

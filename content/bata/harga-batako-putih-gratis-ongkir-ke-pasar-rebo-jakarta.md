@@ -1,6 +1,7 @@
 ---
 title: "Harga Batako Putih Gratis Ongkir Ke Pasar Rebo Jakarta"
 date: "2024-09-18"
+lastmod: "2026-10-25"
 categories: 
   - "bata"
 type: "product"

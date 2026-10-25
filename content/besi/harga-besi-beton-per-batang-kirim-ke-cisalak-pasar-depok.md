@@ -1,6 +1,7 @@
 ---
 title: "Harga Besi Beton Per Batang Kirim Ke Cisalak Pasar Depok"
 date: "2024-04-16"
+lastmod: "2026-10-25"
 categories: 
   - "besi"
 type: "product"

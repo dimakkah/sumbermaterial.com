@@ -1,6 +1,7 @@
 ---
 title: "Harga Kanopi Per Meter Di Maniis Purwakarta"
 date: "2022-03-19"
+lastmod: "2026-10-25"
 categories: 
   - "kanopi"
 type: "service"

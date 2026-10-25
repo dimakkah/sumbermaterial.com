@@ -1,6 +1,7 @@
 ---
 title: "Harga Kanopi Per Meter Di Curugbitung Rangkasbitung"
 date: "2022-02-16"
+lastmod: "2026-10-25"
 categories: 
   - "kanopi"
 type: "service"

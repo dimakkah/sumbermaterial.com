@@ -1,6 +1,7 @@
 ---
 title: "Harga Kanopi Per Meter Di Menteng Dalam Jakarta"
 date: "2022-07-21"
+lastmod: "2026-10-25"
 categories: 
   - "kanopi"
 type: "service"

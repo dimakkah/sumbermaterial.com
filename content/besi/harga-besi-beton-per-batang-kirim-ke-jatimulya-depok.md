@@ -1,6 +1,7 @@
 ---
 title: "Harga Besi Beton Per Batang Kirim Ke Jatimulya Depok"
 date: "2024-03-08"
+lastmod: "2026-10-25"
 categories: 
   - "besi"
 type: "product"

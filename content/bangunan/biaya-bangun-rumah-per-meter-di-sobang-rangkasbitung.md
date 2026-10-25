@@ -1,6 +1,7 @@
 ---
 title: "Biaya Bangun Rumah Per Meter Di Sobang Rangkasbitung"
 date: "2022-12-22"
+lastmod: "2026-10-25"
 categories: 
   - "bangunan"
 type: "service"

@@ -1,6 +1,7 @@
 ---
 title: "Harga Kusen Alumunium Per Meter Di Sukakarya Bekasi"
 date: "2022-12-17"
+lastmod: "2026-10-25"
 categories: 
   - "kusen"
 type: "service"

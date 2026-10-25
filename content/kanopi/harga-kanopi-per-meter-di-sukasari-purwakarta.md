@@ -1,6 +1,7 @@
 ---
 title: "Harga Kanopi Per Meter Di Sukasari Purwakarta"
 date: "2022-02-07"
+lastmod: "2026-10-25"
 categories: 
   - "kanopi"
 type: "service"

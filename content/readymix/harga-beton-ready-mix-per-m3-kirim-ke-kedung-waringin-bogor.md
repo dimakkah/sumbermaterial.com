@@ -1,6 +1,7 @@
 ---
 title: "Harga Beton Ready Mix Per m3 Kirim Ke Kedung Waringin Bogor"
 date: "2024-08-02"
+lastmod: "2026-10-25"
 categories: 
   - "readymix"
 type: "product"

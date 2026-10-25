@@ -1,6 +1,7 @@
 ---
 title: "Harga Kanopi Per Meter Di Galaxi Jakarta"
 date: "2022-07-08"
+lastmod: "2026-10-25"
 categories: 
   - "kanopi"
 type: "service"

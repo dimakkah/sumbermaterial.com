@@ -1,6 +1,7 @@
 ---
 title: "Harga Kanopi Per Meter Di Tanah Sareal Jakarta"
 date: "2022-07-16"
+lastmod: "2026-10-25"
 categories: 
   - "kanopi"
 type: "service"

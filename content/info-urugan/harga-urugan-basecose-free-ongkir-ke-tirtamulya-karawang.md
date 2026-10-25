@@ -1,6 +1,7 @@
 ---
 title: "Harga Urugan Basecose Free Ongkir Ke Tirtamulya Karawang"
 date: "2022-12-28"
+lastmod: "2026-10-25"
 categories: 
   - "info-urugan"
 type: "product"

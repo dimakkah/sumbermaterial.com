@@ -1,6 +1,7 @@
 ---
 title: "Jual Batu Pondasi Gratis Ongkir Ke Tambelang Bekasi"
 date: "2024-03-18"
+lastmod: "2026-10-25"
 categories: 
   - "batu"
 type: "product"

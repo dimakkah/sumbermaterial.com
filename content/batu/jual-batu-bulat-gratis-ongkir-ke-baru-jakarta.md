@@ -1,6 +1,7 @@
 ---
 title: "Jual Batu Bulat Gratis Ongkir Ke Baru Jakarta"
 date: "2024-09-17"
+lastmod: "2026-10-25"
 categories: 
   - "batu"
 type: "product"

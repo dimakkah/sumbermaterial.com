@@ -1,6 +1,7 @@
 ---
 title: "Harga Besi H Beam Dan WF Kirim Ke Cisalak Pasar Depok"
 date: "2024-09-12"
+lastmod: "2026-10-25"
 categories: 
   - "wf"
 type: "product"

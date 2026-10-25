@@ -1,6 +1,7 @@
 ---
 title: "Harga Kusen Alumunium Per Meter Di Ciruas Serang"
 date: "2024-04-02"
+lastmod: "2026-10-25"
 categories: 
   - "kusen"
 type: "service"

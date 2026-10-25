@@ -1,6 +1,7 @@
 ---
 title: "Jual Batu Pondasi Gratis Ongkir Ke Papanggo Jakarta"
 date: "2024-05-12"
+lastmod: "2026-10-25"
 categories: 
   - "batu"
 type: "product"

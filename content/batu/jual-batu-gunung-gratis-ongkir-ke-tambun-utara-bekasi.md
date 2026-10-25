@@ -1,6 +1,7 @@
 ---
 title: "Jual Batu Gunung Gratis Ongkir Ke Tambun Utara Bekasi"
 date: "2024-06-06"
+lastmod: "2026-10-25"
 categories: 
   - "batu"
 type: "product"

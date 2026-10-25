@@ -1,6 +1,7 @@
 ---
 title: "Harga Batu Split 2/3 Free Ongkir Ke Gandaria Selatan Jakarta"
 date: "2024-09-15"
+lastmod: "2026-10-25"
 categories: 
   - "batu"
 type: "product"

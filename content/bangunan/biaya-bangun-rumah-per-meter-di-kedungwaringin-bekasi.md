@@ -1,6 +1,7 @@
 ---
 title: "Biaya Bangun Rumah Per Meter Di Kedungwaringin Bekasi"
 date: "2024-02-05"
+lastmod: "2026-10-25"
 categories: 
   - "bangunan"
 type: "service"

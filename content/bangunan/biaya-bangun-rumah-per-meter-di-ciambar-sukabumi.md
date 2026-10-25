@@ -1,7 +1,7 @@
 ---
 title: "Biaya Bangun Rumah Per Meter Di Ciambar Sukabumi"
 date: "2022-12-26"
-lastmod: "2026-10-11"
+lastmod: "2026-10-25"
 categories: 
   - "bangunan"
 type: "service"

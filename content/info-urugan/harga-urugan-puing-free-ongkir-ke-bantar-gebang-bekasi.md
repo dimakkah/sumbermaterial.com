@@ -1,6 +1,7 @@
 ---
 title: "Harga Urugan Puing Free Ongkir Ke Bantar Gebang Bekasi"
 date: "2024-10-07"
+lastmod: "2026-10-25"
 categories: 
   - "info-urugan"
 type: "product"

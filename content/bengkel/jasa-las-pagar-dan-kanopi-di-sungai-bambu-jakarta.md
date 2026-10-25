@@ -1,6 +1,7 @@
 ---
 title: "Jasa Las Pagar Dan Kanopi Di Sungai Bambu Jakarta"
 date: "2024-06-24"
+lastmod: "2026-10-25"
 categories: 
   - "bengkel"
 type: "service"

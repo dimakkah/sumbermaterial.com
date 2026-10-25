@@ -1,6 +1,7 @@
 ---
 title: "Harga Besi Beton Polos & Ulir Di Curug Mekar Bogor"
 date: "2024-05-08"
+lastmod: "2026-10-25"
 categories: 
   - "besi"
 type: "product"

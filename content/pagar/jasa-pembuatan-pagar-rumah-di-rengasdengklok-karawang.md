@@ -1,6 +1,7 @@
 ---
 title: "Jasa Pembuatan Pagar Rumah Di Rengasdengklok Karawang"
 date: "2022-08-10"
+lastmod: "2026-10-25"
 categories: 
   - "pagar"
 type: "service"

@@ -1,6 +1,7 @@
 ---
 title: "Biaya Bangun Rumah Per Meter Di Sukaresmi Bogor"
 date: "2024-05-16"
+lastmod: "2026-10-25"
 categories: 
   - "bangunan"
 type: "service"

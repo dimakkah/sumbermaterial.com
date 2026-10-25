@@ -1,6 +1,7 @@
 ---
 title: "Jual Batu Split 3/5 Free Ongkir Ke Bekasi Selatan"
 date: "2022-12-10"
+lastmod: "2026-10-25"
 categories: 
   - "batu"
 type: "product"

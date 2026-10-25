@@ -1,6 +1,7 @@
 ---
 title: "Harga Besi Beton Polos & Ulir Di Karangbahagia Bekasi"
 date: "2024-08-11"
+lastmod: "2026-10-25"
 categories: 
   - "besi"
 type: "product"

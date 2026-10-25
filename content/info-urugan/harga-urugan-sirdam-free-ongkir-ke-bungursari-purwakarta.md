@@ -1,6 +1,7 @@
 ---
 title: "Harga Urugan Sirdam Free Ongkir Ke Bungursari Purwakarta"
 date: "2022-12-20"
+lastmod: "2026-10-25"
 categories: 
   - "info-urugan"
 type: "product"

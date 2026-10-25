@@ -1,6 +1,7 @@
 ---
 title: "Jual Batu Sungai Gratis Ongkir Ke Karawang Timur Karawang"
 date: "2024-02-10"
+lastmod: "2026-10-25"
 categories: 
   - "batu"
 type: "product"

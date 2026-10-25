@@ -1,6 +1,7 @@
 ---
 title: "Harga Kanopi Per Meter Di Pejaten Timur Jakarta"
 date: "2022-05-10"
+lastmod: "2026-10-25"
 categories: 
   - "kanopi"
 type: "service"

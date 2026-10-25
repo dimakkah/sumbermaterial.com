@@ -1,6 +1,7 @@
 ---
 title: "Harga Besi H Beam Dan WF Kirim Ke Tomang Jakarta"
 date: "2024-08-02"
+lastmod: "2026-10-25"
 categories: 
   - "wf"
 type: "product"

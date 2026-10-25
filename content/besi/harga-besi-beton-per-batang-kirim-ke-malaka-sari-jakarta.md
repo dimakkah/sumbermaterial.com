@@ -1,6 +1,7 @@
 ---
 title: "Harga Besi Beton Per Batang Kirim Ke Malaka Sari Jakarta"
 date: "2024-09-11"
+lastmod: "2026-10-25"
 categories: 
   - "besi"
 type: "product"

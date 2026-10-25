@@ -1,6 +1,7 @@
 ---
 title: "Harga Batu Beskos Grade A dan B"
 date: "2024-06-19"
+lastmod: "2026-10-25"
 type: "product"
 description: "Harga Batu Beskos Grade A dan B. Untuk menghitung harga batu beskos per truknya, silahkan anda kalikan dengan 8kubik, yaitu jumlah kubikasi (volume) truk colt diesel yang kami punya"
 ---

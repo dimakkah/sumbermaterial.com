@@ -1,6 +1,7 @@
 ---
 title: "Harga Urugan Basecose Free Ongkir Ke Panongan Tangerang"
 date: "2024-08-05"
+lastmod: "2026-10-25"
 categories: 
   - "info-urugan"
 type: "product"

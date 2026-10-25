@@ -1,6 +1,7 @@
 ---
 title: "Harga Batako 3 Lubang Gratis Ongkir Ke Tegal Alur Jakarta"
 date: "2024-09-07"
+lastmod: "2026-10-25"
 categories: 
   - "bata"
 type: "product"

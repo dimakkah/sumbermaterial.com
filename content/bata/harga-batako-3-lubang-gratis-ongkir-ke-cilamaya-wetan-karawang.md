@@ -1,6 +1,7 @@
 ---
 title: "Harga Batako 3 Lubang Gratis Ongkir Ke Cilamaya Wetan Karawang"
 date: "2024-08-07"
+lastmod: "2026-10-25"
 categories: 
   - "bata"
 type: "product"

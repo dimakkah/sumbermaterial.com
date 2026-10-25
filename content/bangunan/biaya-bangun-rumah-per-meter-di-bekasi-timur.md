@@ -1,7 +1,7 @@
 ---
 title: "Biaya Bangun Rumah Per Meter Di Bekasi Timur"
 date: "2024-03-04"
-lastmod: "2026-10-08"
+lastmod: "2026-10-25"
 categories: 
   - "bangunan"
 type: "service"

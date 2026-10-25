@@ -1,6 +1,7 @@
 ---
 title: "Jual Batu Belah Gratis Ongkir Ke Tambelang Bekasi"
 date: "2024-05-05"
+lastmod: "2026-10-25"
 categories: 
   - "batu"
 type: "product"

@@ -1,6 +1,7 @@
 ---
 title: "Harga Kanopi Per Meter Di Pamarayan Serang"
 date: "2022-10-26"
+lastmod: "2026-10-25"
 categories: 
   - "kanopi"
 type: "service"

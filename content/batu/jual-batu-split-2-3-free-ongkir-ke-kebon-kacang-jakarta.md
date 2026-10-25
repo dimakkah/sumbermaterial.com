@@ -1,6 +1,7 @@
 ---
 title: "Jual Batu Split 2/3 Free Ongkir Ke Kebon Kacang Jakarta"
 date: "2022-12-11"
+lastmod: "2026-10-25"
 categories: 
   - "batu"
 type: "product"

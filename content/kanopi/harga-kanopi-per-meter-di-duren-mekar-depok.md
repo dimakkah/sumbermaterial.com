@@ -1,6 +1,7 @@
 ---
 title: "Harga Kanopi Per Meter Di Duren Mekar Depok"
 date: "2022-09-14"
+lastmod: "2026-10-25"
 categories: 
   - "kanopi"
 type: "service"

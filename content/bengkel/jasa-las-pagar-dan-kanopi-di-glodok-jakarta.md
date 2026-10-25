@@ -1,6 +1,7 @@
 ---
 title: "Jasa Las Pagar Dan Kanopi Di Glodok Jakarta"
 date: "2024-07-02"
+lastmod: "2026-10-25"
 categories: 
   - "bengkel"
 type: "service"

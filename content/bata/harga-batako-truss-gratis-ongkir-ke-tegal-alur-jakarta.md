@@ -1,6 +1,7 @@
 ---
 title: "Harga Batako Truss Gratis Ongkir Ke Tegal Alur Jakarta"
 date: "2024-06-08"
+lastmod: "2026-10-25"
 categories: 
   - "bata"
 type: "product"

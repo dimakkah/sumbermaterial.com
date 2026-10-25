@@ -1,7 +1,7 @@
 ---
 title: "Biaya Bangun Rumah Per Meter Di Cipedak Jakarta"
 date: "2024-09-08"
-lastmod: "2026-10-18"
+lastmod: "2026-10-25"
 categories: 
   - "bangunan"
 type: "service"

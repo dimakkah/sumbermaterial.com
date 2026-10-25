@@ -1,6 +1,7 @@
 ---
 title: "Jual Batu Split 3/5 Free Ongkir Ke Kuningan Barat Jakarta"
 date: "2024-08-20"
+lastmod: "2026-10-25"
 categories: 
   - "batu"
 type: "product"

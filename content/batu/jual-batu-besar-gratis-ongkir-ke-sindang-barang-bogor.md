@@ -1,6 +1,7 @@
 ---
 title: "Jual Batu Besar Gratis Ongkir Ke Sindang Barang Bogor"
 date: "2024-07-26"
+lastmod: "2026-10-25"
 categories: 
   - "batu"
 type: "product"

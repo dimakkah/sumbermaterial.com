@@ -1,6 +1,7 @@
 ---
 title: "Harga Kusen Alumunium Per Meter Di Kebon Baru Jakarta"
 date: "2024-07-04"
+lastmod: "2026-10-25"
 categories: 
   - "kusen"
 type: "service"

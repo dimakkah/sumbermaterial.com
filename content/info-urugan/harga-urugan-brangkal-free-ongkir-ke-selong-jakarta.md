@@ -1,6 +1,7 @@
 ---
 title: "Harga Urugan Brangkal Free Ongkir Ke Selong Jakarta"
 date: "2024-07-07"
+lastmod: "2026-10-25"
 categories: 
   - "info-urugan"
 type: "product"

@@ -1,6 +1,7 @@
 ---
 title: "Harga Kanopi Per Meter Di Tegalwaru Karawang"
 date: "2022-05-28"
+lastmod: "2026-10-25"
 categories: 
   - "kanopi"
 type: "service"

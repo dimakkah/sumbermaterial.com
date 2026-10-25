@@ -1,6 +1,7 @@
 ---
 title: "Harga Batako 3 Lubang Gratis Ongkir Ke Tugu Depok"
 date: "2024-08-13"
+lastmod: "2026-10-25"
 categories: 
   - "bata"
 type: "product"

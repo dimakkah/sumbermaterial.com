@@ -1,7 +1,7 @@
 ---
 title: "Biaya Bangun Rumah Per Meter Di Cililitan Jakarta"
 date: "2024-02-11"
-lastmod: "2026-10-16"
+lastmod: "2026-10-25"
 categories: 
   - "bangunan"
 type: "service"

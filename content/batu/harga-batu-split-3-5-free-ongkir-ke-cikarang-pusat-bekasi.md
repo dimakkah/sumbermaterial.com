@@ -1,6 +1,7 @@
 ---
 title: "Harga Batu Split 3/5 Free Ongkir Ke Cikarang Pusat Bekasi"
 date: "2024-03-12"
+lastmod: "2026-10-25"
 categories: 
   - "batu"
 type: "product"

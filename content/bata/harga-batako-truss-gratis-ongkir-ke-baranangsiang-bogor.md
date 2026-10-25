@@ -1,6 +1,7 @@
 ---
 title: "Harga Batako Truss Gratis Ongkir Ke Baranangsiang Bogor"
 date: "2024-06-20"
+lastmod: "2026-10-25"
 categories: 
   - "bata"
 type: "product"

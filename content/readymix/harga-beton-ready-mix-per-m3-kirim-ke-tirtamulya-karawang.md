@@ -1,6 +1,7 @@
 ---
 title: "Harga Beton Ready Mix Per m3 Kirim Ke Tirtamulya Karawang"
 date: "2024-10-10"
+lastmod: "2026-10-25"
 categories: 
   - "readymix"
 type: "product"

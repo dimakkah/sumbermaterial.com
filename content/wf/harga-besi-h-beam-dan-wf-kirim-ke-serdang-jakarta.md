@@ -1,6 +1,7 @@
 ---
 title: "Harga Besi H Beam Dan WF Kirim Ke Serdang Jakarta"
 date: "2024-07-16"
+lastmod: "2026-10-25"
 categories: 
   - "wf"
 type: "product"

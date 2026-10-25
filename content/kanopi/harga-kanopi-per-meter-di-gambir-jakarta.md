@@ -1,6 +1,7 @@
 ---
 title: "Harga Kanopi Per Meter Di Gambir Jakarta"
 date: "2022-07-20"
+lastmod: "2026-10-25"
 categories: 
   - "kanopi"
 type: "service"

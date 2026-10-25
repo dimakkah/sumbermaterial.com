@@ -1,6 +1,7 @@
 ---
 title: "Jasa Las Pagar Dan Kanopi Di Harjasari Bogor"
 date: "2024-08-27"
+lastmod: "2026-10-25"
 categories: 
   - "bengkel"
 type: "service"

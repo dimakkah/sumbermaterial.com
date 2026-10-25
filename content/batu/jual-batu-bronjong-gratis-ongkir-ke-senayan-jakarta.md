@@ -1,6 +1,7 @@
 ---
 title: "Jual Batu Bronjong Gratis Ongkir Ke Senayan Jakarta"
 date: "2024-07-12"
+lastmod: "2026-10-25"
 categories: 
   - "batu"
 type: "product"

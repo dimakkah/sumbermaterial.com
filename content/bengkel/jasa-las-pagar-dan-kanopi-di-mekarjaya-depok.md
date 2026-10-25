@@ -1,6 +1,7 @@
 ---
 title: "Jasa Las Pagar Dan Kanopi Di Mekarjaya Depok"
 date: "2022-12-15"
+lastmod: "2026-10-25"
 categories: 
   - "bengkel"
 type: "service"

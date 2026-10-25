@@ -1,6 +1,7 @@
 ---
 title: "Jasa Pembuatan Pagar Rumah Di Karawang Barat Karawang"
 date: "2022-01-23"
+lastmod: "2026-10-25"
 categories: 
   - "pagar"
 type: "service"

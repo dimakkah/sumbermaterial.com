@@ -1,6 +1,7 @@
 ---
 title: "Harga Batu Split 3/5 Free Ongkir Ke Loji Bogor"
 date: "2022-12-10"
+lastmod: "2026-10-25"
 categories: 
   - "batu"
 type: "product"

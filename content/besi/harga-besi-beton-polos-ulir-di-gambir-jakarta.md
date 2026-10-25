@@ -1,6 +1,7 @@
 ---
 title: "Harga Besi Beton Polos &amp; Ulir Di Gambir Jakarta"
 date: "2024-07-07"
+lastmod: "2026-10-25"
 categories: 
   - "besi"
 type: "product"

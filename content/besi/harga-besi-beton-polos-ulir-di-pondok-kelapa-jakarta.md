@@ -1,6 +1,7 @@
 ---
 title: "Harga Besi Beton Polos &amp; Ulir Di Pondok Kelapa Jakarta"
 date: "2024-07-15"
+lastmod: "2026-10-25"
 categories: 
   - "besi"
 type: "product"

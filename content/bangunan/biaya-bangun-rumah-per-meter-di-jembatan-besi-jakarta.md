@@ -1,6 +1,7 @@
 ---
 title: "Biaya Bangun Rumah Per Meter Di Jembatan Besi Jakarta"
 date: "2024-09-28"
+lastmod: "2026-10-25"
 categories: 
   - "bangunan"
 type: "service"

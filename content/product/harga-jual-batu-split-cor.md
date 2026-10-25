@@ -1,6 +1,7 @@
 ---
 title: "Harga Jual Batu Split Cor Terbaru"
 date: "2024-06-19"
+lastmod: "2026-10-25"
 type: "product"
 description: "Harga Jual Batu Split Cor Terbaru. Untuk pemesanan batu split yang berkualitas anda bisa langsung menghubungi kami melalui telepon atau whatsapp yang kami sediakan pada web ini"
 ---

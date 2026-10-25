@@ -1,6 +1,7 @@
 ---
 title: "Harga Batako Truss Gratis Ongkir Ke Pluit Jakarta"
 date: "2024-07-16"
+lastmod: "2026-10-25"
 categories: 
   - "bata"
 type: "product"

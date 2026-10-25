@@ -1,6 +1,7 @@
 ---
 title: "Biaya Bangun Rumah Per Meter Di Pondok Pinang Jakarta"
 date: "2024-08-18"
+lastmod: "2026-10-25"
 categories: 
   - "bangunan"
 type: "service"

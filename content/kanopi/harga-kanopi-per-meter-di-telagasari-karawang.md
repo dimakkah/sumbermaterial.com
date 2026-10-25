@@ -1,6 +1,7 @@
 ---
 title: "Harga Kanopi Per Meter Di Telagasari Karawang"
 date: "2022-06-06"
+lastmod: "2026-10-25"
 categories: 
   - "kanopi"
 type: "service"

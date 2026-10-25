@@ -1,6 +1,7 @@
 ---
 title: "Harga Kanopi Per Meter Di Kayu Putih Jakarta"
 date: "2022-07-04"
+lastmod: "2026-10-25"
 categories: 
   - "kanopi"
 type: "service"

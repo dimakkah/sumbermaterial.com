@@ -1,6 +1,7 @@
 ---
 title: "Jasa Las Pagar Dan Kanopi Di Lenteng Agung Jakarta"
 date: "2024-07-11"
+lastmod: "2026-10-25"
 categories: 
   - "bengkel"
 type: "service"

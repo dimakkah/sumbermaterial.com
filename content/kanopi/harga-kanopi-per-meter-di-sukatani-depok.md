@@ -1,6 +1,7 @@
 ---
 title: "Harga Kanopi Per Meter Di Sukatani Depok"
 date: "2022-09-02"
+lastmod: "2026-10-25"
 categories: 
   - "kanopi"
 type: "service"

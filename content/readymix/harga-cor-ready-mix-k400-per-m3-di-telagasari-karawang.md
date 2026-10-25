@@ -1,6 +1,7 @@
 ---
 title: "Harga Cor Ready Mix K400 Per m3 Di Telagasari Karawang"
 date: "2024-07-25"
+lastmod: "2026-10-25"
 categories: 
   - "readymix"
 type: "product"

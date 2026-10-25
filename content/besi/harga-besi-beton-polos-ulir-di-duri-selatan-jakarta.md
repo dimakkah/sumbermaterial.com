@@ -1,6 +1,7 @@
 ---
 title: "Harga Besi Beton Polos & Ulir Di Duri Selatan Jakarta"
 date: "2024-08-13"
+lastmod: "2026-10-25"
 categories: 
   - "besi"
 type: "product"

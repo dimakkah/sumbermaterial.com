@@ -1,6 +1,7 @@
 ---
 title: "Harga Besi Beton Per Batang Kirim Ke Duri Selatan Jakarta"
 date: "2024-06-04"
+lastmod: "2026-10-25"
 categories: 
   - "besi"
 type: "product"

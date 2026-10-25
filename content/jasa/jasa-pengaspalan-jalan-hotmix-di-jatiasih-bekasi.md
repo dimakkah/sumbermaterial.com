@@ -1,6 +1,7 @@
 ---
 title: "Jasa Pengaspalan Jalan Hotmix Di Jatiasih Bekasi"
 date: "2022-11-19"
+lastmod: "2026-10-25"
 categories: 
   - "hotmix"
 description: "Jasa Pengaspalan Jalan Hotmix Di Jatiasih Bekasi. Kami yakni jasa yang fokus dalam bidang pembuatan jalan aspal juga lapangan hotmix, parkiran, lantai hotmix..."

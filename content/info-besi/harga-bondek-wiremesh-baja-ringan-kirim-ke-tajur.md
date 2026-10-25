@@ -1,6 +1,7 @@
 ---
 title: "Harga Bondek Wiremesh Baja Ringan Kirim Ke Tajur"
 date: "2024-06-26"
+lastmod: "2026-10-25"
 categories: 
   - "info-besi"
 type: "product"

@@ -1,6 +1,7 @@
 ---
 title: "Jasa Las Pagar Dan Kanopi Di Empang Bogor"
 date: "2024-03-11"
+lastmod: "2026-10-25"
 categories: 
   - "bengkel"
 type: "service"

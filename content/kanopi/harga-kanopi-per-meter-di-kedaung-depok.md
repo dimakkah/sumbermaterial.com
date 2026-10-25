@@ -1,6 +1,7 @@
 ---
 title: "Harga Kanopi Per Meter Di Kedaung Depok"
 date: "2022-03-11"
+lastmod: "2026-10-25"
 categories: 
   - "kanopi"
 type: "service"

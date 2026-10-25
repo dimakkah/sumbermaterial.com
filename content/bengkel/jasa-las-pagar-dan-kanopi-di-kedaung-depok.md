@@ -1,6 +1,7 @@
 ---
 title: "Jasa Las Pagar Dan Kanopi Di Kedaung Depok"
 date: "2022-12-07"
+lastmod: "2026-10-25"
 categories: 
   - "bengkel"
 type: "service"

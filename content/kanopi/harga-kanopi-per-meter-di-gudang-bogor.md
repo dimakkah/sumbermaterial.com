@@ -1,6 +1,7 @@
 ---
 title: "Harga Kanopi Per Meter Di Gudang Bogor"
 date: "2022-06-12"
+lastmod: "2026-10-25"
 categories: 
   - "kanopi"
 type: "service"

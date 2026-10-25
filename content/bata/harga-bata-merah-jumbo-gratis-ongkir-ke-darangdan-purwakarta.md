@@ -1,6 +1,7 @@
 ---
 title: "Harga Bata Merah Jumbo Gratis Ongkir Ke Darangdan Purwakarta"
 date: "2024-06-07"
+lastmod: "2026-10-25"
 categories: 
   - "bata"
 type: "product"

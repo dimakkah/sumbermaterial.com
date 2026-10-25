@@ -1,6 +1,7 @@
 ---
 title: "Jasa Pembuatan Pagar Rumah Di Banyusari Karawang"
 date: "2022-03-04"
+lastmod: "2026-10-25"
 categories: 
   - "pagar"
 type: "service"

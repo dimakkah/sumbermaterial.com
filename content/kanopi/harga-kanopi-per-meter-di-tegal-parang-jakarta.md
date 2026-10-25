@@ -1,6 +1,7 @@
 ---
 title: "Harga Kanopi Per Meter Di Tegal Parang Jakarta"
 date: "2022-05-21"
+lastmod: "2026-10-25"
 categories: 
   - "kanopi"
 type: "service"

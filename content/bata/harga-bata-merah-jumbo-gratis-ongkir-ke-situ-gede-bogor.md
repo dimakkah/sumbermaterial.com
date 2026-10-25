@@ -1,6 +1,7 @@
 ---
 title: "Harga Bata Merah Jumbo Gratis Ongkir Ke Situ Gede Bogor"
 date: "2024-08-14"
+lastmod: "2026-10-25"
 categories: 
   - "bata"
 type: "product"

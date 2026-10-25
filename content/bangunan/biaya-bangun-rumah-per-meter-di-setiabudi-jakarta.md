@@ -1,6 +1,7 @@
 ---
 title: "Biaya Bangun Rumah Per Meter Di Setiabudi Jakarta"
 date: "2024-05-20"
+lastmod: "2026-10-25"
 categories: 
   - "bangunan"
 type: "service"

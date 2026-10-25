@@ -1,6 +1,7 @@
 ---
 title: "Jual Batu Besar Gratis Ongkir Ke Mangga Dua Jakarta"
 date: "2024-07-06"
+lastmod: "2026-10-25"
 categories: 
   - "batu"
 type: "product"

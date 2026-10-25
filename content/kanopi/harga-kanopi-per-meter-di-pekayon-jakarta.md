@@ -1,6 +1,7 @@
 ---
 title: "Harga Kanopi Per Meter Di Pekayon Jakarta"
 date: "2022-09-16"
+lastmod: "2026-10-25"
 categories: 
   - "kanopi"
 type: "service"

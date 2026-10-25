@@ -1,6 +1,7 @@
 ---
 title: "Jual Batu Split 2/3 Free Ongkir Ke Ciganjur Jakarta"
 date: "2024-10-10"
+lastmod: "2026-10-25"
 categories: 
   - "batu"
 type: "product"

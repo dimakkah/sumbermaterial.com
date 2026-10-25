@@ -1,6 +1,7 @@
 ---
 title: "Jasa Pengaspalan Jalan Hotmix Di Bangka Jakarta"
 date: "2024-07-25"
+lastmod: "2026-10-25"
 categories: 
   - "hotmix"
 description: "Jasa Pengaspalan Jalan Hotmix Di Bangka Jakarta. Kami ialah jasa yang bergerak dalam lingkup pembuatan jalan hotmix juga lapangan aspal, parkiran, lantai asp..."

@@ -1,6 +1,7 @@
 ---
 title: "Jual Batu Split 2/3 Free Ongkir Ke Ciputat Timur Tangerang"
 date: "2024-08-15"
+lastmod: "2026-10-25"
 categories: 
   - "batu"
 type: "product"

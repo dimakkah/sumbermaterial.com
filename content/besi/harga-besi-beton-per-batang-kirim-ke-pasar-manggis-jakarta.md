@@ -1,6 +1,7 @@
 ---
 title: "Harga Besi Beton Per Batang Kirim Ke Pasar Manggis Jakarta"
 date: "2024-09-22"
+lastmod: "2026-10-25"
 categories: 
   - "besi"
 type: "product"

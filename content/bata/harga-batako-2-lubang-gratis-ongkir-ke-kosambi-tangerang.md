@@ -1,6 +1,7 @@
 ---
 title: "Harga Batako 2 Lubang Gratis Ongkir Ke Kosambi Tangerang"
 date: "2024-07-13"
+lastmod: "2026-10-25"
 categories: 
   - "bata"
 type: "product"

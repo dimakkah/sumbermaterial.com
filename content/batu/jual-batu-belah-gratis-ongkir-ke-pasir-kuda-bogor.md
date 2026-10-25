@@ -1,6 +1,7 @@
 ---
 title: "Jual Batu Belah Gratis Ongkir Ke Pasir Kuda Bogor"
 date: "2024-08-28"
+lastmod: "2026-10-25"
 categories: 
   - "batu"
 type: "product"

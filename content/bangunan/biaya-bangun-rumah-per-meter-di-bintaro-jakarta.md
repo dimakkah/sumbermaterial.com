@@ -1,7 +1,7 @@
 ---
 title: "Biaya Bangun Rumah Per Meter Di Bintaro Jakarta"
 date: "2024-03-14"
-lastmod: "2026-10-09"
+lastmod: "2026-10-25"
 categories: 
   - "bangunan"
 type: "service"

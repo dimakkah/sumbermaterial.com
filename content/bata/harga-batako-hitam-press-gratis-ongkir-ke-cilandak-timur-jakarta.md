@@ -1,6 +1,7 @@
 ---
 title: "Harga Batako Hitam Press Gratis Ongkir Ke Cilandak Timur Jakarta"
 date: "2024-08-01"
+lastmod: "2026-10-25"
 categories: 
   - "bata"
 type: "product"

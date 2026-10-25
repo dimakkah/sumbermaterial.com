@@ -1,6 +1,7 @@
 ---
 title: "Jasa Pembuatan Pagar Rumah Di Curug Bogor"
 date: "2022-02-27"
+lastmod: "2026-10-25"
 categories: 
   - "pagar"
 type: "service"

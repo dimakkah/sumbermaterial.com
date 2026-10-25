@@ -1,6 +1,7 @@
 ---
 title: "Harga Kanopi Per Meter Di Jati Padang Jakarta"
 date: "2024-05-20"
+lastmod: "2026-10-25"
 categories: 
   - "kanopi"
 type: "service"

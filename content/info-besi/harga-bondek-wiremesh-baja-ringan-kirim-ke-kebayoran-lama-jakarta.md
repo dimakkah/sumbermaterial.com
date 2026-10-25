@@ -1,6 +1,7 @@
 ---
 title: "Harga Bondek Wiremesh Baja Ringan Kirim Ke Kebayoran Lama Jakarta"
 date: "2024-09-03"
+lastmod: "2026-10-25"
 categories: 
   - "info-besi"
 type: "product"

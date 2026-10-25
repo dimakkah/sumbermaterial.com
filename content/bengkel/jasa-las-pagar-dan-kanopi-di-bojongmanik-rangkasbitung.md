@@ -1,6 +1,7 @@
 ---
 title: "Jasa Las Pagar Dan Kanopi Di Bojongmanik Rangkasbitung"
 date: "2024-07-09"
+lastmod: "2026-10-25"
 categories: 
   - "bengkel"
 type: "service"

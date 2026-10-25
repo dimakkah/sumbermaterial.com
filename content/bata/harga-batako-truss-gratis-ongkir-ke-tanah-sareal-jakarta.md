@@ -1,6 +1,7 @@
 ---
 title: "Harga Batako Truss Gratis Ongkir Ke Tanah Sareal Jakarta"
 date: "2024-09-17"
+lastmod: "2026-10-25"
 categories: 
   - "bata"
 type: "product"

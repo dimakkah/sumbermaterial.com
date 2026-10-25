@@ -1,6 +1,7 @@
 ---
 title: "Harga Besi Beton Polos &amp; Ulir Di Pinang Tangerang"
 date: "2024-06-24"
+lastmod: "2026-10-25"
 categories: 
   - "besi"
 type: "product"

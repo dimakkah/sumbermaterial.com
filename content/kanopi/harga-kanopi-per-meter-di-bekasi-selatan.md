@@ -1,6 +1,7 @@
 ---
 title: "Harga Kanopi Per Meter Di Bekasi Selatan"
 date: "2022-07-17"
+lastmod: "2026-10-25"
 categories: 
   - "kanopi"
 type: "service"

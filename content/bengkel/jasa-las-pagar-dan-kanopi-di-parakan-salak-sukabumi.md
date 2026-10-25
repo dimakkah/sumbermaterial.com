@@ -1,6 +1,7 @@
 ---
 title: "Jasa Las Pagar Dan Kanopi Di Parakan Salak Sukabumi"
 date: "2024-08-04"
+lastmod: "2026-10-25"
 categories: 
   - "bengkel"
 type: "service"

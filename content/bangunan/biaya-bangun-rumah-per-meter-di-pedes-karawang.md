@@ -1,6 +1,7 @@
 ---
 title: "Biaya Bangun Rumah Per Meter Di Pedes Karawang"
 date: "2022-12-15"
+lastmod: "2026-10-25"
 categories: 
   - "bangunan"
 type: "service"

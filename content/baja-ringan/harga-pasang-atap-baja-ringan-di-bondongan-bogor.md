@@ -1,6 +1,7 @@
 ---
 title: "Harga Pasang Atap Baja Ringan Di Bondongan Bogor"
 date: "2024-02-07"
+lastmod: "2026-10-25"
 categories: 
   - "baja-ringan"
 type: "service"

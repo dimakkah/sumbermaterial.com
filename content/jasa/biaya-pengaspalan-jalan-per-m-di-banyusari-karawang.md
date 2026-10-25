@@ -1,6 +1,7 @@
 ---
 title: "Biaya Pengaspalan Jalan Per M Di Banyusari Karawang"
 date: "2024-03-11"
+lastmod: "2026-10-25"
 categories: 
   - "jasa"
 type: "service"

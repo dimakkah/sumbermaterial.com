@@ -1,6 +1,7 @@
 ---
 title: "Harga Kanopi Per Meter Di Kalideres Jakarta"
 date: "2022-08-08"
+lastmod: "2026-10-25"
 categories: 
   - "kanopi"
 type: "service"

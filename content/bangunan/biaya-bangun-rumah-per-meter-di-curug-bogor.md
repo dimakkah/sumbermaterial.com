@@ -1,6 +1,7 @@
 ---
 title: "Biaya Bangun Rumah Per Meter Di Curug Bogor"
 date: "2022-12-21"
+lastmod: "2026-10-25"
 categories: 
   - "bangunan"
 type: "service"

@@ -1,6 +1,7 @@
 ---
 title: "Jual Batu Split 1/2 Free Ongkir Ke Pisangan Baru Jakarta"
 date: "2024-08-21"
+lastmod: "2026-10-25"
 categories: 
   - "batu"
 type: "product"

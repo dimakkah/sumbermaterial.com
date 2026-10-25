@@ -1,6 +1,7 @@
 ---
 title: "Biaya Bangun Rumah Per Meter Di Tanah Baru Depok"
 date: "2024-02-10"
+lastmod: "2026-10-25"
 categories: 
   - "bangunan"
 type: "service"

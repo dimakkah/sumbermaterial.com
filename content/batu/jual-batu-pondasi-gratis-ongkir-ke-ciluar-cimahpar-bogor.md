@@ -1,6 +1,7 @@
 ---
 title: "Jual Batu Pondasi Gratis Ongkir Ke Ciluar Cimahpar Bogor"
 date: "2024-06-26"
+lastmod: "2026-10-25"
 categories: 
   - "batu"
 type: "product"

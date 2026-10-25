@@ -1,6 +1,7 @@
 ---
 title: "Harga Batu Split 1/2 Free Ongkir Ke Tirtamulya Karawang"
 date: "2024-05-07"
+lastmod: "2026-10-25"
 categories: 
   - "batu"
 type: "product"

@@ -1,6 +1,7 @@
 ---
 title: "Biaya Bangun Rumah Per Meter Di Meruyung Depok"
 date: "2024-03-11"
+lastmod: "2026-10-25"
 categories: 
   - "bangunan"
 type: "service"

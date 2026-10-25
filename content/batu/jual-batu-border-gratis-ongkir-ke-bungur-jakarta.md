@@ -1,6 +1,7 @@
 ---
 title: "Jual Batu Border Gratis Ongkir Ke Bungur Jakarta"
 date: "2024-02-05"
+lastmod: "2026-10-25"
 categories: 
   - "batu"
 type: "product"

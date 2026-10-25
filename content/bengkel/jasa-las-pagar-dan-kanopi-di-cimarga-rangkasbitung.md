@@ -1,6 +1,7 @@
 ---
 title: "Jasa Las Pagar Dan Kanopi Di Cimarga Rangkasbitung"
 date: "2024-04-12"
+lastmod: "2026-10-25"
 categories: 
   - "bengkel"
 type: "service"

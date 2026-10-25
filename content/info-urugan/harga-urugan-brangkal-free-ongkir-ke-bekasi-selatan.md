@@ -1,6 +1,7 @@
 ---
 title: "Harga Urugan Brangkal Free Ongkir Ke Bekasi Selatan"
 date: "2022-12-23"
+lastmod: "2026-10-25"
 categories: 
   - "info-urugan"
 type: "product"

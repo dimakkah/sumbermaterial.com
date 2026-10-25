@@ -1,7 +1,7 @@
 ---
 title: "Biaya Bangun Rumah Per Meter Di Gambir Jakarta"
 date: "2024-09-14"
-lastmod: "2026-10-23"
+lastmod: "2026-10-25"
 categories: 
   - "bangunan"
 type: "service"

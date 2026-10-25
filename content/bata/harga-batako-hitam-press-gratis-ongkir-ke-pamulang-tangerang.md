@@ -1,6 +1,7 @@
 ---
 title: "Harga Batako Hitam Press Gratis Ongkir Ke Pamulang Tangerang"
 date: "2024-07-15"
+lastmod: "2026-10-25"
 categories: 
   - "bata"
 type: "product"

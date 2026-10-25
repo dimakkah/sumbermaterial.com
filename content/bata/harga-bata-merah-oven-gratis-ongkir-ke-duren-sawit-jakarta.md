@@ -1,6 +1,7 @@
 ---
 title: "Harga Bata Merah Oven Gratis Ongkir Ke Duren Sawit Jakarta"
 date: "2024-08-20"
+lastmod: "2026-10-25"
 categories: 
   - "bata"
 type: "product"

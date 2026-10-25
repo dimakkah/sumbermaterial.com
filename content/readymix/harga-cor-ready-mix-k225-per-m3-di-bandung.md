@@ -1,6 +1,7 @@
 ---
 title: "Harga Cor Ready Mix K225 Per m3 Di Bandung"
 date: "2024-10-09"
+lastmod: "2026-10-25"
 categories: 
   - "readymix"
 type: "product"

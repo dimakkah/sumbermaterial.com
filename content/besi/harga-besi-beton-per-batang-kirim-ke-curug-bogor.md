@@ -1,6 +1,7 @@
 ---
 title: "Harga Besi Beton Per Batang Kirim Ke Curug Bogor"
 date: "2024-08-21"
+lastmod: "2026-10-25"
 categories: 
   - "besi"
 type: "product"

@@ -1,6 +1,7 @@
 ---
 title: "Harga Kanopi Per Meter Di Sukaresmi Bogor"
 date: "2022-02-25"
+lastmod: "2026-10-25"
 categories: 
   - "kanopi"
 type: "service"

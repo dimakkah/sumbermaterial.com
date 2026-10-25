@@ -1,6 +1,7 @@
 ---
 title: "Harga Besi Beton Polos &amp; Ulir Di Serua Depok"
 date: "2024-06-26"
+lastmod: "2026-10-25"
 categories: 
   - "besi"
 type: "product"

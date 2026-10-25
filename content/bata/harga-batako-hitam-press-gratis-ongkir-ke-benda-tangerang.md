@@ -1,6 +1,7 @@
 ---
 title: "Harga Batako Hitam Press Gratis Ongkir Ke Benda Tangerang"
 date: "2024-08-22"
+lastmod: "2026-10-25"
 categories: 
   - "bata"
 type: "product"

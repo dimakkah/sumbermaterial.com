@@ -1,6 +1,7 @@
 ---
 title: "Harga Batako 3 Lubang Gratis Ongkir Ke Jati Pulo Jakarta"
 date: "2024-07-25"
+lastmod: "2026-10-25"
 categories: 
   - "bata"
 type: "product"

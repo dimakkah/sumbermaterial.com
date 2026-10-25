@@ -1,6 +1,7 @@
 ---
 title: "Harga Kanopi Per Meter Di Gandaria Selatan Jakarta"
 date: "2022-10-11"
+lastmod: "2026-10-25"
 categories: 
   - "kanopi"
 type: "service"

@@ -1,6 +1,7 @@
 ---
 title: "Harga Batu Split 3/5 Free Ongkir Ke Cikampek Karawang"
 date: "2024-06-21"
+lastmod: "2026-10-25"
 categories: 
   - "batu"
 type: "product"

@@ -1,6 +1,7 @@
 ---
 title: "Harga Besi Beton Polos & Ulir Di Genteng Bogor"
 date: "2024-02-12"
+lastmod: "2026-10-25"
 categories: 
   - "besi"
 type: "product"

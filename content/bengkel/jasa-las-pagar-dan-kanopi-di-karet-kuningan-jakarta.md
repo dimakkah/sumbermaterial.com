@@ -1,6 +1,7 @@
 ---
 title: "Jasa Las Pagar Dan Kanopi Di Karet Kuningan Jakarta"
 date: "2024-04-05"
+lastmod: "2026-10-25"
 categories: 
   - "bengkel"
 type: "service"

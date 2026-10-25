@@ -1,7 +1,7 @@
 ---
 title: "Biaya Bangun Rumah Per Meter Di Gandul Depok"
 date: "2024-04-28"
-lastmod: "2026-10-24"
+lastmod: "2026-10-25"
 categories: 
   - "bangunan"
 type: "service"

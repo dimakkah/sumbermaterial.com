@@ -1,6 +1,7 @@
 ---
 title: "Harga Batako Hitam Press Gratis Ongkir Ke Empang Bogor"
 date: "2024-08-30"
+lastmod: "2026-10-25"
 categories: 
   - "bata"
 type: "product"

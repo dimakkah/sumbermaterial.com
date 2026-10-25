@@ -1,6 +1,7 @@
 ---
 title: "Harga Besi Beton Per Batang Kirim Ke Senen Jakarta"
 date: "2024-09-24"
+lastmod: "2026-10-25"
 categories: 
   - "besi"
 type: "product"

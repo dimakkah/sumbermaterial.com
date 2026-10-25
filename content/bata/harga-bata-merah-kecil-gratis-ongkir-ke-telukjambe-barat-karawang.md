@@ -1,6 +1,7 @@
 ---
 title: "Harga Bata Merah Kecil Gratis Ongkir Ke Telukjambe Barat Karawang"
 date: "2024-08-05"
+lastmod: "2026-10-25"
 categories: 
   - "bata"
 type: "product"

@@ -1,6 +1,7 @@
 ---
 title: "Harga Batako Beton Gratis Ongkir Ke Menteng Bogor"
 date: "2024-06-02"
+lastmod: "2026-10-25"
 categories: 
   - "bata"
 type: "product"

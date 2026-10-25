@@ -1,6 +1,7 @@
 ---
 title: "Harga Kanopi Per Meter Di Jampang Kulon Sukabumi"
 date: "2022-06-13"
+lastmod: "2026-10-25"
 categories: 
   - "kanopi"
 type: "service"

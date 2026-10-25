@@ -1,6 +1,7 @@
 ---
 title: "Harga Kusen Alumunium Per Meter Di Genteng Bogor"
 date: "2024-05-04"
+lastmod: "2026-10-25"
 categories: 
   - "kusen"
 type: "service"

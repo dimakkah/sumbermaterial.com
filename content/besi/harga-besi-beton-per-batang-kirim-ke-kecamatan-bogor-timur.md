@@ -1,6 +1,7 @@
 ---
 title: "Harga Besi Beton Per Batang Kirim Ke Kecamatan Bogor Timur"
 date: "2024-09-19"
+lastmod: "2026-10-25"
 categories: 
   - "besi"
 type: "product"

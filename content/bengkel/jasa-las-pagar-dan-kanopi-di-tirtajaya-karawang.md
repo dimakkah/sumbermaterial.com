@@ -1,6 +1,7 @@
 ---
 title: "Jasa Las Pagar Dan Kanopi Di Tirtajaya Karawang"
 date: "2024-03-15"
+lastmod: "2026-10-25"
 categories: 
   - "bengkel"
 type: "service"

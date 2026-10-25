@@ -1,6 +1,7 @@
 ---
 title: "Jasa Las Pagar Dan Kanopi Di Cilendek Timur Bogor"
 date: "2024-09-19"
+lastmod: "2026-10-25"
 categories: 
   - "bengkel"
 type: "service"

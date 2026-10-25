@@ -1,7 +1,7 @@
 ---
 title: "Biaya Bangun Rumah Per Meter Di Banyusari Karawang"
 date: "2024-02-02"
-lastmod: "2026-10-08"
+lastmod: "2026-10-25"
 categories: 
   - "bangunan"
 type: "service"

@@ -1,6 +1,7 @@
 ---
 title: "Harga Batako Press Hitam Terbaru"
 date: "2024-06-19"
+lastmod: "2026-10-25"
 type: "product"
 description: "Harga Batako Press Hitam Terbaru. Anda juga bisa memesannya langsung kepada Toko Sumber Material dengan spek batako seperti diatas. Agar Anda bisa mendapatkan bahan material **batako** maupun material lain yang kuat dan tahan lama sesuai dengan kebutuhan Anda"
 ---

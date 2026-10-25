@@ -1,6 +1,7 @@
 ---
 title: "Harga Bondek Wiremesh Baja Ringan Kirim Ke Curug Bogor"
 date: "2024-05-16"
+lastmod: "2026-10-25"
 categories: 
   - "info-besi"
 type: "product"

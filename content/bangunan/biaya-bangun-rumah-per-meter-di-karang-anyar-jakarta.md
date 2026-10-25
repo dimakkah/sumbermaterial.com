@@ -1,6 +1,7 @@
 ---
 title: "Biaya Bangun Rumah Per Meter Di Karang Anyar Jakarta"
 date: "2024-02-01"
+lastmod: "2026-10-25"
 categories: 
   - "bangunan"
 type: "service"

@@ -1,6 +1,7 @@
 ---
 title: "Harga Kanopi Per Meter Di Cibuaya Karawang"
 date: "2022-11-23"
+lastmod: "2026-10-25"
 categories: 
   - "kanopi"
 type: "service"

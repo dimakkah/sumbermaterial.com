@@ -1,6 +1,7 @@
 ---
 title: "Harga Kanopi Per Meter Di Pondok Melati Bekasi"
 date: "2022-05-14"
+lastmod: "2026-10-25"
 categories: 
   - "kanopi"
 type: "service"

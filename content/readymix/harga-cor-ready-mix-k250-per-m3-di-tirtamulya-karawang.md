@@ -1,6 +1,7 @@
 ---
 title: "Harga Cor Ready Mix K250 Per m3 Di Tirtamulya Karawang"
 date: "2024-08-11"
+lastmod: "2026-10-25"
 categories: 
   - "readymix"
 type: "product"

@@ -1,6 +1,7 @@
 ---
 title: "Harga Kanopi Per Meter Di Jatijajar Depok"
 date: "2022-10-13"
+lastmod: "2026-10-25"
 categories: 
   - "kanopi"
 type: "service"

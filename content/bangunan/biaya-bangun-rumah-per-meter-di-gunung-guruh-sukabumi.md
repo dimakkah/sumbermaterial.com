@@ -1,6 +1,7 @@
 ---
 title: "Biaya Bangun Rumah Per Meter Di Gunung Guruh Sukabumi"
 date: "2024-03-03"
+lastmod: "2026-10-25"
 categories: 
   - "bangunan"
 type: "service"

@@ -1,6 +1,7 @@
 ---
 title: "Harga Beton Ready Mix Per m3 Kirim Ke Duren Mekar Depok"
 date: "2024-09-18"
+lastmod: "2026-10-25"
 categories: 
   - "readymix"
 type: "product"

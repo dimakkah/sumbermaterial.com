@@ -1,6 +1,7 @@
 ---
 title: "Jual Batu Gunung Gratis Ongkir Ke Pebayuran Bekasi"
 date: "2024-07-13"
+lastmod: "2026-10-25"
 categories: 
   - "batu"
 type: "product"

@@ -1,6 +1,7 @@
 ---
 title: "Harga Kusen Alumunium Per Meter Di Malaka Jaya Jakarta"
 date: "2024-07-30"
+lastmod: "2026-10-25"
 categories: 
   - "kusen"
 type: "service"

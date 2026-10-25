@@ -1,6 +1,7 @@
 ---
 title: "Harga Batako Putih Gratis Ongkir Ke Tegal Alur Jakarta"
 date: "2024-08-22"
+lastmod: "2026-10-25"
 categories: 
   - "bata"
 type: "product"

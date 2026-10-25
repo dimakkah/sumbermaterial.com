@@ -1,6 +1,7 @@
 ---
 title: "Harga Besi Beton Per Batang Kirim Ke Sobang Rangkasbitung"
 date: "2024-06-02"
+lastmod: "2026-10-25"
 categories: 
   - "besi"
 type: "product"

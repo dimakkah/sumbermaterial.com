@@ -1,6 +1,7 @@
 ---
 title: "Harga Besi H Beam Dan WF Kirim Ke Tambelang Bekasi"
 date: "2024-09-23"
+lastmod: "2026-10-25"
 categories: 
   - "wf"
 type: "product"

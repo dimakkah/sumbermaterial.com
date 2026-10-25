@@ -1,6 +1,7 @@
 ---
 title: "Harga Besi H Beam Dan WF Kirim Ke Periuk Tangerang"
 date: "2024-07-21"
+lastmod: "2026-10-25"
 categories: 
   - "wf"
 type: "product"

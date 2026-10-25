@@ -1,7 +1,7 @@
 ---
 title: "Biaya Bangun Rumah Per Meter Di Cipete Selatan Jakarta"
 date: "2024-02-18"
-lastmod: "2026-10-18"
+lastmod: "2026-10-25"
 categories: 
   - "bangunan"
 type: "service"

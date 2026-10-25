@@ -1,6 +1,7 @@
 ---
 title: "Jasa Las Pagar Dan Kanopi Di Pisangan Timur Jakarta"
 date: "2022-12-04"
+lastmod: "2026-10-25"
 categories: 
   - "bengkel"
 type: "service"

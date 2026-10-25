@@ -1,6 +1,7 @@
 ---
 title: "Harga Batu Split 3/5 Free Ongkir Ke Tanah Baru Bogor"
 date: "2024-08-04"
+lastmod: "2026-10-25"
 categories: 
   - "batu"
 type: "product"

@@ -1,6 +1,7 @@
 ---
 title: "Harga Batako 3 Lubang Gratis Ongkir Ke Pademangan Jakarta"
 date: "2024-07-04"
+lastmod: "2026-10-25"
 categories: 
   - "bata"
 type: "product"

@@ -1,6 +1,7 @@
 ---
 title: "Harga Kanopi Per Meter Di Darangdan Purwakarta"
 date: "2022-06-07"
+lastmod: "2026-10-25"
 categories: 
   - "kanopi"
 type: "service"

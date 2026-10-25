@@ -1,6 +1,7 @@
 ---
 title: "Jasa Las Pagar Dan Kanopi Di Cipondoh Tangerang"
 date: "2024-08-16"
+lastmod: "2026-10-25"
 categories: 
   - "bengkel"
 type: "service"

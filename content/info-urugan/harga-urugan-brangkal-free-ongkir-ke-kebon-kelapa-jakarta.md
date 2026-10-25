@@ -1,6 +1,7 @@
 ---
 title: "Harga Urugan Brangkal Free Ongkir Ke Kebon Kelapa Jakarta"
 date: "2024-06-19"
+lastmod: "2026-10-25"
 categories: 
   - "info-urugan"
 type: "product"

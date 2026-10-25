@@ -1,6 +1,7 @@
 ---
 title: "Biaya Bangun Rumah Per Meter Di Tanjung Duren Jakarta"
 date: "2024-09-12"
+lastmod: "2026-10-25"
 categories: 
   - "bangunan"
 type: "service"

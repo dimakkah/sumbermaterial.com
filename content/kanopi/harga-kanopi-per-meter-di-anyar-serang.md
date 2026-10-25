@@ -1,6 +1,7 @@
 ---
 title: "Harga Kanopi Per Meter Di Anyar Serang"
 date: "2022-04-05"
+lastmod: "2026-10-25"
 categories: 
   - "kanopi"
 type: "service"

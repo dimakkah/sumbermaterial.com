@@ -1,6 +1,7 @@
 ---
 title: "Harga Kanopi Per Meter Di Cijaku Rangkasbitung"
 date: "2022-01-30"
+lastmod: "2026-10-25"
 categories: 
   - "kanopi"
 type: "service"

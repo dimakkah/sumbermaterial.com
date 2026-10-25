@@ -1,6 +1,7 @@
 ---
 title: "Harga Urugan Sirtu Free Ongkir Ke Tanah Baru Bogor"
 date: "2024-10-03"
+lastmod: "2026-10-25"
 categories: 
   - "info-urugan"
 type: "product"

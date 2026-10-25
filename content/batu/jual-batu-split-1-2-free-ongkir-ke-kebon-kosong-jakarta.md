@@ -1,6 +1,7 @@
 ---
 title: "Jual Batu Split 1/2 Free Ongkir Ke Kebon Kosong Jakarta"
 date: "2024-05-22"
+lastmod: "2026-10-25"
 categories: 
   - "batu"
 type: "product"

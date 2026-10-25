@@ -1,6 +1,7 @@
 ---
 title: "Jasa Las Pagar Dan Kanopi Di Curugkembar Sukabumi"
 date: "2024-06-28"
+lastmod: "2026-10-25"
 categories: 
   - "bengkel"
 type: "service"

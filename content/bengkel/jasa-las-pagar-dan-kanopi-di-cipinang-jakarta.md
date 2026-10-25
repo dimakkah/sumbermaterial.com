@@ -1,6 +1,7 @@
 ---
 title: "Jasa Las Pagar Dan Kanopi Di Cipinang Jakarta"
 date: "2024-03-02"
+lastmod: "2026-10-25"
 categories: 
   - "bengkel"
 type: "service"

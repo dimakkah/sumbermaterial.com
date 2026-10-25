@@ -1,6 +1,7 @@
 ---
 title: "Jual Batu Border Gratis Ongkir Ke Serang Baru Bekasi"
 date: "2022-12-16"
+lastmod: "2026-10-25"
 categories: 
   - "batu"
 type: "product"

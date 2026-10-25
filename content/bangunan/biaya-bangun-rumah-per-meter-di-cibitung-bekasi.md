@@ -1,7 +1,7 @@
 ---
 title: "Biaya Bangun Rumah Per Meter Di Cibitung Bekasi"
 date: "2024-02-14"
-lastmod: "2026-10-13"
+lastmod: "2026-10-25"
 categories: 
   - "bangunan"
 type: "service"

@@ -1,6 +1,7 @@
 ---
 title: "Harga Besi Beton Polos & Ulir Di Kayumanis Bogor"
 date: "2024-09-03"
+lastmod: "2026-10-25"
 categories: 
   - "besi"
 type: "product"

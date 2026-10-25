@@ -1,6 +1,7 @@
 ---
 title: "Jasa Las Pagar Dan Kanopi Di Teluknaga Tangerang"
 date: "2024-10-01"
+lastmod: "2026-10-25"
 categories: 
   - "bengkel"
 type: "service"

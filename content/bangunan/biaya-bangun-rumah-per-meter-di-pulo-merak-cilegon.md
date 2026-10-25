@@ -1,6 +1,7 @@
 ---
 title: "Biaya Bangun Rumah Per Meter Di Pulo Merak Cilegon"
 date: "2022-12-01"
+lastmod: "2026-10-25"
 categories: 
   - "bangunan"
 type: "service"

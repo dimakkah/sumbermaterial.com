@@ -1,7 +1,7 @@
 ---
 title: "Biaya Bangun Rumah Per Meter Di Babelan Bekasi"
 date: "2024-03-12"
-lastmod: "2026-10-07"
+lastmod: "2026-10-25"
 categories: 
   - "bangunan"
 type: "service"

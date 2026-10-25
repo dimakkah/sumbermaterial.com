@@ -1,6 +1,7 @@
 ---
 title: "Harga Bata Merah Jumbo Gratis Ongkir Ke Balumbang Jaya Bogor"
 date: "2024-09-03"
+lastmod: "2026-10-25"
 categories: 
   - "bata"
 type: "product"

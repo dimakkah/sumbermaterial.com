@@ -1,6 +1,7 @@
 ---
 title: "Harga Kanopi Per Meter Di Kelapa Gading Jakarta"
 date: "2022-03-12"
+lastmod: "2026-10-25"
 categories: 
   - "kanopi"
 type: "service"

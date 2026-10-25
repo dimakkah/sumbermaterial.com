@@ -1,6 +1,7 @@
 ---
 title: "Harga Kusen Alumunium Per Meter Di Serang Baru Bekasi"
 date: "2024-04-19"
+lastmod: "2026-10-25"
 categories: 
   - "kusen"
 type: "service"

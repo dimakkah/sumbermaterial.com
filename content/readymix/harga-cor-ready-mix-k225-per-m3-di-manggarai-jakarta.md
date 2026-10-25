@@ -1,6 +1,7 @@
 ---
 title: "Harga Cor Ready Mix K225 Per m3 Di Manggarai Jakarta"
 date: "2024-09-15"
+lastmod: "2026-10-25"
 categories: 
   - "readymix"
 type: "product"

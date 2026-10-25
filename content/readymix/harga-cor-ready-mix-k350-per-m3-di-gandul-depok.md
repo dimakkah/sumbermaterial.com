@@ -1,6 +1,7 @@
 ---
 title: "Harga Cor Ready Mix K350 Per m3 Di Gandul Depok"
 date: "2024-07-11"
+lastmod: "2026-10-25"
 categories: 
   - "readymix"
 type: "product"

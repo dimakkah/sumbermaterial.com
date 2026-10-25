@@ -1,6 +1,7 @@
 ---
 title: "Harga Kanopi Per Meter Di Leuwidamar Rangkasbitung"
 date: "2024-02-19"
+lastmod: "2026-10-25"
 categories: 
   - "kanopi"
 type: "service"

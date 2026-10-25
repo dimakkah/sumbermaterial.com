@@ -1,6 +1,7 @@
 ---
 title: "Harga Besi H Beam Dan WF Kirim Ke Ciwandan Cilegon"
 date: "2024-07-31"
+lastmod: "2026-10-25"
 categories: 
   - "wf"
 type: "product"

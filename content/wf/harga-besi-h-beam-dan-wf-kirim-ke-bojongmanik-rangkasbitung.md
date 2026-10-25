@@ -1,6 +1,7 @@
 ---
 title: "Harga Besi H Beam Dan WF Kirim Ke Bojongmanik Rangkasbitung"
 date: "2024-07-12"
+lastmod: "2026-10-25"
 categories: 
   - "wf"
 type: "product"

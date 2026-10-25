@@ -1,7 +1,7 @@
 ---
 title: "Biaya Bangun Rumah Per Meter Di Cengkareng Barat Jakarta"
 date: "2024-03-31"
-lastmod: "2026-10-12"
+lastmod: "2026-10-25"
 categories: 
   - "bangunan"
 type: "service"

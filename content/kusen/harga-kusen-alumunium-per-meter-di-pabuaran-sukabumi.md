@@ -1,6 +1,7 @@
 ---
 title: "Harga Kusen Alumunium Per Meter Di Pabuaran Sukabumi"
 date: "2024-06-24"
+lastmod: "2026-10-25"
 categories: 
   - "kusen"
 type: "service"

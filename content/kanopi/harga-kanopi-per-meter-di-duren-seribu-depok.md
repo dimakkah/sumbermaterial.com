@@ -1,6 +1,7 @@
 ---
 title: "Harga Kanopi Per Meter Di Duren Seribu Depok"
 date: "2022-10-03"
+lastmod: "2026-10-25"
 categories: 
   - "kanopi"
 type: "service"

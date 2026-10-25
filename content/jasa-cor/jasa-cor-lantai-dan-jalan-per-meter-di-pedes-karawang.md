@@ -1,6 +1,7 @@
 ---
 title: "Jasa Cor Lantai dan Jalan Per Meter Di Pedes Karawang"
 date: "2024-08-10"
+lastmod: "2026-10-25"
 categories: 
   - "jasa-cor"
 type: "service"

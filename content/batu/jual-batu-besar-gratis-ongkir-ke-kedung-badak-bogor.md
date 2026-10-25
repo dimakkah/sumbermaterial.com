@@ -1,6 +1,7 @@
 ---
 title: "Jual Batu Besar Gratis Ongkir Ke Kedung Badak Bogor"
 date: "2024-05-15"
+lastmod: "2026-10-25"
 categories: 
   - "batu"
 type: "product"

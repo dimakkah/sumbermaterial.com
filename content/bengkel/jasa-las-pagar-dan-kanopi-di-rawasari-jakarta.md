@@ -1,6 +1,7 @@
 ---
 title: "Jasa Las Pagar Dan Kanopi Di Rawasari Jakarta"
 date: "2024-08-13"
+lastmod: "2026-10-25"
 categories: 
   - "bengkel"
 type: "service"

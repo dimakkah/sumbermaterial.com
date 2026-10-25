@@ -1,6 +1,7 @@
 ---
 title: "Harga Kusen Alumunium Per Meter Di Kwitang Jakarta"
 date: "2024-07-07"
+lastmod: "2026-10-25"
 categories: 
   - "kusen"
 type: "service"

@@ -1,6 +1,7 @@
 ---
 title: "Harga Batako Truss Gratis Ongkir Ke Kotabaru Karawang"
 date: "2024-07-26"
+lastmod: "2026-10-25"
 categories: 
   - "bata"
 type: "product"

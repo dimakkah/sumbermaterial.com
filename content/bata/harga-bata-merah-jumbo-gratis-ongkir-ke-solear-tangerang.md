@@ -1,6 +1,7 @@
 ---
 title: "Harga Bata Merah Jumbo Gratis Ongkir Ke Solear Tangerang"
 date: "2024-09-24"
+lastmod: "2026-10-25"
 categories: 
   - "bata"
 type: "product"

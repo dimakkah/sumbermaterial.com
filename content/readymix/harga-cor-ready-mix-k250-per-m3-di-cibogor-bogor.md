@@ -1,6 +1,7 @@
 ---
 title: "Harga Cor Ready Mix K250 Per m3 Di Cibogor Bogor"
 date: "2024-07-26"
+lastmod: "2026-10-25"
 categories: 
   - "readymix"
 type: "product"

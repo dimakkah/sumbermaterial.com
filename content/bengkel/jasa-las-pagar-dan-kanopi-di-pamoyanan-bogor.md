@@ -1,6 +1,7 @@
 ---
 title: "Jasa Las Pagar Dan Kanopi Di Pamoyanan Bogor"
 date: "2024-04-17"
+lastmod: "2026-10-25"
 categories: 
   - "bengkel"
 type: "service"

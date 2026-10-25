@@ -1,6 +1,7 @@
 ---
 title: "Harga Kanopi Per Meter Di Kertamaya Bogor"
 date: "2022-07-09"
+lastmod: "2026-10-25"
 categories: 
   - "kanopi"
 type: "service"

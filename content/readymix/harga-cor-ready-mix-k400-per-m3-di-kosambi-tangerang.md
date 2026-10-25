@@ -1,6 +1,7 @@
 ---
 title: "Harga Cor Ready Mix K400 Per m3 Di Kosambi Tangerang"
 date: "2024-07-12"
+lastmod: "2026-10-25"
 categories: 
   - "readymix"
 type: "product"

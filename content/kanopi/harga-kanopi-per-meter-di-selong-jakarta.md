@@ -1,6 +1,7 @@
 ---
 title: "Harga Kanopi Per Meter Di Selong Jakarta"
 date: "2022-10-28"
+lastmod: "2026-10-25"
 categories: 
   - "kanopi"
 type: "service"

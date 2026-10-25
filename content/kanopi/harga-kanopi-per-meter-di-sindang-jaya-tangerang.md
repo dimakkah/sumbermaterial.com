@@ -1,6 +1,7 @@
 ---
 title: "Harga Kanopi Per Meter Di Sindang Jaya Tangerang"
 date: "2022-08-19"
+lastmod: "2026-10-25"
 categories: 
   - "kanopi"
 type: "service"

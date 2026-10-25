@@ -1,6 +1,7 @@
 ---
 title: "Harga Besi H Beam Dan WF Kirim Ke Babakan Pasar Bogor"
 date: "2024-07-24"
+lastmod: "2026-10-25"
 categories: 
   - "wf"
 type: "product"

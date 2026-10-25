@@ -1,6 +1,7 @@
 ---
 title: "Harga Bata Merah Kecil Gratis Ongkir Ke Cipinang Melayu Jakarta"
 date: "2024-10-12"
+lastmod: "2026-10-25"
 categories: 
   - "bata"
 type: "product"

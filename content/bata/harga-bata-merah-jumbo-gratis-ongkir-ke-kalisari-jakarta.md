@@ -1,6 +1,7 @@
 ---
 title: "Harga Bata Merah Jumbo Gratis Ongkir Ke Kalisari Jakarta"
 date: "2024-09-04"
+lastmod: "2026-10-25"
 categories: 
   - "bata"
 type: "product"

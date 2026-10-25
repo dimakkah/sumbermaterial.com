@@ -1,6 +1,7 @@
 ---
 title: "Jasa Las Pagar Dan Kanopi Di Kapuk Jakarta"
 date: "2024-06-28"
+lastmod: "2026-10-25"
 categories: 
   - "bengkel"
 type: "service"

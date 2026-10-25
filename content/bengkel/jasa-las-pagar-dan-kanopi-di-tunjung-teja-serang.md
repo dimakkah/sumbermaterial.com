@@ -1,6 +1,7 @@
 ---
 title: "Jasa Las Pagar Dan Kanopi Di Tunjung Teja Serang"
 date: "2024-05-24"
+lastmod: "2026-10-25"
 categories: 
   - "bengkel"
 type: "service"

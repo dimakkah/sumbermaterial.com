@@ -1,6 +1,7 @@
 ---
 title: "Jasa Las Pagar Dan Kanopi Di Serdang Jakarta"
 date: "2024-03-20"
+lastmod: "2026-10-25"
 categories: 
   - "bengkel"
 type: "service"

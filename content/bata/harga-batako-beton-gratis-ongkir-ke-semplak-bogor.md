@@ -1,6 +1,7 @@
 ---
 title: "Harga Batako Beton Gratis Ongkir Ke Semplak Bogor"
 date: "2024-08-21"
+lastmod: "2026-10-25"
 categories: 
   - "bata"
 type: "product"

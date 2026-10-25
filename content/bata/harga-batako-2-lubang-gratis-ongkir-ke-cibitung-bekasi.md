@@ -1,6 +1,7 @@
 ---
 title: "Harga Batako 2 Lubang Gratis Ongkir Ke Cibitung Bekasi"
 date: "2024-07-30"
+lastmod: "2026-10-25"
 categories: 
   - "bata"
 type: "product"

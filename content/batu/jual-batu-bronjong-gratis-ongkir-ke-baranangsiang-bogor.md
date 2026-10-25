@@ -1,6 +1,7 @@
 ---
 title: "Jual Batu Bronjong Gratis Ongkir Ke Baranangsiang Bogor"
 date: "2024-09-30"
+lastmod: "2026-10-25"
 categories: 
   - "batu"
 type: "product"

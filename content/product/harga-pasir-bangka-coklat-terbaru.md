@@ -1,6 +1,7 @@
 ---
 title: "Harga Pasir Bangka Coklat Terbaru"
 date: "2024-06-19"
+lastmod: "2026-10-25"
 type: "product"
 description: "Harga Pasir Bangka Coklat Terbaru. Pasir Bangka Coklat adalah salah satu pasir yang sangat direkomendasikan oleh kami sebagai bahan pembangunan. Baik itu rumah, gedung maupun bangunan yang lain"
 ---

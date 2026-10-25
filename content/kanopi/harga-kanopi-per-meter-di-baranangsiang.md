@@ -1,6 +1,7 @@
 ---
 title: "Harga Kanopi Per Meter Di Baranangsiang"
 date: "2022-02-19"
+lastmod: "2026-10-25"
 categories: 
   - "kanopi"
 type: "service"

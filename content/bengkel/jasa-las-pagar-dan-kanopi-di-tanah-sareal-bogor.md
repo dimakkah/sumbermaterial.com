@@ -1,6 +1,7 @@
 ---
 title: "Jasa Las Pagar Dan Kanopi Di Tanah Sareal Bogor"
 date: "2022-12-30"
+lastmod: "2026-10-25"
 categories: 
   - "bengkel"
 type: "service"

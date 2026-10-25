@@ -1,6 +1,7 @@
 ---
 title: "Harga Pasang Atap Baja Ringan Di Bekasi Barat"
 date: "2022-07-24"
+lastmod: "2026-10-25"
 categories: 
   - "baja-ringan"
 type: "service"

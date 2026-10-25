@@ -1,6 +1,7 @@
 ---
 title: "Harga Batako Beton Gratis Ongkir Ke Ciracas Jakarta"
 date: "2024-07-10"
+lastmod: "2026-10-25"
 categories: 
   - "bata"
 type: "product"

@@ -1,6 +1,7 @@
 ---
 title: "Jual Batu Gunung Gratis Ongkir Ke Pela Mampang Jakarta"
 date: "2024-08-24"
+lastmod: "2026-10-25"
 categories: 
   - "batu"
 type: "product"

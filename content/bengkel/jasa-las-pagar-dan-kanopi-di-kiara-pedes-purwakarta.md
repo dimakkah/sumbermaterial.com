@@ -1,6 +1,7 @@
 ---
 title: "Jasa Las Pagar Dan Kanopi Di Kiara Pedes Purwakarta"
 date: "2024-08-21"
+lastmod: "2026-10-25"
 categories: 
   - "bengkel"
 type: "service"

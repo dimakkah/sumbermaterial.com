@@ -1,6 +1,7 @@
 ---
 title: "Biaya Bangun Rumah Per Meter Di Tanah Sareal Bogor"
 date: "2022-11-27"
+lastmod: "2026-10-25"
 categories: 
   - "bangunan"
 type: "service"

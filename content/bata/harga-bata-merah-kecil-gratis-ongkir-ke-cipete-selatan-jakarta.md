@@ -1,6 +1,7 @@
 ---
 title: "Harga Bata Merah Kecil Gratis Ongkir Ke Cipete Selatan Jakarta"
 date: "2024-06-21"
+lastmod: "2026-10-25"
 categories: 
   - "bata"
 type: "product"

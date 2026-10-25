@@ -1,6 +1,7 @@
 ---
 title: "Harga Batu Split 1/2 Free Ongkir Ke Pamoyanan Bogor"
 date: "2022-12-12"
+lastmod: "2026-10-25"
 categories: 
   - "batu"
 type: "product"

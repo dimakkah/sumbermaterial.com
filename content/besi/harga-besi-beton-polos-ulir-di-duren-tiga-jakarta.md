@@ -1,6 +1,7 @@
 ---
 title: "Harga Besi Beton Polos & Ulir Di Duren Tiga Jakarta"
 date: "2024-06-03"
+lastmod: "2026-10-25"
 categories: 
   - "besi"
 type: "product"

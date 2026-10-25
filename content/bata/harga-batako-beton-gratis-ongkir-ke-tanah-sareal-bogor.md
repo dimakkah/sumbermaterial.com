@@ -1,6 +1,7 @@
 ---
 title: "Harga Batako Beton Gratis Ongkir Ke Tanah Sareal Bogor"
 date: "2024-06-26"
+lastmod: "2026-10-25"
 categories: 
   - "bata"
 type: "product"

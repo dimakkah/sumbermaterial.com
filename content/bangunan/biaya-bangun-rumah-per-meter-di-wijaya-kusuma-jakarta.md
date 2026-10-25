@@ -1,6 +1,7 @@
 ---
 title: "Biaya Bangun Rumah Per Meter Di Wijaya Kusuma Jakarta"
 date: "2024-03-02"
+lastmod: "2026-10-25"
 categories: 
   - "bangunan"
 type: "service"

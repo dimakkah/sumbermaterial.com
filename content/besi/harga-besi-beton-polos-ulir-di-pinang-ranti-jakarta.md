@@ -1,6 +1,7 @@
 ---
 title: "Harga Besi Beton Polos & Ulir Di Pinang Ranti Jakarta"
 date: "2024-10-05"
+lastmod: "2026-10-25"
 categories: 
   - "besi"
 type: "product"

@@ -1,6 +1,7 @@
 ---
 title: "Harga Kusen Alumunium Per Meter Di Pakisjaya Karawang"
 date: "2024-05-21"
+lastmod: "2026-10-25"
 categories: 
   - "kusen"
 type: "service"

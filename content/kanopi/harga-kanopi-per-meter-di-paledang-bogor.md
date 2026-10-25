@@ -1,6 +1,7 @@
 ---
 title: "Harga Kanopi Per Meter Di Paledang Bogor"
 date: "2022-12-24"
+lastmod: "2026-10-25"
 categories: 
   - "kanopi"
 type: "service"

@@ -1,6 +1,7 @@
 ---
 title: "Biaya Pengaspalan Jalan Per M Di Babelan Bekasi"
 date: "2024-05-19"
+lastmod: "2026-10-25"
 categories: 
   - "jasa"
 type: "service"

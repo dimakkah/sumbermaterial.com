@@ -1,6 +1,7 @@
 ---
 title: "Harga Batako 3 Lubang Gratis Ongkir Ke Sukamaju Depok"
 date: "2024-10-17"
+lastmod: "2026-10-25"
 categories: 
   - "bata"
 type: "product"

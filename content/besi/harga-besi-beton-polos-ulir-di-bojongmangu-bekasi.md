@@ -1,6 +1,7 @@
 ---
 title: "Harga Besi Beton Polos &amp; Ulir Di Bojongmangu Bekasi"
 date: "2024-06-27"
+lastmod: "2026-10-25"
 categories: 
   - "besi"
 type: "product"

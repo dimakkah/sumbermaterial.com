@@ -1,6 +1,7 @@
 ---
 title: "Harga Besi H Beam Dan WF Kirim Ke Cikeusal Serang"
 date: "2024-06-21"
+lastmod: "2026-10-25"
 categories: 
   - "wf"
 type: "product"
