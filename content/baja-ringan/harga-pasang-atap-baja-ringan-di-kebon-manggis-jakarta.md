@@ -82,4 +82,4 @@ Berikut rincian biaya jasa pasang baja ringan yang perlu Anda ketahui:
 *   Harga jasa pasang baja ringan dapat berubah sewaktu-waktu karena fluktuasi harga material.
 *   Pembayaran dapat dilakukan dengan uang muka dan sisanya setelah pemasangan selesai.
 
-Anda dapat mempercayakan proyek atap Anda kepada Kami, Mitra Sumber Material di Kebon Manggis Jakarta. Kami siap membantu Anda dalam menentukan ukuran, kualitas, dan pemasangan yang tepat sesuai kebutuhan Anda. Hubungi Kami segera! [internal link ke halaman kontak] Jangan ragu untuk bertanya dan mendapatkan penawaran terbaik dari Kami.
+Anda dapat mempercayakan proyek atap Anda kepada Kami, Mitra Sumber Material di Kebon Manggis Jakarta. Kami siap membantu Anda dalam menentukan ukuran, kualitas, dan pemasangan yang tepat sesuai kebutuhan Anda. Hubungi Kami segera! [Chat WhatsApp](https://api.whatsapp.com/send?phone=6285776786091&text=*Halo sumbermaterial.com*%20%3A) Jangan ragu untuk bertanya dan mendapatkan penawaran terbaik dari Kami.

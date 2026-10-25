@@ -49,7 +49,7 @@ Anda tentu ingin mendapatkan harga makadam per truk yang paling kompetitif, buka
 *   **Bandingkan Harga dari Beberapa Supplier:** Jangan terpaku pada satu supplier saja. Lakukan riset dan bandingkan harga dari beberapa perusahaan penyedia material konstruksi, termasuk Kami di Sumber Material.
 *   **Pesan dalam Jumlah Besar:** Semakin besar volume pesanan Anda, semakin besar peluang untuk mendapatkan diskon.
 *   **Negosiasi Harga:** Jangan ragu untuk bernegosiasi dengan supplier, terutama jika Anda memesan dalam jumlah besar.
-*   **Perhatikan Kualitas Material:** Harga yang terlalu murah seringkali mengindikasikan kualitas material yang rendah. Pastikan makadam yang Anda beli memenuhi standar kualitas yang dibutuhkan untuk proyek Anda. [Baca juga artikel Kami tentang Batu Makadam 57 Jabodetabek: Harga, Kegunaan, dan Estimasi Biaya](/blog/batu-makadam-57/) untuk informasi lebih detail mengenai jenis makadam ini.
+*   **Perhatikan Kualitas Material:** Harga yang terlalu murah seringkali mengindikasikan kualitas material yang rendah. Pastikan makadam yang Anda beli memenuhi standar kualitas yang dibutuhkan untuk proyek Anda. Baca juga artikel Kami tentang [batu makadam 57 jabodetabek](/blog/batu-makadam-57/) untuk informasi lebih detail mengenai jenis makadam ini.
 *   **Perhitungkan Biaya Tersembunyi:** Selain harga makadam per truk, jangan lupa memperhitungkan biaya pengiriman, bongkar muat, dan potensi biaya tambahan lainnya.
 
 Kalau masih ada yang mau ditanyakan, jangan ragu menghubungi Kami lewat tombol **WhatsApp** atau **Telepon** pada halaman ini.

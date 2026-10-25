@@ -88,4 +88,4 @@ Berikut adalah beberapa alasan mengapa Anda perlu mempertimbangkan baja ringan u
  Bahan berkualitas: baja ringan kami memiliki sertifikasi dan standar keamanan 4 kali lebih baik daripada baja biasa. Kekuatannya mampu menopang beban berat.
  Tahan rayap: baja ringan kami dijamin tahan terhadap serangan rayap.
 
-Demikian informasi mengenai Harga Pasang Atap Baja Ringan Di Rancamaya Bogor. Jangan ragu untuk menghubungi kami untuk konsultasi dan penawaran terbaik! [[[PLACEHOLDER_N]]]
+Demikian informasi mengenai Harga Pasang Atap Baja Ringan Di Rancamaya Bogor. Jangan ragu untuk menghubungi kami untuk konsultasi dan penawaran terbaik!

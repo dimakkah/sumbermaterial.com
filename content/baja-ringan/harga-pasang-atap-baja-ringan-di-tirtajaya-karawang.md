@@ -84,6 +84,6 @@ Berikut adalah beberapa alasan mengapa Anda harus memilih baja ringan sebagai ke
 
  Baja ringan berkualitas tinggi. Baja ringan yang kami gunakan berkualitas tinggi dengan kandungan zinc dan aluminium yang memiliki sertifikasi dan standar keamanan empat kali lebih baik dibandingkan baja umum. Bahkan, daya tahannya dapat menopang beban berat.
 
- Baja ringan tahan rayap. Kami menjamin kerangka atap dan kanopi baja ringan kami tahan terhadap serangan rayap. [Harga Pasang Atap Baja Ringan Di Abadijaya Depok](https://sumbermaterial.com/baja-ringan/harga-pasang-atap-baja-ringan-di-abadijaya-depok/)
+ Baja ringan tahan rayap. Kami menjamin kerangka atap dan kanopi baja ringan kami tahan terhadap serangan rayap.
 
 Percayakan kebutuhan atap Anda kepada kami, Sumber Material Tirtajaya Karawang, dan kami siap membantu Anda memilih ukuran, kualitas, dan pemasangan yang paling sesuai dengan kebutuhan Anda. Kami siap mewujudkan atap impian Anda tanpa rasa khawatir. Terima kasih!

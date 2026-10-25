@@ -80,4 +80,4 @@ Berikut adalah detail biaya layanan pasang baja ringan yang perlu Anda ketahui:
 *   Harga jasa pasang baja ringan dapat berubah sewaktu-waktu karena fluktuasi harga material.
 *   Pembayaran dapat dilakukan dengan sistem *down payment* dan sisanya setelah pemasangan selesai. 
 
-Jadi, tunggu apa lagi? Segera hubungi Mitra Sumber Material untuk mendapatkan penawaran terbaik untuk pemasangan atap baja ringan di Ranggamekar Bogor!  Kami siap membantu mewujudkan atap impian Anda dengan kualitas terjamin dan harga yang bersaing.  [[[PLACEHOLDER_N]]] Hubungi kami sekarang juga untuk konsultasi gratis! Jangan tunda lagi, bangunan Anda layak mendapatkan yang terbaik.
+Jadi, tunggu apa lagi? Segera hubungi Mitra Sumber Material untuk mendapatkan penawaran terbaik untuk pemasangan atap baja ringan di Ranggamekar Bogor!  Kami siap membantu mewujudkan atap impian Anda dengan kualitas terjamin dan harga yang bersaing.  Hubungi kami sekarang juga untuk konsultasi gratis! Jangan tunda lagi, bangunan Anda layak mendapatkan yang terbaik.

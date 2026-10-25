@@ -71,7 +71,7 @@ Rumus perhitungan luas datar adalah (overstack + Panjang) x (lebar + overstack).
 
 Rumus perhitungan luas miring adalah Luas miring = Luas datar / Cosinus kemiringan atap. Jadi, 181.44 / 0.8666 = 209.52 m². Dengan demikian, luas kemiringan pada rangka atap baja ringan ini adalah 209.52 m².
 
-Dengan perhitungan ini, Anda dapat memperkirakan jumlah dan volume baja ringan yang dibutuhkan. Namun, jika Anda merasa kesulitan, jangan ragu untuk menghubungi kami. Kami siap membantu! [Harga Pasang Atap Baja Ringan Di Abadijaya Depok](/baja-ringan/harga-pasang-atap-baja-ringan-di-abadijaya-depok/)
+Dengan perhitungan ini, Anda dapat memperkirakan jumlah dan volume baja ringan yang dibutuhkan. Namun, jika Anda merasa kesulitan, jangan ragu untuk menghubungi kami. Kami siap membantu!
 
 ## Mengapa Memilih Kerangka Atap dan Kanopi Baja Ringan?
 

@@ -86,4 +86,4 @@ Berikut detail harga jasa pasang baja ringan yang perlu Anda ketahui:
 *   Biaya jasa pasang baja ringan dapat berubah sewaktu-waktu karena fluktuasi harga material.
 *   Pembayaran dapat dilakukan dengan *down payment* (DP) dan sisanya setelah pemasangan selesai.
 
-Sekian informasi mengenai Harga Pasang Atap Baja Ringan Di Beji Depok. Jangan ragu untuk menghubungi Kami untuk konsultasi dan penawaran terbaik! [internal link ke Harga Pasang Atap Baja Ringan Di Abadijaya Depok](/baja-ringan/harga-pasang-atap-baja-ringan-di-abadijaya-depok/) untuk perbandingan harga dan layanan di area tetangga Beji Depok.
+Sekian informasi mengenai Harga Pasang Atap Baja Ringan Di Beji Depok. Jangan ragu untuk menghubungi Kami untuk konsultasi dan penawaran terbaik! Informasi untuk wilayah lain bisa dilihat pada halaman [pasang atap baja ringan di Abadijaya Depok](/baja-ringan/harga-pasang-atap-baja-ringan-di-abadijaya-depok/).

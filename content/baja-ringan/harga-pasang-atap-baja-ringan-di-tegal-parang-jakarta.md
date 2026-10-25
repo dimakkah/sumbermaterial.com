@@ -82,4 +82,4 @@ Berikut adalah beberapa alasan yang perlu Anda ketahui sebelum menghubungi kami:
  Bahan berkualitas. Baja ringan dari kami bukanlah baja ringan sembarangan. Bahan utamanya adalah *zinc* dan aluminium yang telah memiliki sertifikasi dan standar keamanan 4 kali lebih baik dibandingkan baja biasa. Kekuatannya pun mampu menahan berkilo-kilo beban.
  Tahan rayap. Kami pastikan kerangka atap dan *canopy* dari baja ringan ini tahan terhadap rayap.
 
-Hubungi kami segera untuk mendapatkan penawaran terbaik dan layanan pemasangan baja ringan berkualitas di Tegal Parang Jakarta! Kami siap membantu Anda mewujudkan bangunan impian Anda.  [[[PLACEHOLDER_N]]]
+Hubungi kami segera untuk mendapatkan penawaran terbaik dan layanan pemasangan baja ringan berkualitas di Tegal Parang Jakarta! Kami siap membantu Anda mewujudkan bangunan impian Anda.

@@ -88,4 +88,4 @@ Berikut adalah informasi detail mengenai biaya jasa pasang baja ringan yang perl
 *   Biaya jasa pasang baja ringan dapat berubah sewaktu-waktu karena fluktuasi harga material.
 *   Pembayaran dapat dilakukan dengan *down payment* dan sisanya setelah pemasangan selesai.
 
-Di Kronjo Tangerang, Anda bisa percayakan hal ini kepada kami. Kami siap membantu Anda dalam menentukan ukuran, kualitas, dan pemasangan yang benar-benar sesuai dengan kebutuhan Anda tanpa meninggalkan sisa material. Terima kasih. [Harga Pasang Atap Baja Ringan Di Abadijaya Depok](/baja-ringan/harga-pasang-atap-baja-ringan-di-abadijaya-depok/) (internal link)
+Di Kronjo Tangerang, Anda bisa percayakan hal ini kepada kami. Kami siap membantu Anda dalam menentukan ukuran, kualitas, dan pemasangan yang benar-benar sesuai dengan kebutuhan Anda tanpa meninggalkan sisa material. Terima kasih.

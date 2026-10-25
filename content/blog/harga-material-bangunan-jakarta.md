@@ -31,7 +31,7 @@ Mari kita lihat perkiraan harga beberapa material bangunan utama saat ini di wil
 *   **Batu:** Harga batu split (untuk campuran beton) diperkirakan antara Rp 600.000 – Rp 800.000 per truk (sekitar 8-10 m³). Untuk batu kali, harganya berkisar Rp 450.000 – Rp 650.000 per truk.
 *   **Semen:** Harga semen per sak (50 kg) diperkirakan antara Rp 60.000 – Rp 75.000, tergantung merek dan kualitas.
 *   **Besi:** Harga besi beton (rebar) per batang (diameter 10mm – 16mm) berkisar antara Rp 7.000 – Rp 12.000 per meter. Harga besi hollow untuk rangka bangunan bervariasi, tergantung ukuran dan ketebalan.
-*   **Bata Merah:** Harga bata merah jumbo gratis ongkir ke wilayah Jakarta (seperti yang bisa Anda dapatkan di [Sumber Material](https://sumbermaterial.co.id/bata/harga-bata-merah-jumbo-gratis-ongkir-ke-cijantung-jakarta/)) berkisar antara Rp 400 - Rp 600 per buah, tergantung kualitas dan lokasi pengiriman.
+*   **Bata Merah:** Harga bata merah jumbo gratis ongkir ke wilayah Jakarta (seperti yang bisa Anda dapatkan di [Sumber Material](/bata/harga-bata-merah-jumbo-gratis-ongkir-ke-cijantung-jakarta/)) berkisar antara Rp 400 - Rp 600 per buah, tergantung kualitas dan lokasi pengiriman.
 
 ![Tumpukan material bangunan di lokasi konstruksi](/images/blog/harga-material-bangunan-2026-jakarta.jpg)
 
