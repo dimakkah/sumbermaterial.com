@@ -566,6 +566,7 @@ async function main() {
       // lama yang ikut terlindungi (mis. /[URL_KONTAK]) juga diperbaiki.
       const contactResult = ContactLink.applyContactLinks(revisedContent);
       revisedContent = contactResult.text;
+      revisedContent = LinkGuard.relativizeOwnLinks(revisedContent).text; // https://sumbermaterial.com/x -> /x/ (path saja)
       if (contactResult.created || contactResult.repaired || contactResult.demoted) {
         log(`   📞 Link kontak oleh script: ${contactResult.created} dibuat, ${contactResult.repaired} diperbaiki, ${contactResult.demoted} dijadikan teks`);
       }

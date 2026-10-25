@@ -1476,6 +1476,7 @@ function parseAndSave(raw, keyword, slug, imagePath, greeting, relatedCandidates
   // Link KONTAK ditulis script: token [[KONTAK|teks]] -> URL resmi (hugo.toml); link placeholder (mis. /[URL_KONTAK]) diperbaiki/dibuang.
   const contactResult = ContactLink.applyContactLinks(body);
   body = contactResult.text;
+  body = LinkGuard.relativizeOwnLinks(body).text; // https://sumbermaterial.com/x -> /x/ (path saja)
   if (contactResult.created || contactResult.repaired || contactResult.demoted) {
     console.log(`   📞 Link kontak oleh script: ${contactResult.created} dibuat, ${contactResult.repaired} diperbaiki, ${contactResult.demoted} dijadikan teks`);
   }

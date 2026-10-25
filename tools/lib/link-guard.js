@@ -39,4 +39,20 @@ function guardIssues(body) {
   return issues;
 }
 
-module.exports = { relevantCandidates, guardIssues };
+// Link ke domain sendiri (https://sumbermaterial.com/x) -> cukup path (/x/).
+// Hanya .com; domain lain tetap ditolak oleh guardIssues.
+const OWN_ABS_RE = /\]\((?:https?:)?\/\/(?:www\.)?sumbermaterial\.com(?::\d+)?(\/[^)\s]*)?\)/gi;
+function relativizeOwnLinks(text) {
+  let count = 0;
+  const out = (text || '').replace(OWN_ABS_RE, (_, path) => {
+    count++;
+    let p = path || '/';
+    const m = p.match(/^([^?#]*)(.*)$/);
+    let base = m[1], tail = m[2];
+    if (!base.endsWith('/') && !/\.[a-z0-9]{2,5}$/i.test(base)) base += '/';
+    return `](${base}${tail})`;
+  });
+  return { text: out, count };
+}
+
+module.exports = { relevantCandidates, guardIssues, relativizeOwnLinks };

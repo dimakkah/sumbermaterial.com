@@ -19,12 +19,18 @@ const { isValidLinkTarget } = require('./related-articles.js');
 const ROOT = path.join(__dirname, '..', '..');
 const MAX_CONTACT_LINKS = 1;
 
+// Alamat link Markdown TIDAK boleh berisi spasi atau tanda kurung: parser berhenti di spasi pertama dan sisanya tampil sebagai teks
+// (mis. text=*Halo sumbermaterial.com*). hugo.toml menyimpan URL WhatsApp dengan spasi karena dipakai di atribut HTML, jadi
+// untuk Markdown harus di-encode dulu.
+const safeUrl = u => String(u).trim().replace(/\s/g, '%20').replace(/\(/g, '%28').replace(/\)/g, '%29');
+const BROKEN_WA_RE = /(\]\()(https?:\/\/(?:api\.whatsapp\.com|wa\.me)\/[^)\n]*?\s[^)\n]*)(\))/g;   // link WhatsApp yang sudah terlanjur memuat spasi
+
 function readContactUrl() {
-  if (process.env.CONTACT_URL && process.env.CONTACT_URL.trim()) return process.env.CONTACT_URL.trim();
+  if (process.env.CONTACT_URL && process.env.CONTACT_URL.trim()) return safeUrl(process.env.CONTACT_URL);
   for (const f of ['hugo.toml', 'config.toml']) {
     try {
       const m = fs.readFileSync(path.join(ROOT, f), 'utf8').match(/^\s*whatsapp\s*=\s*"([^"]+)"/m);
-      if (m) return m[1].startsWith('//') ? 'https:' + m[1] : m[1];
+      if (m) return safeUrl(m[1].startsWith('//') ? 'https:' + m[1] : m[1]);
     } catch { /* coba file berikutnya */ }
   }
   return null;
@@ -37,7 +43,9 @@ const REAL_CONTACT_RE = /^https?:\/\/(api\.whatsapp\.com|wa\.me)\//i;
 const COMBINED_RE = /\[\[KONTAK\|([^\]\n]+?)\]\]|(?<!!)\[([^\]]+)\]\(([^)]*)\)/g;
 
 function applyContactLinks(text, max = MAX_CONTACT_LINKS, url = CONTACT_URL) {
-  const src = text || '';
+  url = url ? safeUrl(url) : url;
+  let waFixed = 0;
+  const src = (text || '').replace(BROKEN_WA_RE, (m, a, u, c) => { waFixed++; return a + safeUrl(u) + c; });
   let have = 0;
   for (const m of src.matchAll(/(?<!!)\[[^\]]+\]\(([^)\s]+)\)/g)) if (REAL_CONTACT_RE.test(m[1])) have++;
   let created = 0, repaired = 0, demoted = 0;
@@ -59,7 +67,7 @@ function applyContactLinks(text, max = MAX_CONTACT_LINKS, url = CONTACT_URL) {
     }
     demoted++; return anchor;                                        // placeholder tanpa pengganti → teks biasa
   });
-  return { text: out, created: created - repaired, repaired, demoted };
+  return { text: out, created: created - repaired, repaired: repaired + waFixed, demoted };
 }
 
 // Penjaga akhir: placeholder / token sisa yang tidak boleh sampai ke file.
@@ -67,6 +75,7 @@ function contactIssues(body) {
   const issues = [];
   const b = body || '';
   if (/\[\[KONTAK\|/.test(b)) issues.push('token [[KONTAK|...]] belum diubah menjadi link');
+  if (new RegExp(BROKEN_WA_RE.source).test(b)) issues.push('link WhatsApp memuat spasi (tidak akan terbaca sebagai link)');
   const bad = [...b.matchAll(/(?<!!)\[([^\]]+)\]\(([^)]*)\)/g)].filter(m => {
     const t = m[2].trim().split(/\s+/)[0] || '';
     return !isValidLinkTarget(t) || CONTACT_PATH_RE.test(t);
