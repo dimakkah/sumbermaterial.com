@@ -273,6 +273,10 @@ function isValidLinkTarget(target) {
   return false;
 }
 
+// Jangkar yang berisi sisa INSTRUKSI prompt ("internal link ke X", "Link ke artikel terkait: X", "URL internal ke ...",
+// "anchor text") atau frasa pembuka "Baca juga ..." — bukan frasa alami di dalam kalimat.
+const LEAK_ANCHOR_RE = /(^|[\s(])(internal\s*link|url\s*internal|link\s+(?:ke|artikel|terkait)|anchor\s*text|teks\s+tautan|klik\s+di\s+sini)|^\s*(?:baca|lihat)\s+juga\b/i;
+
 function resolveLinkTokens(text, candidates, maxLinks = 2) {
   const list = candidates || [];
   const urlToNum = new Map(list.map((c, i) => [c.url, i + 1]));
@@ -296,6 +300,10 @@ function resolveLinkTokens(text, candidates, maxLinks = 2) {
   out = out.replace(/\[\[LINK:(\d+)\|([^\]\n]+?)\]\]/g, (m, n, anchor) => {
     const idx = parseInt(n, 10) - 1;
     const cand = list[idx];
+    // Jangkar bocoran instruksi ("internal link ke X", "Baca juga ...") atau terlalu panjang (> 10 kata) bukan frasa alami:
+    // jangan dijadikan link. Bocoran instruksi dibuang seluruhnya; yang hanya kepanjangan dijadikan teks biasa.
+    if (cand && LEAK_ANCHOR_RE.test(anchor)) { dropped++; return ''; }
+    if (cand && anchor.trim().split(/\s+/).length > 10) { dropped++; return anchor.trim(); }
     if (!cand || used.has(idx) || kept >= maxLinks) { dropped++; return anchor.trim(); }
     used.add(idx);
     kept++;
@@ -341,6 +349,7 @@ module.exports = {
   stripBrokenLinks,
   findBrokenLinks,
   isValidLinkTarget,
+  LEAK_ANCHOR_RE,
   significantWords, // exported for reuse/testing
   significantWordsForMatching,
   stripLocationForMatching,

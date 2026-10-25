@@ -63,6 +63,7 @@ const {
   stripBrokenLinks,
 } = require('./lib/related-articles.js');
 const ContactLink = require('./lib/contact-link.js');
+const LinkGuard = require('./lib/link-guard.js');
 
 // Deterministic, crash-proof Markdown table rendering — see lib/safe-table.js.
 const { renderSafeTables, hasLeftoverTableMarkers } = require('./lib/safe-table.js');
@@ -440,6 +441,7 @@ function validatePlaceholders(revisedProtected, placeholders) {
 function validateFinalContent(original, revisedContent, location) {
   const issues = [];
   issues.push(...ContactLink.contactIssues(revisedContent));   // placeholder/token kontak sisa = tolak
+  issues.push(...LinkGuard.guardIssues(revisedContent));       // penanda/instruksi bocor sisa (mis. [[[PLACEHOLDER_N]]]) = tolak
   if (location && !revisedContent.toLowerCase().includes(location.toLowerCase())) {
     issues.push(`Location name "${location}" not found in revised output`);
   }
@@ -532,11 +534,12 @@ async function main() {
     const tArticle = Date.now();
 
     const categoryHint = guessCategoryHint(title, knownCategories);
-    const relatedCandidates = findRelatedCandidates(
+    // Kandidat link: ambil banyak, lalu saring ke yang BENAR-BENAR relevan (kota & produk sama) — lihat lib/link-guard.js.
+    const relatedCandidates = LinkGuard.relevantCandidates(title, findRelatedCandidates(
       { text: title, excludeUrl: url, categoryHint },
       articleIndex,
-      { max: 6 }
-    );
+      { max: 60 }
+    ), 6);
     log(`   🔗 ${relatedCandidates.length} related article candidate(s) found for internal linking.`);
 
     try {

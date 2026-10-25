@@ -33,6 +33,7 @@ const crypto = require('crypto');
 // in by renderTemplate() below.
 const PROMPTS = require('./prompts/generate-articles.json');
 const ContactLink = require('./lib/contact-link.js');
+const LinkGuard = require('./lib/link-guard.js');
 
 // NON-AI internal-link candidate selection (buildArticleIndex/findRelatedCandidates) and the
 // post-generation internal-link safety net (enforceInternalLinks) — see file header comments
@@ -1597,6 +1598,7 @@ function validateArticle(filePath) {
   // Internal links are already hard-capped at 2 by enforceInternalLinks() before this file
   // was written — this is just a visibility check in case that logic is ever bypassed.
   issues.push(...ContactLink.contactIssues(bodyOnly).map(i => `❌ ${i}`));
+  issues.push(...LinkGuard.guardIssues(bodyOnly).map(i => `❌ ${i}`));
   const internalLinkCount = (bodyOnly.match(/(?<!!)\[[^\]]+\]\(\/[^)\s]+\/\)/g) || []).length;
   if (internalLinkCount > 2) issues.push(`❌ ${internalLinkCount} internal link ditemukan (maksimal 2) — periksa enforceInternalLinks()`);
 
@@ -1867,11 +1869,12 @@ async function main() {
 
     try {
       const categoryHint = guessCategoryHint(item.keyword, knownCategories);
-      const relatedCandidates = findRelatedCandidates(
+      // Kandidat link: ambil banyak, lalu saring ke yang BENAR-BENAR relevan (kota & produk sama) — lihat lib/link-guard.js.
+      const relatedCandidates = LinkGuard.relevantCandidates(item.keyword, findRelatedCandidates(
         { text: item.keyword, excludeUrl: `/blog/${slug}/`, categoryHint },
         articleIndex,
-        { max: 6 }
-      );
+        { max: 60 }
+      ), 6);
       console.log(`   🔗 ${relatedCandidates.length} related article candidate(s) found for internal linking.`);
 
       const imgPath  = await pickImage(item.keyword, slug);

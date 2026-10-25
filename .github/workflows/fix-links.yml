@@ -1,0 +1,90 @@
+name: Fix Broken Links (manual)
+
+# Dijalankan MANUAL dari tab Actions → "Fix Broken Links (manual)" → Run workflow.
+#   mode = dry-run : hanya audit + laporan di log (tidak mengubah apa pun)
+#   mode = apply   : perbaiki link/penanda rusak di content/, commit, push, lalu deploy
+# Tanpa AI, tanpa secret Cloudflare. Detailnya: tools/fix-link-leaks.js dan tools/audit-links.js.
+on:
+  workflow_dispatch:
+    inputs:
+      mode:
+        description: 'dry-run = hanya laporan | apply = perbaiki + commit + deploy'
+        type: choice
+        options: [dry-run, apply]
+        default: dry-run
+
+# Satu grup dengan workflow lain yang menulis ke master (generate/revise/recycle/fix-orphans/dedupe)
+concurrency:
+  group: dataweb-repo-write
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+  actions: write   # untuk memicu deploy.yml (push dengan GITHUB_TOKEN tidak memicu workflow lain)
+
+jobs:
+  fix-links:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Self-test (tes alat perbaikan)
+        run: node tools/test-link-repair.js
+
+      - name: Audit sebelum
+        run: node tools/audit-links.js --show=3
+
+      - name: Perbaiki (${{ github.event.inputs.mode }})
+        run: |
+          if [ "${{ github.event.inputs.mode }}" = "apply" ]; then
+            node tools/fix-link-leaks.js --apply --show=0
+          else
+            node tools/fix-link-leaks.js --show=15
+          fi
+
+      - name: Audit sesudah
+        if: github.event.inputs.mode == 'apply'
+        run: node tools/audit-links.js --show=0
+
+      - name: Commit and Push Fixes
+        id: commit_push
+        if: github.event.inputs.mode == 'apply'
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add content/
+          if git diff --staged --quiet; then
+            echo "ℹ️  Tidak ada yang perlu diperbaiki."
+            echo "published=false" >> "$GITHUB_OUTPUT"
+            exit 0
+          fi
+          git commit -m "Fix broken/irrelevant links and leaked placeholders"
+          for i in 1 2 3 4 5; do
+            if git push origin master; then
+              echo "✅ Push berhasil (percobaan $i)."
+              echo "published=true" >> "$GITHUB_OUTPUT"
+              exit 0
+            fi
+            if [ "$i" -eq 5 ]; then echo "❌ Push gagal 5x — cek manual." >&2; exit 1; fi
+            sleep $(( (RANDOM % 10) + 5 ))
+            git fetch origin master
+            git stash push -u -m "pre-rebase-autostash" || true
+            git rebase origin/master
+            git stash drop || true
+          done
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Trigger Deploy
+        if: steps.commit_push.outputs.published == 'true'
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: gh workflow run deploy.yml --ref master
