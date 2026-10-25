@@ -424,7 +424,11 @@
     "/bangunan/biaya-bangun-rumah-per-meter-di-gelora-jakarta/",
     "/bangunan/biaya-bangun-rumah-per-meter-di-gunung-sahari-selatan-jakarta/",
     "/bangunan/biaya-bangun-rumah-per-meter-di-harjasari-bogor/",
-    "/bangunan/biaya-bangun-rumah-per-meter-di-jambe-tangerang/"
+    "/bangunan/biaya-bangun-rumah-per-meter-di-jambe-tangerang/",
+    "/bangunan/biaya-bangun-rumah-per-meter-di-glodok-jakarta/",
+    "/bangunan/biaya-bangun-rumah-per-meter-di-gunung-jakarta/",
+    "/bangunan/biaya-bangun-rumah-per-meter-di-jati-pulo-jakarta/",
+    "/bangunan/biaya-bangun-rumah-per-meter-di-jelambar-jakarta/"
   ],
   "failed": {
     "/baja-ringan/harga-pasang-atap-baja-ringan-di-anyar-serang/": 2,
@@ -751,15 +755,21 @@
     "/bangunan/biaya-bangun-rumah-per-meter-di-gandaria-selatan-jakarta/": 2,
     "/bangunan/biaya-bangun-rumah-per-meter-di-gandaria-utara-jakarta/": 1,
     "/bangunan/biaya-bangun-rumah-per-meter-di-gandul-depok/": 1,
-    "/bangunan/biaya-bangun-rumah-per-meter-di-gegerbitung-sukabumi/": 1,
-    "/bangunan/biaya-bangun-rumah-per-meter-di-genteng-bogor/": 1,
+    "/bangunan/biaya-bangun-rumah-per-meter-di-gegerbitung-sukabumi/": 2,
+    "/bangunan/biaya-bangun-rumah-per-meter-di-genteng-bogor/": 2,
     "/bangunan/biaya-bangun-rumah-per-meter-di-glodok-jakarta/": 1,
-    "/bangunan/biaya-bangun-rumah-per-meter-di-grogol-depok/": 1,
-    "/bangunan/biaya-bangun-rumah-per-meter-di-grogol-jakarta/": 1,
-    "/bangunan/biaya-bangun-rumah-per-meter-di-gudang-bogor/": 1,
-    "/bangunan/biaya-bangun-rumah-per-meter-di-guntur-jakarta/": 1,
+    "/bangunan/biaya-bangun-rumah-per-meter-di-grogol-depok/": 2,
+    "/bangunan/biaya-bangun-rumah-per-meter-di-grogol-jakarta/": 2,
+    "/bangunan/biaya-bangun-rumah-per-meter-di-gudang-bogor/": 2,
+    "/bangunan/biaya-bangun-rumah-per-meter-di-guntur-jakarta/": 2,
     "/bangunan/biaya-bangun-rumah-per-meter-di-gunung-jakarta/": 1,
-    "/bangunan/biaya-bangun-rumah-per-meter-di-gunung-sahari-jakarta/": 1,
-    "/bangunan/biaya-bangun-rumah-per-meter-di-gunungkencana-rangkasbitung/": 1
+    "/bangunan/biaya-bangun-rumah-per-meter-di-gunung-sahari-jakarta/": 2,
+    "/bangunan/biaya-bangun-rumah-per-meter-di-gunungkencana-rangkasbitung/": 2,
+    "/bangunan/biaya-bangun-rumah-per-meter-di-jati-padang-jakarta/": 1,
+    "/bangunan/biaya-bangun-rumah-per-meter-di-jatimulya-depok/": 1,
+    "/bangunan/biaya-bangun-rumah-per-meter-di-jatisari-karawang/": 1,
+    "/bangunan/biaya-bangun-rumah-per-meter-di-jawilan-serang/": 1,
+    "/bangunan/biaya-bangun-rumah-per-meter-di-jayakerta-karawang/": 1,
+    "/bangunan/biaya-bangun-rumah-per-meter-di-jayanti-tangerang/": 1
   }
 }
