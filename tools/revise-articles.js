@@ -64,6 +64,7 @@ const {
 } = require('./lib/related-articles.js');
 const ContactLink = require('./lib/contact-link.js');
 const LinkGuard = require('./lib/link-guard.js');
+const MdLint = require('./lib/md-lint.js');
 
 // Deterministic, crash-proof Markdown table rendering — see lib/safe-table.js.
 const { renderSafeTables, hasLeftoverTableMarkers } = require('./lib/safe-table.js');
@@ -580,6 +581,11 @@ async function main() {
       }
       const brokenResult = stripBrokenLinks(revisedContent);
       revisedContent = brokenResult.text;
+      // Rapikan struktur Markdown hasil AI (baris kosong antar-blok, level heading, daftar, ** tak berpasangan, dll.);
+      // blok HTML/tabel/shortcode tidak disentuh.
+      const lintResult = MdLint.fixMarkdown(revisedContent);
+      revisedContent = lintResult.text;
+      if (lintResult.fixes.length) log(`   🧹 Struktur Markdown dirapikan: ${lintResult.fixes.join('; ')}`);
       log(`   🔗 Internal links added by script: ${linkResult.resolved}` +
         (linkResult.dropped ? ` (${linkResult.dropped} invalid AI link(s) demoted to plain text)` : '') +
         (brokenResult.removed.length ? ` | ${brokenResult.removed.length} broken link(s) demoted: ${brokenResult.removed.map(r => `[${r.anchor}](${r.target})`).join(', ')}` : ''));

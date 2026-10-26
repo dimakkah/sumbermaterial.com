@@ -34,6 +34,11 @@ const crypto = require('crypto');
 const PROMPTS = require('./prompts/generate-articles.json');
 const ContactLink = require('./lib/contact-link.js');
 const LinkGuard = require('./lib/link-guard.js');
+const MdLint = require('./lib/md-lint.js');
+
+// Panjang artikel: prompt meminta 900–1100 kata. Di bawah MIN_WORDS (badan artikel, tanpa frontmatter)
+// script meminta AI memperluas SATU kali; kalau tetap pendek artikel tetap terbit dengan peringatan.
+const MIN_WORDS = Number(process.env.GEN_MIN_WORDS) || 850;
 
 // NON-AI internal-link candidate selection (buildArticleIndex/findRelatedCandidates) and the
 // post-generation internal-link safety net (enforceInternalLinks) — see file header comments
@@ -1213,7 +1218,43 @@ function extractTitleLine(raw) {
 // regenerate the article when the title still has a year in it — up to 2 extra attempts —
 // before giving up and accepting the last attempt anyway (logged clearly so it's easy to spot
 // and fix by hand rather than silently publishing a dated title).
-async function generateArticleWithTitleGuard(keyword, relatedCandidates) {  // gaya judul dibuat ulang tiap percobaan (attempt)
+function rawBodyWords(raw) {
+  const i = raw.indexOf('ARTIKEL_MULAI');
+  const body = i === -1 ? raw : raw.slice(i + 'ARTIKEL_MULAI'.length);
+  return body.replace(/\[\[TABEL_MULAI\]\][\s\S]*?\[\[TABEL_SELESAI\]\]/g, ' ').split(/\s+/).filter(Boolean).length;
+}
+
+function buildExpandPrompt(words) {
+  const need = Math.max(150, MIN_WORDS + 100 - words);
+  return `Artikel di atas baru sekitar ${words} kata, padahal targetnya 900–1100 kata. Tulis ULANG artikel LENGKAP dengan format keluaran yang sama persis (JUDUL:, DESCRIPTION:, TAGS:, ARTIKEL_MULAI, lalu isi artikel).
+
+PERTAHANKAN apa adanya: judul, kalimat pembuka wajib, token [[LINK:N|...]] dan [[KONTAK|...]], blok [[TABEL_MULAI]]...[[TABEL_SELESAI]], baris gambar IMAGE_PLACEHOLDER, kalimat penutup/CTA, dan semua aturan klaim, harga, serta tahun dari instruksi awal.
+
+TAMBAHKAN sekitar ${need} kata berisi hal KONKRET dan berguna bagi calon pembeli — bukan pengulangan atau basa-basi. Pilih yang relevan dengan topik: contoh perhitungan kebutuhan dengan angka, perbandingan antar-pilihan, kesalahan umum saat memesan/memilih, pertanyaan yang sering diajukan pembeli (boleh sebagai satu H2 berisi 3-4 H3 tanya-jawab singkat), atau langkah memesan yang lebih rinci. Jangan menambah fakta toko, diskon, garansi, atau angka klaim yang tidak ada di instruksi awal. Tetap 3-7 heading H2, dan tiap paragraf maksimal sekitar 5 kalimat.`;
+}
+
+async function generateArticleWithTitleGuard(keyword, relatedCandidates) {
+  const result = await generateArticleTitleChecked(keyword, relatedCandidates);
+  if (IS_DRY_RUN) return result;
+  const words = rawBodyWords(result.raw);
+  if (words >= MIN_WORDS) return result;
+  console.log(`   📏 Artikel baru ${words} kata (< ${MIN_WORDS}) — meminta AI memperluas dengan isi konkret (1x)...`);
+  try {
+    const expanded = await generateArticle(keyword, relatedCandidates, 1, { raw: result.raw, greeting: result.greeting, words });
+    const newWords = rawBodyWords(expanded.raw);
+    const titleOk = !TitleStyle.titleIssues(extractTitleLine(expanded.raw), keyword).length;
+    if (newWords >= words + 80 && /ARTIKEL_MULAI/.test(expanded.raw) && titleOk) {
+      console.log(`   ✅ Diperluas: ${words} → ${newWords} kata`);
+      return expanded;
+    }
+    console.log(`   ⚠️  Perluasan tidak dipakai (${newWords} kata${titleOk ? '' : ', judul bermasalah'}) — memakai draf awal`);
+  } catch (err) {
+    console.log(`   ⚠️  Perluasan gagal (${err.message}) — memakai draf awal`);
+  }
+  return result;
+}
+
+async function generateArticleTitleChecked(keyword, relatedCandidates) {  // gaya judul dibuat ulang tiap percobaan (attempt)
   const maxAttempts = IS_DRY_RUN ? 1 : 3;
   let result;
   for (let attempt = 1; attempt <= maxAttempts; attempt++) {
@@ -1228,11 +1269,11 @@ async function generateArticleWithTitleGuard(keyword, relatedCandidates) {  // g
 }
 // ─────────────────────────────────────────────────────────────────
 
-async function generateArticle(keyword, relatedCandidates = [], attempt = 1) {
+async function generateArticle(keyword, relatedCandidates = [], attempt = 1, expand = null) {
   const type = detectType(keyword);
   const openingStyle = pickRandom(OPENING_STYLES);
   const addressStyle  = pickRandom(ADDRESS_STYLES);
-  const greeting      = pickRandom(GREETING_STYLES);
+  const greeting      = expand ? expand.greeting : pickRandom(GREETING_STYLES);   // saat perluasan: salam harus sama dgn draf
   const titleStyle    = TitleStyle.pickTitleStyle(keyword, attempt);
   const promoAngle    = pickRandom(PROMPTS.promoAngles);   // benang merah promosi artikel (prompts/generate-articles.json)
   const storeFacts    = PROMPTS.storeFacts.map(f => `  • ${f}`).join('\n');
@@ -1302,9 +1343,13 @@ Kalau Mitra masih ada pertanyaan atau ingin konsultasi lebih lanjut, silakan hub
     messages   : [
       { role: 'system', content: PROMPTS.article.systemMessage },
       { role: 'user',   content: prompt },
+      ...(expand ? [
+        { role: 'assistant', content: expand.raw },
+        { role: 'user',      content: buildExpandPrompt(expand.words) },
+      ] : []),
     ],
     temperature: 0.72,
-    max_tokens : 2800,
+    max_tokens : 4096,
   });
 
   let result;
@@ -1492,6 +1537,11 @@ function parseAndSave(raw, keyword, slug, imagePath, greeting, relatedCandidates
   // manually per category after articles are published (see README-PENERAPAN.md, section
   // "Cara menyisipkan shortcode tabel harga secara manual").
 
+  // Rapikan struktur Markdown (baris kosong antar-blok, level heading, daftar, ** tak berpasangan, dll.)
+  const lintResult = MdLint.fixMarkdown(body);
+  body = lintResult.text;
+  if (lintResult.fixes.length) console.log(`   🧹 Struktur Markdown dirapikan: ${lintResult.fixes.join('; ')}`);
+
   const today   = new Date().toISOString().split('T')[0];
   const type    = detectType(keyword);
   const tagToml = tags.map(t => `"${t}"`).join(', ');
@@ -1591,7 +1641,8 @@ function validateArticle(filePath) {
   const bodyOnly = content.replace(/---[\s\S]*?---/, '').trim();
   if (!/\{\{<\s*toc\s*>\}\}/.test(bodyOnly)) issues.push('⚠️  shortcode {{< toc >}} tidak ditemukan di badan artikel');
   const wordCount = bodyOnly.split(/\s+/).length;
-  if (wordCount < 300) issues.push(`⚠️  Konten terlalu pendek: ${wordCount} kata`);
+  if (wordCount < MIN_WORDS) issues.push(`⚠️  Konten lebih pendek dari target: ${wordCount} kata (minimal ${MIN_WORDS})`);
+  issues.push(...MdLint.mdIssues(bodyOnly).map(i => `⚠️  ${i}`));
 
   const openingIssues = checkOpeningVariety(bodyOnly);
   issues.push(...openingIssues);
