@@ -428,7 +428,9 @@
     "/bangunan/biaya-bangun-rumah-per-meter-di-glodok-jakarta/",
     "/bangunan/biaya-bangun-rumah-per-meter-di-gunung-jakarta/",
     "/bangunan/biaya-bangun-rumah-per-meter-di-jati-pulo-jakarta/",
-    "/bangunan/biaya-bangun-rumah-per-meter-di-jelambar-jakarta/"
+    "/bangunan/biaya-bangun-rumah-per-meter-di-jelambar-jakarta/",
+    "/bangunan/biaya-bangun-rumah-per-meter-di-jati-padang-jakarta/",
+    "/bangunan/biaya-bangun-rumah-per-meter-di-jembatan-besi-jakarta/"
   ],
   "failed": {
     "/baja-ringan/harga-pasang-atap-baja-ringan-di-anyar-serang/": 2,
@@ -766,10 +768,10 @@
     "/bangunan/biaya-bangun-rumah-per-meter-di-gunung-sahari-jakarta/": 2,
     "/bangunan/biaya-bangun-rumah-per-meter-di-gunungkencana-rangkasbitung/": 2,
     "/bangunan/biaya-bangun-rumah-per-meter-di-jati-padang-jakarta/": 1,
-    "/bangunan/biaya-bangun-rumah-per-meter-di-jatimulya-depok/": 1,
-    "/bangunan/biaya-bangun-rumah-per-meter-di-jatisari-karawang/": 1,
-    "/bangunan/biaya-bangun-rumah-per-meter-di-jawilan-serang/": 1,
-    "/bangunan/biaya-bangun-rumah-per-meter-di-jayakerta-karawang/": 1,
-    "/bangunan/biaya-bangun-rumah-per-meter-di-jayanti-tangerang/": 1
+    "/bangunan/biaya-bangun-rumah-per-meter-di-jatimulya-depok/": 2,
+    "/bangunan/biaya-bangun-rumah-per-meter-di-jatisari-karawang/": 2,
+    "/bangunan/biaya-bangun-rumah-per-meter-di-jawilan-serang/": 2,
+    "/bangunan/biaya-bangun-rumah-per-meter-di-jayakerta-karawang/": 2,
+    "/bangunan/biaya-bangun-rumah-per-meter-di-jayanti-tangerang/": 2
   }
 }
