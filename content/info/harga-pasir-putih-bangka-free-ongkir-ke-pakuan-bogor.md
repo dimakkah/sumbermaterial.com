@@ -25,7 +25,7 @@ menurut Standar Nasional Indonesia ( SK SNI - S - 04 - 1989 - F ; 28) di tuturka
 
 Prasyarat Pasir yg Baik tuk Konstruksi Bangunan
 
-1.  Agregat Halus sepatutnya terdiri dari butiran yang tajam dan keras dengan indeks kekerasan <2.2
+1.  Agregat Halus sepatutnya terdiri dari butiran yang tajam dan keras dengan indeks kekerasan <2.2
 2. Bila dipakai Natrium Sulfat bagian hancur maksimal 12 persen
 3. bila diterapkan Magnesium Sulfat komponen halus maksimal sepuluh %
 4. Tak boleh memuat lumpur lebih dari lima %
@@ -41,7 +41,6 @@ Prasyarat Pasir yg Baik tuk Konstruksi Bangunan
 Setelah tahu persis syarat pasir tuk sebuah Konstruksi, saat ini kita bahas Ragam - Tipe Pasir Untuk Konstruksi penjelasan nya berikut ini:
 
 - ### Pasir Untuk Beton Di Pakuan Bogor
-    
 
 Pasir ini lazim nya berwarna hitam pekat dan tingkat pecahan butiran nya lumayan tinggi. Tapi bila anda mengepal nya dengan tangan tak akan lengket dan akan buyar kembali. macam pasir ini betul-betul lah bagus buat Pengecoran, Plesteran Dinding, Adukan Pondasi dan Adukan Pasangan Bata Pasir ini yaitu pasir untuk Rigid adalah butiran-butiran mineral keras dan tajam berukuran antara 0,075 – 5 mm, apabila terdapat butiran berukuran lebih kecil dari 0,063 mm tak lebih dari 5% berat. Pasir ini yaitu pasir untuk Cor hampir sering dimanfaatkan untuk pekerjaan cor-coran struktur seperti kolom, balok dan pelat lantai.
 
@@ -59,21 +58,18 @@ Untuk mendapat kekuatan Cor yang optimal karenanya pasir seharusnya bisa memenuh
 ![Harga Pasir Putih Bangka Free Ongkir Ke Pakuan Bogor](/images/info/pasir-hitam-2.jpg)
 
 - ### Pasir Untuk Adukan Pasang Batu, Pondasi, Bata, Ubin, Plester Di Pakuan Bogor
-    
 
 ![Harga Pasir Putih Bangka Free Ongkir Ke Pakuan Bogor](/images/info/pasir-hitam-4.jpg)
 
 Pasir ini ekstra halus lagi diperbandingkan oleh pasir beton. jika kamu mengepal pasir ini karenanya akan menggumpal dan tak akan buyar kembali. pasir pasang lazim nya di pakai untuk campuran pasir beton agar tidak terlalu kasar dan bisa di gunakan untuk plesteran dinding.
 
 - ### Pasir Urug Untuk Dasaran Pemasangan Marmer Di Pakuan Bogor
-    
 
 Di Antara ke dua pasir diatas pasir model ini lebih halus lagi, jika kalian mengepal nya karenanya akan menggumpal dan tak akan buyar lagi. melainkan pasir ragam tidak baik tuk di buat sebagai bahan bangunan. pasir ragam ini pada biasa nya di pakai untuk Bahan Pembuatan Batako
 
 Pada biasa nya pasir ini nyaris sama dgn pasir beton melainkan pasir ini memiliki tingkat kekasaran yg tinggi, butiran - butiran nya lumayan besar dan agak banyak batuan nya. pada biasanya pasir model ini bagus untuk bahan pengurugan lantai
 
 - ### Pasir Putih Kadar Lumpur Rendah Untuk Hiasan Di Pakuan Bogor
-    
 
 1. **Pasir Putih Bangka**
 

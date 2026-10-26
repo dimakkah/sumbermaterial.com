@@ -25,7 +25,7 @@ berdasarkan Standar Nasional Indonesia ( SK SNI - S - 04 - 1989 - F ; 28) di tut
 
 Syarat-Syarat Pasir yg Baik tuk Konstruksi Bangunan
 
-1.  Agregat Halus sepatutnya terdiri dari butiran yg tajam dan keras dengan indeks kekerasan <2.2
+1.  Agregat Halus sepatutnya terdiri dari butiran yg tajam dan keras dengan indeks kekerasan <2.2
 2. Apabila dimanfaatkan Natrium Sulfat komponen hancur maksimal 12%
 3. apabila dipakai Magnesium Sulfat bagian halus maksimal sepuluh %
 4. Tak boleh memuat clay lebih dari 5%
@@ -41,7 +41,6 @@ Syarat-Syarat Pasir yg Baik tuk Konstruksi Bangunan
 Sesudah mengetahui prasyarat pasir buat suatu Konstruksi, pada saat ini kita bahas model - Jenis Pasir Untuk Bangunan penjelasan nya sebagai berikut:
 
 - ### Pasir Tipe Rigid dan Tempat Sumbernya Di Cipete Selatan Jakarta
-    
 
 Pasir ini biasa nya berwarna coklat tua dan tingkat kekasaran butiran nya cukup tinggi. Tetapi kalau anda mengepal nya dengan tangan tidak akan lengket dan akan buyar kembali. model pasir ini sangat lah bagus untuk Pengecoran, Plesteran Dinding, Adukan Pondasi dan Adukan Pasangan Bata Pasir ini yaitu pasir untuk Rigid adalah butiran-butiran mineral keras dan tajam berukuran antara 0,075 – 5 mm, sekiranya terdapat butiran berukuran lebih kecil dari 0,063 mm tidak lebih dari 5% berat. Pasir ini yaitu pasir untuk Rigid hampir kerap kali digunakan untuk profesi cor-coran struktur seperti kolom, balok dan pelat lantai.
 
@@ -52,9 +51,9 @@ Harga Pasir Mainan Anak Free Ongkir Ke Cipete Selatan Jakarta Jikalau anda sebag
 Pasir nomor satu diambil dari kp. jebrod cianjur jawa barat yang diaplikasikan oleh indocement serta perusahaan batching plant lainnya sebagai bahan dasar produksi readymix concrete. Pasir ini paling dianjurkan untuk cor sebab irit semen juga mempunyai kandungan lumpur yang betul-betul rendah dibawah 8%. warnanya Hitam abu tua atau hitam seperti hitamnya batu kali, ada juga yang hitam kemerahan atau hitam terasi
 
 3. **Pasir Hitam Rigid Cimangkok.** Pasir diambil dari Daerah penambangannya di cimangkok sukabumi jabar yang masih masuk terhadap golongan pasir hitam No. 1 di jabar, warnanya hitam kecoklatan sesuai untuk cor, pasang pondasi dan bata
-    
+
     ![Harga Pasir Mainan Anak Free Ongkir Ke Cipete Selatan Jakarta](/images/info/pasir-hitam-2.jpg)
-    
+
 4. **Pasir Hitam Cor Cimalaka Subang Bandung.**
 
 Pasir terbaik yang berwarna hitam kebauan ada juga yang berwarna hitam abu tua. Banyak di gunakan untuk Beton, pasang dan keperluan lainnya. Ditambang di Daerah cimalaka
@@ -90,9 +89,9 @@ Kecuali Rangkasbitung, Banten juga mempunyai lokasi pnembangan pasir lain sepert
 Masih dari Lokasi di banten, pasir kelas tiga ini ialah pasir yang banyak digunakan di proyek proyek perumahan atau cluster sebab harganya yang murah juga mutu yang bagus. Warna pasir ini hitam kecoklatan dan keabuan betul-betul dianjurkan untuk pasang pondasi, bata, batu dan lain-lain
 
 27. **Pasir Hitam Cor Bohlam Sukabumi.** Pasir dari Kawasan kp. bohlam di sukabumi berwarna hitam kecoklatan, sungguh-sungguh bagus untuk pasang bata, pondasi dan lainnya sebagai pilihan pasir kwalitas tidak diragukan dan tidak mahal
-    
+
     ![Harga Pasir Mainan Anak Free Ongkir Ke Cipete Selatan Jakarta](/images/info/pasir-hitam-1.jpg)
-    
+
 28. **Pasir Cor Galunggung.**
 
 Pasir ini yakni pasir hitam kwalitas paling unggul dikelasnya lazim diaplikasikan oleh pabrik pengolahan beton readymix juga perusahan pembuatan precast dan tak jarang juga digunakan untuk bahan pembuatan batako press hitam, paving block dsb. Pasir ini ditambang dari Tasikmalaya jabar.
@@ -100,21 +99,18 @@ Pasir ini yakni pasir hitam kwalitas paling unggul dikelasnya lazim diaplikasika
 ![Harga Pasir Mainan Anak Free Ongkir Ke Cipete Selatan Jakarta](/images/info/pasir-hitam-5.jpg)
 
 - ### Pasir Untuk Pasang Batu, Pondasi, Bata, Ubin, Plester Di Cipete Selatan Jakarta
-    
 
 ![Harga Pasir Mainan Anak Free Ongkir Ke Cipete Selatan Jakarta](/images/info/jual-pasir-mundu-2.jpg)
 
 Pasir ini ekstra halus lagi dibandingkan oleh pasir beton. seandainya anda mengepal pasir ini karenanya akan menggumpal dan tidak akan buyar kembali. pasir pasang biasa nya di gunakan tuk campuran pasir beton supaya tak terlalu kasar dan dapat di manfaatkan untuk plesteran dinding.
 
 - ### Pasir Urug Untuk Pembuatan Batako Di Cipete Selatan Jakarta
-    
 
 Di Antara ke dua pasir diatas pasir model ini lebih halus lagi, apabila kalian mengepal nya akan menggumpal dan tidak akan hancur lagi. namun pasir jenis
 
 Pada lazim nya pasir ini nyaris sama dengan pasir beton akan melainkan pasir ini mempunyai tingkat kekasaran yang tinggi, butiran - butiran nya cukup besar dan agak banyak batuan nya. pada lazimnya pasir ragam ini bagus tuk bahan Pembuatan Batako
 
 - ### Pasir Putih Tanpa Ayak Untuk Pasang Bata Di Cipete Selatan Jakarta
-    
 
 1. **Pasir Putih Bangka**
 

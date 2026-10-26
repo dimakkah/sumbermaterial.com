@@ -18,19 +18,19 @@ Dengan tidak adanya besi karenanya sebuah bangunan akan mudah retak dikala ada g
 
 ## Inilah Jenis-jenis Besi Di Warunggunung Rangkasbitung
 
-### 1\. Besi Polos SNI 4mm, 6mm, 8mm, 10mm, 12mm, 16mm, 18mm, 19mm Di Warunggunung Rangkasbitung
+### 1. Besi Polos SNI 4mm, 6mm, 8mm, 10mm, 12mm, 16mm, 18mm, 19mm Di Warunggunung Rangkasbitung
 
 Besi polos mempunyai ukuran mulai dari 8 mm hingga 25 mm dan memiliki 6 meter panjang tekuk dan 12 meter panjang lurus. Besi beton ini mulai dipakai sebagai bahan utama di Indonesia pada tahun 1950. Besi ini kerap kali diaplikasikan untuk membangun bangunan beton. Bahan yang gampang diaplikasikan sehingga selain digunakan untuk membangun rumah juga diaplikasikan untuk membangun trowongan, bendungan, dan lainnya. Ketika digunakan untuk membangun rumah bertingkat karenanya biasa besi polos ini diaplikasikan untuk struktur tulangan balok, dinding, dan sloof. Besi beton polos ini memiliki kelebihan besi polos ini tegangannya lebih tinggi dari pada besi lainnya. Jadi besi ini terkesan lebih kuat dan tahan beban. Oleh karena itu pengaplikasian besi polos ini amat pantas untuk membangun gedung, jembatan, dan bangunan lainnya. Besi polos ini terbuat dari bahan seperti billet dan skrap. Billet adalah baja batangan yang pelaksanaan pembuatannya dengan mengecor biji besi. Apabila skrap yaitu besi bekas yang dihancurkan dengan temperature tertentu. Selain itu seandainya anda menggunakan besi polos ini tidak membutuhkan anggaran pemeliharaan. Semakin lama diterapkan karenanya besi ini akan kian kokoh.
 
-### 2\. Besi Ulir Toleransi 4mm, 6mm, 8mm, 10mm, 12mm, 16mm, 18mm, 19mm Di Warunggunung Rangkasbitung
+### 2. Besi Ulir Toleransi 4mm, 6mm, 8mm, 10mm, 12mm, 16mm, 18mm, 19mm Di Warunggunung Rangkasbitung
 
 Sesuai dengan namanya besi beton ulir ini merupakan besi yang karakternya mengulir. Pada permukaannya bercorak spiral yang mempunyai tujuan untuk menyatukan tulangan dengan elemen material bangunan yang dibangun oleh besi beton. Besi ulir ini mulai populer dipakai pada abad ke-20 di Amerika dan mulai populer di Indonesia pada tahun1950. Mengingat dikala mengaplikasikan besi ulir ini memiliki banyak kelebihan mulai dari kekokohan bangunan serta lebih murah dan efisien. Produk besi ulir ini menjadi andalan pasar karena memiliki kualitas yang terbaik di Indonesia dan mempunyai harga yang tinggi seandainya diperbandingkan dengan produk lainnya.
 
-### 3\. Besi WF dan H-Beam Full Di Warunggunung Rangkasbitung
+### 3. Besi WF dan H-Beam Full Di Warunggunung Rangkasbitung
 
 Besi Wide Flange (WF) ini merupakan salah satu baja dengan struktural yang paling banyak diterapkan untuk kontruksi baja. Sekiranya anda membutuhkan besi baja Wide Flage dalam quantitas yang banyak atau sedikit karenanya silahkan cari supplier besi yang terpercaya. Besi WF ini mempunyai kekuatan yang kokoh dan kokoh pada kekuatan tarik atau tekan. Karenanya dari itu besi ini menjadi faktor struktur yang mempunyai batasan yang sempurna untuk menahan bobot tekan aksial, tarik aksial, dan lentur dengan fasilitas pembangunan strukturnya. Baja Wide Flange (WF) ini memiliki kepadatan yang tinggi namun rasio berat antara kekuatan komponen Baja WF yang tinggi tetapi tdk terlalu berat yang berhubungan dengan kapasitas bobot. Selain itu memastikan seandainya kontruksi yang digunakan secara efisien. Sistem kontruksi baja WF ini kombinasi dari elemen struktur yang kompleks. Pada struktur ini memiliki tujuan membawa beban yang aman dan tepat sasaran yang berefek pada sebuah bangunan dan dikirim pada pondasinya. Gaya dan muatan yang bekerja ini termasuk muatan pertikal, perbedaan suhu, horizontal, getaran dan lainnya. Pada sebuah bangunan baja, maka ada unsure yang berfungsi menopang gaya lateral dan gravitasi.
 
-### 4\. Besi Hollow Di Warunggunung Rangkasbitung
+### 4. Besi Hollow Di Warunggunung Rangkasbitung
 
 Besi hollow ialah besi yang dipakai sebagai pembuatan kanopi, pagar, pintu besi dan lainnya. Bahan baku pembuatan besi Hollow ini biasanya terbuat dari stainless, galvanis, dan besi baja. Namun yang paling sering kali diaplikasikan sebagai bahan baku merupakan galvanis. Terdapat kelebihan yang anda dapatkan dikala memasang kanopi, menerapkan pagar, teralis menerapkan besi hollow:
 

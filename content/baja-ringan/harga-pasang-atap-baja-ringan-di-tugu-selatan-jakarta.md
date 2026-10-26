@@ -21,19 +21,19 @@ Pemasangan baja ringan untuk bangunan Anda di Tugu Selatan Jakarta sebenarnya cu
 
 Berikut beberapa alasan penting yang perlu Anda ketahui sebelum menghubungi kami. Alasan-alasan ini akan meyakinkan Anda mengapa baja ringan adalah pilihan cerdas untuk bangunan Anda di Tugu Selatan Jakarta:
 
- **Ramah Lingkungan:** Baja ringan adalah pilihan yang lebih berkelanjutan karena Anda tidak perlu menebang pohon untuk mendapatkannya. Dengan menggunakan baja ringan, Anda turut berkontribusi dalam melestarikan alam.
+- **Ramah Lingkungan:** Baja ringan adalah pilihan yang lebih berkelanjutan karena Anda tidak perlu menebang pohon untuk mendapatkannya. Dengan menggunakan baja ringan, Anda turut berkontribusi dalam melestarikan alam.
 
- **Lebih Terjangkau:** Dibandingkan kerangka kayu, baja ringan biasanya lebih ekonomis. Mendapatkan kayu berkualitas tinggi bisa mahal, terutama untuk bagian yang krusial seperti kerangka atap. Dengan mempertimbangkan biaya ini, baja ringan bisa menjadi pilihan yang lebih bijak bagi anggaran pembangunan Anda.
+- **Lebih Terjangkau:** Dibandingkan kerangka kayu, baja ringan biasanya lebih ekonomis. Mendapatkan kayu berkualitas tinggi bisa mahal, terutama untuk bagian yang krusial seperti kerangka atap. Dengan mempertimbangkan biaya ini, baja ringan bisa menjadi pilihan yang lebih bijak bagi anggaran pembangunan Anda.
 
- **Ringan dan Kuat:** Baja ringan memiliki berat yang jauh lebih ringan dibandingkan baja atau besi biasa, tetapi tetap sangat kuat. Dengan ketebalan yang tipis dan ringan, baja ringan mampu memberikan kekuatan yang optimal untuk kerangka atap dan kanopi rumah Anda.
+- **Ringan dan Kuat:** Baja ringan memiliki berat yang jauh lebih ringan dibandingkan baja atau besi biasa, tetapi tetap sangat kuat. Dengan ketebalan yang tipis dan ringan, baja ringan mampu memberikan kekuatan yang optimal untuk kerangka atap dan kanopi rumah Anda.
 
- **Perawatan Minimal:** Tidak perlu khawatir tentang kerusakan atau perawatan rutin yang mahal. Baja ringan menawarkan kepraktisan dan ketenangan pikiran karena Anda tidak perlu mengeluarkan biaya tambahan untuk perawatan tahunan.
+- **Perawatan Minimal:** Tidak perlu khawatir tentang kerusakan atau perawatan rutin yang mahal. Baja ringan menawarkan kepraktisan dan ketenangan pikiran karena Anda tidak perlu mengeluarkan biaya tambahan untuk perawatan tahunan.
 
- **Pemasangan Cepat:** Pemasangan kerangka atap baja ringan jauh lebih cepat dibandingkan material lain seperti kayu. Ini menghemat waktu dan biaya tenaga kerja proyek Anda.
+- **Pemasangan Cepat:** Pemasangan kerangka atap baja ringan jauh lebih cepat dibandingkan material lain seperti kayu. Ini menghemat waktu dan biaya tenaga kerja proyek Anda.
 
- **Kualitas Terjamin:** Baja ringan yang kami gunakan adalah material berkualitas tinggi yang telah tersertifikasi dan memenuhi standar keamanan. Material ini memiliki kekuatan 4 kali lebih baik daripada baja umum dan mampu menopang beban berat.
+- **Kualitas Terjamin:** Baja ringan yang kami gunakan adalah material berkualitas tinggi yang telah tersertifikasi dan memenuhi standar keamanan. Material ini memiliki kekuatan 4 kali lebih baik daripada baja umum dan mampu menopang beban berat.
 
- **Tahan Rayap:** Anda tidak perlu khawatir tentang serangan rayap yang dapat merusak kerangka atap Anda. Baja ringan secara alami tahan terhadap rayap, memastikan ketahanan jangka panjang.
+- **Tahan Rayap:** Anda tidak perlu khawatir tentang serangan rayap yang dapat merusak kerangka atap Anda. Baja ringan secara alami tahan terhadap rayap, memastikan ketahanan jangka panjang.
 
 ## Cara Menghitung Luas Rangka Baja Ringan Di Tugu Selatan Jakarta
 
@@ -59,10 +59,10 @@ Berbicara tentang harga jasa pasang baja ringan, ada banyak informasi di interne
 
 (Catatan: harga dapat berubah sewaktu-waktu) Berikut adalah perkiraan biaya jasa pasang baja ringan berdasarkan jenis pemasangannya:
 
-*   Kanopi rangka baja ringan + Polikarbonat x Lite: Rp. 285.000 / m
-*   Kanopi rangka baja ringan + Spandek: Rp. 225.000 / m
-*   Kanopi rangka baja ringan + Gogreen: Rp. 200.000 / m
-*   Untuk perhitungan lainnya, silakan hubungi kami melalui kontak yang tertera di situs kami.
+- Kanopi rangka baja ringan + Polikarbonat x Lite: Rp. 285.000 / m
+- Kanopi rangka baja ringan + Spandek: Rp. 225.000 / m
+- Kanopi rangka baja ringan + Gogreen: Rp. 200.000 / m
+- Untuk perhitungan lainnya, silakan hubungi kami melalui kontak yang tertera di situs kami.
 
 Adapun Parameter Besaran Biaya Layanan Pasang Baja Ringan:
 
@@ -82,13 +82,14 @@ Setelah membuat sketsa dan menghitung rangka, Anda dapat mendiskusikan perkiraan
 
 Berikut detail biaya layanan pasang baja ringan yang perlu Anda ketahui untuk memastikan anggaran yang tepat:
 
-*   Harga layanan kami sudah termasuk biaya pemasangan, sehingga lebih ekonomis dan seringkali menawarkan diskon untuk pelanggan.
-*   Harga yang kami berikan sudah sesuai dengan jasa pemasangan, perhitungan, dan material terpasang.
-*   Kami selalu mengutamakan harga terbaik untuk pelanggan kami.
-*   Harga jasa pasang baja ringan dapat berubah sewaktu-waktu karena fluktuasi harga material.
-*   Pembayaran dapat dilakukan dengan uang muka dan sisanya setelah pemasangan selesai.
+- Harga layanan kami sudah termasuk biaya pemasangan, sehingga lebih ekonomis dan seringkali menawarkan diskon untuk pelanggan.
+- Harga yang kami berikan sudah sesuai dengan jasa pemasangan, perhitungan, dan material terpasang.
+- Kami selalu mengutamakan harga terbaik untuk pelanggan kami.
+- Harga jasa pasang baja ringan dapat berubah sewaktu-waktu karena fluktuasi harga material.
+- Pembayaran dapat dilakukan dengan uang muka dan sisanya setelah pemasangan selesai.
 
-Sekian informasi mengenai Harga Pasang Atap Baja Ringan Di Tugu Selatan Jakarta. Jangan ragu untuk menghubungi kami untuk konsultasi lebih lanjut dan penawaran harga terbaik! 
+Sekian informasi mengenai Harga Pasang Atap Baja Ringan Di Tugu Selatan Jakarta. Jangan ragu untuk menghubungi kami untuk konsultasi lebih lanjut dan penawaran harga terbaik!
+
 <table class="table">
   <caption>Spesifikasi Baja Ringan</caption>
   <thead>

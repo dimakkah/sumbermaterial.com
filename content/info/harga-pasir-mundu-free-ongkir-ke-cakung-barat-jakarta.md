@@ -25,7 +25,7 @@ Menurut Standar Nasional Indonesia ( SK SNI - S - 04 - 1989 - F ; 28) di sebutka
 
 Syarat Pasir yang Baik Untuk Konstruksi Bangunan
 
-1.  Agregat Halus harus terdiri dari butiran yang tajam dan keras dengan indeks kekerasan <2.2
+1.  Agregat Halus harus terdiri dari butiran yang tajam dan keras dengan indeks kekerasan <2.2
 2. jika dipakai Natrium Sulfat komponen hancur maksimal 12 persen
 3. jika diterapkan Magnesium Sulfat bagian halus optimal sepuluh persen
 4. Tak boleh mengandung tanah lebih dari 5%
@@ -41,7 +41,6 @@ Syarat Pasir yang Baik Untuk Konstruksi Bangunan
 setelah memahami syarat pasir untuk suatu Konstruksi Bangunan, sekarang ini kita bahas Jenis - Ragam Pasir Untuk Konstruksi Bangunan penjelasan nya sbb:
 
 - ### Pasir Tipe Rigid dan Daerah Penambangannya Di Cakung Barat Jakarta
-    
 
 Pasir ini umum nya berwarna coklat tua dan tingkat kekasaran butiran nya lumayan tinggi. Namun sekiranya anda mengepal nya dengan tangan tidak akan lengket dan akan hancur kembali. tipe pasir ini benar-benar lah bagus tuk Pengecoran, Plesteran Dinding, Adukan Pondasi dan Adukan Pasangan Bata Pasir ini yaitu pasir untuk Beton merupakan butiran-butiran mineral keras dan tajam berukuran antara 0,075 – 5 mm, seandainya terdapat butiran berukuran lebih kecil dari 0,063 mm tidak lebih dari 5% berat. Pasir ini yaitu pasir untuk Beton hampir sering kali diaplikasikan untuk profesi cor-coran struktur seperti kolom, balok dan pelat lantai.
 
@@ -52,9 +51,9 @@ Harga Pasir Mundu Free Ongkir Ke Cakung Barat Jakarta Bila anda sebagai konsumen
 Pasir nomor satu asal kp. jebrod cianjur jawa barat yang diterapkan oleh indocement serta perusahaan batching plant lainnya sebagai bahan dasar produksi readymix concrete. Pasir ini paling disarankan untuk cor sebab irit semen juga mempunyai kandungan lumpur yang sungguh-sungguh rendah dibawah delapan %. warnanya Hitam abu tua atau hitam seperti hitamnya batu kali, ada juga yang hitam kemerahan atau hitam terasi
 
 3. **Pasir Hitam Beton Cimangkok.** Pasir diambil dari Tempat penambangannya di cimangkok sukabumi jabar yang masih masuk terhadap golongan pasir hitam nomor satu di jawa barat, warnanya hitam kecoklatan layak untuk cor, pasang pondasi dan bata
-    
+
     ![Harga Pasir Mundu Free Ongkir Ke Cakung Barat Jakarta](/images/info/pasir-hitam-1.jpg)
-    
+
 4. **Pasir Hitam Beton Cimalaka Subang Bandung.**
 
 Pasir kelas satu yang berwarna hitam kebauan ada juga yang berwarna hitam abu tua. Banyak di gunakan untuk Beton, pasang dan keperluan lainnya. Ditambang di kampung cimalaka
@@ -90,9 +89,9 @@ Kecuali Rangkasbitung, Banten juga mempunyai lokasi pnembangan pasir lain sepert
 Masih dari kawasan di banten, pasir kelas tiga ini yaitu pasir yang banyak digunakan di proyek proyek perumahan atau cluster sebab harganya yang murah juga kwalitas yang bagus. Warna pasir ini hitam kecoklatan dan keabuan sungguh-sungguh dianjurkan untuk pasang pondasi, bata, batu dsb
 
 27. **Pasir Hitam Cor Bohlam Sukabumi.** Pasir dari Kawasan kp. bohlam di sukabumi berwarna hitam kecoklatan, sungguh-sungguh bagus untuk pasang bata, pondasi dan lainnya sebagai pilihan pasir mutu tidak diragukan dan tidak mahal
-    
+
     ![Harga Pasir Mundu Free Ongkir Ke Cakung Barat Jakarta](/images/info/jual-pasir-cor-hitam.jpg)
-    
+
 28. **Pasir Beton Galunggung.**
 
 Pasir ini merupakan pasir hitam mutu paling unggul dikelasnya lazim diaplikasikan oleh pabrik pengolahan beton readymix juga perusahan pembuatan precast dan tak jarang juga diaplikasikan untuk bahan pembuatan batako press hitam, paving block dan lainnya. Pasir ini ditambang dari Tasikmalaya jawa barat.
@@ -100,21 +99,18 @@ Pasir ini merupakan pasir hitam mutu paling unggul dikelasnya lazim diaplikasika
 ![Harga Pasir Mundu Free Ongkir Ke Cakung Barat Jakarta](/images/info/pasir-hitam-8.jpg)
 
 - ### Pasir Untuk Adukan Pasang Batu, Pondasi, Bata, Ubin, Plester Di Cakung Barat Jakarta
-    
 
 ![Harga Pasir Mundu Free Ongkir Ke Cakung Barat Jakarta](/images/info/pasir-hitam-4.jpg)
 
 Pasir ini ekstra halus lagi dibandingi oleh pasir beton. seandainya anda mengepal pasir ini karenanya akan menggumpal dan tak akan buyar kembali. pasir pasang lazim nya di manfaatkan untuk campuran pasir beton supaya tak terlalu kasar dan dapat di pakai untuk plesteran dinding.
 
 - ### Pasir Elod Untuk pemadatan lantai Di Cakung Barat Jakarta
-    
 
 Di Antara ke dua pasir diatas pasir ragam ini lebih halus lagi, kalau kalian mengepal nya karenanya akan menggumpal dan tidak akan hancur lagi. tapi pasir tipe
 
 Pada umum nya pasir ini nyaris sama dgn pasir beton tapi pasir ini mempunyai tingkat kekasaran yg tinggi, butiran - butiran nya lumayan besar dan agak banyak batuan nya. pada umumnya pasir ragam ini bagus untuk bahan Pembuatan Batako
 
 - ### Pasir Putih Bebas Lumpur Untuk Pasang Bata Di Cakung Barat Jakarta
-    
 
 1. **Pasir Putih Bangka**
 

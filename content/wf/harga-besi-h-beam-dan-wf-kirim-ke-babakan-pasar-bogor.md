@@ -50,13 +50,13 @@ d. tidak dapat menjangkau tempat yang sempit. Mengingat Besi WF ini berukuran pa
 
 ### Kelebihan Dari Besi WF Di Babakan Pasar Bogor
 
-1\. Bisa mengurangi waktu dalam pembangunan sebuah konstruksi bangunan, memaksimalkan waktu dan juga menghemat biaya dan pemasang.
+1. Bisa mengurangi waktu dalam pembangunan sebuah konstruksi bangunan, memaksimalkan waktu dan juga menghemat biaya dan pemasang.
 
-2\. Bisa menyangga muatan yang sungguh-sungguh berat, tdk mudah memuai dan lebih simple penerapannya dibanding dengan material struktural lainnya.
+2. Bisa menyangga muatan yang sungguh-sungguh berat, tdk mudah memuai dan lebih simple penerapannya dibanding dengan material struktural lainnya.
 
-3\. Mempunyai fleksibilitas yang tinggi. Sehingga struktur bangunan yang dijadikan dari Besi WF ini menjadi lebih kuat tidak gampang bergeser, tdk mudah ambrol maupun goyang. Amat cocok untuk ragam bangunan diatas tanah yang labil atau kerap kali terjadi longsor.
+3. Mempunyai fleksibilitas yang tinggi. Sehingga struktur bangunan yang dijadikan dari Besi WF ini menjadi lebih kuat tidak gampang bergeser, tdk mudah ambrol maupun goyang. Amat cocok untuk ragam bangunan diatas tanah yang labil atau kerap kali terjadi longsor.
 
-4\. Lebih hemat sebab struktur bangunan yang menggunakan Besi WF akan memiliki kekuatan yang cukup lama malah hingga ratusan tahun. Tentunya ini adalah investasi yang amat murah apabila kita bandingkan dengan waktu pakai. Bahkan bangunan yang dibangun dengan rangka Besi WF dapat kita wariskan kepada anak cucu kita.
+4. Lebih hemat sebab struktur bangunan yang menggunakan Besi WF akan memiliki kekuatan yang cukup lama malah hingga ratusan tahun. Tentunya ini adalah investasi yang amat murah apabila kita bandingkan dengan waktu pakai. Bahkan bangunan yang dibangun dengan rangka Besi WF dapat kita wariskan kepada anak cucu kita.
 
 ## Mengenal Besi H Beam Di Babakan Pasar Bogor
 
@@ -72,15 +72,15 @@ Sama seperti besi yang kami paparkan sebelumnya yakni Besi WF, besi H-Beam malah
 
 ### Kelebihan Besi H Beam Di Babakan Pasar Bogor
 
-1\. Gampang untuk didapat. Banyak toko besi yang menyediakan stok besi H-Beam bermacam-macam ukuran. Sehingga besi H-Beam ini sungguh-sungguh gampang untuk didapatkan, tdk sulit untuk menemukan toko besi yang memasarkan besi H Beam.
+1. Gampang untuk didapat. Banyak toko besi yang menyediakan stok besi H-Beam bermacam-macam ukuran. Sehingga besi H-Beam ini sungguh-sungguh gampang untuk didapatkan, tdk sulit untuk menemukan toko besi yang memasarkan besi H Beam.
 
-2\. Mudah Dalam Pemasangan. Banyak tukang ahli dalam pemasangan besi H Beam. Meski besi H-Beam ini sepatutnya dipasang oleh tukang yang berpengalaman tapi tukang yang berpengalaman dalam memasang besi H Beam ini betul-betul banyak kita temui hari ini. Sehingga tidak perlu dikhawatirkan lagi pengerjaan pemasangannya.
+2. Mudah Dalam Pemasangan. Banyak tukang ahli dalam pemasangan besi H Beam. Meski besi H-Beam ini sepatutnya dipasang oleh tukang yang berpengalaman tapi tukang yang berpengalaman dalam memasang besi H Beam ini betul-betul banyak kita temui hari ini. Sehingga tidak perlu dikhawatirkan lagi pengerjaan pemasangannya.
 
-3\. Memiliki daya tahan yang tdk diragukan lagi. Besi H Beam sudah teruji selama bertahun-tahun dalam kontruksi bangunan. Baik skala kecil maupun skala besar dan terbilang benar-benar awet jikalau dibandingkan dengan material lainnya. Dapat bertahan hingga puluhan hingga ratusan tahun.
+3. Memiliki daya tahan yang tdk diragukan lagi. Besi H Beam sudah teruji selama bertahun-tahun dalam kontruksi bangunan. Baik skala kecil maupun skala besar dan terbilang benar-benar awet jikalau dibandingkan dengan material lainnya. Dapat bertahan hingga puluhan hingga ratusan tahun.
 
-4\. Mudah dalam perawatannya. Bangunan yang memakai besi H Beam sebagai struktur rangka bangunannya akan sungguh-sungguh gampang dalam melaksanakan perawatannya. tidak perlu pengecatan dengan cat khusus ataupun pembersihan setiap saat.
+4. Mudah dalam perawatannya. Bangunan yang memakai besi H Beam sebagai struktur rangka bangunannya akan sungguh-sungguh gampang dalam melaksanakan perawatannya. tidak perlu pengecatan dengan cat khusus ataupun pembersihan setiap saat.
 
-5\. Memaksimalkan pengaplikasian material lainnya, seperti pemakaian bekisting, pengaplikasian tiang penyangga atau steger dan juga material pasir. Besi H Beam tidak membutuhkan material pasir dalam penerapannya.
+5. Memaksimalkan pengaplikasian material lainnya, seperti pemakaian bekisting, pengaplikasian tiang penyangga atau steger dan juga material pasir. Besi H Beam tidak membutuhkan material pasir dalam penerapannya.
 
 ### Kekurangan Dari Besi H Beam Di Babakan Pasar Bogor
 

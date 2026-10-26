@@ -18,19 +18,19 @@ Tanpa adanya besi karenanya sebuah bangunan akan mudah retak ketika ada guncanga
 
 ## Mengetahui Macam-macam Besi Di Pulo Merak Cilegon
 
-### 1\. Besi Polos 4mm, 6mm, 8mm, 10mm, 12mm, 16mm, 18mm, 19mm Di Pulo Merak Cilegon
+### 1. Besi Polos 4mm, 6mm, 8mm, 10mm, 12mm, 16mm, 18mm, 19mm Di Pulo Merak Cilegon
 
 Besi polos memiliki ukuran mulai dari 8 mm sampai dengan 25 mm dan memiliki 6 meter panjang tekuk dan 12 meter panjang lurus. Besi beton ini sudah mulai diterapkan sebagai bahan utama di Indonesia pada tahun 1950. Besi ini sering kali kali diaplikasikan untuk membangun tempat tinggal. Bahan yang mudah digunakan sehingga selain dari diaplikasikan untuk membangun tempat tinggal juga diterapkan untuk membangun trowongan, bendungan, dan lainnya. Dikala diaplikasikan untuk membangun bangunan beton bertingkat maka biasanya besi polos ini dipakai untuk struktur tulangan balok, dinding, dan sloof. Besi beton polos ini mempunyai kelebihan besi polos ini tegangannya lebih tinggi dari pada besi lainnya. Oleh karena itu besi ini terkesan lebih kuat dan tahan beban. Oleh karena itu pengaplikasian besi polos ini betul-betul pantas untuk membangun gedung, jembatan, dan bangunan lainnya. Besi polos ini terbuat dari bahan seperti billet dan skrap. Billet yaitu baja batangan yang pelaksanaan pembuatannya dengan melebur biji besi. Jika skrap merupakan besi bekas yang dihancurkan dengan temperature tertentu. Selain dari itu seandainya anda memakai besi polos ini tdk memerlukan budget pemeliharaan. Kian lama diterapkan maka besi ini akan kian kokoh.
 
-### 2\. Besi Ulir Toleransi 4mm, 6mm, 8mm, 10mm, 12mm, 16mm, 18mm, 19mm Di Pulo Merak Cilegon
+### 2. Besi Ulir Toleransi 4mm, 6mm, 8mm, 10mm, 12mm, 16mm, 18mm, 19mm Di Pulo Merak Cilegon
 
 Sesuai dengan namanya besi beton ulir ini adalah besi yang karakternya mengulir. Pada permukaannya bercorak spiral yang memiliki tujuan untuk menyatukan tulangan dengan elemen material bangunan yang dibangun oleh besi beton. Besi ulir ini mulai populer diterapkan pada abad ke-20 di Amerika dan mulai populer di Indonesia pada tahun1950. Mengingat ketika menggunakan besi ulir ini memiliki banyak kelebihan mulai dari ketahanan bangunan serta lebih ekonomis dan efisien. Produk besi ulir ini menjadi paling laris di pasar sebab mempunyai mutu yang terbaik di Indonesia dan mempunyai harga yang tinggi bila diperbandingkan dengan produk lainnya.
 
-### 3\. Besi WF dan H-Beam Di Pulo Merak Cilegon
+### 3. Besi WF dan H-Beam Di Pulo Merak Cilegon
 
 Besi Wide Flange (WF) ini merupakan salah satu baja dengan struktural yang paling sering diterapkan untuk kontruksi baja. Jika anda membutuhkan besi baja Wide Flage dalam quantitas yang banyak atau sedikit karenanya silahkan cari toko besi yang terpercaya. Besi WF ini mempunyai kekuatan yang kokoh dan kokoh pada kekokohan tarik atau tekan. Karenanya dari itu besi ini menjadi faktor struktur yang mempunyai batasan yang paripurna untuk menahan muatan tekan aksial, tarik aksial, dan lentur dengan fasilitas pembangunan strukturnya. Baja Wide Flange (WF) ini mempunyai kepadatan yang tinggi namun rasio berat antara kekuatan komponen Baja WF yang tinggi tetapi tidak begitu berat yang berhubungan dengan kapasitas bobot. Selain dari itu menentukan kalau kontruksi yang digunakan secara efisien. Metode kontruksi baja WF ini kombinasi dari elemen struktur yang rumit. Pada struktur ini memiliki tujuan membawa bobot yang aman dan efektif yang berefek pada sebuah bangunan dan dikirim pada pondasinya. Gaya dan muatan yang berefek ini termasuk beban pertikal, perbedaan suhu, horizontal, getaran dan lainnya. Pada sebuah bangunan baja, karenanya ada unsure yang berguna menahan gaya lateral dan gravitasi.
 
-### 4\. Besi Hollow Di Pulo Merak Cilegon
+### 4. Besi Hollow Di Pulo Merak Cilegon
 
 Besi hollow adalah besi yang diterapkan sebagai pembuatan kanopi, pagar, pintu besi dan lainnya. Bahan baku pembuatan besi Hollow ini biasanya terbuat dari stainless, galvanis, dan besi baja. Namun yang paling kerap kali dipakai sebagai bahan baku merupakan galvanis. Terdapat kelebihan yang anda peroleh ketika mengaplikasikan kanopi, mengaplikasikan pagar, teralis menerapkan besi hollow:
 

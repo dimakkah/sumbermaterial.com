@@ -25,7 +25,7 @@ berdasarkan Standar Nasional Indonesia ( SK SNI - S - 04 - 1989 - F ; 28) di tut
 
 Prasyarat Pasir yg Bagus buat Bangunan
 
-1.  Agregat Halus harus terdiri dari butiran yg tajam dan keras dengan indeks kekerasan <2.2
+1.  Agregat Halus harus terdiri dari butiran yg tajam dan keras dengan indeks kekerasan <2.2
 2. Jikalau digunakan Natrium Sulfat komponen hancur maksimal 12 persen
 3. sekiranya diaplikasikan Magnesium Sulfat bagian halus maksimal 5 persen
 4. Tak boleh mengandung lumpur lebih dari lima persen
@@ -41,7 +41,6 @@ Prasyarat Pasir yg Bagus buat Bangunan
 Setelah memahami prasyarat pasir tuk suatu Konstruksi Bangunan, saat ini kita bahas Jenis - Jenis Pasir Untuk Bangunan penjelasan nya berikut ini:
 
 - ### Pasir Tipe Cor dan Daerah Pengambilannya Di Rawa Bunga Jakarta
-    
 
 Pasir ini biasa nya berwarna hitam pekat dan tingkat kekasaran butiran nya lumayan tinggi. Melainkan sekiranya anda mengepal nya dengan tangan tidak akan lengket dan akan hancur kembali. macam pasir ini benar-benar lah bagus untuk Pengecoran, Plesteran Dinding, Adukan Pondasi dan Adukan Pasangan Bata Pasir ini yaitu pasir untuk Rigid ialah butiran-butiran mineral keras dan tajam berukuran antara 0,075 – 5 mm, seandainya terdapat butiran berukuran lebih kecil dari 0,063 mm tidak lebih dari 5% berat. Pasir ini yaitu pasir untuk Cor hampir kerap diaplikasikan untuk pekerjaan cor-coran struktur seperti kolom, balok dan pelat lantai.
 
@@ -52,9 +51,9 @@ Harga Pasir Mundu Free Ongkir Ke Rawa Bunga Jakarta Jika anda sebagai konsumen /
 Pasir paling unggul dari kp. jebrod cianjur jawa barat yang diterapkan oleh indocement serta perusahaan batching plant lainnya sebagai bahan dasar produksi readymix concrete. Pasir ini paling dianjurkan untuk cor sebab irit semen juga mempunyai kandungan lumpur yang sungguh-sungguh rendah dibawah 8%. warnanya Hitam abu tua atau hitam seperti hitamnya batu kali, ada juga yang hitam kemerahan atau hitam terasi
 
 3. **Pasir Hitam Rigid Cimangkok.** Pasir dari Daerah penambangannya di cimangkok sukabumi jabar yang masih masuk pada kategori pasir hitam paling unggul di jawa barat, warnanya hitam kecoklatan sesuai untuk cor, pasang pondasi dan bata
-    
+
     ![Harga Pasir Mundu Free Ongkir Ke Rawa Bunga Jakarta](/images/info/pasir-hitam-8.jpg)
-    
+
 4. **Pasir Hitam Cor Cimalaka Subang Bandung.**
 
 Pasir No. 1 yang berwarna hitam kebauan ada juga yang berwarna hitam abu tua. Banyak di gunakan untuk Beton, pasang dan keperluan lainnya. Ditambang di kampung cimalaka
@@ -90,9 +89,9 @@ Kecuali Rangkasbitung, Banten juga mempunyai lokasi pnembangan pasir lain sepert
 Masih dari Lokasi di banten, pasir kelas tiga ini yaitu pasir yang banyak diterapkan di proyek proyek perumahan atau cluster sebab harganya yang murah juga kwalitas yang unggul. Warna pasir ini hitam kecoklatan dan keabuan betul-betul disarankan untuk pasang pondasi, bata, batu dan lainnya
 
 27. **Pasir Hitam Rigid Bohlam Sukabumi.** Pasir dari Lokasi kp. bohlam di sukabumi berwarna hitam kecoklatan, betul-betul bagus untuk pasang bata, pondasi dan sebagainya sebagai pilihan pasir mutu bagus dan ekonomis
-    
+
     ![Harga Pasir Mundu Free Ongkir Ke Rawa Bunga Jakarta](/images/info/pasir-hitam-1.jpg)
-    
+
 28. **Pasir Rigid Galunggung.**
 
 Pasir ini yaitu pasir hitam kwalitas paling unggul dikelasnya umum digunakan oleh pabrik pengolahan beton readymix juga perusahan pembuatan precast dan kerap kali juga diterapkan untuk bahan pembuatan batako press hitam, paving block dan lain-lain. Pasir ini ditambang dari Tasikmalaya jabar.
@@ -100,21 +99,18 @@ Pasir ini yaitu pasir hitam kwalitas paling unggul dikelasnya umum digunakan ole
 ![Harga Pasir Mundu Free Ongkir Ke Rawa Bunga Jakarta](/images/info/pasir-hitam-5.jpg)
 
 - ### Pasir Pasang Di Rawa Bunga Jakarta
-    
 
 ![Harga Pasir Mundu Free Ongkir Ke Rawa Bunga Jakarta](/images/info/pasir-hitam-11.jpg)
 
 Pasir ini ekstra halus lagi dibandingi oleh pasir beton. seandainya kamu mengepal pasir ini maka akan menggumpal dan tak akan hancur kembali. pasir pasang lazim nya di pakai tuk campuran pasir beton agar tak terlalu kasar dan dapat di gunakan untuk plesteran dinding.
 
 - ### Pasir Urug Untuk pengurugan lantai Di Rawa Bunga Jakarta
-    
 
 Di Antara ke dua pasir diatas pasir tipe ini lebih halus lagi, jikalau anda mengepal nya maka akan menggumpal dan tidak akan hancur lagi. tetapi pasir ragam tidak bagus untuk di buat sebagai bahan bangunan. pasir tipe ini pada lazim nya di pakai untuk Bahan Pembuatan Batako
 
 Pada biasa nya pasir ini nyaris sama dgn pasir beton tapi pasir ini memiliki tingkat kekasaran yg tinggi, butiran - butiran nya lumayan besar dan agak banyak batuan nya. pada biasanya pasir macam ini baik tuk bahan pemadatan lantai
 
 - ### Pasir Putih Tanpa Ayak Untuk Pengecoran Di Rawa Bunga Jakarta
-    
 
 1. **Pasir Putih Bangka**
 

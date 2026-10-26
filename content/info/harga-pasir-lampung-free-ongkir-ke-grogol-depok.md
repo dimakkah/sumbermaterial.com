@@ -25,7 +25,7 @@ Menurut Standar Nasional Indonesia ( SK SNI - S - 04 - 1989 - F ; 28) di tuturka
 
 Prasyarat Pasir yg Bagus buat Konstruksi Bangunan
 
-1.  Agregat Halus wajib terdiri dari butiran yg tajam dan keras dengan indeks kekerasan <2.2
+1.  Agregat Halus wajib terdiri dari butiran yg tajam dan keras dengan indeks kekerasan <2.2
 2. bilamana dimanfaatkan Natrium Sulfat bagian hancur maksimal dua belas %
 3. Sekiranya digunakan Magnesium Sulfat komponen halus maksimal 10%
 4. Tak boleh memuat clay lebih dari lima %
@@ -41,7 +41,6 @@ Prasyarat Pasir yg Bagus buat Konstruksi Bangunan
 setelah tahu persis persyaratan pasir buat sebuah Konstruksi, pada saat ini kita bahas Macam - Ragam Pasir Untuk Konstruksi Bangunan penjelasan nya sebagai berikut:
 
 - ### Pasir Jenis Cor dan Tempat Pengambilannya Di Grogol Depok
-    
 
 Pasir ini lazim nya berwarna hitam gelap dan tingkat kekerasan butiran nya lumayan tinggi. Namun bila anda mengepal nya dengan tangan tak akan lengket dan akan hancur kembali. model pasir ini amat lah bagus untuk Pengecoran, Plesteran Dinding, Adukan Pondasi dan Adukan Pasangan Bata Pasir ini yaitu pasir untuk Rigid adalah butiran-butiran mineral keras dan tajam berukuran antara 0,075 – 5 mm, kalau terdapat butiran berukuran lebih kecil dari 0,063 mm tidak lebih dari 5% berat. Pasir ini yaitu pasir untuk Cor hampir acap kali diterapkan untuk pekerjaan cor-coran struktur seperti kolom, balok dan pelat lantai.
 
@@ -52,9 +51,9 @@ Harga Pasir Lampung Free Ongkir Ke Grogol Depok Bila anda sebagai konsumen /pemb
 Pasir terbaik asli kp. jebrod cianjur jawa barat yang diterapkan oleh indocement serta perusahaan batching plant lainnya sebagai bahan dasar produksi readymix concrete. Pasir ini paling disarankan untuk cor sebab irit semen juga mempunyai kandungan lumpur yang betul-betul rendah dibawah delapan persen. warnanya Hitam abu tua atau hitam seperti hitamnya batu kali, ada juga yang hitam kemerahan atau hitam terasi
 
 3. **Pasir Hitam Rigid Cimangkok.** Pasir dari Daerah penambangannya di cimangkok sukabumi jabar yang masih masuk terhadap klasifikasi pasir hitam nomor satu di jawa barat, warnanya hitam kecoklatan pantas untuk cor, pasang pondasi dan bata
-    
+
     ![Harga Pasir Lampung Free Ongkir Ke Grogol Depok](/images/info/pasir-hitam-2.jpg)
-    
+
 4. **Pasir Hitam Rigid Cimalaka Subang Bandung.**
 
 Pasir kelas satu yang berwarna hitam kebauan ada juga yang berwarna hitam abu tua. Banyak di aplikasikan untuk Beton, pasang dan keperluan lainnya. Ditambang di kampung cimalaka
@@ -90,9 +89,9 @@ Kecuali Rangkasbitung, Banten juga mempunyai lokasi pnembangan pasir lain sepert
 Masih dari kawasan di banten, pasir kelas tiga ini yaitu pasir yang banyak diterapkan di proyek proyek perumahan atau cluster sebab harganya yang murah juga mutu yang tidak diragukan. Warna pasir ini hitam kecoklatan dan keabuan sungguh-sungguh disarankan untuk pasang pondasi, bata, batu dsb
 
 27. **Pasir Hitam Rigid Bohlam Sukabumi.** Pasir dari Lokasi kp. bohlam di sukabumi berwarna hitam kecoklatan, betul-betul bagus untuk pasang bata, pondasi dan lain-lain sebagai opsi pasir kwalitas baik dan tidak mahal
-    
+
     ![Harga Pasir Lampung Free Ongkir Ke Grogol Depok](/images/info/pasir-hitam-8.jpg)
-    
+
 28. **Pasir Beton Galunggung.**
 
 Pasir ini yaitu pasir hitam kwalitas paling unggul dikelasnya awam diaplikasikan oleh pabrik pengolahan beton readymix juga perusahan pembuatan precast dan sering kali juga diterapkan untuk bahan pembuatan batako press hitam, paving block dan sebagainya. Pasir ini ditambang dari Tasikmalaya jawa barat.
@@ -100,21 +99,18 @@ Pasir ini yaitu pasir hitam kwalitas paling unggul dikelasnya awam diaplikasikan
 ![Harga Pasir Lampung Free Ongkir Ke Grogol Depok](/images/info/pasir-hitam-9.jpg)
 
 - ### Pasir Untuk Adukan Pasang Batu, Pondasi, Bata, Ubin, Plester Di Grogol Depok
-    
 
 ![Harga Pasir Lampung Free Ongkir Ke Grogol Depok](/images/info/pasir-putih12.jpg)
 
 Pasir ini ekstra halus lagi diperbandingkan oleh pasir beton. sekiranya kalian mengepal pasir ini karenanya akan menggumpal dan tak akan hancur kembali. pasir pasang umum nya di manfaatkan untuk adukan pasir beton agar tak terlampau kasar dan bisa di manfaatkan untuk plesteran dinding.
 
 - ### Pasir Urug Untuk Pembuatan Batako Di Grogol Depok
-    
 
 Di Antara ke dua pasir diatas pasir tipe ini lebih halus lagi, kalau kamu mengepal nya akan menggumpal dan tak akan buyar lagi. melainkan pasir macam
 
 Pada nya pasir ini nyaris sama dgn pasir beton tapi pasir ini mempunyai tingkat kekasaran yang tinggi, butiran - butiran nya cukup besar dan agak banyak batuan nya. pada lazimnya pasir tipe ini bagus tuk bahan Pembuatan Batako
 
 - ### Pasir Putih Tanpa Ayak Untuk Pelester Di Grogol Depok
-    
 
 1. **Pasir Putih Bangka**
 

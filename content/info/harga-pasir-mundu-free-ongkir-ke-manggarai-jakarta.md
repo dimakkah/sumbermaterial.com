@@ -25,7 +25,7 @@ berdasarkan Standar Nasional Indonesia ( SK SNI - S - 04 - 1989 - F ; 28) di seb
 
 Syarat Pasir yang Baik buat Bangunan
 
-1.  Agregat Halus harus terdiri dari butiran yg tajam dan keras dengan indeks kekerasan <2.2
+1.  Agregat Halus harus terdiri dari butiran yg tajam dan keras dengan indeks kekerasan <2.2
 2. apabila dipakai Natrium Sulfat bagian hancur optimal dua belas persen
 3. apabila diaplikasikan Magnesium Sulfat komponen halus optimal 5 persen
 4. Tidak boleh mengandung clay lebih dari 5%
@@ -41,7 +41,6 @@ Syarat Pasir yang Baik buat Bangunan
 setelah tahu persis persyaratan pasir buat sebuah Bangunan, pada saat ini kita bahas Macam - Tipe Pasir Untuk Bangunan penjelasan nya berikut ini:
 
 - ### Pasir Beton Di Manggarai Jakarta
-    
 
 Pasir ini umum nya berwarna hitam pekat dan tingkat kekerasan butiran nya cukup tinggi. Tapi apabila anda mengepal nya dengan tangan tidak akan lengket dan akan hancur kembali. macam pasir ini sangat lah baik tuk Pengecoran, Plesteran Dinding, Adukan Pondasi dan Adukan Pasangan Bata Pasir ini yaitu pasir untuk Beton merupakan butiran-butiran mineral keras dan tajam berukuran antara 0,075 – 5 mm, apabila terdapat butiran berukuran lebih kecil dari 0,063 mm tak lebih dari 5% berat. Pasir ini yaitu pasir untuk Rigid acap kali dipakai untuk profesi cor-coran struktur seperti kolom, balok dan pelat lantai.
 
@@ -52,9 +51,9 @@ Harga Pasir Mundu Free Ongkir Ke Manggarai Jakarta Kalau anda sebagai konsumen /
 Pasir paling unggul diambil dari kp. jebrod cianjur jawa barat yang dipakai oleh indocement serta perusahaan batching plant lainnya sebagai bahan dasar produksi readymix concrete. Pasir ini paling disarankan untuk cor sebab irit semen juga mempunyai kandungan lumpur yang betul-betul rendah dibawah 8%. warnanya Hitam abu tua atau hitam seperti hitamnya batu kali, ada juga yang hitam kemerahan atau hitam terasi
 
 3. **Pasir Hitam Beton Cimangkok.** Pasir dari Daerah penambangannya di cimangkok sukabumi jawa barat yang masih masuk terhadap golongan pasir hitam terbaik di jabar, warnanya hitam kecoklatan sesuai untuk cor, pasang pondasi dan bata
-    
+
     ![Harga Pasir Mundu Free Ongkir Ke Manggarai Jakarta](/images/info/pasir-hitam-5.jpg)
-    
+
 4. **Pasir Hitam Rigid Cimalaka Subang Bandung.**
 
 Pasir kelas satu yang berwarna hitam kebauan ada juga yang berwarna hitam abu tua. Banyak di gunakan untuk Beton, pasang dan keperluan lainnya. Ditambang di Desa cimalaka
@@ -90,9 +89,9 @@ Kecuali Rangkasbitung, Banten juga mempunyai lokasi pnembangan pasir lain sepert
 Masih dari Daerah di banten, pasir kelas tiga ini merupakan pasir yang banyak diterapkan di proyek proyek perumahan atau cluster sebab harganya yang murah juga kwalitas yang unggul. Warna pasir ini hitam kecoklatan dan keabuan benar-benar disarankan untuk pasang pondasi, bata, batu dan lain-lain
 
 27. **Pasir Hitam Cor Bohlam Sukabumi.** Pasir dari Kawasan kp. bohlam di sukabumi berwarna hitam kecoklatan, benar-benar bagus untuk pasang bata, pondasi dan sebagainya sebagai opsi pasir mutu bagus dan tidak mahal
-    
+
     ![Harga Pasir Mundu Free Ongkir Ke Manggarai Jakarta](/images/info/pasir-hitam-7.jpg)
-    
+
 28. **Pasir Cor Galunggung.**
 
 Pasir ini yakni pasir hitam kwalitas paling unggul dikelasnya umum diterapkan oleh pabrik pengolahan beton readymix juga perusahan pembuatan precast dan acap kali juga digunakan untuk bahan pembuatan batako press hitam, paving block dan sebagainya. Pasir ini ditambang dari Tasikmalaya jabar.
@@ -100,21 +99,18 @@ Pasir ini yakni pasir hitam kwalitas paling unggul dikelasnya umum diterapkan ol
 ![Harga Pasir Mundu Free Ongkir Ke Manggarai Jakarta](/images/info/pasir-hitam-2.jpg)
 
 - ### Pasir Untuk Pasang Batu, Pondasi, Bata, Ubin, Plester Di Manggarai Jakarta
-    
 
 ![Harga Pasir Mundu Free Ongkir Ke Manggarai Jakarta](/images/info/jual-pasir-mundu.jpg)
 
 Pasir ini lebih halus lagi dibandingkan oleh pasir beton. bila anda mengepal pasir ini karenanya akan menggumpal dan tidak akan hancur kembali. pasir pasang biasa nya di gunakan buat campuran pasir beton agar tak terlampau kasar dan dapat di manfaatkan untuk plesteran dinding.
 
 - ### Pasir Elod Untuk pemadatan lantai Di Manggarai Jakarta
-    
 
 Di Antara ke dua pasir diatas pasir model ini lebih halus lagi, bila kalian mengepal nya maka akan menggumpal dan tak akan buyar lagi. melainkan pasir tipe
 
 Pada umum nya pasir ini nyaris sama dengan pasir beton namun pasir ini mempunyai tingkat kekasaran yang tinggi, butiran - butiran nya lumayan besar dan agak banyak batuan nya. pada umumnya pasir tipe ini baik tuk bahan pemadatan lantai
 
 - ### Pasir Putih Bebas Lumpur Untuk Pengecoran Di Manggarai Jakarta
-    
 
 1. **Pasir Putih Bangka**
 

@@ -18,19 +18,19 @@ Dengan tidak adanya besi karenanya sebuah bangunan akan mudah retak saat ada gun
 
 ## Inilah Jenis-jenis Besi Di Tirtayasa Serang
 
-### 1\. Besi Polos 4mm, 6mm, 8mm, 10mm, 12mm, 16mm, 18mm, 19mm Di Tirtayasa Serang
+### 1. Besi Polos 4mm, 6mm, 8mm, 10mm, 12mm, 16mm, 18mm, 19mm Di Tirtayasa Serang
 
 Besi polos mempunyai ukuran mulai dari 8 mm sampai dengan 25 mm dan memiliki 6 meter panjang tekuk dan 12 meter panjang lurus. Besi beton ini mulai diterapkan sebagai bahan utama di Indonesia pada tahun 1950. Besi ini kerap kali kali diaplikasikan untuk membangun bangunan beton. Bahan yang gampang diaplikasikan sehingga selain diterapkan untuk membangun bangunan beton juga diaplikasikan untuk membangun trowongan, bendungan, dan lainnya. Saat diaplikasikan untuk membangun tempat tinggal bertingkat maka biasanya besi polos ini digunakan untuk struktur tulangan balok, dinding, dan sloof. Besi beton polos ini memiliki kelebihan besi polos ini tegangannya lebih tinggi dari pada besi lainnya. Sehingga besi ini terkesan lebih kuat dan tahan beban. Jadi pengaplikasian besi polos ini amat pantas untuk membangun gedung, jembatan, dan bangunan lainnya. Besi polos ini terbuat dari bahan seperti billet dan skrap. Billet yaitu baja batangan yang proses pembuatannya dengan melebur biji besi. Kalau skrap yakni besi bekas yang dihancurkan dengan temperature tertentu. Selain dari itu bila anda menerapkan besi polos ini tdk membutuhkan biaya pemeliharaan. Kian lama diaplikasikan karenanya besi ini akan semakin kokoh.
 
-### 2\. Besi Ulir Full 4mm, 6mm, 8mm, 10mm, 12mm, 16mm, 18mm, 19mm Di Tirtayasa Serang
+### 2. Besi Ulir Full 4mm, 6mm, 8mm, 10mm, 12mm, 16mm, 18mm, 19mm Di Tirtayasa Serang
 
 Sesuai dengan namanya besi beton ulir ini yakni besi yang karakternya mengulir. Pada permukaannya bercorak spiral yang memiliki tujuan untuk menyatukan tulangan dengan faktor bahan bangunan yang dibangun oleh besi beton. Besi ulir ini mulai populer dipakai pada abad ke-20 di Amerika dan mulai populer di Indonesia pada tahun1950. Mengingat saat menggunakan besi ulir ini memiliki banyak kelebihan mulai dari kekuatan bangunan serta lebih murah dan efisien. Produk besi ulir ini menjadi paling laris di pasar karena memiliki kwalitas yang terbaik di Indonesia dan mempunyai harga yang tinggi kalau diperbandingkan dengan produk lainnya.
 
-### 3\. Besi WF dan H-Beam KS Di Tirtayasa Serang
+### 3. Besi WF dan H-Beam KS Di Tirtayasa Serang
 
 Besi Wide Flange (WF) ini ialah salah satu baja dengan struktural yang paling sering dipakai untuk kontruksi baja. Bila anda memerlukan besi baja Wide Flage dalam quantitas yang banyak atau sedikit maka silahkan cari penjual besi yang terpercaya. Besi WF ini memiliki kekokohan yang kokoh dan kuat pada kekuatan tarik atau tekan. Maka dari itu besi ini menjadi unsur struktur yang mempunyai batasan yang paripurna untuk menopang muatan tekan aksial, tarik aksial, dan lentur dengan fasilitas pembangunan strukturnya. Baja Wide Flange (WF) ini memiliki kepadatan yang tinggi namun rasio berat antara ketahanan komponen Baja WF yang tinggi tapi tdk begitu berat yang terkait dengan kapasitas bobot. Selain itu memastikan seandainya kontruksi yang diterapkan secara efisien. Metode kontruksi baja WF ini kombinasi dari faktor struktur yang kompleks. Pada struktur ini mempunyai tujuan membawa bobot yang aman dan tepat sasaran yang berefek pada sebuah bangunan dan dikirim pada pondasinya. Gaya dan beban yang berefek ini termasuk beban pertikal, perbedaan suhu, horizontal, getaran dan lainnya. Pada sebuah bangunan baja, karenanya ada unsure yang bermanfaat menopang gaya lateral dan gravitasi.
 
-### 4\. Besi Hollow Di Tirtayasa Serang
+### 4. Besi Hollow Di Tirtayasa Serang
 
 Besi hollow merupakan besi yang dipakai sebagai pembuatan kanopi, pagar, pintu besi dan lainnya. Bahan baku pembuatan besi Hollow ini lazimnya terbuat dari stainless, galvanis, dan besi baja. Tapi yang paling kerap diaplikasikan sebagai bahan baku merupakan galvanis. Terdapat kelebihan yang anda dapatkan saat mengaplikasikan kanopi, mengaplikasikan pagar, teralis menerapkan besi hollow:
 

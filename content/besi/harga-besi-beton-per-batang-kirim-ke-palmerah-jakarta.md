@@ -18,19 +18,19 @@ Dengan tidak adanya besi karenanya sebuah bangunan akan mudah retak dikala ada g
 
 ## Megenal Jenis-jenis Besi Di Palmerah Jakarta
 
-### 1\. Besi Polos Full 4mm, 6mm, 8mm, 10mm, 12mm, 16mm, 18mm, 19mm Di Palmerah Jakarta
+### 1. Besi Polos Full 4mm, 6mm, 8mm, 10mm, 12mm, 16mm, 18mm, 19mm Di Palmerah Jakarta
 
 Besi polos mempunyai ukuran mulai dari 8 mm sampai 25 mm dan mempunyai 6 meter panjang tekuk dan 12 meter panjang lurus. Besi beton ini mulai digunakan sebagai bahan utama di Indonesia pada tahun 1950. Besi ini kerap kali digunakan untuk membangun sebuah gedung. Bahan yang mudah diterapkan sehingga selain dari diterapkan untuk membangun rumah juga diaplikasikan untuk membangun trowongan, bendungan, dan lainnya. Dikala digunakan untuk membangun rumah bertingkat maka biasanya besi polos ini diterapkan untuk struktur rangkaian besi balok, dinding, dan sloof. Besi beton polos ini mempunyai kelebihan besi polos ini tegangannya lebih tinggi dari pada besi lainnya. Oleh karena itu besi ini terkesan lebih kuat dan tahan beban. Oleh karena itu pemakaian besi polos ini benar-benar sesuai untuk membangun gedung, jembatan, dan bangunan lainnya. Besi polos ini terbuat dari bahan seperti billet dan skrap. Billet yakni baja batangan yang pengerjaan pembuatannya dengan mengecor biji besi. Kalau skrap ialah besi bekas yang dileburkan dengan temperature tertentu. Selain dari itu seandainya anda memakai besi polos ini tdk memerlukan budget pemeliharaan. Kian lama digunakan maka besi ini akan kian kokoh.
 
-### 2\. Besi Ulir 4mm, 6mm, 8mm, 10mm, 12mm, 16mm, 18mm, 19mm Di Palmerah Jakarta
+### 2. Besi Ulir 4mm, 6mm, 8mm, 10mm, 12mm, 16mm, 18mm, 19mm Di Palmerah Jakarta
 
 Cocok dengan namanya besi beton ulir ini adalah besi yang karakternya mengulir. Pada permukaannya bercorak spiral yang memiliki tujuan untuk menyatukan gerigi besi dengan elemen material bangunan yang dibentuk oleh besi beton. Besi ulir ini mulai populer diterapkan pada abad ke-20 di Amerika dan mulai populer di Indonesia pada tahun1950. Mengingat saat menggunakan besi ulir ini memiliki banyak keunggulan mulai dari ketahanan bangunan serta lebih ekonomis dan efisien. Produk besi ulir ini menjadi primadona pasar karena memiliki kwalitas yang terbaik di Indonesia dan mempunyai harga yang tinggi jika diperbandingkan dengan produk lainnya.
 
-### 3\. Besi WF dan H-Beam Toleransi Di Palmerah Jakarta
+### 3. Besi WF dan H-Beam Toleransi Di Palmerah Jakarta
 
 Besi Wide Flange (WF) ini yaitu salah satu baja dengan struktural yang paling sering digunakan untuk kontruksi baja. Apabila anda membutuhkan besi baja Wide Flage dalam quantitas yang banyak atau sedikit karenanya silahkan cari penjual besi yang terpercaya. Besi WF ini memiliki kekokohan yang kokoh dan kokoh pada kekokohan tarik atau tekan. Karenanya dari itu besi ini menjadi elemen struktur yang memiliki batasan yang sempurna untuk menahan beban tekan aksial, tarik aksial, dan lentur dengan fasilitas pembangunan strukturnya. Baja Wide Flange (WF) ini memiliki kepadatan yang tinggi melainkan rasio berat antara kekuatan komponen Baja WF yang tinggi tetapi tidak terlalu berat yang berhubungan dengan kapasitas muatan. Selain dari itu memastikan sekiranya kontruksi yang diaplikasikan secara efisien. Sistem kontruksi baja WF ini kombinasi dari elemen struktur yang kompleks. Pada struktur ini memiliki tujuan membawa beban yang aman dan efektif yang bekerja pada sebuah bangunan dan dikirim pada pondasinya. Gaya dan muatan yang berefek ini termasuk muatan pertikal, perbedaan suhu, horizontal, getaran dan lainnya. Pada sebuah bangunan baja, maka ada unsure yang berfungsi menopang gaya lateral dan gravitasi.
 
-### 4\. Besi Holow Di Palmerah Jakarta
+### 4. Besi Holow Di Palmerah Jakarta
 
 Besi hollow yakni besi yang digunakan sebagai pembuatan kanopi, pagar, pintu besi dan lainnya. Bahan baku pembuatan besi Hollow ini umumnya terbuat dari stainless, galvanis, dan besi baja. Tapi yang paling kerap diterapkan sebagai bahan baku ialah galvanis. Terdapat kelebihan yang anda dapatkan ketika mengaplikasikan kanopi, memasang pagar, teralis menggunakan besi hollow:
 

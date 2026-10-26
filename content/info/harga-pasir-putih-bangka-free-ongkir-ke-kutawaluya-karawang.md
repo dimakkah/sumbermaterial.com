@@ -25,7 +25,7 @@ berdasarkan Standar Nasional Indonesia ( SK SNI - S - 04 - 1989 - F ; 28) di tut
 
 Syarat Pasir yang Bagus buat Bangunan
 
-1.  Agregat Halus sepatutnya terdiri dari butiran yang tajam dan keras dengan indeks kekerasan <2.2
+1.  Agregat Halus sepatutnya terdiri dari butiran yang tajam dan keras dengan indeks kekerasan <2.2
 2. Kalau diaplikasikan Natrium Sulfat bagian hancur maksimal 12%
 3. kalau digunakan Magnesium Sulfat bagian halus optimal 10%
 4. Tak boleh mengandung clay lebih dari lima persen
@@ -41,7 +41,6 @@ Syarat Pasir yang Bagus buat Bangunan
 Sesudah memahami syarat pasir tuk sebuah Konstruksi, saat ini kita bahas model - Jenis Pasir Untuk Konstruksi penjelasan nya sebagai berikut:
 
 - ### Pasir untuk Cor Rigid Di Kutawaluya Karawang
-    
 
 Pasir ini lazim nya berwarna hitam kemerahan dan tingkat kekerasan butiran nya lumayan tinggi. Namun seandainya anda mengepal nya dengan tangan tak akan menggumpal dan akan hancur kembali. tipe pasir ini benar-benar lah baik tuk Pengecoran, Plesteran Dinding, Adukan Pondasi dan Adukan Pasangan Bata Pasir ini yaitu pasir untuk Beton yaitu butiran-butiran mineral keras dan tajam berukuran antara 0,075 – 5 mm, seandainya terdapat butiran berukuran lebih kecil dari 0,063 mm tak lebih dari 5% berat. Pasir ini yaitu pasir untuk Rigid sering diaplikasikan untuk profesi cor-coran struktur seperti kolom, balok dan pelat lantai.
 
@@ -52,9 +51,9 @@ Harga Pasir Putih Bangka Free Ongkir Ke Kutawaluya Karawang Kalau anda sebagai k
 Pasir No. 1 asli kp. jebrod cianjur jawa barat yang dipakai oleh indocement serta perusahaan batching plant lainnya sebagai bahan dasar produksi readymix concrete. Pasir ini paling dianjurkan untuk cor sebab irit semen juga mempunyai kandungan lumpur yang amat rendah dibawah delapan persen. warnanya Hitam abu tua atau hitam seperti hitamnya batu kali, ada juga yang hitam kemerahan atau hitam terasi
 
 3. **Pasir Hitam Cor Cimangkok.** Pasir asli Lokasi penambangannya di cimangkok sukabumi jabar yang masih masuk terhadap kategori pasir hitam paling unggul di jabar, warnanya hitam kecoklatan sesuai untuk cor, pasang pondasi dan bata
-    
+
     ![Harga Pasir Putih Bangka Free Ongkir Ke Kutawaluya Karawang](/images/info/pasir-hitam-8.jpg)
-    
+
 4. **Pasir Hitam Rigid Cimalaka Subang Bandung.**
 
 Pasir paling unggul yang berwarna hitam kebauan ada juga yang berwarna hitam abu tua. Banyak di gunakan untuk Rigid, pasang dan keperluan lainnya. Ditambang di Daerah cimalaka
@@ -90,9 +89,9 @@ Kecuali Rangkasbitung, Banten juga mempunyai lokasi pnembangan pasir lain sepert
 Masih dari Daerah di banten, pasir kelas tiga ini yakni pasir yang banyak diaplikasikan di proyek proyek perumahan atau cluster sebab harganya yang murah juga mutu yang unggul. Warna pasir ini hitam kecoklatan dan keabuan amat disarankan untuk pasang pondasi, bata, batu dan lain-lain
 
 27. **Pasir Hitam Cor Bohlam Sukabumi.** Pasir dari Lokasi kp. bohlam di sukabumi berwarna hitam kecoklatan, betul-betul bagus untuk pasang bata, pondasi dsb sebagai pilihan pasir mutu unggul dan tidak mahal
-    
+
     ![Harga Pasir Putih Bangka Free Ongkir Ke Kutawaluya Karawang](/images/info/pasir-hitam-8.jpg)
-    
+
 28. **Pasir Rigid Galunggung.**
 
 Pasir ini ialah pasir hitam mutu paling unggul dikelasnya awam diterapkan oleh pabrik pengolahan beton readymix juga perusahan pembuatan precast dan sering kali juga diaplikasikan untuk bahan pembuatan batako press hitam, paving block dan lainnya. Pasir ini ditambang dari Tasikmalaya jawa barat.
@@ -100,21 +99,18 @@ Pasir ini ialah pasir hitam mutu paling unggul dikelasnya awam diterapkan oleh p
 ![Harga Pasir Putih Bangka Free Ongkir Ke Kutawaluya Karawang](/images/info/pasir-hitam-5.jpg)
 
 - ### Pasir Untuk Pemasangan Batu, Pondasi, Bata, Ubin, Plester Di Kutawaluya Karawang
-    
 
 ![Harga Pasir Putih Bangka Free Ongkir Ke Kutawaluya Karawang](/images/info/pasir-putih12.jpg)
 
 Pasir ini lebih halus lagi dibandingkan oleh pasir beton. seandainya anda mengepal pasir ini karenanya akan menggumpal dan tak akan hancur kembali. pasir pasang lazim nya di gunakan untuk campuran pasir beton agar tak terlalu kasar dan dapat di manfaatkan untuk plesteran dinding.
 
 - ### Pasir Kualitas rendah Untuk Dasaran Pemasangan Keramik Di Kutawaluya Karawang
-    
 
 Di Antara ke dua pasir diatas pasir ragam ini lebih halus lagi, sekiranya anda mengepal nya akan menggumpal dan tidak akan hancur lagi. namun pasir macam
 
 Pada lazim nya pasir ini nyaris sama dgn pasir beton tetapi pasir ini memiliki tingkat kekasaran yang tinggi, butiran - butiran nya cukup besar dan agak banyak batuan nya. pada lazimnya pasir model ini baik tuk bahan Pembuatan Batako
 
 - ### Pasir Putih Bebas Lumpur Untuk Pasang Lantai Marmer Di Kutawaluya Karawang
-    
 
 1. **Pasir Putih Bangka**
 

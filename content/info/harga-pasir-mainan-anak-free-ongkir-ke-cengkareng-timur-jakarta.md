@@ -25,7 +25,7 @@ Berdasarkan Standar Nasional Indonesia ( SK SNI - S - 04 - 1989 - F ; 28) di seb
 
 Prasyarat Pasir yg Bagus tuk Konstruksi Bangunan
 
-1.  Agregat Halus harus terdiri dari butiran yg tajam dan keras dengan indeks kekerasan <2.2
+1.  Agregat Halus harus terdiri dari butiran yg tajam dan keras dengan indeks kekerasan <2.2
 2. bilamana diterapkan Natrium Sulfat komponen hancur optimal 12 persen
 3. apabila diterapkan Magnesium Sulfat bagian halus optimal 10%
 4. Tak boleh berisi clay lebih dari 5 persen
@@ -41,7 +41,6 @@ Prasyarat Pasir yg Bagus tuk Konstruksi Bangunan
 Setelah tahu persis persyaratan pasir untuk suatu Konstruksi Bangunan, sekarang ini kita bahas Ragam - model Pasir Untuk Bangunan penjelasan nya sebagai berikut:
 
 - ### Pasir Model Rigid dan Lokasi Penambangannya Di Cengkareng Timur Jakarta
-    
 
 Pasir ini lazim nya berwarna hitam pekat dan tingkat kekasaran butiran nya lumayan tinggi. Melainkan sekiranya anda mengepal nya dengan tangan tidak akan lengket dan akan hancur kembali. jenis pasir ini sangat lah baik buat Pengecoran, Plesteran Dinding, Adukan Pondasi dan Adukan Pasangan Bata Pasir ini yaitu pasir untuk Beton adalah butiran-butiran mineral keras dan tajam berukuran antara 0,075 – 5 mm, jika terdapat butiran berukuran lebih kecil dari 0,063 mm tak lebih dari 5% berat. Pasir ini yaitu pasir untuk Cor hampir kerap kali digunakan untuk pekerjaan cor-coran struktur seperti kolom, balok dan pelat lantai.
 
@@ -59,21 +58,18 @@ Untuk mendapat kekuatan Beton yang maksimal maka pasir semestinya bisa memenuhi 
 ![Harga Pasir Mainan Anak Free Ongkir Ke Cengkareng Timur Jakarta](/images/info/pasir-hitam-8.jpg)
 
 - ### Pasir Biasa Di Cengkareng Timur Jakarta
-    
 
 ![Harga Pasir Mainan Anak Free Ongkir Ke Cengkareng Timur Jakarta](/images/info/pasir-hitam-11.jpg)
 
 Pasir ini lebih halus lagi dibandingi oleh pasir beton. jika anda mengepal pasir ini maka akan menggumpal dan tidak akan hancur kembali. pasir pasang umum nya di gunakan tuk campuran pasir beton agar tak kelewat kasar dan dapat di pakai untuk plesteran dinding.
 
 - ### Pasir Urug Untuk Pembuatan Batako Di Cengkareng Timur Jakarta
-    
 
 Di Antara ke dua pasir diatas pasir jenis ini lebih halus lagi, kalau kamu mengepal nya akan menggumpal dan tidak akan buyar lagi. namun pasir macam
 
 Pada nya pasir ini nyaris sama dengan pasir beton akan tetapi pasir ini memiliki tingkat kekasaran yang tinggi, butiran - butiran nya lumayan besar dan agak banyak batuan nya. pada umumnya pasir tipe ini baik tuk bahan dasaran pemasangan keramik
 
 - ### Pasir Putih Bebas Lumpur Untuk Taman Bermain Di Cengkareng Timur Jakarta
-    
 
 1. **Pasir Putih Bangka**
 

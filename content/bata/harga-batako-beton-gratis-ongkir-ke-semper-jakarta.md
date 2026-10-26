@@ -16,7 +16,7 @@ saat ini bahan yg diaplikasikan untuk mengisi dinding bangunan, telah terdapat b
 
 ## Mengenal Ragam Variasi Bata
 
-### 1\. Bata Merah Standar & Jumbo Di Semper Jakarta
+### 1. Bata Merah Standar & Jumbo Di Semper Jakarta
 
 ![Harga Batako Beton Gratis Ongkir Ke Semper Jakarta](/images/bata/bata-merah-oven-06.png)
 
@@ -26,7 +26,7 @@ Bata merah ini diciptakan dari material tanah yg kemudian di press dan dioven dg
 
 Bahan bangunan ini amat tahan kepada panas dan pantas dibuat pengamanan dari bahaya api. Bata merah ini pada umumnya memiliki ukuran panjang antara 17-23 cm dan lebar sekitar 7-11 cm, serta tebalnya 3-5 cm. mempunyai ukuran yang lebih kecil akan memberi kemudahan dalam progres pengangkutan dan bisa diaplikasikan untuk membentuk bidang kecil.
 
-### 2\. Batako Hitam dan Putih Di Semper Jakarta
+### 2. Batako Hitam dan Putih Di Semper Jakarta
 
 ![Harga Batako Beton Gratis Ongkir Ke Semper Jakarta](/images/bata/batako-hitam-press-16.png)
 
@@ -34,7 +34,7 @@ Material bangunan dinding dari batako press ini secara biasa terbuat dari materi
 
 Batako trus seperti ini mempunyai kekurangan seperti mudah pecah, lebih panas dan pengap. Berbeda dg bata merah yang terbuat dari material tanah. Tapi batako press ini cenderung lebih ringan ketimbang bata merah. Kesudahannya akan kelihatan lebih halus dan ukurannya lebih presisi bila diperbandingkan dg bata merah. Batako press Hitam ini mempunyai ukuran panjang sekitar 36-40 cm, tinggi 18-20 cm dan tebal 8-10 cm. material ini sering kali dipilih karena untuk memperingan bobot struktur bangunan, meminimalisir sisa bahan dan mempermudah pembangunan.
 
-### 3\. Bata Hebel Di Semper Jakarta
+### 3. Bata Hebel Di Semper Jakarta
 
 ![Harga Batako Beton Gratis Ongkir Ke Semper Jakarta](/images/bata/bata-hebel-sni-07.png)
 
@@ -62,7 +62,7 @@ Semua tentunya telah tahu kegunaan utama batu bata mulai diterapkan untuk membik
 
 Sistem mengorder batu bata yang aman dan terpercaya:
 
-1.  Progres pembayaran dapat anda lakukan secara COD atau dibayar di daerah ketika barang pesanan anda telah datang di tempat
+1.  Progres pembayaran dapat anda lakukan secara COD atau dibayar di daerah ketika barang pesanan anda telah datang di tempat
 2. Silahkan memilih dan menentukan material batu bata yg anda inginkan
 3. Tentukan juga jumlah pesanan batu bata yg anda butuhkan dalam bentuk bijian.
 4. Anda dapat menghubungi layanan telepon toko untuk memudahkan pelaksanaan pemesanan

@@ -18,19 +18,19 @@ Dengan tidak adanya besi karenanya sebuah bangunan akan mudah retak dikala ada g
 
 ## Mengetahui Jenis-jenis Besi Di Tirtajaya Depok
 
-### 1\. Besi Polos Banci 4mm, 6mm, 8mm, 10mm, 12mm, 16mm, 18mm, 19mm Di Tirtajaya Depok
+### 1. Besi Polos Banci 4mm, 6mm, 8mm, 10mm, 12mm, 16mm, 18mm, 19mm Di Tirtajaya Depok
 
 Besi polos mempunyai ukuran mulai dari 8 mm sampai dengan 25 mm dan memiliki 6 meter panjang tekuk dan 12 meter panjang lurus. Besi beton ini sudah mulai dipakai sebagai bahan utama di Indonesia pada tahun 1950. Besi ini tak jarang kali digunakan untuk membangun rumah. Bahan yang gampang digunakan sehingga selain dari diterapkan untuk membangun rumah juga diterapkan untuk membangun trowongan, bendungan, dan lainnya. Dikala digunakan untuk membangun sebuah gedung bertingkat karenanya biasa besi polos ini diaplikasikan untuk struktur rangkaian besi balok, dinding, dan sloof. Besi beton polos ini mempunyai keunggulan besi polos ini tegangannya lebih tinggi dari pada besi lainnya. Oleh karena itu besi ini terkesan lebih kokoh dan tahan beban. Oleh karena itu pemakaian besi polos ini sungguh-sungguh pantas untuk membangun gedung, jembatan, dan bangunan lainnya. Besi polos ini terbuat dari bahan seperti billet dan skrap. Billet merupakan baja batangan yang pengerjaan pembuatannya dengan melebur biji besi. Sekiranya skrap merupakan besi bekas yang dileburkan dengan temperature tertentu. Selain dari itu jikalau anda memakai besi polos ini tidak membutuhkan biaya pemeliharaan. Semakin lama diaplikasikan maka besi ini akan semakin kokoh.
 
-### 2\. Besi Ulir 4mm, 6mm, 8mm, 10mm, 12mm, 16mm, 18mm, 19mm Di Tirtajaya Depok
+### 2. Besi Ulir 4mm, 6mm, 8mm, 10mm, 12mm, 16mm, 18mm, 19mm Di Tirtajaya Depok
 
 Cocok dengan namanya besi beton ulir ini ialah besi yang bentuknya mengulir. Pada permukaannya bercorak spiral yang mempunyai tujuan untuk menyatukan tulangan dengan unsur bahan bangunan yang dibangun oleh besi beton. Besi ulir ini mulai populer diterapkan pada abad ke-20 di Amerika dan mulai populer di Indonesia pada tahun1950. Mengingat dikala memakai besi ulir ini mempunyai banyak kelebihan mulai dari kekuatan bangunan serta lebih murah dan efisien. Produk besi ulir ini menjadi andalan pasar sebab mempunyai kwalitas yang terbaik di Indonesia dan memiliki harga yang tinggi kalau dibandingi dengan produk lainnya.
 
-### 3\. Besi WF dan H-Beam Di Tirtajaya Depok
+### 3. Besi WF dan H-Beam Di Tirtajaya Depok
 
 Besi Wide Flange (WF) ini adalah salah satu baja dengan struktural yang paling banyak diaplikasikan untuk kontruksi baja. Jikalau anda membutuhkan besi baja Wide Flage dalam jumlah yang banyak atau sedikit maka silahkan cari distributor besi yang terpercaya. Besi WF ini mempunyai kekokohan yang kokoh dan kokoh pada kekuatan tarik atau tekan. Maka dari itu besi ini menjadi unsur struktur yang mempunyai batasan yang paripurna untuk menahan muatan tekan aksial, tarik aksial, dan lentur dengan fasilitas pembangunan strukturnya. Baja Wide Flange (WF) ini memiliki kepadatan yang tinggi tapi rasio berat antara kekuatan komponen Baja WF yang tinggi namun tidak begitu berat yang berhubungan dengan kapasitas bobot. Selain dari itu memastikan sekiranya kontruksi yang diterapkan secara efisien. Cara kontruksi baja WF ini kombinasi dari faktor struktur yang kompleks. Pada struktur ini memiliki tujuan membawa muatan yang aman dan efektif yang bekerja pada sebuah bangunan dan dikirim pada pondasinya. Gaya dan beban yang bekerja ini termasuk beban pertikal, perbedaan temperatur, horizontal, getaran dan lainnya. Pada sebuah bangunan baja, maka ada unsure yang berfungsi menahan gaya lateral dan gravitasi.
 
-### 4\. Besi Hollow Di Tirtajaya Depok
+### 4. Besi Hollow Di Tirtajaya Depok
 
 Besi hollow yaitu besi yang dipakai sebagai pembuatan kanopi, pagar, pintu besi dan lainnya. Bahan baku pembuatan besi Hollow ini biasanya terbuat dari stainless, galvanis, dan besi baja. Tapi yang paling kerap digunakan sebagai bahan baku yakni galvanis. Terdapat kelebihan yang anda peroleh saat memasang kanopi, menerapkan pagar, teralis memakai besi hollow:
 

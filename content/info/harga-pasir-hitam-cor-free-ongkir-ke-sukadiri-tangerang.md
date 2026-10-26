@@ -25,7 +25,7 @@ Berdasarkan Standar Nasional Indonesia ( SK SNI - S - 04 - 1989 - F ; 28) di seb
 
 Prasyarat Pasir yg Bagus Untuk Konstruksi Bangunan
 
-1.  Agregat Halus mesti terdiri dari butiran yang tajam dan keras dengan indeks kekerasan <2.2
+1.  Agregat Halus mesti terdiri dari butiran yang tajam dan keras dengan indeks kekerasan <2.2
 2. bilamana dimanfaatkan Natrium Sulfat komponen hancur maksimal dua belas persen
 3. sekiranya diaplikasikan Magnesium Sulfat bagian halus maksimal sepuluh %
 4. Tak boleh memuat tanah lebih dari lima persen
@@ -41,7 +41,6 @@ Prasyarat Pasir yg Bagus Untuk Konstruksi Bangunan
 setelah tahu persis prasyarat pasir tuk sebuah Konstruksi, sekarang ini kita bahas model - Jenis Pasir Untuk Bangunan penjelasan nya sbb:
 
 - ### Pasir Untuk Pengecoran Di Sukadiri Tangerang
-    
 
 Pasir ini lazim nya berwarna hitam kemerahan dan tingkat kekerasan butiran nya cukup tinggi. Melainkan jika anda mengepal nya dengan tangan tidak akan menggumpal dan akan hancur kembali. jenis pasir ini sungguh-sungguh lah baik untuk Pengecoran, Plesteran Dinding, Adukan Pondasi dan Adukan Pasangan Bata Pasir ini yaitu pasir untuk Beton ialah butiran-butiran mineral keras dan tajam berukuran antara 0,075 – 5 mm, apabila terdapat butiran berukuran lebih kecil dari 0,063 mm tidak lebih dari 5% berat. Pasir ini yaitu pasir untuk Beton tak jarang diaplikasikan untuk profesi cor-coran struktur seperti kolom, balok dan pelat lantai.
 
@@ -59,21 +58,18 @@ Untuk memperoleh ketahanan Rigid yang maksimal karenanya pasir mesti bisa memenu
 ![Harga Pasir Hitam Cor Free Ongkir Ke Sukadiri Tangerang](/images/info/pasir-hitam-7.jpg)
 
 - ### Pasir Pasang Di Sukadiri Tangerang
-    
 
 ![Harga Pasir Hitam Cor Free Ongkir Ke Sukadiri Tangerang](/images/info/jual-pasir-mundu-2.jpg)
 
 Pasir ini lebih halus lagi dibandingi oleh pasir beton. jika anda mengepal pasir ini karenanya akan menggumpal dan tak akan buyar kembali. pasir pasang umum nya di manfaatkan untuk campuran pasir beton agar tidak terlampau kasar dan dapat di manfaatkan untuk plesteran dinding.
 
 - ### Pasir Elod Untuk pengurugan lantai Di Sukadiri Tangerang
-    
 
 Di Antara ke dua pasir diatas pasir jenis ini lebih halus lagi, seandainya kalian mengepal nya karenanya akan menggumpal dan tak akan buyar lagi. melainkan pasir ragam tidak baik tuk di buat sebagai bahan bangunan. pasir model ini pada nya di gunakan tuk Bahan Pembuatan Batako
 
 Pada biasa nya pasir ini nyaris sama dengan pasir beton akan namun pasir ini memiliki tingkat kekasaran yang tinggi, butiran - butiran nya lumayan besar dan agak banyak batuan nya. pada lazimnya pasir tipe ini baik untuk bahan pemadatan lantai
 
 - ### Pasir Putih Tanpa Batu Untuk Pasang Lantai Marmer Di Sukadiri Tangerang
-    
 
 1. **Pasir Putih Bangka**
 

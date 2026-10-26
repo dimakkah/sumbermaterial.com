@@ -50,13 +50,13 @@ d. tidak dapat menjangkau lokasi yang sempit. Mengingat Besi WF ini berukuran pa
 
 ### Kelebihan Dari Besi WF Di Margajaya Bogor
 
-1\. Bisa mengurangi waktu dalam pembangunan sebuah konstruksi bangunan, memaksimalkan waktu dan juga mengurangi biaya dan tukang pasang.
+1. Bisa mengurangi waktu dalam pembangunan sebuah konstruksi bangunan, memaksimalkan waktu dan juga mengurangi biaya dan tukang pasang.
 
-2\. Bisa menyangga bobot yang sangat berat, tidak mudah memuai dan lebih simple pengaplikasiannya dibanding dengan material struktural lainnya.
+2. Bisa menyangga bobot yang sangat berat, tidak mudah memuai dan lebih simple pengaplikasiannya dibanding dengan material struktural lainnya.
 
-3\. Memiliki fleksibilitas yang tinggi. Sehingga struktur bangunan yang dibuat dari Besi WF ini menjadi lebih kuat tidak mudah bergeser, tdk gampang roboh maupun goyang. Amat sesuai untuk tipe bangunan diatas tanah yang labil atau kerap kali terjadi goncangan.
+3. Memiliki fleksibilitas yang tinggi. Sehingga struktur bangunan yang dibuat dari Besi WF ini menjadi lebih kuat tidak mudah bergeser, tdk gampang roboh maupun goyang. Amat sesuai untuk tipe bangunan diatas tanah yang labil atau kerap kali terjadi goncangan.
 
-4\. Lebih hemat karena struktur bangunan yang memakai Besi WF akan memiliki ketahanan yang cukup lama bahkan hingga ratusan tahun. Tentunya ini ialah investasi yang betul-betul murah bila kita bandingkan dengan waktu pakai. Malah bangunan yang dibangun dengan rangka Besi WF bisa kita wariskan terhadap si kecil cucu kita.
+4. Lebih hemat karena struktur bangunan yang memakai Besi WF akan memiliki ketahanan yang cukup lama bahkan hingga ratusan tahun. Tentunya ini ialah investasi yang betul-betul murah bila kita bandingkan dengan waktu pakai. Malah bangunan yang dibangun dengan rangka Besi WF bisa kita wariskan terhadap si kecil cucu kita.
 
 ## Mengetahui Besi H Beam Di Margajaya Bogor
 
@@ -72,15 +72,15 @@ Sama seperti besi yang kami terangkan sebelumnya yaitu Besi WF, besi H-Beam mala
 
 ### Kelebihan Besi H Beam Di Margajaya Bogor
 
-1\. Gampang untuk didapat. Banyak supplier besi yang menyediakan stok besi H-Beam bermacam jenis ukuran. Sehingga besi H-Beam ini sungguh-sungguh gampang untuk diperoleh, tidak susah untuk memperoleh toko besi yang menjual besi H Beam.
+1. Gampang untuk didapat. Banyak supplier besi yang menyediakan stok besi H-Beam bermacam jenis ukuran. Sehingga besi H-Beam ini sungguh-sungguh gampang untuk diperoleh, tidak susah untuk memperoleh toko besi yang menjual besi H Beam.
 
-2\. Mudah Dalam Pemasangan. Banyak tukang pakar dalam pemasangan besi H Beam. Meskipun besi H-Beam ini mesti dipasang oleh tukang yang ahli tapi tukang yang ahli dalam memasang besi H Beam ini sungguh-sungguh banyak kita temui hari ini. Sehingga tdk perlu dikhawatirkan lagi pelaksanaan pemasangannya.
+2. Mudah Dalam Pemasangan. Banyak tukang pakar dalam pemasangan besi H Beam. Meskipun besi H-Beam ini mesti dipasang oleh tukang yang ahli tapi tukang yang ahli dalam memasang besi H Beam ini sungguh-sungguh banyak kita temui hari ini. Sehingga tdk perlu dikhawatirkan lagi pelaksanaan pemasangannya.
 
-3\. Mempunyai daya tahan yang tdk diragukan lagi. Besi H Beam telah teruji selama bertahun-tahun dalam kontruksi bangunan. Apakah skala kecil maupun skala besar dan terbilang sangat kuat sekiranya diperbandingkan dengan material lainnya. Bisa bertahan hingga puluhan hingga ratusan tahun.
+3. Mempunyai daya tahan yang tdk diragukan lagi. Besi H Beam telah teruji selama bertahun-tahun dalam kontruksi bangunan. Apakah skala kecil maupun skala besar dan terbilang sangat kuat sekiranya diperbandingkan dengan material lainnya. Bisa bertahan hingga puluhan hingga ratusan tahun.
 
-4\. Gampang dalam perawatannya. Bangunan yang mengaplikasikan besi H Beam sebagai struktur rangka bangunannya akan sangat gampang dalam melakukan pemeliharaannya. tdk perlu pengecatan dengan cat khusus ataupun pembersihan tiap-tiap waktu.
+4. Gampang dalam perawatannya. Bangunan yang mengaplikasikan besi H Beam sebagai struktur rangka bangunannya akan sangat gampang dalam melakukan pemeliharaannya. tdk perlu pengecatan dengan cat khusus ataupun pembersihan tiap-tiap waktu.
 
-5\. Memaksimalkan penggunaan material lainnya, seperti penggunaan bekisting, pemakaian steger atau steger dan juga material pasir. Besi H Beam tidak membutuhkan material pasir dalam penerapannya.
+5. Memaksimalkan penggunaan material lainnya, seperti penggunaan bekisting, pemakaian steger atau steger dan juga material pasir. Besi H Beam tidak membutuhkan material pasir dalam penerapannya.
 
 ### Kekurangan Dari Besi H Beam Di Margajaya Bogor
 

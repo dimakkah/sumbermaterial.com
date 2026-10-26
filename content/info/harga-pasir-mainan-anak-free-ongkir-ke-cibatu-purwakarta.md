@@ -25,7 +25,7 @@ menurut Standar Nasional Indonesia ( SK SNI - S - 04 - 1989 - F ; 28) di sebutka
 
 Persyaratan Pasir yg Bagus tuk Konstruksi
 
-1.  Agregat Halus semestinya terdiri dari butiran yang tajam dan keras dengan indeks kekerasan <2.2
+1.  Agregat Halus semestinya terdiri dari butiran yang tajam dan keras dengan indeks kekerasan <2.2
 2. Apabila dimanfaatkan Natrium Sulfat komponen hancur optimal 12 persen
 3. Jikalau digunakan Magnesium Sulfat komponen halus optimal sepuluh %
 4. Tak boleh memuat clay lebih dari lima persen
@@ -41,7 +41,6 @@ Persyaratan Pasir yg Bagus tuk Konstruksi
 Setelah tahu persis prasyarat pasir buat sebuah Konstruksi Bangunan, pada saat ini kita bahas Macam - Jenis Pasir Untuk Konstruksi penjelasan nya sebagai berikut:
 
 - ### Pasir Rigid Di Cibatu Purwakarta
-    
 
 Pasir ini umum nya berwarna keabu-abuan dan tingkat pecahan butiran nya lumayan tinggi. Namun apabila anda mengepal nya dengan tangan tak akan menggumpal dan akan buyar kembali. tipe pasir ini benar-benar lah baik tuk Pengecoran, Plesteran Dinding, Adukan Pondasi dan Adukan Pasangan Bata Pasir ini yaitu pasir untuk Beton merupakan butiran-butiran mineral keras dan tajam berukuran antara 0,075 – 5 mm, jikalau terdapat butiran berukuran lebih kecil dari 0,063 mm tak lebih dari 5% berat. Pasir ini yaitu pasir untuk Cor tak jarang digunakan untuk pekerjaan cor-coran struktur seperti kolom, balok dan pelat lantai.
 
@@ -59,21 +58,18 @@ Untuk menerima ketahanan Rigid yang optimal karenanya pasir harus bisa memenuhi 
 ![Harga Pasir Mainan Anak Free Ongkir Ke Cibatu Purwakarta](/images/info/pasir-hitam-9.jpg)
 
 - ### Pasir Pasang Di Cibatu Purwakarta
-    
 
 ![Harga Pasir Mainan Anak Free Ongkir Ke Cibatu Purwakarta](/images/info/pasir-hitam-4.jpg)
 
 Pasir ini ekstra halus lagi dibandingi oleh pasir beton. sekiranya anda mengepal pasir ini karenanya akan menggumpal dan tidak akan hancur kembali. pasir pasang umum nya di manfaatkan untuk campuran pasir beton agar tidak terlalu kasar dan bisa di manfaatkan untuk plesteran dinding.
 
 - ### Pasir Urug Untuk pengurugan lantai Di Cibatu Purwakarta
-    
 
 Di Antara ke dua pasir diatas pasir ragam ini lebih halus lagi, jika kamu mengepal nya akan menggumpal dan tak akan buyar lagi. namun pasir macam
 
 Pada umum nya pasir ini nyaris sama dgn pasir beton akan tetapi pasir ini memiliki tingkat kekasaran yg tinggi, butiran - butiran nya lumayan besar dan agak banyak batuan nya. pada biasanya pasir tipe ini baik tuk bahan dasaran pemasangan keramik
 
 - ### Pasir Putih Tanpa Ayak Untuk Lapangan Voly Di Cibatu Purwakarta
-    
 
 1. **Pasir Putih Bangka**
 

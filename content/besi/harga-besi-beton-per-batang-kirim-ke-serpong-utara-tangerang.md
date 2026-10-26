@@ -18,19 +18,19 @@ Dengan tidak adanya besi maka sebuah bangunan akan gampang retak ketika ada gunc
 
 ## Seperti Ini Macam-macam Besi Di Serpong Utara Tangerang
 
-### 1\. Besi Polos Toleransi 4mm, 6mm, 8mm, 10mm, 12mm, 16mm, 18mm, 19mm Di Serpong Utara Tangerang
+### 1. Besi Polos Toleransi 4mm, 6mm, 8mm, 10mm, 12mm, 16mm, 18mm, 19mm Di Serpong Utara Tangerang
 
 Besi polos mempunyai ukuran mulai dari 8 mm sampai dengan 25 mm dan memiliki 6 meter panjang tekuk dan 12 meter panjang lurus. Besi beton ini telah mulai diterapkan sebagai bahan utama di Indonesia pada tahun 1950. Besi ini sering kali kali diterapkan untuk membangun bangunan beton. Bahan yang gampang digunakan sehingga selain dari dipakai untuk membangun rumah juga diaplikasikan untuk membangun trowongan, bendungan, dan lainnya. Ketika digunakan untuk membangun sebuah gedung bertingkat maka biasanya besi polos ini digunakan untuk struktur rangkaian besi balok, dinding, dan sloof. Besi beton polos ini memiliki kelebihan besi polos ini tegangannya lebih tinggi dari pada besi lainnya. Jadi besi ini terkesan lebih kuat dan tahan beban. Oleh karena itu pemakaian besi polos ini sangat cocok untuk membangun gedung, jembatan, dan bangunan lainnya. Besi polos ini terbuat dari bahan seperti billet dan skrap. Billet yakni baja batangan yang pelaksanaan pembuatannya dengan melebur biji besi. Sekiranya skrap adalah besi bekas yang dileburkan dengan temperature tertentu. Selain itu jika anda memakai besi polos ini tidak memerlukan anggaran pemeliharaan. Kian lama diaplikasikan maka besi ini akan kian kokoh.
 
-### 2\. Besi Ulir 4mm, 6mm, 8mm, 10mm, 12mm, 16mm, 18mm, 19mm Di Serpong Utara Tangerang
+### 2. Besi Ulir 4mm, 6mm, 8mm, 10mm, 12mm, 16mm, 18mm, 19mm Di Serpong Utara Tangerang
 
 Sesuai dengan namanya besi beton ulir ini yaitu besi yang karakternya mengulir. Pada permukaannya bercorak spiral yang memiliki tujuan untuk menyatukan gerigi besi dengan elemen bahan bangunan yang dibentuk oleh besi beton. Besi ulir ini mulai populer dipakai pada abad ke-20 di Amerika dan mulai populer di Indonesia pada tahun1950. Mengingat ketika menerapkan besi ulir ini memiliki banyak kelebihan mulai dari ketahanan bangunan serta lebih ekonomis dan efisien. Produk besi ulir ini menjadi paling laris di pasar karena mempunyai kualitas yang terbaik di Indonesia dan mempunyai harga yang tinggi seandainya diperbandingkan dengan produk lainnya.
 
-### 3\. Besi WF dan H-Beam Banci Di Serpong Utara Tangerang
+### 3. Besi WF dan H-Beam Banci Di Serpong Utara Tangerang
 
 Besi Wide Flange (WF) ini yakni salah satu baja dengan struktural yang paling sering diterapkan untuk kontruksi baja. Sekiranya anda memerlukan besi baja Wide Flage dalam quantitas yang banyak atau sedikit karenanya silahkan cari supplier besi yang terpercaya. Besi WF ini mempunyai kekuatan yang kokoh dan kuat pada ketahanan tarik atau tekan. Karenanya dari itu besi ini menjadi faktor struktur yang memiliki batasan yang paripurna untuk menahan muatan tekan aksial, tarik aksial, dan lentur dengan fasilitas pembangunan strukturnya. Baja Wide Flange (WF) ini mempunyai kepadatan yang tinggi tetapi rasio berat antara ketahanan komponen Baja WF yang tinggi tetapi tidak begitu berat yang terkait dengan kapasitas muatan. Selain dari itu memastikan sekiranya kontruksi yang digunakan secara efisien. Cara kontruksi baja WF ini kombinasi dari unsur struktur yang rumit. Pada struktur ini memiliki tujuan membawa beban yang aman dan tepat sasaran yang berefek pada sebuah bangunan dan dikirim pada pondasinya. Gaya dan beban yang berefek ini termasuk muatan pertikal, perbedaan suhu, horizontal, getaran dan lainnya. Pada sebuah bangunan baja, maka ada unsure yang berguna menopang gaya lateral dan gravitasi.
 
-### 4\. Besi Holow Di Serpong Utara Tangerang
+### 4. Besi Holow Di Serpong Utara Tangerang
 
 Besi hollow yaitu besi yang diaplikasikan sebagai pembuatan kanopi, pagar, pintu besi dan lainnya. Bahan baku pembuatan besi Hollow ini biasanya terbuat dari stainless, galvanis, dan besi baja. Tapi yang paling tak jarang digunakan sebagai bahan baku yaitu galvanis. Terdapat kelebihan yang anda peroleh saat menerapkan kanopi, menerapkan pagar, teralis mengaplikasikan besi hollow:
 

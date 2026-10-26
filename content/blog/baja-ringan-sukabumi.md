@@ -17,7 +17,6 @@ draft: false
 
 {{< toc >}}
 
-
 Baja ringan menawarkan kombinasi unik antara kekuatan, bobot yang ringan, dan kemudahan pemasangan. Banyak Mitra Sumber Material yang masih bertanya-tanya, apa sih keunggulan baja ringan dibandingkan material atap tradisional seperti kayu atau baja konvensional? Yuk, kita bahas lebih lanjut.
 
 ## Mengapa Baja Ringan Sukabumi Jadi Pilihan Tepat?
@@ -30,9 +29,9 @@ Selain itu, baja ringan juga memiliki kekuatan tarik yang tinggi. Artinya, mater
 
 Ada berbagai macam profil baja ringan yang bisa Anda temukan di pasaran. Pemilihan profil yang tepat sangat penting untuk memastikan kekuatan dan stabilitas atap. Beberapa profil yang umum digunakan antara lain:
 
-*   **Reng:** Profil berbentuk “C” yang digunakan sebagai penopang penutup atap (misalnya spandek atau genteng metal).
-*   **Kuda-kuda:** Profil utama yang menopang seluruh struktur atap. Bentuknya bisa bervariasi tergantung desain atap.
-*   **Balok:** Profil horizontal yang menghubungkan kuda-kuda dan memberikan kekuatan tambahan.
+- **Reng:** Profil berbentuk “C” yang digunakan sebagai penopang penutup atap (misalnya spandek atau genteng metal).
+- **Kuda-kuda:** Profil utama yang menopang seluruh struktur atap. Bentuknya bisa bervariasi tergantung desain atap.
+- **Balok:** Profil horizontal yang menghubungkan kuda-kuda dan memberikan kekuatan tambahan.
 
 ![Pilihan profil baja ringan untuk konstruksi atap](/images/jual-baja-ringan-2.jpg)
 
@@ -41,7 +40,6 @@ Untuk proyek di Sukabumi, penting untuk memilih profil yang sesuai dengan desain
 ## Perbandingan Baja Ringan vs. Material Atap Lainnya
 
 Banyak yang bertanya-tanya, bagaimana perbandingan baja ringan dengan material atap lainnya? Mari kita lihat tabel berikut:
-
 
 <table class="table">
   <caption>Perbandingan Material Atap</caption>
@@ -57,7 +55,6 @@ Banyak yang bertanya-tanya, bagaimana perbandingan baja ringan dengan material a
     <tr><td>Pemasangan</td><td>Mudah &amp; Cepat</td><td>Membutuhkan Keahlian</td><td>Membutuhkan Keahlian &amp; Alat Berat</td></tr>
   </tbody>
 </table>
-
 
 Dari tabel di atas, Anda bisa melihat bahwa baja ringan menawarkan kombinasi yang sangat baik antara kekuatan, biaya, dan kemudahan pemasangan. Tentu saja, pemilihan material terbaik akan bergantung pada kebutuhan dan anggaran proyek Anda. Harga baja ringan Sukabumi sendiri bervariasi tergantung pada ketebalan, panjang, dan profil yang dipilih. Harga ini bersifat estimasi dan dapat berubah sewaktu-waktu — hubungi Kami untuk penawaran terbaru dan paling akurat sesuai kebutuhan proyek Mitra.
 

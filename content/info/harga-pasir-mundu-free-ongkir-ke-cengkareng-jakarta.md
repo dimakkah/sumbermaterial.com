@@ -25,7 +25,7 @@ menurut Standar Nasional Indonesia ( SK SNI - S - 04 - 1989 - F ; 28) di tuturka
 
 Prasyarat Pasir yg Bagus buat Konstruksi
 
-1.  Agregat Halus wajib terdiri dari butiran yg tajam dan keras dengan indeks kekerasan <2.2
+1.  Agregat Halus wajib terdiri dari butiran yg tajam dan keras dengan indeks kekerasan <2.2
 2. sekiranya dimanfaatkan Natrium Sulfat komponen hancur maksimal 12 persen
 3. jika diterapkan Magnesium Sulfat komponen halus optimal 5 persen
 4. Tak boleh memuat clay lebih dari 5%
@@ -41,7 +41,6 @@ Prasyarat Pasir yg Bagus buat Konstruksi
 sesudah tahu persis syarat pasir untuk sebuah Konstruksi Bangunan, sekarang ini kita bahas Ragam - Macam Pasir Untuk Konstruksi Bangunan penjelasan nya berikut ini:
 
 - ### Pasir Beton Di Cengkareng Jakarta
-    
 
 Pasir ini biasa nya berwarna coklat tua dan tingkat kekerasan butiran nya cukup tinggi. Namun kalau anda mengepal nya dengan tangan tidak akan lengket dan akan hancur kembali. macam pasir ini sungguh-sungguh lah baik tuk Pengecoran, Plesteran Dinding, Adukan Pondasi dan Adukan Pasangan Bata Pasir ini yaitu pasir untuk Rigid yaitu butiran-butiran mineral keras dan tajam berukuran antara 0,075 – 5 mm, jika terdapat butiran berukuran lebih kecil dari 0,063 mm tidak lebih dari 5% berat. Pasir ini yaitu pasir untuk Cor hampir tak jarang dimanfaatkan untuk profesi cor-coran struktur seperti kolom, balok dan pelat lantai.
 
@@ -52,9 +51,9 @@ Harga Pasir Mundu Free Ongkir Ke Cengkareng Jakarta Seandainya anda sebagai kons
 Pasir terbaik dari kp. jebrod cianjur jawa barat yang diterapkan oleh indocement serta perusahaan batching plant lainnya sebagai bahan dasar produksi readymix concrete. Pasir ini paling dianjurkan untuk cor sebab irit semen juga mempunyai kandungan lumpur yang benar-benar rendah dibawah delapan persen. warnanya Hitam abu tua atau hitam seperti hitamnya batu kali, ada juga yang hitam kemerahan atau hitam terasi
 
 3. **Pasir Hitam Beton Cimangkok.** Pasir diambil dari Tempat penambangannya di cimangkok sukabumi jawa barat yang masih masuk pada golongan pasir hitam terbaik di jawa barat, warnanya hitam kecoklatan layak untuk cor, pasang pondasi dan bata
-    
+
     ![Harga Pasir Mundu Free Ongkir Ke Cengkareng Jakarta](/images/info/pasir-hitam-1.jpg)
-    
+
 4. **Pasir Hitam Cor Cimalaka Subang Bandung.**
 
 Pasir No. 1 yang berwarna hitam kebauan ada juga yang berwarna hitam abu tua. Banyak di pakai untuk Beton, pasang dan keperluan lainnya. Ditambang di kampung cimalaka
@@ -90,9 +89,9 @@ Kecuali Rangkasbitung, Banten juga mempunyai lokasi pnembangan pasir lain sepert
 Masih dari Lokasi di banten, pasir kelas tiga ini merupakan pasir yang banyak diaplikasikan di proyek proyek perumahan atau cluster sebab harganya yang murah juga kwalitas yang bagus. Warna pasir ini hitam kecoklatan dan keabuan amat dianjurkan untuk pasang pondasi, bata, batu dan sebagainya
 
 27. **Pasir Hitam Beton Bohlam Sukabumi.** Pasir dari Daerah kp. bohlam di sukabumi berwarna hitam kecoklatan, sungguh-sungguh bagus untuk pasang bata, pondasi dsb sebagai pilihan pasir kwalitas tidak diragukan dan murah
-    
+
     ![Harga Pasir Mundu Free Ongkir Ke Cengkareng Jakarta](/images/info/pasir-hitam-9.jpg)
-    
+
 28. **Pasir Rigid Galunggung.**
 
 Pasir ini merupakan pasir hitam mutu paling unggul dikelasnya umum diaplikasikan oleh pabrik pengolahan beton readymix juga perusahan pembuatan precast dan kerap juga digunakan untuk bahan pembuatan batako press hitam, paving block dan lainnya. Pasir ini ditambang dari Tasikmalaya jabar.
@@ -100,21 +99,18 @@ Pasir ini merupakan pasir hitam mutu paling unggul dikelasnya umum diaplikasikan
 ![Harga Pasir Mundu Free Ongkir Ke Cengkareng Jakarta](/images/info/pasir-hitam-5.jpg)
 
 - ### Pasir Pasang Di Cengkareng Jakarta
-    
 
 ![Harga Pasir Mundu Free Ongkir Ke Cengkareng Jakarta](/images/info/pasir-hitam-11.jpg)
 
 Pasir ini ekstra halus lagi diperbandingkan oleh pasir beton. apabila kamu mengepal pasir ini karenanya akan menggumpal dan tidak akan buyar kembali. pasir pasang biasa nya di gunakan buat campuran pasir beton agar tak terlampau kasar dan dapat di manfaatkan untuk plesteran dinding.
 
 - ### Pasir Kualitas rendah Untuk pemadatan lantai Di Cengkareng Jakarta
-    
 
 Di Antara ke dua pasir diatas pasir tipe ini lebih halus lagi, bila anda mengepal nya karenanya akan menggumpal dan tidak akan buyar lagi. namun pasir macam
 
 Pada umum nya pasir ini nyaris sama dengan pasir beton akan tetapi pasir ini mempunyai tingkat kekasaran yang tinggi, butiran - butiran nya lumayan besar dan agak banyak batuan nya. pada lazimnya pasir macam ini bagus tuk bahan pengurugan lantai
 
 - ### Pasir Putih Halus Untuk Taman Bermain Di Cengkareng Jakarta
-    
 
 1. **Pasir Putih Bangka**
 

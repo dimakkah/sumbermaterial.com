@@ -50,13 +50,13 @@ d. tdk dapat menjangkau tempat yang sempit. Mengingat Besi WF ini berukuran panj
 
 ### Kelebihan Dari Besi WF Di Pasir Mulya Bogor
 
-1\. Dapat memaksimalkan waktu dalam pembangunan sebuah konstruksi bangunan, memaksimalkan waktu dan juga mengurangi ongkos dan tenaga tukang.
+1. Dapat memaksimalkan waktu dalam pembangunan sebuah konstruksi bangunan, memaksimalkan waktu dan juga mengurangi ongkos dan tenaga tukang.
 
-2\. Dapat menyangga beban yang sangat berat, tidak gampang memuai dan lebih simple penerapannya dibanding dengan material struktural lainnya.
+2. Dapat menyangga beban yang sangat berat, tidak gampang memuai dan lebih simple penerapannya dibanding dengan material struktural lainnya.
 
-3\. Mempunyai fleksibilitas yang tinggi. Sehingga struktur bangunan yang diwujudkan dari Besi WF ini menjadi lebih kuat tdk mudah bergeser, tidak mudah roboh maupun goyang. Amat layak untuk jenis bangunan diatas tanah yang labil atau sering kali terjadi gempa.
+3. Mempunyai fleksibilitas yang tinggi. Sehingga struktur bangunan yang diwujudkan dari Besi WF ini menjadi lebih kuat tdk mudah bergeser, tidak mudah roboh maupun goyang. Amat layak untuk jenis bangunan diatas tanah yang labil atau sering kali terjadi gempa.
 
-4\. Lebih hemat karena struktur bangunan yang menggunakan Besi WF akan mempunyai kekokohan yang cukup lama malah sampai ratusan tahun. Tentunya ini adalah investasi yang betul-betul murah seandainya kita bandingkan dengan waktu pakai. Malah bangunan yang dibangun dengan tulangan Besi WF bisa kita wariskan kepada si kecil cucu kita.
+4. Lebih hemat karena struktur bangunan yang menggunakan Besi WF akan mempunyai kekokohan yang cukup lama malah sampai ratusan tahun. Tentunya ini adalah investasi yang betul-betul murah seandainya kita bandingkan dengan waktu pakai. Malah bangunan yang dibangun dengan tulangan Besi WF bisa kita wariskan kepada si kecil cucu kita.
 
 ## Mengenal Besi H Beam Di Pasir Mulya Bogor
 
@@ -72,15 +72,15 @@ Sama seperti besi yang kami terangkan sebelumnya adalah Besi WF, besi H-Beam pun
 
 ### Keunggulan Besi H Beam Di Pasir Mulya Bogor
 
-1\. Gampang untuk diperoleh. Banyak toko besi yang menyediakan stok besi H-Beam bermacam jenis ukuran. Sehingga besi H-Beam ini sungguh-sungguh gampang untuk didapatkan, tidak susah untuk mendapatkan distributor besi yang menjual besi H Beam.
+1. Gampang untuk diperoleh. Banyak toko besi yang menyediakan stok besi H-Beam bermacam jenis ukuran. Sehingga besi H-Beam ini sungguh-sungguh gampang untuk didapatkan, tidak susah untuk mendapatkan distributor besi yang menjual besi H Beam.
 
-2\. Mudah Dalam Pemasangan. Banyak tukang spesialis dalam pemasangan besi H Beam. Walaupun besi H-Beam ini sepatutnya dipasang oleh tukang yang ahli tapi tukang yang berpengalaman dalam memasang besi H Beam ini amat banyak kita temui hari ini. Sehingga tidak perlu dikhawatirkan lagi proses pemasangannya.
+2. Mudah Dalam Pemasangan. Banyak tukang spesialis dalam pemasangan besi H Beam. Walaupun besi H-Beam ini sepatutnya dipasang oleh tukang yang ahli tapi tukang yang berpengalaman dalam memasang besi H Beam ini amat banyak kita temui hari ini. Sehingga tidak perlu dikhawatirkan lagi proses pemasangannya.
 
-3\. Memiliki ketahanan yang tidak diragukan lagi. Besi H Beam telah teruji selama bertahun-tahun dalam kontruksi bangunan. Baik skala kecil maupun skala besar dan terbilang sangat kuat kalau dibandingi dengan material lainnya. Dapat bertahan sampai puluhan sampai ratusan tahun.
+3. Memiliki ketahanan yang tidak diragukan lagi. Besi H Beam telah teruji selama bertahun-tahun dalam kontruksi bangunan. Baik skala kecil maupun skala besar dan terbilang sangat kuat kalau dibandingi dengan material lainnya. Dapat bertahan sampai puluhan sampai ratusan tahun.
 
-4\. Mudah dalam perawatannya. Bangunan yang memakai besi H Beam sebagai struktur tulangan bangunannya akan benar-benar gampang dalam mengerjakan perawatannya. tidak perlu pengecatan dengan cat khusus maupun pembersihan setiap saat.
+4. Mudah dalam perawatannya. Bangunan yang memakai besi H Beam sebagai struktur tulangan bangunannya akan benar-benar gampang dalam mengerjakan perawatannya. tidak perlu pengecatan dengan cat khusus maupun pembersihan setiap saat.
 
-5\. Mengurangi pemakaian material lainnya, seperti penggunaan bekisting, penggunaan perancah atau steger dan juga material pasir. Besi H Beam tidak membutuhkan material pasir dalam penerapannya.
+5. Mengurangi pemakaian material lainnya, seperti penggunaan bekisting, penggunaan perancah atau steger dan juga material pasir. Besi H Beam tidak membutuhkan material pasir dalam penerapannya.
 
 ### Kekurangan Dari Besi H Beam Di Pasir Mulya Bogor
 

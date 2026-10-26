@@ -25,7 +25,7 @@ Menurut Standar Nasional Indonesia ( SK SNI - S - 04 - 1989 - F ; 28) di sebutka
 
 Syarat-Syarat Pasir yg Baik buat Konstruksi Bangunan
 
-1.  Agregat Halus seharusnya terdiri dari butiran yg tajam dan keras dengan indeks kekerasan <2.2
+1.  Agregat Halus seharusnya terdiri dari butiran yg tajam dan keras dengan indeks kekerasan <2.2
 2. Sekiranya diterapkan Natrium Sulfat bagian hancur maksimal 12%
 3. kalau dipakai Magnesium Sulfat bagian halus maksimal sepuluh %
 4. Tidak boleh mengandung lumpur lebih dari lima %
@@ -41,7 +41,6 @@ Syarat-Syarat Pasir yg Baik buat Konstruksi Bangunan
 Setelah tahu persis prasyarat pasir buat suatu Konstruksi Bangunan, sekarang ini kita bahas Macam - model Pasir Untuk Bangunan penjelasan nya sebagai berikut:
 
 - ### Pasir Cor Di Palmeriam Jakarta
-    
 
 Pasir ini biasa nya berwarna keabu-abuan dan tingkat pecahan butiran nya cukup tinggi. Melainkan apabila anda mengepal nya dengan tangan tidak akan lengket dan akan hancur kembali. macam pasir ini betul-betul lah bagus buat Pengecoran, Plesteran Dinding, Adukan Pondasi dan Adukan Pasangan Bata Pasir ini yaitu pasir untuk Beton adalah butiran-butiran mineral keras dan tajam berukuran antara 0,075 – 5 mm, jikalau terdapat butiran berukuran lebih kecil dari 0,063 mm tidak lebih dari 5% berat. Pasir ini yaitu pasir untuk Beton hampir sering kali diterapkan untuk pekerjaan cor-coran struktur seperti kolom, balok dan pelat lantai.
 
@@ -59,21 +58,18 @@ Untuk mendapatkan kekuatan Beton yang optimal karenanya pasir seharusnya bisa me
 ![Harga Pasir Besi Free Ongkir Ke Palmeriam Jakarta](/images/info/pasir-hitam-7.jpg)
 
 - ### Pasir Standar Di Palmeriam Jakarta
-    
 
 ![Harga Pasir Besi Free Ongkir Ke Palmeriam Jakarta](/images/info/pasir-putih12.jpg)
 
 Pasir ini lebih halus lagi diperbandingkan oleh pasir beton. apabila anda mengepal pasir ini maka akan menggumpal dan tidak akan hancur kembali. pasir pasang lazim nya di manfaatkan untuk adukan pasir beton supaya tak terlalu kasar dan dapat di gunakan untuk plesteran dinding.
 
 - ### Pasir Elod Untuk pengurugan lantai Di Palmeriam Jakarta
-    
 
 Di Antara ke dua pasir diatas pasir jenis ini lebih halus lagi, sekiranya kalian mengepal nya maka akan menggumpal dan tak akan buyar lagi. tetapi pasir jenis
 
 Pada umum nya pasir ini nyaris sama dengan pasir beton namun pasir ini mempunyai tingkat kekasaran yang tinggi, butiran - butiran nya lumayan besar dan agak banyak batuan nya. pada umumnya pasir model ini bagus tuk bahan Pembuatan Batako
 
 - ### Pasir Putih Bebas Lumpur Untuk Pengecoran Di Palmeriam Jakarta
-    
 
 1. **Pasir Putih Bangka**
 

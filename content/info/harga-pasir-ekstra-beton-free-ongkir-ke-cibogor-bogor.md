@@ -25,7 +25,7 @@ Berdasarkan Standar Nasional Indonesia ( SK SNI - S - 04 - 1989 - F ; 28) di seb
 
 Persyaratan Pasir yang Bagus tuk Konstruksi
 
-1.  Agregat Halus semestinya terdiri dari butiran yg tajam dan keras dengan indeks kekerasan <2.2
+1.  Agregat Halus semestinya terdiri dari butiran yg tajam dan keras dengan indeks kekerasan <2.2
 2. Jika diterapkan Natrium Sulfat bagian hancur optimal 12 persen
 3. jika diaplikasikan Magnesium Sulfat komponen halus optimal 5 persen
 4. Tak boleh memuat clay lebih dari lima %
@@ -41,7 +41,6 @@ Persyaratan Pasir yang Bagus tuk Konstruksi
 Sesudah memahami persyaratan pasir buat suatu Konstruksi Bangunan, saat ini kita bahas Macam - Ragam Pasir Untuk Konstruksi Bangunan penjelasan nya sebagai berikut:
 
 - ### Pasir Untuk Beton Di Cibogor Bogor
-    
 
 Pasir ini lazim nya berwarna coklat tua dan tingkat kekasaran butiran nya cukup tinggi. Tetapi sekiranya anda mengepal nya dengan tangan tak akan menggumpal dan akan hancur kembali. tipe pasir ini benar-benar lah baik tuk Pengecoran, Plesteran Dinding, Adukan Pondasi dan Adukan Pasangan Bata Pasir ini yaitu pasir untuk Beton adalah butiran-butiran mineral keras dan tajam berukuran antara 0,075 – 5 mm, jikalau terdapat butiran berukuran lebih kecil dari 0,063 mm tidak lebih dari 5% berat. Pasir ini yaitu pasir untuk Cor sering kali diaplikasikan untuk profesi cor-coran struktur seperti kolom, balok dan pelat lantai.
 
@@ -59,21 +58,18 @@ Untuk mendapatkan kualitas Rigid yang optimal karenanya pasir seharusnya dapat m
 ![Harga Pasir Ekstra Beton Free Ongkir Ke Cibogor Bogor](/images/info/pasir-hitam-1.jpg)
 
 - ### Pasir Standar Di Cibogor Bogor
-    
 
 ![Harga Pasir Ekstra Beton Free Ongkir Ke Cibogor Bogor](/images/info/pasir-putih12.jpg)
 
 Pasir ini lebih halus lagi diperbandingkan oleh pasir beton. bila kamu mengepal pasir ini maka akan menggumpal dan tidak akan hancur kembali. pasir pasang biasa nya di manfaatkan untuk campuran pasir beton agar tidak terlalu kasar dan bisa di manfaatkan untuk plesteran dinding.
 
 - ### Pasir Urug Untuk Dasaran Pemasangan Granit Di Cibogor Bogor
-    
 
 Di Antara ke dua pasir diatas pasir tipe ini lebih halus lagi, apabila anda mengepal nya akan menggumpal dan tak akan buyar lagi. melainkan pasir tipe
 
 Pada biasa nya pasir ini nyaris sama dgn pasir beton tetapi pasir ini mempunyai tingkat kekasaran yg tinggi, butiran - butiran nya lumayan besar dan agak banyak batuan nya. pada lazimnya pasir jenis ini baik tuk bahan dasaran pemasangan keramik
 
 - ### Pasir Putih Bebas Lumpur Untuk Pelester Di Cibogor Bogor
-    
 
 1. **Pasir Putih Bangka**
 

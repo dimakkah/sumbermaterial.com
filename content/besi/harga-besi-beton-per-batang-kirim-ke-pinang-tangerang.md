@@ -18,19 +18,19 @@ Tanpa adanya besi karenanya sebuah bangunan akan mudah retak saat ada guncangan 
 
 ## Megenal Jenis-jenis Besi Di Pinang Tangerang
 
-### 1\. Besi Polos Full 4mm, 6mm, 8mm, 10mm, 12mm, 16mm, 18mm, 19mm Di Pinang Tangerang
+### 1. Besi Polos Full 4mm, 6mm, 8mm, 10mm, 12mm, 16mm, 18mm, 19mm Di Pinang Tangerang
 
 Besi polos mempunyai ukuran mulai dari 8 mm sampai dengan 25 mm dan mempunyai 6 meter panjang tekuk dan 12 meter panjang lurus. Besi beton ini mulai dipakai sebagai bahan utama di Indonesia pada tahun 1950. Besi ini sering kali digunakan untuk membangun sebuah gedung. Bahan yang mudah diaplikasikan sehingga selain diterapkan untuk membangun tempat tinggal juga diterapkan untuk membangun trowongan, bendungan, dan lainnya. Ketika diaplikasikan untuk membangun sebuah gedung bertingkat maka biasanya besi polos ini diterapkan untuk struktur tulangan balok, dinding, dan sloof. Besi beton polos ini memiliki kelebihan besi polos ini tegangannya lebih tinggi dari pada besi lainnya. Oleh karena itu besi ini terkesan lebih kuat dan tahan beban. Sehingga penggunaan besi polos ini betul-betul sesuai untuk membangun gedung, jembatan, dan bangunan lainnya. Besi polos ini terbuat dari bahan seperti billet dan skrap. Billet merupakan baja batangan yang cara kerja pembuatannya dengan mengecor biji besi. Jikalau skrap adalah besi bekas yang dihancurkan dengan temperature tertentu. Selain itu kalau anda menerapkan besi polos ini tdk memerlukan biaya pemeliharaan. Kian lama digunakan karenanya besi ini akan semakin kokoh.
 
-### 2\. Besi Ulir Krakatau Steel 4mm, 6mm, 8mm, 10mm, 12mm, 16mm, 18mm, 19mm Di Pinang Tangerang
+### 2. Besi Ulir Krakatau Steel 4mm, 6mm, 8mm, 10mm, 12mm, 16mm, 18mm, 19mm Di Pinang Tangerang
 
 Sesuai dengan namanya besi beton ulir ini yakni besi yang karakternya mengulir. Pada permukaannya bercorak spiral yang memiliki tujuan untuk menyatukan tulangan dengan elemen material bangunan yang dibangun oleh besi beton. Besi ulir ini mulai populer diaplikasikan pada abad ke-20 di Amerika dan mulai populer di Indonesia pada tahun1950. Mengingat ketika menggunakan besi ulir ini memiliki banyak keunggulan mulai dari kekokohan bangunan serta lebih murah dan efisien. Produk besi ulir ini menjadi primadona pasar karena memiliki kwalitas yang terbaik di Indonesia dan memiliki harga yang tinggi seandainya dibandingi dengan produk lainnya.
 
-### 3\. Besi WF dan H-Beam Krakatau Steel Di Pinang Tangerang
+### 3. Besi WF dan H-Beam Krakatau Steel Di Pinang Tangerang
 
 Besi Wide Flange (WF) ini yaitu salah satu baja dengan struktural yang paling populer digunakan untuk kontruksi baja. Kalau anda memerlukan besi baja Wide Flage dalam quantitas yang banyak atau sedikit maka silahkan cari supplier besi yang terpercaya. Besi WF ini mempunyai kekokohan yang kokoh dan kokoh pada kekuatan tarik atau tekan. Karenanya dari itu besi ini menjadi faktor struktur yang mempunyai batasan yang paripurna untuk menahan muatan tekan aksial, tarik aksial, dan lentur dengan fasilitas pembangunan strukturnya. Baja Wide Flange (WF) ini mempunyai kepadatan yang tinggi tetapi rasio berat antara kekokohan bagian Baja WF yang tinggi tetapi tdk terlalu berat yang terkait dengan kapasitas muatan. Selain dari itu menentukan bila kontruksi yang dipakai secara efisien. Sistem kontruksi baja WF ini kombinasi dari unsur struktur yang rumit. Pada struktur ini memiliki tujuan membawa beban yang aman dan tepat sasaran yang berefek pada sebuah bangunan dan dikirim pada pondasinya. Gaya dan bobot yang berefek ini termasuk bobot pertikal, perbedaan suhu, horizontal, getaran dan lainnya. Pada sebuah bangunan baja, maka ada unsure yang berguna menahan gaya lateral dan gravitasi.
 
-### 4\. Besi Holo Di Pinang Tangerang
+### 4. Besi Holo Di Pinang Tangerang
 
 Besi hollow ialah besi yang dipakai sebagai pembuatan kanopi, pagar, pintu besi dan lainnya. Bahan baku pembuatan besi Hollow ini umumnya terbuat dari stainless, galvanis, dan besi baja. Tetapi yang paling sering digunakan sebagai bahan baku yakni galvanis. Terdapat kelebihan yang anda dapatkan saat menerapkan kanopi, memasang pagar, teralis memakai besi hollow:
 

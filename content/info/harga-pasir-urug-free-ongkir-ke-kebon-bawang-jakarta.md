@@ -25,7 +25,7 @@ berdasarkan Standar Nasional Indonesia ( SK SNI - S - 04 - 1989 - F ; 28) di seb
 
 Syarat Pasir yg Baik Untuk Konstruksi Bangunan
 
-1.  Agregat Halus semestinya terdiri dari butiran yg tajam dan keras dengan indeks kekerasan <2.2
+1.  Agregat Halus semestinya terdiri dari butiran yg tajam dan keras dengan indeks kekerasan <2.2
 2. bila diaplikasikan Natrium Sulfat komponen hancur optimal dua belas %
 3. Kalau diaplikasikan Magnesium Sulfat komponen halus optimal sepuluh persen
 4. Tidak boleh mengandung clay lebih dari 5 persen
@@ -41,7 +41,6 @@ Syarat Pasir yg Baik Untuk Konstruksi Bangunan
 setelah memahami syarat pasir untuk sebuah Konstruksi Bangunan, sekarang ini kita bahas Tipe - model Pasir Untuk Bangunan penjelasan nya sebagai berikut:
 
 - ### Pasir Cor Di Kebon Bawang Jakarta
-    
 
 Pasir ini biasa nya berwarna hitam pekat dan tingkat pecahan butiran nya cukup tinggi. Tetapi apabila anda mengepal nya dengan tangan tak akan lengket dan akan buyar kembali. model pasir ini betul-betul lah bagus buat Pengecoran, Plesteran Dinding, Adukan Pondasi dan Adukan Pasangan Bata Pasir ini yaitu pasir untuk Beton adalah butiran-butiran mineral keras dan tajam berukuran antara 0,075 – 5 mm, jikalau terdapat butiran berukuran lebih kecil dari 0,063 mm tidak lebih dari 5% berat. Pasir ini yaitu pasir untuk Rigid sering kali dimanfaatkan untuk pekerjaan cor-coran struktur seperti kolom, balok dan pelat lantai.
 
@@ -59,21 +58,18 @@ Untuk mendapatkan kekokohan Cor yang maksimal maka pasir seharusnya bisa memenuh
 ![Harga Pasir Urug Free Ongkir Ke Kebon Bawang Jakarta](/images/info/pasir-hitam-1.jpg)
 
 - ### Pasir Biasa Di Kebon Bawang Jakarta
-    
 
 ![Harga Pasir Urug Free Ongkir Ke Kebon Bawang Jakarta](/images/info/jual-pasir-mundu.jpg)
 
 Pasir ini ekstra halus lagi dibandingi oleh pasir beton. seandainya kalian mengepal pasir ini maka akan menggumpal dan tak akan hancur kembali. pasir pasang lazim nya di manfaatkan buat campuran pasir beton agar tak terlalu kasar dan dapat di pakai untuk plesteran dinding.
 
 - ### Pasir Kualitas rendah Untuk Dasaran Pemasangan Marmer Di Kebon Bawang Jakarta
-    
 
 Di Antara ke dua pasir diatas pasir ragam ini lebih halus lagi, jikalau anda mengepal nya akan menggumpal dan tidak akan hancur lagi. namun pasir ragam tidak baik untuk di buat sebagai bahan bangunan. pasir macam ini pada biasa nya di pergunakan untuk Bahan Pembuatan Batako
 
 Pada nya pasir ini nyaris sama dgn pasir beton melainkan pasir ini mempunyai tingkat kekasaran yg tinggi, butiran - butiran nya cukup besar dan agak banyak batuan nya. pada lazimnya pasir ragam ini baik tuk bahan dasaran pemasangan keramik
 
 - ### Pasir Putih Bebas Lumpur Untuk Pasang Bata Di Kebon Bawang Jakarta
-    
 
 1. **Pasir Putih Bangka**
 

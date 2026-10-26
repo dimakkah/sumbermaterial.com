@@ -25,7 +25,7 @@ Berdasarkan Standar Nasional Indonesia ( SK SNI - S - 04 - 1989 - F ; 28) di tut
 
 Persyaratan Pasir yg Baik tuk Bangunan
 
-1.  Agregat Halus seharusnya terdiri dari butiran yg tajam dan keras dengan indeks kekerasan <2.2
+1.  Agregat Halus seharusnya terdiri dari butiran yg tajam dan keras dengan indeks kekerasan <2.2
 2. kalau dipakai Natrium Sulfat komponen hancur maksimal 12%
 3. Bila diterapkan Magnesium Sulfat komponen halus optimal sepuluh persen
 4. Tak boleh mengandung lumpur lebih dari 5 persen
@@ -41,7 +41,6 @@ Persyaratan Pasir yg Baik tuk Bangunan
 setelah tahu persis persyaratan pasir buat suatu Bangunan, sekarang ini kita bahas Jenis - Ragam Pasir Untuk Konstruksi Bangunan penjelasan nya sbb:
 
 - ### Pasir Jenis Cor dan Lokasi Pengambilannya Di Kebon Bawang Jakarta
-    
 
 Pasir ini biasa nya berwarna hitam gelap dan tingkat kekasaran butiran nya lumayan tinggi. Tetapi jikalau anda mengepal nya dengan tangan tak akan menggumpal dan akan buyar kembali. macam pasir ini benar-benar lah baik untuk Pengecoran, Plesteran Dinding, Adukan Pondasi dan Adukan Pasangan Bata Pasir ini yaitu pasir untuk Beton yaitu butiran-butiran mineral keras dan tajam berukuran antara 0,075 – 5 mm, kalau terdapat butiran berukuran lebih kecil dari 0,063 mm tak lebih dari 5% berat. Pasir ini yaitu pasir untuk Beton hampir sering digunakan untuk pekerjaan cor-coran struktur seperti kolom, balok dan pelat lantai.
 
@@ -59,21 +58,18 @@ Untuk menerima ketahanan Rigid yang maksimal karenanya pasir seharusnya dapat me
 ![Harga Pasir Rangkas Free Ongkir Ke Kebon Bawang Jakarta](/images/info/pasir-hitam-9.jpg)
 
 - ### Pasir Untuk Adukan Pasang Batu, Pondasi, Bata, Ubin, Plester Di Kebon Bawang Jakarta
-    
 
 ![Harga Pasir Rangkas Free Ongkir Ke Kebon Bawang Jakarta](/images/info/pasir-putih3.jpg)
 
 Pasir ini ekstra halus lagi dibandingkan oleh pasir beton. sekiranya kalian mengepal pasir ini karenanya akan menggumpal dan tidak akan buyar kembali. pasir pasang lazim nya di manfaatkan untuk campuran pasir beton agar tak kelewat kasar dan dapat di manfaatkan untuk plesteran dinding.
 
 - ### Pasir Elod Untuk pengurugan lantai Di Kebon Bawang Jakarta
-    
 
 Di Antara ke dua pasir diatas pasir tipe ini lebih halus lagi, sekiranya anda mengepal nya akan menggumpal dan tak akan buyar lagi. melainkan pasir ragam tak baik untuk di buat sebagai bahan bangunan. pasir model ini pada lazim nya di pakai untuk Bahan Pembuatan Batako
 
 Pada biasa nya pasir ini nyaris sama dengan pasir beton namun pasir ini memiliki tingkat kekasaran yang tinggi, butiran - butiran nya lumayan besar dan agak banyak batuan nya. pada umumnya pasir jenis ini baik untuk bahan pengurugan lantai
 
 - ### Pasir Putih Tanpa Ayak Untuk Pelester Di Kebon Bawang Jakarta
-    
 
 1. **Pasir Putih Bangka**
 

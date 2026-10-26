@@ -25,7 +25,7 @@ berdasarkan Standar Nasional Indonesia ( SK SNI - S - 04 - 1989 - F ; 28) di seb
 
 Syarat Pasir yang Baik buat Bangunan
 
-1.  Agregat Halus harus terdiri dari butiran yang tajam dan keras dengan indeks kekerasan <2.2
+1.  Agregat Halus harus terdiri dari butiran yang tajam dan keras dengan indeks kekerasan <2.2
 2. Sekiranya dimanfaatkan Natrium Sulfat komponen hancur optimal dua belas persen
 3. sekiranya dipakai Magnesium Sulfat komponen halus optimal sepuluh persen
 4. Tak boleh berisi tanah lebih dari lima %
@@ -41,7 +41,6 @@ Syarat Pasir yang Baik buat Bangunan
 sesudah mengetahui prasyarat pasir buat sebuah Bangunan, sekarang ini kita bahas Jenis - Ragam Pasir Untuk Konstruksi penjelasan nya sbb:
 
 - ### Pasir Cor Di Kalianyar Jakarta
-    
 
 Pasir ini biasa nya berwarna coklat tua dan tingkat pecahan butiran nya lumayan tinggi. Tetapi bila anda mengepal nya dengan tangan tak akan lengket dan akan buyar kembali. ragam pasir ini sungguh-sungguh lah baik buat Pengecoran, Plesteran Dinding, Adukan Pondasi dan Adukan Pasangan Bata Pasir ini yaitu pasir untuk Rigid merupakan butiran-butiran mineral keras dan tajam berukuran antara 0,075 – 5 mm, seandainya terdapat butiran berukuran lebih kecil dari 0,063 mm tak lebih dari 5% berat. Pasir ini yaitu pasir untuk Beton kerap digunakan untuk profesi cor-coran struktur seperti kolom, balok dan pelat lantai.
 
@@ -52,9 +51,9 @@ Harga Pasir Besi Free Ongkir Ke Kalianyar Jakarta Sekiranya anda sebagai konsume
 Pasir terbaik asli kp. jebrod cianjur jawa barat yang dipakai oleh indocement serta perusahaan batching plant lainnya sebagai bahan dasar produksi readymix concrete. Pasir ini paling dianjurkan untuk cor sebab irit semen juga mempunyai kandungan lumpur yang sungguh-sungguh rendah dibawah delapan persen. warnanya Hitam abu tua atau hitam seperti hitamnya batu kali, ada juga yang hitam kemerahan atau hitam terasi
 
 3. **Pasir Hitam Rigid Cimangkok.** Pasir asal Tempat penambangannya di cimangkok sukabumi jawa barat yang masih masuk pada kategori pasir hitam terbaik di jawa barat, warnanya hitam kecoklatan sesuai untuk cor, pasang pondasi dan bata
-    
+
     ![Harga Pasir Besi Free Ongkir Ke Kalianyar Jakarta](/images/info/pasir-hitam-5.jpg)
-    
+
 4. **Pasir Hitam Beton Cimalaka Subang Bandung.**
 
 Pasir terbaik yang berwarna hitam kebauan ada juga yang berwarna hitam abu tua. Banyak di pakai untuk Beton, pasang dan keperluan lainnya. Ditambang di Daerah cimalaka
@@ -90,9 +89,9 @@ Kecuali Rangkasbitung, Banten juga mempunyai lokasi pnembangan pasir lain sepert
 Masih dari Lokasi di banten, pasir kelas tiga ini yakni pasir yang banyak digunakan di proyek proyek perumahan atau cluster sebab harganya yang murah juga kwalitas yang baik. Warna pasir ini hitam kecoklatan dan keabuan amat dianjurkan untuk pasang pondasi, bata, batu dan lain-lain
 
 27. **Pasir Hitam Beton Bohlam Sukabumi.** Pasir dari Kawasan kp. bohlam di sukabumi berwarna hitam kecoklatan, amat bagus untuk pasang bata, pondasi dan sebagainya sebagai opsi pasir kwalitas bagus dan ekonomis
-    
+
     ![Harga Pasir Besi Free Ongkir Ke Kalianyar Jakarta](/images/info/jual-pasir-cor-hitam.jpg)
-    
+
 28. **Pasir Cor Galunggung.**
 
 Pasir ini merupakan pasir hitam mutu paling unggul dikelasnya lazim digunakan oleh pabrik pengolahan beton readymix juga perusahan pembuatan precast dan sering kali juga digunakan untuk bahan pembuatan batako press hitam, paving block dan sebagainya. Pasir ini ditambang dari Tasikmalaya jawa barat.
@@ -100,21 +99,18 @@ Pasir ini merupakan pasir hitam mutu paling unggul dikelasnya lazim digunakan ol
 ![Harga Pasir Besi Free Ongkir Ke Kalianyar Jakarta](/images/info/pasir-hitam-8.jpg)
 
 - ### Pasir Pasang Di Kalianyar Jakarta
-    
 
 ![Harga Pasir Besi Free Ongkir Ke Kalianyar Jakarta](/images/info/jual-pasir-mundu-2.jpg)
 
 Pasir ini lebih halus lagi dibandingi oleh pasir beton. apabila anda mengepal pasir ini maka akan menggumpal dan tak akan buyar kembali. pasir pasang umum nya di gunakan tuk campuran pasir beton supaya tidak kelewat kasar dan bisa di manfaatkan untuk plesteran dinding.
 
 - ### Pasir Kualitas rendah Untuk Pembuatan Batako Di Kalianyar Jakarta
-    
 
 Di Antara ke dua pasir diatas pasir tipe ini lebih halus lagi, apabila anda mengepal nya karenanya akan menggumpal dan tidak akan hancur lagi. tapi pasir macam
 
 Pada biasa nya pasir ini nyaris sama dengan pasir beton tetapi pasir ini memiliki tingkat kekasaran yg tinggi, butiran - butiran nya lumayan besar dan agak banyak batuan nya. pada biasanya pasir jenis ini bagus untuk bahan Pembuatan Batako
 
 - ### Pasir Putih Tanpa Batu Untuk Pelester Di Kalianyar Jakarta
-    
 
 1. **Pasir Putih Bangka**
 

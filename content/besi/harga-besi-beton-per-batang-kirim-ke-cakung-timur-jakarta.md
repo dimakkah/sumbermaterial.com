@@ -18,19 +18,19 @@ Tanpa adanya besi karenanya sebuah bangunan akan gampang retak ketika ada guncan
 
 ## Seperti Ini Macam-macam Besi Di Cakung Timur Jakarta
 
-### 1\. Besi Polos SNI 4mm, 6mm, 8mm, 10mm, 12mm, 16mm, 18mm, 19mm Di Cakung Timur Jakarta
+### 1. Besi Polos SNI 4mm, 6mm, 8mm, 10mm, 12mm, 16mm, 18mm, 19mm Di Cakung Timur Jakarta
 
 Besi polos memiliki ukuran mulai dari 8 mm sampai 25 mm dan memiliki 6 meter panjang tekuk dan 12 meter panjang lurus. Besi beton ini telah mulai digunakan sebagai bahan utama di Indonesia pada tahun 1950. Besi ini kerap kali digunakan untuk membangun tempat tinggal. Bahan yang gampang diterapkan sehingga selain dari diterapkan untuk membangun tempat tinggal juga digunakan untuk membangun trowongan, bendungan, dan lainnya. Ketika diterapkan untuk membangun rumah bertingkat karenanya biasa besi polos ini digunakan untuk struktur rangkaian besi balok, dinding, dan sloof. Besi beton polos ini mempunyai keunggulan besi polos ini tegangannya lebih tinggi dari pada besi lainnya. Jadi besi ini terkesan lebih kokoh dan tahan beban. Sehingga penerapan besi polos ini benar-benar sesuai untuk membangun gedung, jembatan, dan bangunan lainnya. Besi polos ini terbuat dari bahan seperti billet dan skrap. Billet merupakan baja batangan yang cara kerja pembuatannya dengan melebur biji besi. Sekiranya skrap ialah besi bekas yang dileburkan dengan temperature tertentu. Selain itu bila anda menerapkan besi polos ini tidak memerlukan budget pemeliharaan. Kian lama digunakan karenanya besi ini akan semakin kokoh.
 
-### 2\. Besi Ulir KS 4mm, 6mm, 8mm, 10mm, 12mm, 16mm, 18mm, 19mm Di Cakung Timur Jakarta
+### 2. Besi Ulir KS 4mm, 6mm, 8mm, 10mm, 12mm, 16mm, 18mm, 19mm Di Cakung Timur Jakarta
 
 Selaras dengan namanya besi beton ulir ini adalah besi yang tampilannya mengulir. Pada permukaannya bercorak spiral yang memiliki tujuan untuk menyatukan tulangan dengan unsur bahan bangunan yang dibentuk oleh besi beton. Besi ulir ini mulai populer dipakai pada abad ke-20 di Amerika dan mulai populer di Indonesia pada tahun1950. Mengingat ketika menerapkan besi ulir ini mempunyai banyak kelebihan mulai dari kekokohan bangunan serta lebih ekonomis dan efisien. Produk besi ulir ini menjadi andalan pasar sebab mempunyai kwalitas yang terbaik di Indonesia dan mempunyai harga yang tinggi jika dibandingi dengan produk lainnya.
 
-### 3\. Besi WF dan H-Beam KS Di Cakung Timur Jakarta
+### 3. Besi WF dan H-Beam KS Di Cakung Timur Jakarta
 
 Besi Wide Flange (WF) ini ialah salah satu baja dengan struktural yang paling sering digunakan untuk kontruksi baja. Bila anda memerlukan besi baja Wide Flage dalam quantitas yang banyak atau sedikit karenanya silahkan cari distributor besi yang terpercaya. Besi WF ini mempunyai kekuatan yang kokoh dan kokoh pada kekuatan tarik atau tekan. Maka dari itu besi ini menjadi elemen struktur yang mempunyai batasan yang sempurna untuk menahan muatan tekan aksial, tarik aksial, dan lentur dengan fasilitas pembangunan strukturnya. Baja Wide Flange (WF) ini memiliki kepadatan yang tinggi tetapi rasio berat antara kekokohan bagian Baja WF yang tinggi tapi tidak terlalu berat yang berhubungan dengan kapasitas bobot. Selain itu menentukan sekiranya kontruksi yang digunakan secara efisien. Cara kontruksi baja WF ini kombinasi dari faktor struktur yang kompleks. Pada struktur ini memiliki tujuan membawa bobot yang aman dan efektif yang berefek pada sebuah bangunan dan dikirim pada pondasinya. Gaya dan beban yang bekerja ini termasuk beban pertikal, perbedaan temperatur, horizontal, getaran dan lainnya. Pada sebuah bangunan baja, maka ada unsure yang bermanfaat menopang gaya lateral dan gravitasi.
 
-### 4\. Besi Hollow Di Cakung Timur Jakarta
+### 4. Besi Hollow Di Cakung Timur Jakarta
 
 Besi hollow merupakan besi yang diterapkan sebagai pembuatan kanopi, pagar, pintu besi dan lainnya. Bahan baku pembuatan besi Hollow ini lazimnya terbuat dari stainless, galvanis, dan besi baja. Namun yang paling kerap kali diterapkan sebagai bahan baku ialah galvanis. Terdapat kelebihan yang anda temukan saat memasang kanopi, menerapkan pagar, teralis menggunakan besi hollow:
 

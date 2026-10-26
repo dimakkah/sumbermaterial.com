@@ -50,13 +50,13 @@ d. tdk dapat menjangkau lokasi yang sempit. Mengingat Besi WF ini berukuran panj
 
 ### Kelebihan Dari Besi WF Di Klender Jakarta
 
-1\. Bisa mengurangi waktu dalam pembangunan sebuah konstruksi bangunan, memaksimalkan waktu dan juga menghemat biaya dan tenaga tukang.
+1. Bisa mengurangi waktu dalam pembangunan sebuah konstruksi bangunan, memaksimalkan waktu dan juga menghemat biaya dan tenaga tukang.
 
-2\. Dapat menyangga beban yang sungguh-sungguh berat, tidak mudah memuai dan lebih simple pengaplikasiannya dibanding dengan material struktural lainnya.
+2. Dapat menyangga beban yang sungguh-sungguh berat, tidak mudah memuai dan lebih simple pengaplikasiannya dibanding dengan material struktural lainnya.
 
-3\. Memiliki fleksibilitas yang tinggi. Sehingga struktur bangunan yang diwujudkan dari Besi WF ini menjadi lebih kuat tidak gampang bergeser, tidak gampang roboh maupun goyang. Amat cocok untuk variasi bangunan diatas tanah yang labil atau sering terjadi longsor.
+3. Memiliki fleksibilitas yang tinggi. Sehingga struktur bangunan yang diwujudkan dari Besi WF ini menjadi lebih kuat tidak gampang bergeser, tidak gampang roboh maupun goyang. Amat cocok untuk variasi bangunan diatas tanah yang labil atau sering terjadi longsor.
 
-4\. Lebih hemat sebab struktur bangunan yang memakai Besi WF akan memiliki kekokohan yang cukup lama malahan sampai ratusan tahun. Tentunya ini yakni investasi yang sangat murah sekiranya kita bandingkan dengan waktu pakai. Malahan bangunan yang dibangun dengan tulangan Besi WF dapat kita wariskan kepada buah hati cucu kita.
+4. Lebih hemat sebab struktur bangunan yang memakai Besi WF akan memiliki kekokohan yang cukup lama malahan sampai ratusan tahun. Tentunya ini yakni investasi yang sangat murah sekiranya kita bandingkan dengan waktu pakai. Malahan bangunan yang dibangun dengan tulangan Besi WF dapat kita wariskan kepada buah hati cucu kita.
 
 ## Mengenal Besi H Beam Di Klender Jakarta
 
@@ -72,15 +72,15 @@ Sama seperti besi yang kami paparkan sebelumnya merupakan Besi WF, besi H-Beam p
 
 ### Kelebihan Besi H Beam Di Klender Jakarta
 
-1\. Mudah untuk didapatkan. Banyak distributor besi yang menyediakan stok besi H-Beam bermacam jenis ukuran. Sehingga besi H-Beam ini benar-benar gampang untuk didapat, tdk sulit untuk mendapatkan supplier besi yang menjual besi H Beam.
+1. Mudah untuk didapatkan. Banyak distributor besi yang menyediakan stok besi H-Beam bermacam jenis ukuran. Sehingga besi H-Beam ini benar-benar gampang untuk didapat, tdk sulit untuk mendapatkan supplier besi yang menjual besi H Beam.
 
-2\. Gampang Dalam Pemasangan. Banyak tukang ahli dalam pemasangan besi H Beam. Walaupun besi H-Beam ini wajib dipasang oleh tukang yang profesional akan tetapi tukang yang profesional dalam memasang besi H Beam ini sungguh-sungguh banyak kita temui hari ini. Sehingga tidak perlu dikhawatirkan lagi pengerjaan pemasangannya.
+2. Gampang Dalam Pemasangan. Banyak tukang ahli dalam pemasangan besi H Beam. Walaupun besi H-Beam ini wajib dipasang oleh tukang yang profesional akan tetapi tukang yang profesional dalam memasang besi H Beam ini sungguh-sungguh banyak kita temui hari ini. Sehingga tidak perlu dikhawatirkan lagi pengerjaan pemasangannya.
 
-3\. Memiliki kekuatan yang tidak diragukan lagi. Besi H Beam telah teruji selama bertahun-tahun dalam kontruksi bangunan. Baik skala kecil ataupun skala besar dan terbilang betul-betul awet sekiranya dibandingkan dengan material lainnya. Bisa bertahan sampai puluhan hingga ratusan tahun.
+3. Memiliki kekuatan yang tidak diragukan lagi. Besi H Beam telah teruji selama bertahun-tahun dalam kontruksi bangunan. Baik skala kecil ataupun skala besar dan terbilang betul-betul awet sekiranya dibandingkan dengan material lainnya. Bisa bertahan sampai puluhan hingga ratusan tahun.
 
-4\. Gampang dalam pemeliharaannya. Bangunan yang memakai besi H Beam sebagai struktur tulangan bangunannya akan amat gampang dalam melaksanakan pemeliharaannya. tidak perlu pengecatan dengan cat khusus maupun pembersihan setiap saat.
+4. Gampang dalam pemeliharaannya. Bangunan yang memakai besi H Beam sebagai struktur tulangan bangunannya akan amat gampang dalam melaksanakan pemeliharaannya. tidak perlu pengecatan dengan cat khusus maupun pembersihan setiap saat.
 
-5\. Mengurangi pemakaian material lainnya, seperti pemakaian bekisting, penerapan perancah atau perancah dan juga material pasir. Besi H Beam tidak membutuhkan material pasir dalam penggunaannya.
+5. Mengurangi pemakaian material lainnya, seperti pemakaian bekisting, penerapan perancah atau perancah dan juga material pasir. Besi H Beam tidak membutuhkan material pasir dalam penggunaannya.
 
 ### Kekurangan Dari Besi H Beam Di Klender Jakarta
 

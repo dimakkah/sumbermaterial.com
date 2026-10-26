@@ -50,13 +50,13 @@ d. tidak dapat menjangkau tempat yang sempit. Mengingat Besi WF ini berukuran pa
 
 ### Kelebihan Dari Besi WF Di Pasar Rebo Jakarta
 
-1\. Dapat memaksimalkan waktu dalam pembangunan sebuah konstruksi bangunan, menghemat waktu dan juga mengurangi ongkos dan tenaga tukang.
+1. Dapat memaksimalkan waktu dalam pembangunan sebuah konstruksi bangunan, menghemat waktu dan juga mengurangi ongkos dan tenaga tukang.
 
-2\. Dapat menyangga muatan yang betul-betul berat, tdk mudah memuai dan lebih simple penerapannya dibanding dengan material struktural lainnya.
+2. Dapat menyangga muatan yang betul-betul berat, tdk mudah memuai dan lebih simple penerapannya dibanding dengan material struktural lainnya.
 
-3\. Mempunyai fleksibilitas yang tinggi. Sehingga struktur bangunan yang dibuat dari Besi WF ini menjadi lebih kuat tdk gampang bergeser, tdk mudah roboh maupun goyang. Amat cocok untuk variasi bangunan diatas tanah yang labil atau kerap kali terjadi gempa.
+3. Mempunyai fleksibilitas yang tinggi. Sehingga struktur bangunan yang dibuat dari Besi WF ini menjadi lebih kuat tdk gampang bergeser, tdk mudah roboh maupun goyang. Amat cocok untuk variasi bangunan diatas tanah yang labil atau kerap kali terjadi gempa.
 
-4\. Lebih hemat sebab struktur bangunan yang memakai Besi WF akan memiliki ketahanan yang cukup lama bahkan hingga ratusan tahun. Tentunya ini merupakan investasi yang benar-benar murah bila kita bandingkan dengan waktu pakai. Malah bangunan yang dibangun dengan tulangan Besi WF bisa kita wariskan terhadap si kecil cucu kita.
+4. Lebih hemat sebab struktur bangunan yang memakai Besi WF akan memiliki ketahanan yang cukup lama bahkan hingga ratusan tahun. Tentunya ini merupakan investasi yang benar-benar murah bila kita bandingkan dengan waktu pakai. Malah bangunan yang dibangun dengan tulangan Besi WF bisa kita wariskan terhadap si kecil cucu kita.
 
 ## Mengetahui Besi H Beam Di Pasar Rebo Jakarta
 
@@ -72,15 +72,15 @@ Sama seperti besi yang kami jelaskan sebelumnya yaitu Besi WF, besi H-Beam pun m
 
 ### Kelebihan Besi H Beam Di Pasar Rebo Jakarta
 
-1\. Mudah untuk didapat. Banyak toko besi yang menyediakan stok besi H-Beam beragam ukuran. Sehingga besi H-Beam ini sangat mudah untuk didapat, tdk susah untuk memperoleh supplier besi yang memasarkan besi H Beam.
+1. Mudah untuk didapat. Banyak toko besi yang menyediakan stok besi H-Beam beragam ukuran. Sehingga besi H-Beam ini sangat mudah untuk didapat, tdk susah untuk memperoleh supplier besi yang memasarkan besi H Beam.
 
-2\. Mudah Dalam Pemasangan. Banyak tukang spesialis dalam pemasangan besi H Beam. Meski besi H-Beam ini sepatutnya dipasang oleh tukang yang berpengalaman tapi tukang yang berpengalaman dalam memasang besi H Beam ini benar-benar banyak kita temui hari ini. Sehingga tidak perlu dikhawatirkan lagi pengerjaan pemasangannya.
+2. Mudah Dalam Pemasangan. Banyak tukang spesialis dalam pemasangan besi H Beam. Meski besi H-Beam ini sepatutnya dipasang oleh tukang yang berpengalaman tapi tukang yang berpengalaman dalam memasang besi H Beam ini benar-benar banyak kita temui hari ini. Sehingga tidak perlu dikhawatirkan lagi pengerjaan pemasangannya.
 
-3\. Mempunyai daya tahan yang tdk diragukan lagi. Besi H Beam sudah teruji selama bertahun-tahun dalam kontruksi bangunan. Apakah skala kecil maupun skala besar dan terbilang amat tahan lama jikalau dibandingi dengan material lainnya. Dapat bertahan sampai puluhan hingga ratusan tahun.
+3. Mempunyai daya tahan yang tdk diragukan lagi. Besi H Beam sudah teruji selama bertahun-tahun dalam kontruksi bangunan. Apakah skala kecil maupun skala besar dan terbilang amat tahan lama jikalau dibandingi dengan material lainnya. Dapat bertahan sampai puluhan hingga ratusan tahun.
 
-4\. Gampang dalam pemeliharaannya. Bangunan yang memakai besi H Beam sebagai struktur rangka bangunannya akan benar-benar mudah dalam melakukan pemeliharaannya. tidak perlu pengecatan dengan cat khusus maupun pembersihan tiap-tiap saat.
+4. Gampang dalam pemeliharaannya. Bangunan yang memakai besi H Beam sebagai struktur rangka bangunannya akan benar-benar mudah dalam melakukan pemeliharaannya. tidak perlu pengecatan dengan cat khusus maupun pembersihan tiap-tiap saat.
 
-5\. Memaksimalkan pemakaian material lainnya, seperti pengaplikasian bekisting, penerapan perancah atau tiang penyangga dan juga material pasir. Besi H Beam Tdk memerlukan material pasir dalam penggunaannya.
+5. Memaksimalkan pemakaian material lainnya, seperti pengaplikasian bekisting, penerapan perancah atau tiang penyangga dan juga material pasir. Besi H Beam Tdk memerlukan material pasir dalam penggunaannya.
 
 ### Kekurangan Dari Besi H Beam Di Pasar Rebo Jakarta
 

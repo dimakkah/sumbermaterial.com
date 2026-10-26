@@ -25,7 +25,7 @@ Berdasarkan Standar Nasional Indonesia ( SK SNI - S - 04 - 1989 - F ; 28) di tut
 
 Syarat Pasir yang Bagus Untuk Konstruksi
 
-1.  Agregat Halus seharusnya terdiri dari butiran yg tajam dan keras dengan indeks kekerasan <2.2
+1.  Agregat Halus seharusnya terdiri dari butiran yg tajam dan keras dengan indeks kekerasan <2.2
 2. apabila diaplikasikan Natrium Sulfat komponen hancur optimal 12 persen
 3. Kalau digunakan Magnesium Sulfat komponen halus maksimal sepuluh %
 4. Tidak boleh mengandung clay lebih dari lima %
@@ -41,7 +41,6 @@ Syarat Pasir yang Bagus Untuk Konstruksi
 Setelah mengetahui syarat pasir buat suatu Bangunan, sekarang ini kita bahas Ragam - model Pasir Untuk Konstruksi Bangunan penjelasan nya berikut ini:
 
 - ### Pasir untuk Cor Rigid Di Mekarsari Depok
-    
 
 Pasir ini lazim nya berwarna coklat tua dan tingkat kekasaran butiran nya cukup tinggi. Tapi jika anda mengepal nya dengan tangan tak akan menggumpal dan akan hancur kembali. ragam pasir ini sungguh-sungguh lah bagus untuk Pengecoran, Plesteran Dinding, Adukan Pondasi dan Adukan Pasangan Bata Pasir ini yaitu pasir untuk Cor yaitu butiran-butiran mineral keras dan tajam berukuran antara 0,075 – 5 mm, kalau terdapat butiran berukuran lebih kecil dari 0,063 mm tak lebih dari 5% berat. Pasir ini yaitu pasir untuk Rigid hampir sering kali diaplikasikan untuk pekerjaan cor-coran struktur seperti kolom, balok dan pelat lantai.
 
@@ -52,9 +51,9 @@ Harga Pasir Hitam Cor Free Ongkir Ke Mekarsari Depok Bila anda sebagai konsumen 
 Pasir nomor satu diambil dari kp. jebrod cianjur jawa barat yang diaplikasikan oleh indocement serta perusahaan batching plant lainnya sebagai bahan dasar produksi readymix concrete. Pasir ini paling dianjurkan untuk cor sebab irit semen juga mempunyai kandungan lumpur yang betul-betul rendah dibawah delapan %. warnanya Hitam abu tua atau hitam seperti hitamnya batu kali, ada juga yang hitam kemerahan atau hitam terasi
 
 3. **Pasir Hitam Rigid Cimangkok.** Pasir diambil dari Lokasi penambangannya di cimangkok sukabumi jawa barat yang masih masuk pada klasifikasi pasir hitam paling unggul di jabar, warnanya hitam kecoklatan pantas untuk cor, pasang pondasi dan bata
-    
+
     ![Harga Pasir Hitam Cor Free Ongkir Ke Mekarsari Depok](/images/info/pasir-hitam-7.jpg)
-    
+
 4. **Pasir Hitam Beton Cimalaka Subang Bandung.**
 
 Pasir paling unggul yang berwarna hitam kebauan ada juga yang berwarna hitam abu tua. Banyak di pakai untuk Rigid, pasang dan keperluan lainnya. Ditambang di kampung cimalaka
@@ -90,9 +89,9 @@ Kecuali Rangkasbitung, Banten juga mempunyai lokasi pnembangan pasir lain sepert
 Masih dari kawasan di banten, pasir kelas tiga ini yakni pasir yang banyak digunakan di proyek proyek perumahan atau cluster sebab harganya yang murah juga mutu yang baik. Warna pasir ini hitam kecoklatan dan keabuan amat disarankan untuk pasang pondasi, bata, batu dsb
 
 27. **Pasir Hitam Beton Bohlam Sukabumi.** Pasir dari Lokasi kp. bohlam di sukabumi berwarna hitam kecoklatan, benar-benar bagus untuk pasang bata, pondasi dsb sebagai opsi pasir kwalitas bagus dan tidak mahal
-    
+
     ![Harga Pasir Hitam Cor Free Ongkir Ke Mekarsari Depok](/images/info/pasir-hitam-5.jpg)
-    
+
 28. **Pasir Cor Galunggung.**
 
 Pasir ini yakni pasir hitam mutu paling unggul dikelasnya awam digunakan oleh pabrik pengolahan beton readymix juga perusahan pembuatan precast dan tak jarang juga diterapkan untuk bahan pembuatan batako press hitam, paving block dan lainnya. Pasir ini ditambang dari Tasikmalaya jawa barat.
@@ -100,21 +99,18 @@ Pasir ini yakni pasir hitam mutu paling unggul dikelasnya awam digunakan oleh pa
 ![Harga Pasir Hitam Cor Free Ongkir Ke Mekarsari Depok](/images/info/pasir-hitam-5.jpg)
 
 - ### Pasir Standar Di Mekarsari Depok
-    
 
 ![Harga Pasir Hitam Cor Free Ongkir Ke Mekarsari Depok](/images/info/pasir-putih12.jpg)
 
 Pasir ini ekstra halus lagi dibandingi oleh pasir beton. apabila kalian mengepal pasir ini maka akan menggumpal dan tak akan hancur kembali. pasir pasang lazim nya di manfaatkan untuk campuran pasir beton supaya tidak terlalu kasar dan bisa di pakai untuk plesteran dinding.
 
 - ### Pasir Urug Untuk Dasaran Pemasangan Keramik Di Mekarsari Depok
-    
 
 Di Antara ke dua pasir diatas pasir model ini lebih halus lagi, jika kalian mengepal nya akan menggumpal dan tak akan hancur lagi. tetapi pasir jenis
 
 Pada biasa nya pasir ini nyaris sama dengan pasir beton akan tetapi pasir ini mempunyai tingkat kekasaran yang tinggi, butiran - butiran nya lumayan besar dan agak banyak batuan nya. pada biasanya pasir tipe ini bagus untuk bahan pemadatan lantai
 
 - ### Pasir Putih Bebas Lumpur Untuk Pelester Di Mekarsari Depok
-    
 
 1. **Pasir Putih Bangka**
 

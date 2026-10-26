@@ -18,19 +18,19 @@ Tanpa adanya besi karenanya sebuah bangunan akan mudah retak ketika ada guncanga
 
 ## Mengetahui Variasi-tipe Besi Di Sukamulya Tangerang
 
-### 1\. Besi Polos Krakatau Steel 4mm, 6mm, 8mm, 10mm, 12mm, 16mm, 18mm, 19mm Di Sukamulya Tangerang
+### 1. Besi Polos Krakatau Steel 4mm, 6mm, 8mm, 10mm, 12mm, 16mm, 18mm, 19mm Di Sukamulya Tangerang
 
 Besi polos mempunyai ukuran mulai dari 8 mm hingga 25 mm dan memiliki 6 meter panjang tekuk dan 12 meter panjang lurus. Besi beton ini telah mulai digunakan sebagai bahan utama di Indonesia pada tahun 1950. Besi ini kerap kali kali digunakan untuk membangun bangunan beton. Bahan yang gampang dipakai sehingga selain diterapkan untuk membangun bangunan beton juga diaplikasikan untuk membangun trowongan, bendungan, dan lainnya. Dikala diaplikasikan untuk membangun rumah bertingkat maka biasanya besi polos ini dipakai untuk struktur rangkaian besi balok, dinding, dan sloof. Besi beton polos ini mempunyai kelebihan besi polos ini tegangannya lebih tinggi dari pada besi lainnya. Sehingga besi ini terkesan lebih kuat dan tahan beban. Jadi penerapan besi polos ini sangat cocok untuk membangun gedung, jembatan, dan bangunan lainnya. Besi polos ini terbuat dari bahan seperti billet dan skrap. Billet yakni baja batangan yang pengerjaan pembuatannya dengan mengecor biji besi. Seandainya skrap merupakan besi bekas yang dileburkan dengan temperature tertentu. Selain dari itu kalau anda mengaplikasikan besi polos ini tdk memerlukan biaya pemeliharaan. Semakin lama diaplikasikan maka besi ini akan kian kokoh.
 
-### 2\. Besi Ulir Toleransi 4mm, 6mm, 8mm, 10mm, 12mm, 16mm, 18mm, 19mm Di Sukamulya Tangerang
+### 2. Besi Ulir Toleransi 4mm, 6mm, 8mm, 10mm, 12mm, 16mm, 18mm, 19mm Di Sukamulya Tangerang
 
 Selaras dengan namanya besi beton ulir ini yaitu besi yang karakternya mengulir. Pada permukaannya bercorak spiral yang memiliki tujuan untuk menyatukan gerigi besi dengan faktor bahan bangunan yang dibentuk oleh besi beton. Besi ulir ini mulai populer digunakan pada abad ke-20 di Amerika dan mulai populer di Indonesia pada tahun1950. Mengingat saat menggunakan besi ulir ini memiliki banyak kelebihan mulai dari ketahanan bangunan serta lebih hemat biaya dan efisien. Produk besi ulir ini menjadi andalan pasar sebab memiliki mutu yang terbaik di Indonesia dan memiliki harga yang tinggi sekiranya dibandingkan dengan produk lainnya.
 
-### 3\. Besi WF dan H-Beam Toleransi Di Sukamulya Tangerang
+### 3. Besi WF dan H-Beam Toleransi Di Sukamulya Tangerang
 
 Besi Wide Flange (WF) ini yaitu salah satu baja dengan struktural yang paling populer diterapkan untuk kontruksi baja. Seandainya anda memerlukan besi baja Wide Flage dalam jumlah yang banyak atau sedikit maka silahkan cari toko besi yang terpercaya. Besi WF ini memiliki ketahanan yang kokoh dan kokoh pada ketahanan tarik atau tekan. Karenanya dari itu besi ini menjadi elemen struktur yang mempunyai batasan yang paripurna untuk menopang beban tekan aksial, tarik aksial, dan lentur dengan fasilitas pembangunan strukturnya. Baja Wide Flange (WF) ini memiliki kepadatan yang tinggi namun rasio berat antara ketahanan bagian Baja WF yang tinggi tetapi tdk begitu berat yang berkaitan dengan kapasitas bobot. Selain dari itu memastikan kalau kontruksi yang diterapkan secara efisien. Metode kontruksi baja WF ini kombinasi dari elemen struktur yang rumit. Pada struktur ini memiliki tujuan membawa muatan yang aman dan efektif yang bekerja pada sebuah bangunan dan dikirim pada pondasinya. Gaya dan bobot yang berefek ini termasuk bobot pertikal, perbedaan suhu, horizontal, getaran dan lainnya. Pada sebuah bangunan baja, maka ada unsure yang berguna menahan gaya lateral dan gravitasi.
 
-### 4\. Besi Holo Di Sukamulya Tangerang
+### 4. Besi Holo Di Sukamulya Tangerang
 
 Besi hollow yaitu besi yang diterapkan sebagai pembuatan kanopi, pagar, pintu besi dan lainnya. Bahan baku pembuatan besi Hollow ini umumnya terbuat dari stainless, galvanis, dan besi baja. Namun yang paling kerap kali digunakan sebagai bahan baku adalah galvanis. Terdapat kelebihan yang anda dapatkan dikala menerapkan kanopi, memasang pagar, teralis mengaplikasikan besi hollow:
 

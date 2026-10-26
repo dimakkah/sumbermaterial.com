@@ -18,8 +18,7 @@ draft: false
 
 {{< toc >}}
 
-
-### Mengapa Bata Merah Tetap Menjadi Pilihan Utama?
+## Mengapa Bata Merah Tetap Menjadi Pilihan Utama?
 
 Bata merah memang sudah menjadi material bangunan favorit di Indonesia sejak lama. Ada banyak alasan kenapa begitu, lho. Selain harganya yang relatif terjangkau, bata merah juga memiliki sifat insulasi termal yang baik, sehingga dapat membantu menjaga suhu ruangan tetap stabil. Ini penting banget, terutama di iklim tropis seperti Indonesia. Selain itu, bata merah juga dikenal kuat dan tahan lama, sehingga bisa menjadi investasi jangka panjang untuk bangunan Anda.
 
@@ -33,9 +32,9 @@ Faktor lain yang berpengaruh adalah **lokasi pembelian**. Harga bata merah di pr
 
 Sebagai gambaran, inilah estimasi harga bata merah di Cilegon saat ini (harga ini bersifat estimasi dan dapat berubah sewaktu-waktu — hubungi Kami untuk penawaran terbaru dan paling akurat sesuai kebutuhan proyek Mitra):
 
-*   **Bata Merah Biasa:** Rp 400.000 – Rp 500.000 per 1000 buah
-*   **Bata Merah Press:** Rp 550.000 – Rp 700.000 per 1000 buah
-*   **Bata Merah Hollow:** Rp 600.000 – Rp 800.000 per 1000 buah
+- **Bata Merah Biasa:** Rp 400.000 – Rp 500.000 per 1000 buah
+- **Bata Merah Press:** Rp 550.000 – Rp 700.000 per 1000 buah
+- **Bata Merah Hollow:** Rp 600.000 – Rp 800.000 per 1000 buah
 
 ![Gambar tumpukan bata merah di area konstruksi](/images/bata/bata-merah-oven-31.png)
 

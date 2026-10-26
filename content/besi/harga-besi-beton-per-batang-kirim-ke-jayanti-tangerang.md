@@ -18,19 +18,19 @@ Dengan tidak adanya besi karenanya sebuah bangunan akan gampang retak ketika ada
 
 ## Megenal Macam-macam Besi Di Jayanti Tangerang
 
-### 1\. Besi Polos Krakatau Steel 4mm, 6mm, 8mm, 10mm, 12mm, 16mm, 18mm, 19mm Di Jayanti Tangerang
+### 1. Besi Polos Krakatau Steel 4mm, 6mm, 8mm, 10mm, 12mm, 16mm, 18mm, 19mm Di Jayanti Tangerang
 
 Besi polos mempunyai ukuran mulai dari 8 mm hingga 25 mm dan mempunyai 6 meter panjang tekuk dan 12 meter panjang lurus. Besi beton ini mulai digunakan sebagai bahan utama di Indonesia pada tahun 1950. Besi ini tak jarang kali diaplikasikan untuk membangun tempat tinggal. Bahan yang mudah diaplikasikan sehingga selain dari diterapkan untuk membangun bangunan beton juga dipakai untuk membangun trowongan, bendungan, dan lainnya. Ketika digunakan untuk membangun tempat tinggal bertingkat maka biasanya besi polos ini dipakai untuk struktur rangkaian besi balok, dinding, dan sloof. Besi beton polos ini memiliki kelebihan besi polos ini tegangannya lebih tinggi dari pada besi lainnya. Oleh karena itu besi ini terkesan lebih kuat dan tahan beban. Oleh karena itu pengaplikasian besi polos ini betul-betul sesuai untuk membangun gedung, jembatan, dan bangunan lainnya. Besi polos ini terbuat dari bahan seperti billet dan skrap. Billet yakni baja batangan yang cara kerja pembuatannya dengan melebur biji besi. Apabila skrap yaitu besi bekas yang dihancurkan dengan temperature tertentu. Selain itu jika anda memakai besi polos ini tidak memerlukan budget pemeliharaan. Semakin lama dipakai maka besi ini akan semakin kokoh.
 
-### 2\. Besi Ulir 4mm, 6mm, 8mm, 10mm, 12mm, 16mm, 18mm, 19mm Di Jayanti Tangerang
+### 2. Besi Ulir 4mm, 6mm, 8mm, 10mm, 12mm, 16mm, 18mm, 19mm Di Jayanti Tangerang
 
 Cocok dengan namanya besi beton ulir ini merupakan besi yang bentuknya mengulir. Pada permukaannya bercorak spiral yang memiliki tujuan untuk menyatukan tulangan dengan unsur bahan bangunan yang dibangun oleh besi beton. Besi ulir ini mulai populer diterapkan pada abad ke-20 di Amerika dan mulai populer di Indonesia pada tahun1950. Mengingat saat mengaplikasikan besi ulir ini mempunyai banyak kelebihan mulai dari ketahanan bangunan serta lebih hemat biaya dan efisien. Produk besi ulir ini menjadi paling laris di pasar sebab mempunyai mutu yang terbaik di Indonesia dan mempunyai harga yang tinggi kalau diperbandingkan dengan produk lainnya.
 
-### 3\. Besi WF dan H-Beam Krakatau Steel Di Jayanti Tangerang
+### 3. Besi WF dan H-Beam Krakatau Steel Di Jayanti Tangerang
 
 Besi Wide Flange (WF) ini merupakan salah satu baja dengan struktural yang paling banyak digunakan untuk kontruksi baja. Seandainya anda membutuhkan besi baja Wide Flage dalam quantitas yang banyak atau sedikit maka silahkan cari penjual besi yang terpercaya. Besi WF ini mempunyai ketahanan yang kokoh dan kuat pada kekuatan tarik atau tekan. Karenanya dari itu besi ini menjadi faktor struktur yang memiliki batasan yang sempurna untuk menahan beban tekan aksial, tarik aksial, dan lentur dengan fasilitas pembangunan strukturnya. Baja Wide Flange (WF) ini memiliki kepadatan yang tinggi melainkan rasio berat antara kekokohan komponen Baja WF yang tinggi namun tidak terlalu berat yang berkaitan dengan kapasitas muatan. Selain dari itu menetapkan seandainya kontruksi yang digunakan secara efisien. Cara kontruksi baja WF ini kombinasi dari faktor struktur yang rumit. Pada struktur ini mempunyai tujuan membawa bobot yang aman dan efektif yang bekerja pada sebuah bangunan dan dikirim pada pondasinya. Gaya dan muatan yang berefek ini termasuk muatan pertikal, perbedaan temperatur, horizontal, getaran dan lainnya. Pada sebuah bangunan baja, maka ada unsure yang bermanfaat menahan gaya lateral dan gravitasi.
 
-### 4\. Besi Hollow Di Jayanti Tangerang
+### 4. Besi Hollow Di Jayanti Tangerang
 
 Besi hollow merupakan besi yang digunakan sebagai pembuatan kanopi, pagar, pintu besi dan lainnya. Bahan baku pembuatan besi Hollow ini lazimnya terbuat dari stainless, galvanis, dan besi baja. Namun yang paling tak jarang digunakan sebagai bahan baku ialah galvanis. Terdapat kelebihan yang anda dapatkan dikala menerapkan kanopi, menerapkan pagar, teralis menerapkan besi hollow:
 

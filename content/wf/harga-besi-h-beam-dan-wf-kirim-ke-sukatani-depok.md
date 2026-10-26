@@ -50,13 +50,13 @@ d. tidak bisa menjangkau tempat yang sempit. Mengingat Besi WF ini berukuran pan
 
 ### Kelebihan Dari Besi WF Di Sukatani Depok
 
-1\. Dapat menghemat waktu dalam pembangunan sebuah konstruksi bangunan, memaksimalkan waktu dan juga menghemat biaya dan tenaga tukang.
+1. Dapat menghemat waktu dalam pembangunan sebuah konstruksi bangunan, memaksimalkan waktu dan juga menghemat biaya dan tenaga tukang.
 
-2\. Bisa menyangga bobot yang sungguh-sungguh berat, tdk mudah memuai dan lebih simple pengaplikasiannya dibanding dengan material struktural lainnya.
+2. Bisa menyangga bobot yang sungguh-sungguh berat, tdk mudah memuai dan lebih simple pengaplikasiannya dibanding dengan material struktural lainnya.
 
-3\. Mempunyai fleksibilitas yang tinggi. Sehingga struktur bangunan yang diwujudkan dari Besi WF ini menjadi lebih kuat tidak gampang bergeser, tidak gampang runtuh maupun goyang. Sangat cocok untuk jenis bangunan diatas tanah yang labil atau sering kali terjadi longsor.
+3. Mempunyai fleksibilitas yang tinggi. Sehingga struktur bangunan yang diwujudkan dari Besi WF ini menjadi lebih kuat tidak gampang bergeser, tidak gampang runtuh maupun goyang. Sangat cocok untuk jenis bangunan diatas tanah yang labil atau sering kali terjadi longsor.
 
-4\. Lebih hemat sebab struktur bangunan yang mengaplikasikan Besi WF akan memiliki kekuatan yang cukup lama malah sampai ratusan tahun. Tentunya ini ialah investasi yang benar-benar murah kalau kita bandingkan dengan waktu gunakan. Malahan bangunan yang dibangun dengan tulangan Besi WF bisa kita wariskan terhadap buah hati cucu kita.
+4. Lebih hemat sebab struktur bangunan yang mengaplikasikan Besi WF akan memiliki kekuatan yang cukup lama malah sampai ratusan tahun. Tentunya ini ialah investasi yang benar-benar murah kalau kita bandingkan dengan waktu gunakan. Malahan bangunan yang dibangun dengan tulangan Besi WF bisa kita wariskan terhadap buah hati cucu kita.
 
 ## Mengenal Besi H Beam Di Sukatani Depok
 
@@ -72,15 +72,15 @@ Sama seperti besi yang kami paparkan sebelumnya adalah Besi WF, besi H-Beam bahk
 
 ### Keunggulan Besi H Beam Di Sukatani Depok
 
-1\. Gampang untuk diperoleh. Banyak distributor besi yang menyediakan stok besi H-Beam berbagai ukuran. Sehingga besi H-Beam ini benar-benar mudah untuk didapat, tidak sulit untuk mendapatkan toko besi yang memasarkan besi H Beam.
+1. Gampang untuk diperoleh. Banyak distributor besi yang menyediakan stok besi H-Beam berbagai ukuran. Sehingga besi H-Beam ini benar-benar mudah untuk didapat, tidak sulit untuk mendapatkan toko besi yang memasarkan besi H Beam.
 
-2\. Gampang Dalam Pemasangan. Banyak tukang spesialis dalam pemasangan besi H Beam. Meskipun besi H-Beam ini sepatutnya dipasang oleh tukang yang berpengalaman tapi tukang yang profesional dalam memasang besi H Beam ini benar-benar banyak kita temui hari ini. Sehingga tdk perlu dikhawatirkan lagi proses pemasangannya.
+2. Gampang Dalam Pemasangan. Banyak tukang spesialis dalam pemasangan besi H Beam. Meskipun besi H-Beam ini sepatutnya dipasang oleh tukang yang berpengalaman tapi tukang yang profesional dalam memasang besi H Beam ini benar-benar banyak kita temui hari ini. Sehingga tdk perlu dikhawatirkan lagi proses pemasangannya.
 
-3\. Memiliki kekuatan yang tidak diragukan lagi. Besi H Beam telah teruji selama bertahun-tahun dalam kontruksi bangunan. Baik skala kecil ataupun skala besar dan terbilang betul-betul awet apabila diperbandingkan dengan material lainnya. Bisa bertahan sampai puluhan sampai ratusan tahun.
+3. Memiliki kekuatan yang tidak diragukan lagi. Besi H Beam telah teruji selama bertahun-tahun dalam kontruksi bangunan. Baik skala kecil ataupun skala besar dan terbilang betul-betul awet apabila diperbandingkan dengan material lainnya. Bisa bertahan sampai puluhan sampai ratusan tahun.
 
-4\. Gampang dalam perawatannya. Bangunan yang menggunakan besi H Beam sebagai struktur tulangan bangunannya akan sungguh-sungguh gampang dalam menjalankan perawatannya. tidak perlu pengecatan dengan cat khusus maupun pembersihan tiap-tiap saat.
+4. Gampang dalam perawatannya. Bangunan yang menggunakan besi H Beam sebagai struktur tulangan bangunannya akan sungguh-sungguh gampang dalam menjalankan perawatannya. tidak perlu pengecatan dengan cat khusus maupun pembersihan tiap-tiap saat.
 
-5\. Memaksimalkan penerapan material lainnya, seperti penerapan bekisting, penggunaan steger atau steger dan juga material pasir. Besi H Beam Tdk membutuhkan material pasir dalam penggunaannya.
+5. Memaksimalkan penerapan material lainnya, seperti penerapan bekisting, penggunaan steger atau steger dan juga material pasir. Besi H Beam Tdk membutuhkan material pasir dalam penggunaannya.
 
 ### Kekurangan Dari Besi H Beam Di Sukatani Depok
 

@@ -25,7 +25,7 @@ Menurut Standar Nasional Indonesia ( SK SNI - S - 04 - 1989 - F ; 28) di tuturka
 
 Syarat-Syarat Pasir yg Bagus buat Konstruksi
 
-1.  Agregat Halus wajib terdiri dari butiran yang tajam dan keras dengan indeks kekerasan <2.2
+1.  Agregat Halus wajib terdiri dari butiran yang tajam dan keras dengan indeks kekerasan <2.2
 2. bilamana dimanfaatkan Natrium Sulfat bagian hancur maksimal dua belas persen
 3. sekiranya dipakai Magnesium Sulfat bagian halus maksimal sepuluh %
 4. Tidak boleh berisi tanah lebih dari 5 persen
@@ -41,7 +41,6 @@ Syarat-Syarat Pasir yg Bagus buat Konstruksi
 Sesudah tahu persis persyaratan pasir tuk sebuah Konstruksi Bangunan, sekarang ini kita bahas Jenis - Jenis Pasir Untuk Bangunan penjelasan nya sbb:
 
 - ### Pasir Beton Di Cikupa Tangerang
-    
 
 Pasir ini umum nya berwarna hitam kemerahan dan tingkat kekerasan butiran nya cukup tinggi. Tetapi seandainya anda mengepal nya dengan tangan tidak akan menggumpal dan akan hancur kembali. jenis pasir ini amat lah baik tuk Pengecoran, Plesteran Dinding, Adukan Pondasi dan Adukan Pasangan Bata Pasir ini yaitu pasir untuk Beton yaitu butiran-butiran mineral keras dan tajam berukuran antara 0,075 – 5 mm, apabila terdapat butiran berukuran lebih kecil dari 0,063 mm tidak lebih dari 5% berat. Pasir ini yaitu pasir untuk Cor acap kali diaplikasikan untuk profesi cor-coran struktur seperti kolom, balok dan pelat lantai.
 
@@ -52,9 +51,9 @@ Harga Pasir Mainan Anak Free Ongkir Ke Cikupa Tangerang Bila anda sebagai konsum
 Pasir No. 1 asal kp. jebrod cianjur jawa barat yang diaplikasikan oleh indocement serta perusahaan batching plant lainnya sebagai bahan dasar produksi readymix concrete. Pasir ini paling dianjurkan untuk cor sebab irit semen juga mempunyai kandungan lumpur yang betul-betul rendah dibawah delapan persen. warnanya Hitam abu tua atau hitam seperti hitamnya batu kali, ada juga yang hitam kemerahan atau hitam terasi
 
 3. **Pasir Hitam Beton Cimangkok.** Pasir asal Daerah penambangannya di cimangkok sukabumi jabar yang masih masuk pada golongan pasir hitam paling unggul di jawa barat, warnanya hitam kecoklatan pantas untuk cor, pasang pondasi dan bata
-    
+
     ![Harga Pasir Mainan Anak Free Ongkir Ke Cikupa Tangerang](/images/info/jual-pasir-cor-hitam.jpg)
-    
+
 4. **Pasir Hitam Cor Cimalaka Subang Bandung.**
 
 Pasir terbaik yang berwarna hitam kebauan ada juga yang berwarna hitam abu tua. Banyak di gunakan untuk Beton, pasang dan keperluan lainnya. Ditambang di kampung cimalaka
@@ -90,9 +89,9 @@ Kecuali Rangkasbitung, Banten juga mempunyai lokasi pnembangan pasir lain sepert
 Masih dari Lokasi di banten, pasir kelas tiga ini yaitu pasir yang banyak diterapkan di proyek proyek perumahan atau cluster sebab harganya yang murah juga kwalitas yang baik. Warna pasir ini hitam kecoklatan dan keabuan amat dianjurkan untuk pasang pondasi, bata, batu dsb
 
 27. **Pasir Hitam Cor Bohlam Sukabumi.** Pasir dari Lokasi kp. bohlam di sukabumi berwarna hitam kecoklatan, benar-benar bagus untuk pasang bata, pondasi dsb sebagai pilihan pasir mutu bagus dan murah
-    
+
     ![Harga Pasir Mainan Anak Free Ongkir Ke Cikupa Tangerang](/images/info/jual-pasir-cor-hitam.jpg)
-    
+
 28. **Pasir Cor Galunggung.**
 
 Pasir ini yaitu pasir hitam kwalitas paling unggul dikelasnya lazim digunakan oleh pabrik pengolahan beton readymix juga perusahan pembuatan precast dan kerap juga diaplikasikan untuk bahan pembuatan batako press hitam, paving block dan lainnya. Pasir ini ditambang dari Tasikmalaya jawa barat.
@@ -100,21 +99,18 @@ Pasir ini yaitu pasir hitam kwalitas paling unggul dikelasnya lazim digunakan ol
 ![Harga Pasir Mainan Anak Free Ongkir Ke Cikupa Tangerang](/images/info/jual-pasir-cor-hitam.jpg)
 
 - ### Pasir Standar Di Cikupa Tangerang
-    
 
 ![Harga Pasir Mainan Anak Free Ongkir Ke Cikupa Tangerang](/images/info/pasir-putih12.jpg)
 
 Pasir ini lebih halus lagi dibandingkan oleh pasir beton. jikalau anda mengepal pasir ini maka akan menggumpal dan tidak akan hancur kembali. pasir pasang lazim nya di pakai tuk adukan pasir beton agar tidak terlalu kasar dan dapat di pakai untuk plesteran dinding.
 
 - ### Pasir Urug Untuk Dasaran Pemasangan Marmer Di Cikupa Tangerang
-    
 
 Di Antara ke dua pasir diatas pasir model ini lebih halus lagi, bila anda mengepal nya maka akan menggumpal dan tak akan buyar lagi. tetapi pasir ragam tidak bagus tuk di buat sebagai bahan bangunan. pasir model ini pada biasa nya di manfaatkan tuk Bahan Pembuatan Batako
 
 Pada umum nya pasir ini nyaris sama dengan pasir beton namun pasir ini mempunyai tingkat kekasaran yang tinggi, butiran - butiran nya lumayan besar dan agak banyak batuan nya. pada umumnya pasir ragam ini bagus tuk bahan Pembuatan Batako
 
 - ### Pasir Putih Tanpa Ayak Untuk Lapangan Voly Di Cikupa Tangerang
-    
 
 1. **Pasir Putih Bangka**
 

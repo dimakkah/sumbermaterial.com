@@ -25,7 +25,7 @@ Berdasarkan Standar Nasional Indonesia ( SK SNI - S - 04 - 1989 - F ; 28) di tut
 
 Persyaratan Pasir yang Bagus buat Bangunan
 
-1.  Agregat Halus harus terdiri dari butiran yang tajam dan keras dengan indeks kekerasan <2.2
+1.  Agregat Halus harus terdiri dari butiran yang tajam dan keras dengan indeks kekerasan <2.2
 2. jikalau diaplikasikan Natrium Sulfat bagian hancur optimal 12%
 3. jika diterapkan Magnesium Sulfat komponen halus optimal sepuluh %
 4. Tidak boleh memuat lumpur lebih dari 5%
@@ -41,7 +41,6 @@ Persyaratan Pasir yang Bagus buat Bangunan
 sesudah mengenal persyaratan pasir untuk suatu Konstruksi, saat ini kita bahas Ragam - Macam Pasir Untuk Konstruksi penjelasan nya berikut ini:
 
 - ### Pasir Jenis Cor dan Daerah Penambangannya Di Duren Mekar Depok
-    
 
 Pasir ini biasa nya berwarna hitam kemerahan dan tingkat kekerasan butiran nya lumayan tinggi. Namun seandainya anda mengepal nya dengan tangan tak akan menggumpal dan akan hancur kembali. ragam pasir ini sangat lah bagus tuk Pengecoran, Plesteran Dinding, Adukan Pondasi dan Adukan Pasangan Bata Pasir ini yaitu pasir untuk Beton yakni butiran-butiran mineral keras dan tajam berukuran antara 0,075 – 5 mm, kalau terdapat butiran berukuran lebih kecil dari 0,063 mm tidak lebih dari 5% berat. Pasir ini yaitu pasir untuk Beton kerap kali dipakai untuk profesi cor-coran struktur seperti kolom, balok dan pelat lantai.
 
@@ -59,21 +58,18 @@ Untuk mendapat kekokohan Rigid yang maksimal maka pasir mesti bisa memenuhi pras
 ![Harga Pasir Lampung Free Ongkir Ke Duren Mekar Depok](/images/info/pasir-hitam-1.jpg)
 
 - ### Pasir Untuk Pasang Batu, Pondasi, Bata, Ubin, Plester Di Duren Mekar Depok
-    
 
 ![Harga Pasir Lampung Free Ongkir Ke Duren Mekar Depok](/images/info/pasir-hitam-11.jpg)
 
 Pasir ini ekstra halus lagi dibandingkan oleh pasir beton. jika kalian mengepal pasir ini karenanya akan menggumpal dan tidak akan hancur kembali. pasir pasang umum nya di manfaatkan untuk adukan pasir beton agar tidak kelewat kasar dan dapat di gunakan untuk plesteran dinding.
 
 - ### Pasir Kualitas rendah Untuk pengurugan lantai Di Duren Mekar Depok
-    
 
 Di Antara ke dua pasir diatas pasir tipe ini lebih halus lagi, sekiranya kamu mengepal nya karenanya akan menggumpal dan tidak akan buyar lagi. tetapi pasir ragam tak bagus untuk di buat sebagai bahan bangunan. pasir jenis ini pada umum nya di manfaatkan tuk Bahan Pembuatan Batako
 
 Pada umum nya pasir ini nyaris sama dengan pasir beton akan melainkan pasir ini memiliki tingkat kekasaran yg tinggi, butiran - butiran nya lumayan besar dan agak banyak batuan nya. pada biasanya pasir tipe ini baik untuk bahan dasaran pemasangan keramik
 
 - ### Pasir Putih Halus Untuk Pasang Keramik Di Duren Mekar Depok
-    
 
 1. **Pasir Putih Bangka**
 

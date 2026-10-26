@@ -18,19 +18,19 @@ Tanpa adanya besi karenanya sebuah bangunan akan gampang retak dikala ada getara
 
 ## Seperti Ini Jenis-jenis Besi Di Bojongkerta Bogor
 
-### 1\. Besi Polos Full 4mm, 6mm, 8mm, 10mm, 12mm, 16mm, 18mm, 19mm Di Bojongkerta Bogor
+### 1. Besi Polos Full 4mm, 6mm, 8mm, 10mm, 12mm, 16mm, 18mm, 19mm Di Bojongkerta Bogor
 
 Besi polos mempunyai ukuran mulai dari 8 mm sampai 25 mm dan mempunyai 6 meter panjang tekuk dan 12 meter panjang lurus. Besi beton ini telah mulai diaplikasikan sebagai bahan utama di Indonesia pada tahun 1950. Besi ini sering kali dipakai untuk membangun sebuah gedung. Bahan yang gampang diterapkan sehingga selain dari digunakan untuk membangun rumah juga diterapkan untuk membangun trowongan, bendungan, dan lainnya. Dikala diterapkan untuk membangun bangunan beton bertingkat maka biasanya besi polos ini dipakai untuk struktur tulangan balok, dinding, dan sloof. Besi beton polos ini memiliki keunggulan besi polos ini tegangannya lebih tinggi dari pada besi lainnya. Sehingga besi ini terkesan lebih kokoh dan tahan beban. Jadi pemakaian besi polos ini sangat pantas untuk membangun gedung, jembatan, dan bangunan lainnya. Besi polos ini terbuat dari bahan seperti billet dan skrap. Billet ialah baja batangan yang pelaksanaan pembuatannya dengan mengecor biji besi. Bila skrap yaitu besi bekas yang dihancurkan dengan temperature tertentu. Selain itu jika anda menerapkan besi polos ini tidak membutuhkan biaya pemeliharaan. Semakin lama diterapkan maka besi ini akan semakin kokoh.
 
-### 2\. Besi Ulir Banci 4mm, 6mm, 8mm, 10mm, 12mm, 16mm, 18mm, 19mm Di Bojongkerta Bogor
+### 2. Besi Ulir Banci 4mm, 6mm, 8mm, 10mm, 12mm, 16mm, 18mm, 19mm Di Bojongkerta Bogor
 
 Selaras dengan namanya besi beton ulir ini adalah besi yang tampilannya mengulir. Pada permukaannya bercorak spiral yang memiliki tujuan untuk menyatukan gerigi besi dengan elemen material bangunan yang dibentuk oleh besi beton. Besi ulir ini mulai populer digunakan pada abad ke-20 di Amerika dan mulai populer di Indonesia pada tahun1950. Mengingat saat mengaplikasikan besi ulir ini memiliki banyak keunggulan mulai dari kekuatan bangunan serta lebih murah dan efisien. Produk besi ulir ini menjadi paling laris di pasar sebab mempunyai kualitas yang terbaik di Indonesia dan memiliki harga yang tinggi sekiranya diperbandingkan dengan produk lainnya.
 
-### 3\. Besi WF dan H-Beam Banci Di Bojongkerta Bogor
+### 3. Besi WF dan H-Beam Banci Di Bojongkerta Bogor
 
 Besi Wide Flange (WF) ini merupakan salah satu baja dengan struktural yang paling populer digunakan untuk kontruksi baja. Kalau anda memerlukan besi baja Wide Flage dalam quantitas yang banyak atau sedikit karenanya silahkan cari penjual besi yang terpercaya. Besi WF ini mempunyai kekokohan yang kokoh dan kokoh pada ketahanan tarik atau tekan. Maka dari itu besi ini menjadi faktor struktur yang memiliki batasan yang sempurna untuk menopang muatan tekan aksial, tarik aksial, dan lentur dengan fasilitas pembangunan strukturnya. Baja Wide Flange (WF) ini mempunyai kepadatan yang tinggi namun rasio berat antara kekuatan komponen Baja WF yang tinggi namun tidak begitu berat yang berhubungan dengan kapasitas beban. Selain itu memastikan bila kontruksi yang digunakan secara efisien. Sistem kontruksi baja WF ini kombinasi dari elemen struktur yang rumit. Pada struktur ini mempunyai tujuan membawa beban yang aman dan efektif yang bekerja pada sebuah bangunan dan dikirim pada pondasinya. Gaya dan beban yang bekerja ini termasuk muatan pertikal, perbedaan temperatur, horizontal, getaran dan lainnya. Pada sebuah bangunan baja, maka ada unsure yang berfungsi menahan gaya lateral dan gravitasi.
 
-### 4\. Besi Holo Di Bojongkerta Bogor
+### 4. Besi Holo Di Bojongkerta Bogor
 
 Besi hollow ialah besi yang diterapkan sebagai pembuatan kanopi, pagar, pintu besi dan lainnya. Bahan baku pembuatan besi Hollow ini umumnya terbuat dari stainless, galvanis, dan besi baja. Tetapi yang paling sering kali dipakai sebagai bahan baku yakni galvanis. Terdapat kelebihan yang anda dapatkan dikala mengaplikasikan kanopi, mengaplikasikan pagar, teralis memakai besi hollow:
 

@@ -25,7 +25,7 @@ Menurut Standar Nasional Indonesia ( SK SNI - S - 04 - 1989 - F ; 28) di sebutka
 
 Persyaratan Pasir yang Baik tuk Bangunan
 
-1.  Agregat Halus patut terdiri dari butiran yg tajam dan keras dengan indeks kekerasan <2.2
+1.  Agregat Halus patut terdiri dari butiran yg tajam dan keras dengan indeks kekerasan <2.2
 2. apabila dipakai Natrium Sulfat komponen hancur maksimal 12 persen
 3. Bila diaplikasikan Magnesium Sulfat bagian halus maksimal sepuluh persen
 4. Tidak boleh mengandung lumpur lebih dari 5%
@@ -41,7 +41,6 @@ Persyaratan Pasir yang Baik tuk Bangunan
 Sesudah memahami persyaratan pasir untuk sebuah Konstruksi, saat ini kita bahas model - model Pasir Untuk Bangunan penjelasan nya berikut ini:
 
 - ### Pasir Rigid Di Utan Kayu Jakarta
-    
 
 Pasir ini lazim nya berwarna hitam kemerahan dan tingkat pecahan butiran nya cukup tinggi. Melainkan sekiranya anda mengepal nya dengan tangan tidak akan menggumpal dan akan hancur kembali. tipe pasir ini sangat lah bagus buat Pengecoran, Plesteran Dinding, Adukan Pondasi dan Adukan Pasangan Bata Pasir ini yaitu pasir untuk Rigid yaitu butiran-butiran mineral keras dan tajam berukuran antara 0,075 – 5 mm, jikalau terdapat butiran berukuran lebih kecil dari 0,063 mm tak lebih dari 5% berat. Pasir ini yaitu pasir untuk Cor sering kali dimanfaatkan untuk pekerjaan cor-coran struktur seperti kolom, balok dan pelat lantai.
 
@@ -59,21 +58,18 @@ Untuk mendapatkan ketahanan Rigid yang optimal maka pasir seharusnya mampu memen
 ![Harga Pasir Abu Batu Free Ongkir Ke Utan Kayu Jakarta](/images/info/pasir-hitam-5.jpg)
 
 - ### Pasir Pasang Di Utan Kayu Jakarta
-    
 
 ![Harga Pasir Abu Batu Free Ongkir Ke Utan Kayu Jakarta](/images/info/pasir-putih12.jpg)
 
 Pasir ini lebih halus lagi dibandingkan oleh pasir beton. seandainya kamu mengepal pasir ini karenanya akan menggumpal dan tak akan buyar kembali. pasir pasang lazim nya di manfaatkan untuk campuran pasir beton supaya tak terlalu kasar dan bisa di gunakan untuk plesteran dinding.
 
 - ### Pasir Kualitas rendah Untuk pengurugan lantai Di Utan Kayu Jakarta
-    
 
 Di Antara ke dua pasir diatas pasir jenis ini lebih halus lagi, bila anda mengepal nya maka akan menggumpal dan tak akan hancur lagi. melainkan pasir ragam tidak bagus tuk di buat sebagai bahan bangunan. pasir jenis ini pada nya di pergunakan untuk Bahan Pembuatan Batako
 
 Pada biasa nya pasir ini nyaris sama dengan pasir beton melainkan pasir ini memiliki tingkat kekasaran yang tinggi, butiran - butiran nya lumayan besar dan agak banyak batuan nya. pada lazimnya pasir ragam ini baik tuk bahan Pembuatan Batako
 
 - ### Pasir Putih Tanpa Batu Untuk Pengecoran Di Utan Kayu Jakarta
-    
 
 1. **Pasir Putih Bangka**
 

@@ -25,7 +25,7 @@ berdasarkan Standar Nasional Indonesia ( SK SNI - S - 04 - 1989 - F ; 28) di seb
 
 Syarat-Syarat Pasir yang Baik Untuk Konstruksi
 
-1.  Agregat Halus sepatutnya terdiri dari butiran yg tajam dan keras dengan indeks kekerasan <2.2
+1.  Agregat Halus sepatutnya terdiri dari butiran yg tajam dan keras dengan indeks kekerasan <2.2
 2. bilamana dipakai Natrium Sulfat komponen hancur optimal 12%
 3. seandainya diaplikasikan Magnesium Sulfat bagian halus optimal sepuluh persen
 4. Tidak boleh berisi lumpur lebih dari 5%
@@ -41,7 +41,6 @@ Syarat-Syarat Pasir yang Baik Untuk Konstruksi
 Setelah mengetahui prasyarat pasir buat sebuah Konstruksi Bangunan, sekarang ini kita bahas Macam - Jenis Pasir Untuk Konstruksi Bangunan penjelasan nya sbb:
 
 - ### Pasir Beton Di Beji Depok
-    
 
 Pasir ini lazim nya berwarna coklat tua dan tingkat pecahan butiran nya lumayan tinggi. Tetapi sekiranya anda mengepal nya dengan tangan tak akan lengket dan akan hancur kembali. ragam pasir ini benar-benar lah baik tuk Pengecoran, Plesteran Dinding, Adukan Pondasi dan Adukan Pasangan Bata Pasir ini yaitu pasir untuk Beton yakni butiran-butiran mineral keras dan tajam berukuran antara 0,075 – 5 mm, apabila terdapat butiran berukuran lebih kecil dari 0,063 mm tak lebih dari 5% berat. Pasir ini yaitu pasir untuk Cor hampir tak jarang dimanfaatkan untuk pekerjaan cor-coran struktur seperti kolom, balok dan pelat lantai.
 
@@ -52,9 +51,9 @@ Harga Pasir Lampung Free Ongkir Ke Beji Depok Sekiranya anda sebagai konsumen /p
 Pasir terbaik asli kp. jebrod cianjur jawa barat yang digunakan oleh indocement serta perusahaan batching plant lainnya sebagai bahan dasar produksi readymix concrete. Pasir ini paling disarankan untuk cor sebab irit semen juga mempunyai kandungan lumpur yang amat rendah dibawah 8%. warnanya Hitam abu tua atau hitam seperti hitamnya batu kali, ada juga yang hitam kemerahan atau hitam terasi
 
 3. **Pasir Hitam Cor Cimangkok.** Pasir asal Tempat penambangannya di cimangkok sukabumi jawa barat yang masih masuk terhadap kategori pasir hitam kelas satu di jawa barat, warnanya hitam kecoklatan sesuai untuk cor, pasang pondasi dan bata
-    
+
     ![Harga Pasir Lampung Free Ongkir Ke Beji Depok](/images/info/jual-pasir-cor-hitam.jpg)
-    
+
 4. **Pasir Hitam Rigid Cimalaka Subang Bandung.**
 
 Pasir kelas satu yang berwarna hitam kebauan ada juga yang berwarna hitam abu tua. Banyak di gunakan untuk Rigid, pasang dan keperluan lainnya. Ditambang di kampung cimalaka
@@ -90,9 +89,9 @@ Kecuali Rangkasbitung, Banten juga mempunyai lokasi pnembangan pasir lain sepert
 Masih dari Daerah di banten, pasir kelas tiga ini yaitu pasir yang banyak digunakan di proyek proyek perumahan atau cluster sebab harganya yang murah juga mutu yang tidak diragukan. Warna pasir ini hitam kecoklatan dan keabuan sungguh-sungguh dianjurkan untuk pasang pondasi, bata, batu dsb
 
 27. **Pasir Hitam Cor Bohlam Sukabumi.** Pasir dari Kawasan kp. bohlam di sukabumi berwarna hitam kecoklatan, benar-benar bagus untuk pasang bata, pondasi dan sebagainya sebagai opsi pasir mutu bagus dan murah
-    
+
     ![Harga Pasir Lampung Free Ongkir Ke Beji Depok](/images/info/pasir-hitam-1.jpg)
-    
+
 28. **Pasir Cor Galunggung.**
 
 Pasir ini yaitu pasir hitam mutu paling unggul dikelasnya awam diaplikasikan oleh pabrik pengolahan beton readymix juga perusahan pembuatan precast dan kerap juga digunakan untuk bahan pembuatan batako press hitam, paving block dan lainnya. Pasir ini ditambang dari Tasikmalaya jawa barat.
@@ -100,21 +99,18 @@ Pasir ini yaitu pasir hitam mutu paling unggul dikelasnya awam diaplikasikan ole
 ![Harga Pasir Lampung Free Ongkir Ke Beji Depok](/images/info/jual-pasir-cor-hitam.jpg)
 
 - ### Pasir Untuk Adukan Pasang Batu, Pondasi, Bata, Ubin, Plester Di Beji Depok
-    
 
 ![Harga Pasir Lampung Free Ongkir Ke Beji Depok](/images/info/jual-pasir-mundu.jpg)
 
 Pasir ini lebih halus lagi dibandingi oleh pasir beton. kalau kamu mengepal pasir ini maka akan menggumpal dan tak akan buyar kembali. pasir pasang biasa nya di manfaatkan tuk adukan pasir beton agar tidak terlalu kasar dan dapat di gunakan untuk plesteran dinding.
 
 - ### Pasir Urug Untuk pengurugan lantai Di Beji Depok
-    
 
 Di Antara ke dua pasir diatas pasir tipe ini lebih halus lagi, seandainya kamu mengepal nya akan menggumpal dan tidak akan buyar lagi. namun pasir tipe
 
 Pada lazim nya pasir ini nyaris sama dengan pasir beton akan tapi pasir ini mempunyai tingkat kekasaran yang tinggi, butiran - butiran nya lumayan besar dan agak banyak batuan nya. pada biasanya pasir macam ini baik untuk bahan Pembuatan Batako
 
 - ### Pasir Putih Tanpa Batu Untuk Lapangan Voly Di Beji Depok
-    
 
 1. **Pasir Putih Bangka**
 

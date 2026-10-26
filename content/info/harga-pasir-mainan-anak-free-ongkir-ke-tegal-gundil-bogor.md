@@ -25,7 +25,7 @@ Berdasarkan Standar Nasional Indonesia ( SK SNI - S - 04 - 1989 - F ; 28) di seb
 
 Prasyarat Pasir yang Baik buat Konstruksi Bangunan
 
-1.  Agregat Halus patut terdiri dari butiran yg tajam dan keras dengan indeks kekerasan <2.2
+1.  Agregat Halus patut terdiri dari butiran yg tajam dan keras dengan indeks kekerasan <2.2
 2. bilamana dimanfaatkan Natrium Sulfat komponen hancur optimal dua belas persen
 3. kalau digunakan Magnesium Sulfat komponen halus optimal sepuluh persen
 4. Tidak boleh memuat tanah lebih dari 5%
@@ -41,7 +41,6 @@ Prasyarat Pasir yang Baik buat Konstruksi Bangunan
 setelah memahami syarat pasir buat suatu Konstruksi Bangunan, saat ini kita bahas Tipe - Jenis Pasir Untuk Bangunan penjelasan nya sebagai berikut:
 
 - ### Pasir Untuk Beton Di Tegal Gundil Bogor
-    
 
 Pasir ini lazim nya berwarna hitam pekat dan tingkat kekerasan butiran nya cukup tinggi. Namun sekiranya anda mengepal nya dengan tangan tidak akan menggumpal dan akan hancur kembali. model pasir ini amat lah bagus untuk Pengecoran, Plesteran Dinding, Adukan Pondasi dan Adukan Pasangan Bata Pasir ini yaitu pasir untuk Rigid yaitu butiran-butiran mineral keras dan tajam berukuran antara 0,075 – 5 mm, jikalau terdapat butiran berukuran lebih kecil dari 0,063 mm tidak lebih dari 5% berat. Pasir ini yaitu pasir untuk Cor hampir tak jarang dimanfaatkan untuk profesi cor-coran struktur seperti kolom, balok dan pelat lantai.
 
@@ -52,9 +51,9 @@ Harga Pasir Mainan Anak Free Ongkir Ke Tegal Gundil Bogor Sekiranya anda sebagai
 Pasir nomor satu diambil dari kp. jebrod cianjur jawa barat yang diaplikasikan oleh indocement serta perusahaan batching plant lainnya sebagai bahan dasar produksi readymix concrete. Pasir ini paling dianjurkan untuk cor sebab irit semen juga mempunyai kandungan lumpur yang betul-betul rendah dibawah 8%. warnanya Hitam abu tua atau hitam seperti hitamnya batu kali, ada juga yang hitam kemerahan atau hitam terasi
 
 3. **Pasir Hitam Beton Cimangkok.** Pasir diambil dari Tempat penambangannya di cimangkok sukabumi jawa barat yang masih masuk terhadap klasifikasi pasir hitam kelas satu di jawa barat, warnanya hitam kecoklatan layak untuk cor, pasang pondasi dan bata
-    
+
     ![Harga Pasir Mainan Anak Free Ongkir Ke Tegal Gundil Bogor](/images/info/pasir-hitam-8.jpg)
-    
+
 4. **Pasir Hitam Beton Cimalaka Subang Bandung.**
 
 Pasir nomor satu yang berwarna hitam kebauan ada juga yang berwarna hitam abu tua. Banyak di aplikasikan untuk Rigid, pasang dan keperluan lainnya. Ditambang di Desa cimalaka
@@ -90,9 +89,9 @@ Kecuali Rangkasbitung, Banten juga mempunyai lokasi pnembangan pasir lain sepert
 Masih dari Daerah di banten, pasir kelas tiga ini yaitu pasir yang banyak diterapkan di proyek proyek perumahan atau cluster sebab harganya yang murah juga kwalitas yang unggul. Warna pasir ini hitam kecoklatan dan keabuan benar-benar dianjurkan untuk pasang pondasi, bata, batu dan sebagainya
 
 27. **Pasir Hitam Cor Bohlam Sukabumi.** Pasir dari Kawasan kp. bohlam di sukabumi berwarna hitam kecoklatan, betul-betul bagus untuk pasang bata, pondasi dan sebagainya sebagai opsi pasir mutu baik dan murah
-    
+
     ![Harga Pasir Mainan Anak Free Ongkir Ke Tegal Gundil Bogor](/images/info/pasir-hitam-2.jpg)
-    
+
 28. **Pasir Beton Galunggung.**
 
 Pasir ini yakni pasir hitam kwalitas paling unggul dikelasnya umum digunakan oleh pabrik pengolahan beton readymix juga perusahan pembuatan precast dan sering kali juga digunakan untuk bahan pembuatan batako press hitam, paving block dsb. Pasir ini ditambang dari Tasikmalaya jawa barat.
@@ -100,21 +99,18 @@ Pasir ini yakni pasir hitam kwalitas paling unggul dikelasnya umum digunakan ole
 ![Harga Pasir Mainan Anak Free Ongkir Ke Tegal Gundil Bogor](/images/info/pasir-hitam-7.jpg)
 
 - ### Pasir Standar Di Tegal Gundil Bogor
-    
 
 ![Harga Pasir Mainan Anak Free Ongkir Ke Tegal Gundil Bogor](/images/info/pasir-hitam-11.jpg)
 
 Pasir ini lebih halus lagi diperbandingkan oleh pasir beton. apabila anda mengepal pasir ini maka akan menggumpal dan tidak akan hancur kembali. pasir pasang umum nya di gunakan buat adukan pasir beton supaya tidak kelewat kasar dan bisa di manfaatkan untuk plesteran dinding.
 
 - ### Pasir Elod Untuk pemadatan lantai Di Tegal Gundil Bogor
-    
 
 Di Antara ke dua pasir diatas pasir tipe ini lebih halus lagi, jika anda mengepal nya maka akan menggumpal dan tak akan hancur lagi. tapi pasir ragam tak bagus tuk di buat sebagai bahan bangunan. pasir ragam ini pada lazim nya di gunakan untuk Bahan Pembuatan Batako
 
 Pada biasa nya pasir ini nyaris sama dgn pasir beton namun pasir ini memiliki tingkat kekasaran yang tinggi, butiran - butiran nya lumayan besar dan agak banyak batuan nya. pada biasanya pasir tipe ini bagus untuk bahan dasaran pemasangan keramik
 
 - ### Pasir Putih Kadar Lumpur Rendah Untuk Pasang Bata Di Tegal Gundil Bogor
-    
 
 1. **Pasir Putih Bangka**
 

@@ -18,19 +18,19 @@ Tanpa adanya besi karenanya sebuah bangunan akan gampang retak saat ada guncanga
 
 ## Seperti Ini Jenis-jenis Besi Di Semanan Jakarta
 
-### 1\. Besi Polos Banci 4mm, 6mm, 8mm, 10mm, 12mm, 16mm, 18mm, 19mm Di Semanan Jakarta
+### 1. Besi Polos Banci 4mm, 6mm, 8mm, 10mm, 12mm, 16mm, 18mm, 19mm Di Semanan Jakarta
 
 Besi polos mempunyai ukuran mulai dari 8 mm hingga 25 mm dan mempunyai 6 meter panjang tekuk dan 12 meter panjang lurus. Besi beton ini mulai digunakan sebagai bahan utama di Indonesia pada tahun 1950. Besi ini sering kali kali dipakai untuk membangun sebuah gedung. Bahan yang mudah dipakai sehingga selain dari diaplikasikan untuk membangun rumah juga diterapkan untuk membangun trowongan, bendungan, dan lainnya. Ketika digunakan untuk membangun rumah bertingkat karenanya biasa besi polos ini digunakan untuk struktur tulangan balok, dinding, dan sloof. Besi beton polos ini mempunyai keunggulan besi polos ini tegangannya lebih tinggi dari pada besi lainnya. Jadi besi ini terkesan lebih kokoh dan tahan beban. Jadi pemakaian besi polos ini sungguh-sungguh cocok untuk membangun gedung, jembatan, dan bangunan lainnya. Besi polos ini terbuat dari bahan seperti billet dan skrap. Billet yaitu baja batangan yang proses pembuatannya dengan melebur biji besi. Kalau skrap yaitu besi bekas yang dihancurkan dengan temperature tertentu. Selain itu bila anda menggunakan besi polos ini tidak membutuhkan biaya pemeliharaan. Semakin lama diaplikasikan karenanya besi ini akan kian kokoh.
 
-### 2\. Besi Ulir Full 4mm, 6mm, 8mm, 10mm, 12mm, 16mm, 18mm, 19mm Di Semanan Jakarta
+### 2. Besi Ulir Full 4mm, 6mm, 8mm, 10mm, 12mm, 16mm, 18mm, 19mm Di Semanan Jakarta
 
 Sesuai dengan namanya besi beton ulir ini ialah besi yang karakternya mengulir. Pada permukaannya bercorak spiral yang mempunyai tujuan untuk menyatukan gerigi besi dengan faktor bahan bangunan yang dibangun oleh besi beton. Besi ulir ini mulai populer digunakan pada abad ke-20 di Amerika dan mulai populer di Indonesia pada tahun1950. Mengingat saat menerapkan besi ulir ini memiliki banyak kelebihan mulai dari kekuatan bangunan serta lebih murah dan efisien. Produk besi ulir ini menjadi primadona pasar karena memiliki mutu yang terbaik di Indonesia dan mempunyai harga yang tinggi kalau dibandingkan dengan produk lainnya.
 
-### 3\. Besi WF dan H-Beam KS Di Semanan Jakarta
+### 3. Besi WF dan H-Beam KS Di Semanan Jakarta
 
 Besi Wide Flange (WF) ini merupakan salah satu baja dengan struktural yang paling populer digunakan untuk kontruksi baja. Bila anda membutuhkan besi baja Wide Flage dalam quantitas yang banyak atau sedikit maka silahkan cari toko besi yang terpercaya. Besi WF ini mempunyai ketahanan yang kokoh dan kuat pada kekokohan tarik atau tekan. Karenanya dari itu besi ini menjadi faktor struktur yang memiliki batasan yang paripurna untuk menopang muatan tekan aksial, tarik aksial, dan lentur dengan fasilitas pembangunan strukturnya. Baja Wide Flange (WF) ini memiliki kepadatan yang tinggi tetapi rasio berat antara kekokohan bagian Baja WF yang tinggi namun tdk begitu berat yang terkait dengan kapasitas muatan. Selain itu menetapkan jika kontruksi yang dipakai secara efisien. Cara kontruksi baja WF ini kombinasi dari unsur struktur yang rumit. Pada struktur ini memiliki tujuan membawa beban yang aman dan tepat sasaran yang berefek pada sebuah bangunan dan dikirim pada pondasinya. Gaya dan beban yang berefek ini termasuk muatan pertikal, perbedaan suhu, horizontal, getaran dan lainnya. Pada sebuah bangunan baja, maka ada unsure yang berguna menopang gaya lateral dan gravitasi.
 
-### 4\. Besi Holo Di Semanan Jakarta
+### 4. Besi Holo Di Semanan Jakarta
 
 Besi hollow merupakan besi yang dipakai sebagai pembuatan kanopi, pagar, pintu besi dan lainnya. Bahan baku pembuatan besi Hollow ini biasanya terbuat dari stainless, galvanis, dan besi baja. Namun yang paling kerap diaplikasikan sebagai bahan baku yaitu galvanis. Terdapat kelebihan yang anda peroleh ketika mengaplikasikan kanopi, memasang pagar, teralis menggunakan besi hollow:
 

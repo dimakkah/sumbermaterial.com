@@ -25,7 +25,7 @@ Menurut Standar Nasional Indonesia ( SK SNI - S - 04 - 1989 - F ; 28) di sebutka
 
 Syarat-Syarat Pasir yg Bagus buat Konstruksi Bangunan
 
-1.  Agregat Halus semestinya terdiri dari butiran yang tajam dan keras dengan indeks kekerasan <2.2
+1.  Agregat Halus semestinya terdiri dari butiran yang tajam dan keras dengan indeks kekerasan <2.2
 2. seandainya diaplikasikan Natrium Sulfat komponen hancur maksimal dua belas %
 3. sekiranya diaplikasikan Magnesium Sulfat bagian halus optimal sepuluh %
 4. Tak boleh mengandung tanah lebih dari 5 persen
@@ -41,7 +41,6 @@ Syarat-Syarat Pasir yg Bagus buat Konstruksi Bangunan
 Sesudah tahu persis syarat pasir untuk sebuah Konstruksi, saat ini kita bahas Ragam - Tipe Pasir Untuk Konstruksi Bangunan penjelasan nya berikut ini:
 
 - ### Pasir Beton Di Serua Depok
-    
 
 Pasir ini umum nya berwarna hitam pekat dan tingkat kekerasan butiran nya cukup tinggi. Tapi jika anda mengepal nya dengan tangan tak akan menggumpal dan akan buyar kembali. jenis pasir ini sungguh-sungguh lah baik untuk Pengecoran, Plesteran Dinding, Adukan Pondasi dan Adukan Pasangan Bata Pasir ini yaitu pasir untuk Rigid adalah butiran-butiran mineral keras dan tajam berukuran antara 0,075 – 5 mm, jika terdapat butiran berukuran lebih kecil dari 0,063 mm tidak lebih dari 5% berat. Pasir ini yaitu pasir untuk Rigid sering kali dipakai untuk pekerjaan cor-coran struktur seperti kolom, balok dan pelat lantai.
 
@@ -59,21 +58,18 @@ Untuk menerima kualitas Cor yang optimal maka pasir patut bisa memenuhi prasyara
 ![Harga Pasir Mundu Free Ongkir Ke Serua Depok](/images/info/pasir-hitam-8.jpg)
 
 - ### Pasir Untuk Adukan Pasang Batu, Pondasi, Bata, Ubin, Plester Di Serua Depok
-    
 
 ![Harga Pasir Mundu Free Ongkir Ke Serua Depok](/images/info/jual-pasir-mundu-2.jpg)
 
 Pasir ini ekstra halus lagi dibandingi oleh pasir beton. apabila anda mengepal pasir ini maka akan menggumpal dan tidak akan buyar kembali. pasir pasang umum nya di gunakan buat campuran pasir beton supaya tak terlalu kasar dan dapat di gunakan untuk plesteran dinding.
 
 - ### Pasir Urug Untuk Dasaran Pemasangan Marmer Di Serua Depok
-    
 
 Di Antara ke dua pasir diatas pasir tipe ini lebih halus lagi, jikalau kalian mengepal nya akan menggumpal dan tak akan buyar lagi. tetapi pasir jenis
 
 Pada nya pasir ini nyaris sama dgn pasir beton akan tetapi pasir ini memiliki tingkat kekasaran yang tinggi, butiran - butiran nya cukup besar dan agak banyak batuan nya. pada biasanya pasir macam ini baik untuk bahan pengurugan lantai
 
 - ### Pasir Putih Kadar Lumpur Rendah Untuk Lapangan Voly Di Serua Depok
-    
 
 1. **Pasir Putih Bangka**
 

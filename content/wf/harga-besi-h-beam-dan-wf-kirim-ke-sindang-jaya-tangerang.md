@@ -50,13 +50,13 @@ d. tdk dapat menjangkau tempat yang sempit. Mengingat Besi WF ini berukuran panj
 
 ### Kelebihan Dari Besi WF Di Sindang Jaya Tangerang
 
-1\. Bisa mengurangi waktu dalam pembangunan sebuah konstruksi bangunan, menghemat waktu dan juga memaksimalkan ongkos dan pemasang.
+1. Bisa mengurangi waktu dalam pembangunan sebuah konstruksi bangunan, menghemat waktu dan juga memaksimalkan ongkos dan pemasang.
 
-2\. Bisa menyangga muatan yang amat berat, tidak mudah memuai dan lebih simple pengaplikasiannya dibanding dengan material struktural lainnya.
+2. Bisa menyangga muatan yang amat berat, tidak mudah memuai dan lebih simple pengaplikasiannya dibanding dengan material struktural lainnya.
 
-3\. Memiliki fleksibilitas yang tinggi. Sehingga struktur bangunan yang dibuat dari Besi WF ini menjadi lebih kuat tidak mudah bergeser, tidak mudah roboh maupun goyang. Sangat sesuai untuk ragam bangunan diatas tanah yang labil atau sering kali terjadi longsor.
+3. Memiliki fleksibilitas yang tinggi. Sehingga struktur bangunan yang dibuat dari Besi WF ini menjadi lebih kuat tidak mudah bergeser, tidak mudah roboh maupun goyang. Sangat sesuai untuk ragam bangunan diatas tanah yang labil atau sering kali terjadi longsor.
 
-4\. Lebih hemat sebab struktur bangunan yang menerapkan Besi WF akan memiliki kekokohan yang cukup lama malah sampai ratusan tahun. Tentunya ini adalah investasi yang amat murah kalau kita bandingkan dengan waktu pakai. Malahan bangunan yang dibangun dengan rangka Besi WF dapat kita wariskan terhadap anak cucu kita.
+4. Lebih hemat sebab struktur bangunan yang menerapkan Besi WF akan memiliki kekokohan yang cukup lama malah sampai ratusan tahun. Tentunya ini adalah investasi yang amat murah kalau kita bandingkan dengan waktu pakai. Malahan bangunan yang dibangun dengan rangka Besi WF dapat kita wariskan terhadap anak cucu kita.
 
 ## Mengetahui Besi H Beam Di Sindang Jaya Tangerang
 
@@ -72,15 +72,15 @@ Sama seperti besi yang kami terangkan sebelumnya adalah Besi WF, besi H-Beam mal
 
 ### Kelebihan Besi H Beam Di Sindang Jaya Tangerang
 
-1\. Mudah untuk didapatkan. Banyak toko besi yang menyediakan stok besi H-Beam bermacam jenis ukuran. Sehingga besi H-Beam ini sangat mudah untuk didapatkan, tdk susah untuk mendapatkan toko besi yang memasarkan besi H Beam.
+1. Mudah untuk didapatkan. Banyak toko besi yang menyediakan stok besi H-Beam bermacam jenis ukuran. Sehingga besi H-Beam ini sangat mudah untuk didapatkan, tdk susah untuk mendapatkan toko besi yang memasarkan besi H Beam.
 
-2\. Mudah Dalam Pemasangan. Banyak tukang ahli dalam pemasangan besi H Beam. Walaupun besi H-Beam ini mesti dipasang oleh tukang yang berpengalaman tapi tukang yang ahli dalam memasang besi H Beam ini sangat banyak kita temui hari ini. Sehingga tidak perlu dikhawatirkan lagi pelaksanaan pemasangannya.
+2. Mudah Dalam Pemasangan. Banyak tukang ahli dalam pemasangan besi H Beam. Walaupun besi H-Beam ini mesti dipasang oleh tukang yang berpengalaman tapi tukang yang ahli dalam memasang besi H Beam ini sangat banyak kita temui hari ini. Sehingga tidak perlu dikhawatirkan lagi pelaksanaan pemasangannya.
 
-3\. Mempunyai kekuatan yang tidak diragukan lagi. Besi H Beam sudah teruji selama bertahun-tahun dalam kontruksi bangunan. Baik skala kecil maupun skala besar dan terbilang sangat awet seandainya diperbandingkan dengan material lainnya. Dapat bertahan hingga puluhan sampai ratusan tahun.
+3. Mempunyai kekuatan yang tidak diragukan lagi. Besi H Beam sudah teruji selama bertahun-tahun dalam kontruksi bangunan. Baik skala kecil maupun skala besar dan terbilang sangat awet seandainya diperbandingkan dengan material lainnya. Dapat bertahan hingga puluhan sampai ratusan tahun.
 
-4\. Gampang dalam perawatannya. Bangunan yang memakai besi H Beam sebagai struktur tulangan bangunannya akan amat mudah dalam melaksanakan pemeliharaannya. tdk perlu pengecatan dengan cat khusus ataupun pembersihan tiap-tiap saat.
+4. Gampang dalam perawatannya. Bangunan yang memakai besi H Beam sebagai struktur tulangan bangunannya akan amat mudah dalam melaksanakan pemeliharaannya. tdk perlu pengecatan dengan cat khusus ataupun pembersihan tiap-tiap saat.
 
-5\. Memaksimalkan pemakaian material lainnya, seperti pengaplikasian bekisting, penerapan perancah atau perancah dan juga material pasir. Besi H Beam tidak membutuhkan material pasir dalam pemakaiannya.
+5. Memaksimalkan pemakaian material lainnya, seperti pengaplikasian bekisting, penerapan perancah atau perancah dan juga material pasir. Besi H Beam tidak membutuhkan material pasir dalam pemakaiannya.
 
 ### Kekurangan Dari Besi H Beam Di Sindang Jaya Tangerang
 

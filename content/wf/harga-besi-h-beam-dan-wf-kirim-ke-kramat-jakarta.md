@@ -50,13 +50,13 @@ d. tdk bisa menjangkau area yang sempit. Mengingat Besi WF ini berukuran panjang
 
 ### Keunggulan Dari Besi WF Di Kramat Jakarta
 
-1\. Dapat mengurangi waktu dalam pembangunan sebuah konstruksi bangunan, mengurangi waktu dan juga menghemat ongkos dan tukang pasang.
+1. Dapat mengurangi waktu dalam pembangunan sebuah konstruksi bangunan, mengurangi waktu dan juga menghemat ongkos dan tukang pasang.
 
-2\. Bisa menyangga muatan yang betul-betul berat, tdk gampang memuai dan lebih simple penerapannya dibanding dengan material struktural lainnya.
+2. Bisa menyangga muatan yang betul-betul berat, tdk gampang memuai dan lebih simple penerapannya dibanding dengan material struktural lainnya.
 
-3\. Mempunyai fleksibilitas yang tinggi. Sehingga struktur bangunan yang diwujudkan dari Besi WF ini menjadi lebih kuat tidak mudah bergeser, tidak mudah runtuh ataupun goyang. Sangat pantas untuk macam bangunan diatas tanah yang labil atau sering kali terjadi goncangan.
+3. Mempunyai fleksibilitas yang tinggi. Sehingga struktur bangunan yang diwujudkan dari Besi WF ini menjadi lebih kuat tidak mudah bergeser, tidak mudah runtuh ataupun goyang. Sangat pantas untuk macam bangunan diatas tanah yang labil atau sering kali terjadi goncangan.
 
-4\. Lebih hemat karena struktur bangunan yang menggunakan Besi WF akan mempunyai kekokohan yang cukup lama malahan sampai ratusan tahun. Tentunya ini yaitu investasi yang sangat murah seandainya kita bandingkan dengan waktu gunakan. Malah bangunan yang dibangun dengan rangka Besi WF bisa kita wariskan terhadap anak cucu kita.
+4. Lebih hemat karena struktur bangunan yang menggunakan Besi WF akan mempunyai kekokohan yang cukup lama malahan sampai ratusan tahun. Tentunya ini yaitu investasi yang sangat murah seandainya kita bandingkan dengan waktu gunakan. Malah bangunan yang dibangun dengan rangka Besi WF bisa kita wariskan terhadap anak cucu kita.
 
 ## Mengetahui Besi H Beam Di Kramat Jakarta
 
@@ -72,15 +72,15 @@ Sama seperti besi yang kami terangkan sebelumnya yakni Besi WF, besi H-Beam mala
 
 ### Keunggulan Besi H Beam Di Kramat Jakarta
 
-1\. Mudah untuk didapat. Banyak supplier besi yang menyediakan stok besi H-Beam berbagai ukuran. Sehingga besi H-Beam ini benar-benar mudah untuk didapatkan, tdk sulit untuk mendapatkan supplier besi yang menjual besi H Beam.
+1. Mudah untuk didapat. Banyak supplier besi yang menyediakan stok besi H-Beam berbagai ukuran. Sehingga besi H-Beam ini benar-benar mudah untuk didapatkan, tdk sulit untuk mendapatkan supplier besi yang menjual besi H Beam.
 
-2\. Mudah Dalam Pemasangan. Banyak tukang spesialis dalam pemasangan besi H Beam. Meskipun besi H-Beam ini harus dipasang oleh tukang yang ahli namun tukang yang profesional dalam memasang besi H Beam ini benar-benar banyak kita temui hari ini. Sehingga tidak perlu dikhawatirkan lagi pengerjaan pemasangannya.
+2. Mudah Dalam Pemasangan. Banyak tukang spesialis dalam pemasangan besi H Beam. Meskipun besi H-Beam ini harus dipasang oleh tukang yang ahli namun tukang yang profesional dalam memasang besi H Beam ini benar-benar banyak kita temui hari ini. Sehingga tidak perlu dikhawatirkan lagi pengerjaan pemasangannya.
 
-3\. Mempunyai ketahanan yang tidak diragukan lagi. Besi H Beam sudah teruji selama bertahun-tahun dalam kontruksi bangunan. Baik skala kecil ataupun skala besar dan terbilang betul-betul kuat jikalau dibandingi dengan material lainnya. Bisa bertahan hingga puluhan sampai ratusan tahun.
+3. Mempunyai ketahanan yang tidak diragukan lagi. Besi H Beam sudah teruji selama bertahun-tahun dalam kontruksi bangunan. Baik skala kecil ataupun skala besar dan terbilang betul-betul kuat jikalau dibandingi dengan material lainnya. Bisa bertahan hingga puluhan sampai ratusan tahun.
 
-4\. Gampang dalam pemeliharaannya. Bangunan yang memakai besi H Beam sebagai struktur tulangan bangunannya akan sangat gampang dalam melaksanakan perawatannya. tidak perlu pengecatan dengan cat khusus maupun pembersihan tiap-tiap saat.
+4. Gampang dalam pemeliharaannya. Bangunan yang memakai besi H Beam sebagai struktur tulangan bangunannya akan sangat gampang dalam melaksanakan perawatannya. tidak perlu pengecatan dengan cat khusus maupun pembersihan tiap-tiap saat.
 
-5\. Memaksimalkan penggunaan material lainnya, seperti pemakaian bekisting, pengaplikasian perancah atau tiang penyangga dan juga material pasir. Besi H Beam Tdk membutuhkan material pasir dalam pengaplikasiannya.
+5. Memaksimalkan penggunaan material lainnya, seperti pemakaian bekisting, pengaplikasian perancah atau tiang penyangga dan juga material pasir. Besi H Beam Tdk membutuhkan material pasir dalam pengaplikasiannya.
 
 ### Kekurangan Dari Besi H Beam Di Kramat Jakarta
 

@@ -50,13 +50,13 @@ d. tdk bisa menjangkau tempat yang sempit. Mengingat Besi WF ini berukuran panja
 
 ### Keunggulan Dari Besi WF Di Semper Jakarta
 
-1\. Bisa mengurangi waktu dalam pembangunan sebuah konstruksi bangunan, menghemat waktu dan juga menghemat ongkos dan tenaga tukang.
+1. Bisa mengurangi waktu dalam pembangunan sebuah konstruksi bangunan, menghemat waktu dan juga menghemat ongkos dan tenaga tukang.
 
-2\. Bisa menyangga beban yang benar-benar berat, tdk gampang memuai dan lebih simple pemakaiannya dibanding dengan material struktural lainnya.
+2. Bisa menyangga beban yang benar-benar berat, tdk gampang memuai dan lebih simple pemakaiannya dibanding dengan material struktural lainnya.
 
-3\. Memiliki fleksibilitas yang tinggi. Sehingga struktur bangunan yang dibuat dari Besi WF ini menjadi lebih kuat tdk mudah bergeser, tidak mudah ambrol maupun goyang. Amat pantas untuk variasi bangunan diatas tanah yang labil atau sering terjadi gempa.
+3. Memiliki fleksibilitas yang tinggi. Sehingga struktur bangunan yang dibuat dari Besi WF ini menjadi lebih kuat tdk mudah bergeser, tidak mudah ambrol maupun goyang. Amat pantas untuk variasi bangunan diatas tanah yang labil atau sering terjadi gempa.
 
-4\. Lebih hemat karena struktur bangunan yang menggunakan Besi WF akan mempunyai kekuatan yang cukup lama malahan hingga ratusan tahun. Tentunya ini yaitu investasi yang betul-betul murah jikalau kita bandingkan dengan waktu pakai. Bahkan bangunan yang dibangun dengan tulangan Besi WF bisa kita wariskan terhadap anak cucu kita.
+4. Lebih hemat karena struktur bangunan yang menggunakan Besi WF akan mempunyai kekuatan yang cukup lama malahan hingga ratusan tahun. Tentunya ini yaitu investasi yang betul-betul murah jikalau kita bandingkan dengan waktu pakai. Bahkan bangunan yang dibangun dengan tulangan Besi WF bisa kita wariskan terhadap anak cucu kita.
 
 ## Mengetahui Besi H Beam Di Semper Jakarta
 
@@ -72,15 +72,15 @@ Sama seperti besi yang kami paparkan sebelumnya merupakan Besi WF, besi H-Beam m
 
 ### Keunggulan Besi H Beam Di Semper Jakarta
 
-1\. Mudah untuk didapat. Banyak toko besi yang menyediakan stok besi H-Beam beragam ukuran. Sehingga besi H-Beam ini sungguh-sungguh gampang untuk didapat, tdk sulit untuk memperoleh supplier besi yang memasarkan besi H Beam.
+1. Mudah untuk didapat. Banyak toko besi yang menyediakan stok besi H-Beam beragam ukuran. Sehingga besi H-Beam ini sungguh-sungguh gampang untuk didapat, tdk sulit untuk memperoleh supplier besi yang memasarkan besi H Beam.
 
-2\. Mudah Dalam Pemasangan. Banyak tukang ahli dalam pemasangan besi H Beam. Meskipun besi H-Beam ini mesti dipasang oleh tukang yang berpengalaman namun tukang yang ahli dalam memasang besi H Beam ini sungguh-sungguh banyak kita temui hari ini. Sehingga tidak perlu dikhawatirkan lagi pelaksanaan pemasangannya.
+2. Mudah Dalam Pemasangan. Banyak tukang ahli dalam pemasangan besi H Beam. Meskipun besi H-Beam ini mesti dipasang oleh tukang yang berpengalaman namun tukang yang ahli dalam memasang besi H Beam ini sungguh-sungguh banyak kita temui hari ini. Sehingga tidak perlu dikhawatirkan lagi pelaksanaan pemasangannya.
 
-3\. Mempunyai daya tahan yang tidak diragukan lagi. Besi H Beam sudah teruji selama bertahun-tahun dalam kontruksi bangunan. Baik skala kecil ataupun skala besar dan terbilang betul-betul kuat jika dibandingi dengan material lainnya. Bisa bertahan sampai puluhan hingga ratusan tahun.
+3. Mempunyai daya tahan yang tidak diragukan lagi. Besi H Beam sudah teruji selama bertahun-tahun dalam kontruksi bangunan. Baik skala kecil ataupun skala besar dan terbilang betul-betul kuat jika dibandingi dengan material lainnya. Bisa bertahan sampai puluhan hingga ratusan tahun.
 
-4\. Mudah dalam perawatannya. Bangunan yang mengaplikasikan besi H Beam sebagai struktur tulangan bangunannya akan sangat gampang dalam menjalankan perawatannya. tdk perlu pengecatan dengan cat khusus maupun pembersihan tiap-tiap saat.
+4. Mudah dalam perawatannya. Bangunan yang mengaplikasikan besi H Beam sebagai struktur tulangan bangunannya akan sangat gampang dalam menjalankan perawatannya. tdk perlu pengecatan dengan cat khusus maupun pembersihan tiap-tiap saat.
 
-5\. Menghemat penggunaan material lainnya, seperti penerapan bekisting, pemakaian tiang penyangga atau tiang penyangga dan juga material pasir. Besi H Beam tidak memerlukan material pasir dalam penerapannya.
+5. Menghemat penggunaan material lainnya, seperti penerapan bekisting, pemakaian tiang penyangga atau tiang penyangga dan juga material pasir. Besi H Beam tidak memerlukan material pasir dalam penerapannya.
 
 ### Kekurangan Dari Besi H Beam Di Semper Jakarta
 

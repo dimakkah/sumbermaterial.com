@@ -25,7 +25,7 @@ berdasarkan Standar Nasional Indonesia ( SK SNI - S - 04 - 1989 - F ; 28) di tut
 
 Syarat Pasir yg Bagus tuk Konstruksi
 
-1.  Agregat Halus patut terdiri dari butiran yg tajam dan keras dengan indeks kekerasan <2.2
+1.  Agregat Halus patut terdiri dari butiran yg tajam dan keras dengan indeks kekerasan <2.2
 2. Jikalau dipakai Natrium Sulfat bagian hancur optimal dua belas persen
 3. seandainya diaplikasikan Magnesium Sulfat bagian halus optimal 10%
 4. Tak boleh memuat clay lebih dari lima persen
@@ -41,7 +41,6 @@ Syarat Pasir yg Bagus tuk Konstruksi
 Sesudah tahu persis persyaratan pasir tuk sebuah Konstruksi Bangunan, saat ini kita bahas Tipe - model Pasir Untuk Konstruksi Bangunan penjelasan nya sebagai berikut:
 
 - ### Pasir Jenis Cor dan Lokasi Sumbernya Di Karawang Timur Karawang
-    
 
 Pasir ini biasa nya berwarna coklat tua dan tingkat kekasaran butiran nya lumayan tinggi. Tapi sekiranya anda mengepal nya dengan tangan tak akan lengket dan akan hancur kembali. macam pasir ini sungguh-sungguh lah baik tuk Pengecoran, Plesteran Dinding, Adukan Pondasi dan Adukan Pasangan Bata Pasir ini yaitu pasir untuk Rigid yaitu butiran-butiran mineral keras dan tajam berukuran antara 0,075 – 5 mm, seandainya terdapat butiran berukuran lebih kecil dari 0,063 mm tak lebih dari 5% berat. Pasir ini yaitu pasir untuk Beton hampir acap kali dipakai untuk pekerjaan cor-coran struktur seperti kolom, balok dan pelat lantai.
 
@@ -59,21 +58,18 @@ Untuk mendapat ketahanan Beton yang maksimal maka pasir seharusnya sanggup memen
 ![Harga Pasir Mundu Free Ongkir Ke Karawang Timur Karawang](/images/info/pasir-hitam-8.jpg)
 
 - ### Pasir Untuk Pemasangan Batu, Pondasi, Bata, Ubin, Plester Di Karawang Timur Karawang
-    
 
 ![Harga Pasir Mundu Free Ongkir Ke Karawang Timur Karawang](/images/info/pasir-hitam-11.jpg)
 
 Pasir ini ekstra halus lagi diperbandingkan oleh pasir beton. jika kalian mengepal pasir ini maka akan menggumpal dan tidak akan hancur kembali. pasir pasang lazim nya di manfaatkan buat campuran pasir beton supaya tidak kelewat kasar dan dapat di pakai untuk plesteran dinding.
 
 - ### Pasir Urug Untuk Dasaran Pemasangan Granit Di Karawang Timur Karawang
-    
 
 Di Antara ke dua pasir diatas pasir tipe ini lebih halus lagi, jikalau kamu mengepal nya akan menggumpal dan tak akan hancur lagi. tapi pasir tipe
 
 Pada lazim nya pasir ini nyaris sama dengan pasir beton melainkan pasir ini mempunyai tingkat kekasaran yg tinggi, butiran - butiran nya cukup besar dan agak banyak batuan nya. pada biasanya pasir macam ini baik untuk bahan dasaran pemasangan keramik
 
 - ### Pasir Putih Kadar Lumpur Rendah Untuk Pasang Bata Di Karawang Timur Karawang
-    
 
 1. **Pasir Putih Bangka**
 

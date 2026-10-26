@@ -16,7 +16,7 @@ sekarang ini bahan yg dipakai untuk mengisi dinding gedung, sudah terdapat berag
 
 ## Mengenal Tipe-tipe Bata
 
-### 1\. Bata Merah Standar & Jumbo Di Duri Selatan Jakarta
+### 1. Bata Merah Standar & Jumbo Di Duri Selatan Jakarta
 
 ![Harga Batako Putih Gratis Ongkir Ke Duri Selatan Jakarta](/images/bata/bata-merah-oven-09.png)
 
@@ -26,7 +26,7 @@ Bata merah ini diwujudkan dari bahan tanah yg kemudian di cetak dan dibakar dg s
 
 Material bangunan ini benar-benar kuat terhadap panas dan cocok dijadikan proteksi dari panas api. Bata merah ini pada biasanya memiliki ukuran panjang antara 17-23 cm dan lebar sekitar 7-11 cm, serta tebalnya 3-5 cm. mempunyai ukuran yang lebih kecil akan memberi kemudahan dalam pelaksanaan pengangkutan dan bisa dipakai untuk menyusun bidang kecil.
 
-### 2\. Batako Hitam dan Putih Di Duri Selatan Jakarta
+### 2. Batako Hitam dan Putih Di Duri Selatan Jakarta
 
 ![Harga Batako Putih Gratis Ongkir Ke Duri Selatan Jakarta](/images/bata/batako-hitam-press-24.png)
 
@@ -34,7 +34,7 @@ Material bangunan dinding dari batako press ini secara lazimnya terbuat dari bah
 
 Batako seperti ini memiliki kelemahan seperti mudah pecah, lebih panas dan pengap. Berbeda dg bata merah yg terbuat dari material tanah. Tetapi batako trus ini cenderung lebih ringan ketimbang bata merah. Walhasil akan terlihat lebih halus dan ukurannya lebih presisi sekiranya dibandingkan dg bata merah. Batako trus Hitam ini memiliki ukuran panjang sekitar 36-40 cm, tinggi 18-20 cm dan tebal 8-10 cm. material ini tak jarang dipilih sebab untuk memperingan bobot struktur bangunan, meminimalisir sisa material dan mempermudah pembangunan.
 
-### 3\. Bata Ringan Di Duri Selatan Jakarta
+### 3. Bata Ringan Di Duri Selatan Jakarta
 
 ![Harga Batako Putih Gratis Ongkir Ke Duri Selatan Jakarta](/images/bata/bata-hebel-sni-06.png)
 
@@ -62,7 +62,7 @@ Seluruhnya tentu sudah tahu fungsi utama batu bata mulai digunakan untuk membuat
 
 Cara mengorder batu bata yang aman dan terpercaya:
 
-1.  Pengerjaan pembayaran dapat anda lakukan secara COD atau dibayar di daerah ketika barang orderan anda sudah datang di daerah
+1.  Pengerjaan pembayaran dapat anda lakukan secara COD atau dibayar di daerah ketika barang orderan anda sudah datang di daerah
 2. Silahkan memilih dan memastikan bahan batu bata yg anda inginkan
 3. Tentukan juga jumlah pesanan batu bata yang anda butuhkan dalam format bijian.
 4. Anda dapat menghubungi layanan telepon toko untuk mempermudah pelaksanaan pengorderan

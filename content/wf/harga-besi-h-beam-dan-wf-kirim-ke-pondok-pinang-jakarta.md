@@ -50,13 +50,13 @@ d. tdk dapat menjangkau area yang sempit. Mengingat Besi WF ini berukuran panjan
 
 ### Keunggulan Dari Besi WF Di Pondok Pinang Jakarta
 
-1\. Dapat mengurangi waktu dalam pembangunan sebuah konstruksi bangunan, menghemat waktu dan juga menghemat biaya dan pemasang.
+1. Dapat mengurangi waktu dalam pembangunan sebuah konstruksi bangunan, menghemat waktu dan juga menghemat biaya dan pemasang.
 
-2\. Bisa menopang beban yang sungguh-sungguh berat, tdk mudah memuai dan lebih simple pemakaiannya dibanding dengan material struktural lainnya.
+2. Bisa menopang beban yang sungguh-sungguh berat, tdk mudah memuai dan lebih simple pemakaiannya dibanding dengan material struktural lainnya.
 
-3\. Memiliki fleksibilitas yang tinggi. Sehingga struktur bangunan yang diciptakan dari Besi WF ini menjadi lebih kuat tidak mudah bergeser, tidak mudah ambruk maupun goyang. Amat layak untuk jenis bangunan diatas tanah yang labil atau kerap kali terjadi gempa.
+3. Memiliki fleksibilitas yang tinggi. Sehingga struktur bangunan yang diciptakan dari Besi WF ini menjadi lebih kuat tidak mudah bergeser, tidak mudah ambruk maupun goyang. Amat layak untuk jenis bangunan diatas tanah yang labil atau kerap kali terjadi gempa.
 
-4\. Lebih hemat sebab struktur bangunan yang menerapkan Besi WF akan mempunyai kekokohan yang cukup lama malah sampai ratusan tahun. Tentunya ini yakni investasi yang amat murah jika kita bandingkan dengan waktu pakai. Bahkan bangunan yang dibangun dengan rangka Besi WF dapat kita wariskan kepada anak cucu kita.
+4. Lebih hemat sebab struktur bangunan yang menerapkan Besi WF akan mempunyai kekokohan yang cukup lama malah sampai ratusan tahun. Tentunya ini yakni investasi yang amat murah jika kita bandingkan dengan waktu pakai. Bahkan bangunan yang dibangun dengan rangka Besi WF dapat kita wariskan kepada anak cucu kita.
 
 ## Mengetahui Besi H Beam Di Pondok Pinang Jakarta
 
@@ -72,15 +72,15 @@ Sama seperti besi yang kami paparkan sebelumnya yakni Besi WF, besi H-Beam malah
 
 ### Keunggulan Besi H Beam Di Pondok Pinang Jakarta
 
-1\. Mudah untuk didapat. Banyak supplier besi yang menyediakan stok besi H-Beam bermacam jenis ukuran. Sehingga besi H-Beam ini betul-betul mudah untuk didapatkan, tidak susah untuk memperoleh supplier besi yang memasarkan besi H Beam.
+1. Mudah untuk didapat. Banyak supplier besi yang menyediakan stok besi H-Beam bermacam jenis ukuran. Sehingga besi H-Beam ini betul-betul mudah untuk didapatkan, tidak susah untuk memperoleh supplier besi yang memasarkan besi H Beam.
 
-2\. Mudah Dalam Pemasangan. Banyak tukang ahli dalam pemasangan besi H Beam. Meskipun besi H-Beam ini semestinya dipasang oleh tukang yang ahli akan tetapi tukang yang berpengalaman dalam memasang besi H Beam ini sangat banyak kita temui hari ini. Sehingga tdk perlu dikhawatirkan lagi progres pemasangannya.
+2. Mudah Dalam Pemasangan. Banyak tukang ahli dalam pemasangan besi H Beam. Meskipun besi H-Beam ini semestinya dipasang oleh tukang yang ahli akan tetapi tukang yang berpengalaman dalam memasang besi H Beam ini sangat banyak kita temui hari ini. Sehingga tdk perlu dikhawatirkan lagi progres pemasangannya.
 
-3\. Mempunyai kekuatan yang tdk diragukan lagi. Besi H Beam telah teruji selama bertahun-tahun dalam kontruksi bangunan. Apakah skala kecil ataupun skala besar dan terbilang sungguh-sungguh kuat kalau dibandingkan dengan material lainnya. Dapat bertahan hingga puluhan sampai ratusan tahun.
+3. Mempunyai kekuatan yang tdk diragukan lagi. Besi H Beam telah teruji selama bertahun-tahun dalam kontruksi bangunan. Apakah skala kecil ataupun skala besar dan terbilang sungguh-sungguh kuat kalau dibandingkan dengan material lainnya. Dapat bertahan hingga puluhan sampai ratusan tahun.
 
-4\. Gampang dalam pemeliharaannya. Bangunan yang memakai besi H Beam sebagai struktur tulangan bangunannya akan sangat gampang dalam melakukan perawatannya. tidak perlu pengecatan dengan cat khusus ataupun pembersihan tiap waktu.
+4. Gampang dalam pemeliharaannya. Bangunan yang memakai besi H Beam sebagai struktur tulangan bangunannya akan sangat gampang dalam melakukan perawatannya. tidak perlu pengecatan dengan cat khusus ataupun pembersihan tiap waktu.
 
-5\. Memaksimalkan penggunaan material lainnya, seperti pemakaian bekisting, pemakaian perancah atau perancah dan juga material pasir. Besi H Beam tidak memerlukan material pasir dalam penggunaannya.
+5. Memaksimalkan penggunaan material lainnya, seperti pemakaian bekisting, pemakaian perancah atau perancah dan juga material pasir. Besi H Beam tidak memerlukan material pasir dalam penggunaannya.
 
 ### Kekurangan Dari Besi H Beam Di Pondok Pinang Jakarta
 

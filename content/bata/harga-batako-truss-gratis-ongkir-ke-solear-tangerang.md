@@ -16,7 +16,7 @@ sekarang ini material yg digunakan untuk mengisi tembok rumah, sudah terdapat be
 
 ## Mengenal Jenis-jenis Bata
 
-### 1\. Bata Merah Standar & Jumbo Di Solear Tangerang
+### 1. Bata Merah Standar & Jumbo Di Solear Tangerang
 
 ![Harga Batako Truss Gratis Ongkir Ke Solear Tangerang](/images/bata/bata-merah-oven-01.png)
 
@@ -26,7 +26,7 @@ Bata merah ini diciptakan dari bahan tanah yang kemudian di bentuk dan dibakar d
 
 Material bangunan ini sungguh-sungguh tahan kepada panas dan pantas dijadikan pengamanan dari panas api. Bata merah ini pada umumnya memiliki ukuran panjang antara 17-23 cm dan lebar sekitar 7-11 cm, serta tebalnya 3-5 cm. mempunyai ukuran yg lebih kecil akan memberi kemudahan dalam pengerjaan pengangkutan dan bisa diaplikasikan untuk membentuk bidang kecil.
 
-### 2\. Batako Hitam dan Putih Di Solear Tangerang
+### 2. Batako Hitam dan Putih Di Solear Tangerang
 
 ![Harga Batako Truss Gratis Ongkir Ke Solear Tangerang](/images/bata/batako-hitam-press-31.png)
 
@@ -34,7 +34,7 @@ Bahan bangunan tembok dari batako ini secara biasa terbuat dari bahan Komposisi 
 
 Batako seperti ini memiliki kekurangan seperti gampang retak, lebih panas dan pengap. Berbeda dg bata merah yg terbuat dari material tanah. Melainkan batako ini cenderung lebih ringan ketimbang bata merah. Alhasil akan terlihat lebih halus dan ukurannya lebih presisi sekiranya diperbandingkan dg bata merah. Batako trus Hitam ini mempunyai ukuran panjang sekitar 36-40 cm, tinggi 18-20 cm dan tebal 8-10 cm. material ini sering dipilih karena untuk memperingan beban struktur bangunan, meminimalisir sisa material dan mempercepat pembangunan.
 
-### 3\. Bata Hebel Di Solear Tangerang
+### 3. Bata Hebel Di Solear Tangerang
 
 ![Harga Batako Truss Gratis Ongkir Ke Solear Tangerang](/images/bata/bata-hebel-sni-01.png)
 
@@ -62,7 +62,7 @@ Seluruhnya tentu sudah tahu kegunaan utama batu bata mulai digunakan untuk membu
 
 Metode mengorder batu bata yang aman dan terpercaya:
 
-1.  Cara pembayaran dapat anda lakukan secara COD atau dibayar di daerah saat barang pesanan anda sudah datang di daerah
+1.  Cara pembayaran dapat anda lakukan secara COD atau dibayar di daerah saat barang pesanan anda sudah datang di daerah
 2. Silahkan memilih dan mempertimbangkan bahan batu bata yang anda inginkan
 3. Tentukan juga jumlah orderan batu bata yang anda butuhkan dalam bentuk bijian.
 4. Anda dapat menghubungi layanan telepon kios untuk mempermudah pengerjaan pemesanan

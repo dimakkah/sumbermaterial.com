@@ -25,7 +25,7 @@ berdasarkan Standar Nasional Indonesia ( SK SNI - S - 04 - 1989 - F ; 28) di tut
 
 Prasyarat Pasir yang Bagus tuk Bangunan
 
-1.  Agregat Halus harus terdiri dari butiran yg tajam dan keras dengan indeks kekerasan <2.2
+1.  Agregat Halus harus terdiri dari butiran yg tajam dan keras dengan indeks kekerasan <2.2
 2. jika diaplikasikan Natrium Sulfat komponen hancur maksimal dua belas persen
 3. Sekiranya digunakan Magnesium Sulfat komponen halus maksimal sepuluh persen
 4. Tak boleh memuat tanah lebih dari lima %
@@ -41,7 +41,6 @@ Prasyarat Pasir yang Bagus tuk Bangunan
 Sesudah tahu persis prasyarat pasir untuk suatu Bangunan, pada saat ini kita bahas Jenis - Tipe Pasir Untuk Konstruksi Bangunan penjelasan nya sebagai berikut:
 
 - ### Pasir Cor Di Cipinang Melayu Jakarta
-    
 
 Pasir ini umum nya berwarna hitam kemerahan dan tingkat kekerasan butiran nya lumayan tinggi. Tapi sekiranya anda mengepal nya dengan tangan tak akan lengket dan akan hancur kembali. ragam pasir ini sangat lah baik tuk Pengecoran, Plesteran Dinding, Adukan Pondasi dan Adukan Pasangan Bata Pasir ini yaitu pasir untuk Rigid merupakan butiran-butiran mineral keras dan tajam berukuran antara 0,075 – 5 mm, sekiranya terdapat butiran berukuran lebih kecil dari 0,063 mm tidak lebih dari 5% berat. Pasir ini yaitu pasir untuk Rigid hampir acap kali digunakan untuk profesi cor-coran struktur seperti kolom, balok dan pelat lantai.
 
@@ -59,21 +58,18 @@ Untuk menerima kekuatan Cor yang maksimal maka pasir sepatutnya bisa memenuhi pr
 ![Harga Pasir Rangkas Free Ongkir Ke Cipinang Melayu Jakarta](/images/info/pasir-hitam-9.jpg)
 
 - ### Pasir Untuk Pasang Batu, Pondasi, Bata, Ubin, Plester Di Cipinang Melayu Jakarta
-    
 
 ![Harga Pasir Rangkas Free Ongkir Ke Cipinang Melayu Jakarta](/images/info/jual-pasir-mundu.jpg)
 
 Pasir ini ekstra halus lagi diperbandingkan oleh pasir beton. seandainya kamu mengepal pasir ini maka akan menggumpal dan tidak akan buyar kembali. pasir pasang lazim nya di manfaatkan buat campuran pasir beton agar tidak terlalu kasar dan dapat di manfaatkan untuk plesteran dinding.
 
 - ### Pasir Elod Untuk pemadatan lantai Di Cipinang Melayu Jakarta
-    
 
 Di Antara ke dua pasir diatas pasir model ini lebih halus lagi, jika anda mengepal nya akan menggumpal dan tidak akan hancur lagi. tetapi pasir tipe
 
 Pada biasa nya pasir ini nyaris sama dgn pasir beton akan melainkan pasir ini mempunyai tingkat kekasaran yang tinggi, butiran - butiran nya lumayan besar dan agak banyak batuan nya. pada biasanya pasir macam ini bagus untuk bahan dasaran pemasangan keramik
 
 - ### Pasir Putih Halus Untuk Pasang Keramik Di Cipinang Melayu Jakarta
-    
 
 1. **Pasir Putih Bangka**
 

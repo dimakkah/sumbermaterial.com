@@ -50,13 +50,13 @@ d. tdk bisa menjangkau lokasi yang sempit. Mengingat Besi WF ini berukuran panja
 
 ### Kelebihan Dari Besi WF Di PalMeriam Jakarta
 
-1\. Dapat memaksimalkan waktu dalam pembangunan sebuah konstruksi bangunan, mengurangi waktu dan juga mengurangi biaya dan pemasang.
+1. Dapat memaksimalkan waktu dalam pembangunan sebuah konstruksi bangunan, mengurangi waktu dan juga mengurangi biaya dan pemasang.
 
-2\. Dapat menopang muatan yang amat berat, tidak mudah memuai dan lebih simple penerapannya dibanding dengan material struktural lainnya.
+2. Dapat menopang muatan yang amat berat, tidak mudah memuai dan lebih simple penerapannya dibanding dengan material struktural lainnya.
 
-3\. Mempunyai fleksibilitas yang tinggi. Sehingga struktur bangunan yang diciptakan dari Besi WF ini menjadi lebih kuat tdk mudah bergeser, tdk mudah runtuh ataupun goyang. Sangat sesuai untuk tipe bangunan diatas tanah yang labil atau sering kali terjadi longsor.
+3. Mempunyai fleksibilitas yang tinggi. Sehingga struktur bangunan yang diciptakan dari Besi WF ini menjadi lebih kuat tdk mudah bergeser, tdk mudah runtuh ataupun goyang. Sangat sesuai untuk tipe bangunan diatas tanah yang labil atau sering kali terjadi longsor.
 
-4\. Lebih hemat karena struktur bangunan yang mengaplikasikan Besi WF akan mempunyai kekuatan yang cukup lama malahan hingga ratusan tahun. Tentunya ini ialah investasi yang amat murah bila kita bandingkan dengan waktu pakai. Malah bangunan yang dibangun dengan tulangan Besi WF bisa kita wariskan kepada anak cucu kita.
+4. Lebih hemat karena struktur bangunan yang mengaplikasikan Besi WF akan mempunyai kekuatan yang cukup lama malahan hingga ratusan tahun. Tentunya ini ialah investasi yang amat murah bila kita bandingkan dengan waktu pakai. Malah bangunan yang dibangun dengan tulangan Besi WF bisa kita wariskan kepada anak cucu kita.
 
 ## Mengenal Besi H Beam Di PalMeriam Jakarta
 
@@ -72,15 +72,15 @@ Sama seperti besi yang kami terangkan sebelumnya ialah Besi WF, besi H-Beam pun 
 
 ### Kelebihan Besi H Beam Di PalMeriam Jakarta
 
-1\. Mudah untuk didapat. Banyak distributor besi yang menyediakan stok besi H-Beam bermacam jenis ukuran. Sehingga besi H-Beam ini betul-betul mudah untuk didapat, tdk sulit untuk menemukan supplier besi yang memasarkan besi H Beam.
+1. Mudah untuk didapat. Banyak distributor besi yang menyediakan stok besi H-Beam bermacam jenis ukuran. Sehingga besi H-Beam ini betul-betul mudah untuk didapat, tdk sulit untuk menemukan supplier besi yang memasarkan besi H Beam.
 
-2\. Gampang Dalam Pemasangan. Banyak tukang pakar dalam pemasangan besi H Beam. Meski besi H-Beam ini wajib dipasang oleh tukang yang berpengalaman namun tukang yang ahli dalam memasang besi H Beam ini benar-benar banyak kita temui hari ini. Sehingga tidak perlu dikhawatirkan lagi pelaksanaan pemasangannya.
+2. Gampang Dalam Pemasangan. Banyak tukang pakar dalam pemasangan besi H Beam. Meski besi H-Beam ini wajib dipasang oleh tukang yang berpengalaman namun tukang yang ahli dalam memasang besi H Beam ini benar-benar banyak kita temui hari ini. Sehingga tidak perlu dikhawatirkan lagi pelaksanaan pemasangannya.
 
-3\. Memiliki ketahanan yang tdk diragukan lagi. Besi H Beam sudah teruji selama bertahun-tahun dalam kontruksi bangunan. Apakah skala kecil ataupun skala besar dan terbilang sungguh-sungguh kuat bila diperbandingkan dengan material lainnya. Dapat bertahan sampai puluhan sampai ratusan tahun.
+3. Memiliki ketahanan yang tdk diragukan lagi. Besi H Beam sudah teruji selama bertahun-tahun dalam kontruksi bangunan. Apakah skala kecil ataupun skala besar dan terbilang sungguh-sungguh kuat bila diperbandingkan dengan material lainnya. Dapat bertahan sampai puluhan sampai ratusan tahun.
 
-4\. Mudah dalam perawatannya. Bangunan yang menerapkan besi H Beam sebagai struktur tulangan bangunannya akan sangat gampang dalam melakukan perawatannya. tidak perlu pengecatan dengan cat khusus maupun pembersihan setiap saat.
+4. Mudah dalam perawatannya. Bangunan yang menerapkan besi H Beam sebagai struktur tulangan bangunannya akan sangat gampang dalam melakukan perawatannya. tidak perlu pengecatan dengan cat khusus maupun pembersihan setiap saat.
 
-5\. Memaksimalkan penerapan material lainnya, seperti penggunaan bekisting, pengaplikasian tiang penyangga atau tiang penyangga dan juga material pasir. Besi H Beam tidak membutuhkan material pasir dalam pengaplikasiannya.
+5. Memaksimalkan penerapan material lainnya, seperti penggunaan bekisting, pengaplikasian tiang penyangga atau tiang penyangga dan juga material pasir. Besi H Beam tidak membutuhkan material pasir dalam pengaplikasiannya.
 
 ### Kekurangan Dari Besi H Beam Di PalMeriam Jakarta
 

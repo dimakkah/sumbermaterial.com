@@ -25,7 +25,7 @@ berdasarkan Standar Nasional Indonesia ( SK SNI - S - 04 - 1989 - F ; 28) di tut
 
 Prasyarat Pasir yang Baik buat Konstruksi
 
-1.  Agregat Halus seharusnya terdiri dari butiran yg tajam dan keras dengan indeks kekerasan <2.2
+1.  Agregat Halus seharusnya terdiri dari butiran yg tajam dan keras dengan indeks kekerasan <2.2
 2. bilamana dimanfaatkan Natrium Sulfat komponen hancur optimal 12 persen
 3. jika dipakai Magnesium Sulfat komponen halus maksimal sepuluh persen
 4. Tidak boleh mengandung tanah lebih dari lima %
@@ -41,7 +41,6 @@ Prasyarat Pasir yang Baik buat Konstruksi
 sesudah memahami prasyarat pasir buat sebuah Konstruksi Bangunan, saat ini kita bahas Macam - Jenis Pasir Untuk Konstruksi Bangunan penjelasan nya sbb:
 
 - ### Pasir Untuk Beton Di Pondok Rangon Jakarta
-    
 
 Pasir ini lazim nya berwarna hitam kemerahan dan tingkat kekasaran butiran nya lumayan tinggi. Tapi jikalau anda mengepal nya dengan tangan tak akan lengket dan akan buyar kembali. tipe pasir ini benar-benar lah bagus buat Pengecoran, Plesteran Dinding, Adukan Pondasi dan Adukan Pasangan Bata Pasir ini yaitu pasir untuk Beton merupakan butiran-butiran mineral keras dan tajam berukuran antara 0,075 – 5 mm, sekiranya terdapat butiran berukuran lebih kecil dari 0,063 mm tak lebih dari 5% berat. Pasir ini yaitu pasir untuk Beton acap kali diaplikasikan untuk pekerjaan cor-coran struktur seperti kolom, balok dan pelat lantai.
 
@@ -52,9 +51,9 @@ Harga Pasir Ekstra Beton Free Ongkir Ke Pondok Rangon Jakarta Seandainya anda se
 Pasir terbaik diambil dari kp. jebrod cianjur jawa barat yang diaplikasikan oleh indocement serta perusahaan batching plant lainnya sebagai bahan dasar produksi readymix concrete. Pasir ini paling disarankan untuk cor sebab irit semen juga mempunyai kandungan lumpur yang sungguh-sungguh rendah dibawah delapan persen. warnanya Hitam abu tua atau hitam seperti hitamnya batu kali, ada juga yang hitam kemerahan atau hitam terasi
 
 3. **Pasir Hitam Rigid Cimangkok.** Pasir diambil dari Tempat penambangannya di cimangkok sukabumi jabar yang masih masuk terhadap golongan pasir hitam No. 1 di jabar, warnanya hitam kecoklatan pantas untuk cor, pasang pondasi dan bata
-    
+
     ![Harga Pasir Ekstra Beton Free Ongkir Ke Pondok Rangon Jakarta](/images/info/pasir-hitam-8.jpg)
-    
+
 4. **Pasir Hitam Beton Cimalaka Subang Bandung.**
 
 Pasir nomor satu yang berwarna hitam kebauan ada juga yang berwarna hitam abu tua. Banyak di pakai untuk Rigid, pasang dan keperluan lainnya. Ditambang di kampung cimalaka
@@ -90,9 +89,9 @@ Kecuali Rangkasbitung, Banten juga mempunyai lokasi pnembangan pasir lain sepert
 Masih dari Tempat di banten, pasir kelas tiga ini yakni pasir yang banyak diterapkan di proyek proyek perumahan atau cluster sebab harganya yang murah juga kwalitas yang baik. Warna pasir ini hitam kecoklatan dan keabuan benar-benar dianjurkan untuk pasang pondasi, bata, batu dsb
 
 27. **Pasir Hitam Cor Bohlam Sukabumi.** Pasir dari Kawasan kp. bohlam di sukabumi berwarna hitam kecoklatan, amat bagus untuk pasang bata, pondasi dan sebagainya sebagai opsi pasir mutu bagus dan murah
-    
+
     ![Harga Pasir Ekstra Beton Free Ongkir Ke Pondok Rangon Jakarta](/images/info/pasir-hitam-7.jpg)
-    
+
 28. **Pasir Beton Galunggung.**
 
 Pasir ini merupakan pasir hitam kwalitas paling unggul dikelasnya lazim diterapkan oleh pabrik pengolahan beton readymix juga perusahan pembuatan precast dan kerap kali juga diterapkan untuk bahan pembuatan batako press hitam, paving block dan lainnya. Pasir ini ditambang dari Tasikmalaya jawa barat.
@@ -100,21 +99,18 @@ Pasir ini merupakan pasir hitam kwalitas paling unggul dikelasnya lazim diterapk
 ![Harga Pasir Ekstra Beton Free Ongkir Ke Pondok Rangon Jakarta](/images/info/pasir-hitam-5.jpg)
 
 - ### Pasir Standar Di Pondok Rangon Jakarta
-    
 
 ![Harga Pasir Ekstra Beton Free Ongkir Ke Pondok Rangon Jakarta](/images/info/jual-pasir-mundu-2.jpg)
 
 Pasir ini lebih halus lagi dibandingi oleh pasir beton. jikalau kalian mengepal pasir ini karenanya akan menggumpal dan tak akan buyar kembali. pasir pasang lazim nya di gunakan untuk adukan pasir beton agar tidak kelewat kasar dan dapat di pakai untuk plesteran dinding.
 
 - ### Pasir Elod Untuk Pembuatan Batako Di Pondok Rangon Jakarta
-    
 
 Di Antara ke dua pasir diatas pasir jenis ini lebih halus lagi, jikalau kamu mengepal nya karenanya akan menggumpal dan tidak akan buyar lagi. tetapi pasir jenis
 
 Pada lazim nya pasir ini nyaris sama dengan pasir beton tapi pasir ini memiliki tingkat kekasaran yang tinggi, butiran - butiran nya cukup besar dan agak banyak batuan nya. pada umumnya pasir macam ini bagus tuk bahan dasaran pemasangan keramik
 
 - ### Pasir Putih Tanpa Ayak Untuk Pasang Bata Di Pondok Rangon Jakarta
-    
 
 1. **Pasir Putih Bangka**
 

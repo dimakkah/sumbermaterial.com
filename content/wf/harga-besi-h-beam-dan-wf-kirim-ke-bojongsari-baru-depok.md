@@ -50,13 +50,13 @@ d. tidak bisa menjangkau lokasi yang sempit. Mengingat Besi WF ini berukuran pan
 
 ### Kelebihan Dari Besi WF Di Bojongsari Baru Depok
 
-1\. Bisa memaksimalkan waktu dalam pembangunan sebuah konstruksi bangunan, menghemat waktu dan juga mengurangi biaya dan tenaga tukang.
+1. Bisa memaksimalkan waktu dalam pembangunan sebuah konstruksi bangunan, menghemat waktu dan juga mengurangi biaya dan tenaga tukang.
 
-2\. Bisa menopang beban yang sungguh-sungguh berat, tidak mudah memuai dan lebih simple pemakaiannya dibanding dengan material struktural lainnya.
+2. Bisa menopang beban yang sungguh-sungguh berat, tidak mudah memuai dan lebih simple pemakaiannya dibanding dengan material struktural lainnya.
 
-3\. Mempunyai fleksibilitas yang tinggi. Sehingga struktur bangunan yang dibuat dari Besi WF ini menjadi lebih kuat tidak gampang bergeser, tidak gampang ambrol ataupun goyang. Sangat layak untuk variasi bangunan diatas tanah yang labil atau sering terjadi gempa.
+3. Mempunyai fleksibilitas yang tinggi. Sehingga struktur bangunan yang dibuat dari Besi WF ini menjadi lebih kuat tidak gampang bergeser, tidak gampang ambrol ataupun goyang. Sangat layak untuk variasi bangunan diatas tanah yang labil atau sering terjadi gempa.
 
-4\. Lebih hemat karena struktur bangunan yang menggunakan Besi WF akan memiliki kekuatan yang cukup lama malahan hingga ratusan tahun. Tentunya ini merupakan investasi yang betul-betul murah jika kita bandingkan dengan waktu gunakan. Bahkan bangunan yang dibangun dengan tulangan Besi WF bisa kita wariskan kepada buah hati cucu kita.
+4. Lebih hemat karena struktur bangunan yang menggunakan Besi WF akan memiliki kekuatan yang cukup lama malahan hingga ratusan tahun. Tentunya ini merupakan investasi yang betul-betul murah jika kita bandingkan dengan waktu gunakan. Bahkan bangunan yang dibangun dengan tulangan Besi WF bisa kita wariskan kepada buah hati cucu kita.
 
 ## Mengenal Besi H Beam Di Bojongsari Baru Depok
 
@@ -72,15 +72,15 @@ Sama seperti besi yang kami paparkan sebelumnya yakni Besi WF, besi H-Beam bahka
 
 ### Keunggulan Besi H Beam Di Bojongsari Baru Depok
 
-1\. Mudah untuk diperoleh. Banyak distributor besi yang menyediakan stok besi H-Beam beragam ukuran. Sehingga besi H-Beam ini benar-benar mudah untuk diperoleh, tdk susah untuk mendapatkan distributor besi yang memasarkan besi H Beam.
+1. Mudah untuk diperoleh. Banyak distributor besi yang menyediakan stok besi H-Beam beragam ukuran. Sehingga besi H-Beam ini benar-benar mudah untuk diperoleh, tdk susah untuk mendapatkan distributor besi yang memasarkan besi H Beam.
 
-2\. Gampang Dalam Pemasangan. Banyak tukang pakar dalam pemasangan besi H Beam. Meskipun besi H-Beam ini seharusnya dipasang oleh tukang yang ahli akan tetapi tukang yang ahli dalam memasang besi H Beam ini betul-betul banyak kita temui hari ini. Sehingga tdk perlu dikhawatirkan lagi progres pemasangannya.
+2. Gampang Dalam Pemasangan. Banyak tukang pakar dalam pemasangan besi H Beam. Meskipun besi H-Beam ini seharusnya dipasang oleh tukang yang ahli akan tetapi tukang yang ahli dalam memasang besi H Beam ini betul-betul banyak kita temui hari ini. Sehingga tdk perlu dikhawatirkan lagi progres pemasangannya.
 
-3\. Memiliki kekuatan yang tidak diragukan lagi. Besi H Beam sudah teruji selama bertahun-tahun dalam kontruksi bangunan. Apakah skala kecil ataupun skala besar dan terbilang sungguh-sungguh awet jikalau dibandingkan dengan material lainnya. Bisa bertahan hingga puluhan sampai ratusan tahun.
+3. Memiliki kekuatan yang tidak diragukan lagi. Besi H Beam sudah teruji selama bertahun-tahun dalam kontruksi bangunan. Apakah skala kecil ataupun skala besar dan terbilang sungguh-sungguh awet jikalau dibandingkan dengan material lainnya. Bisa bertahan hingga puluhan sampai ratusan tahun.
 
-4\. Gampang dalam pemeliharaannya. Bangunan yang menerapkan besi H Beam sebagai struktur rangka bangunannya akan benar-benar gampang dalam melakukan pemeliharaannya. tidak perlu pengecatan dengan cat khusus maupun pembersihan setiap waktu.
+4. Gampang dalam pemeliharaannya. Bangunan yang menerapkan besi H Beam sebagai struktur rangka bangunannya akan benar-benar gampang dalam melakukan pemeliharaannya. tidak perlu pengecatan dengan cat khusus maupun pembersihan setiap waktu.
 
-5\. Memaksimalkan pemakaian material lainnya, seperti penerapan bekisting, pemakaian tiang penyangga atau steger dan juga material pasir. Besi H Beam Tdk memerlukan material pasir dalam penerapannya.
+5. Memaksimalkan pemakaian material lainnya, seperti penerapan bekisting, pemakaian tiang penyangga atau steger dan juga material pasir. Besi H Beam Tdk memerlukan material pasir dalam penerapannya.
 
 ### Kekurangan Dari Besi H Beam Di Bojongsari Baru Depok
 

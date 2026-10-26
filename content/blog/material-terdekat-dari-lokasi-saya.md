@@ -17,7 +17,6 @@ draft: false
 
 {{< toc >}}
 
-
 ## Mengapa Memilih Material Terdekat Itu Penting?
 
 Mitra Sumber Material tentu sudah tahu, memilih material terdekat dari lokasi proyek itu bukan sekadar menghemat waktu tempuh. Ada beberapa alasan krusial yang mendasarinya. Pertama, biaya transportasi akan jauh lebih efisien. Harga material itu satu hal, tapi jangan lupakan ongkos kirim yang bisa membengkak jika jaraknya terlalu jauh. Kedua, waktu pengiriman yang lebih singkat. Ini sangat penting jika Anda membutuhkan material secara mendadak atau sedang mengerjakan proyek dengan tenggat waktu ketat. Ketiga, meminimalkan risiko kerusakan material selama perjalanan. Semakin jauh jarak tempuh, semakin besar kemungkinan material mengalami kerusakan akibat guncangan atau cuaca buruk.
@@ -26,10 +25,9 @@ Kami di Sumber Material memahami betul tantangan ini. Itulah mengapa Kami hadir 
 
 ## Jenis Material Terdekat yang Paling Dicari di Jabodetabek
 
-Bicara soal material terdekat dari lokasi saya, kebutuhan setiap proyek tentu berbeda-beda. Namun, ada beberapa jenis material yang paling sering dicari di wilayah Jabodetabek. Pasir, misalnya, merupakan material pokok dalam pembuatan beton dan plester. Ada berbagai jenis pasir yang tersedia, seperti pasir pasang, pasir urug, dan pasir cor. Harga pasir per truk bervariasi tergantung jenis dan jarak pengiriman. 
+Bicara soal material terdekat dari lokasi saya, kebutuhan setiap proyek tentu berbeda-beda. Namun, ada beberapa jenis material yang paling sering dicari di wilayah Jabodetabek. Pasir, misalnya, merupakan material pokok dalam pembuatan beton dan plester. Ada berbagai jenis pasir yang tersedia, seperti pasir pasang, pasir urug, dan pasir cor. Harga pasir per truk bervariasi tergantung jenis dan jarak pengiriman.
 
 Kemudian, batu split juga menjadi material penting dalam konstruksi. Baik itu batu split untuk pondasi, makadam, atau agregate. Selain itu, semen juga menjadi kebutuhan pokok yang tidak bisa diabaikan. Kami menyediakan berbagai merk semen dengan kualitas terjamin. Berikut tabel perbandingan beberapa jenis semen yang populer di pasaran:
-
 
 <table class="table">
   <caption>Perbandingan Jenis Semen Populer</caption>
@@ -43,7 +41,6 @@ Kemudian, batu split juga menjadi material penting dalam konstruksi. Baik itu ba
   </tbody>
 </table>
 
-
 Harga ini bersifat estimasi dan dapat berubah sewaktu-waktu — hubungi Kami untuk penawaran terbaru dan paling akurat sesuai kebutuhan proyek Mitra.
 
 ## Cara Mudah Menemukan Material Terdekat dari Lokasi Saya dengan Sumber Material
@@ -54,9 +51,9 @@ Sekarang, bagaimana cara menemukan material terdekat dari lokasi saya dengan cep
 
 Nah, untuk mempermudah perencanaan anggaran proyek Anda, berikut perkiraan biaya pengiriman material berdasarkan jarak:
 
-*   **Jarak 0-10 km:** Rp 300.000 - Rp 500.000/truk
-*   **Jarak 11-20 km:** Rp 500.000 - Rp 800.000/truk
-*   **Jarak 21-30 km:** Rp 800.000 - Rp 1.200.000/truk
+- **Jarak 0-10 km:** Rp 300.000 - Rp 500.000/truk
+- **Jarak 11-20 km:** Rp 500.000 - Rp 800.000/truk
+- **Jarak 21-30 km:** Rp 800.000 - Rp 1.200.000/truk
 
 Harga ini bersifat estimasi dan dapat berubah sewaktu-waktu — hubungi Kami untuk penawaran terbaru dan paling akurat sesuai kebutuhan proyek Mitra.
 

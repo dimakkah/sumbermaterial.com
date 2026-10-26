@@ -50,13 +50,13 @@ d. tidak bisa menjangkau area yang sempit. Mengingat Besi WF ini berukuran panja
 
 ### Kelebihan Dari Besi WF Di Cipete Selatan Jakarta
 
-1\. Dapat memaksimalkan waktu dalam pembangunan sebuah konstruksi bangunan, mengurangi waktu dan juga menghemat biaya dan tenaga tukang.
+1. Dapat memaksimalkan waktu dalam pembangunan sebuah konstruksi bangunan, mengurangi waktu dan juga menghemat biaya dan tenaga tukang.
 
-2\. Bisa menyangga muatan yang amat berat, tidak mudah memuai dan lebih simple pengaplikasiannya dibanding dengan material struktural lainnya.
+2. Bisa menyangga muatan yang amat berat, tidak mudah memuai dan lebih simple pengaplikasiannya dibanding dengan material struktural lainnya.
 
-3\. Memiliki fleksibilitas yang tinggi. Sehingga struktur bangunan yang dihasilkan dari Besi WF ini menjadi lebih kuat tidak mudah bergeser, tdk gampang runtuh ataupun goyang. Sangat sesuai untuk macam bangunan diatas tanah yang labil atau kerap kali terjadi goncangan.
+3. Memiliki fleksibilitas yang tinggi. Sehingga struktur bangunan yang dihasilkan dari Besi WF ini menjadi lebih kuat tidak mudah bergeser, tdk gampang runtuh ataupun goyang. Sangat sesuai untuk macam bangunan diatas tanah yang labil atau kerap kali terjadi goncangan.
 
-4\. Lebih hemat karena struktur bangunan yang memakai Besi WF akan memiliki kekokohan yang cukup lama malah sampai ratusan tahun. Tentunya ini yakni investasi yang benar-benar murah jikalau kita bandingkan dengan waktu pakai. Bahkan bangunan yang dibangun dengan tulangan Besi WF bisa kita wariskan terhadap buah hati cucu kita.
+4. Lebih hemat karena struktur bangunan yang memakai Besi WF akan memiliki kekokohan yang cukup lama malah sampai ratusan tahun. Tentunya ini yakni investasi yang benar-benar murah jikalau kita bandingkan dengan waktu pakai. Bahkan bangunan yang dibangun dengan tulangan Besi WF bisa kita wariskan terhadap buah hati cucu kita.
 
 ## Mengetahui Besi H Beam Di Cipete Selatan Jakarta
 
@@ -72,15 +72,15 @@ Sama seperti besi yang kami terangkan sebelumnya adalah Besi WF, besi H-Beam bah
 
 ### Kelebihan Besi H Beam Di Cipete Selatan Jakarta
 
-1\. Mudah untuk didapatkan. Banyak supplier besi yang menyediakan stok besi H-Beam bermacam jenis ukuran. Sehingga besi H-Beam ini sungguh-sungguh mudah untuk didapat, tidak susah untuk mendapatkan distributor besi yang menjual besi H Beam.
+1. Mudah untuk didapatkan. Banyak supplier besi yang menyediakan stok besi H-Beam bermacam jenis ukuran. Sehingga besi H-Beam ini sungguh-sungguh mudah untuk didapat, tidak susah untuk mendapatkan distributor besi yang menjual besi H Beam.
 
-2\. Gampang Dalam Pemasangan. Banyak tukang spesialis dalam pemasangan besi H Beam. Walaupun besi H-Beam ini sepatutnya dipasang oleh tukang yang ahli namun tukang yang ahli dalam memasang besi H Beam ini betul-betul banyak kita temui hari ini. Sehingga tdk perlu dikhawatirkan lagi proses pemasangannya.
+2. Gampang Dalam Pemasangan. Banyak tukang spesialis dalam pemasangan besi H Beam. Walaupun besi H-Beam ini sepatutnya dipasang oleh tukang yang ahli namun tukang yang ahli dalam memasang besi H Beam ini betul-betul banyak kita temui hari ini. Sehingga tdk perlu dikhawatirkan lagi proses pemasangannya.
 
-3\. Mempunyai ketahanan yang tdk diragukan lagi. Besi H Beam sudah teruji selama bertahun-tahun dalam kontruksi bangunan. Baik skala kecil maupun skala besar dan terbilang amat kuat jikalau dibandingkan dengan material lainnya. Dapat bertahan hingga puluhan hingga ratusan tahun.
+3. Mempunyai ketahanan yang tdk diragukan lagi. Besi H Beam sudah teruji selama bertahun-tahun dalam kontruksi bangunan. Baik skala kecil maupun skala besar dan terbilang amat kuat jikalau dibandingkan dengan material lainnya. Dapat bertahan hingga puluhan hingga ratusan tahun.
 
-4\. Gampang dalam pemeliharaannya. Bangunan yang memakai besi H Beam sebagai struktur rangka bangunannya akan sangat mudah dalam melakukan perawatannya. tdk perlu pengecatan dengan cat khusus ataupun pembersihan setiap waktu.
+4. Gampang dalam pemeliharaannya. Bangunan yang memakai besi H Beam sebagai struktur rangka bangunannya akan sangat mudah dalam melakukan perawatannya. tdk perlu pengecatan dengan cat khusus ataupun pembersihan setiap waktu.
 
-5\. Mengurangi penggunaan material lainnya, seperti penerapan bekisting, penerapan perancah atau tiang penyangga dan juga material pasir. Besi H Beam Tdk membutuhkan material pasir dalam penerapannya.
+5. Mengurangi penggunaan material lainnya, seperti penerapan bekisting, penerapan perancah atau tiang penyangga dan juga material pasir. Besi H Beam Tdk membutuhkan material pasir dalam penerapannya.
 
 ### Kekurangan Dari Besi H Beam Di Cipete Selatan Jakarta
 

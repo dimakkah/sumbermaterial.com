@@ -25,7 +25,7 @@ Menurut Standar Nasional Indonesia ( SK SNI - S - 04 - 1989 - F ; 28) di tuturka
 
 Syarat Pasir yg Bagus Untuk Konstruksi
 
-1.  Agregat Halus seharusnya terdiri dari butiran yg tajam dan keras dengan indeks kekerasan <2.2
+1.  Agregat Halus seharusnya terdiri dari butiran yg tajam dan keras dengan indeks kekerasan <2.2
 2. bilamana diterapkan Natrium Sulfat komponen hancur maksimal dua belas persen
 3. jika diterapkan Magnesium Sulfat komponen halus maksimal sepuluh %
 4. Tak boleh berisi clay lebih dari 5%
@@ -41,7 +41,6 @@ Syarat Pasir yg Bagus Untuk Konstruksi
 sesudah tahu persis persyaratan pasir buat sebuah Konstruksi Bangunan, pada saat ini kita bahas Macam - Jenis Pasir Untuk Bangunan penjelasan nya berikut ini:
 
 - ### Pasir Rigid Di Tegalwaru Karawang
-    
 
 Pasir ini lazim nya berwarna hitam gelap dan tingkat kekasaran butiran nya lumayan tinggi. Tapi jikalau anda mengepal nya dengan tangan tidak akan menggumpal dan akan hancur kembali. macam pasir ini sungguh-sungguh lah bagus untuk Pengecoran, Plesteran Dinding, Adukan Pondasi dan Adukan Pasangan Bata Pasir ini yaitu pasir untuk Cor ialah butiran-butiran mineral keras dan tajam berukuran antara 0,075 – 5 mm, bila terdapat butiran berukuran lebih kecil dari 0,063 mm tak lebih dari 5% berat. Pasir ini yaitu pasir untuk Beton kerap kali dimanfaatkan untuk profesi cor-coran struktur seperti kolom, balok dan pelat lantai.
 
@@ -59,21 +58,18 @@ Untuk mendapatkan kekuatan Rigid yang optimal karenanya pasir wajib mampu memenu
 ![Harga Pasir Rangkas Free Ongkir Ke Tegalwaru Karawang](/images/info/pasir-hitam-9.jpg)
 
 - ### Pasir Pasang Di Tegalwaru Karawang
-    
 
 ![Harga Pasir Rangkas Free Ongkir Ke Tegalwaru Karawang](/images/info/pasir-putih12.jpg)
 
 Pasir ini ekstra halus lagi dibandingkan oleh pasir beton. jikalau anda mengepal pasir ini maka akan menggumpal dan tidak akan buyar kembali. pasir pasang lazim nya di manfaatkan buat campuran pasir beton supaya tidak terlalu kasar dan dapat di gunakan untuk plesteran dinding.
 
 - ### Pasir Kualitas rendah Untuk pemadatan lantai Di Tegalwaru Karawang
-    
 
 Di Antara ke dua pasir diatas pasir macam ini lebih halus lagi, seandainya kamu mengepal nya akan menggumpal dan tidak akan hancur lagi. namun pasir jenis
 
 Pada biasa nya pasir ini nyaris sama dengan pasir beton melainkan pasir ini memiliki tingkat kekasaran yg tinggi, butiran - butiran nya lumayan besar dan agak banyak batuan nya. pada umumnya pasir ragam ini baik tuk bahan pemadatan lantai
 
 - ### Pasir Putih Halus Untuk Hiasan Di Tegalwaru Karawang
-    
 
 1. **Pasir Putih Bangka**
 

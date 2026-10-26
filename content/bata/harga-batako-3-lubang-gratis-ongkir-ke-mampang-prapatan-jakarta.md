@@ -16,7 +16,7 @@ sekarang ini material yang digunakan untuk mengisi tembok bangunan, telah terdap
 
 ## Mengetahui Jenis-jenis Bata
 
-### 1\. Bata Merah Standar & Jumbo Di Mampang Prapatan Jakarta
+### 1. Bata Merah Standar & Jumbo Di Mampang Prapatan Jakarta
 
 ![Harga Batako 3 Lubang Gratis Ongkir Ke Mampang Prapatan Jakarta](/images/bata/bata-merah-oven-21.png)
 
@@ -26,7 +26,7 @@ Bata merah ini dibuat dari bahan tanah yg kemudian di bentuk dan dipanaskan dg s
 
 Material bangunan ini benar-benar tahan kepada panas dan cocok dijadikan pengamanan dari bahaya api. Bata merah ini pada lazimnya mempunyai ukuran panjang antara 17-23 cm dan lebar sekitar 7-11 cm, serta tebalnya 3-5 cm. mempunyai ukuran yg lebih kecil akan memberi kemudahan dalam pengerjaan pengangkutan dan bisa diaplikasikan untuk menyusun bidang kecil.
 
-### 2\. Batako Hitam dan Putih Di Mampang Prapatan Jakarta
+### 2. Batako Hitam dan Putih Di Mampang Prapatan Jakarta
 
 ![Harga Batako 3 Lubang Gratis Ongkir Ke Mampang Prapatan Jakarta](/images/bata/batako-hitam-press-06.png)
 
@@ -34,7 +34,7 @@ Material bangunan tembok dari batako ini secara umum terbuat dari bahan campuran
 
 Batako trus seperti ini mempunyai kekurangan seperti mudah retak, lebih panas dan pengap. Berbeda dg bata merah yg terbuat dari material tanah. Namun batako press ini cenderung lebih ringan daripada bata merah. Alhasil akan nampak lebih halus dan ukurannya lebih presisi seandainya diperbandingkan dengan bata merah. Batako press Hitam ini mempunyai ukuran panjang sekitar 36-40 cm, tinggi 18-20 cm dan tebal 8-10 cm. bahan ini kerap kali dipilih karena untuk memperingan muatan struktur bangunan, meminimalisir sisa material dan mempermudah pembangunan.
 
-### 3\. Bata Herbel Di Mampang Prapatan Jakarta
+### 3. Bata Herbel Di Mampang Prapatan Jakarta
 
 ![Harga Batako 3 Lubang Gratis Ongkir Ke Mampang Prapatan Jakarta](/images/bata/bata-hebel-sni-05.png)
 
@@ -62,7 +62,7 @@ Segalanya tentu telah tahu fungsi utama batu bata mulai diterapkan untuk membuat
 
 Sistem mengorder batu bata yang aman dan terpercaya:
 
-1.  Progres pembayaran dapat anda lakukan secara COD atau dibayar di tempat saat barang orderan anda sudah datang di daerah
+1.  Progres pembayaran dapat anda lakukan secara COD atau dibayar di tempat saat barang orderan anda sudah datang di daerah
 2. Silahkan memilih dan memastikan bahan batu bata yang anda inginkan
 3. Tentukan juga jumlah orderan batu bata yang anda butuhkan dalam format bijian.
 4. Anda bisa menghubungi layanan telepon toko untuk memudahkan pengerjaan pemesanan

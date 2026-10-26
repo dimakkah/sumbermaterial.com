@@ -16,7 +16,7 @@ sekarang ini bahan yang diterapkan untuk mengisi tembok bangunan, telah terdapat
 
 ## Mengenal Ragam Variasi Bata
 
-### 1\. Bata Merah Standar & Jumbo Di Cimpaeun Depok
+### 1. Bata Merah Standar & Jumbo Di Cimpaeun Depok
 
 ![Harga Batako 3 Lubang Gratis Ongkir Ke Cimpaeun Depok](/images/bata/bata-merah-oven-18.png)
 
@@ -26,7 +26,7 @@ Bata merah ini dijadikan dari bahan tanah yang kemudian di press dan dipanaskan 
 
 Material bangunan ini sungguh-sungguh kuat kepada panas dan sesuai dibuat perlindungan dari panas api. Bata merah ini pada umumnya memiliki ukuran panjang antara 17-23 cm dan lebar sekitar 7-11 cm, serta tebalnya 3-5 cm. mempunyai ukuran yg lebih kecil akan memberi kemudahan dalam proses pengangkutan dan bisa diaplikasikan untuk membentuk bidang kecil.
 
-### 2\. Batako Hitam dan Putih Di Cimpaeun Depok
+### 2. Batako Hitam dan Putih Di Cimpaeun Depok
 
 ![Harga Batako 3 Lubang Gratis Ongkir Ke Cimpaeun Depok](/images/bata/batako-hitam-press-31.png)
 
@@ -34,7 +34,7 @@ Material bangunan tembok dari batako ini secara biasa terbuat dari material Aduk
 
 Batako seperti ini mempunyai kelemahan seperti gampang retak, lebih panas dan pengap. Berbeda dengan bata merah yg terbuat dari material tanah. Namun batako ini cenderung lebih ringan daripada bata merah. Kesudahannya akan nampak lebih halus dan ukurannya lebih presisi jika dibandingi dengan bata merah. Batako trus Hitam ini mempunyai ukuran panjang sekitar 36-40 cm, tinggi 18-20 cm dan tebal 8-10 cm. material ini kerap kali dipilih sebab untuk memperingan beban struktur bangunan, meminimalisir sisa material dan mempermudah pembangunan.
 
-### 3\. Bata Herbel Di Cimpaeun Depok
+### 3. Bata Herbel Di Cimpaeun Depok
 
 ![Harga Batako 3 Lubang Gratis Ongkir Ke Cimpaeun Depok](/images/bata/bata-hebel-sni-07.png)
 
@@ -62,7 +62,7 @@ Semua tentunya sudah tahu fungsi utama batu bata mulai dipakai untuk membuat tem
 
 Cara memesan batu bata yang aman dan terpercaya:
 
-1.  Progres pembayaran dapat anda lakukan secara COD atau dibayar di tempat dikala barang pesanan anda telah datang di tempat
+1.  Progres pembayaran dapat anda lakukan secara COD atau dibayar di tempat dikala barang pesanan anda telah datang di tempat
 2. Silahkan memilih dan menetapkan bahan batu bata yg anda inginkan
 3. Tentukan juga jumlah pesanan batu bata yg anda butuhkan dalam wujud bijian.
 4. Anda bisa menghubungi layanan telepon kios untuk memudahkan pengerjaan pengorderan

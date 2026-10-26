@@ -50,13 +50,13 @@ d. tidak dapat menjangkau area yang sempit. Mengingat Besi WF ini berukuran panj
 
 ### Kelebihan Dari Besi WF Di Katulampa
 
-1\. Dapat menghemat waktu dalam pembangunan sebuah konstruksi bangunan, mengurangi waktu dan juga memaksimalkan ongkos dan tenaga tukang.
+1. Dapat menghemat waktu dalam pembangunan sebuah konstruksi bangunan, mengurangi waktu dan juga memaksimalkan ongkos dan tenaga tukang.
 
-2\. Bisa menyangga muatan yang betul-betul berat, tdk mudah memuai dan lebih simple pengaplikasiannya dibanding dengan material struktural lainnya.
+2. Bisa menyangga muatan yang betul-betul berat, tdk mudah memuai dan lebih simple pengaplikasiannya dibanding dengan material struktural lainnya.
 
-3\. Memiliki fleksibilitas yang tinggi. Sehingga struktur bangunan yang dibuat dari Besi WF ini menjadi lebih kuat tidak mudah bergeser, tdk gampang roboh maupun goyang. Sangat sesuai untuk macam bangunan diatas tanah yang labil atau kerap kali terjadi longsor.
+3. Memiliki fleksibilitas yang tinggi. Sehingga struktur bangunan yang dibuat dari Besi WF ini menjadi lebih kuat tidak mudah bergeser, tdk gampang roboh maupun goyang. Sangat sesuai untuk macam bangunan diatas tanah yang labil atau kerap kali terjadi longsor.
 
-4\. Lebih hemat karena struktur bangunan yang menerapkan Besi WF akan memiliki ketahanan yang cukup lama malah sampai ratusan tahun. Tentunya ini ialah investasi yang sungguh-sungguh murah seandainya kita bandingkan dengan waktu pakai. Malahan bangunan yang dibangun dengan rangka Besi WF dapat kita wariskan kepada buah hati cucu kita.
+4. Lebih hemat karena struktur bangunan yang menerapkan Besi WF akan memiliki ketahanan yang cukup lama malah sampai ratusan tahun. Tentunya ini ialah investasi yang sungguh-sungguh murah seandainya kita bandingkan dengan waktu pakai. Malahan bangunan yang dibangun dengan rangka Besi WF dapat kita wariskan kepada buah hati cucu kita.
 
 ## Mengenal Besi H Beam Di Katulampa
 
@@ -72,15 +72,15 @@ Sama seperti besi yang kami paparkan sebelumnya ialah Besi WF, besi H-Beam malah
 
 ### Kelebihan Besi H Beam Di Katulampa
 
-1\. Gampang untuk didapat. Banyak toko besi yang menyediakan stok besi H-Beam bermacam jenis ukuran. Sehingga besi H-Beam ini betul-betul mudah untuk didapatkan, tidak sulit untuk memperoleh supplier besi yang menjual besi H Beam.
+1. Gampang untuk didapat. Banyak toko besi yang menyediakan stok besi H-Beam bermacam jenis ukuran. Sehingga besi H-Beam ini betul-betul mudah untuk didapatkan, tidak sulit untuk memperoleh supplier besi yang menjual besi H Beam.
 
-2\. Mudah Dalam Pemasangan. Banyak tukang ahli dalam pemasangan besi H Beam. Meski besi H-Beam ini harus dipasang oleh tukang yang ahli tapi tukang yang ahli dalam memasang besi H Beam ini amat banyak kita temui hari ini. Sehingga tdk perlu dikhawatirkan lagi proses pemasangannya.
+2. Mudah Dalam Pemasangan. Banyak tukang ahli dalam pemasangan besi H Beam. Meski besi H-Beam ini harus dipasang oleh tukang yang ahli tapi tukang yang ahli dalam memasang besi H Beam ini amat banyak kita temui hari ini. Sehingga tdk perlu dikhawatirkan lagi proses pemasangannya.
 
-3\. Mempunyai daya tahan yang tidak diragukan lagi. Besi H Beam sudah teruji selama bertahun-tahun dalam kontruksi bangunan. Baik skala kecil maupun skala besar dan terbilang betul-betul tahan lama kalau dibandingkan dengan material lainnya. Bisa bertahan hingga puluhan sampai ratusan tahun.
+3. Mempunyai daya tahan yang tidak diragukan lagi. Besi H Beam sudah teruji selama bertahun-tahun dalam kontruksi bangunan. Baik skala kecil maupun skala besar dan terbilang betul-betul tahan lama kalau dibandingkan dengan material lainnya. Bisa bertahan hingga puluhan sampai ratusan tahun.
 
-4\. Gampang dalam pemeliharaannya. Bangunan yang mengaplikasikan besi H Beam sebagai struktur tulangan bangunannya akan amat gampang dalam melakukan perawatannya. tidak perlu pengecatan dengan cat khusus maupun pembersihan setiap waktu.
+4. Gampang dalam pemeliharaannya. Bangunan yang mengaplikasikan besi H Beam sebagai struktur tulangan bangunannya akan amat gampang dalam melakukan perawatannya. tidak perlu pengecatan dengan cat khusus maupun pembersihan setiap waktu.
 
-5\. Memaksimalkan pengaplikasian material lainnya, seperti penggunaan bekisting, pemakaian perancah atau perancah dan juga material pasir. Besi H Beam tidak membutuhkan material pasir dalam penggunaannya.
+5. Memaksimalkan pengaplikasian material lainnya, seperti penggunaan bekisting, pemakaian perancah atau perancah dan juga material pasir. Besi H Beam tidak membutuhkan material pasir dalam penggunaannya.
 
 ### Kekurangan Dari Besi H Beam Di Katulampa
 

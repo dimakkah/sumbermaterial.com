@@ -25,7 +25,7 @@ Menurut Standar Nasional Indonesia ( SK SNI - S - 04 - 1989 - F ; 28) di tuturka
 
 Persyaratan Pasir yg Bagus tuk Konstruksi Bangunan
 
-1.  Agregat Halus seharusnya terdiri dari butiran yg tajam dan keras dengan indeks kekerasan <2.2
+1.  Agregat Halus seharusnya terdiri dari butiran yg tajam dan keras dengan indeks kekerasan <2.2
 2. bilamana dimanfaatkan Natrium Sulfat bagian hancur optimal dua belas persen
 3. Jika diterapkan Magnesium Sulfat bagian halus optimal sepuluh %
 4. Tidak boleh mengandung tanah lebih dari lima persen
@@ -41,7 +41,6 @@ Persyaratan Pasir yg Bagus tuk Konstruksi Bangunan
 setelah tahu persis syarat pasir tuk suatu Konstruksi, saat ini kita bahas Ragam - model Pasir Untuk Bangunan penjelasan nya berikut ini:
 
 - ### Pasir Tipe Cor dan Daerah Penambangannya Di Bangka Jakarta
-    
 
 Pasir ini lazim nya berwarna hitam pekat dan tingkat kekasaran butiran nya lumayan tinggi. Namun seandainya anda mengepal nya dengan tangan tak akan lengket dan akan buyar kembali. model pasir ini amat lah bagus untuk Pengecoran, Plesteran Dinding, Adukan Pondasi dan Adukan Pasangan Bata Pasir ini yaitu pasir untuk Cor yakni butiran-butiran mineral keras dan tajam berukuran antara 0,075 – 5 mm, kalau terdapat butiran berukuran lebih kecil dari 0,063 mm tak lebih dari 5% berat. Pasir ini yaitu pasir untuk Cor sering kali dimanfaatkan untuk pekerjaan cor-coran struktur seperti kolom, balok dan pelat lantai.
 
@@ -59,21 +58,18 @@ Untuk mendapatkan kekuatan Beton yang optimal karenanya pasir sepatutnya dapat m
 ![Harga Pasir Hitam Cor Free Ongkir Ke Bangka Jakarta](/images/info/pasir-hitam-9.jpg)
 
 - ### Pasir Biasa Di Bangka Jakarta
-    
 
 ![Harga Pasir Hitam Cor Free Ongkir Ke Bangka Jakarta](/images/info/pasir-putih3.jpg)
 
 Pasir ini lebih halus lagi dibandingkan oleh pasir beton. kalau kalian mengepal pasir ini karenanya akan menggumpal dan tidak akan hancur kembali. pasir pasang umum nya di gunakan tuk adukan pasir beton agar tidak terlampau kasar dan dapat di manfaatkan untuk plesteran dinding.
 
 - ### Pasir Elod Untuk Dasaran Pemasangan Keramik Di Bangka Jakarta
-    
 
 Di Antara ke dua pasir diatas pasir macam ini lebih halus lagi, kalau kalian mengepal nya akan menggumpal dan tak akan buyar lagi. namun pasir tipe
 
 Pada lazim nya pasir ini nyaris sama dgn pasir beton akan tetapi pasir ini memiliki tingkat kekasaran yg tinggi, butiran - butiran nya cukup besar dan agak banyak batuan nya. pada lazimnya pasir ragam ini bagus tuk bahan dasaran pemasangan keramik
 
 - ### Pasir Putih Tanpa Batu Untuk Pasang Keramik Di Bangka Jakarta
-    
 
 1. **Pasir Putih Bangka**
 

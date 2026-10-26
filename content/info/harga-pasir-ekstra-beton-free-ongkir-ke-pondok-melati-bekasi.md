@@ -25,7 +25,7 @@ berdasarkan Standar Nasional Indonesia ( SK SNI - S - 04 - 1989 - F ; 28) di seb
 
 Prasyarat Pasir yang Bagus Untuk Bangunan
 
-1.  Agregat Halus seharusnya terdiri dari butiran yg tajam dan keras dengan indeks kekerasan <2.2
+1.  Agregat Halus seharusnya terdiri dari butiran yg tajam dan keras dengan indeks kekerasan <2.2
 2. bila dimanfaatkan Natrium Sulfat komponen hancur maksimal 12%
 3. Sekiranya diaplikasikan Magnesium Sulfat komponen halus maksimal sepuluh persen
 4. Tak boleh memuat lumpur lebih dari 5 persen
@@ -41,7 +41,6 @@ Prasyarat Pasir yang Bagus Untuk Bangunan
 Setelah mengenal prasyarat pasir untuk suatu Konstruksi, pada saat ini kita bahas Ragam - Jenis Pasir Untuk Konstruksi penjelasan nya berikut ini:
 
 - ### Pasir Untuk Beton Di Pondok Melati Bekasi
-    
 
 Pasir ini biasa nya berwarna keabu-abuan dan tingkat pecahan butiran nya cukup tinggi. Tetapi jika anda mengepal nya dengan tangan tak akan menggumpal dan akan buyar kembali. model pasir ini betul-betul lah bagus untuk Pengecoran, Plesteran Dinding, Adukan Pondasi dan Adukan Pasangan Bata Pasir ini yaitu pasir untuk Rigid ialah butiran-butiran mineral keras dan tajam berukuran antara 0,075 – 5 mm, seandainya terdapat butiran berukuran lebih kecil dari 0,063 mm tidak lebih dari 5% berat. Pasir ini yaitu pasir untuk Cor hampir acap kali diterapkan untuk profesi cor-coran struktur seperti kolom, balok dan pelat lantai.
 
@@ -59,21 +58,18 @@ Untuk mendapat kekokohan Cor yang optimal maka pasir sepatutnya sanggup memenuhi
 ![Harga Pasir Ekstra Beton Free Ongkir Ke Pondok Melati Bekasi](/images/info/pasir-hitam-2.jpg)
 
 - ### Pasir Untuk Pemasangan Batu, Pondasi, Bata, Ubin, Plester Di Pondok Melati Bekasi
-    
 
 ![Harga Pasir Ekstra Beton Free Ongkir Ke Pondok Melati Bekasi](/images/info/pasir-hitam-4.jpg)
 
 Pasir ini ekstra halus lagi dibandingkan oleh pasir beton. sekiranya anda mengepal pasir ini karenanya akan menggumpal dan tak akan hancur kembali. pasir pasang umum nya di manfaatkan buat campuran pasir beton supaya tidak terlampau kasar dan bisa di gunakan untuk plesteran dinding.
 
 - ### Pasir Urug Untuk Dasaran Pemasangan Marmer Di Pondok Melati Bekasi
-    
 
 Di Antara ke dua pasir diatas pasir model ini lebih halus lagi, jikalau kalian mengepal nya maka akan menggumpal dan tidak akan hancur lagi. namun pasir ragam tidak baik untuk di buat sebagai bahan bangunan. pasir ragam ini pada biasa nya di pergunakan untuk Bahan Pembuatan Batako
 
 Pada nya pasir ini nyaris sama dengan pasir beton tapi pasir ini memiliki tingkat kekasaran yang tinggi, butiran - butiran nya cukup besar dan agak banyak batuan nya. pada lazimnya pasir jenis ini baik untuk bahan pemadatan lantai
 
 - ### Pasir Putih Kadar Lumpur Rendah Untuk Pelester Di Pondok Melati Bekasi
-    
 
 1. **Pasir Putih Bangka**
 

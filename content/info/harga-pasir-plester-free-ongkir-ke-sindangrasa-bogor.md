@@ -25,7 +25,7 @@ Berdasarkan Standar Nasional Indonesia ( SK SNI - S - 04 - 1989 - F ; 28) di tut
 
 Syarat-Syarat Pasir yang Bagus buat Bangunan
 
-1.  Agregat Halus sepatutnya terdiri dari butiran yang tajam dan keras dengan indeks kekerasan <2.2
+1.  Agregat Halus sepatutnya terdiri dari butiran yang tajam dan keras dengan indeks kekerasan <2.2
 2. Apabila dipakai Natrium Sulfat komponen hancur optimal 12 persen
 3. jika diaplikasikan Magnesium Sulfat komponen halus maksimal 5 persen
 4. Tidak boleh mengandung tanah lebih dari lima persen
@@ -41,7 +41,6 @@ Syarat-Syarat Pasir yang Bagus buat Bangunan
 Sesudah mengenal persyaratan pasir tuk suatu Konstruksi Bangunan, sekarang ini kita bahas Jenis - Tipe Pasir Untuk Konstruksi penjelasan nya berikut ini:
 
 - ### Pasir Jenis Rigid dan Lokasi Sumbernya Di Sindangrasa Bogor
-    
 
 Pasir ini umum nya berwarna hitam pekat dan tingkat kekerasan butiran nya lumayan tinggi. Namun sekiranya anda mengepal nya dengan tangan tidak akan lengket dan akan hancur kembali. jenis pasir ini betul-betul lah baik untuk Pengecoran, Plesteran Dinding, Adukan Pondasi dan Adukan Pasangan Bata Pasir ini yaitu pasir untuk Rigid yaitu butiran-butiran mineral keras dan tajam berukuran antara 0,075 – 5 mm, kalau terdapat butiran berukuran lebih kecil dari 0,063 mm tak lebih dari 5% berat. Pasir ini yaitu pasir untuk Beton hampir kerap diaplikasikan untuk pekerjaan cor-coran struktur seperti kolom, balok dan pelat lantai.
 
@@ -59,21 +58,18 @@ Untuk mendapat kekuatan Cor yang maksimal karenanya pasir sepatutnya dapat memen
 ![Harga Pasir Plester Free Ongkir Ke Sindangrasa Bogor](/images/info/jual-pasir-cor-hitam.jpg)
 
 - ### Pasir Untuk Pasang Batu, Pondasi, Bata, Ubin, Plester Di Sindangrasa Bogor
-    
 
 ![Harga Pasir Plester Free Ongkir Ke Sindangrasa Bogor](/images/info/pasir-hitam-11.jpg)
 
 Pasir ini lebih halus lagi dibandingkan oleh pasir beton. apabila anda mengepal pasir ini maka akan menggumpal dan tak akan buyar kembali. pasir pasang lazim nya di manfaatkan untuk campuran pasir beton supaya tidak terlalu kasar dan dapat di pakai untuk plesteran dinding.
 
 - ### Pasir Elod Untuk pengurugan lantai Di Sindangrasa Bogor
-    
 
 Di Antara ke dua pasir diatas pasir ragam ini lebih halus lagi, bila anda mengepal nya maka akan menggumpal dan tak akan hancur lagi. melainkan pasir tipe
 
 Pada lazim nya pasir ini nyaris sama dengan pasir beton melainkan pasir ini mempunyai tingkat kekasaran yg tinggi, butiran - butiran nya lumayan besar dan agak banyak batuan nya. pada lazimnya pasir ragam ini baik untuk bahan pengurugan lantai
 
 - ### Pasir Putih Tanpa Batu Untuk Pasang Lantai Marmer Di Sindangrasa Bogor
-    
 
 1. **Pasir Putih Bangka**
 

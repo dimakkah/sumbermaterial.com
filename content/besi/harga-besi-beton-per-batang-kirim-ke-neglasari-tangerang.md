@@ -18,19 +18,19 @@ Tanpa adanya besi maka sebuah bangunan akan mudah retak saat ada getaran kecil a
 
 ## Mengetahui Macam-macam Besi Di Neglasari Tangerang
 
-### 1\. Besi Polos Banci 4mm, 6mm, 8mm, 10mm, 12mm, 16mm, 18mm, 19mm Di Neglasari Tangerang
+### 1. Besi Polos Banci 4mm, 6mm, 8mm, 10mm, 12mm, 16mm, 18mm, 19mm Di Neglasari Tangerang
 
 Besi polos mempunyai ukuran mulai dari 8 mm sampai dengan 25 mm dan memiliki 6 meter panjang tekuk dan 12 meter panjang lurus. Besi beton ini telah mulai digunakan sebagai bahan utama di Indonesia pada tahun 1950. Besi ini sering kali kali digunakan untuk membangun rumah. Bahan yang gampang diaplikasikan sehingga selain digunakan untuk membangun bangunan beton juga digunakan untuk membangun trowongan, bendungan, dan lainnya. Ketika digunakan untuk membangun sebuah gedung bertingkat karenanya biasa besi polos ini diaplikasikan untuk struktur rangkaian besi balok, dinding, dan sloof. Besi beton polos ini mempunyai keunggulan besi polos ini tegangannya lebih tinggi dari pada besi lainnya. Jadi besi ini terkesan lebih kuat dan tahan beban. Oleh karena itu penggunaan besi polos ini sungguh-sungguh cocok untuk membangun gedung, jembatan, dan bangunan lainnya. Besi polos ini terbuat dari bahan seperti billet dan skrap. Billet yakni baja batangan yang pengerjaan pembuatannya dengan melebur biji besi. Sekiranya skrap merupakan besi bekas yang dihancurkan dengan temperature tertentu. Selain dari itu jika anda mengaplikasikan besi polos ini tdk memerlukan anggaran pemeliharaan. Semakin lama diterapkan maka besi ini akan kian kokoh.
 
-### 2\. Besi Ulir 4mm, 6mm, 8mm, 10mm, 12mm, 16mm, 18mm, 19mm Di Neglasari Tangerang
+### 2. Besi Ulir 4mm, 6mm, 8mm, 10mm, 12mm, 16mm, 18mm, 19mm Di Neglasari Tangerang
 
 Selaras dengan namanya besi beton ulir ini yakni besi yang karakternya mengulir. Pada permukaannya bercorak spiral yang memiliki tujuan untuk menyatukan tulangan dengan faktor bahan bangunan yang dibentuk oleh besi beton. Besi ulir ini mulai populer digunakan pada abad ke-20 di Amerika dan mulai populer di Indonesia pada tahun1950. Mengingat dikala menggunakan besi ulir ini mempunyai banyak kelebihan mulai dari kekokohan bangunan serta lebih hemat biaya dan efisien. Produk besi ulir ini menjadi primadona pasar karena mempunyai kualitas yang terbaik di Indonesia dan mempunyai harga yang tinggi seandainya diperbandingkan dengan produk lainnya.
 
-### 3\. Besi WF dan H-Beam Full Di Neglasari Tangerang
+### 3. Besi WF dan H-Beam Full Di Neglasari Tangerang
 
 Besi Wide Flange (WF) ini adalah salah satu baja dengan struktural yang paling populer dipakai untuk kontruksi baja. Kalau anda membutuhkan besi baja Wide Flage dalam jumlah yang banyak atau sedikit maka silahkan cari toko besi yang terpercaya. Besi WF ini memiliki ketahanan yang kokoh dan kokoh pada ketahanan tarik atau tekan. Karenanya dari itu besi ini menjadi elemen struktur yang memiliki batasan yang sempurna untuk menopang bobot tekan aksial, tarik aksial, dan lentur dengan fasilitas pembangunan strukturnya. Baja Wide Flange (WF) ini memiliki kepadatan yang tinggi melainkan rasio berat antara ketahanan bagian Baja WF yang tinggi tapi tdk terlalu berat yang terkait dengan kapasitas muatan. Selain dari itu memastikan sekiranya kontruksi yang diterapkan secara efisien. Sistem kontruksi baja WF ini kombinasi dari faktor struktur yang rumit. Pada struktur ini memiliki tujuan membawa muatan yang aman dan efektif yang berefek pada sebuah bangunan dan dikirim pada pondasinya. Gaya dan bobot yang berefek ini termasuk bobot pertikal, perbedaan temperatur, horizontal, getaran dan lainnya. Pada sebuah bangunan baja, karenanya ada unsure yang bermanfaat menahan gaya lateral dan gravitasi.
 
-### 4\. Besi Hollow Di Neglasari Tangerang
+### 4. Besi Hollow Di Neglasari Tangerang
 
 Besi hollow yaitu besi yang dipakai sebagai pembuatan kanopi, pagar, pintu besi dan lainnya. Bahan baku pembuatan besi Hollow ini umumnya terbuat dari stainless, galvanis, dan besi baja. Tetapi yang paling sering kali diaplikasikan sebagai bahan baku adalah galvanis. Terdapat kelebihan yang anda peroleh ketika memasang kanopi, mengaplikasikan pagar, teralis memakai besi hollow:
 

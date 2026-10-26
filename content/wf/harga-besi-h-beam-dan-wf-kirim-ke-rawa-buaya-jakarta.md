@@ -50,13 +50,13 @@ d. tidak dapat menjangkau lokasi yang sempit. Mengingat Besi WF ini berukuran pa
 
 ### Keunggulan Dari Besi WF Di Rawa Buaya Jakarta
 
-1\. Bisa memaksimalkan waktu dalam pembangunan sebuah konstruksi bangunan, memaksimalkan waktu dan juga memaksimalkan ongkos dan tenaga tukang.
+1. Bisa memaksimalkan waktu dalam pembangunan sebuah konstruksi bangunan, memaksimalkan waktu dan juga memaksimalkan ongkos dan tenaga tukang.
 
-2\. Dapat menyangga beban yang betul-betul berat, tidak gampang memuai dan lebih simple pengaplikasiannya dibanding dengan material struktural lainnya.
+2. Dapat menyangga beban yang betul-betul berat, tidak gampang memuai dan lebih simple pengaplikasiannya dibanding dengan material struktural lainnya.
 
-3\. Memiliki fleksibilitas yang tinggi. Sehingga struktur bangunan yang dibuat dari Besi WF ini menjadi lebih kuat tdk gampang bergeser, tdk gampang ambruk maupun goyang. Amat layak untuk tipe bangunan diatas tanah yang labil atau sering kali terjadi gempa.
+3. Memiliki fleksibilitas yang tinggi. Sehingga struktur bangunan yang dibuat dari Besi WF ini menjadi lebih kuat tdk gampang bergeser, tdk gampang ambruk maupun goyang. Amat layak untuk tipe bangunan diatas tanah yang labil atau sering kali terjadi gempa.
 
-4\. Lebih hemat sebab struktur bangunan yang mengaplikasikan Besi WF akan mempunyai kekokohan yang cukup lama malahan sampai ratusan tahun. Tentunya ini yaitu investasi yang betul-betul murah apabila kita bandingkan dengan waktu pakai. Malahan bangunan yang dibangun dengan rangka Besi WF bisa kita wariskan kepada si kecil cucu kita.
+4. Lebih hemat sebab struktur bangunan yang mengaplikasikan Besi WF akan mempunyai kekokohan yang cukup lama malahan sampai ratusan tahun. Tentunya ini yaitu investasi yang betul-betul murah apabila kita bandingkan dengan waktu pakai. Malahan bangunan yang dibangun dengan rangka Besi WF bisa kita wariskan kepada si kecil cucu kita.
 
 ## Mengetahui Besi H Beam Di Rawa Buaya Jakarta
 
@@ -72,15 +72,15 @@ Sama seperti besi yang kami jelaskan sebelumnya adalah Besi WF, besi H-Beam bahk
 
 ### Keunggulan Besi H Beam Di Rawa Buaya Jakarta
 
-1\. Mudah untuk didapat. Banyak supplier besi yang menyediakan stok besi H-Beam bermacam-macam ukuran. Sehingga besi H-Beam ini amat mudah untuk didapat, tdk sulit untuk menemukan supplier besi yang memasarkan besi H Beam.
+1. Mudah untuk didapat. Banyak supplier besi yang menyediakan stok besi H-Beam bermacam-macam ukuran. Sehingga besi H-Beam ini amat mudah untuk didapat, tdk sulit untuk menemukan supplier besi yang memasarkan besi H Beam.
 
-2\. Mudah Dalam Pemasangan. Banyak tukang spesialis dalam pemasangan besi H Beam. Meskipun besi H-Beam ini seharusnya dipasang oleh tukang yang ahli akan tetapi tukang yang ahli dalam memasang besi H Beam ini sangat banyak kita temui hari ini. Sehingga tdk perlu dikhawatirkan lagi pengerjaan pemasangannya.
+2. Mudah Dalam Pemasangan. Banyak tukang spesialis dalam pemasangan besi H Beam. Meskipun besi H-Beam ini seharusnya dipasang oleh tukang yang ahli akan tetapi tukang yang ahli dalam memasang besi H Beam ini sangat banyak kita temui hari ini. Sehingga tdk perlu dikhawatirkan lagi pengerjaan pemasangannya.
 
-3\. Memiliki daya tahan yang tidak diragukan lagi. Besi H Beam sudah teruji selama bertahun-tahun dalam kontruksi bangunan. Baik skala kecil maupun skala besar dan terbilang betul-betul tahan lama apabila diperbandingkan dengan material lainnya. Bisa bertahan hingga puluhan hingga ratusan tahun.
+3. Memiliki daya tahan yang tidak diragukan lagi. Besi H Beam sudah teruji selama bertahun-tahun dalam kontruksi bangunan. Baik skala kecil maupun skala besar dan terbilang betul-betul tahan lama apabila diperbandingkan dengan material lainnya. Bisa bertahan hingga puluhan hingga ratusan tahun.
 
-4\. Gampang dalam pemeliharaannya. Bangunan yang mengaplikasikan besi H Beam sebagai struktur rangka bangunannya akan betul-betul mudah dalam menjalankan pemeliharaannya. tdk perlu pengecatan dengan cat khusus maupun pembersihan setiap saat.
+4. Gampang dalam pemeliharaannya. Bangunan yang mengaplikasikan besi H Beam sebagai struktur rangka bangunannya akan betul-betul mudah dalam menjalankan pemeliharaannya. tdk perlu pengecatan dengan cat khusus maupun pembersihan setiap saat.
 
-5\. Mengurangi penggunaan material lainnya, seperti penggunaan bekisting, pemakaian tiang penyangga atau steger dan juga material pasir. Besi H Beam Tdk memerlukan material pasir dalam pemakaiannya.
+5. Mengurangi penggunaan material lainnya, seperti penggunaan bekisting, pemakaian tiang penyangga atau steger dan juga material pasir. Besi H Beam Tdk memerlukan material pasir dalam pemakaiannya.
 
 ### Kekurangan Dari Besi H Beam Di Rawa Buaya Jakarta
 

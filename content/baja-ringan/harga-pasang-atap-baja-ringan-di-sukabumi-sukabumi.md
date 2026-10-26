@@ -21,19 +21,19 @@ Pemasangan baja ringan untuk kebutuhan bangunan Anda bisa Kami lakukan dengan mu
 
 Berikut beberapa alasan utama yang perlu Anda ketahui sebelum menghubungi Kami:
 
- **Ramah Lingkungan:** Penggunaan baja ringan mengurangi kebutuhan akan kayu, yang berarti lebih sedikit pohon yang ditebang. Dengan memilih baja ringan, Anda turut berkontribusi dalam melestarikan alam di Sukabumi Sukabumi.
+- **Ramah Lingkungan:** Penggunaan baja ringan mengurangi kebutuhan akan kayu, yang berarti lebih sedikit pohon yang ditebang. Dengan memilih baja ringan, Anda turut berkontribusi dalam melestarikan alam di Sukabumi Sukabumi.
 
- **Lebih Ekonomis:** Jika dibandingkan dengan kerangka kayu, baja ringan umumnya lebih terjangkau. Biaya yang lebih rendah ini sangat penting untuk menekan anggaran pembangunan Anda.
+- **Lebih Ekonomis:** Jika dibandingkan dengan kerangka kayu, baja ringan umumnya lebih terjangkau. Biaya yang lebih rendah ini sangat penting untuk menekan anggaran pembangunan Anda.
 
- **Ringan Namun Kuat:** Baja ringan berbeda dengan baja atau besi biasa yang berat. Dengan ketebalan yang tipis dan ringan, baja ringan tetap sangat kuat untuk menjadi kerangka atap dan canopy rumah Anda.
+- **Ringan Namun Kuat:** Baja ringan berbeda dengan baja atau besi biasa yang berat. Dengan ketebalan yang tipis dan ringan, baja ringan tetap sangat kuat untuk menjadi kerangka atap dan canopy rumah Anda.
 
- **Perawatan Minimal:** Anda tidak perlu khawatir tentang kerusakan atau perawatan rutin. Ini akan membebaskan Anda dari biaya perawatan tahunan.
+- **Perawatan Minimal:** Anda tidak perlu khawatir tentang kerusakan atau perawatan rutin. Ini akan membebaskan Anda dari biaya perawatan tahunan.
 
- **Pemasangan Cepat:** Proses pemasangan baja ringan jauh lebih cepat dibandingkan material lain seperti kayu.
+- **Pemasangan Cepat:** Proses pemasangan baja ringan jauh lebih cepat dibandingkan material lain seperti kayu.
 
- **Kualitas Terjamin:** Baja ringan yang Kami gunakan memiliki kualitas terbaik, terbuat dari zinc dan aluminium dengan sertifikasi keamanan 4 kali lebih baik dari baja biasa. Kekuatannya pun mampu menopang beban berat.
+- **Kualitas Terjamin:** Baja ringan yang Kami gunakan memiliki kualitas terbaik, terbuat dari zinc dan aluminium dengan sertifikasi keamanan 4 kali lebih baik dari baja biasa. Kekuatannya pun mampu menopang beban berat.
 
- **Tahan Rayap:** Kerangka atap dan canopy dari baja ringan ini dijamin tahan terhadap serangan rayap.
+- **Tahan Rayap:** Kerangka atap dan canopy dari baja ringan ini dijamin tahan terhadap serangan rayap.
 
 ## Sistem Perhitungan Luas Rangka Baja Ringan Di Sukabumi Sukabumi
 
@@ -63,22 +63,22 @@ Membahas harga jasa pasang baja ringan, banyak informasi tersedia di internet. N
 
 (Catatan: harga dapat disesuaikan) Berikut perkiraan biaya jasa pasang baja ringan berdasarkan jenis pemasangan:
 
-\- Kanopi rangka baja ringan “Polikarbonat x Lite Rp. 285.000 / m
+- Kanopi rangka baja ringan “Polikarbonat x Lite Rp. 285.000 / m
 - Kanopi rangka baja ringan “Spandek Rp. 225.000 / m
 - Kanopi rangka baja ringan “Gogreen Rp. 200.000 /m
 - Untuk perhitungan lainnya, silakan hubungi Kami melalui kontak yang tertera di website Kami.
 
 ### Parameter Besaran Biaya Layanan Pasang Baja Ringan
 
-### 1. Pembuatan Sketsa Desain
+#### 1. Pembuatan Sketsa Desain
 
 Harga juga dipengaruhi oleh desain atau sketsa yang Anda inginkan. Tim teknisi Kami akan membuat sketsa untuk menentukan kebutuhan material baja ringan secara akurat, meminimalkan sisa material yang tidak perlu. Pembuatan sketsa sudah termasuk dalam perhitungan harga pasang baja ringan dari Layanan Kami.
 
-### 2. Perhitungan Kebutuhan Rangka
+#### 2. Perhitungan Kebutuhan Rangka
 
 Setelah sketsa selesai, Kami akan menghitung kebutuhan rangka untuk memperkirakan volume baja ringan yang dibutuhkan. Anda bisa berkonsultasi dengan tim teknisi Kami mengenai waktu dan kualitas material, diskusikan secara menyeluruh untuk mendapatkan material yang paling sesuai dengan kebutuhan Anda.
 
-### 3. Penentuan Budget
+#### 3. Penentuan Budget
 
 Setelah sketsa dan perhitungan rangka selesai, Anda bisa mendiskusikan estimasi biaya dari seluruh proses pemasangan baja ringan. Budget akan dipengaruhi oleh jumlah rangka, luas area kerangka, material tambahan, biaya tenaga kerja, dan pengiriman. Mintalah rincian Harga Jasa pasang baja ringan agar Anda memiliki gambaran yang jelas dalam menyiapkan anggaran. Anda juga bisa memilih jenis baja ringan mulai dari standar hingga berkualitas tinggi, diskusikan dengan teknisi Kami di lokasi Anda.
 

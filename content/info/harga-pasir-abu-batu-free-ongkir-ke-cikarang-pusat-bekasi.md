@@ -25,7 +25,7 @@ berdasarkan Standar Nasional Indonesia ( SK SNI - S - 04 - 1989 - F ; 28) di tut
 
 Persyaratan Pasir yg Baik buat Konstruksi
 
-1.  Agregat Halus seharusnya terdiri dari butiran yang tajam dan keras dengan indeks kekerasan <2.2
+1.  Agregat Halus seharusnya terdiri dari butiran yang tajam dan keras dengan indeks kekerasan <2.2
 2. bilamana diterapkan Natrium Sulfat bagian hancur optimal 12 persen
 3. kalau digunakan Magnesium Sulfat bagian halus maksimal sepuluh persen
 4. Tak boleh memuat lumpur lebih dari 5%
@@ -41,7 +41,6 @@ Persyaratan Pasir yg Baik buat Konstruksi
 Setelah mengenal prasyarat pasir untuk sebuah Konstruksi Bangunan, sekarang ini kita bahas Macam - Ragam Pasir Untuk Konstruksi penjelasan nya berikut ini:
 
 - ### Pasir untuk Cor Rigid Di Cikarang Pusat Bekasi
-    
 
 Pasir ini biasa nya berwarna hitam kemerahan dan tingkat kekerasan butiran nya lumayan tinggi. Namun kalau anda mengepal nya dengan tangan tidak akan menggumpal dan akan buyar kembali. tipe pasir ini betul-betul lah baik buat Pengecoran, Plesteran Dinding, Adukan Pondasi dan Adukan Pasangan Bata Pasir ini yaitu pasir untuk Cor yakni butiran-butiran mineral keras dan tajam berukuran antara 0,075 – 5 mm, apabila terdapat butiran berukuran lebih kecil dari 0,063 mm tidak lebih dari 5% berat. Pasir ini yaitu pasir untuk Beton tak jarang digunakan untuk pekerjaan cor-coran struktur seperti kolom, balok dan pelat lantai.
 
@@ -52,9 +51,9 @@ Harga Pasir Abu Batu Free Ongkir Ke Cikarang Pusat Bekasi Kalau anda sebagai kon
 Pasir nomor satu dari kp. jebrod cianjur jawa barat yang dipakai oleh indocement serta perusahaan batching plant lainnya sebagai bahan dasar produksi readymix concrete. Pasir ini paling disarankan untuk cor sebab irit semen juga mempunyai kandungan lumpur yang sungguh-sungguh rendah dibawah delapan %. warnanya Hitam abu tua atau hitam seperti hitamnya batu kali, ada juga yang hitam kemerahan atau hitam terasi
 
 3. **Pasir Hitam Beton Cimangkok.** Pasir asal Tempat penambangannya di cimangkok sukabumi jabar yang masih masuk terhadap golongan pasir hitam No. 1 di jabar, warnanya hitam kecoklatan sesuai untuk cor, pasang pondasi dan bata
-    
+
     ![Harga Pasir Abu Batu Free Ongkir Ke Cikarang Pusat Bekasi](/images/info/pasir-hitam-2.jpg)
-    
+
 4. **Pasir Hitam Rigid Cimalaka Subang Bandung.**
 
 Pasir terbaik yang berwarna hitam kebauan ada juga yang berwarna hitam abu tua. Banyak di aplikasikan untuk Rigid, pasang dan keperluan lainnya. Ditambang di kampung cimalaka
@@ -90,9 +89,9 @@ Kecuali Rangkasbitung, Banten juga mempunyai lokasi pnembangan pasir lain sepert
 Masih dari Tempat di banten, pasir kelas tiga ini merupakan pasir yang banyak diaplikasikan di proyek proyek perumahan atau cluster sebab harganya yang murah juga mutu yang unggul. Warna pasir ini hitam kecoklatan dan keabuan benar-benar disarankan untuk pasang pondasi, bata, batu dan lainnya
 
 27. **Pasir Hitam Cor Bohlam Sukabumi.** Pasir dari Kawasan kp. bohlam di sukabumi berwarna hitam kecoklatan, betul-betul bagus untuk pasang bata, pondasi dan lain-lain sebagai pilihan pasir kwalitas bagus dan tidak mahal
-    
+
     ![Harga Pasir Abu Batu Free Ongkir Ke Cikarang Pusat Bekasi](/images/info/pasir-hitam-9.jpg)
-    
+
 28. **Pasir Rigid Galunggung.**
 
 Pasir ini yaitu pasir hitam mutu paling unggul dikelasnya awam diterapkan oleh pabrik pengolahan beton readymix juga perusahan pembuatan precast dan kerap kali juga diterapkan untuk bahan pembuatan batako press hitam, paving block dan lainnya. Pasir ini ditambang dari Tasikmalaya jabar.
@@ -100,21 +99,18 @@ Pasir ini yaitu pasir hitam mutu paling unggul dikelasnya awam diterapkan oleh p
 ![Harga Pasir Abu Batu Free Ongkir Ke Cikarang Pusat Bekasi](/images/info/pasir-hitam-8.jpg)
 
 - ### Pasir Pasang Di Cikarang Pusat Bekasi
-    
 
 ![Harga Pasir Abu Batu Free Ongkir Ke Cikarang Pusat Bekasi](/images/info/pasir-putih12.jpg)
 
 Pasir ini lebih halus lagi dibandingi oleh pasir beton. sekiranya anda mengepal pasir ini karenanya akan menggumpal dan tidak akan buyar kembali. pasir pasang lazim nya di manfaatkan tuk adukan pasir beton supaya tidak terlalu kasar dan bisa di manfaatkan untuk plesteran dinding.
 
 - ### Pasir Elod Untuk Dasaran Pemasangan Granit Di Cikarang Pusat Bekasi
-    
 
 Di Antara ke dua pasir diatas pasir jenis ini lebih halus lagi, seandainya kamu mengepal nya akan menggumpal dan tak akan hancur lagi. tapi pasir jenis
 
 Pada nya pasir ini nyaris sama dgn pasir beton tetapi pasir ini memiliki tingkat kekasaran yang tinggi, butiran - butiran nya cukup besar dan agak banyak batuan nya. pada umumnya pasir tipe ini baik untuk bahan pemadatan lantai
 
 - ### Pasir Putih Tanpa Batu Untuk Pasang Lantai Marmer Di Cikarang Pusat Bekasi
-    
 
 1. **Pasir Putih Bangka**
 

@@ -25,7 +25,7 @@ berdasarkan Standar Nasional Indonesia ( SK SNI - S - 04 - 1989 - F ; 28) di seb
 
 Prasyarat Pasir yg Bagus tuk Konstruksi Bangunan
 
-1.  Agregat Halus patut terdiri dari butiran yang tajam dan keras dengan indeks kekerasan <2.2
+1.  Agregat Halus patut terdiri dari butiran yang tajam dan keras dengan indeks kekerasan <2.2
 2. apabila dimanfaatkan Natrium Sulfat bagian hancur maksimal dua belas persen
 3. Apabila dipakai Magnesium Sulfat bagian halus maksimal sepuluh %
 4. Tidak boleh berisi lumpur lebih dari 5 persen
@@ -41,7 +41,6 @@ Prasyarat Pasir yg Bagus tuk Konstruksi Bangunan
 setelah mengenal syarat pasir buat sebuah Bangunan, saat ini kita bahas Ragam - Macam Pasir Untuk Bangunan penjelasan nya sebagai berikut:
 
 - ### Pasir Cor Di Krukut Depok
-    
 
 Pasir ini biasa nya berwarna keabu-abuan dan tingkat pecahan butiran nya cukup tinggi. Tetapi sekiranya anda mengepal nya dengan tangan tidak akan lengket dan akan hancur kembali. jenis pasir ini amat lah baik buat Pengecoran, Plesteran Dinding, Adukan Pondasi dan Adukan Pasangan Bata Pasir ini yaitu pasir untuk Cor ialah butiran-butiran mineral keras dan tajam berukuran antara 0,075 – 5 mm, jika terdapat butiran berukuran lebih kecil dari 0,063 mm tak lebih dari 5% berat. Pasir ini yaitu pasir untuk Beton hampir sering kali diaplikasikan untuk pekerjaan cor-coran struktur seperti kolom, balok dan pelat lantai.
 
@@ -59,21 +58,18 @@ Untuk memperoleh kualitas Beton yang optimal karenanya pasir seharusnya bisa mem
 ![Harga Pasir Mundu Free Ongkir Ke Krukut Depok](/images/info/pasir-hitam-8.jpg)
 
 - ### Pasir Biasa Di Krukut Depok
-    
 
 ![Harga Pasir Mundu Free Ongkir Ke Krukut Depok](/images/info/pasir-putih12.jpg)
 
 Pasir ini ekstra halus lagi diperbandingkan oleh pasir beton. kalau anda mengepal pasir ini maka akan menggumpal dan tak akan hancur kembali. pasir pasang biasa nya di pakai untuk campuran pasir beton supaya tak terlampau kasar dan bisa di manfaatkan untuk plesteran dinding.
 
 - ### Pasir Urug Untuk pemadatan lantai Di Krukut Depok
-    
 
 Di Antara ke dua pasir diatas pasir model ini lebih halus lagi, apabila anda mengepal nya akan menggumpal dan tidak akan hancur lagi. tapi pasir macam
 
 Pada nya pasir ini nyaris sama dengan pasir beton tetapi pasir ini memiliki tingkat kekasaran yang tinggi, butiran - butiran nya lumayan besar dan agak banyak batuan nya. pada lazimnya pasir tipe ini bagus untuk bahan pemadatan lantai
 
 - ### Pasir Putih Bebas Lumpur Untuk Pelester Di Krukut Depok
-    
 
 1. **Pasir Putih Bangka**
 

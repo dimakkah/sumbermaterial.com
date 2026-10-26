@@ -25,7 +25,7 @@ berdasarkan Standar Nasional Indonesia ( SK SNI - S - 04 - 1989 - F ; 28) di seb
 
 Prasyarat Pasir yang Baik tuk Bangunan
 
-1.  Agregat Halus harus terdiri dari butiran yang tajam dan keras dengan indeks kekerasan <2.2
+1.  Agregat Halus harus terdiri dari butiran yang tajam dan keras dengan indeks kekerasan <2.2
 2. Kalau diterapkan Natrium Sulfat bagian hancur maksimal 12 persen
 3. apabila diaplikasikan Magnesium Sulfat komponen halus optimal 5 persen
 4. Tak boleh berisi tanah lebih dari 5 persen
@@ -41,7 +41,6 @@ Prasyarat Pasir yang Baik tuk Bangunan
 setelah memahami prasyarat pasir untuk sebuah Bangunan, pada saat ini kita bahas Macam - Ragam Pasir Untuk Konstruksi Bangunan penjelasan nya berikut ini:
 
 - ### Pasir Model Beton dan Daerah Sumbernya Di Telukjambe Timur Karawang
-    
 
 Pasir ini biasa nya berwarna coklat tua dan tingkat pecahan butiran nya lumayan tinggi. Tapi apabila anda mengepal nya dengan tangan tak akan menggumpal dan akan buyar kembali. model pasir ini sungguh-sungguh lah baik tuk Pengecoran, Plesteran Dinding, Adukan Pondasi dan Adukan Pasangan Bata Pasir ini yaitu pasir untuk Cor yaitu butiran-butiran mineral keras dan tajam berukuran antara 0,075 – 5 mm, jika terdapat butiran berukuran lebih kecil dari 0,063 mm tidak lebih dari 5% berat. Pasir ini yaitu pasir untuk Beton kerap kali diterapkan untuk profesi cor-coran struktur seperti kolom, balok dan pelat lantai.
 
@@ -59,21 +58,18 @@ Untuk mendapat ketahanan Cor yang maksimal karenanya pasir sepatutnya bisa memen
 ![Harga Pasir Rangkas Free Ongkir Ke Telukjambe Timur Karawang](/images/info/pasir-hitam-7.jpg)
 
 - ### Pasir Untuk Adukan Pasang Batu, Pondasi, Bata, Ubin, Plester Di Telukjambe Timur Karawang
-    
 
 ![Harga Pasir Rangkas Free Ongkir Ke Telukjambe Timur Karawang](/images/info/pasir-hitam-4.jpg)
 
 Pasir ini ekstra halus lagi dibandingkan oleh pasir beton. seandainya anda mengepal pasir ini maka akan menggumpal dan tak akan hancur kembali. pasir pasang lazim nya di gunakan tuk campuran pasir beton supaya tidak terlampau kasar dan bisa di gunakan untuk plesteran dinding.
 
 - ### Pasir Elod Untuk Dasaran Pemasangan Granit Di Telukjambe Timur Karawang
-    
 
 Di Antara ke dua pasir diatas pasir ragam ini lebih halus lagi, sekiranya anda mengepal nya akan menggumpal dan tidak akan hancur lagi. melainkan pasir jenis
 
 Pada biasa nya pasir ini nyaris sama dengan pasir beton tapi pasir ini memiliki tingkat kekasaran yg tinggi, butiran - butiran nya lumayan besar dan agak banyak batuan nya. pada lazimnya pasir macam ini baik tuk bahan dasaran pemasangan keramik
 
 - ### Pasir Putih Kadar Lumpur Rendah Untuk Pengecoran Di Telukjambe Timur Karawang
-    
 
 1. **Pasir Putih Bangka**
 

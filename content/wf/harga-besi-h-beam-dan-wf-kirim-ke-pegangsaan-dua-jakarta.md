@@ -50,13 +50,13 @@ d. tdk dapat menjangkau lokasi yang sempit. Mengingat Besi WF ini berukuran panj
 
 ### Keunggulan Dari Besi WF Di Pegangsaan Dua Jakarta
 
-1\. Bisa menghemat waktu dalam pembangunan sebuah konstruksi bangunan, menghemat waktu dan juga mengurangi ongkos dan tukang pasang.
+1. Bisa menghemat waktu dalam pembangunan sebuah konstruksi bangunan, menghemat waktu dan juga mengurangi ongkos dan tukang pasang.
 
-2\. Dapat menyangga beban yang amat berat, tidak gampang memuai dan lebih simple pengaplikasiannya dibanding dengan material struktural lainnya.
+2. Dapat menyangga beban yang amat berat, tidak gampang memuai dan lebih simple pengaplikasiannya dibanding dengan material struktural lainnya.
 
-3\. Mempunyai fleksibilitas yang tinggi. Sehingga struktur bangunan yang dijadikan dari Besi WF ini menjadi lebih kuat tdk gampang bergeser, tdk mudah ambrol maupun goyang. Sangat cocok untuk tipe bangunan diatas tanah yang labil atau sering kali terjadi gempa.
+3. Mempunyai fleksibilitas yang tinggi. Sehingga struktur bangunan yang dijadikan dari Besi WF ini menjadi lebih kuat tdk gampang bergeser, tdk mudah ambrol maupun goyang. Sangat cocok untuk tipe bangunan diatas tanah yang labil atau sering kali terjadi gempa.
 
-4\. Lebih hemat karena struktur bangunan yang memakai Besi WF akan memiliki ketahanan yang cukup lama malah hingga ratusan tahun. Tentunya ini merupakan investasi yang benar-benar murah jika kita bandingkan dengan waktu gunakan. Malah bangunan yang dibangun dengan rangka Besi WF dapat kita wariskan terhadap anak cucu kita.
+4. Lebih hemat karena struktur bangunan yang memakai Besi WF akan memiliki ketahanan yang cukup lama malah hingga ratusan tahun. Tentunya ini merupakan investasi yang benar-benar murah jika kita bandingkan dengan waktu gunakan. Malah bangunan yang dibangun dengan rangka Besi WF dapat kita wariskan terhadap anak cucu kita.
 
 ## Mengenal Besi H Beam Di Pegangsaan Dua Jakarta
 
@@ -72,15 +72,15 @@ Sama seperti besi yang kami paparkan sebelumnya ialah Besi WF, besi H-Beam pun m
 
 ### Keunggulan Besi H Beam Di Pegangsaan Dua Jakarta
 
-1\. Gampang untuk diperoleh. Banyak distributor besi yang menyediakan stok besi H-Beam beragam ukuran. Sehingga besi H-Beam ini sangat mudah untuk diperoleh, tidak susah untuk memperoleh distributor besi yang menjual besi H Beam.
+1. Gampang untuk diperoleh. Banyak distributor besi yang menyediakan stok besi H-Beam beragam ukuran. Sehingga besi H-Beam ini sangat mudah untuk diperoleh, tidak susah untuk memperoleh distributor besi yang menjual besi H Beam.
 
-2\. Gampang Dalam Pemasangan. Banyak tukang spesialis dalam pemasangan besi H Beam. Meskipun besi H-Beam ini seharusnya dipasang oleh tukang yang ahli akan tetapi tukang yang ahli dalam memasang besi H Beam ini sangat banyak kita temui hari ini. Sehingga tdk perlu dikhawatirkan lagi pengerjaan pemasangannya.
+2. Gampang Dalam Pemasangan. Banyak tukang spesialis dalam pemasangan besi H Beam. Meskipun besi H-Beam ini seharusnya dipasang oleh tukang yang ahli akan tetapi tukang yang ahli dalam memasang besi H Beam ini sangat banyak kita temui hari ini. Sehingga tdk perlu dikhawatirkan lagi pengerjaan pemasangannya.
 
-3\. Memiliki ketahanan yang tdk diragukan lagi. Besi H Beam sudah teruji selama bertahun-tahun dalam kontruksi bangunan. Baik skala kecil maupun skala besar dan terbilang betul-betul kuat jikalau dibandingkan dengan material lainnya. Bisa bertahan sampai puluhan sampai ratusan tahun.
+3. Memiliki ketahanan yang tdk diragukan lagi. Besi H Beam sudah teruji selama bertahun-tahun dalam kontruksi bangunan. Baik skala kecil maupun skala besar dan terbilang betul-betul kuat jikalau dibandingkan dengan material lainnya. Bisa bertahan sampai puluhan sampai ratusan tahun.
 
-4\. Gampang dalam perawatannya. Bangunan yang menggunakan besi H Beam sebagai struktur rangka bangunannya akan amat gampang dalam menjalankan perawatannya. tdk perlu pengecatan dengan cat khusus ataupun pembersihan setiap saat.
+4. Gampang dalam perawatannya. Bangunan yang menggunakan besi H Beam sebagai struktur rangka bangunannya akan amat gampang dalam menjalankan perawatannya. tdk perlu pengecatan dengan cat khusus ataupun pembersihan setiap saat.
 
-5\. Mengurangi pengaplikasian material lainnya, seperti pengaplikasian bekisting, penggunaan steger atau tiang penyangga dan juga material pasir. Besi H Beam tidak memerlukan material pasir dalam penerapannya.
+5. Mengurangi pengaplikasian material lainnya, seperti pengaplikasian bekisting, penggunaan steger atau tiang penyangga dan juga material pasir. Besi H Beam tidak memerlukan material pasir dalam penerapannya.
 
 ### Kekurangan Dari Besi H Beam Di Pegangsaan Dua Jakarta
 

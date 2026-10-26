@@ -18,19 +18,19 @@ Dengan tidak adanya besi maka sebuah bangunan akan mudah retak dikala ada getara
 
 ## Mengetahui Jenis-jenis Besi Di Gunungkaler Tangerang
 
-### 1\. Besi Polos KS 4mm, 6mm, 8mm, 10mm, 12mm, 16mm, 18mm, 19mm Di Gunungkaler Tangerang
+### 1. Besi Polos KS 4mm, 6mm, 8mm, 10mm, 12mm, 16mm, 18mm, 19mm Di Gunungkaler Tangerang
 
 Besi polos mempunyai ukuran mulai dari 8 mm hingga 25 mm dan mempunyai 6 meter panjang tekuk dan 12 meter panjang lurus. Besi beton ini telah mulai dipakai sebagai bahan utama di Indonesia pada tahun 1950. Besi ini kerap kali dipakai untuk membangun bangunan beton. Bahan yang mudah dipakai sehingga selain dari diaplikasikan untuk membangun bangunan beton juga diaplikasikan untuk membangun trowongan, bendungan, dan lainnya. Dikala diterapkan untuk membangun bangunan beton bertingkat maka biasanya besi polos ini dipakai untuk struktur tulangan balok, dinding, dan sloof. Besi beton polos ini memiliki keunggulan besi polos ini tegangannya lebih tinggi dari pada besi lainnya. Oleh karena itu besi ini terkesan lebih kokoh dan tahan beban. Oleh karena itu pemakaian besi polos ini amat layak untuk membangun gedung, jembatan, dan bangunan lainnya. Besi polos ini terbuat dari bahan seperti billet dan skrap. Billet ialah baja batangan yang cara kerja pembuatannya dengan melebur biji besi. Jikalau skrap adalah besi bekas yang dileburkan dengan temperature tertentu. Selain itu seandainya anda menggunakan besi polos ini tdk memerlukan budget pemeliharaan. Semakin lama dipakai maka besi ini akan semakin kokoh.
 
-### 2\. Besi Ulir Toleransi 4mm, 6mm, 8mm, 10mm, 12mm, 16mm, 18mm, 19mm Di Gunungkaler Tangerang
+### 2. Besi Ulir Toleransi 4mm, 6mm, 8mm, 10mm, 12mm, 16mm, 18mm, 19mm Di Gunungkaler Tangerang
 
 Cocok dengan namanya besi beton ulir ini yaitu besi yang bentuknya mengulir. Pada permukaannya bercorak spiral yang memiliki tujuan untuk menyatukan gerigi besi dengan elemen material bangunan yang dibentuk oleh besi beton. Besi ulir ini mulai populer diterapkan pada abad ke-20 di Amerika dan mulai populer di Indonesia pada tahun1950. Mengingat saat mengaplikasikan besi ulir ini memiliki banyak kelebihan mulai dari ketahanan bangunan serta lebih murah dan efisien. Produk besi ulir ini menjadi paling laris di pasar sebab mempunyai kualitas yang terbaik di Indonesia dan memiliki harga yang tinggi kalau diperbandingkan dengan produk lainnya.
 
-### 3\. Besi WF dan H-Beam Krakatau Steel Di Gunungkaler Tangerang
+### 3. Besi WF dan H-Beam Krakatau Steel Di Gunungkaler Tangerang
 
 Besi Wide Flange (WF) ini yakni salah satu baja dengan struktural yang paling populer diterapkan untuk kontruksi baja. Seandainya anda membutuhkan besi baja Wide Flage dalam jumlah yang banyak atau sedikit karenanya silahkan cari jual besi yang terpercaya. Besi WF ini mempunyai ketahanan yang kokoh dan kokoh pada kekuatan tarik atau tekan. Karenanya dari itu besi ini menjadi unsur struktur yang mempunyai batasan yang sempurna untuk menahan muatan tekan aksial, tarik aksial, dan lentur dengan fasilitas pembangunan strukturnya. Baja Wide Flange (WF) ini mempunyai kepadatan yang tinggi tapi rasio berat antara kekokohan bagian Baja WF yang tinggi tetapi tdk begitu berat yang berkaitan dengan kapasitas bobot. Selain itu memastikan jikalau kontruksi yang digunakan secara efisien. Cara kontruksi baja WF ini kombinasi dari elemen struktur yang kompleks. Pada struktur ini mempunyai tujuan membawa bobot yang aman dan efektif yang berefek pada sebuah bangunan dan dikirim pada pondasinya. Gaya dan muatan yang bekerja ini termasuk beban pertikal, perbedaan suhu, horizontal, getaran dan lainnya. Pada sebuah bangunan baja, karenanya ada unsure yang berfungsi menopang gaya lateral dan gravitasi.
 
-### 4\. Besi Holo Di Gunungkaler Tangerang
+### 4. Besi Holo Di Gunungkaler Tangerang
 
 Besi hollow yakni besi yang diaplikasikan sebagai pembuatan kanopi, pagar, pintu besi dan lainnya. Bahan baku pembuatan besi Hollow ini lazimnya terbuat dari stainless, galvanis, dan besi baja. Tapi yang paling tak jarang diaplikasikan sebagai bahan baku merupakan galvanis. Terdapat kelebihan yang anda temukan ketika menerapkan kanopi, mengaplikasikan pagar, teralis menggunakan besi hollow:
 

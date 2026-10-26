@@ -25,7 +25,7 @@ Menurut Standar Nasional Indonesia ( SK SNI - S - 04 - 1989 - F ; 28) di sebutka
 
 Syarat-Syarat Pasir yg Bagus tuk Konstruksi Bangunan
 
-1.  Agregat Halus wajib terdiri dari butiran yang tajam dan keras dengan indeks kekerasan <2.2
+1.  Agregat Halus wajib terdiri dari butiran yang tajam dan keras dengan indeks kekerasan <2.2
 2. Apabila dimanfaatkan Natrium Sulfat komponen hancur optimal dua belas persen
 3. jika digunakan Magnesium Sulfat bagian halus optimal 10%
 4. Tak boleh memuat lumpur lebih dari 5 persen
@@ -41,7 +41,6 @@ Syarat-Syarat Pasir yg Bagus tuk Konstruksi Bangunan
 Setelah tahu persis prasyarat pasir tuk suatu Konstruksi, sekarang ini kita bahas model - Tipe Pasir Untuk Konstruksi Bangunan penjelasan nya sebagai berikut:
 
 - ### Pasir Untuk Beton Di Sunter Agung Jakarta
-    
 
 Pasir ini umum nya berwarna hitam pekat dan tingkat pecahan butiran nya lumayan tinggi. Namun sekiranya anda mengepal nya dengan tangan tak akan lengket dan akan hancur kembali. jenis pasir ini benar-benar lah baik buat Pengecoran, Plesteran Dinding, Adukan Pondasi dan Adukan Pasangan Bata Pasir ini yaitu pasir untuk Cor merupakan butiran-butiran mineral keras dan tajam berukuran antara 0,075 – 5 mm, seandainya terdapat butiran berukuran lebih kecil dari 0,063 mm tak lebih dari 5% berat. Pasir ini yaitu pasir untuk Beton hampir kerap dimanfaatkan untuk profesi cor-coran struktur seperti kolom, balok dan pelat lantai.
 
@@ -59,21 +58,18 @@ Untuk memperoleh kekuatan Rigid yang optimal karenanya pasir seharusnya bisa mem
 ![Harga Pasir Urug Free Ongkir Ke Sunter Agung Jakarta](/images/info/pasir-hitam-5.jpg)
 
 - ### Pasir Pasang Di Sunter Agung Jakarta
-    
 
 ![Harga Pasir Urug Free Ongkir Ke Sunter Agung Jakarta](/images/info/pasir-hitam-11.jpg)
 
 Pasir ini lebih halus lagi dibandingkan oleh pasir beton. kalau kalian mengepal pasir ini maka akan menggumpal dan tak akan buyar kembali. pasir pasang umum nya di pakai buat adukan pasir beton supaya tidak terlalu kasar dan bisa di manfaatkan untuk plesteran dinding.
 
 - ### Pasir Kualitas rendah Untuk Pembuatan Batako Di Sunter Agung Jakarta
-    
 
 Di Antara ke dua pasir diatas pasir macam ini lebih halus lagi, jika kalian mengepal nya akan menggumpal dan tidak akan buyar lagi. tetapi pasir tipe
 
 Pada nya pasir ini nyaris sama dgn pasir beton namun pasir ini mempunyai tingkat kekasaran yg tinggi, butiran - butiran nya lumayan besar dan agak banyak batuan nya. pada umumnya pasir ragam ini bagus tuk bahan Pembuatan Batako
 
 - ### Pasir Putih Tanpa Batu Untuk Pasang Lantai Marmer Di Sunter Agung Jakarta
-    
 
 1. **Pasir Putih Bangka**
 

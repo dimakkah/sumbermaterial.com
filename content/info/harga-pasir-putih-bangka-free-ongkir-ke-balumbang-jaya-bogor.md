@@ -25,7 +25,7 @@ menurut Standar Nasional Indonesia ( SK SNI - S - 04 - 1989 - F ; 28) di tuturka
 
 Persyaratan Pasir yg Bagus tuk Konstruksi Bangunan
 
-1.  Agregat Halus wajib terdiri dari butiran yg tajam dan keras dengan indeks kekerasan <2.2
+1.  Agregat Halus wajib terdiri dari butiran yg tajam dan keras dengan indeks kekerasan <2.2
 2. Sekiranya dipakai Natrium Sulfat komponen hancur optimal 12%
 3. bila digunakan Magnesium Sulfat komponen halus maksimal 5 persen
 4. Tak boleh memuat lumpur lebih dari lima %
@@ -41,7 +41,6 @@ Persyaratan Pasir yg Bagus tuk Konstruksi Bangunan
 setelah mengetahui persyaratan pasir untuk sebuah Bangunan, sekarang ini kita bahas model - Macam Pasir Untuk Konstruksi penjelasan nya sbb:
 
 - ### Pasir untuk Cor Rigid Di Balumbang Jaya Bogor
-    
 
 Pasir ini umum nya berwarna hitam pekat dan tingkat kekerasan butiran nya lumayan tinggi. Tetapi jikalau anda mengepal nya dengan tangan tidak akan menggumpal dan akan hancur kembali. model pasir ini sangat lah bagus untuk Pengecoran, Plesteran Dinding, Adukan Pondasi dan Adukan Pasangan Bata Pasir ini yaitu pasir untuk Cor yakni butiran-butiran mineral keras dan tajam berukuran antara 0,075 – 5 mm, seandainya terdapat butiran berukuran lebih kecil dari 0,063 mm tidak lebih dari 5% berat. Pasir ini yaitu pasir untuk Cor tak jarang diterapkan untuk pekerjaan cor-coran struktur seperti kolom, balok dan pelat lantai.
 
@@ -52,9 +51,9 @@ Harga Pasir Putih Bangka Free Ongkir Ke Balumbang Jaya Bogor Jikalau anda sebaga
 Pasir No. 1 dari kp. jebrod cianjur jawa barat yang diterapkan oleh indocement serta perusahaan batching plant lainnya sebagai bahan dasar produksi readymix concrete. Pasir ini paling disarankan untuk cor sebab irit semen juga mempunyai kandungan lumpur yang sungguh-sungguh rendah dibawah delapan persen. warnanya Hitam abu tua atau hitam seperti hitamnya batu kali, ada juga yang hitam kemerahan atau hitam terasi
 
 3. **Pasir Hitam Rigid Cimangkok.** Pasir asal Lokasi penambangannya di cimangkok sukabumi jawa barat yang masih masuk terhadap kategori pasir hitam nomor satu di jabar, warnanya hitam kecoklatan pantas untuk cor, pasang pondasi dan bata
-    
+
     ![Harga Pasir Putih Bangka Free Ongkir Ke Balumbang Jaya Bogor](/images/info/jual-pasir-cor-hitam.jpg)
-    
+
 4. **Pasir Hitam Rigid Cimalaka Subang Bandung.**
 
 Pasir paling unggul yang berwarna hitam kebauan ada juga yang berwarna hitam abu tua. Banyak di gunakan untuk Rigid, pasang dan keperluan lainnya. Ditambang di Daerah cimalaka
@@ -90,9 +89,9 @@ Kecuali Rangkasbitung, Banten juga mempunyai lokasi pnembangan pasir lain sepert
 Masih dari Daerah di banten, pasir kelas tiga ini merupakan pasir yang banyak digunakan di proyek proyek perumahan atau cluster sebab harganya yang murah juga kwalitas yang unggul. Warna pasir ini hitam kecoklatan dan keabuan benar-benar dianjurkan untuk pasang pondasi, bata, batu dan lainnya
 
 27. **Pasir Hitam Cor Bohlam Sukabumi.** Pasir dari Lokasi kp. bohlam di sukabumi berwarna hitam kecoklatan, betul-betul bagus untuk pasang bata, pondasi dan sebagainya sebagai pilihan pasir kwalitas unggul dan murah
-    
+
     ![Harga Pasir Putih Bangka Free Ongkir Ke Balumbang Jaya Bogor](/images/info/pasir-hitam-7.jpg)
-    
+
 28. **Pasir Rigid Galunggung.**
 
 Pasir ini yakni pasir hitam kwalitas paling unggul dikelasnya awam diaplikasikan oleh pabrik pengolahan beton readymix juga perusahan pembuatan precast dan acap kali juga diaplikasikan untuk bahan pembuatan batako press hitam, paving block dan lain-lain. Pasir ini ditambang dari Tasikmalaya jabar.
@@ -100,21 +99,18 @@ Pasir ini yakni pasir hitam kwalitas paling unggul dikelasnya awam diaplikasikan
 ![Harga Pasir Putih Bangka Free Ongkir Ke Balumbang Jaya Bogor](/images/info/pasir-hitam-2.jpg)
 
 - ### Pasir Pasang Di Balumbang Jaya Bogor
-    
 
 ![Harga Pasir Putih Bangka Free Ongkir Ke Balumbang Jaya Bogor](/images/info/jual-pasir-mundu-2.jpg)
 
 Pasir ini ekstra halus lagi diperbandingkan oleh pasir beton. jikalau kalian mengepal pasir ini maka akan menggumpal dan tak akan buyar kembali. pasir pasang umum nya di gunakan untuk campuran pasir beton supaya tak kelewat kasar dan bisa di gunakan untuk plesteran dinding.
 
 - ### Pasir Urug Untuk Pembuatan Batako Di Balumbang Jaya Bogor
-    
 
 Di Antara ke dua pasir diatas pasir macam ini lebih halus lagi, bila anda mengepal nya karenanya akan menggumpal dan tak akan buyar lagi. melainkan pasir jenis
 
 Pada umum nya pasir ini nyaris sama dgn pasir beton melainkan pasir ini memiliki tingkat kekasaran yang tinggi, butiran - butiran nya cukup besar dan agak banyak batuan nya. pada umumnya pasir tipe ini bagus untuk bahan pemadatan lantai
 
 - ### Pasir Putih Tanpa Batu Untuk Pasang Bata Di Balumbang Jaya Bogor
-    
 
 1. **Pasir Putih Bangka**
 

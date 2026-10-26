@@ -25,7 +25,7 @@ berdasarkan Standar Nasional Indonesia ( SK SNI - S - 04 - 1989 - F ; 28) di tut
 
 Prasyarat Pasir yang Baik buat Konstruksi Bangunan
 
-1.  Agregat Halus sepatutnya terdiri dari butiran yang tajam dan keras dengan indeks kekerasan <2.2
+1.  Agregat Halus sepatutnya terdiri dari butiran yang tajam dan keras dengan indeks kekerasan <2.2
 2. jika dipakai Natrium Sulfat komponen hancur maksimal dua belas %
 3. jika diaplikasikan Magnesium Sulfat bagian halus maksimal sepuluh persen
 4. Tak boleh mengandung clay lebih dari lima %
@@ -41,7 +41,6 @@ Prasyarat Pasir yang Baik buat Konstruksi Bangunan
 Setelah mengenal syarat pasir tuk suatu Konstruksi, pada saat ini kita bahas Ragam - Tipe Pasir Untuk Konstruksi Bangunan penjelasan nya berikut ini:
 
 - ### Pasir Model Rigid dan Lokasi Sumbernya Di Guntur Jakarta
-    
 
 Pasir ini biasa nya berwarna hitam pekat dan tingkat pecahan butiran nya lumayan tinggi. Tapi sekiranya anda mengepal nya dengan tangan tidak akan menggumpal dan akan hancur kembali. model pasir ini benar-benar lah baik buat Pengecoran, Plesteran Dinding, Adukan Pondasi dan Adukan Pasangan Bata Pasir ini yaitu pasir untuk Cor ialah butiran-butiran mineral keras dan tajam berukuran antara 0,075 – 5 mm, seandainya terdapat butiran berukuran lebih kecil dari 0,063 mm tak lebih dari 5% berat. Pasir ini yaitu pasir untuk Beton acap kali dimanfaatkan untuk pekerjaan cor-coran struktur seperti kolom, balok dan pelat lantai.
 
@@ -59,21 +58,18 @@ Untuk menerima ketahanan Cor yang maksimal karenanya pasir wajib sanggup memenuh
 ![Harga Pasir Jalupang Free Ongkir Ke Guntur Jakarta](/images/info/pasir-hitam-8.jpg)
 
 - ### Pasir Untuk Pasang Batu, Pondasi, Bata, Ubin, Plester Di Guntur Jakarta
-    
 
 ![Harga Pasir Jalupang Free Ongkir Ke Guntur Jakarta](/images/info/pasir-putih3.jpg)
 
 Pasir ini lebih halus lagi diperbandingkan oleh pasir beton. apabila anda mengepal pasir ini maka akan menggumpal dan tak akan buyar kembali. pasir pasang biasa nya di manfaatkan buat campuran pasir beton agar tak terlampau kasar dan bisa di pakai untuk plesteran dinding.
 
 - ### Pasir Elod Untuk pengurugan lantai Di Guntur Jakarta
-    
 
 Di Antara ke dua pasir diatas pasir jenis ini lebih halus lagi, sekiranya anda mengepal nya akan menggumpal dan tidak akan hancur lagi. tapi pasir macam
 
 Pada umum nya pasir ini nyaris sama dengan pasir beton akan tapi pasir ini memiliki tingkat kekasaran yg tinggi, butiran - butiran nya cukup besar dan agak banyak batuan nya. pada biasanya pasir tipe ini bagus tuk bahan pengurugan lantai
 
 - ### Pasir Putih Halus Untuk Pelester Di Guntur Jakarta
-    
 
 1. **Pasir Putih Bangka**
 

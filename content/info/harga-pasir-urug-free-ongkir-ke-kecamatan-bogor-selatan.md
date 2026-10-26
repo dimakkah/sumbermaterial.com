@@ -25,7 +25,7 @@ menurut Standar Nasional Indonesia ( SK SNI - S - 04 - 1989 - F ; 28) di tuturka
 
 Persyaratan Pasir yang Baik Untuk Konstruksi
 
-1.  Agregat Halus semestinya terdiri dari butiran yang tajam dan keras dengan indeks kekerasan <2.2
+1.  Agregat Halus semestinya terdiri dari butiran yang tajam dan keras dengan indeks kekerasan <2.2
 2. sekiranya diterapkan Natrium Sulfat komponen hancur maksimal dua belas persen
 3. Jikalau digunakan Magnesium Sulfat komponen halus optimal sepuluh %
 4. Tidak boleh mengandung tanah lebih dari 5 persen
@@ -41,7 +41,6 @@ Persyaratan Pasir yang Baik Untuk Konstruksi
 Setelah mengenal persyaratan pasir buat sebuah Bangunan, sekarang ini kita bahas Macam - Ragam Pasir Untuk Konstruksi penjelasan nya berikut ini:
 
 - ### Pasir Untuk Pengecoran Di Kecamatan Bogor Selatan
-    
 
 Pasir ini lazim nya berwarna keabu-abuan dan tingkat kekasaran butiran nya lumayan tinggi. Tapi bila anda mengepal nya dengan tangan tidak akan menggumpal dan akan buyar kembali. tipe pasir ini sangat lah bagus buat Pengecoran, Plesteran Dinding, Adukan Pondasi dan Adukan Pasangan Bata Pasir ini yaitu pasir untuk Cor merupakan butiran-butiran mineral keras dan tajam berukuran antara 0,075 – 5 mm, kalau terdapat butiran berukuran lebih kecil dari 0,063 mm tidak lebih dari 5% berat. Pasir ini yaitu pasir untuk Beton hampir tak jarang dipakai untuk profesi cor-coran struktur seperti kolom, balok dan pelat lantai.
 
@@ -52,9 +51,9 @@ Harga Pasir Urug Free Ongkir Ke Kecamatan Bogor Selatan Seandainya anda sebagai 
 Pasir paling unggul asli kp. jebrod cianjur jawa barat yang digunakan oleh indocement serta perusahaan batching plant lainnya sebagai bahan dasar produksi readymix concrete. Pasir ini paling dianjurkan untuk cor sebab irit semen juga mempunyai kandungan lumpur yang betul-betul rendah dibawah delapan persen. warnanya Hitam abu tua atau hitam seperti hitamnya batu kali, ada juga yang hitam kemerahan atau hitam terasi
 
 3. **Pasir Hitam Rigid Cimangkok.** Pasir asli Daerah penambangannya di cimangkok sukabumi jawa barat yang masih masuk pada kategori pasir hitam No. 1 di jawa barat, warnanya hitam kecoklatan sesuai untuk cor, pasang pondasi dan bata
-    
+
     ![Harga Pasir Urug Free Ongkir Ke Kecamatan Bogor Selatan](/images/info/pasir-hitam-1.jpg)
-    
+
 4. **Pasir Hitam Cor Cimalaka Subang Bandung.**
 
 Pasir nomor satu yang berwarna hitam kebauan ada juga yang berwarna hitam abu tua. Banyak di aplikasikan untuk Beton, pasang dan keperluan lainnya. Ditambang di Desa cimalaka
@@ -90,9 +89,9 @@ Kecuali Rangkasbitung, Banten juga mempunyai lokasi pnembangan pasir lain sepert
 Masih dari Daerah di banten, pasir kelas tiga ini yaitu pasir yang banyak diterapkan di proyek proyek perumahan atau cluster sebab harganya yang murah juga kwalitas yang bagus. Warna pasir ini hitam kecoklatan dan keabuan benar-benar dianjurkan untuk pasang pondasi, bata, batu dan lain-lain
 
 27. **Pasir Hitam Beton Bohlam Sukabumi.** Pasir dari Lokasi kp. bohlam di sukabumi berwarna hitam kecoklatan, amat bagus untuk pasang bata, pondasi dan lainnya sebagai pilihan pasir kwalitas baik dan murah
-    
+
     ![Harga Pasir Urug Free Ongkir Ke Kecamatan Bogor Selatan](/images/info/pasir-hitam-8.jpg)
-    
+
 28. **Pasir Cor Galunggung.**
 
 Pasir ini yakni pasir hitam kwalitas paling unggul dikelasnya lazim diaplikasikan oleh pabrik pengolahan beton readymix juga perusahan pembuatan precast dan acap kali juga diterapkan untuk bahan pembuatan batako press hitam, paving block dan sebagainya. Pasir ini ditambang dari Tasikmalaya jabar.
@@ -100,21 +99,18 @@ Pasir ini yakni pasir hitam kwalitas paling unggul dikelasnya lazim diaplikasika
 ![Harga Pasir Urug Free Ongkir Ke Kecamatan Bogor Selatan](/images/info/pasir-hitam-2.jpg)
 
 - ### Pasir Untuk Pasang Batu, Pondasi, Bata, Ubin, Plester Di Kecamatan Bogor Selatan
-    
 
 ![Harga Pasir Urug Free Ongkir Ke Kecamatan Bogor Selatan](/images/info/pasir-hitam-11.jpg)
 
 Pasir ini lebih halus lagi diperbandingkan oleh pasir beton. jika anda mengepal pasir ini karenanya akan menggumpal dan tak akan buyar kembali. pasir pasang umum nya di manfaatkan tuk adukan pasir beton agar tidak kelewat kasar dan dapat di manfaatkan untuk plesteran dinding.
 
 - ### Pasir Kualitas rendah Untuk Pembuatan Batako Di Kecamatan Bogor Selatan
-    
 
 Di Antara ke dua pasir diatas pasir tipe ini lebih halus lagi, seandainya kalian mengepal nya maka akan menggumpal dan tidak akan hancur lagi. tetapi pasir tipe
 
 Pada nya pasir ini nyaris sama dgn pasir beton akan melainkan pasir ini mempunyai tingkat kekasaran yg tinggi, butiran - butiran nya cukup besar dan agak banyak batuan nya. pada biasanya pasir jenis ini baik tuk bahan dasaran pemasangan keramik
 
 - ### Pasir Putih Bebas Lumpur Untuk Pasang Keramik Di Kecamatan Bogor Selatan
-    
 
 1. **Pasir Putih Bangka**
 

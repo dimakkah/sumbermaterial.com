@@ -50,13 +50,13 @@ d. tdk bisa menjangkau lokasi yang sempit. Mengingat Besi WF ini berukuran panja
 
 ### Kelebihan Dari Besi WF Di Sukamulya Tangerang
 
-1\. Bisa memaksimalkan waktu dalam pembangunan sebuah konstruksi bangunan, memaksimalkan waktu dan juga memaksimalkan biaya dan tukang pasang.
+1. Bisa memaksimalkan waktu dalam pembangunan sebuah konstruksi bangunan, memaksimalkan waktu dan juga memaksimalkan biaya dan tukang pasang.
 
-2\. Dapat menopang bobot yang sangat berat, tidak gampang memuai dan lebih simple penerapannya dibanding dengan material struktural lainnya.
+2. Dapat menopang bobot yang sangat berat, tidak gampang memuai dan lebih simple penerapannya dibanding dengan material struktural lainnya.
 
-3\. Mempunyai fleksibilitas yang tinggi. Sehingga struktur bangunan yang dihasilkan dari Besi WF ini menjadi lebih kuat tdk gampang bergeser, tdk mudah roboh ataupun goyang. Amat layak untuk macam bangunan diatas tanah yang labil atau sering kali terjadi gempa.
+3. Mempunyai fleksibilitas yang tinggi. Sehingga struktur bangunan yang dihasilkan dari Besi WF ini menjadi lebih kuat tdk gampang bergeser, tdk mudah roboh ataupun goyang. Amat layak untuk macam bangunan diatas tanah yang labil atau sering kali terjadi gempa.
 
-4\. Lebih hemat sebab struktur bangunan yang mengaplikasikan Besi WF akan mempunyai ketahanan yang cukup lama bahkan sampai ratusan tahun. Tentunya ini merupakan investasi yang betul-betul murah jikalau kita bandingkan dengan waktu gunakan. Malah bangunan yang dibangun dengan rangka Besi WF dapat kita wariskan terhadap buah hati cucu kita.
+4. Lebih hemat sebab struktur bangunan yang mengaplikasikan Besi WF akan mempunyai ketahanan yang cukup lama bahkan sampai ratusan tahun. Tentunya ini merupakan investasi yang betul-betul murah jikalau kita bandingkan dengan waktu gunakan. Malah bangunan yang dibangun dengan rangka Besi WF dapat kita wariskan terhadap buah hati cucu kita.
 
 ## Mengetahui Besi H Beam Di Sukamulya Tangerang
 
@@ -72,15 +72,15 @@ Sama seperti besi yang kami paparkan sebelumnya yakni Besi WF, besi H-Beam malah
 
 ### Kelebihan Besi H Beam Di Sukamulya Tangerang
 
-1\. Mudah untuk diperoleh. Banyak toko besi yang menyediakan stok besi H-Beam beragam ukuran. Sehingga besi H-Beam ini amat mudah untuk didapatkan, tdk sulit untuk memperoleh distributor besi yang memasarkan besi H Beam.
+1. Mudah untuk diperoleh. Banyak toko besi yang menyediakan stok besi H-Beam beragam ukuran. Sehingga besi H-Beam ini amat mudah untuk didapatkan, tdk sulit untuk memperoleh distributor besi yang memasarkan besi H Beam.
 
-2\. Gampang Dalam Pemasangan. Banyak tukang ahli dalam pemasangan besi H Beam. Walaupun besi H-Beam ini semestinya dipasang oleh tukang yang berpengalaman tapi tukang yang profesional dalam memasang besi H Beam ini benar-benar banyak kita temui hari ini. Sehingga tidak perlu dikhawatirkan lagi pelaksanaan pemasangannya.
+2. Gampang Dalam Pemasangan. Banyak tukang ahli dalam pemasangan besi H Beam. Walaupun besi H-Beam ini semestinya dipasang oleh tukang yang berpengalaman tapi tukang yang profesional dalam memasang besi H Beam ini benar-benar banyak kita temui hari ini. Sehingga tidak perlu dikhawatirkan lagi pelaksanaan pemasangannya.
 
-3\. Memiliki daya tahan yang tidak diragukan lagi. Besi H Beam telah teruji selama bertahun-tahun dalam kontruksi bangunan. Apakah skala kecil ataupun skala besar dan terbilang sangat tahan lama apabila dibandingi dengan material lainnya. Bisa bertahan sampai puluhan sampai ratusan tahun.
+3. Memiliki daya tahan yang tidak diragukan lagi. Besi H Beam telah teruji selama bertahun-tahun dalam kontruksi bangunan. Apakah skala kecil ataupun skala besar dan terbilang sangat tahan lama apabila dibandingi dengan material lainnya. Bisa bertahan sampai puluhan sampai ratusan tahun.
 
-4\. Mudah dalam perawatannya. Bangunan yang menggunakan besi H Beam sebagai struktur rangka bangunannya akan sangat gampang dalam melaksanakan pemeliharaannya. tdk perlu pengecatan dengan cat khusus maupun pembersihan tiap saat.
+4. Mudah dalam perawatannya. Bangunan yang menggunakan besi H Beam sebagai struktur rangka bangunannya akan sangat gampang dalam melaksanakan pemeliharaannya. tdk perlu pengecatan dengan cat khusus maupun pembersihan tiap saat.
 
-5\. Memaksimalkan penerapan material lainnya, seperti penerapan bekisting, penerapan steger atau steger dan juga material pasir. Besi H Beam Tdk membutuhkan material pasir dalam penggunaannya.
+5. Memaksimalkan penerapan material lainnya, seperti penerapan bekisting, penerapan steger atau steger dan juga material pasir. Besi H Beam Tdk membutuhkan material pasir dalam penggunaannya.
 
 ### Kekurangan Dari Besi H Beam Di Sukamulya Tangerang
 

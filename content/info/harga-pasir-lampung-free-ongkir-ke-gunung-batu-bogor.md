@@ -25,7 +25,7 @@ Menurut Standar Nasional Indonesia ( SK SNI - S - 04 - 1989 - F ; 28) di sebutka
 
 Syarat Pasir yg Bagus Untuk Konstruksi Bangunan
 
-1.  Agregat Halus semestinya terdiri dari butiran yang tajam dan keras dengan indeks kekerasan <2.2
+1.  Agregat Halus semestinya terdiri dari butiran yang tajam dan keras dengan indeks kekerasan <2.2
 2. Bila dimanfaatkan Natrium Sulfat bagian hancur optimal dua belas persen
 3. Jika dipakai Magnesium Sulfat komponen halus maksimal sepuluh persen
 4. Tak boleh memuat lumpur lebih dari 5 persen
@@ -41,7 +41,6 @@ Syarat Pasir yg Bagus Untuk Konstruksi Bangunan
 sesudah tahu persis prasyarat pasir untuk sebuah Konstruksi Bangunan, saat ini kita bahas Macam - Ragam Pasir Untuk Bangunan penjelasan nya berikut ini:
 
 - ### Pasir Untuk Pengecoran Di Gunung Batu Bogor
-    
 
 Pasir ini umum nya berwarna hitam pekat dan tingkat kekerasan butiran nya cukup tinggi. Tapi apabila anda mengepal nya dengan tangan tak akan lengket dan akan hancur kembali. macam pasir ini benar-benar lah baik tuk Pengecoran, Plesteran Dinding, Adukan Pondasi dan Adukan Pasangan Bata Pasir ini yaitu pasir untuk Cor ialah butiran-butiran mineral keras dan tajam berukuran antara 0,075 – 5 mm, sekiranya terdapat butiran berukuran lebih kecil dari 0,063 mm tidak lebih dari 5% berat. Pasir ini yaitu pasir untuk Rigid tak jarang dimanfaatkan untuk profesi cor-coran struktur seperti kolom, balok dan pelat lantai.
 
@@ -52,9 +51,9 @@ Harga Pasir Lampung Free Ongkir Ke Gunung Batu Bogor Sekiranya anda sebagai kons
 Pasir terbaik asal kp. jebrod cianjur jawa barat yang dipakai oleh indocement serta perusahaan batching plant lainnya sebagai bahan dasar produksi readymix concrete. Pasir ini paling dianjurkan untuk cor sebab irit semen juga mempunyai kandungan lumpur yang betul-betul rendah dibawah 8%. warnanya Hitam abu tua atau hitam seperti hitamnya batu kali, ada juga yang hitam kemerahan atau hitam terasi
 
 3. **Pasir Hitam Cor Cimangkok.** Pasir asli Daerah penambangannya di cimangkok sukabumi jabar yang masih masuk terhadap klasifikasi pasir hitam kelas satu di jabar, warnanya hitam kecoklatan layak untuk cor, pasang pondasi dan bata
-    
+
     ![Harga Pasir Lampung Free Ongkir Ke Gunung Batu Bogor](/images/info/pasir-hitam-5.jpg)
-    
+
 4. **Pasir Hitam Beton Cimalaka Subang Bandung.**
 
 Pasir nomor satu yang berwarna hitam kebauan ada juga yang berwarna hitam abu tua. Banyak di gunakan untuk Beton, pasang dan keperluan lainnya. Ditambang di Daerah cimalaka
@@ -90,9 +89,9 @@ Kecuali Rangkasbitung, Banten juga mempunyai lokasi pnembangan pasir lain sepert
 Masih dari Tempat di banten, pasir kelas tiga ini yakni pasir yang banyak diaplikasikan di proyek proyek perumahan atau cluster sebab harganya yang murah juga mutu yang bagus. Warna pasir ini hitam kecoklatan dan keabuan benar-benar disarankan untuk pasang pondasi, bata, batu dan lainnya
 
 27. **Pasir Hitam Cor Bohlam Sukabumi.** Pasir dari Kawasan kp. bohlam di sukabumi berwarna hitam kecoklatan, sungguh-sungguh bagus untuk pasang bata, pondasi dsb sebagai opsi pasir kwalitas tidak diragukan dan ekonomis
-    
+
     ![Harga Pasir Lampung Free Ongkir Ke Gunung Batu Bogor](/images/info/pasir-hitam-5.jpg)
-    
+
 28. **Pasir Rigid Galunggung.**
 
 Pasir ini yakni pasir hitam kwalitas paling unggul dikelasnya awam digunakan oleh pabrik pengolahan beton readymix juga perusahan pembuatan precast dan kerap kali juga digunakan untuk bahan pembuatan batako press hitam, paving block dan sebagainya. Pasir ini ditambang dari Tasikmalaya jawa barat.
@@ -100,21 +99,18 @@ Pasir ini yakni pasir hitam kwalitas paling unggul dikelasnya awam digunakan ole
 ![Harga Pasir Lampung Free Ongkir Ke Gunung Batu Bogor](/images/info/pasir-hitam-7.jpg)
 
 - ### Pasir Untuk Adukan Pasang Batu, Pondasi, Bata, Ubin, Plester Di Gunung Batu Bogor
-    
 
 ![Harga Pasir Lampung Free Ongkir Ke Gunung Batu Bogor](/images/info/pasir-putih12.jpg)
 
 Pasir ini ekstra halus lagi dibandingi oleh pasir beton. sekiranya anda mengepal pasir ini maka akan menggumpal dan tak akan buyar kembali. pasir pasang lazim nya di pakai tuk adukan pasir beton supaya tak terlampau kasar dan dapat di manfaatkan untuk plesteran dinding.
 
 - ### Pasir Kualitas rendah Untuk pengurugan lantai Di Gunung Batu Bogor
-    
 
 Di Antara ke dua pasir diatas pasir macam ini lebih halus lagi, jikalau anda mengepal nya maka akan menggumpal dan tak akan buyar lagi. tapi pasir macam
 
 Pada lazim nya pasir ini nyaris sama dengan pasir beton namun pasir ini mempunyai tingkat kekasaran yang tinggi, butiran - butiran nya lumayan besar dan agak banyak batuan nya. pada umumnya pasir ragam ini baik tuk bahan pengurugan lantai
 
 - ### Pasir Putih Halus Untuk Pasang Keramik Di Gunung Batu Bogor
-    
 
 1. **Pasir Putih Bangka**
 

@@ -25,7 +25,7 @@ Menurut Standar Nasional Indonesia ( SK SNI - S - 04 - 1989 - F ; 28) di sebutka
 
 Syarat Pasir yang Baik tuk Konstruksi Bangunan
 
-1.  Agregat Halus patut terdiri dari butiran yg tajam dan keras dengan indeks kekerasan <2.2
+1.  Agregat Halus patut terdiri dari butiran yg tajam dan keras dengan indeks kekerasan <2.2
 2. apabila dimanfaatkan Natrium Sulfat bagian hancur optimal dua belas persen
 3. kalau dipakai Magnesium Sulfat bagian halus maksimal sepuluh %
 4. Tak boleh berisi clay lebih dari lima %
@@ -41,7 +41,6 @@ Syarat Pasir yang Baik tuk Konstruksi Bangunan
 Setelah mengetahui prasyarat pasir untuk sebuah Bangunan, saat ini kita bahas Jenis - Tipe Pasir Untuk Konstruksi penjelasan nya sebagai berikut:
 
 - ### Pasir Jenis Cor dan Tempat Sumbernya Di Pagedangan Tangerang
-    
 
 Pasir ini biasa nya berwarna keabu-abuan dan tingkat pecahan butiran nya lumayan tinggi. Namun bila anda mengepal nya dengan tangan tidak akan lengket dan akan buyar kembali. ragam pasir ini sungguh-sungguh lah baik tuk Pengecoran, Plesteran Dinding, Adukan Pondasi dan Adukan Pasangan Bata Pasir ini yaitu pasir untuk Cor merupakan butiran-butiran mineral keras dan tajam berukuran antara 0,075 – 5 mm, seandainya terdapat butiran berukuran lebih kecil dari 0,063 mm tak lebih dari 5% berat. Pasir ini yaitu pasir untuk Rigid sering digunakan untuk pekerjaan cor-coran struktur seperti kolom, balok dan pelat lantai.
 
@@ -52,9 +51,9 @@ Harga Pasir Putih Bangka Free Ongkir Ke Pagedangan Tangerang Jikalau anda sebaga
 Pasir terbaik asal kp. jebrod cianjur jawa barat yang diterapkan oleh indocement serta perusahaan batching plant lainnya sebagai bahan dasar produksi readymix concrete. Pasir ini paling dianjurkan untuk cor sebab irit semen juga mempunyai kandungan lumpur yang benar-benar rendah dibawah delapan persen. warnanya Hitam abu tua atau hitam seperti hitamnya batu kali, ada juga yang hitam kemerahan atau hitam terasi
 
 3. **Pasir Hitam Rigid Cimangkok.** Pasir diambil dari Tempat penambangannya di cimangkok sukabumi jawa barat yang masih masuk pada golongan pasir hitam paling unggul di jawa barat, warnanya hitam kecoklatan sesuai untuk cor, pasang pondasi dan bata
-    
+
     ![Harga Pasir Putih Bangka Free Ongkir Ke Pagedangan Tangerang](/images/info/pasir-hitam-2.jpg)
-    
+
 4. **Pasir Hitam Beton Cimalaka Subang Bandung.**
 
 Pasir kelas satu yang berwarna hitam kebauan ada juga yang berwarna hitam abu tua. Banyak di aplikasikan untuk Beton, pasang dan keperluan lainnya. Ditambang di kampung cimalaka
@@ -90,9 +89,9 @@ Kecuali Rangkasbitung, Banten juga mempunyai lokasi pnembangan pasir lain sepert
 Masih dari Tempat di banten, pasir kelas tiga ini yakni pasir yang banyak diaplikasikan di proyek proyek perumahan atau cluster sebab harganya yang murah juga kwalitas yang baik. Warna pasir ini hitam kecoklatan dan keabuan betul-betul disarankan untuk pasang pondasi, bata, batu dan lain-lain
 
 27. **Pasir Hitam Cor Bohlam Sukabumi.** Pasir dari Kawasan kp. bohlam di sukabumi berwarna hitam kecoklatan, benar-benar bagus untuk pasang bata, pondasi dan lain-lain sebagai pilihan pasir kwalitas tidak diragukan dan murah
-    
+
     ![Harga Pasir Putih Bangka Free Ongkir Ke Pagedangan Tangerang](/images/info/pasir-hitam-1.jpg)
-    
+
 28. **Pasir Rigid Galunggung.**
 
 Pasir ini yaitu pasir hitam kwalitas paling unggul dikelasnya umum digunakan oleh pabrik pengolahan beton readymix juga perusahan pembuatan precast dan acap kali juga diterapkan untuk bahan pembuatan batako press hitam, paving block dan sebagainya. Pasir ini ditambang dari Tasikmalaya jawa barat.
@@ -100,21 +99,18 @@ Pasir ini yaitu pasir hitam kwalitas paling unggul dikelasnya umum digunakan ole
 ![Harga Pasir Putih Bangka Free Ongkir Ke Pagedangan Tangerang](/images/info/pasir-hitam-1.jpg)
 
 - ### Pasir Biasa Di Pagedangan Tangerang
-    
 
 ![Harga Pasir Putih Bangka Free Ongkir Ke Pagedangan Tangerang](/images/info/jual-pasir-mundu.jpg)
 
 Pasir ini lebih halus lagi dibandingi oleh pasir beton. bila anda mengepal pasir ini maka akan menggumpal dan tak akan buyar kembali. pasir pasang biasa nya di manfaatkan untuk adukan pasir beton agar tidak kelewat kasar dan bisa di manfaatkan untuk plesteran dinding.
 
 - ### Pasir Elod Untuk Pembuatan Batako Di Pagedangan Tangerang
-    
 
 Di Antara ke dua pasir diatas pasir model ini lebih halus lagi, bila anda mengepal nya akan menggumpal dan tak akan hancur lagi. namun pasir tipe
 
 Pada umum nya pasir ini nyaris sama dgn pasir beton tapi pasir ini memiliki tingkat kekasaran yang tinggi, butiran - butiran nya cukup besar dan agak banyak batuan nya. pada lazimnya pasir tipe ini baik tuk bahan Pembuatan Batako
 
 - ### Pasir Putih Halus Untuk Taman Bermain Di Pagedangan Tangerang
-    
 
 1. **Pasir Putih Bangka**
 

@@ -25,7 +25,7 @@ Berdasarkan Standar Nasional Indonesia ( SK SNI - S - 04 - 1989 - F ; 28) di tut
 
 Persyaratan Pasir yang Bagus Untuk Bangunan
 
-1.  Agregat Halus patut terdiri dari butiran yang tajam dan keras dengan indeks kekerasan <2.2
+1.  Agregat Halus patut terdiri dari butiran yang tajam dan keras dengan indeks kekerasan <2.2
 2. bilamana dimanfaatkan Natrium Sulfat komponen hancur optimal dua belas persen
 3. Jikalau diterapkan Magnesium Sulfat komponen halus optimal sepuluh %
 4. Tidak boleh mengandung tanah lebih dari lima persen
@@ -41,7 +41,6 @@ Persyaratan Pasir yang Bagus Untuk Bangunan
 setelah tahu persis persyaratan pasir tuk suatu Bangunan, saat ini kita bahas Jenis - Ragam Pasir Untuk Bangunan penjelasan nya sebagai berikut:
 
 - ### Pasir Jenis Beton dan Daerah Pengambilannya Di Sukatani Bekasi
-    
 
 Pasir ini biasa nya berwarna hitam kemerahan dan tingkat kekasaran butiran nya lumayan tinggi. Tapi apabila anda mengepal nya dengan tangan tak akan menggumpal dan akan hancur kembali. jenis pasir ini sungguh-sungguh lah baik buat Pengecoran, Plesteran Dinding, Adukan Pondasi dan Adukan Pasangan Bata Pasir ini yaitu pasir untuk Beton ialah butiran-butiran mineral keras dan tajam berukuran antara 0,075 – 5 mm, jikalau terdapat butiran berukuran lebih kecil dari 0,063 mm tak lebih dari 5% berat. Pasir ini yaitu pasir untuk Beton acap kali diterapkan untuk profesi cor-coran struktur seperti kolom, balok dan pelat lantai.
 
@@ -59,21 +58,18 @@ Untuk menerima kualitas Rigid yang maksimal maka pasir semestinya mampu memenuhi
 ![Harga Pasir Putih Bangka Free Ongkir Ke Sukatani Bekasi](/images/info/pasir-hitam-1.jpg)
 
 - ### Pasir Untuk Pasang Batu, Pondasi, Bata, Ubin, Plester Di Sukatani Bekasi
-    
 
 ![Harga Pasir Putih Bangka Free Ongkir Ke Sukatani Bekasi](/images/info/pasir-hitam-4.jpg)
 
 Pasir ini lebih halus lagi dibandingi oleh pasir beton. sekiranya anda mengepal pasir ini karenanya akan menggumpal dan tidak akan buyar kembali. pasir pasang umum nya di manfaatkan tuk campuran pasir beton supaya tidak terlampau kasar dan dapat di pakai untuk plesteran dinding.
 
 - ### Pasir Elod Untuk Dasaran Pemasangan Granit Di Sukatani Bekasi
-    
 
 Di Antara ke dua pasir diatas pasir jenis ini lebih halus lagi, jika anda mengepal nya akan menggumpal dan tidak akan buyar lagi. namun pasir ragam tidak baik untuk di buat sebagai bahan bangunan. pasir macam ini pada umum nya di manfaatkan tuk Bahan Pembuatan Batako
 
 Pada lazim nya pasir ini nyaris sama dengan pasir beton melainkan pasir ini mempunyai tingkat kekasaran yg tinggi, butiran - butiran nya lumayan besar dan agak banyak batuan nya. pada biasanya pasir tipe ini bagus untuk bahan dasaran pemasangan keramik
 
 - ### Pasir Putih Kadar Lumpur Rendah Untuk Pasang Bata Di Sukatani Bekasi
-    
 
 1. **Pasir Putih Bangka**
 

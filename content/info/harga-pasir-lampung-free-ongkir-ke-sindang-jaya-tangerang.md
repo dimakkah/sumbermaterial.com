@@ -25,7 +25,7 @@ berdasarkan Standar Nasional Indonesia ( SK SNI - S - 04 - 1989 - F ; 28) di seb
 
 Syarat Pasir yg Baik Untuk Konstruksi
 
-1.  Agregat Halus sepatutnya terdiri dari butiran yang tajam dan keras dengan indeks kekerasan <2.2
+1.  Agregat Halus sepatutnya terdiri dari butiran yang tajam dan keras dengan indeks kekerasan <2.2
 2. bilamana dimanfaatkan Natrium Sulfat bagian hancur maksimal 12%
 3. Bila diterapkan Magnesium Sulfat komponen halus maksimal sepuluh persen
 4. Tak boleh berisi tanah lebih dari 5%
@@ -41,7 +41,6 @@ Syarat Pasir yg Baik Untuk Konstruksi
 Setelah tahu persis syarat pasir untuk suatu Konstruksi Bangunan, saat ini kita bahas Jenis - Jenis Pasir Untuk Konstruksi Bangunan penjelasan nya berikut ini:
 
 - ### Pasir Untuk Pengecoran Di Sindang Jaya Tangerang
-    
 
 Pasir ini biasa nya berwarna hitam pekat dan tingkat kekerasan butiran nya cukup tinggi. Namun seandainya anda mengepal nya dengan tangan tak akan menggumpal dan akan hancur kembali. macam pasir ini sangat lah baik untuk Pengecoran, Plesteran Dinding, Adukan Pondasi dan Adukan Pasangan Bata Pasir ini yaitu pasir untuk Cor ialah butiran-butiran mineral keras dan tajam berukuran antara 0,075 – 5 mm, bila terdapat butiran berukuran lebih kecil dari 0,063 mm tak lebih dari 5% berat. Pasir ini yaitu pasir untuk Beton hampir kerap dipakai untuk profesi cor-coran struktur seperti kolom, balok dan pelat lantai.
 
@@ -59,21 +58,18 @@ Untuk mendapatkan kualitas Cor yang optimal karenanya pasir harus dapat memenuhi
 ![Harga Pasir Lampung Free Ongkir Ke Sindang Jaya Tangerang](/images/info/pasir-hitam-7.jpg)
 
 - ### Pasir Untuk Pasang Batu, Pondasi, Bata, Ubin, Plester Di Sindang Jaya Tangerang
-    
 
 ![Harga Pasir Lampung Free Ongkir Ke Sindang Jaya Tangerang](/images/info/jual-pasir-mundu-2.jpg)
 
 Pasir ini ekstra halus lagi diperbandingkan oleh pasir beton. bila anda mengepal pasir ini maka akan menggumpal dan tidak akan buyar kembali. pasir pasang umum nya di manfaatkan buat campuran pasir beton supaya tak terlalu kasar dan dapat di gunakan untuk plesteran dinding.
 
 - ### Pasir Urug Untuk pemadatan lantai Di Sindang Jaya Tangerang
-    
 
 Di Antara ke dua pasir diatas pasir jenis ini lebih halus lagi, seandainya kalian mengepal nya maka akan menggumpal dan tidak akan buyar lagi. namun pasir ragam tidak bagus tuk di buat sebagai bahan bangunan. pasir macam ini pada lazim nya di pergunakan tuk Bahan Pembuatan Batako
 
 Pada biasa nya pasir ini nyaris sama dengan pasir beton namun pasir ini memiliki tingkat kekasaran yg tinggi, butiran - butiran nya lumayan besar dan agak banyak batuan nya. pada lazimnya pasir jenis ini baik tuk bahan dasaran pemasangan keramik
 
 - ### Pasir Putih Bebas Lumpur Untuk Pasang Lantai Marmer Di Sindang Jaya Tangerang
-    
 
 1. **Pasir Putih Bangka**
 

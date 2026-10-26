@@ -25,7 +25,7 @@ Menurut Standar Nasional Indonesia ( SK SNI - S - 04 - 1989 - F ; 28) di sebutka
 
 Persyaratan Pasir yg Bagus buat Konstruksi Bangunan
 
-1.  Agregat Halus mesti terdiri dari butiran yg tajam dan keras dengan indeks kekerasan <2.2
+1.  Agregat Halus mesti terdiri dari butiran yg tajam dan keras dengan indeks kekerasan <2.2
 2. Bila diterapkan Natrium Sulfat bagian hancur optimal 12%
 3. Seandainya dipakai Magnesium Sulfat komponen halus optimal sepuluh persen
 4. Tidak boleh mengandung clay lebih dari 5 persen
@@ -41,7 +41,6 @@ Persyaratan Pasir yg Bagus buat Konstruksi Bangunan
 sesudah tahu persis prasyarat pasir untuk suatu Konstruksi Bangunan, pada saat ini kita bahas model - Jenis Pasir Untuk Bangunan penjelasan nya sbb:
 
 - ### Pasir Untuk Beton Di Dukuh Jakarta
-    
 
 Pasir ini biasa nya berwarna hitam pekat dan tingkat pecahan butiran nya lumayan tinggi. Melainkan jikalau anda mengepal nya dengan tangan tidak akan menggumpal dan akan buyar kembali. macam pasir ini amat lah bagus untuk Pengecoran, Plesteran Dinding, Adukan Pondasi dan Adukan Pasangan Bata Pasir ini yaitu pasir untuk Rigid ialah butiran-butiran mineral keras dan tajam berukuran antara 0,075 – 5 mm, bila terdapat butiran berukuran lebih kecil dari 0,063 mm tidak lebih dari 5% berat. Pasir ini yaitu pasir untuk Rigid hampir kerap kali dimanfaatkan untuk pekerjaan cor-coran struktur seperti kolom, balok dan pelat lantai.
 
@@ -59,21 +58,18 @@ Untuk menerima kekokohan Beton yang optimal maka pasir seharusnya mampu memenuhi
 ![Harga Pasir Mainan Anak Free Ongkir Ke Dukuh Jakarta](/images/info/pasir-hitam-8.jpg)
 
 - ### Pasir Pasang Di Dukuh Jakarta
-    
 
 ![Harga Pasir Mainan Anak Free Ongkir Ke Dukuh Jakarta](/images/info/pasir-putih3.jpg)
 
 Pasir ini ekstra halus lagi dibandingi oleh pasir beton. apabila anda mengepal pasir ini karenanya akan menggumpal dan tidak akan hancur kembali. pasir pasang umum nya di gunakan untuk campuran pasir beton supaya tak terlalu kasar dan bisa di manfaatkan untuk plesteran dinding.
 
 - ### Pasir Elod Untuk Pembuatan Batako Di Dukuh Jakarta
-    
 
 Di Antara ke dua pasir diatas pasir jenis ini lebih halus lagi, bila kamu mengepal nya karenanya akan menggumpal dan tidak akan hancur lagi. melainkan pasir tipe
 
 Pada nya pasir ini nyaris sama dengan pasir beton akan namun pasir ini mempunyai tingkat kekasaran yang tinggi, butiran - butiran nya lumayan besar dan agak banyak batuan nya. pada biasanya pasir ragam ini baik tuk bahan dasaran pemasangan keramik
 
 - ### Pasir Putih Tanpa Batu Untuk Taman Bermain Di Dukuh Jakarta
-    
 
 1. **Pasir Putih Bangka**
 

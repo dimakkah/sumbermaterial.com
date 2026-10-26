@@ -25,7 +25,7 @@ Berdasarkan Standar Nasional Indonesia ( SK SNI - S - 04 - 1989 - F ; 28) di seb
 
 Prasyarat Pasir yang Bagus Untuk Bangunan
 
-1.  Agregat Halus wajib terdiri dari butiran yg tajam dan keras dengan indeks kekerasan <2.2
+1.  Agregat Halus wajib terdiri dari butiran yg tajam dan keras dengan indeks kekerasan <2.2
 2. Sekiranya dimanfaatkan Natrium Sulfat bagian hancur optimal dua belas persen
 3. sekiranya diaplikasikan Magnesium Sulfat bagian halus maksimal 5 persen
 4. Tidak boleh mengandung clay lebih dari 5%
@@ -41,7 +41,6 @@ Prasyarat Pasir yang Bagus Untuk Bangunan
 setelah tahu persis syarat pasir buat sebuah Konstruksi, saat ini kita bahas Macam - Macam Pasir Untuk Konstruksi Bangunan penjelasan nya sbb:
 
 - ### Pasir Model Cor dan Daerah Sumbernya Di Leuwinanggung Depok
-    
 
 Pasir ini umum nya berwarna hitam gelap dan tingkat kekasaran butiran nya cukup tinggi. Melainkan sekiranya anda mengepal nya dengan tangan tak akan menggumpal dan akan hancur kembali. ragam pasir ini sangat lah bagus tuk Pengecoran, Plesteran Dinding, Adukan Pondasi dan Adukan Pasangan Bata Pasir ini yaitu pasir untuk Beton ialah butiran-butiran mineral keras dan tajam berukuran antara 0,075 – 5 mm, kalau terdapat butiran berukuran lebih kecil dari 0,063 mm tak lebih dari 5% berat. Pasir ini yaitu pasir untuk Cor hampir acap kali diaplikasikan untuk profesi cor-coran struktur seperti kolom, balok dan pelat lantai.
 
@@ -59,21 +58,18 @@ Untuk mendapatkan kekokohan Beton yang maksimal maka pasir mesti bisa memenuhi s
 ![Harga Pasir Lampung Free Ongkir Ke Leuwinanggung Depok](/images/info/pasir-hitam-2.jpg)
 
 - ### Pasir Biasa Di Leuwinanggung Depok
-    
 
 ![Harga Pasir Lampung Free Ongkir Ke Leuwinanggung Depok](/images/info/pasir-putih12.jpg)
 
 Pasir ini lebih halus lagi dibandingkan oleh pasir beton. kalau kalian mengepal pasir ini karenanya akan menggumpal dan tidak akan buyar kembali. pasir pasang lazim nya di pakai buat adukan pasir beton agar tak terlalu kasar dan dapat di gunakan untuk plesteran dinding.
 
 - ### Pasir Elod Untuk Pembuatan Batako Di Leuwinanggung Depok
-    
 
 Di Antara ke dua pasir diatas pasir tipe ini lebih halus lagi, kalau kalian mengepal nya karenanya akan menggumpal dan tidak akan buyar lagi. tetapi pasir jenis
 
 Pada lazim nya pasir ini nyaris sama dgn pasir beton namun pasir ini mempunyai tingkat kekasaran yang tinggi, butiran - butiran nya cukup besar dan agak banyak batuan nya. pada umumnya pasir model ini baik tuk bahan Pembuatan Batako
 
 - ### Pasir Putih Tanpa Batu Untuk Pengecoran Di Leuwinanggung Depok
-    
 
 1. **Pasir Putih Bangka**
 

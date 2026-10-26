@@ -16,7 +16,7 @@ sekarang ini bahan yang digunakan untuk mengisi dinding tempat tinggal, telah te
 
 ## Mengenal Tipe-tipe Bata
 
-### 1\. Bata Merah Standar & Jumbo Di Cilamaya Wetan Karawang
+### 1. Bata Merah Standar & Jumbo Di Cilamaya Wetan Karawang
 
 ![Harga Batako 3 Lubang Gratis Ongkir Ke Cilamaya Wetan Karawang](/images/bata/bata-merah-oven-28.png)
 
@@ -26,7 +26,7 @@ Bata merah ini dihasilkan dari bahan tanah yg kemudian di bentuk dan dipanaskan 
 
 Bahan bangunan ini benar-benar kuat kepada panas dan layak dibuat proteksi dari bahaya api. Bata merah ini pada umumnya mempunyai ukuran panjang antara 17-23 cm dan lebar sekitar 7-11 cm, serta tebalnya 3-5 cm. mempunyai ukuran yg lebih kecil akan memberi kemudahan dalam progres pengangkutan dan dapat diaplikasikan untuk membentuk bidang kecil.
 
-### 2\. Batako Hitam dan Putih Di Cilamaya Wetan Karawang
+### 2. Batako Hitam dan Putih Di Cilamaya Wetan Karawang
 
 ![Harga Batako 3 Lubang Gratis Ongkir Ke Cilamaya Wetan Karawang](/images/bata/batako-hitam-press-29.png)
 
@@ -34,7 +34,7 @@ Material bangunan tembok dari batako ini secara lazimnya terbuat dari bahan Aduk
 
 Batako seperti ini mempunyai kelemahan seperti mudah retak, lebih panas dan pengap. Berbeda dg bata merah yang terbuat dari material tanah. Namun batako ini cenderung lebih ringan daripada bata merah. Hasilnya akan kelihatan lebih halus dan ukurannya lebih presisi apabila dibandingkan dengan bata merah. Batako press Hitam ini memiliki ukuran panjang sekitar 36-40 cm, tinggi 18-20 cm dan tebal 8-10 cm. bahan ini sering kali dipilih karena untuk memperingan beban struktur bangunan, meminimalisir sisa material dan mempercepat pembangunan.
 
-### 3\. Bata Hebel Di Cilamaya Wetan Karawang
+### 3. Bata Hebel Di Cilamaya Wetan Karawang
 
 ![Harga Batako 3 Lubang Gratis Ongkir Ke Cilamaya Wetan Karawang](/images/bata/bata-hebel-sni-08.png)
 
@@ -62,7 +62,7 @@ Seluruhnya tentu telah tahu fungsi utama batu bata mulai diterapkan untuk membua
 
 Metode mengorder batu bata yang aman dan terpercaya:
 
-1.  Pengerjaan pembayaran dapat anda lakukan secara COD atau dibayar di daerah saat barang pesanan anda telah datang di daerah
+1.  Pengerjaan pembayaran dapat anda lakukan secara COD atau dibayar di daerah saat barang pesanan anda telah datang di daerah
 2. Silahkan memilih dan memastikan material batu bata yang anda inginkan
 3. Tentukan juga jumlah pesanan batu bata yg anda butuhkan dalam bentuk bijian.
 4. Anda dapat menghubungi layanan telepon toko untuk memudahkan pengerjaan pengorderan

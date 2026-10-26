@@ -50,13 +50,13 @@ d. tidak dapat menjangkau area yang sempit. Mengingat Besi WF ini berukuran panj
 
 ### Kelebihan Dari Besi WF Di Kelapa Gading Jakarta
 
-1\. Bisa mengurangi waktu dalam pembangunan sebuah konstruksi bangunan, menghemat waktu dan juga menghemat biaya dan tenaga tukang.
+1. Bisa mengurangi waktu dalam pembangunan sebuah konstruksi bangunan, menghemat waktu dan juga menghemat biaya dan tenaga tukang.
 
-2\. Dapat menyangga beban yang betul-betul berat, tidak gampang memuai dan lebih simple pemakaiannya dibanding dengan material struktural lainnya.
+2. Dapat menyangga beban yang betul-betul berat, tidak gampang memuai dan lebih simple pemakaiannya dibanding dengan material struktural lainnya.
 
-3\. Memiliki fleksibilitas yang tinggi. Sehingga struktur bangunan yang dijadikan dari Besi WF ini menjadi lebih kuat tdk gampang bergeser, tdk gampang roboh ataupun goyang. Amat layak untuk tipe bangunan diatas tanah yang labil atau sering kali terjadi goncangan.
+3. Memiliki fleksibilitas yang tinggi. Sehingga struktur bangunan yang dijadikan dari Besi WF ini menjadi lebih kuat tdk gampang bergeser, tdk gampang roboh ataupun goyang. Amat layak untuk tipe bangunan diatas tanah yang labil atau sering kali terjadi goncangan.
 
-4\. Lebih hemat karena struktur bangunan yang menggunakan Besi WF akan memiliki kekokohan yang cukup lama bahkan sampai ratusan tahun. Tentunya ini adalah investasi yang benar-benar murah jika kita bandingkan dengan waktu pakai. Bahkan bangunan yang dibangun dengan rangka Besi WF bisa kita wariskan terhadap si kecil cucu kita.
+4. Lebih hemat karena struktur bangunan yang menggunakan Besi WF akan memiliki kekokohan yang cukup lama bahkan sampai ratusan tahun. Tentunya ini adalah investasi yang benar-benar murah jika kita bandingkan dengan waktu pakai. Bahkan bangunan yang dibangun dengan rangka Besi WF bisa kita wariskan terhadap si kecil cucu kita.
 
 ## Mengenal Besi H Beam Di Kelapa Gading Jakarta
 
@@ -72,15 +72,15 @@ Sama seperti besi yang kami paparkan sebelumnya yaitu Besi WF, besi H-Beam malah
 
 ### Kelebihan Besi H Beam Di Kelapa Gading Jakarta
 
-1\. Mudah untuk diperoleh. Banyak distributor besi yang menyediakan stok besi H-Beam bermacam jenis ukuran. Sehingga besi H-Beam ini betul-betul gampang untuk didapatkan, tidak sulit untuk mendapatkan toko besi yang menjual besi H Beam.
+1. Mudah untuk diperoleh. Banyak distributor besi yang menyediakan stok besi H-Beam bermacam jenis ukuran. Sehingga besi H-Beam ini betul-betul gampang untuk didapatkan, tidak sulit untuk mendapatkan toko besi yang menjual besi H Beam.
 
-2\. Mudah Dalam Pemasangan. Banyak tukang ahli dalam pemasangan besi H Beam. Meski besi H-Beam ini wajib dipasang oleh tukang yang ahli tapi tukang yang berpengalaman dalam memasang besi H Beam ini benar-benar banyak kita temui hari ini. Sehingga tdk perlu dikhawatirkan lagi pengerjaan pemasangannya.
+2. Mudah Dalam Pemasangan. Banyak tukang ahli dalam pemasangan besi H Beam. Meski besi H-Beam ini wajib dipasang oleh tukang yang ahli tapi tukang yang berpengalaman dalam memasang besi H Beam ini benar-benar banyak kita temui hari ini. Sehingga tdk perlu dikhawatirkan lagi pengerjaan pemasangannya.
 
-3\. Mempunyai ketahanan yang tdk diragukan lagi. Besi H Beam telah teruji selama bertahun-tahun dalam kontruksi bangunan. Apakah skala kecil maupun skala besar dan terbilang benar-benar tahan lama seandainya dibandingkan dengan material lainnya. Bisa bertahan hingga puluhan hingga ratusan tahun.
+3. Mempunyai ketahanan yang tdk diragukan lagi. Besi H Beam telah teruji selama bertahun-tahun dalam kontruksi bangunan. Apakah skala kecil maupun skala besar dan terbilang benar-benar tahan lama seandainya dibandingkan dengan material lainnya. Bisa bertahan hingga puluhan hingga ratusan tahun.
 
-4\. Gampang dalam perawatannya. Bangunan yang mengaplikasikan besi H Beam sebagai struktur rangka bangunannya akan betul-betul gampang dalam melakukan pemeliharaannya. tdk perlu pengecatan dengan cat khusus ataupun pembersihan tiap-tiap waktu.
+4. Gampang dalam perawatannya. Bangunan yang mengaplikasikan besi H Beam sebagai struktur rangka bangunannya akan betul-betul gampang dalam melakukan pemeliharaannya. tdk perlu pengecatan dengan cat khusus ataupun pembersihan tiap-tiap waktu.
 
-5\. Memaksimalkan penerapan material lainnya, seperti pemakaian bekisting, pemakaian perancah atau steger dan juga material pasir. Besi H Beam tidak memerlukan material pasir dalam penggunaannya.
+5. Memaksimalkan penerapan material lainnya, seperti pemakaian bekisting, pemakaian perancah atau steger dan juga material pasir. Besi H Beam tidak memerlukan material pasir dalam penggunaannya.
 
 ### Kekurangan Dari Besi H Beam Di Kelapa Gading Jakarta
 

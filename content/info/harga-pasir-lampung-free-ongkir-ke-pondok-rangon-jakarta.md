@@ -25,7 +25,7 @@ Berdasarkan Standar Nasional Indonesia ( SK SNI - S - 04 - 1989 - F ; 28) di tut
 
 Persyaratan Pasir yang Baik Untuk Bangunan
 
-1.  Agregat Halus sepatutnya terdiri dari butiran yang tajam dan keras dengan indeks kekerasan <2.2
+1.  Agregat Halus sepatutnya terdiri dari butiran yang tajam dan keras dengan indeks kekerasan <2.2
 2. Jikalau dimanfaatkan Natrium Sulfat komponen hancur optimal dua belas %
 3. Seandainya digunakan Magnesium Sulfat bagian halus maksimal sepuluh %
 4. Tidak boleh mengandung tanah lebih dari 5%
@@ -41,7 +41,6 @@ Persyaratan Pasir yang Baik Untuk Bangunan
 Sesudah tahu persis prasyarat pasir tuk sebuah Konstruksi, pada saat ini kita bahas model - Ragam Pasir Untuk Konstruksi Bangunan penjelasan nya berikut ini:
 
 - ### Pasir Untuk Pengecoran Di Pondok Rangon Jakarta
-    
 
 Pasir ini biasa nya berwarna hitam pekat dan tingkat kekerasan butiran nya lumayan tinggi. Melainkan seandainya anda mengepal nya dengan tangan tak akan menggumpal dan akan hancur kembali. jenis pasir ini sangat lah baik untuk Pengecoran, Plesteran Dinding, Adukan Pondasi dan Adukan Pasangan Bata Pasir ini yaitu pasir untuk Beton adalah butiran-butiran mineral keras dan tajam berukuran antara 0,075 – 5 mm, bila terdapat butiran berukuran lebih kecil dari 0,063 mm tak lebih dari 5% berat. Pasir ini yaitu pasir untuk Cor kerap dimanfaatkan untuk pekerjaan cor-coran struktur seperti kolom, balok dan pelat lantai.
 
@@ -59,21 +58,18 @@ Untuk mendapatkan kekuatan Beton yang maksimal maka pasir patut bisa memenuhi pe
 ![Harga Pasir Lampung Free Ongkir Ke Pondok Rangon Jakarta](/images/info/pasir-hitam-2.jpg)
 
 - ### Pasir Biasa Di Pondok Rangon Jakarta
-    
 
 ![Harga Pasir Lampung Free Ongkir Ke Pondok Rangon Jakarta](/images/info/pasir-hitam-4.jpg)
 
 Pasir ini ekstra halus lagi diperbandingkan oleh pasir beton. kalau anda mengepal pasir ini maka akan menggumpal dan tidak akan hancur kembali. pasir pasang biasa nya di pakai untuk adukan pasir beton agar tidak kelewat kasar dan dapat di manfaatkan untuk plesteran dinding.
 
 - ### Pasir Elod Untuk pengurugan lantai Di Pondok Rangon Jakarta
-    
 
 Di Antara ke dua pasir diatas pasir tipe ini lebih halus lagi, seandainya anda mengepal nya akan menggumpal dan tidak akan buyar lagi. namun pasir ragam tidak bagus untuk di buat sebagai bahan bangunan. pasir ragam ini pada umum nya di manfaatkan untuk Bahan Pembuatan Batako
 
 Pada umum nya pasir ini nyaris sama dengan pasir beton akan tetapi pasir ini mempunyai tingkat kekasaran yang tinggi, butiran - butiran nya lumayan besar dan agak banyak batuan nya. pada umumnya pasir ragam ini baik tuk bahan dasaran pemasangan keramik
 
 - ### Pasir Putih Halus Untuk Pasang Keramik Di Pondok Rangon Jakarta
-    
 
 1. **Pasir Putih Bangka**
 

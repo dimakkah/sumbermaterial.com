@@ -36,15 +36,15 @@ Mengobrol soal biaya pembuatan pagar dari bahan besi memang telah cukup banyak d
 
 Kami mematok biaya pembuatan berdasarkan keperluan anda, ada sebagian pembuatan berdasarkan keperluan seperti untuk rumah, kolam renang, pagar pekarangan dan masih banyak lagi yg lainnya. Anda bisa simak beritanya dibawah ini.
 
-### 1\. Pagar Contoh sederhana untuk rumah
+### 1. Pagar Contoh sederhana untuk rumah
 
 Contoh sederhana yg kami maksudkan disini tak banyak menerapkan custom atau tipe yang neko-neko, kami menyediakan Desain ini untuk anda yang berkeinginan memiliki pagar besi dg custom jenis yg simple tetapi juga nampak elegan. Mengena harga, kurang lebih per meter bisa menempuh 1 juta keatas, lebih bagus anda konsultasikan secara seketika sebab kami akan memberikan sangkaan biaya pasti utk pagar dg Contoh sedergana seperti ini. Tersedia beraneka jenis warna opsi yg dapat disesuaikan dengan warna bangunan rumah anda.
 
-### 2\. Pagar besi dengan Desain klasik modern
+### 2. Pagar besi dengan Desain klasik modern
 
 Berikutnya biaya pembuatan pagar besi dg Contoh atau konsep klasik juga banyak diorder orang-orang. Konsep seperti ini dapat memberikan makna yang dinamis dan sederhana tetapi tidak kehilangan estektika seninya. Motif dari konsep klasik ini dipadukan dengan ragam bentuk yang layak sehingga pagar menonjol lebih menghiasi rumah disamping fungsinya utk keamanan. Tinggi pagar ini dapat lebih dari 1 meter, sesuai dg keperluan anda. Pagar simple ini hakekatnya divariasikan dengan perpaduan besi dan batu-batuan sebagai temboknya, sehingga hasil finishing yang tampak akan benar-benar klasik dan elegan. Biasanya para pengguna pagar besi ini akan memakai lampu imut untuk pencahayaan, sehingga akibatnya akan nampak lebih baik dan elegan. Anda bisa menaruh dua lampu di samping kanan dan kiri tembok. biaya pagar besi utk rumah seperti ini menempuh 1 juta lebih, tergantung dari besar kecilnya pagar yang anda butuhkan.
 
-### 3\. Pagar besi dan stanlis minimalis
+### 3. Pagar besi dan stanlis minimalis
 
 Harga pagar besi stanlis dan modern yang Dibawah ini lebih memperlihatkan perpaduan yang lebih elegan melainkan tidak meninggalkan kesan minimalis. Walaupun cuma berupa pagar dengan garis lurus saja, banyak orang yang suka dengan design ini karena menonjol elegan dan minimalis. Sesuai sekali utk anda yg memiliki rumah dengan Type 36 – 42. untuk pembuatan pagar besi minumalis ini tidak membutuhkan waktu lama, walaupun mengenai biayanya bisa anda bicarakan langsung kepada teknisi sehingga lebih mudah mempertimbangkan biaya, sebab harus disesuaikan dg volume pagar dan ukurannya. Masih banyak Contoh dan Desain lain yang bisa anda temukan dari Layanan Profesional Pembuatan pagar besi kami, silahkan segera saja hubungi kami melalui kontak yg telah kami sediakan dibawah ini.
 
@@ -52,37 +52,37 @@ Harga pagar besi stanlis dan modern yang Dibawah ini lebih memperlihatkan perpad
 
 Jasa kami telah lama bergerak dalam bidang ini sehingga telah teruji kwalitas dan hasil finishing yang kami bedrikan, dikerjaan oleh para teknisi bangunan yang sudah bekerja belasan tahun, sehingga hasil yg kami kerjakan akan sesuai dg pesanan maupun keperluan anda. Kualitas dan Kuantitas menjadi hal utama yang dapat kami tawarkan kepada anda. Selain itu, anda bisa mengamati beberapa Keunggulan dari Layanan kami yang dapat menjadi pertimbangan untuk anda nantinya. Berikut ini ialah alasan anda harus memilih kami sebagai Jasa Pembikinan pagar Stainless dan besi. Alasan Anda Memlih Jasa Kami.
 
-### 1\. Dipungut Suvery dan Konsultasi
+### 1. Dipungut Suvery dan Konsultasi
 
 Demi memberikan kepuasan akan hasil yang diterima oleh pelanggan, tim teknisi kami yang sudah berpengalaman akan melaksanakan survey ke lokasi anda untuk menjalankan pengecekan, analisis dan perhitungan dari keperluan kerangka besi dan bagian apapun yg berhubungan dengan pembuatan pagar ini. Khususnya, kami memberikan peluang kepada anda untuk berkonsultasi secara cuma-cuma tanpa mengeluarkan uang sepeserpun. Kami percaya, dengan pelayanan seperti ini dapat memberikan kepuasan sendiri bagi Jasa kami kepada tiap-tiap pelanggan.
 
-### 2\. Pengalaman yang telah matang dan profesional
+### 2. Pengalaman yang telah matang dan profesional
 
 Sekali lagi kami katakan sekiranya Jasa Pembikinan pagar Stainlesss ini sudah berpengalaman belasan tahun lamannya dalam pemasangan pagar dari bahan besi ataupun Stainlesss. Anda tak perlu takut atau kuatir, orderan tak pantas dengan keinginan. Kami memberikan jaminan garansi seandainya terjadi kerusakaan diakibatkan keteledoran kami dalam bekerja, melainkan hingga detik ini tak ada pelanggan yg tak puas dengan hasil kerja kami. Sekarang giliran anda untuk mencobanya.
 
-### 3\. Harga Terjangkau dan Bermutu
+### 3. Harga Terjangkau dan Bermutu
 
 Harga yg kami patok tidaklah mahal, kami sesuaikan dengan hasil kerja teknisi yg sudah berpengalaman dan material yg anda pesan. Tentu ini juga menentukan banyak hal seperti ukuran, volume, tipe material, lama pelaksanaan, jumlah dan masih banyak lagi yg lainnya. Layak lazim, biaya yg kami berikan sesuai dg kualitas yg akan anda peroleh. Pas bagi anda yang benar-benar memerlukan bantuan utk pembuatan pagar dari Stainless dan besi.
 
-### 4\. Tepat waktu dan Bergaransi
+### 4. Tepat waktu dan Bergaransi
 
 Jasa Profesional Pembuatan pagar Stainlesss dan besi dari kami benar-benar melaksanakan pesanan layak dengan tanggal dan waktu yg diatur. Anda jangan ragu utk mengorder layanan kami sekarang juga.
 
 ## Alasan Apa Anda Wajib Memesan Dari Jasa Kami
 
-### 1\. Tukang yang profesional di bidangnya
+### 1. Tukang yang profesional di bidangnya
 
 Kami yakin dikala ini anda sedang mencari Layanan Pembikinan pagar Stainless dan besi yg benar-benar ahli dibidangnya. Mutu tak perlu lagi anda ragu utk tlpn kami. Teknisi kami akan memberikan hasil memuaskan untuk anda.
 
-### 2\. Rapi dan juga modern
+### 2. Rapi dan juga modern
 
 Layanan kami selalu meniru perkembangan zaman dan teknologi terbaru, sehingga alhasil benar-benar modern, elegan dan cocok dg kebutuhan anda.
 
-### 3\. Menggunakan Material terbaik
+### 3. Menggunakan Material terbaik
 
 Kami tidak berani memberikan material abal-abal untuk pelanggan kami, karena itu jelas akan merusak reputasi kami dan merugikan pelanggan. utk itu, kami berikan material terbaik di kelasnya.
 
-### 4\. Hemat waktu
+### 4. Hemat waktu
 
 Mutu dari hasil kerja kami ditentukan dengan lama waktu pelaksanaan yg kami berikan.
 

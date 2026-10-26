@@ -19,8 +19,6 @@ draft: false
 
 ![Pabrik Hebel Purwakarta: Pilihan Tepat untuk Konstruksi Ringan Anda](/images/blog/pabrik-hebel-karawang.jpg)
 
-
-
 Hebel, atau *Autoclaved Aerated Concrete* (AAC), semakin populer di kalangan pembangun dan pemilik rumah. Material ini menawarkan banyak keunggulan dibandingkan material tradisional seperti batu bata merah. Kami akan membahas lebih dalam tentang pabrik hebel di Purwakarta, apa saja keuntungannya, dan bagaimana memilih yang terbaik.
 
 ## Keunggulan Memilih Hebel dari Pabrik Purwakarta
@@ -35,7 +33,6 @@ Pabrik hebel Purwakarta umumnya memproduksi beberapa ukuran standar untuk memenu
 
 Berikut tabel yang menunjukkan dimensi umum hebel:
 
-
 <table class="table">
   <caption>Dimensi Umum Hebel</caption>
   <thead>
@@ -47,7 +44,6 @@ Berikut tabel yang menunjukkan dimensi umum hebel:
     <tr><td>Hebel 12.5 cm</td><td>80</td><td>20</td><td>12.5</td><td>Dinding Penahan Beban Lebih Kuat</td></tr>
   </tbody>
 </table>
-
 
 Anda juga perlu tahu bahwa ada beberapa jenis hebel berdasarkan komposisi dan proses pembuatannya. Ada hebel polos, hebel alur lidah-alur (tongue and groove), dan hebel berlubang. Masing-masing memiliki kelebihan dan kekurangan tersendiri. Hebel alur lidah-alur sangat praktis karena memudahkan pemasangan dan mengurangi penggunaan mortar.
 

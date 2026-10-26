@@ -22,31 +22,31 @@ Teknik pengecoran sendiri terbagi menjadi dua bagian, yaitu teknik traditional d
 
 **• Teknik konvesional terdiri dari beberapa bagian:**
 
-1\. Dry-Sand Casting
+1. Dry-Sand Casting
 
-2\. Full-Mold Casting
+2. Full-Mold Casting
 
-3\. Sand-Mold Casting
+3. Sand-Mold Casting
 
-4\. Vacuum-Mold Casting
+4. Vacuum-Mold Casting
 
-5\. Shell-Mold Casting
+5. Shell-Mold Casting
 
-6\. Cement-Mold Casting
+6. Cement-Mold Casting
 
 **• Teknik non traditional terdiri dari:**
 
-1\. Centrifugal Casting
+1. Centrifugal Casting
 
-2\. Investment Casting
+2. Investment Casting
 
-3\. Permanent-Mold Casting
+3. Permanent-Mold Casting
 
-4\. High-Pressure Die Casting
+4. High-Pressure Die Casting
 
-5\. Plaster-Mold Casting
+5. Plaster-Mold Casting
 
-6\. Solid-Ceramic Casting
+6. Solid-Ceramic Casting
 
 Sebenarnya, baik metode konvesional ataupun non konvesional sama – sama mempunyai quality yang top untuk sistem pengecoran. Pada intinya perbedaan antara teknik traditional dan non traditional terdapat pada sebuah contemporary casting yang tidak bergantung pada pasir dalam pembuatan cetakannya. Selain itu, temporary yang terdapat pada pengecoran akan di gunakan untuk menghasilkan suatu produk berdasarkan geometriyang kecil. hingga, cukup relatif dibandingkan jika menggunakan traditional casting. Dimana, Hasil coran non traditional casting tidak perlu membutuhkan proses tambahan dalam menyelesaikan sebuah permukaan. Seperti di ketahui, jika jenis logam yang akan di perbuat pengecoran kebanyakan mempergunakan logam besi secara bersama-sama. Hal ini di lakukan dengan menggunakan aluminium, kuningan, perak, dan beberapa material non logam lainnya. Sistem pengecoran telah memiliki mekanisme yg lumayan sederhana. Inilah mengapa banyak yang menawarkan jasa pengecoran. Jasa pengecoran memang amat mudah di temukan. Di setiap sosial media Anda bisa melihat banyak iklan yang mempromosikam jasa penyecoran. Hal ini tentu saja akan membuat Anda mudah memperoleh jasa pengecoran. Semakin banyaknya yang menawarkan, maka sebaiknya anda berhati- hati dalam memakai jasa pengecoran. Dengan keterampilan yang di milikinya, maka para jasa pengecoran dapat lebih mudah dalam menjalankan tahapan pengecoran secara sempurna. Sebenarnya, ada banyak jenis pengecoran yang di tawarkan oleh jasa pengecoran. Inilah beberapa jenis pengecoran dari Jasa Cor Lantai dan Jalan Per Meter Di Cibeber Cilegon:
 
@@ -54,17 +54,17 @@ Sebenarnya, baik metode konvesional ataupun non konvesional sama – sama mempun
 
 Jika anda berencana hendak menjalankan pengecoran dak rumah atau ruko bangunan anda atau juga hendak menambah lantai bangunan anda, sudah tepat anda berkunjung ke laman kami. Sebab kami yaitu jasanya yang sudah berpengalaman bertahun tahun. Kami siap melayani progres mulai dari nol hingga selesai dengan harga yang pasti ideal pantas dengan anggaran dana anda. Adapun proses atau tahapan pengecoran yang kami lakukan ialah.
 
-1\. Lapangan dan Penilaian lahan untuk memastikan keperluan biayanya
+1. Lapangan dan Penilaian lahan untuk memastikan keperluan biayanya
 
-2\. Membuat desain dan perencanaan
+2. Membuat desain dan perencanaan
 
-3\. Perhitungan biaya pengecoran
+3. Perhitungan biaya pengecoran
 
-4\. Eksekusi mulai dengan pemasangan bekisting, pembesian dan pemasangan pelastik cor
+4. Eksekusi mulai dengan pemasangan bekisting, pembesian dan pemasangan pelastik cor
 
-5\. Tingkatan penuangan cor
+5. Tingkatan penuangan cor
 
-6\. Pembongkaran coran yang telah kering dan finish
+6. Pembongkaran coran yang telah kering dan finish
 
 ## Harga Nego Pengecoran Jalan Lingkungan Di Cibeber Cilegon
 

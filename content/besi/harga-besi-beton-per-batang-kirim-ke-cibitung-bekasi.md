@@ -18,19 +18,19 @@ Dengan tidak adanya besi karenanya sebuah bangunan akan gampang retak dikala ada
 
 ## Seperti Ini Jenis-jenis Besi Di Cibitung Bekasi
 
-### 1\. Besi Polos KS 4mm, 6mm, 8mm, 10mm, 12mm, 16mm, 18mm, 19mm Di Cibitung Bekasi
+### 1. Besi Polos KS 4mm, 6mm, 8mm, 10mm, 12mm, 16mm, 18mm, 19mm Di Cibitung Bekasi
 
 Besi polos mempunyai ukuran mulai dari 8 mm sampai dengan 25 mm dan memiliki 6 meter panjang tekuk dan 12 meter panjang lurus. Besi beton ini mulai digunakan sebagai bahan utama di Indonesia pada tahun 1950. Besi ini sering kali diterapkan untuk membangun bangunan beton. Bahan yang gampang diaplikasikan sehingga selain diaplikasikan untuk membangun rumah juga digunakan untuk membangun trowongan, bendungan, dan lainnya. Ketika diaplikasikan untuk membangun bangunan beton bertingkat karenanya biasa besi polos ini dipakai untuk struktur tulangan balok, dinding, dan sloof. Besi beton polos ini memiliki kelebihan besi polos ini tegangannya lebih tinggi dari pada besi lainnya. Jadi besi ini terkesan lebih kuat dan tahan beban. Oleh karena itu pengaplikasian besi polos ini benar-benar pantas untuk membangun gedung, jembatan, dan bangunan lainnya. Besi polos ini terbuat dari bahan seperti billet dan skrap. Billet yakni baja batangan yang pengerjaan pembuatannya dengan melebur biji besi. Bila skrap ialah besi bekas yang dileburkan dengan temperature tertentu. Selain itu kalau anda memakai besi polos ini tdk memerlukan budget pemeliharaan. Semakin lama digunakan maka besi ini akan semakin kokoh.
 
-### 2\. Besi Ulir Toleransi 4mm, 6mm, 8mm, 10mm, 12mm, 16mm, 18mm, 19mm Di Cibitung Bekasi
+### 2. Besi Ulir Toleransi 4mm, 6mm, 8mm, 10mm, 12mm, 16mm, 18mm, 19mm Di Cibitung Bekasi
 
 Sesuai dengan namanya besi beton ulir ini ialah besi yang bentuknya mengulir. Pada permukaannya bercorak spiral yang memiliki tujuan untuk menyatukan tulangan dengan elemen material bangunan yang dibangun oleh besi beton. Besi ulir ini mulai populer diterapkan pada abad ke-20 di Amerika dan mulai populer di Indonesia pada tahun1950. Mengingat saat menggunakan besi ulir ini memiliki banyak keunggulan mulai dari kekokohan bangunan serta lebih hemat biaya dan efisien. Produk besi ulir ini menjadi primadona pasar sebab mempunyai mutu yang terbaik di Indonesia dan memiliki harga yang tinggi bila dibandingi dengan produk lainnya.
 
-### 3\. Besi WF dan H-Beam Full Di Cibitung Bekasi
+### 3. Besi WF dan H-Beam Full Di Cibitung Bekasi
 
 Besi Wide Flange (WF) ini yakni salah satu baja dengan struktural yang paling banyak digunakan untuk kontruksi baja. Sekiranya anda membutuhkan besi baja Wide Flage dalam quantitas yang banyak atau sedikit maka silahkan cari penjual besi yang terpercaya. Besi WF ini memiliki kekuatan yang kokoh dan kuat pada kekuatan tarik atau tekan. Karenanya dari itu besi ini menjadi unsur struktur yang mempunyai batasan yang sempurna untuk menahan beban tekan aksial, tarik aksial, dan lentur dengan fasilitas pembangunan strukturnya. Baja Wide Flange (WF) ini memiliki kepadatan yang tinggi namun rasio berat antara kekuatan komponen Baja WF yang tinggi namun tdk terlalu berat yang berkaitan dengan kapasitas muatan. Selain itu menentukan jika kontruksi yang diaplikasikan secara efisien. Sistem kontruksi baja WF ini kombinasi dari unsur struktur yang kompleks. Pada struktur ini mempunyai tujuan membawa bobot yang aman dan efektif yang bekerja pada sebuah bangunan dan dikirim pada pondasinya. Gaya dan muatan yang bekerja ini termasuk bobot pertikal, perbedaan temperatur, horizontal, getaran dan lainnya. Pada sebuah bangunan baja, karenanya ada unsure yang berguna menopang gaya lateral dan gravitasi.
 
-### 4\. Besi Hollow Di Cibitung Bekasi
+### 4. Besi Hollow Di Cibitung Bekasi
 
 Besi hollow adalah besi yang dipakai sebagai pembuatan kanopi, pagar, pintu besi dan lainnya. Bahan baku pembuatan besi Hollow ini umumnya terbuat dari stainless, galvanis, dan besi baja. Tetapi yang paling kerap diaplikasikan sebagai bahan baku adalah galvanis. Terdapat kelebihan yang anda dapatkan ketika menerapkan kanopi, mengaplikasikan pagar, teralis menerapkan besi hollow:
 

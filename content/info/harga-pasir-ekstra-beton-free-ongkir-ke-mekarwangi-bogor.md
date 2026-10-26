@@ -25,7 +25,7 @@ menurut Standar Nasional Indonesia ( SK SNI - S - 04 - 1989 - F ; 28) di sebutka
 
 Syarat Pasir yang Baik Untuk Bangunan
 
-1.  Agregat Halus mesti terdiri dari butiran yang tajam dan keras dengan indeks kekerasan <2.2
+1.  Agregat Halus mesti terdiri dari butiran yang tajam dan keras dengan indeks kekerasan <2.2
 2. Jikalau dimanfaatkan Natrium Sulfat bagian hancur maksimal 12 persen
 3. kalau diterapkan Magnesium Sulfat bagian halus maksimal 5 persen
 4. Tak boleh berisi lumpur lebih dari 5 persen
@@ -41,7 +41,6 @@ Syarat Pasir yang Baik Untuk Bangunan
 setelah tahu persis persyaratan pasir untuk sebuah Konstruksi, sekarang ini kita bahas Macam - model Pasir Untuk Konstruksi penjelasan nya berikut ini:
 
 - ### Pasir Rigid Di Mekarwangi Bogor
-    
 
 Pasir ini lazim nya berwarna hitam gelap dan tingkat pecahan butiran nya cukup tinggi. Tapi jika anda mengepal nya dengan tangan tak akan lengket dan akan buyar kembali. ragam pasir ini benar-benar lah baik tuk Pengecoran, Plesteran Dinding, Adukan Pondasi dan Adukan Pasangan Bata Pasir ini yaitu pasir untuk Rigid merupakan butiran-butiran mineral keras dan tajam berukuran antara 0,075 – 5 mm, jikalau terdapat butiran berukuran lebih kecil dari 0,063 mm tak lebih dari 5% berat. Pasir ini yaitu pasir untuk Cor hampir kerap kali dipakai untuk profesi cor-coran struktur seperti kolom, balok dan pelat lantai.
 
@@ -59,21 +58,18 @@ Untuk mendapatkan kekuatan Beton yang optimal karenanya pasir semestinya dapat m
 ![Harga Pasir Ekstra Beton Free Ongkir Ke Mekarwangi Bogor](/images/info/pasir-hitam-5.jpg)
 
 - ### Pasir Untuk Adukan Pasang Batu, Pondasi, Bata, Ubin, Plester Di Mekarwangi Bogor
-    
 
 ![Harga Pasir Ekstra Beton Free Ongkir Ke Mekarwangi Bogor](/images/info/pasir-hitam-11.jpg)
 
 Pasir ini ekstra halus lagi dibandingi oleh pasir beton. apabila anda mengepal pasir ini maka akan menggumpal dan tak akan hancur kembali. pasir pasang biasa nya di gunakan untuk campuran pasir beton agar tidak terlalu kasar dan bisa di manfaatkan untuk plesteran dinding.
 
 - ### Pasir Elod Untuk Dasaran Pemasangan Granit Di Mekarwangi Bogor
-    
 
 Di Antara ke dua pasir diatas pasir jenis ini lebih halus lagi, kalau kamu mengepal nya akan menggumpal dan tak akan hancur lagi. tetapi pasir macam
 
 Pada umum nya pasir ini nyaris sama dengan pasir beton tetapi pasir ini mempunyai tingkat kekasaran yang tinggi, butiran - butiran nya lumayan besar dan agak banyak batuan nya. pada lazimnya pasir macam ini bagus untuk bahan Pembuatan Batako
 
 - ### Pasir Putih Bebas Lumpur Untuk Pasang Keramik Di Mekarwangi Bogor
-    
 
 1. **Pasir Putih Bangka**
 

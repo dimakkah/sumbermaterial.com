@@ -28,31 +28,31 @@ Kami sebagai Jasa Profesional Pembuatan Kanopi besi minimalis tentu juga memilik
 
 Adapun Keunggulan jasa yang kami tawarkan terhadap anda yakni sebagai berikut.
 
-### 1\. Pemasangan di tempat langsung
+### 1. Pemasangan di tempat langsung
 
 Kami akan langsung memasang Canopy di rumah atau bangunan milik anda, tidak ada pemasangan di tempat kami sebab terang itu akan merepotkan pada pelaksanaan pengiriman. Kami akan melaksanakan pemasangan segera di rumah anda layak dengan waktu yg sudah disepakati bersama antara anda dg tim teknisi kami. Tak perlu anda menjemput kerangka Canopy, biarlah regu kami yg menuju ke lokasi anda.
 
-### 2\. Survey tempat dan pembuatan Sampel dari Kanopi
+### 2. Survey tempat dan pembuatan Sampel dari Kanopi
 
 Setelah anda call kami dan menjalankan pengorderan, kami akan datang ke rumah anda utk mengerjakan Survei tempat lebih-lebih dahulu. Hal ini cukup penting sebab kami semestinya tahu, modal Design dan luas x panjang halaman daerah Kanopi ini nanti di pasang. Anda juga bisa memilih sebagian Sampel yang kami tawarkan, regu teknisi kami telah amat profesional dalam hal ini. Tinggal tanyakan mana design / Sampel yang palin pantas supaya akibatnya serasi dengan rumah anda.
 
-### 3\. Design dari kami atau anda sendiri
+### 3. Design dari kami atau anda sendiri
 
 Kami memberikan kebebasan terhadap tiap pelanggan untuk memberikan design atau konsep dari Kanopi yg di inginkan, disamping itu juga kami memberikan perbandingan Design yang telah kami miliki sebagai gambaran utk pelanggan. Bilamana anda cocok, maka dapat lanjutkan ke pengerjaan berikutnya.
 
-### 4\. Penawaran harga
+### 4. Penawaran harga
 
 Setelah ada kesepakan, kami akan menawarkan harga pembuatan beserta pemasangannya segera di rumah anda. Anda dapat mengerjakan negoisasi harga untuk menerima biaya deal. Kami pastikan untuk memberikan penawaran yg terbaik.
 
-### 5\. Setting dan mendata bahan Kanopi
+### 5. Setting dan mendata bahan Kanopi
 
 Bilamana kesepakatan harga telah jadi, tim kami akan mendata beberapa settingan penting yang diperkukan dalam pembuatan Canopy, selain itu juga kami akan mendata beberapa bahan penting yang perlu disiapkan. Ini dijalankan supaya tak ada bahan sisa sehingga dapat menekan harga pembelian.
 
-### 6\. Perakitan Kanopi
+### 6. Perakitan Kanopi
 
 Kerja perakitan Kanopi ini akan kami lakukan di lokasi kami sendiri sebab membutuhkan banyak peralatan, hanya saja perakitan ini “ separo jadi “, perakitan full akan kami lakukan saat telah hingga di tempat anda.
 
-### 7\. Finishing
+### 7. Finishing
 
 Kami juga akan melaksanakan pelaksanaan pemasangan seketika dirumah anda dan menuntaskannya hingga benar-benar berfungsi.
 
@@ -70,25 +70,25 @@ Besi ini mempunyai Keunggulan lain dibandingkan kerangka baja ringan, seperti yg
 
 Dibawah ini yakni beberapa kabar mengenai biaya dan jenis Kanopi besi minimalis yg paling lazim di pakai banyak perumahan, anda dapat memandang daftarnya dibawah ini.
 
-### 1\. Canopy Besi atap Galvalum
+### 1. Canopy Besi atap Galvalum
 
 Merupakan material dasar yang memiliki bahan utama terdiri dari zinc dan alumunium dengan bahan dasar besi. Secara fisiknya, ini jelas kuat sekali karena galvalum merupakan salah satu kerangka struktural yg pantas utk rangka Kanopi yg kuat dan juga kokoh. Kelebihannya ( Anti rayap, pemasangan kencang, rapi, harga cukup murah, bendung api, ringan dan kuat ).
 
 Harga Canopy besi minimalis atap Galvalum Rp. 500.000 / meter
 
-### 2\. Canopy besi atap Spandek
+### 2. Canopy besi atap Spandek
 
 Pengunaan material spandek utk beberapa tahun terakhir memang begitu tenar, banyak pengembang perum menggunakan jenis atap ini sebagai opsi Kanopi karena pantas sekali untuk menggantikan genteng. Kecuali itu juga, bahan dari spandek ini benar-benar praktis sebab mirip seperti genteng yang pantas utk konstruksi perumahan, campuran utama dari spandek merupakan seng dan alumunium. Kadar aluminium sekitar 55% dan 43% ialah kadar sengnya. Kelebihannya ( Awet dan bendung lama, anti pecah, bendung api, kuat, ringan, gampang sekali utk diaplikasikan, harga murah dan gampang didapatkan ).
 
 Harga Kanopi besi minimalis atap spandek Rp. 500.000 / meter persegi
 
-### 3\. Kanopi besi atap Gogreen
+### 3. Kanopi besi atap Gogreen
 
 Selanjutnya harga dari Canopy besi dengan atap gogreen ini merupakan salah satu penemuan kreatif penutup yang didapat dari formula baja ringan. Materi kimia ini menghasilkan suatu penutup yg cukup ramah lingkungan sebab tak mengandung banyak fiber beracun, berbeda dg seng dan juga asbes. Kelebihannya cukup banyak ( Awat dan tahan lama, mempunyai anti UV, mudah sekali utk di pasang, murah, ringan dan juga kuat )
 
 Harga Kanopi Besi Minimalis atap Gogreen Rp. 460.000 / meter
 
-### 4\. Canopy Besi atap Polycarbonate
+### 4. Canopy Besi atap Polycarbonate
 
 Bahan yg biasa dipakai di bangunan besar ini memang banyak diaplikasikan atap. Polycarbonate yakni bahan penutup pada atap Kanopi yang mudah sekali diterapkan karena wujudnya yg fleksible dan dapat disesuaikan dengan keperluan. Contoh ialah pemakaian pada sheter bis, skylight, garasi rumah, Canopy outdoor dan masih banyak lagi lainnya. Kelebihan ( Tidak mudah bocor, mudah diperoleh, bebas rayap, kesan modern, banyak warna pilihan, pemasangan yang mudah, tahan lama, mampu meredam panas, dicetak dalam wujud lembaran ).
 

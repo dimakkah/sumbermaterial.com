@@ -50,13 +50,13 @@ d. tidak bisa menjangkau tempat yang sempit. Mengingat Besi WF ini berukuran pan
 
 ### Keunggulan Dari Besi WF Di Gunung Sahari Selatan Jakarta
 
-1\. Dapat mengurangi waktu dalam pembangunan sebuah konstruksi bangunan, memaksimalkan waktu dan juga memaksimalkan ongkos dan pemasang.
+1. Dapat mengurangi waktu dalam pembangunan sebuah konstruksi bangunan, memaksimalkan waktu dan juga memaksimalkan ongkos dan pemasang.
 
-2\. Bisa menopang bobot yang betul-betul berat, tdk mudah memuai dan lebih simple pemakaiannya dibanding dengan material struktural lainnya.
+2. Bisa menopang bobot yang betul-betul berat, tdk mudah memuai dan lebih simple pemakaiannya dibanding dengan material struktural lainnya.
 
-3\. Memiliki fleksibilitas yang tinggi. Sehingga struktur bangunan yang dihasilkan dari Besi WF ini menjadi lebih kuat tdk mudah bergeser, tdk mudah runtuh ataupun goyang. Amat sesuai untuk variasi bangunan diatas tanah yang labil atau sering terjadi gempa.
+3. Memiliki fleksibilitas yang tinggi. Sehingga struktur bangunan yang dihasilkan dari Besi WF ini menjadi lebih kuat tdk mudah bergeser, tdk mudah runtuh ataupun goyang. Amat sesuai untuk variasi bangunan diatas tanah yang labil atau sering terjadi gempa.
 
-4\. Lebih hemat sebab struktur bangunan yang memakai Besi WF akan mempunyai kekuatan yang cukup lama malah sampai ratusan tahun. Tentunya ini yaitu investasi yang sangat murah apabila kita bandingkan dengan waktu gunakan. Bahkan bangunan yang dibangun dengan rangka Besi WF bisa kita wariskan terhadap anak cucu kita.
+4. Lebih hemat sebab struktur bangunan yang memakai Besi WF akan mempunyai kekuatan yang cukup lama malah sampai ratusan tahun. Tentunya ini yaitu investasi yang sangat murah apabila kita bandingkan dengan waktu gunakan. Bahkan bangunan yang dibangun dengan rangka Besi WF bisa kita wariskan terhadap anak cucu kita.
 
 ## Mengetahui Besi H Beam Di Gunung Sahari Selatan Jakarta
 
@@ -72,15 +72,15 @@ Sama seperti besi yang kami terangkan sebelumnya yaitu Besi WF, besi H-Beam mala
 
 ### Keunggulan Besi H Beam Di Gunung Sahari Selatan Jakarta
 
-1\. Gampang untuk diperoleh. Banyak toko besi yang menyediakan stok besi H-Beam bermacam jenis ukuran. Sehingga besi H-Beam ini amat gampang untuk didapatkan, tdk susah untuk mendapatkan distributor besi yang menjual besi H Beam.
+1. Gampang untuk diperoleh. Banyak toko besi yang menyediakan stok besi H-Beam bermacam jenis ukuran. Sehingga besi H-Beam ini amat gampang untuk didapatkan, tdk susah untuk mendapatkan distributor besi yang menjual besi H Beam.
 
-2\. Mudah Dalam Pemasangan. Banyak tukang pakar dalam pemasangan besi H Beam. Meski besi H-Beam ini harus dipasang oleh tukang yang berpengalaman akan tetapi tukang yang berpengalaman dalam memasang besi H Beam ini sungguh-sungguh banyak kita temui hari ini. Sehingga tdk perlu dikhawatirkan lagi pelaksanaan pemasangannya.
+2. Mudah Dalam Pemasangan. Banyak tukang pakar dalam pemasangan besi H Beam. Meski besi H-Beam ini harus dipasang oleh tukang yang berpengalaman akan tetapi tukang yang berpengalaman dalam memasang besi H Beam ini sungguh-sungguh banyak kita temui hari ini. Sehingga tdk perlu dikhawatirkan lagi pelaksanaan pemasangannya.
 
-3\. Memiliki kekuatan yang tidak diragukan lagi. Besi H Beam sudah teruji selama bertahun-tahun dalam kontruksi bangunan. Baik skala kecil ataupun skala besar dan terbilang amat awet bila dibandingkan dengan material lainnya. Dapat bertahan sampai puluhan sampai ratusan tahun.
+3. Memiliki kekuatan yang tidak diragukan lagi. Besi H Beam sudah teruji selama bertahun-tahun dalam kontruksi bangunan. Baik skala kecil ataupun skala besar dan terbilang amat awet bila dibandingkan dengan material lainnya. Dapat bertahan sampai puluhan sampai ratusan tahun.
 
-4\. Gampang dalam perawatannya. Bangunan yang menggunakan besi H Beam sebagai struktur rangka bangunannya akan sangat gampang dalam menjalankan pemeliharaannya. tdk perlu pengecatan dengan cat khusus maupun pembersihan setiap saat.
+4. Gampang dalam perawatannya. Bangunan yang menggunakan besi H Beam sebagai struktur rangka bangunannya akan sangat gampang dalam menjalankan pemeliharaannya. tdk perlu pengecatan dengan cat khusus maupun pembersihan setiap saat.
 
-5\. Menghemat pemakaian material lainnya, seperti pemakaian bekisting, penerapan tiang penyangga atau perancah dan juga material pasir. Besi H Beam tidak memerlukan material pasir dalam penerapannya.
+5. Menghemat pemakaian material lainnya, seperti pemakaian bekisting, penerapan tiang penyangga atau perancah dan juga material pasir. Besi H Beam tidak memerlukan material pasir dalam penerapannya.
 
 ### Kekurangan Dari Besi H Beam Di Gunung Sahari Selatan Jakarta
 

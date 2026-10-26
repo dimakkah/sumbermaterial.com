@@ -25,7 +25,7 @@ berdasarkan Standar Nasional Indonesia ( SK SNI - S - 04 - 1989 - F ; 28) di seb
 
 Syarat-Syarat Pasir yg Baik buat Konstruksi Bangunan
 
-1.  Agregat Halus mesti terdiri dari butiran yang tajam dan keras dengan indeks kekerasan <2.2
+1.  Agregat Halus mesti terdiri dari butiran yang tajam dan keras dengan indeks kekerasan <2.2
 2. Sekiranya diaplikasikan Natrium Sulfat komponen hancur optimal dua belas %
 3. Sekiranya diterapkan Magnesium Sulfat komponen halus optimal 5 persen
 4. Tak boleh mengandung tanah lebih dari lima %
@@ -41,7 +41,6 @@ Syarat-Syarat Pasir yg Baik buat Konstruksi Bangunan
 Sesudah tahu persis persyaratan pasir tuk sebuah Bangunan, sekarang ini kita bahas Ragam - Tipe Pasir Untuk Bangunan penjelasan nya berikut ini:
 
 - ### Pasir untuk Cor Rigid Di Kelapa Dua Jakarta
-    
 
 Pasir ini umum nya berwarna hitam gelap dan tingkat pecahan butiran nya lumayan tinggi. Melainkan jikalau anda mengepal nya dengan tangan tak akan menggumpal dan akan buyar kembali. model pasir ini benar-benar lah baik buat Pengecoran, Plesteran Dinding, Adukan Pondasi dan Adukan Pasangan Bata Pasir ini yaitu pasir untuk Cor yaitu butiran-butiran mineral keras dan tajam berukuran antara 0,075 – 5 mm, jika terdapat butiran berukuran lebih kecil dari 0,063 mm tak lebih dari 5% berat. Pasir ini yaitu pasir untuk Rigid acap kali dimanfaatkan untuk pekerjaan cor-coran struktur seperti kolom, balok dan pelat lantai.
 
@@ -59,21 +58,18 @@ Untuk mendapatkan kualitas Rigid yang maksimal maka pasir seharusnya sanggup mem
 ![Harga Pasir Jebrod Free Ongkir Ke Kelapa Dua Jakarta](/images/info/pasir-hitam-9.jpg)
 
 - ### Pasir Untuk Adukan Pasang Batu, Pondasi, Bata, Ubin, Plester Di Kelapa Dua Jakarta
-    
 
 ![Harga Pasir Jebrod Free Ongkir Ke Kelapa Dua Jakarta](/images/info/pasir-putih3.jpg)
 
 Pasir ini lebih halus lagi diperbandingkan oleh pasir beton. seandainya kalian mengepal pasir ini karenanya akan menggumpal dan tak akan buyar kembali. pasir pasang biasa nya di manfaatkan buat adukan pasir beton agar tak terlampau kasar dan bisa di manfaatkan untuk plesteran dinding.
 
 - ### Pasir Elod Untuk Dasaran Pemasangan Keramik Di Kelapa Dua Jakarta
-    
 
 Di Antara ke dua pasir diatas pasir macam ini lebih halus lagi, kalau anda mengepal nya maka akan menggumpal dan tidak akan buyar lagi. melainkan pasir jenis
 
 Pada nya pasir ini nyaris sama dengan pasir beton tetapi pasir ini memiliki tingkat kekasaran yang tinggi, butiran - butiran nya cukup besar dan agak banyak batuan nya. pada lazimnya pasir macam ini bagus tuk bahan pengurugan lantai
 
 - ### Pasir Putih Tanpa Ayak Untuk Pasang Lantai Marmer Di Kelapa Dua Jakarta
-    
 
 1. **Pasir Putih Bangka**
 

@@ -25,7 +25,7 @@ menurut Standar Nasional Indonesia ( SK SNI - S - 04 - 1989 - F ; 28) di tuturka
 
 Syarat-Syarat Pasir yg Bagus Untuk Konstruksi Bangunan
 
-1.  Agregat Halus semestinya terdiri dari butiran yang tajam dan keras dengan indeks kekerasan <2.2
+1.  Agregat Halus semestinya terdiri dari butiran yang tajam dan keras dengan indeks kekerasan <2.2
 2. bilamana dipakai Natrium Sulfat komponen hancur maksimal dua belas %
 3. bila diaplikasikan Magnesium Sulfat bagian halus maksimal sepuluh %
 4. Tidak boleh mengandung tanah lebih dari lima persen
@@ -41,7 +41,6 @@ Syarat-Syarat Pasir yg Bagus Untuk Konstruksi Bangunan
 Sesudah memahami prasyarat pasir tuk sebuah Konstruksi, sekarang ini kita bahas Tipe - Tipe Pasir Untuk Konstruksi penjelasan nya sebagai berikut:
 
 - ### Pasir Beton Di Cipinang Melayu Jakarta
-    
 
 Pasir ini umum nya berwarna coklat tua dan tingkat kekerasan butiran nya lumayan tinggi. Namun bila anda mengepal nya dengan tangan tidak akan menggumpal dan akan buyar kembali. model pasir ini sangat lah baik buat Pengecoran, Plesteran Dinding, Adukan Pondasi dan Adukan Pasangan Bata Pasir ini yaitu pasir untuk Cor yakni butiran-butiran mineral keras dan tajam berukuran antara 0,075 – 5 mm, bila terdapat butiran berukuran lebih kecil dari 0,063 mm tak lebih dari 5% berat. Pasir ini yaitu pasir untuk Beton kerap dimanfaatkan untuk profesi cor-coran struktur seperti kolom, balok dan pelat lantai.
 
@@ -59,21 +58,18 @@ Untuk menerima kualitas Rigid yang optimal karenanya pasir harus sanggup memenuh
 ![Harga Pasir Hitam Cor Free Ongkir Ke Cipinang Melayu Jakarta](/images/info/pasir-hitam-2.jpg)
 
 - ### Pasir Standar Di Cipinang Melayu Jakarta
-    
 
 ![Harga Pasir Hitam Cor Free Ongkir Ke Cipinang Melayu Jakarta](/images/info/pasir-hitam-4.jpg)
 
 Pasir ini lebih halus lagi dibandingkan oleh pasir beton. kalau kalian mengepal pasir ini karenanya akan menggumpal dan tak akan buyar kembali. pasir pasang umum nya di manfaatkan buat campuran pasir beton supaya tidak terlalu kasar dan bisa di manfaatkan untuk plesteran dinding.
 
 - ### Pasir Urug Untuk pengurugan lantai Di Cipinang Melayu Jakarta
-    
 
 Di Antara ke dua pasir diatas pasir ragam ini lebih halus lagi, apabila kamu mengepal nya akan menggumpal dan tidak akan hancur lagi. tapi pasir tipe
 
 Pada lazim nya pasir ini nyaris sama dgn pasir beton namun pasir ini mempunyai tingkat kekasaran yang tinggi, butiran - butiran nya cukup besar dan agak banyak batuan nya. pada umumnya pasir model ini baik untuk bahan pemadatan lantai
 
 - ### Pasir Putih Tanpa Batu Untuk Lapangan Voly Di Cipinang Melayu Jakarta
-    
 
 1. **Pasir Putih Bangka**
 

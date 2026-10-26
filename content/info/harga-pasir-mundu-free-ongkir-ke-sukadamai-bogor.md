@@ -25,7 +25,7 @@ Menurut Standar Nasional Indonesia ( SK SNI - S - 04 - 1989 - F ; 28) di sebutka
 
 Prasyarat Pasir yang Bagus Untuk Konstruksi Bangunan
 
-1.  Agregat Halus wajib terdiri dari butiran yg tajam dan keras dengan indeks kekerasan <2.2
+1.  Agregat Halus wajib terdiri dari butiran yg tajam dan keras dengan indeks kekerasan <2.2
 2. apabila dimanfaatkan Natrium Sulfat komponen hancur maksimal 12 persen
 3. Jikalau diterapkan Magnesium Sulfat komponen halus maksimal 10%
 4. Tak boleh mengandung tanah lebih dari lima persen
@@ -41,7 +41,6 @@ Prasyarat Pasir yang Bagus Untuk Konstruksi Bangunan
 sesudah mengetahui prasyarat pasir untuk suatu Konstruksi Bangunan, sekarang ini kita bahas Macam - model Pasir Untuk Konstruksi penjelasan nya berikut ini:
 
 - ### Pasir Cor Di Sukadamai Bogor
-    
 
 Pasir ini lazim nya berwarna hitam pekat dan tingkat pecahan butiran nya cukup tinggi. Namun jikalau anda mengepal nya dengan tangan tidak akan menggumpal dan akan buyar kembali. ragam pasir ini benar-benar lah baik buat Pengecoran, Plesteran Dinding, Adukan Pondasi dan Adukan Pasangan Bata Pasir ini yaitu pasir untuk Cor yakni butiran-butiran mineral keras dan tajam berukuran antara 0,075 – 5 mm, jika terdapat butiran berukuran lebih kecil dari 0,063 mm tak lebih dari 5% berat. Pasir ini yaitu pasir untuk Cor sering dimanfaatkan untuk pekerjaan cor-coran struktur seperti kolom, balok dan pelat lantai.
 
@@ -59,21 +58,18 @@ Untuk menerima kekokohan Beton yang optimal maka pasir harus dapat memenuhi pers
 ![Harga Pasir Mundu Free Ongkir Ke Sukadamai Bogor](/images/info/pasir-hitam-9.jpg)
 
 - ### Pasir Untuk Pasang Batu, Pondasi, Bata, Ubin, Plester Di Sukadamai Bogor
-    
 
 ![Harga Pasir Mundu Free Ongkir Ke Sukadamai Bogor](/images/info/pasir-hitam-4.jpg)
 
 Pasir ini ekstra halus lagi dibandingkan oleh pasir beton. jika kalian mengepal pasir ini maka akan menggumpal dan tak akan hancur kembali. pasir pasang umum nya di manfaatkan tuk campuran pasir beton supaya tidak terlampau kasar dan dapat di gunakan untuk plesteran dinding.
 
 - ### Pasir Urug Untuk Dasaran Pemasangan Marmer Di Sukadamai Bogor
-    
 
 Di Antara ke dua pasir diatas pasir tipe ini lebih halus lagi, apabila anda mengepal nya karenanya akan menggumpal dan tidak akan buyar lagi. tetapi pasir jenis
 
 Pada umum nya pasir ini nyaris sama dgn pasir beton namun pasir ini mempunyai tingkat kekasaran yg tinggi, butiran - butiran nya lumayan besar dan agak banyak batuan nya. pada umumnya pasir macam ini baik tuk bahan pengurugan lantai
 
 - ### Pasir Putih Kadar Lumpur Rendah Untuk Pasang Bata Di Sukadamai Bogor
-    
 
 1. **Pasir Putih Bangka**
 

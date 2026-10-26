@@ -17,7 +17,6 @@ draft: false
 
 {{< toc >}}
 
-
 Punya proyek konstruksi, perbaikan pagar, atau butuh fabrikasi besi? Mencari bengkel las terdekat yang bisa diandalkan memang penting. Nah, Kami hadir sebagai solusi praktis untuk semua keperluan pengelasan Anda.
 
 ## Mengapa Memilih Bengkel Las Terdekat?
@@ -30,18 +29,17 @@ Mitra Sumber Material memahami betul pentingnya ketepatan waktu dan kualitas dal
 
 Kami menawarkan berbagai layanan bengkel las untuk memenuhi kebutuhan beragam. Beberapa layanan yang paling sering Kami tangani antara lain:
 
-*   **Las Pagar & Gerbang:** Baik untuk perbaikan, penggantian, atau pembuatan pagar dan gerbang baru.
-*   **Las Kanopi:** Pembuatan dan pemasangan kanopi besi untuk rumah, toko, atau area outdoor lainnya.
-*   **Fabrikasi Struktur Baja:** Pembuatan rangka baja, tangga, railing, dan elemen struktur lainnya.
-*   **Perbaikan & Modifikasi:** Kami juga melayani perbaikan dan modifikasi berbagai benda dari besi dan logam.
-*   **Las Listrik & Argon:** Kami menggunakan berbagai teknik pengelasan sesuai kebutuhan proyek Anda.
+- **Las Pagar & Gerbang:** Baik untuk perbaikan, penggantian, atau pembuatan pagar dan gerbang baru.
+- **Las Kanopi:** Pembuatan dan pemasangan kanopi besi untuk rumah, toko, atau area outdoor lainnya.
+- **Fabrikasi Struktur Baja:** Pembuatan rangka baja, tangga, railing, dan elemen struktur lainnya.
+- **Perbaikan & Modifikasi:** Kami juga melayani perbaikan dan modifikasi berbagai benda dari besi dan logam.
+- **Las Listrik & Argon:** Kami menggunakan berbagai teknik pengelasan sesuai kebutuhan proyek Anda.
 
 ![Bengkel las sedang mengerjakan proyek fabrikasi](/images/blog/bengkel-las-terdekat.jpg)
 
 ## Perbandingan Teknik Pengelasan: SMAW, MIG/MAG, dan TIG
 
 Memilih teknik pengelasan yang tepat sangat berpengaruh pada kekuatan dan kualitas hasil las. Berikut perbandingan singkat tiga teknik pengelasan yang umum digunakan:
-
 
 <table class="table">
   <caption>Perbandingan Teknik Pengelasan</caption>
@@ -55,17 +53,16 @@ Memilih teknik pengelasan yang tepat sangat berpengaruh pada kekuatan dan kualit
   </tbody>
 </table>
 
-
 Anda bisa berkonsultasi dengan Kami untuk menentukan teknik pengelasan yang paling sesuai dengan kebutuhan proyek Anda. Kami akan memberikan rekomendasi terbaik berdasarkan jenis material, ketebalan, dan tingkat presisi yang dibutuhkan.
 
 ## Estimasi Biaya Jasa Las di Jabodetabek
 
 Harga jasa las bervariasi tergantung pada beberapa faktor, seperti jenis pekerjaan, kompleksitas desain, material yang digunakan, dan lokasi proyek. Sebagai gambaran, berikut perkiraan biaya jasa las di wilayah Jabodetabek:
 
-*   **Perbaikan Pagar:** Mulai dari Rp 50.000 per meter (tergantung tingkat kerusakan).
-*   **Pemasangan Pagar Baru:** Estimasi Rp 250.000 – Rp 500.000 per meter (tergantung bahan dan model pagar).
-*   **Fabrikasi Kanopi:** Estimasi Rp 150.000 – Rp 300.000 per meter persegi (tergantung desain dan bahan atap).
-*   **Jasa Las Umum:** Rp 80.000 – Rp 150.000 per jam (tergantung tingkat kesulitan).
+- **Perbaikan Pagar:** Mulai dari Rp 50.000 per meter (tergantung tingkat kerusakan).
+- **Pemasangan Pagar Baru:** Estimasi Rp 250.000 – Rp 500.000 per meter (tergantung bahan dan model pagar).
+- **Fabrikasi Kanopi:** Estimasi Rp 150.000 – Rp 300.000 per meter persegi (tergantung desain dan bahan atap).
+- **Jasa Las Umum:** Rp 80.000 – Rp 150.000 per jam (tergantung tingkat kesulitan).
 
 Harga ini bersifat estimasi dan dapat berubah sewaktu-waktu — hubungi Kami untuk penawaran terbaru dan paling akurat sesuai kebutuhan proyek Mitra. Kami akan memberikan rincian biaya yang jelas dan transparan sebelum pekerjaan dimulai.
 

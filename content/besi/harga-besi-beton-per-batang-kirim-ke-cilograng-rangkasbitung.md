@@ -18,19 +18,19 @@ Tanpa adanya besi karenanya sebuah bangunan akan gampang retak dikala ada getara
 
 ## Mengetahui Variasi-tipe Besi Di Cilograng Rangkasbitung
 
-### 1\. Besi Polos KS 4mm, 6mm, 8mm, 10mm, 12mm, 16mm, 18mm, 19mm Di Cilograng Rangkasbitung
+### 1. Besi Polos KS 4mm, 6mm, 8mm, 10mm, 12mm, 16mm, 18mm, 19mm Di Cilograng Rangkasbitung
 
 Besi polos memiliki ukuran mulai dari 8 mm sampai 25 mm dan mempunyai 6 meter panjang tekuk dan 12 meter panjang lurus. Besi beton ini mulai digunakan sebagai bahan utama di Indonesia pada tahun 1950. Besi ini kerap kali kali dipakai untuk membangun bangunan beton. Bahan yang mudah digunakan sehingga selain dari diaplikasikan untuk membangun tempat tinggal juga dipakai untuk membangun trowongan, bendungan, dan lainnya. Dikala dipakai untuk membangun bangunan beton bertingkat karenanya biasa besi polos ini diaplikasikan untuk struktur tulangan balok, dinding, dan sloof. Besi beton polos ini memiliki keunggulan besi polos ini tegangannya lebih tinggi dari pada besi lainnya. Oleh karena itu besi ini terkesan lebih kuat dan tahan beban. Jadi penggunaan besi polos ini benar-benar cocok untuk membangun gedung, jembatan, dan bangunan lainnya. Besi polos ini terbuat dari bahan seperti billet dan skrap. Billet ialah baja batangan yang cara kerja pembuatannya dengan melebur biji besi. Sekiranya skrap yaitu besi bekas yang dihancurkan dengan temperature tertentu. Selain itu sekiranya anda menggunakan besi polos ini tdk membutuhkan biaya pemeliharaan. Kian lama diaplikasikan maka besi ini akan semakin kokoh.
 
-### 2\. Besi Ulir Full 4mm, 6mm, 8mm, 10mm, 12mm, 16mm, 18mm, 19mm Di Cilograng Rangkasbitung
+### 2. Besi Ulir Full 4mm, 6mm, 8mm, 10mm, 12mm, 16mm, 18mm, 19mm Di Cilograng Rangkasbitung
 
 Sesuai dengan namanya besi beton ulir ini ialah besi yang karakternya mengulir. Pada permukaannya bercorak spiral yang mempunyai tujuan untuk menyatukan tulangan dengan unsur bahan bangunan yang dibangun oleh besi beton. Besi ulir ini mulai populer digunakan pada abad ke-20 di Amerika dan mulai populer di Indonesia pada tahun1950. Mengingat ketika menerapkan besi ulir ini memiliki banyak keunggulan mulai dari ketahanan bangunan serta lebih ekonomis dan efisien. Produk besi ulir ini menjadi primadona pasar sebab memiliki kwalitas yang terbaik di Indonesia dan mempunyai harga yang tinggi sekiranya diperbandingkan dengan produk lainnya.
 
-### 3\. Besi WF dan H-Beam Krakatau Steel Di Cilograng Rangkasbitung
+### 3. Besi WF dan H-Beam Krakatau Steel Di Cilograng Rangkasbitung
 
 Besi Wide Flange (WF) ini adalah salah satu baja dengan struktural yang paling sering diaplikasikan untuk kontruksi baja. Jikalau anda memerlukan besi baja Wide Flage dalam jumlah yang banyak atau sedikit karenanya silahkan cari penjual besi yang terpercaya. Besi WF ini memiliki kekuatan yang kokoh dan kuat pada ketahanan tarik atau tekan. Maka dari itu besi ini menjadi elemen struktur yang mempunyai batasan yang paripurna untuk menopang bobot tekan aksial, tarik aksial, dan lentur dengan fasilitas pembangunan strukturnya. Baja Wide Flange (WF) ini memiliki kepadatan yang tinggi tapi rasio berat antara kekuatan bagian Baja WF yang tinggi namun tidak terlalu berat yang terkait dengan kapasitas beban. Selain itu memastikan jika kontruksi yang diterapkan secara efisien. Cara kontruksi baja WF ini kombinasi dari faktor struktur yang rumit. Pada struktur ini memiliki tujuan membawa beban yang aman dan efektif yang bekerja pada sebuah bangunan dan dikirim pada pondasinya. Gaya dan beban yang bekerja ini termasuk muatan pertikal, perbedaan temperatur, horizontal, getaran dan lainnya. Pada sebuah bangunan baja, maka ada unsure yang berguna menahan gaya lateral dan gravitasi.
 
-### 4\. Besi Holo Di Cilograng Rangkasbitung
+### 4. Besi Holo Di Cilograng Rangkasbitung
 
 Besi hollow yakni besi yang diterapkan sebagai pembuatan kanopi, pagar, pintu besi dan lainnya. Bahan baku pembuatan besi Hollow ini lazimnya terbuat dari stainless, galvanis, dan besi baja. Tapi yang paling kerap diterapkan sebagai bahan baku merupakan galvanis. Terdapat kelebihan yang anda dapatkan dikala menerapkan kanopi, memasang pagar, teralis menerapkan besi hollow:
 

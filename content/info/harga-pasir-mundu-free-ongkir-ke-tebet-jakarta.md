@@ -25,7 +25,7 @@ berdasarkan Standar Nasional Indonesia ( SK SNI - S - 04 - 1989 - F ; 28) di seb
 
 Prasyarat Pasir yg Bagus Untuk Bangunan
 
-1.  Agregat Halus mesti terdiri dari butiran yg tajam dan keras dengan indeks kekerasan <2.2
+1.  Agregat Halus mesti terdiri dari butiran yg tajam dan keras dengan indeks kekerasan <2.2
 2. Seandainya dipakai Natrium Sulfat komponen hancur maksimal dua belas %
 3. kalau diaplikasikan Magnesium Sulfat bagian halus maksimal 5 persen
 4. Tak boleh mengandung lumpur lebih dari lima %
@@ -41,7 +41,6 @@ Prasyarat Pasir yg Bagus Untuk Bangunan
 Setelah tahu persis persyaratan pasir untuk suatu Konstruksi, sekarang ini kita bahas Ragam - model Pasir Untuk Bangunan penjelasan nya berikut ini:
 
 - ### Pasir Untuk Beton Di Tebet Jakarta
-    
 
 Pasir ini umum nya berwarna keabu-abuan dan tingkat kekasaran butiran nya lumayan tinggi. Melainkan kalau anda mengepal nya dengan tangan tak akan lengket dan akan buyar kembali. tipe pasir ini sangat lah baik buat Pengecoran, Plesteran Dinding, Adukan Pondasi dan Adukan Pasangan Bata Pasir ini yaitu pasir untuk Cor adalah butiran-butiran mineral keras dan tajam berukuran antara 0,075 – 5 mm, jikalau terdapat butiran berukuran lebih kecil dari 0,063 mm tak lebih dari 5% berat. Pasir ini yaitu pasir untuk Rigid kerap kali dimanfaatkan untuk profesi cor-coran struktur seperti kolom, balok dan pelat lantai.
 
@@ -59,21 +58,18 @@ Untuk menerima kualitas Cor yang optimal maka pasir seharusnya dapat memenuhi pr
 ![Harga Pasir Mundu Free Ongkir Ke Tebet Jakarta](/images/info/pasir-hitam-1.jpg)
 
 - ### Pasir Standar Di Tebet Jakarta
-    
 
 ![Harga Pasir Mundu Free Ongkir Ke Tebet Jakarta](/images/info/pasir-putih12.jpg)
 
 Pasir ini lebih halus lagi dibandingi oleh pasir beton. seandainya kamu mengepal pasir ini karenanya akan menggumpal dan tak akan buyar kembali. pasir pasang biasa nya di manfaatkan tuk adukan pasir beton agar tak kelewat kasar dan dapat di manfaatkan untuk plesteran dinding.
 
 - ### Pasir Elod Untuk Dasaran Pemasangan Keramik Di Tebet Jakarta
-    
 
 Di Antara ke dua pasir diatas pasir macam ini lebih halus lagi, jika kalian mengepal nya karenanya akan menggumpal dan tidak akan buyar lagi. tapi pasir jenis
 
 Pada umum nya pasir ini nyaris sama dgn pasir beton akan tapi pasir ini mempunyai tingkat kekasaran yang tinggi, butiran - butiran nya lumayan besar dan agak banyak batuan nya. pada umumnya pasir macam ini bagus tuk bahan pengurugan lantai
 
 - ### Pasir Putih Halus Untuk Pengecoran Di Tebet Jakarta
-    
 
 1. **Pasir Putih Bangka**
 

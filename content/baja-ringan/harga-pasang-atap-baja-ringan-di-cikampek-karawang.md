@@ -21,13 +21,13 @@ Memasang baja ringan untuk bangunan Anda sebenarnya tidak terlalu rumit, tapi me
 
 Sebelum Anda menghubungi kami, ada beberapa alasan penting mengapa baja ringan menjadi pilihan cerdas untuk atap dan kanopi Anda di Cikampek Karawang:
 
- **Ramah Lingkungan:** Baja ringan mendukung gaya hidup berkelanjutan karena mengurangi kebutuhan akan kayu, yang berarti lebih sedikit pohon yang ditebang. Dengan memilih baja ringan, Anda turut berkontribusi dalam menjaga kelestarian alam.
- **Ekonomis:** Jika dibandingkan dengan kerangka kayu, baja ringan seringkali lebih hemat biaya. Mendapatkan kayu berkualitas tinggi membutuhkan biaya yang signifikan, terutama untuk komponen kerangka yang krusial. Memilih baja ringan dapat membantu Anda menekan anggaran pembangunan.
- **Ringan dan Kuat:** Baja ringan memiliki berat hanya setengah dari baja atau besi konvensional, namun kekuatannya tidak kalah. Dengan ketebalan yang tipis dan ringan, material ini sangat ideal untuk kerangka atap dan kanopi rumah Anda.
- **Minim Perawatan:** Anda tidak perlu khawatir tentang perawatan rutin karena baja ringan tahan terhadap kerusakan dan hama. Ini akan membebaskan Anda dari biaya dan kerumitan perawatan tahunan.
- **Pemasangan Cepat:** Dibandingkan dengan bahan lain seperti kayu, pemasangan baja ringan lebih cepat dan efisien. Ini akan menghemat waktu dan tenaga Anda dalam proses pembangunan.
- **Kualitas Terjamin:** Baja ringan yang kami gunakan adalah material berkualitas tinggi yang terbuat dari zinc dan aluminium. Material ini memiliki standar keamanan 4 kali lebih baik dibandingkan baja biasa dan mampu menahan beban berkilo-kilo.
- **Tahan Rayap:** Kami menjamin bahwa kerangka atap dan kanopi baja ringan yang kami pasang tahan terhadap serangan rayap, sehingga Anda tidak perlu khawatir tentang kerusakan akibat hama.
+- **Ramah Lingkungan:** Baja ringan mendukung gaya hidup berkelanjutan karena mengurangi kebutuhan akan kayu, yang berarti lebih sedikit pohon yang ditebang. Dengan memilih baja ringan, Anda turut berkontribusi dalam menjaga kelestarian alam.
+- **Ekonomis:** Jika dibandingkan dengan kerangka kayu, baja ringan seringkali lebih hemat biaya. Mendapatkan kayu berkualitas tinggi membutuhkan biaya yang signifikan, terutama untuk komponen kerangka yang krusial. Memilih baja ringan dapat membantu Anda menekan anggaran pembangunan.
+- **Ringan dan Kuat:** Baja ringan memiliki berat hanya setengah dari baja atau besi konvensional, namun kekuatannya tidak kalah. Dengan ketebalan yang tipis dan ringan, material ini sangat ideal untuk kerangka atap dan kanopi rumah Anda.
+- **Minim Perawatan:** Anda tidak perlu khawatir tentang perawatan rutin karena baja ringan tahan terhadap kerusakan dan hama. Ini akan membebaskan Anda dari biaya dan kerumitan perawatan tahunan.
+- **Pemasangan Cepat:** Dibandingkan dengan bahan lain seperti kayu, pemasangan baja ringan lebih cepat dan efisien. Ini akan menghemat waktu dan tenaga Anda dalam proses pembangunan.
+- **Kualitas Terjamin:** Baja ringan yang kami gunakan adalah material berkualitas tinggi yang terbuat dari zinc dan aluminium. Material ini memiliki standar keamanan 4 kali lebih baik dibandingkan baja biasa dan mampu menahan beban berkilo-kilo.
+- **Tahan Rayap:** Kami menjamin bahwa kerangka atap dan kanopi baja ringan yang kami pasang tahan terhadap serangan rayap, sehingga Anda tidak perlu khawatir tentang kerusakan akibat hama.
 
 ## Sistem Hitung Luas Rangka Baja Ringan Di Cikampek Karawang
 

@@ -18,19 +18,19 @@ Dengan tidak adanya besi maka sebuah bangunan akan gampang retak dikala ada gunc
 
 ## Inilah Variasi-tipe Besi Di Halim Perdana kusumah Jakarta
 
-### 1\. Besi Polos Full 4mm, 6mm, 8mm, 10mm, 12mm, 16mm, 18mm, 19mm Di Halim Perdana kusumah Jakarta
+### 1. Besi Polos Full 4mm, 6mm, 8mm, 10mm, 12mm, 16mm, 18mm, 19mm Di Halim Perdana kusumah Jakarta
 
 Besi polos mempunyai ukuran mulai dari 8 mm sampai 25 mm dan mempunyai 6 meter panjang tekuk dan 12 meter panjang lurus. Besi beton ini telah mulai diaplikasikan sebagai bahan utama di Indonesia pada tahun 1950. Besi ini sering kali digunakan untuk membangun tempat tinggal. Bahan yang mudah digunakan sehingga selain dipakai untuk membangun sebuah gedung juga diaplikasikan untuk membangun trowongan, bendungan, dan lainnya. Ketika dipakai untuk membangun sebuah gedung bertingkat karenanya biasa besi polos ini dipakai untuk struktur rangkaian besi balok, dinding, dan sloof. Besi beton polos ini mempunyai kelebihan besi polos ini tegangannya lebih tinggi dari pada besi lainnya. Sehingga besi ini terkesan lebih kokoh dan tahan beban. Oleh karena itu pengaplikasian besi polos ini betul-betul layak untuk membangun gedung, jembatan, dan bangunan lainnya. Besi polos ini terbuat dari bahan seperti billet dan skrap. Billet adalah baja batangan yang cara kerja pembuatannya dengan melebur biji besi. Sekiranya skrap yaitu besi bekas yang dileburkan dengan temperature tertentu. Selain dari itu jikalau anda memakai besi polos ini tdk memerlukan anggaran pemeliharaan. Kian lama diaplikasikan karenanya besi ini akan kian kokoh.
 
-### 2\. Besi Ulir Full 4mm, 6mm, 8mm, 10mm, 12mm, 16mm, 18mm, 19mm Di Halim Perdana kusumah Jakarta
+### 2. Besi Ulir Full 4mm, 6mm, 8mm, 10mm, 12mm, 16mm, 18mm, 19mm Di Halim Perdana kusumah Jakarta
 
 Sesuai dengan namanya besi beton ulir ini yaitu besi yang karakternya mengulir. Pada permukaannya bercorak spiral yang memiliki tujuan untuk menyatukan gerigi besi dengan faktor material bangunan yang dibentuk oleh besi beton. Besi ulir ini mulai populer dipakai pada abad ke-20 di Amerika dan mulai populer di Indonesia pada tahun1950. Mengingat dikala mengaplikasikan besi ulir ini mempunyai banyak kelebihan mulai dari kekokohan bangunan serta lebih hemat biaya dan efisien. Produk besi ulir ini menjadi primadona pasar sebab memiliki mutu yang terbaik di Indonesia dan memiliki harga yang tinggi seandainya diperbandingkan dengan produk lainnya.
 
-### 3\. Besi WF dan H-Beam KS Di Halim Perdana kusumah Jakarta
+### 3. Besi WF dan H-Beam KS Di Halim Perdana kusumah Jakarta
 
 Besi Wide Flange (WF) ini adalah salah satu baja dengan struktural yang paling banyak diaplikasikan untuk kontruksi baja. Kalau anda memerlukan besi baja Wide Flage dalam quantitas yang banyak atau sedikit karenanya silahkan cari distributor besi yang terpercaya. Besi WF ini mempunyai kekuatan yang kokoh dan kokoh pada kekuatan tarik atau tekan. Karenanya dari itu besi ini menjadi elemen struktur yang memiliki batasan yang sempurna untuk menopang beban tekan aksial, tarik aksial, dan lentur dengan fasilitas pembangunan strukturnya. Baja Wide Flange (WF) ini mempunyai kepadatan yang tinggi tetapi rasio berat antara kekuatan komponen Baja WF yang tinggi namun tdk begitu berat yang berkaitan dengan kapasitas bobot. Selain dari itu menetapkan seandainya kontruksi yang digunakan secara efisien. Cara kontruksi baja WF ini kombinasi dari unsur struktur yang kompleks. Pada struktur ini mempunyai tujuan membawa muatan yang aman dan efektif yang berefek pada sebuah bangunan dan dikirim pada pondasinya. Gaya dan muatan yang berefek ini termasuk bobot pertikal, perbedaan temperatur, horizontal, getaran dan lainnya. Pada sebuah bangunan baja, maka ada unsure yang berfungsi menopang gaya lateral dan gravitasi.
 
-### 4\. Besi Holow Di Halim Perdana kusumah Jakarta
+### 4. Besi Holow Di Halim Perdana kusumah Jakarta
 
 Besi hollow yaitu besi yang digunakan sebagai pembuatan kanopi, pagar, pintu besi dan lainnya. Bahan baku pembuatan besi Hollow ini biasanya terbuat dari stainless, galvanis, dan besi baja. Tetapi yang paling kerap kali diterapkan sebagai bahan baku yaitu galvanis. Terdapat kelebihan yang anda temukan dikala mengaplikasikan kanopi, mengaplikasikan pagar, teralis menggunakan besi hollow:
 

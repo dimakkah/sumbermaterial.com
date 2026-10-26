@@ -50,13 +50,13 @@ d. tdk dapat menjangkau area yang sempit. Mengingat Besi WF ini berukuran panjan
 
 ### Keunggulan Dari Besi WF Di Balumbang Jaya Bogor
 
-1\. Bisa mengurangi waktu dalam pembangunan sebuah konstruksi bangunan, menghemat waktu dan juga memaksimalkan ongkos dan tenaga tukang.
+1. Bisa mengurangi waktu dalam pembangunan sebuah konstruksi bangunan, menghemat waktu dan juga memaksimalkan ongkos dan tenaga tukang.
 
-2\. Dapat menopang beban yang sangat berat, tidak gampang memuai dan lebih simple pemakaiannya dibanding dengan material struktural lainnya.
+2. Dapat menopang beban yang sangat berat, tidak gampang memuai dan lebih simple pemakaiannya dibanding dengan material struktural lainnya.
 
-3\. Memiliki fleksibilitas yang tinggi. Sehingga struktur bangunan yang diciptakan dari Besi WF ini menjadi lebih kuat tidak gampang bergeser, tdk gampang ambrol ataupun goyang. Sangat pantas untuk tipe bangunan diatas tanah yang labil atau kerap kali terjadi longsor.
+3. Memiliki fleksibilitas yang tinggi. Sehingga struktur bangunan yang diciptakan dari Besi WF ini menjadi lebih kuat tidak gampang bergeser, tdk gampang ambrol ataupun goyang. Sangat pantas untuk tipe bangunan diatas tanah yang labil atau kerap kali terjadi longsor.
 
-4\. Lebih hemat karena struktur bangunan yang menggunakan Besi WF akan mempunyai kekuatan yang cukup lama bahkan sampai ratusan tahun. Tentunya ini merupakan investasi yang sangat murah seandainya kita bandingkan dengan waktu gunakan. Malah bangunan yang dibangun dengan tulangan Besi WF bisa kita wariskan kepada buah hati cucu kita.
+4. Lebih hemat karena struktur bangunan yang menggunakan Besi WF akan mempunyai kekuatan yang cukup lama bahkan sampai ratusan tahun. Tentunya ini merupakan investasi yang sangat murah seandainya kita bandingkan dengan waktu gunakan. Malah bangunan yang dibangun dengan tulangan Besi WF bisa kita wariskan kepada buah hati cucu kita.
 
 ## Mengetahui Besi H Beam Di Balumbang Jaya Bogor
 
@@ -72,15 +72,15 @@ Sama seperti besi yang kami paparkan sebelumnya merupakan Besi WF, besi H-Beam m
 
 ### Kelebihan Besi H Beam Di Balumbang Jaya Bogor
 
-1\. Gampang untuk didapatkan. Banyak supplier besi yang menyediakan stok besi H-Beam beragam ukuran. Sehingga besi H-Beam ini amat gampang untuk diperoleh, tdk susah untuk menemukan supplier besi yang menjual besi H Beam.
+1. Gampang untuk didapatkan. Banyak supplier besi yang menyediakan stok besi H-Beam beragam ukuran. Sehingga besi H-Beam ini amat gampang untuk diperoleh, tdk susah untuk menemukan supplier besi yang menjual besi H Beam.
 
-2\. Mudah Dalam Pemasangan. Banyak tukang ahli dalam pemasangan besi H Beam. Meskipun besi H-Beam ini mesti dipasang oleh tukang yang profesional akan tetapi tukang yang ahli dalam memasang besi H Beam ini sungguh-sungguh banyak kita temui hari ini. Sehingga tidak perlu dikhawatirkan lagi pelaksanaan pemasangannya.
+2. Mudah Dalam Pemasangan. Banyak tukang ahli dalam pemasangan besi H Beam. Meskipun besi H-Beam ini mesti dipasang oleh tukang yang profesional akan tetapi tukang yang ahli dalam memasang besi H Beam ini sungguh-sungguh banyak kita temui hari ini. Sehingga tidak perlu dikhawatirkan lagi pelaksanaan pemasangannya.
 
-3\. Memiliki daya tahan yang tidak diragukan lagi. Besi H Beam telah teruji selama bertahun-tahun dalam kontruksi bangunan. Apakah skala kecil maupun skala besar dan terbilang betul-betul tahan lama kalau diperbandingkan dengan material lainnya. Bisa bertahan hingga puluhan sampai ratusan tahun.
+3. Memiliki daya tahan yang tidak diragukan lagi. Besi H Beam telah teruji selama bertahun-tahun dalam kontruksi bangunan. Apakah skala kecil maupun skala besar dan terbilang betul-betul tahan lama kalau diperbandingkan dengan material lainnya. Bisa bertahan hingga puluhan sampai ratusan tahun.
 
-4\. Gampang dalam pemeliharaannya. Bangunan yang menerapkan besi H Beam sebagai struktur rangka bangunannya akan sangat mudah dalam melakukan pemeliharaannya. tidak perlu pengecatan dengan cat khusus maupun pembersihan setiap saat.
+4. Gampang dalam pemeliharaannya. Bangunan yang menerapkan besi H Beam sebagai struktur rangka bangunannya akan sangat mudah dalam melakukan pemeliharaannya. tidak perlu pengecatan dengan cat khusus maupun pembersihan setiap saat.
 
-5\. Memaksimalkan pemakaian material lainnya, seperti penggunaan bekisting, penerapan steger atau perancah dan juga material pasir. Besi H Beam Tdk membutuhkan material pasir dalam pemakaiannya.
+5. Memaksimalkan pemakaian material lainnya, seperti penggunaan bekisting, penerapan steger atau perancah dan juga material pasir. Besi H Beam Tdk membutuhkan material pasir dalam pemakaiannya.
 
 ### Kekurangan Dari Besi H Beam Di Balumbang Jaya Bogor
 

@@ -50,13 +50,13 @@ d. tidak bisa menjangkau area yang sempit. Mengingat Besi WF ini berukuran panja
 
 ### Keunggulan Dari Besi WF Di Cimarga Rangkasbitung
 
-1\. Dapat menghemat waktu dalam pembangunan sebuah konstruksi bangunan, mengurangi waktu dan juga menghemat ongkos dan tenaga tukang.
+1. Dapat menghemat waktu dalam pembangunan sebuah konstruksi bangunan, mengurangi waktu dan juga menghemat ongkos dan tenaga tukang.
 
-2\. Dapat menopang muatan yang sungguh-sungguh berat, tidak gampang memuai dan lebih simple penggunaannya dibanding dengan material struktural lainnya.
+2. Dapat menopang muatan yang sungguh-sungguh berat, tidak gampang memuai dan lebih simple penggunaannya dibanding dengan material struktural lainnya.
 
-3\. Memiliki fleksibilitas yang tinggi. Sehingga struktur bangunan yang diciptakan dari Besi WF ini menjadi lebih kuat tdk mudah bergeser, tdk mudah runtuh ataupun goyang. Amat cocok untuk variasi bangunan diatas tanah yang labil atau sering terjadi gempa.
+3. Memiliki fleksibilitas yang tinggi. Sehingga struktur bangunan yang diciptakan dari Besi WF ini menjadi lebih kuat tdk mudah bergeser, tdk mudah runtuh ataupun goyang. Amat cocok untuk variasi bangunan diatas tanah yang labil atau sering terjadi gempa.
 
-4\. Lebih hemat karena struktur bangunan yang memakai Besi WF akan mempunyai kekokohan yang cukup lama bahkan sampai ratusan tahun. Tentunya ini adalah investasi yang sangat murah seandainya kita bandingkan dengan waktu gunakan. Malah bangunan yang dibangun dengan rangka Besi WF dapat kita wariskan terhadap anak cucu kita.
+4. Lebih hemat karena struktur bangunan yang memakai Besi WF akan mempunyai kekokohan yang cukup lama bahkan sampai ratusan tahun. Tentunya ini adalah investasi yang sangat murah seandainya kita bandingkan dengan waktu gunakan. Malah bangunan yang dibangun dengan rangka Besi WF dapat kita wariskan terhadap anak cucu kita.
 
 ## Mengenal Besi H Beam Di Cimarga Rangkasbitung
 
@@ -72,15 +72,15 @@ Sama seperti besi yang kami terangkan sebelumnya merupakan Besi WF, besi H-Beam 
 
 ### Kelebihan Besi H Beam Di Cimarga Rangkasbitung
 
-1\. Mudah untuk didapatkan. Banyak toko besi yang menyediakan stok besi H-Beam berbagai ukuran. Sehingga besi H-Beam ini betul-betul gampang untuk didapatkan, tdk susah untuk memperoleh distributor besi yang menjual besi H Beam.
+1. Mudah untuk didapatkan. Banyak toko besi yang menyediakan stok besi H-Beam berbagai ukuran. Sehingga besi H-Beam ini betul-betul gampang untuk didapatkan, tdk susah untuk memperoleh distributor besi yang menjual besi H Beam.
 
-2\. Gampang Dalam Pemasangan. Banyak tukang spesialis dalam pemasangan besi H Beam. Meskipun besi H-Beam ini sepatutnya dipasang oleh tukang yang profesional namun tukang yang ahli dalam memasang besi H Beam ini sangat banyak kita temui hari ini. Sehingga tdk perlu dikhawatirkan lagi progres pemasangannya.
+2. Gampang Dalam Pemasangan. Banyak tukang spesialis dalam pemasangan besi H Beam. Meskipun besi H-Beam ini sepatutnya dipasang oleh tukang yang profesional namun tukang yang ahli dalam memasang besi H Beam ini sangat banyak kita temui hari ini. Sehingga tdk perlu dikhawatirkan lagi progres pemasangannya.
 
-3\. Memiliki daya tahan yang tidak diragukan lagi. Besi H Beam telah teruji selama bertahun-tahun dalam kontruksi bangunan. Baik skala kecil ataupun skala besar dan terbilang benar-benar awet jika dibandingkan dengan material lainnya. Dapat bertahan sampai puluhan hingga ratusan tahun.
+3. Memiliki daya tahan yang tidak diragukan lagi. Besi H Beam telah teruji selama bertahun-tahun dalam kontruksi bangunan. Baik skala kecil ataupun skala besar dan terbilang benar-benar awet jika dibandingkan dengan material lainnya. Dapat bertahan sampai puluhan hingga ratusan tahun.
 
-4\. Gampang dalam pemeliharaannya. Bangunan yang menggunakan besi H Beam sebagai struktur tulangan bangunannya akan amat gampang dalam melaksanakan pemeliharaannya. tidak perlu pengecatan dengan cat khusus maupun pembersihan setiap saat.
+4. Gampang dalam pemeliharaannya. Bangunan yang menggunakan besi H Beam sebagai struktur tulangan bangunannya akan amat gampang dalam melaksanakan pemeliharaannya. tidak perlu pengecatan dengan cat khusus maupun pembersihan setiap saat.
 
-5\. Memaksimalkan penerapan material lainnya, seperti penggunaan bekisting, penerapan steger atau tiang penyangga dan juga material pasir. Besi H Beam tidak memerlukan material pasir dalam penggunaannya.
+5. Memaksimalkan penerapan material lainnya, seperti penggunaan bekisting, penerapan steger atau tiang penyangga dan juga material pasir. Besi H Beam tidak memerlukan material pasir dalam penggunaannya.
 
 ### Kekurangan Dari Besi H Beam Di Cimarga Rangkasbitung
 

@@ -17,7 +17,6 @@ draft: false
 
 {{< toc >}}
 
-
 Nah, membahas soal atap, rangka atap baja ringan menjadi semakin populer di Bekasi dan sekitarnya. Tidak mengherankan, karena material ini menawarkan banyak keunggulan dibandingkan material tradisional seperti kayu atau baja konvensional. Mitra Sumber Material akan membahas tuntas soal rangka atap baja ringan di Bekasi, mulai dari perkiraan biaya, tips memilih material yang tepat, hingga bagaimana memastikan pemasangan yang benar.
 
 ## Mengapa Rangka Atap Baja Ringan Cocok untuk Bekasi?
@@ -32,14 +31,14 @@ Pertanyaan paling umum yang muncul adalah soal biaya. Biaya pemasangan rangka at
 
 Sebagai gambaran, berikut estimasi biaya per meter persegi (harga ini bersifat estimasi dan dapat berubah sewaktu-waktu — hubungi Kami untuk penawaran terbaru dan paling akurat sesuai kebutuhan proyek Mitra):
 
-*   **Material Baja Ringan:** Rp 40.000 - Rp 70.000 per meter persegi
-*   **Jasa Pemasangan:** Rp 30.000 - Rp 50.000 per meter persegi
+- **Material Baja Ringan:** Rp 40.000 - Rp 70.000 per meter persegi
+- **Jasa Pemasangan:** Rp 30.000 - Rp 50.000 per meter persegi
 
 Jadi, untuk atap seluas 50 meter persegi, perkiraan total biayanya adalah:
 
-*   **Material:** 50 m² x Rp 55.000/m² = Rp 2.750.000
-*   **Jasa Pemasangan:** 50 m² x Rp 40.000/m² = Rp 2.000.000
-*   **Total:** Rp 4.750.000
+- **Material:** 50 m² x Rp 55.000/m² = Rp 2.750.000
+- **Jasa Pemasangan:** 50 m² x Rp 40.000/m² = Rp 2.000.000
+- **Total:** Rp 4.750.000
 
 Perlu diingat bahwa angka ini hanyalah estimasi kasar. Untuk mendapatkan penawaran yang lebih akurat, sebaiknya Anda berkonsultasi langsung dengan Kami di Sumber Material. Kami akan melakukan survei lokasi dan memberikan penawaran harga yang sesuai dengan kebutuhan dan anggaran Anda.
 

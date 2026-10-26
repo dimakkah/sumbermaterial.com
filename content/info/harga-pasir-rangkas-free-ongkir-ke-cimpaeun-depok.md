@@ -25,7 +25,7 @@ Berdasarkan Standar Nasional Indonesia ( SK SNI - S - 04 - 1989 - F ; 28) di tut
 
 Syarat Pasir yang Baik Untuk Bangunan
 
-1.  Agregat Halus sepatutnya terdiri dari butiran yang tajam dan keras dengan indeks kekerasan <2.2
+1.  Agregat Halus sepatutnya terdiri dari butiran yang tajam dan keras dengan indeks kekerasan <2.2
 2. bilamana dimanfaatkan Natrium Sulfat bagian hancur maksimal 12 persen
 3. jikalau diterapkan Magnesium Sulfat bagian halus optimal 5 persen
 4. Tidak boleh berisi lumpur lebih dari lima %
@@ -41,7 +41,6 @@ Syarat Pasir yang Baik Untuk Bangunan
 setelah mengenal persyaratan pasir tuk suatu Bangunan, pada saat ini kita bahas model - Macam Pasir Untuk Konstruksi Bangunan penjelasan nya sebagai berikut:
 
 - ### Pasir Cor Di Cimpaeun Depok
-    
 
 Pasir ini lazim nya berwarna hitam gelap dan tingkat kekerasan butiran nya lumayan tinggi. Tetapi jikalau anda mengepal nya dengan tangan tidak akan menggumpal dan akan hancur kembali. tipe pasir ini amat lah baik tuk Pengecoran, Plesteran Dinding, Adukan Pondasi dan Adukan Pasangan Bata Pasir ini yaitu pasir untuk Cor merupakan butiran-butiran mineral keras dan tajam berukuran antara 0,075 – 5 mm, seandainya terdapat butiran berukuran lebih kecil dari 0,063 mm tidak lebih dari 5% berat. Pasir ini yaitu pasir untuk Cor sering dipakai untuk pekerjaan cor-coran struktur seperti kolom, balok dan pelat lantai.
 
@@ -52,9 +51,9 @@ Harga Pasir Rangkas Free Ongkir Ke Cimpaeun Depok Kalau anda sebagai konsumen /p
 Pasir nomor satu asal kp. jebrod cianjur jawa barat yang diterapkan oleh indocement serta perusahaan batching plant lainnya sebagai bahan dasar produksi readymix concrete. Pasir ini paling dianjurkan untuk cor sebab irit semen juga mempunyai kandungan lumpur yang betul-betul rendah dibawah delapan %. warnanya Hitam abu tua atau hitam seperti hitamnya batu kali, ada juga yang hitam kemerahan atau hitam terasi
 
 3. **Pasir Hitam Beton Cimangkok.** Pasir asli Daerah penambangannya di cimangkok sukabumi jabar yang masih masuk terhadap kategori pasir hitam No. 1 di jawa barat, warnanya hitam kecoklatan layak untuk cor, pasang pondasi dan bata
-    
+
     ![Harga Pasir Rangkas Free Ongkir Ke Cimpaeun Depok](/images/info/pasir-hitam-5.jpg)
-    
+
 4. **Pasir Hitam Rigid Cimalaka Subang Bandung.**
 
 Pasir terbaik yang berwarna hitam kebauan ada juga yang berwarna hitam abu tua. Banyak di gunakan untuk Beton, pasang dan keperluan lainnya. Ditambang di Daerah cimalaka
@@ -90,9 +89,9 @@ Kecuali Rangkasbitung, Banten juga mempunyai lokasi pnembangan pasir lain sepert
 Masih dari Lokasi di banten, pasir kelas tiga ini merupakan pasir yang banyak digunakan di proyek proyek perumahan atau cluster sebab harganya yang murah juga kwalitas yang unggul. Warna pasir ini hitam kecoklatan dan keabuan betul-betul dianjurkan untuk pasang pondasi, bata, batu dsb
 
 27. **Pasir Hitam Rigid Bohlam Sukabumi.** Pasir dari Lokasi kp. bohlam di sukabumi berwarna hitam kecoklatan, sungguh-sungguh bagus untuk pasang bata, pondasi dan sebagainya sebagai opsi pasir mutu bagus dan ekonomis
-    
+
     ![Harga Pasir Rangkas Free Ongkir Ke Cimpaeun Depok](/images/info/pasir-hitam-2.jpg)
-    
+
 28. **Pasir Cor Galunggung.**
 
 Pasir ini yakni pasir hitam kwalitas paling unggul dikelasnya umum diterapkan oleh pabrik pengolahan beton readymix juga perusahan pembuatan precast dan sering kali juga diaplikasikan untuk bahan pembuatan batako press hitam, paving block dsb. Pasir ini ditambang dari Tasikmalaya jabar.
@@ -100,21 +99,18 @@ Pasir ini yakni pasir hitam kwalitas paling unggul dikelasnya umum diterapkan ol
 ![Harga Pasir Rangkas Free Ongkir Ke Cimpaeun Depok](/images/info/pasir-hitam-5.jpg)
 
 - ### Pasir Untuk Pemasangan Batu, Pondasi, Bata, Ubin, Plester Di Cimpaeun Depok
-    
 
 ![Harga Pasir Rangkas Free Ongkir Ke Cimpaeun Depok](/images/info/jual-pasir-mundu-2.jpg)
 
 Pasir ini ekstra halus lagi dibandingkan oleh pasir beton. sekiranya kamu mengepal pasir ini maka akan menggumpal dan tidak akan buyar kembali. pasir pasang biasa nya di manfaatkan tuk adukan pasir beton supaya tidak terlalu kasar dan bisa di gunakan untuk plesteran dinding.
 
 - ### Pasir Kualitas rendah Untuk pengurugan lantai Di Cimpaeun Depok
-    
 
 Di Antara ke dua pasir diatas pasir jenis ini lebih halus lagi, bila anda mengepal nya maka akan menggumpal dan tak akan hancur lagi. tetapi pasir ragam tidak bagus tuk di buat sebagai bahan bangunan. pasir model ini pada biasa nya di pakai untuk Bahan Pembuatan Batako
 
 Pada biasa nya pasir ini nyaris sama dengan pasir beton akan namun pasir ini mempunyai tingkat kekasaran yg tinggi, butiran - butiran nya lumayan besar dan agak banyak batuan nya. pada lazimnya pasir jenis ini baik untuk bahan pemadatan lantai
 
 - ### Pasir Putih Kadar Lumpur Rendah Untuk Pasang Lantai Marmer Di Cimpaeun Depok
-    
 
 1. **Pasir Putih Bangka**
 

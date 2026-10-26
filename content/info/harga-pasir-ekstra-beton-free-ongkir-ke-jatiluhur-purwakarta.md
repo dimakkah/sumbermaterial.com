@@ -25,7 +25,7 @@ Berdasarkan Standar Nasional Indonesia ( SK SNI - S - 04 - 1989 - F ; 28) di seb
 
 Syarat Pasir yang Bagus Untuk Bangunan
 
-1.  Agregat Halus sepatutnya terdiri dari butiran yang tajam dan keras dengan indeks kekerasan <2.2
+1.  Agregat Halus sepatutnya terdiri dari butiran yang tajam dan keras dengan indeks kekerasan <2.2
 2. jika dimanfaatkan Natrium Sulfat bagian hancur optimal 12 persen
 3. Jika dipakai Magnesium Sulfat bagian halus optimal 5 persen
 4. Tak boleh mengandung lumpur lebih dari 5 persen
@@ -41,7 +41,6 @@ Syarat Pasir yang Bagus Untuk Bangunan
 sesudah tahu persis persyaratan pasir untuk sebuah Konstruksi, pada saat ini kita bahas Macam - model Pasir Untuk Bangunan penjelasan nya berikut ini:
 
 - ### Pasir untuk Cor Rigid Di Jatiluhur Purwakarta
-    
 
 Pasir ini biasa nya berwarna coklat tua dan tingkat kekasaran butiran nya lumayan tinggi. Namun apabila anda mengepal nya dengan tangan tidak akan menggumpal dan akan hancur kembali. ragam pasir ini benar-benar lah baik buat Pengecoran, Plesteran Dinding, Adukan Pondasi dan Adukan Pasangan Bata Pasir ini yaitu pasir untuk Rigid ialah butiran-butiran mineral keras dan tajam berukuran antara 0,075 – 5 mm, seandainya terdapat butiran berukuran lebih kecil dari 0,063 mm tak lebih dari 5% berat. Pasir ini yaitu pasir untuk Cor kerap dipakai untuk pekerjaan cor-coran struktur seperti kolom, balok dan pelat lantai.
 
@@ -52,9 +51,9 @@ Harga Pasir Ekstra Beton Free Ongkir Ke Jatiluhur Purwakarta Jika anda sebagai k
 Pasir kelas satu diambil dari kp. jebrod cianjur jawa barat yang digunakan oleh indocement serta perusahaan batching plant lainnya sebagai bahan dasar produksi readymix concrete. Pasir ini paling dianjurkan untuk cor sebab irit semen juga mempunyai kandungan lumpur yang betul-betul rendah dibawah delapan %. warnanya Hitam abu tua atau hitam seperti hitamnya batu kali, ada juga yang hitam kemerahan atau hitam terasi
 
 3. **Pasir Hitam Rigid Cimangkok.** Pasir dari Tempat penambangannya di cimangkok sukabumi jawa barat yang masih masuk terhadap klasifikasi pasir hitam No. 1 di jabar, warnanya hitam kecoklatan pantas untuk cor, pasang pondasi dan bata
-    
+
     ![Harga Pasir Ekstra Beton Free Ongkir Ke Jatiluhur Purwakarta](/images/info/jual-pasir-cor-hitam.jpg)
-    
+
 4. **Pasir Hitam Rigid Cimalaka Subang Bandung.**
 
 Pasir nomor satu yang berwarna hitam kebauan ada juga yang berwarna hitam abu tua. Banyak di pakai untuk Beton, pasang dan keperluan lainnya. Ditambang di Daerah cimalaka
@@ -90,9 +89,9 @@ Kecuali Rangkasbitung, Banten juga mempunyai lokasi pnembangan pasir lain sepert
 Masih dari Lokasi di banten, pasir kelas tiga ini yaitu pasir yang banyak digunakan di proyek proyek perumahan atau cluster sebab harganya yang murah juga mutu yang tidak diragukan. Warna pasir ini hitam kecoklatan dan keabuan amat disarankan untuk pasang pondasi, bata, batu dsb
 
 27. **Pasir Hitam Beton Bohlam Sukabumi.** Pasir dari Kawasan kp. bohlam di sukabumi berwarna hitam kecoklatan, amat bagus untuk pasang bata, pondasi dan sebagainya sebagai pilihan pasir mutu bagus dan tidak mahal
-    
+
     ![Harga Pasir Ekstra Beton Free Ongkir Ke Jatiluhur Purwakarta](/images/info/pasir-hitam-9.jpg)
-    
+
 28. **Pasir Cor Galunggung.**
 
 Pasir ini ialah pasir hitam kwalitas paling unggul dikelasnya umum digunakan oleh pabrik pengolahan beton readymix juga perusahan pembuatan precast dan kerap juga diterapkan untuk bahan pembuatan batako press hitam, paving block dsb. Pasir ini ditambang dari Tasikmalaya jawa barat.
@@ -100,21 +99,18 @@ Pasir ini ialah pasir hitam kwalitas paling unggul dikelasnya umum digunakan ole
 ![Harga Pasir Ekstra Beton Free Ongkir Ke Jatiluhur Purwakarta](/images/info/pasir-hitam-9.jpg)
 
 - ### Pasir Untuk Pasang Batu, Pondasi, Bata, Ubin, Plester Di Jatiluhur Purwakarta
-    
 
 ![Harga Pasir Ekstra Beton Free Ongkir Ke Jatiluhur Purwakarta](/images/info/jual-pasir-mundu.jpg)
 
 Pasir ini ekstra halus lagi dibandingkan oleh pasir beton. jikalau kalian mengepal pasir ini maka akan menggumpal dan tak akan buyar kembali. pasir pasang biasa nya di gunakan tuk campuran pasir beton supaya tak terlalu kasar dan dapat di pakai untuk plesteran dinding.
 
 - ### Pasir Kualitas rendah Untuk pengurugan lantai Di Jatiluhur Purwakarta
-    
 
 Di Antara ke dua pasir diatas pasir model ini lebih halus lagi, kalau anda mengepal nya akan menggumpal dan tak akan hancur lagi. tapi pasir tipe
 
 Pada biasa nya pasir ini nyaris sama dgn pasir beton namun pasir ini mempunyai tingkat kekasaran yg tinggi, butiran - butiran nya cukup besar dan agak banyak batuan nya. pada umumnya pasir macam ini bagus tuk bahan dasaran pemasangan keramik
 
 - ### Pasir Putih Bebas Lumpur Untuk Pasang Keramik Di Jatiluhur Purwakarta
-    
 
 1. **Pasir Putih Bangka**
 

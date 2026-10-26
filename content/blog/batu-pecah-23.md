@@ -17,7 +17,6 @@ draft: false
 
 {{< toc >}}
 
-
 Batu pecah 2/3 merupakan material konstruksi yang sering digunakan dalam berbagai aplikasi, mulai dari fondasi bangunan, pembuatan jalan, hingga sistem drainase. Material ini dikenal karena kekuatannya, daya tahannya, dan harganya yang relatif terjangkau. Kami di Sumber Material memahami betul pentingnya mendapatkan kualitas batu pecah 2/3 yang sesuai dengan kebutuhan proyek Anda.
 
 ## Mengapa Memilih Batu Pecah 2/3 untuk Proyek Anda?
@@ -42,7 +41,6 @@ Pernahkah Anda bertanya-tanya, apa bedanya batu pecah 2/3 dengan batu split ukur
 
 Berikut tabel perbandingan ukuran batu split dan aplikasinya:
 
-
 <table class="table">
   <caption>Perbandingan Ukuran Batu Split</caption>
   <thead>
@@ -56,7 +54,6 @@ Berikut tabel perbandingan ukuran batu split dan aplikasinya:
     <tr><td>5/40</td><td>Agregat kasar, material drainase besar</td></tr>
   </tbody>
 </table>
-
 
 Anda bisa melihat bahwa batu pecah 2/3 merupakan pilihan yang ideal jika Anda membutuhkan material yang kuat dan serbaguna untuk berbagai aplikasi. Kalau Anda masih bingung memilih ukuran yang tepat, jangan ragu untuk berkonsultasi dengan Kami.
 

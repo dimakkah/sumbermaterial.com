@@ -50,13 +50,13 @@ d. tdk dapat menjangkau tempat yang sempit. Mengingat Besi WF ini berukuran panj
 
 ### Keunggulan Dari Besi WF Di Bojongkerta Bogor
 
-1\. Dapat memaksimalkan waktu dalam pembangunan sebuah konstruksi bangunan, memaksimalkan waktu dan juga mengurangi biaya dan tenaga tukang.
+1. Dapat memaksimalkan waktu dalam pembangunan sebuah konstruksi bangunan, memaksimalkan waktu dan juga mengurangi biaya dan tenaga tukang.
 
-2\. Dapat menopang beban yang sangat berat, tidak mudah memuai dan lebih simple penerapannya dibanding dengan material struktural lainnya.
+2. Dapat menopang beban yang sangat berat, tidak mudah memuai dan lebih simple penerapannya dibanding dengan material struktural lainnya.
 
-3\. Mempunyai fleksibilitas yang tinggi. Sehingga struktur bangunan yang dibuat dari Besi WF ini menjadi lebih kuat tidak mudah bergeser, tdk gampang ambrol ataupun goyang. Amat layak untuk tipe bangunan diatas tanah yang labil atau kerap kali terjadi longsor.
+3. Mempunyai fleksibilitas yang tinggi. Sehingga struktur bangunan yang dibuat dari Besi WF ini menjadi lebih kuat tidak mudah bergeser, tdk gampang ambrol ataupun goyang. Amat layak untuk tipe bangunan diatas tanah yang labil atau kerap kali terjadi longsor.
 
-4\. Lebih hemat sebab struktur bangunan yang memakai Besi WF akan memiliki ketahanan yang cukup lama malah sampai ratusan tahun. Tentunya ini yakni investasi yang benar-benar murah jika kita bandingkan dengan waktu pakai. Malahan bangunan yang dibangun dengan rangka Besi WF bisa kita wariskan terhadap buah hati cucu kita.
+4. Lebih hemat sebab struktur bangunan yang memakai Besi WF akan memiliki ketahanan yang cukup lama malah sampai ratusan tahun. Tentunya ini yakni investasi yang benar-benar murah jika kita bandingkan dengan waktu pakai. Malahan bangunan yang dibangun dengan rangka Besi WF bisa kita wariskan terhadap buah hati cucu kita.
 
 ## Mengetahui Besi H Beam Di Bojongkerta Bogor
 
@@ -72,15 +72,15 @@ Sama seperti besi yang kami jelaskan sebelumnya merupakan Besi WF, besi H-Beam b
 
 ### Kelebihan Besi H Beam Di Bojongkerta Bogor
 
-1\. Gampang untuk didapat. Banyak supplier besi yang menyediakan stok besi H-Beam bermacam jenis ukuran. Sehingga besi H-Beam ini sungguh-sungguh gampang untuk didapatkan, tidak sulit untuk memperoleh toko besi yang memasarkan besi H Beam.
+1. Gampang untuk didapat. Banyak supplier besi yang menyediakan stok besi H-Beam bermacam jenis ukuran. Sehingga besi H-Beam ini sungguh-sungguh gampang untuk didapatkan, tidak sulit untuk memperoleh toko besi yang memasarkan besi H Beam.
 
-2\. Gampang Dalam Pemasangan. Banyak tukang ahli dalam pemasangan besi H Beam. Meskipun besi H-Beam ini sepatutnya dipasang oleh tukang yang ahli akan tetapi tukang yang profesional dalam memasang besi H Beam ini amat banyak kita temui hari ini. Sehingga tidak perlu dikhawatirkan lagi pengerjaan pemasangannya.
+2. Gampang Dalam Pemasangan. Banyak tukang ahli dalam pemasangan besi H Beam. Meskipun besi H-Beam ini sepatutnya dipasang oleh tukang yang ahli akan tetapi tukang yang profesional dalam memasang besi H Beam ini amat banyak kita temui hari ini. Sehingga tidak perlu dikhawatirkan lagi pengerjaan pemasangannya.
 
-3\. Mempunyai ketahanan yang tidak diragukan lagi. Besi H Beam telah teruji selama bertahun-tahun dalam kontruksi bangunan. Apakah skala kecil maupun skala besar dan terbilang amat kuat apabila dibandingi dengan material lainnya. Dapat bertahan sampai puluhan hingga ratusan tahun.
+3. Mempunyai ketahanan yang tidak diragukan lagi. Besi H Beam telah teruji selama bertahun-tahun dalam kontruksi bangunan. Apakah skala kecil maupun skala besar dan terbilang amat kuat apabila dibandingi dengan material lainnya. Dapat bertahan sampai puluhan hingga ratusan tahun.
 
-4\. Gampang dalam pemeliharaannya. Bangunan yang menerapkan besi H Beam sebagai struktur rangka bangunannya akan betul-betul gampang dalam menjalankan pemeliharaannya. tdk perlu pengecatan dengan cat khusus maupun pembersihan setiap waktu.
+4. Gampang dalam pemeliharaannya. Bangunan yang menerapkan besi H Beam sebagai struktur rangka bangunannya akan betul-betul gampang dalam menjalankan pemeliharaannya. tdk perlu pengecatan dengan cat khusus maupun pembersihan setiap waktu.
 
-5\. Mengurangi penerapan material lainnya, seperti penerapan bekisting, penerapan tiang penyangga atau perancah dan juga material pasir. Besi H Beam tidak memerlukan material pasir dalam pemakaiannya.
+5. Mengurangi penerapan material lainnya, seperti penerapan bekisting, penerapan tiang penyangga atau perancah dan juga material pasir. Besi H Beam tidak memerlukan material pasir dalam pemakaiannya.
 
 ### Kekurangan Dari Besi H Beam Di Bojongkerta Bogor
 

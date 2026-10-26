@@ -25,7 +25,7 @@ Menurut Standar Nasional Indonesia ( SK SNI - S - 04 - 1989 - F ; 28) di tuturka
 
 Persyaratan Pasir yg Baik Untuk Konstruksi Bangunan
 
-1.  Agregat Halus mesti terdiri dari butiran yang tajam dan keras dengan indeks kekerasan <2.2
+1.  Agregat Halus mesti terdiri dari butiran yang tajam dan keras dengan indeks kekerasan <2.2
 2. jika dipakai Natrium Sulfat komponen hancur optimal 12%
 3. Jikalau diaplikasikan Magnesium Sulfat bagian halus maksimal 10%
 4. Tak boleh berisi lumpur lebih dari lima %
@@ -41,7 +41,6 @@ Persyaratan Pasir yg Baik Untuk Konstruksi Bangunan
 Sesudah memahami persyaratan pasir buat suatu Konstruksi, pada saat ini kita bahas Ragam - model Pasir Untuk Bangunan penjelasan nya sbb:
 
 - ### Pasir untuk Cor Rigid Di Cilodong Depok
-    
 
 Pasir ini umum nya berwarna hitam pekat dan tingkat pecahan butiran nya lumayan tinggi. Tetapi bila anda mengepal nya dengan tangan tak akan lengket dan akan buyar kembali. model pasir ini betul-betul lah baik tuk Pengecoran, Plesteran Dinding, Adukan Pondasi dan Adukan Pasangan Bata Pasir ini yaitu pasir untuk Cor ialah butiran-butiran mineral keras dan tajam berukuran antara 0,075 – 5 mm, apabila terdapat butiran berukuran lebih kecil dari 0,063 mm tidak lebih dari 5% berat. Pasir ini yaitu pasir untuk Rigid acap kali dimanfaatkan untuk profesi cor-coran struktur seperti kolom, balok dan pelat lantai.
 
@@ -59,21 +58,18 @@ Untuk menerima kekuatan Rigid yang maksimal karenanya pasir mesti dapat memenuhi
 ![Harga Pasir Cimangkok Free Ongkir Ke Cilodong Depok](/images/info/pasir-hitam-7.jpg)
 
 - ### Pasir Biasa Di Cilodong Depok
-    
 
 ![Harga Pasir Cimangkok Free Ongkir Ke Cilodong Depok](/images/info/jual-pasir-mundu-2.jpg)
 
 Pasir ini ekstra halus lagi dibandingi oleh pasir beton. kalau kalian mengepal pasir ini karenanya akan menggumpal dan tak akan buyar kembali. pasir pasang biasa nya di manfaatkan tuk campuran pasir beton agar tidak terlalu kasar dan bisa di manfaatkan untuk plesteran dinding.
 
 - ### Pasir Elod Untuk Pembuatan Batako Di Cilodong Depok
-    
 
 Di Antara ke dua pasir diatas pasir tipe ini lebih halus lagi, sekiranya anda mengepal nya akan menggumpal dan tak akan buyar lagi. melainkan pasir tipe
 
 Pada lazim nya pasir ini nyaris sama dengan pasir beton tetapi pasir ini mempunyai tingkat kekasaran yang tinggi, butiran - butiran nya lumayan besar dan agak banyak batuan nya. pada lazimnya pasir model ini bagus untuk bahan pengurugan lantai
 
 - ### Pasir Putih Tanpa Ayak Untuk Taman Bermain Di Cilodong Depok
-    
 
 1. **Pasir Putih Bangka**
 

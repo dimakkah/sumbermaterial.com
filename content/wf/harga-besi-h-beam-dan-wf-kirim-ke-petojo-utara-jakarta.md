@@ -50,13 +50,13 @@ d. tidak bisa menjangkau area yang sempit. Mengingat Besi WF ini berukuran panja
 
 ### Kelebihan Dari Besi WF Di Petojo Utara Jakarta
 
-1\. Bisa mengurangi waktu dalam pembangunan sebuah konstruksi bangunan, menghemat waktu dan juga mengurangi ongkos dan tenaga tukang.
+1. Bisa mengurangi waktu dalam pembangunan sebuah konstruksi bangunan, menghemat waktu dan juga mengurangi ongkos dan tenaga tukang.
 
-2\. Dapat menopang beban yang benar-benar berat, tdk mudah memuai dan lebih simple pengaplikasiannya dibanding dengan material struktural lainnya.
+2. Dapat menopang beban yang benar-benar berat, tdk mudah memuai dan lebih simple pengaplikasiannya dibanding dengan material struktural lainnya.
 
-3\. Memiliki fleksibilitas yang tinggi. Sehingga struktur bangunan yang diwujudkan dari Besi WF ini menjadi lebih kuat tdk gampang bergeser, tdk gampang runtuh ataupun goyang. Sangat pantas untuk tipe bangunan diatas tanah yang labil atau sering terjadi longsor.
+3. Memiliki fleksibilitas yang tinggi. Sehingga struktur bangunan yang diwujudkan dari Besi WF ini menjadi lebih kuat tdk gampang bergeser, tdk gampang runtuh ataupun goyang. Sangat pantas untuk tipe bangunan diatas tanah yang labil atau sering terjadi longsor.
 
-4\. Lebih hemat karena struktur bangunan yang menggunakan Besi WF akan mempunyai ketahanan yang cukup lama bahkan hingga ratusan tahun. Tentunya ini adalah investasi yang amat murah kalau kita bandingkan dengan waktu gunakan. Malahan bangunan yang dibangun dengan rangka Besi WF dapat kita wariskan terhadap anak cucu kita.
+4. Lebih hemat karena struktur bangunan yang menggunakan Besi WF akan mempunyai ketahanan yang cukup lama bahkan hingga ratusan tahun. Tentunya ini adalah investasi yang amat murah kalau kita bandingkan dengan waktu gunakan. Malahan bangunan yang dibangun dengan rangka Besi WF dapat kita wariskan terhadap anak cucu kita.
 
 ## Mengenal Besi H Beam Di Petojo Utara Jakarta
 
@@ -72,15 +72,15 @@ Sama seperti besi yang kami paparkan sebelumnya yaitu Besi WF, besi H-Beam pun m
 
 ### Keunggulan Besi H Beam Di Petojo Utara Jakarta
 
-1\. Mudah untuk diperoleh. Banyak supplier besi yang menyediakan stok besi H-Beam bermacam-macam ukuran. Sehingga besi H-Beam ini sangat gampang untuk diperoleh, tdk sulit untuk menemukan distributor besi yang menjual besi H Beam.
+1. Mudah untuk diperoleh. Banyak supplier besi yang menyediakan stok besi H-Beam bermacam-macam ukuran. Sehingga besi H-Beam ini sangat gampang untuk diperoleh, tdk sulit untuk menemukan distributor besi yang menjual besi H Beam.
 
-2\. Gampang Dalam Pemasangan. Banyak tukang spesialis dalam pemasangan besi H Beam. Meski besi H-Beam ini harus dipasang oleh tukang yang berpengalaman akan tetapi tukang yang profesional dalam memasang besi H Beam ini amat banyak kita temui hari ini. Sehingga tdk perlu dikhawatirkan lagi pelaksanaan pemasangannya.
+2. Gampang Dalam Pemasangan. Banyak tukang spesialis dalam pemasangan besi H Beam. Meski besi H-Beam ini harus dipasang oleh tukang yang berpengalaman akan tetapi tukang yang profesional dalam memasang besi H Beam ini amat banyak kita temui hari ini. Sehingga tdk perlu dikhawatirkan lagi pelaksanaan pemasangannya.
 
-3\. Memiliki ketahanan yang tdk diragukan lagi. Besi H Beam sudah teruji selama bertahun-tahun dalam kontruksi bangunan. Apakah skala kecil maupun skala besar dan terbilang sangat kuat jika dibandingkan dengan material lainnya. Dapat bertahan sampai puluhan sampai ratusan tahun.
+3. Memiliki ketahanan yang tdk diragukan lagi. Besi H Beam sudah teruji selama bertahun-tahun dalam kontruksi bangunan. Apakah skala kecil maupun skala besar dan terbilang sangat kuat jika dibandingkan dengan material lainnya. Dapat bertahan sampai puluhan sampai ratusan tahun.
 
-4\. Gampang dalam pemeliharaannya. Bangunan yang menerapkan besi H Beam sebagai struktur tulangan bangunannya akan benar-benar mudah dalam menjalankan pemeliharaannya. tdk perlu pengecatan dengan cat khusus maupun pembersihan setiap saat.
+4. Gampang dalam pemeliharaannya. Bangunan yang menerapkan besi H Beam sebagai struktur tulangan bangunannya akan benar-benar mudah dalam menjalankan pemeliharaannya. tdk perlu pengecatan dengan cat khusus maupun pembersihan setiap saat.
 
-5\. Memaksimalkan penggunaan material lainnya, seperti pemakaian bekisting, pemakaian tiang penyangga atau perancah dan juga material pasir. Besi H Beam tidak memerlukan material pasir dalam penggunaannya.
+5. Memaksimalkan penggunaan material lainnya, seperti pemakaian bekisting, pemakaian tiang penyangga atau perancah dan juga material pasir. Besi H Beam tidak memerlukan material pasir dalam penggunaannya.
 
 ### Kekurangan Dari Besi H Beam Di Petojo Utara Jakarta
 

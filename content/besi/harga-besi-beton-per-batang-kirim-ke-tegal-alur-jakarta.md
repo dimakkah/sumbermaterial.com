@@ -18,19 +18,19 @@ Tanpa adanya besi karenanya sebuah bangunan akan mudah retak saat ada guncangan 
 
 ## Inilah Variasi-tipe Besi Di Tegal Alur Jakarta
 
-### 1\. Besi Polos Toleransi 4mm, 6mm, 8mm, 10mm, 12mm, 16mm, 18mm, 19mm Di Tegal Alur Jakarta
+### 1. Besi Polos Toleransi 4mm, 6mm, 8mm, 10mm, 12mm, 16mm, 18mm, 19mm Di Tegal Alur Jakarta
 
 Besi polos mempunyai ukuran mulai dari 8 mm hingga 25 mm dan mempunyai 6 meter panjang tekuk dan 12 meter panjang lurus. Besi beton ini mulai diterapkan sebagai bahan utama di Indonesia pada tahun 1950. Besi ini sering kali dipakai untuk membangun sebuah gedung. Bahan yang gampang digunakan sehingga selain dari diaplikasikan untuk membangun sebuah gedung juga diterapkan untuk membangun trowongan, bendungan, dan lainnya. Saat digunakan untuk membangun tempat tinggal bertingkat karenanya biasa besi polos ini digunakan untuk struktur rangkaian besi balok, dinding, dan sloof. Besi beton polos ini mempunyai keunggulan besi polos ini tegangannya lebih tinggi dari pada besi lainnya. Oleh karena itu besi ini terkesan lebih kuat dan tahan beban. Oleh karena itu penggunaan besi polos ini amat layak untuk membangun gedung, jembatan, dan bangunan lainnya. Besi polos ini terbuat dari bahan seperti billet dan skrap. Billet yakni baja batangan yang proses pembuatannya dengan mengecor biji besi. Jikalau skrap ialah besi bekas yang dileburkan dengan temperature tertentu. Selain itu kalau anda menerapkan besi polos ini tdk membutuhkan anggaran pemeliharaan. Kian lama diaplikasikan maka besi ini akan kian kokoh.
 
-### 2\. Besi Ulir Full 4mm, 6mm, 8mm, 10mm, 12mm, 16mm, 18mm, 19mm Di Tegal Alur Jakarta
+### 2. Besi Ulir Full 4mm, 6mm, 8mm, 10mm, 12mm, 16mm, 18mm, 19mm Di Tegal Alur Jakarta
 
 Cocok dengan namanya besi beton ulir ini yakni besi yang tampilannya mengulir. Pada permukaannya bercorak spiral yang memiliki tujuan untuk menyatukan gerigi besi dengan faktor bahan bangunan yang dibangun oleh besi beton. Besi ulir ini mulai populer diaplikasikan pada abad ke-20 di Amerika dan mulai populer di Indonesia pada tahun1950. Mengingat dikala menggunakan besi ulir ini memiliki banyak keunggulan mulai dari kekuatan bangunan serta lebih hemat biaya dan efisien. Produk besi ulir ini menjadi primadona pasar karena memiliki kualitas yang terbaik di Indonesia dan mempunyai harga yang tinggi apabila dibandingkan dengan produk lainnya.
 
-### 3\. Besi WF dan H-Beam KS Di Tegal Alur Jakarta
+### 3. Besi WF dan H-Beam KS Di Tegal Alur Jakarta
 
 Besi Wide Flange (WF) ini merupakan salah satu baja dengan struktural yang paling populer digunakan untuk kontruksi baja. Bila anda memerlukan besi baja Wide Flage dalam quantitas yang banyak atau sedikit karenanya silahkan cari supplier besi yang terpercaya. Besi WF ini memiliki kekokohan yang kokoh dan kuat pada kekuatan tarik atau tekan. Karenanya dari itu besi ini menjadi unsur struktur yang memiliki batasan yang paripurna untuk menahan beban tekan aksial, tarik aksial, dan lentur dengan fasilitas pembangunan strukturnya. Baja Wide Flange (WF) ini mempunyai kepadatan yang tinggi tetapi rasio berat antara ketahanan bagian Baja WF yang tinggi tetapi tdk terlalu berat yang berhubungan dengan kapasitas beban. Selain dari itu menetapkan seandainya kontruksi yang dipakai secara efisien. Cara kontruksi baja WF ini kombinasi dari faktor struktur yang kompleks. Pada struktur ini memiliki tujuan membawa muatan yang aman dan efektif yang bekerja pada sebuah bangunan dan dikirim pada pondasinya. Gaya dan bobot yang bekerja ini termasuk beban pertikal, perbedaan temperatur, horizontal, getaran dan lainnya. Pada sebuah bangunan baja, maka ada unsure yang berfungsi menahan gaya lateral dan gravitasi.
 
-### 4\. Besi Holow Di Tegal Alur Jakarta
+### 4. Besi Holow Di Tegal Alur Jakarta
 
 Besi hollow ialah besi yang diterapkan sebagai pembuatan kanopi, pagar, pintu besi dan lainnya. Bahan baku pembuatan besi Hollow ini umumnya terbuat dari stainless, galvanis, dan besi baja. Tetapi yang paling tak jarang diaplikasikan sebagai bahan baku adalah galvanis. Terdapat kelebihan yang anda dapatkan dikala memasang kanopi, memasang pagar, teralis menggunakan besi hollow:
 

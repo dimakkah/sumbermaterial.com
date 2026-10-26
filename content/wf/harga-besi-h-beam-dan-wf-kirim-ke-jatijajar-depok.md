@@ -50,13 +50,13 @@ d. tidak dapat menjangkau lokasi yang sempit. Mengingat Besi WF ini berukuran pa
 
 ### Kelebihan Dari Besi WF Di Jatijajar Depok
 
-1\. Bisa menghemat waktu dalam pembangunan sebuah konstruksi bangunan, memaksimalkan waktu dan juga memaksimalkan ongkos dan tukang pasang.
+1. Bisa menghemat waktu dalam pembangunan sebuah konstruksi bangunan, memaksimalkan waktu dan juga memaksimalkan ongkos dan tukang pasang.
 
-2\. Bisa menopang muatan yang sangat berat, tidak mudah memuai dan lebih simple pengaplikasiannya dibanding dengan material struktural lainnya.
+2. Bisa menopang muatan yang sangat berat, tidak mudah memuai dan lebih simple pengaplikasiannya dibanding dengan material struktural lainnya.
 
-3\. Memiliki fleksibilitas yang tinggi. Sehingga struktur bangunan yang dijadikan dari Besi WF ini menjadi lebih kuat tidak gampang bergeser, tdk mudah runtuh maupun goyang. Sangat sesuai untuk jenis bangunan diatas tanah yang labil atau sering terjadi gempa.
+3. Memiliki fleksibilitas yang tinggi. Sehingga struktur bangunan yang dijadikan dari Besi WF ini menjadi lebih kuat tidak gampang bergeser, tdk mudah runtuh maupun goyang. Sangat sesuai untuk jenis bangunan diatas tanah yang labil atau sering terjadi gempa.
 
-4\. Lebih hemat karena struktur bangunan yang menggunakan Besi WF akan memiliki kekokohan yang cukup lama malah hingga ratusan tahun. Tentunya ini yaitu investasi yang betul-betul murah jikalau kita bandingkan dengan waktu pakai. Bahkan bangunan yang dibangun dengan tulangan Besi WF bisa kita wariskan terhadap buah hati cucu kita.
+4. Lebih hemat karena struktur bangunan yang menggunakan Besi WF akan memiliki kekokohan yang cukup lama malah hingga ratusan tahun. Tentunya ini yaitu investasi yang betul-betul murah jikalau kita bandingkan dengan waktu pakai. Bahkan bangunan yang dibangun dengan tulangan Besi WF bisa kita wariskan terhadap buah hati cucu kita.
 
 ## Mengenal Besi H Beam Di Jatijajar Depok
 
@@ -72,15 +72,15 @@ Sama seperti besi yang kami terangkan sebelumnya adalah Besi WF, besi H-Beam mal
 
 ### Keunggulan Besi H Beam Di Jatijajar Depok
 
-1\. Gampang untuk didapat. Banyak distributor besi yang menyediakan stok besi H-Beam bermacam jenis ukuran. Sehingga besi H-Beam ini sungguh-sungguh mudah untuk didapatkan, tidak sulit untuk mendapatkan supplier besi yang memasarkan besi H Beam.
+1. Gampang untuk didapat. Banyak distributor besi yang menyediakan stok besi H-Beam bermacam jenis ukuran. Sehingga besi H-Beam ini sungguh-sungguh mudah untuk didapatkan, tidak sulit untuk mendapatkan supplier besi yang memasarkan besi H Beam.
 
-2\. Gampang Dalam Pemasangan. Banyak tukang spesialis dalam pemasangan besi H Beam. Meski besi H-Beam ini wajib dipasang oleh tukang yang ahli namun tukang yang berpengalaman dalam memasang besi H Beam ini amat banyak kita temui hari ini. Sehingga tdk perlu dikhawatirkan lagi pelaksanaan pemasangannya.
+2. Gampang Dalam Pemasangan. Banyak tukang spesialis dalam pemasangan besi H Beam. Meski besi H-Beam ini wajib dipasang oleh tukang yang ahli namun tukang yang berpengalaman dalam memasang besi H Beam ini amat banyak kita temui hari ini. Sehingga tdk perlu dikhawatirkan lagi pelaksanaan pemasangannya.
 
-3\. Mempunyai daya tahan yang tdk diragukan lagi. Besi H Beam sudah teruji selama bertahun-tahun dalam kontruksi bangunan. Apakah skala kecil ataupun skala besar dan terbilang amat tahan lama seandainya dibandingi dengan material lainnya. Bisa bertahan sampai puluhan hingga ratusan tahun.
+3. Mempunyai daya tahan yang tdk diragukan lagi. Besi H Beam sudah teruji selama bertahun-tahun dalam kontruksi bangunan. Apakah skala kecil ataupun skala besar dan terbilang amat tahan lama seandainya dibandingi dengan material lainnya. Bisa bertahan sampai puluhan hingga ratusan tahun.
 
-4\. Mudah dalam perawatannya. Bangunan yang menerapkan besi H Beam sebagai struktur rangka bangunannya akan sungguh-sungguh mudah dalam menjalankan perawatannya. tidak perlu pengecatan dengan cat khusus maupun pembersihan tiap saat.
+4. Mudah dalam perawatannya. Bangunan yang menerapkan besi H Beam sebagai struktur rangka bangunannya akan sungguh-sungguh mudah dalam menjalankan perawatannya. tidak perlu pengecatan dengan cat khusus maupun pembersihan tiap saat.
 
-5\. Menghemat penerapan material lainnya, seperti penggunaan bekisting, pemakaian perancah atau tiang penyangga dan juga material pasir. Besi H Beam tidak membutuhkan material pasir dalam penggunaannya.
+5. Menghemat penerapan material lainnya, seperti penggunaan bekisting, pemakaian perancah atau tiang penyangga dan juga material pasir. Besi H Beam tidak membutuhkan material pasir dalam penggunaannya.
 
 ### Kekurangan Dari Besi H Beam Di Jatijajar Depok
 

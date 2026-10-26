@@ -17,8 +17,7 @@ draft: false
 
 {{< toc >}}
 
-
-### Mengapa Jasa Las Terdekat Penting?
+## Mengapa Jasa Las Terdekat Penting?
 
 Memilih jasa las yang lokasinya dekat dengan proyek Anda punya banyak keuntungan. Pertama, biaya transportasi akan lebih hemat. Kedua, penyedia jasa bisa datang lebih cepat saat dibutuhkan, terutama untuk pekerjaan *emergency*. Ketiga, komunikasi dan koordinasi akan lebih mudah karena jarak yang dekat memungkinkan pertemuan langsung untuk membahas detail pekerjaan. Bayangkan, kalau tukang las datang terlambat karena macet, bisa jadi seluruh jadwal proyek Anda terganggu.
 
@@ -32,10 +31,10 @@ Memilih jasa las terdekat bukan berarti asal pilih yang terdekat saja. Ada beber
 
 Harga jasa las bervariasi tergantung pada beberapa faktor, seperti jenis las, ketebalan material, kompleksitas desain, dan lokasi proyek. Secara umum, berikut adalah estimasi harga jasa las terdekat di wilayah Jabodetabek:
 
-*   **Las SMAW (Stick Welding):** Rp 150.000 – Rp 300.000 per meter
-*   **Las MIG/MAG:** Rp 250.000 – Rp 500.000 per meter
-*   **Las TIG:** Rp 400.000 – Rp 800.000 per meter
-*   **Las Bubuk:** Rp 600.000 – Rp 1.200.000 per meter
+- **Las SMAW (Stick Welding):** Rp 150.000 – Rp 300.000 per meter
+- **Las MIG/MAG:** Rp 250.000 – Rp 500.000 per meter
+- **Las TIG:** Rp 400.000 – Rp 800.000 per meter
+- **Las Bubuk:** Rp 600.000 – Rp 1.200.000 per meter
 
 Harga ini bersifat estimasi dan dapat berubah sewaktu-waktu — hubungi Kami untuk penawaran terbaru dan paling akurat sesuai kebutuhan proyek Mitra. Perlu diingat bahwa harga di atas belum termasuk biaya material (besi, baja, elektroda, dll).
 

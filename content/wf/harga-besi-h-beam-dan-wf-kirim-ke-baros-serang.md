@@ -50,13 +50,13 @@ d. tidak bisa menjangkau lokasi yang sempit. Mengingat Besi WF ini berukuran pan
 
 ### Keunggulan Dari Besi WF Di Baros Serang
 
-1\. Bisa mengurangi waktu dalam pembangunan sebuah konstruksi bangunan, memaksimalkan waktu dan juga menghemat biaya dan pemasang.
+1. Bisa mengurangi waktu dalam pembangunan sebuah konstruksi bangunan, memaksimalkan waktu dan juga menghemat biaya dan pemasang.
 
-2\. Bisa menopang bobot yang amat berat, tdk gampang memuai dan lebih simple pengaplikasiannya dibanding dengan material struktural lainnya.
+2. Bisa menopang bobot yang amat berat, tdk gampang memuai dan lebih simple pengaplikasiannya dibanding dengan material struktural lainnya.
 
-3\. Memiliki fleksibilitas yang tinggi. Sehingga struktur bangunan yang dibuat dari Besi WF ini menjadi lebih kuat tdk mudah bergeser, tdk gampang runtuh maupun goyang. Amat layak untuk variasi bangunan diatas tanah yang labil atau kerap kali terjadi longsor.
+3. Memiliki fleksibilitas yang tinggi. Sehingga struktur bangunan yang dibuat dari Besi WF ini menjadi lebih kuat tdk mudah bergeser, tdk gampang runtuh maupun goyang. Amat layak untuk variasi bangunan diatas tanah yang labil atau kerap kali terjadi longsor.
 
-4\. Lebih hemat sebab struktur bangunan yang menerapkan Besi WF akan memiliki kekuatan yang cukup lama malah hingga ratusan tahun. Tentunya ini merupakan investasi yang betul-betul murah sekiranya kita bandingkan dengan waktu gunakan. Bahkan bangunan yang dibangun dengan tulangan Besi WF dapat kita wariskan terhadap buah hati cucu kita.
+4. Lebih hemat sebab struktur bangunan yang menerapkan Besi WF akan memiliki kekuatan yang cukup lama malah hingga ratusan tahun. Tentunya ini merupakan investasi yang betul-betul murah sekiranya kita bandingkan dengan waktu gunakan. Bahkan bangunan yang dibangun dengan tulangan Besi WF dapat kita wariskan terhadap buah hati cucu kita.
 
 ## Mengetahui Besi H Beam Di Baros Serang
 
@@ -72,15 +72,15 @@ Sama seperti besi yang kami terangkan sebelumnya yakni Besi WF, besi H-Beam mala
 
 ### Keunggulan Besi H Beam Di Baros Serang
 
-1\. Gampang untuk didapat. Banyak supplier besi yang menyediakan stok besi H-Beam berbagai ukuran. Sehingga besi H-Beam ini sungguh-sungguh gampang untuk didapatkan, tdk susah untuk memperoleh supplier besi yang memasarkan besi H Beam.
+1. Gampang untuk didapat. Banyak supplier besi yang menyediakan stok besi H-Beam berbagai ukuran. Sehingga besi H-Beam ini sungguh-sungguh gampang untuk didapatkan, tdk susah untuk memperoleh supplier besi yang memasarkan besi H Beam.
 
-2\. Gampang Dalam Pemasangan. Banyak tukang spesialis dalam pemasangan besi H Beam. Meskipun besi H-Beam ini sepatutnya dipasang oleh tukang yang profesional namun tukang yang berpengalaman dalam memasang besi H Beam ini sungguh-sungguh banyak kita temui hari ini. Sehingga tidak perlu dikhawatirkan lagi proses pemasangannya.
+2. Gampang Dalam Pemasangan. Banyak tukang spesialis dalam pemasangan besi H Beam. Meskipun besi H-Beam ini sepatutnya dipasang oleh tukang yang profesional namun tukang yang berpengalaman dalam memasang besi H Beam ini sungguh-sungguh banyak kita temui hari ini. Sehingga tidak perlu dikhawatirkan lagi proses pemasangannya.
 
-3\. Mempunyai ketahanan yang tidak diragukan lagi. Besi H Beam sudah teruji selama bertahun-tahun dalam kontruksi bangunan. Apakah skala kecil maupun skala besar dan terbilang sungguh-sungguh kuat kalau dibandingkan dengan material lainnya. Bisa bertahan sampai puluhan hingga ratusan tahun.
+3. Mempunyai ketahanan yang tidak diragukan lagi. Besi H Beam sudah teruji selama bertahun-tahun dalam kontruksi bangunan. Apakah skala kecil maupun skala besar dan terbilang sungguh-sungguh kuat kalau dibandingkan dengan material lainnya. Bisa bertahan sampai puluhan hingga ratusan tahun.
 
-4\. Gampang dalam perawatannya. Bangunan yang mengaplikasikan besi H Beam sebagai struktur tulangan bangunannya akan sangat gampang dalam melaksanakan perawatannya. tdk perlu pengecatan dengan cat khusus maupun pembersihan tiap saat.
+4. Gampang dalam perawatannya. Bangunan yang mengaplikasikan besi H Beam sebagai struktur tulangan bangunannya akan sangat gampang dalam melaksanakan perawatannya. tdk perlu pengecatan dengan cat khusus maupun pembersihan tiap saat.
 
-5\. Menghemat penerapan material lainnya, seperti penggunaan bekisting, penerapan steger atau perancah dan juga material pasir. Besi H Beam Tdk membutuhkan material pasir dalam penerapannya.
+5. Menghemat penerapan material lainnya, seperti penggunaan bekisting, penerapan steger atau perancah dan juga material pasir. Besi H Beam Tdk membutuhkan material pasir dalam penerapannya.
 
 ### Kekurangan Dari Besi H Beam Di Baros Serang
 

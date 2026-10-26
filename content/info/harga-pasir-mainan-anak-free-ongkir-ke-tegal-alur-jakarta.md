@@ -25,7 +25,7 @@ menurut Standar Nasional Indonesia ( SK SNI - S - 04 - 1989 - F ; 28) di sebutka
 
 Persyaratan Pasir yg Bagus buat Konstruksi Bangunan
 
-1.  Agregat Halus seharusnya terdiri dari butiran yang tajam dan keras dengan indeks kekerasan <2.2
+1.  Agregat Halus seharusnya terdiri dari butiran yang tajam dan keras dengan indeks kekerasan <2.2
 2. Sekiranya diterapkan Natrium Sulfat bagian hancur maksimal dua belas %
 3. apabila dipakai Magnesium Sulfat bagian halus optimal 5 persen
 4. Tak boleh berisi tanah lebih dari lima persen
@@ -41,7 +41,6 @@ Persyaratan Pasir yg Bagus buat Konstruksi Bangunan
 sesudah mengenal prasyarat pasir untuk sebuah Konstruksi, sekarang ini kita bahas Ragam - Jenis Pasir Untuk Konstruksi Bangunan penjelasan nya berikut ini:
 
 - ### Pasir Untuk Beton Di Tegal Alur Jakarta
-    
 
 Pasir ini umum nya berwarna coklat tua dan tingkat pecahan butiran nya lumayan tinggi. Tapi seandainya anda mengepal nya dengan tangan tak akan menggumpal dan akan buyar kembali. jenis pasir ini betul-betul lah bagus buat Pengecoran, Plesteran Dinding, Adukan Pondasi dan Adukan Pasangan Bata Pasir ini yaitu pasir untuk Cor yaitu butiran-butiran mineral keras dan tajam berukuran antara 0,075 – 5 mm, kalau terdapat butiran berukuran lebih kecil dari 0,063 mm tak lebih dari 5% berat. Pasir ini yaitu pasir untuk Cor sering kali diaplikasikan untuk pekerjaan cor-coran struktur seperti kolom, balok dan pelat lantai.
 
@@ -52,9 +51,9 @@ Harga Pasir Mainan Anak Free Ongkir Ke Tegal Alur Jakarta Kalau anda sebagai kon
 Pasir kelas satu asal kp. jebrod cianjur jawa barat yang diterapkan oleh indocement serta perusahaan batching plant lainnya sebagai bahan dasar produksi readymix concrete. Pasir ini paling disarankan untuk cor sebab irit semen juga mempunyai kandungan lumpur yang benar-benar rendah dibawah delapan persen. warnanya Hitam abu tua atau hitam seperti hitamnya batu kali, ada juga yang hitam kemerahan atau hitam terasi
 
 3. **Pasir Hitam Beton Cimangkok.** Pasir diambil dari Lokasi penambangannya di cimangkok sukabumi jawa barat yang masih masuk pada klasifikasi pasir hitam No. 1 di jawa barat, warnanya hitam kecoklatan pantas untuk cor, pasang pondasi dan bata
-    
+
     ![Harga Pasir Mainan Anak Free Ongkir Ke Tegal Alur Jakarta](/images/info/pasir-hitam-8.jpg)
-    
+
 4. **Pasir Hitam Rigid Cimalaka Subang Bandung.**
 
 Pasir No. 1 yang berwarna hitam kebauan ada juga yang berwarna hitam abu tua. Banyak di pakai untuk Beton, pasang dan keperluan lainnya. Ditambang di Daerah cimalaka
@@ -90,9 +89,9 @@ Kecuali Rangkasbitung, Banten juga mempunyai lokasi pnembangan pasir lain sepert
 Masih dari Daerah di banten, pasir kelas tiga ini merupakan pasir yang banyak digunakan di proyek proyek perumahan atau cluster sebab harganya yang murah juga kwalitas yang tidak diragukan. Warna pasir ini hitam kecoklatan dan keabuan amat dianjurkan untuk pasang pondasi, bata, batu dsb
 
 27. **Pasir Hitam Rigid Bohlam Sukabumi.** Pasir dari Daerah kp. bohlam di sukabumi berwarna hitam kecoklatan, betul-betul bagus untuk pasang bata, pondasi dsb sebagai opsi pasir kwalitas baik dan murah
-    
+
     ![Harga Pasir Mainan Anak Free Ongkir Ke Tegal Alur Jakarta](/images/info/pasir-hitam-1.jpg)
-    
+
 28. **Pasir Rigid Galunggung.**
 
 Pasir ini merupakan pasir hitam mutu paling unggul dikelasnya umum diaplikasikan oleh pabrik pengolahan beton readymix juga perusahan pembuatan precast dan kerap juga digunakan untuk bahan pembuatan batako press hitam, paving block dsb. Pasir ini ditambang dari Tasikmalaya jabar.
@@ -100,21 +99,18 @@ Pasir ini merupakan pasir hitam mutu paling unggul dikelasnya umum diaplikasikan
 ![Harga Pasir Mainan Anak Free Ongkir Ke Tegal Alur Jakarta](/images/info/pasir-hitam-2.jpg)
 
 - ### Pasir Pasang Di Tegal Alur Jakarta
-    
 
 ![Harga Pasir Mainan Anak Free Ongkir Ke Tegal Alur Jakarta](/images/info/jual-pasir-mundu-2.jpg)
 
 Pasir ini ekstra halus lagi diperbandingkan oleh pasir beton. bila kamu mengepal pasir ini karenanya akan menggumpal dan tidak akan hancur kembali. pasir pasang lazim nya di manfaatkan tuk campuran pasir beton agar tak terlalu kasar dan bisa di pakai untuk plesteran dinding.
 
 - ### Pasir Kualitas rendah Untuk Dasaran Pemasangan Marmer Di Tegal Alur Jakarta
-    
 
 Di Antara ke dua pasir diatas pasir model ini lebih halus lagi, kalau kalian mengepal nya maka akan menggumpal dan tak akan hancur lagi. namun pasir jenis
 
 Pada biasa nya pasir ini nyaris sama dgn pasir beton tapi pasir ini memiliki tingkat kekasaran yang tinggi, butiran - butiran nya cukup besar dan agak banyak batuan nya. pada biasanya pasir jenis ini baik untuk bahan dasaran pemasangan keramik
 
 - ### Pasir Putih Kadar Lumpur Rendah Untuk Lapangan Voly Di Tegal Alur Jakarta
-    
 
 1. **Pasir Putih Bangka**
 

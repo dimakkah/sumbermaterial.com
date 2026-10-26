@@ -25,7 +25,7 @@ menurut Standar Nasional Indonesia ( SK SNI - S - 04 - 1989 - F ; 28) di tuturka
 
 Prasyarat Pasir yang Baik tuk Konstruksi Bangunan
 
-1.  Agregat Halus semestinya terdiri dari butiran yg tajam dan keras dengan indeks kekerasan <2.2
+1.  Agregat Halus semestinya terdiri dari butiran yg tajam dan keras dengan indeks kekerasan <2.2
 2. Sekiranya dimanfaatkan Natrium Sulfat bagian hancur optimal 12 persen
 3. apabila diaplikasikan Magnesium Sulfat komponen halus optimal 5 persen
 4. Tidak boleh mengandung clay lebih dari lima %
@@ -41,7 +41,6 @@ Prasyarat Pasir yang Baik tuk Konstruksi Bangunan
 Setelah tahu persis persyaratan pasir buat sebuah Konstruksi Bangunan, sekarang ini kita bahas Ragam - Macam Pasir Untuk Konstruksi Bangunan penjelasan nya sebagai berikut:
 
 - ### Pasir Jenis Cor dan Daerah Sumbernya Di Petukangan Jakarta
-    
 
 Pasir ini umum nya berwarna hitam pekat dan tingkat kekasaran butiran nya lumayan tinggi. Tapi kalau anda mengepal nya dengan tangan tak akan menggumpal dan akan buyar kembali. jenis pasir ini sangat lah baik buat Pengecoran, Plesteran Dinding, Adukan Pondasi dan Adukan Pasangan Bata Pasir ini yaitu pasir untuk Cor ialah butiran-butiran mineral keras dan tajam berukuran antara 0,075 – 5 mm, sekiranya terdapat butiran berukuran lebih kecil dari 0,063 mm tak lebih dari 5% berat. Pasir ini yaitu pasir untuk Beton hampir sering diterapkan untuk profesi cor-coran struktur seperti kolom, balok dan pelat lantai.
 
@@ -59,21 +58,18 @@ Untuk menerima ketahanan Beton yang maksimal maka pasir harus bisa memenuhi pers
 ![Harga Pasir Mundu Free Ongkir Ke Petukangan Jakarta](/images/info/pasir-hitam-5.jpg)
 
 - ### Pasir Pasang Di Petukangan Jakarta
-    
 
 ![Harga Pasir Mundu Free Ongkir Ke Petukangan Jakarta](/images/info/pasir-hitam-11.jpg)
 
 Pasir ini lebih halus lagi diperbandingkan oleh pasir beton. apabila kamu mengepal pasir ini karenanya akan menggumpal dan tak akan hancur kembali. pasir pasang lazim nya di manfaatkan buat campuran pasir beton agar tak kelewat kasar dan bisa di pakai untuk plesteran dinding.
 
 - ### Pasir Kualitas rendah Untuk Pembuatan Batako Di Petukangan Jakarta
-    
 
 Di Antara ke dua pasir diatas pasir jenis ini lebih halus lagi, kalau anda mengepal nya akan menggumpal dan tidak akan hancur lagi. tetapi pasir ragam tak baik tuk di buat sebagai bahan bangunan. pasir model ini pada nya di gunakan untuk Bahan Pembuatan Batako
 
 Pada umum nya pasir ini nyaris sama dengan pasir beton tapi pasir ini memiliki tingkat kekasaran yg tinggi, butiran - butiran nya lumayan besar dan agak banyak batuan nya. pada biasanya pasir macam ini baik tuk bahan dasaran pemasangan keramik
 
 - ### Pasir Putih Tanpa Batu Untuk Pengecoran Di Petukangan Jakarta
-    
 
 1. **Pasir Putih Bangka**
 

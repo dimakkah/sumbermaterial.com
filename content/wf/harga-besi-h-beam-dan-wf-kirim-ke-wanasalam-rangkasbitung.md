@@ -50,13 +50,13 @@ d. tidak dapat menjangkau tempat yang sempit. Mengingat Besi WF ini berukuran pa
 
 ### Kelebihan Dari Besi WF Di Wanasalam Rangkasbitung
 
-1\. Dapat menghemat waktu dalam pembangunan sebuah konstruksi bangunan, mengurangi waktu dan juga mengurangi biaya dan pemasang.
+1. Dapat menghemat waktu dalam pembangunan sebuah konstruksi bangunan, mengurangi waktu dan juga mengurangi biaya dan pemasang.
 
-2\. Bisa menyangga beban yang amat berat, tdk gampang memuai dan lebih simple pengaplikasiannya dibanding dengan material struktural lainnya.
+2. Bisa menyangga beban yang amat berat, tdk gampang memuai dan lebih simple pengaplikasiannya dibanding dengan material struktural lainnya.
 
-3\. Mempunyai fleksibilitas yang tinggi. Sehingga struktur bangunan yang dihasilkan dari Besi WF ini menjadi lebih kuat tdk gampang bergeser, tdk mudah ambruk ataupun goyang. Amat sesuai untuk macam bangunan diatas tanah yang labil atau sering kali terjadi goncangan.
+3. Mempunyai fleksibilitas yang tinggi. Sehingga struktur bangunan yang dihasilkan dari Besi WF ini menjadi lebih kuat tdk gampang bergeser, tdk mudah ambruk ataupun goyang. Amat sesuai untuk macam bangunan diatas tanah yang labil atau sering kali terjadi goncangan.
 
-4\. Lebih hemat karena struktur bangunan yang menerapkan Besi WF akan memiliki kekokohan yang cukup lama malahan sampai ratusan tahun. Tentunya ini yakni investasi yang amat murah sekiranya kita bandingkan dengan waktu gunakan. Bahkan bangunan yang dibangun dengan rangka Besi WF dapat kita wariskan kepada buah hati cucu kita.
+4. Lebih hemat karena struktur bangunan yang menerapkan Besi WF akan memiliki kekokohan yang cukup lama malahan sampai ratusan tahun. Tentunya ini yakni investasi yang amat murah sekiranya kita bandingkan dengan waktu gunakan. Bahkan bangunan yang dibangun dengan rangka Besi WF dapat kita wariskan kepada buah hati cucu kita.
 
 ## Mengetahui Besi H Beam Di Wanasalam Rangkasbitung
 
@@ -72,15 +72,15 @@ Sama seperti besi yang kami paparkan sebelumnya ialah Besi WF, besi H-Beam malah
 
 ### Keunggulan Besi H Beam Di Wanasalam Rangkasbitung
 
-1\. Mudah untuk diperoleh. Banyak distributor besi yang menyediakan stok besi H-Beam bermacam-macam ukuran. Sehingga besi H-Beam ini amat mudah untuk diperoleh, tdk sulit untuk menemukan supplier besi yang memasarkan besi H Beam.
+1. Mudah untuk diperoleh. Banyak distributor besi yang menyediakan stok besi H-Beam bermacam-macam ukuran. Sehingga besi H-Beam ini amat mudah untuk diperoleh, tdk sulit untuk menemukan supplier besi yang memasarkan besi H Beam.
 
-2\. Mudah Dalam Pemasangan. Banyak tukang spesialis dalam pemasangan besi H Beam. Meskipun besi H-Beam ini semestinya dipasang oleh tukang yang profesional tapi tukang yang profesional dalam memasang besi H Beam ini sangat banyak kita temui hari ini. Sehingga tdk perlu dikhawatirkan lagi pelaksanaan pemasangannya.
+2. Mudah Dalam Pemasangan. Banyak tukang spesialis dalam pemasangan besi H Beam. Meskipun besi H-Beam ini semestinya dipasang oleh tukang yang profesional tapi tukang yang profesional dalam memasang besi H Beam ini sangat banyak kita temui hari ini. Sehingga tdk perlu dikhawatirkan lagi pelaksanaan pemasangannya.
 
-3\. Mempunyai ketahanan yang tdk diragukan lagi. Besi H Beam telah teruji selama bertahun-tahun dalam kontruksi bangunan. Baik skala kecil ataupun skala besar dan terbilang amat awet jika dibandingi dengan material lainnya. Dapat bertahan hingga puluhan sampai ratusan tahun.
+3. Mempunyai ketahanan yang tdk diragukan lagi. Besi H Beam telah teruji selama bertahun-tahun dalam kontruksi bangunan. Baik skala kecil ataupun skala besar dan terbilang amat awet jika dibandingi dengan material lainnya. Dapat bertahan hingga puluhan sampai ratusan tahun.
 
-4\. Mudah dalam perawatannya. Bangunan yang menggunakan besi H Beam sebagai struktur tulangan bangunannya akan sangat gampang dalam mengerjakan perawatannya. tidak perlu pengecatan dengan cat khusus ataupun pembersihan setiap waktu.
+4. Mudah dalam perawatannya. Bangunan yang menggunakan besi H Beam sebagai struktur tulangan bangunannya akan sangat gampang dalam mengerjakan perawatannya. tidak perlu pengecatan dengan cat khusus ataupun pembersihan setiap waktu.
 
-5\. Menghemat penerapan material lainnya, seperti penggunaan bekisting, pemakaian tiang penyangga atau tiang penyangga dan juga material pasir. Besi H Beam Tdk memerlukan material pasir dalam pengaplikasiannya.
+5. Menghemat penerapan material lainnya, seperti penggunaan bekisting, pemakaian tiang penyangga atau tiang penyangga dan juga material pasir. Besi H Beam Tdk memerlukan material pasir dalam pengaplikasiannya.
 
 ### Kekurangan Dari Besi H Beam Di Wanasalam Rangkasbitung
 

@@ -18,19 +18,19 @@ Dengan tidak adanya besi karenanya sebuah bangunan akan gampang retak dikala ada
 
 ## Mengetahui Variasi-tipe Besi Di Bojongmanik Rangkasbitung
 
-### 1\. Besi Polos KS 4mm, 6mm, 8mm, 10mm, 12mm, 16mm, 18mm, 19mm Di Bojongmanik Rangkasbitung
+### 1. Besi Polos KS 4mm, 6mm, 8mm, 10mm, 12mm, 16mm, 18mm, 19mm Di Bojongmanik Rangkasbitung
 
 Besi polos mempunyai ukuran mulai dari 8 mm hingga 25 mm dan memiliki 6 meter panjang tekuk dan 12 meter panjang lurus. Besi beton ini sudah mulai diaplikasikan sebagai bahan utama di Indonesia pada tahun 1950. Besi ini kerap kali diaplikasikan untuk membangun bangunan beton. Bahan yang mudah diterapkan sehingga selain dipakai untuk membangun sebuah gedung juga digunakan untuk membangun trowongan, bendungan, dan lainnya. Dikala digunakan untuk membangun sebuah gedung bertingkat karenanya biasa besi polos ini diaplikasikan untuk struktur tulangan balok, dinding, dan sloof. Besi beton polos ini memiliki keunggulan besi polos ini tegangannya lebih tinggi dari pada besi lainnya. Jadi besi ini terkesan lebih kuat dan tahan beban. Jadi pemakaian besi polos ini betul-betul pantas untuk membangun gedung, jembatan, dan bangunan lainnya. Besi polos ini terbuat dari bahan seperti billet dan skrap. Billet ialah baja batangan yang progres pembuatannya dengan melebur biji besi. Seandainya skrap ialah besi bekas yang dileburkan dengan temperature tertentu. Selain itu sekiranya anda mengaplikasikan besi polos ini tdk membutuhkan biaya pemeliharaan. Kian lama diaplikasikan karenanya besi ini akan semakin kokoh.
 
-### 2\. Besi Ulir 4mm, 6mm, 8mm, 10mm, 12mm, 16mm, 18mm, 19mm Di Bojongmanik Rangkasbitung
+### 2. Besi Ulir 4mm, 6mm, 8mm, 10mm, 12mm, 16mm, 18mm, 19mm Di Bojongmanik Rangkasbitung
 
 Cocok dengan namanya besi beton ulir ini ialah besi yang bentuknya mengulir. Pada permukaannya bercorak spiral yang mempunyai tujuan untuk menyatukan tulangan dengan unsur material bangunan yang dibangun oleh besi beton. Besi ulir ini mulai populer dipakai pada abad ke-20 di Amerika dan mulai populer di Indonesia pada tahun1950. Mengingat saat menerapkan besi ulir ini mempunyai banyak kelebihan mulai dari kekokohan bangunan serta lebih murah dan efisien. Produk besi ulir ini menjadi andalan pasar sebab mempunyai mutu yang terbaik di Indonesia dan memiliki harga yang tinggi seandainya diperbandingkan dengan produk lainnya.
 
-### 3\. Besi WF dan H-Beam KS Di Bojongmanik Rangkasbitung
+### 3. Besi WF dan H-Beam KS Di Bojongmanik Rangkasbitung
 
 Besi Wide Flange (WF) ini ialah salah satu baja dengan struktural yang paling banyak diaplikasikan untuk kontruksi baja. Bila anda memerlukan besi baja Wide Flage dalam jumlah yang banyak atau sedikit karenanya silahkan cari toko besi yang terpercaya. Besi WF ini memiliki ketahanan yang kokoh dan kuat pada kekuatan tarik atau tekan. Karenanya dari itu besi ini menjadi faktor struktur yang mempunyai batasan yang sempurna untuk menahan muatan tekan aksial, tarik aksial, dan lentur dengan fasilitas pembangunan strukturnya. Baja Wide Flange (WF) ini memiliki kepadatan yang tinggi tapi rasio berat antara kekuatan komponen Baja WF yang tinggi tapi tdk begitu berat yang berkaitan dengan kapasitas bobot. Selain dari itu menentukan sekiranya kontruksi yang diterapkan secara efisien. Cara kontruksi baja WF ini kombinasi dari elemen struktur yang rumit. Pada struktur ini mempunyai tujuan membawa beban yang aman dan tepat sasaran yang bekerja pada sebuah bangunan dan dikirim pada pondasinya. Gaya dan bobot yang berefek ini termasuk beban pertikal, perbedaan temperatur, horizontal, getaran dan lainnya. Pada sebuah bangunan baja, maka ada unsure yang berfungsi menopang gaya lateral dan gravitasi.
 
-### 4\. Besi Holo Di Bojongmanik Rangkasbitung
+### 4. Besi Holo Di Bojongmanik Rangkasbitung
 
 Besi hollow adalah besi yang diterapkan sebagai pembuatan kanopi, pagar, pintu besi dan lainnya. Bahan baku pembuatan besi Hollow ini lazimnya terbuat dari stainless, galvanis, dan besi baja. Tetapi yang paling sering dipakai sebagai bahan baku ialah galvanis. Terdapat kelebihan yang anda peroleh ketika memasang kanopi, memasang pagar, teralis memakai besi hollow:
 

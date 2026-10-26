@@ -18,7 +18,7 @@ Dari bermacam-macam material konstruksi bangunan yang ada saat ini, ada sebagian
 
 Ketika akan membangun sebuah bangunan dan membeli bahan bangunan karenanya sebaiknya kenal secara khusus dahulu variasi-jenis material yang akan berperan penting antara lain, seperti; bondek, wiremesh dan baja ringan. Dengan mengetahui sebagian ragam material itu juga memudahkan anda saat akan membeli material itu melalui toko bahan bangunan bondek, wiremesh dan baja ringan. Dibawah ini akan diterangkan mengenai bondek, wiremesh dan baja ringan yang dapat menambah wawasan anda.
 
-### 1\. Bondek Untuk Cor Lantai Di Sawangan Depok
+### 1. Bondek Untuk Cor Lantai Di Sawangan Depok
 
 ![Harga Bondek Wiremesh Baja Ringan Kirim Ke Sawangan Depok](/images/info-besi/harga-bondek-spandek-28-15.png)
 
@@ -26,7 +26,7 @@ Bondek ialah salah satu bahan bangunan konstruksi yang tak jarang diterapkan tet
 
 Perlu anda kenal bondek ialah bahan galvanis yang dibentuk seperti seng gelombang tapi bukan sebagai bahan bangunan penutup atap seng. Melainkan bondek merupakan bahan bangunan pelapis bawah cor pada bagian lantai beton sebagai substitusi dari tripleks atau bekisting kayu. Lazimnya bondek didesain untuk mengonversi pengaplikasian besaran diameter besi serta mengonversi ketebalan cor beton. Pada bondek mengaplikasikan sistem gelombang plat atau sistem tekuk yang desainnya sekalian bisa membantu tenaga struktur cor beton plat lantai.
 
-### 2\. Tipe-tipe Wiremesh Besi Ulir Di Sawangan Depok
+### 2. Tipe-tipe Wiremesh Besi Ulir Di Sawangan Depok
 
 ![Harga Bondek Wiremesh Baja Ringan Kirim Ke Sawangan Depok](/images/info-besi/harga-wiremesh-m4-m6-m8-m10-18-17.png)
 
@@ -36,7 +36,7 @@ Lazimnya wiremesh ini dipakai dalam pembuatan gedung bertingkat. Berikutnya ini 
 
 Dengan seperti itu maka bisa mewujudkan lembaran wiremesh yang stabil. Kemudian lembaran tersebut bisa dipotong sesuai kebutuhan pelaksanaan konstruksi. Wiremesh memang tak jarang dipakai untuk bermacam-macam kebutuhan, tetapi yang paling lazim umumnya diaplikasikan untuk pembuatan dak lantai, pagar, grills, filter, rak, penguatan beton dan sebagainya.
 
-### 3\. Baja Ringan Paling Bagus Di Sawangan Depok
+### 3. Baja Ringan Paling Bagus Di Sawangan Depok
 
 ![Harga Bondek Wiremesh Baja Ringan Kirim Ke Sawangan Depok](/images/info-besi/harga-baja-ringan-065-076-20-14.png)
 
@@ -68,16 +68,16 @@ Baja ringan SNI dijual dengan hitungan harga sesuai dengan ketebalan dan dihitun
 
 Apabila anda berencana mengorder bahan bangunan melalui Harga Bondek Wiremesh Baja Ringan Kirim Ke Sawangan Depok online karenanya salah satunya bisa menerapkan sistem pembayaran COD. Dimana sistem COD, pembeli harus membayar orderan dengan pembayaran tunai ketika barang yang diorder tiba di lokasi tujuan. Dibawah ini akan dijelaskan langkah pembelian bondek, wiremesh dan baja ringan secara COD yang wajib anda ketahui.
 
-1\. Silakan kunjungi web atau nomor telepon Toko material itu.
+1. Silakan kunjungi web atau nomor telepon Toko material itu.
 
-2\. pastikan Penjual melayani pengiriman material tiba ke wilayah anda. Silakan menanyakan ketersediaan barang dan harga material yang akan diorder.
+2. pastikan Penjual melayani pengiriman material tiba ke wilayah anda. Silakan menanyakan ketersediaan barang dan harga material yang akan diorder.
 
-3\. Jika sudah yakin, silakan pesan material dengan jumlah pantas yang anda butuhkan.
+3. Jika sudah yakin, silakan pesan material dengan jumlah pantas yang anda butuhkan.
 
-4\. Pihak Distributor akan memberikan sempurna harga pembelian material ditambah ongkir.
+4. Pihak Distributor akan memberikan sempurna harga pembelian material ditambah ongkir.
 
-5\. Toko akan menginfokan kapan orderan anda akan dikirim.
+5. Toko akan menginfokan kapan orderan anda akan dikirim.
 
-6\. Semakin tiba di alamat tujuan, anda tinggal membayar secara cash total pembayaran material yang telah anda pesan itu.
+6. Semakin tiba di alamat tujuan, anda tinggal membayar secara cash total pembayaran material yang telah anda pesan itu.
 
 Demikianlah keterangan mengenai Harga Bondek Wiremesh Baja Ringan Kirim Ke Sawangan Depok yang semoga dapat menambah pengetahuan anda. Melalui informasi di atas bagi anda yang membutuhkan bondek, wiremesh dan baja ringan maka bisa kian yakin dan tahu info harga bondek, wiremesh dan baja ringan. Dengan seperti itu maka anda bisa memesan material pada kami selaku toko material bondek, wiremesh dan baja ringan dengan cara lebih mudah, ideal dan tetap berkwalitas.

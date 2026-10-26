@@ -25,7 +25,7 @@ menurut Standar Nasional Indonesia ( SK SNI - S - 04 - 1989 - F ; 28) di tuturka
 
 Syarat Pasir yang Bagus buat Konstruksi
 
-1.  Agregat Halus sepatutnya terdiri dari butiran yg tajam dan keras dengan indeks kekerasan <2.2
+1.  Agregat Halus sepatutnya terdiri dari butiran yg tajam dan keras dengan indeks kekerasan <2.2
 2. bilamana dimanfaatkan Natrium Sulfat bagian hancur optimal 12%
 3. jikalau digunakan Magnesium Sulfat bagian halus maksimal 5 persen
 4. Tidak boleh memuat lumpur lebih dari lima persen
@@ -41,7 +41,6 @@ Syarat Pasir yang Bagus buat Konstruksi
 setelah memahami prasyarat pasir tuk sebuah Konstruksi, pada saat ini kita bahas Jenis - Tipe Pasir Untuk Konstruksi penjelasan nya berikut ini:
 
 - ### Pasir Untuk Pengecoran Di Duri Utara Jakarta
-    
 
 Pasir ini lazim nya berwarna keabu-abuan dan tingkat kekasaran butiran nya cukup tinggi. Tetapi sekiranya anda mengepal nya dengan tangan tidak akan menggumpal dan akan hancur kembali. model pasir ini amat lah bagus untuk Pengecoran, Plesteran Dinding, Adukan Pondasi dan Adukan Pasangan Bata Pasir ini yaitu pasir untuk Rigid adalah butiran-butiran mineral keras dan tajam berukuran antara 0,075 – 5 mm, seandainya terdapat butiran berukuran lebih kecil dari 0,063 mm tidak lebih dari 5% berat. Pasir ini yaitu pasir untuk Rigid tak jarang diaplikasikan untuk pekerjaan cor-coran struktur seperti kolom, balok dan pelat lantai.
 
@@ -59,21 +58,18 @@ Untuk mendapatkan ketahanan Rigid yang maksimal karenanya pasir wajib bisa memen
 ![Harga Pasir Ekstra Beton Free Ongkir Ke Duri Utara Jakarta](/images/info/pasir-hitam-8.jpg)
 
 - ### Pasir Untuk Pasang Batu, Pondasi, Bata, Ubin, Plester Di Duri Utara Jakarta
-    
 
 ![Harga Pasir Ekstra Beton Free Ongkir Ke Duri Utara Jakarta](/images/info/pasir-putih12.jpg)
 
 Pasir ini ekstra halus lagi dibandingkan oleh pasir beton. sekiranya kamu mengepal pasir ini maka akan menggumpal dan tidak akan hancur kembali. pasir pasang biasa nya di gunakan buat adukan pasir beton agar tak terlampau kasar dan bisa di manfaatkan untuk plesteran dinding.
 
 - ### Pasir Elod Untuk Pembuatan Batako Di Duri Utara Jakarta
-    
 
 Di Antara ke dua pasir diatas pasir macam ini lebih halus lagi, apabila anda mengepal nya akan menggumpal dan tak akan buyar lagi. namun pasir macam
 
 Pada nya pasir ini nyaris sama dengan pasir beton tapi pasir ini memiliki tingkat kekasaran yg tinggi, butiran - butiran nya lumayan besar dan agak banyak batuan nya. pada umumnya pasir jenis ini bagus untuk bahan pemadatan lantai
 
 - ### Pasir Putih Tanpa Ayak Untuk Pasang Lantai Marmer Di Duri Utara Jakarta
-    
 
 1. **Pasir Putih Bangka**
 

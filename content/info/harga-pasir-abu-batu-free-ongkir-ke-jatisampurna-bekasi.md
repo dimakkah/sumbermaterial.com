@@ -25,7 +25,7 @@ menurut Standar Nasional Indonesia ( SK SNI - S - 04 - 1989 - F ; 28) di sebutka
 
 Syarat Pasir yg Baik Untuk Konstruksi
 
-1.  Agregat Halus harus terdiri dari butiran yang tajam dan keras dengan indeks kekerasan <2.2
+1.  Agregat Halus harus terdiri dari butiran yang tajam dan keras dengan indeks kekerasan <2.2
 2. Bila dipakai Natrium Sulfat bagian hancur optimal dua belas %
 3. jika dipakai Magnesium Sulfat bagian halus maksimal sepuluh %
 4. Tidak boleh mengandung clay lebih dari 5%
@@ -41,7 +41,6 @@ Syarat Pasir yg Baik Untuk Konstruksi
 Sesudah tahu persis syarat pasir untuk sebuah Konstruksi Bangunan, sekarang ini kita bahas Tipe - Macam Pasir Untuk Bangunan penjelasan nya sebagai berikut:
 
 - ### Pasir Model Beton dan Daerah Sumbernya Di Jatisampurna Bekasi
-    
 
 Pasir ini biasa nya berwarna hitam gelap dan tingkat kekerasan butiran nya cukup tinggi. Melainkan seandainya anda mengepal nya dengan tangan tidak akan menggumpal dan akan buyar kembali. macam pasir ini betul-betul lah bagus buat Pengecoran, Plesteran Dinding, Adukan Pondasi dan Adukan Pasangan Bata Pasir ini yaitu pasir untuk Rigid yaitu butiran-butiran mineral keras dan tajam berukuran antara 0,075 – 5 mm, kalau terdapat butiran berukuran lebih kecil dari 0,063 mm tak lebih dari 5% berat. Pasir ini yaitu pasir untuk Cor hampir sering kali digunakan untuk profesi cor-coran struktur seperti kolom, balok dan pelat lantai.
 
@@ -52,9 +51,9 @@ Harga Pasir Abu Batu Free Ongkir Ke Jatisampurna Bekasi Seandainya anda sebagai 
 Pasir No. 1 diambil dari kp. jebrod cianjur jawa barat yang diaplikasikan oleh indocement serta perusahaan batching plant lainnya sebagai bahan dasar produksi readymix concrete. Pasir ini paling dianjurkan untuk cor sebab irit semen juga mempunyai kandungan lumpur yang betul-betul rendah dibawah delapan %. warnanya Hitam abu tua atau hitam seperti hitamnya batu kali, ada juga yang hitam kemerahan atau hitam terasi
 
 3. **Pasir Hitam Cor Cimangkok.** Pasir asli Tempat penambangannya di cimangkok sukabumi jabar yang masih masuk pada klasifikasi pasir hitam kelas satu di jawa barat, warnanya hitam kecoklatan layak untuk cor, pasang pondasi dan bata
-    
+
     ![Harga Pasir Abu Batu Free Ongkir Ke Jatisampurna Bekasi](/images/info/pasir-hitam-9.jpg)
-    
+
 4. **Pasir Hitam Beton Cimalaka Subang Bandung.**
 
 Pasir terbaik yang berwarna hitam kebauan ada juga yang berwarna hitam abu tua. Banyak di pakai untuk Cor, pasang dan keperluan lainnya. Ditambang di Daerah cimalaka
@@ -90,9 +89,9 @@ Kecuali Rangkasbitung, Banten juga mempunyai lokasi pnembangan pasir lain sepert
 Masih dari Lokasi di banten, pasir kelas tiga ini merupakan pasir yang banyak diterapkan di proyek proyek perumahan atau cluster sebab harganya yang murah juga mutu yang unggul. Warna pasir ini hitam kecoklatan dan keabuan amat disarankan untuk pasang pondasi, bata, batu dan sebagainya
 
 27. **Pasir Hitam Rigid Bohlam Sukabumi.** Pasir dari Kawasan kp. bohlam di sukabumi berwarna hitam kecoklatan, amat bagus untuk pasang bata, pondasi dan sebagainya sebagai pilihan pasir kwalitas tidak diragukan dan tidak mahal
-    
+
     ![Harga Pasir Abu Batu Free Ongkir Ke Jatisampurna Bekasi](/images/info/pasir-hitam-7.jpg)
-    
+
 28. **Pasir Cor Galunggung.**
 
 Pasir ini merupakan pasir hitam mutu paling unggul dikelasnya lazim diaplikasikan oleh pabrik pengolahan beton readymix juga perusahan pembuatan precast dan kerap juga digunakan untuk bahan pembuatan batako press hitam, paving block dan lain-lain. Pasir ini ditambang dari Tasikmalaya jabar.
@@ -100,21 +99,18 @@ Pasir ini merupakan pasir hitam mutu paling unggul dikelasnya lazim diaplikasika
 ![Harga Pasir Abu Batu Free Ongkir Ke Jatisampurna Bekasi](/images/info/pasir-hitam-7.jpg)
 
 - ### Pasir Pasang Di Jatisampurna Bekasi
-    
 
 ![Harga Pasir Abu Batu Free Ongkir Ke Jatisampurna Bekasi](/images/info/jual-pasir-mundu-2.jpg)
 
 Pasir ini ekstra halus lagi dibandingi oleh pasir beton. apabila kalian mengepal pasir ini maka akan menggumpal dan tidak akan hancur kembali. pasir pasang umum nya di manfaatkan tuk adukan pasir beton agar tidak kelewat kasar dan bisa di gunakan untuk plesteran dinding.
 
 - ### Pasir Elod Untuk pemadatan lantai Di Jatisampurna Bekasi
-    
 
 Di Antara ke dua pasir diatas pasir macam ini lebih halus lagi, jika anda mengepal nya akan menggumpal dan tidak akan buyar lagi. namun pasir macam
 
 Pada nya pasir ini nyaris sama dgn pasir beton tetapi pasir ini memiliki tingkat kekasaran yang tinggi, butiran - butiran nya cukup besar dan agak banyak batuan nya. pada umumnya pasir ragam ini baik untuk bahan pemadatan lantai
 
 - ### Pasir Putih Tanpa Ayak Untuk Pasang Bata Di Jatisampurna Bekasi
-    
 
 1. **Pasir Putih Bangka**
 

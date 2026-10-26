@@ -25,7 +25,7 @@ Menurut Standar Nasional Indonesia ( SK SNI - S - 04 - 1989 - F ; 28) di tuturka
 
 Syarat Pasir yang Baik tuk Konstruksi Bangunan
 
-1.  Agregat Halus harus terdiri dari butiran yang tajam dan keras dengan indeks kekerasan <2.2
+1.  Agregat Halus harus terdiri dari butiran yang tajam dan keras dengan indeks kekerasan <2.2
 2. apabila dimanfaatkan Natrium Sulfat bagian hancur optimal 12%
 3. apabila diaplikasikan Magnesium Sulfat bagian halus maksimal 10%
 4. Tidak boleh mengandung lumpur lebih dari 5%
@@ -41,7 +41,6 @@ Syarat Pasir yang Baik tuk Konstruksi Bangunan
 Sesudah mengetahui persyaratan pasir untuk sebuah Konstruksi Bangunan, saat ini kita bahas Ragam - Ragam Pasir Untuk Konstruksi Bangunan penjelasan nya berikut ini:
 
 - ### Pasir Jenis Beton dan Lokasi Penambangannya Di Leuwinanggung Depok
-    
 
 Pasir ini lazim nya berwarna hitam gelap dan tingkat pecahan butiran nya cukup tinggi. Tapi bila anda mengepal nya dengan tangan tidak akan lengket dan akan buyar kembali. model pasir ini betul-betul lah baik tuk Pengecoran, Plesteran Dinding, Adukan Pondasi dan Adukan Pasangan Bata Pasir ini yaitu pasir untuk Beton merupakan butiran-butiran mineral keras dan tajam berukuran antara 0,075 – 5 mm, bila terdapat butiran berukuran lebih kecil dari 0,063 mm tidak lebih dari 5% berat. Pasir ini yaitu pasir untuk Cor sering kali digunakan untuk profesi cor-coran struktur seperti kolom, balok dan pelat lantai.
 
@@ -52,9 +51,9 @@ Harga Pasir Mainan Anak Free Ongkir Ke Leuwinanggung Depok Sekiranya anda sebaga
 Pasir paling unggul dari kp. jebrod cianjur jawa barat yang digunakan oleh indocement serta perusahaan batching plant lainnya sebagai bahan dasar produksi readymix concrete. Pasir ini paling dianjurkan untuk cor sebab irit semen juga mempunyai kandungan lumpur yang benar-benar rendah dibawah delapan persen. warnanya Hitam abu tua atau hitam seperti hitamnya batu kali, ada juga yang hitam kemerahan atau hitam terasi
 
 3. **Pasir Hitam Rigid Cimangkok.** Pasir asal Lokasi penambangannya di cimangkok sukabumi jawa barat yang masih masuk pada golongan pasir hitam nomor satu di jawa barat, warnanya hitam kecoklatan layak untuk cor, pasang pondasi dan bata
-    
+
     ![Harga Pasir Mainan Anak Free Ongkir Ke Leuwinanggung Depok](/images/info/pasir-hitam-8.jpg)
-    
+
 4. **Pasir Hitam Cor Cimalaka Subang Bandung.**
 
 Pasir nomor satu yang berwarna hitam kebauan ada juga yang berwarna hitam abu tua. Banyak di aplikasikan untuk Cor, pasang dan keperluan lainnya. Ditambang di Daerah cimalaka
@@ -90,9 +89,9 @@ Kecuali Rangkasbitung, Banten juga mempunyai lokasi pnembangan pasir lain sepert
 Masih dari Lokasi di banten, pasir kelas tiga ini ialah pasir yang banyak diterapkan di proyek proyek perumahan atau cluster sebab harganya yang murah juga mutu yang bagus. Warna pasir ini hitam kecoklatan dan keabuan betul-betul disarankan untuk pasang pondasi, bata, batu dsb
 
 27. **Pasir Hitam Cor Bohlam Sukabumi.** Pasir dari Daerah kp. bohlam di sukabumi berwarna hitam kecoklatan, betul-betul bagus untuk pasang bata, pondasi dan sebagainya sebagai pilihan pasir kwalitas unggul dan murah
-    
+
     ![Harga Pasir Mainan Anak Free Ongkir Ke Leuwinanggung Depok](/images/info/pasir-hitam-8.jpg)
-    
+
 28. **Pasir Rigid Galunggung.**
 
 Pasir ini yaitu pasir hitam mutu paling unggul dikelasnya umum diaplikasikan oleh pabrik pengolahan beton readymix juga perusahan pembuatan precast dan acap kali juga digunakan untuk bahan pembuatan batako press hitam, paving block dan lain-lain. Pasir ini ditambang dari Tasikmalaya jawa barat.
@@ -100,21 +99,18 @@ Pasir ini yaitu pasir hitam mutu paling unggul dikelasnya umum diaplikasikan ole
 ![Harga Pasir Mainan Anak Free Ongkir Ke Leuwinanggung Depok](/images/info/pasir-hitam-9.jpg)
 
 - ### Pasir Untuk Pemasangan Batu, Pondasi, Bata, Ubin, Plester Di Leuwinanggung Depok
-    
 
 ![Harga Pasir Mainan Anak Free Ongkir Ke Leuwinanggung Depok](/images/info/pasir-hitam-11.jpg)
 
 Pasir ini lebih halus lagi dibandingi oleh pasir beton. bila kamu mengepal pasir ini maka akan menggumpal dan tak akan hancur kembali. pasir pasang umum nya di gunakan tuk campuran pasir beton agar tak terlalu kasar dan dapat di pakai untuk plesteran dinding.
 
 - ### Pasir Urug Untuk Pembuatan Batako Di Leuwinanggung Depok
-    
 
 Di Antara ke dua pasir diatas pasir ragam ini lebih halus lagi, seandainya kalian mengepal nya akan menggumpal dan tidak akan hancur lagi. melainkan pasir macam
 
 Pada lazim nya pasir ini nyaris sama dengan pasir beton namun pasir ini memiliki tingkat kekasaran yang tinggi, butiran - butiran nya cukup besar dan agak banyak batuan nya. pada biasanya pasir jenis ini baik tuk bahan pengurugan lantai
 
 - ### Pasir Putih Kadar Lumpur Rendah Untuk Lapangan Voly Di Leuwinanggung Depok
-    
 
 1. **Pasir Putih Bangka**
 

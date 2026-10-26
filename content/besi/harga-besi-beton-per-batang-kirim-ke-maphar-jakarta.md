@@ -18,19 +18,19 @@ Tanpa adanya besi maka sebuah bangunan akan mudah retak saat ada getaran kecil a
 
 ## Megenal Jenis-jenis Besi Di Maphar Jakarta
 
-### 1\. Besi Polos Banci 4mm, 6mm, 8mm, 10mm, 12mm, 16mm, 18mm, 19mm Di Maphar Jakarta
+### 1. Besi Polos Banci 4mm, 6mm, 8mm, 10mm, 12mm, 16mm, 18mm, 19mm Di Maphar Jakarta
 
 Besi polos mempunyai ukuran mulai dari 8 mm sampai 25 mm dan mempunyai 6 meter panjang tekuk dan 12 meter panjang lurus. Besi beton ini telah mulai diterapkan sebagai bahan utama di Indonesia pada tahun 1950. Besi ini acap kali kali digunakan untuk membangun sebuah gedung. Bahan yang mudah diterapkan sehingga selain diaplikasikan untuk membangun bangunan beton juga digunakan untuk membangun trowongan, bendungan, dan lainnya. Saat dipakai untuk membangun sebuah gedung bertingkat maka biasanya besi polos ini dipakai untuk struktur tulangan balok, dinding, dan sloof. Besi beton polos ini mempunyai keunggulan besi polos ini tegangannya lebih tinggi dari pada besi lainnya. Jadi besi ini terkesan lebih kokoh dan tahan beban. Sehingga penerapan besi polos ini amat layak untuk membangun gedung, jembatan, dan bangunan lainnya. Besi polos ini terbuat dari bahan seperti billet dan skrap. Billet adalah baja batangan yang cara kerja pembuatannya dengan melebur biji besi. Sekiranya skrap ialah besi bekas yang dileburkan dengan temperature tertentu. Selain itu jika anda menerapkan besi polos ini tidak membutuhkan biaya pemeliharaan. Kian lama dipakai karenanya besi ini akan semakin kokoh.
 
-### 2\. Besi Ulir KS 4mm, 6mm, 8mm, 10mm, 12mm, 16mm, 18mm, 19mm Di Maphar Jakarta
+### 2. Besi Ulir KS 4mm, 6mm, 8mm, 10mm, 12mm, 16mm, 18mm, 19mm Di Maphar Jakarta
 
 Selaras dengan namanya besi beton ulir ini adalah besi yang tampilannya mengulir. Pada permukaannya bercorak spiral yang memiliki tujuan untuk menyatukan gerigi besi dengan faktor material bangunan yang dibentuk oleh besi beton. Besi ulir ini mulai populer diaplikasikan pada abad ke-20 di Amerika dan mulai populer di Indonesia pada tahun1950. Mengingat saat menerapkan besi ulir ini mempunyai banyak keunggulan mulai dari ketahanan bangunan serta lebih murah dan efisien. Produk besi ulir ini menjadi primadona pasar karena mempunyai kualitas yang terbaik di Indonesia dan memiliki harga yang tinggi seandainya dibandingkan dengan produk lainnya.
 
-### 3\. Besi WF dan H-Beam Di Maphar Jakarta
+### 3. Besi WF dan H-Beam Di Maphar Jakarta
 
 Besi Wide Flange (WF) ini merupakan salah satu baja dengan struktural yang paling populer digunakan untuk kontruksi baja. Jika anda membutuhkan besi baja Wide Flage dalam quantitas yang banyak atau sedikit maka silahkan cari jual besi yang terpercaya. Besi WF ini memiliki ketahanan yang kokoh dan kuat pada ketahanan tarik atau tekan. Karenanya dari itu besi ini menjadi unsur struktur yang memiliki batasan yang sempurna untuk menopang muatan tekan aksial, tarik aksial, dan lentur dengan fasilitas pembangunan strukturnya. Baja Wide Flange (WF) ini mempunyai kepadatan yang tinggi tetapi rasio berat antara ketahanan bagian Baja WF yang tinggi namun tidak begitu berat yang terkait dengan kapasitas beban. Selain itu memastikan jika kontruksi yang digunakan secara efisien. Sistem kontruksi baja WF ini kombinasi dari faktor struktur yang rumit. Pada struktur ini memiliki tujuan membawa bobot yang aman dan tepat sasaran yang berefek pada sebuah bangunan dan dikirim pada pondasinya. Gaya dan muatan yang bekerja ini termasuk muatan pertikal, perbedaan temperatur, horizontal, getaran dan lainnya. Pada sebuah bangunan baja, karenanya ada unsure yang bermanfaat menopang gaya lateral dan gravitasi.
 
-### 4\. Besi Hollow Di Maphar Jakarta
+### 4. Besi Hollow Di Maphar Jakarta
 
 Besi hollow yakni besi yang diaplikasikan sebagai pembuatan kanopi, pagar, pintu besi dan lainnya. Bahan baku pembuatan besi Hollow ini umumnya terbuat dari stainless, galvanis, dan besi baja. Tetapi yang paling kerap digunakan sebagai bahan baku yaitu galvanis. Terdapat kelebihan yang anda dapatkan ketika memasang kanopi, memasang pagar, teralis menggunakan besi hollow:
 

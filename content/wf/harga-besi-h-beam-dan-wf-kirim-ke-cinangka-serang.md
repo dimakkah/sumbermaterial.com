@@ -50,13 +50,13 @@ d. tidak bisa menjangkau tempat yang sempit. Mengingat Besi WF ini berukuran pan
 
 ### Kelebihan Dari Besi WF Di Cinangka Serang
 
-1\. Bisa memaksimalkan waktu dalam pembangunan sebuah konstruksi bangunan, mengurangi waktu dan juga memaksimalkan biaya dan tenaga tukang.
+1. Bisa memaksimalkan waktu dalam pembangunan sebuah konstruksi bangunan, mengurangi waktu dan juga memaksimalkan biaya dan tenaga tukang.
 
-2\. Bisa menopang beban yang benar-benar berat, tidak mudah memuai dan lebih simple penggunaannya dibanding dengan material struktural lainnya.
+2. Bisa menopang beban yang benar-benar berat, tidak mudah memuai dan lebih simple penggunaannya dibanding dengan material struktural lainnya.
 
-3\. Mempunyai fleksibilitas yang tinggi. Sehingga struktur bangunan yang dijadikan dari Besi WF ini menjadi lebih kuat tdk mudah bergeser, tdk mudah roboh ataupun goyang. Sangat sesuai untuk variasi bangunan diatas tanah yang labil atau sering kali terjadi longsor.
+3. Mempunyai fleksibilitas yang tinggi. Sehingga struktur bangunan yang dijadikan dari Besi WF ini menjadi lebih kuat tdk mudah bergeser, tdk mudah roboh ataupun goyang. Sangat sesuai untuk variasi bangunan diatas tanah yang labil atau sering kali terjadi longsor.
 
-4\. Lebih hemat karena struktur bangunan yang mengaplikasikan Besi WF akan memiliki kekokohan yang cukup lama malahan sampai ratusan tahun. Tentunya ini adalah investasi yang sungguh-sungguh murah jikalau kita bandingkan dengan waktu gunakan. Malahan bangunan yang dibangun dengan tulangan Besi WF bisa kita wariskan kepada buah hati cucu kita.
+4. Lebih hemat karena struktur bangunan yang mengaplikasikan Besi WF akan memiliki kekokohan yang cukup lama malahan sampai ratusan tahun. Tentunya ini adalah investasi yang sungguh-sungguh murah jikalau kita bandingkan dengan waktu gunakan. Malahan bangunan yang dibangun dengan tulangan Besi WF bisa kita wariskan kepada buah hati cucu kita.
 
 ## Mengetahui Besi H Beam Di Cinangka Serang
 
@@ -72,15 +72,15 @@ Sama seperti besi yang kami jelaskan sebelumnya yaitu Besi WF, besi H-Beam bahka
 
 ### Keunggulan Besi H Beam Di Cinangka Serang
 
-1\. Mudah untuk diperoleh. Banyak supplier besi yang menyediakan stok besi H-Beam bermacam-macam ukuran. Sehingga besi H-Beam ini sungguh-sungguh gampang untuk didapatkan, tdk susah untuk mendapatkan supplier besi yang menjual besi H Beam.
+1. Mudah untuk diperoleh. Banyak supplier besi yang menyediakan stok besi H-Beam bermacam-macam ukuran. Sehingga besi H-Beam ini sungguh-sungguh gampang untuk didapatkan, tdk susah untuk mendapatkan supplier besi yang menjual besi H Beam.
 
-2\. Gampang Dalam Pemasangan. Banyak tukang ahli dalam pemasangan besi H Beam. Walaupun besi H-Beam ini seharusnya dipasang oleh tukang yang ahli akan tetapi tukang yang berpengalaman dalam memasang besi H Beam ini betul-betul banyak kita temui hari ini. Sehingga tidak perlu dikhawatirkan lagi proses pemasangannya.
+2. Gampang Dalam Pemasangan. Banyak tukang ahli dalam pemasangan besi H Beam. Walaupun besi H-Beam ini seharusnya dipasang oleh tukang yang ahli akan tetapi tukang yang berpengalaman dalam memasang besi H Beam ini betul-betul banyak kita temui hari ini. Sehingga tidak perlu dikhawatirkan lagi proses pemasangannya.
 
-3\. Mempunyai daya tahan yang tidak diragukan lagi. Besi H Beam sudah teruji selama bertahun-tahun dalam kontruksi bangunan. Apakah skala kecil ataupun skala besar dan terbilang amat tahan lama jika diperbandingkan dengan material lainnya. Dapat bertahan sampai puluhan hingga ratusan tahun.
+3. Mempunyai daya tahan yang tidak diragukan lagi. Besi H Beam sudah teruji selama bertahun-tahun dalam kontruksi bangunan. Apakah skala kecil ataupun skala besar dan terbilang amat tahan lama jika diperbandingkan dengan material lainnya. Dapat bertahan sampai puluhan hingga ratusan tahun.
 
-4\. Mudah dalam pemeliharaannya. Bangunan yang mengaplikasikan besi H Beam sebagai struktur rangka bangunannya akan sungguh-sungguh mudah dalam mengerjakan pemeliharaannya. tidak perlu pengecatan dengan cat khusus ataupun pembersihan tiap-tiap saat.
+4. Mudah dalam pemeliharaannya. Bangunan yang mengaplikasikan besi H Beam sebagai struktur rangka bangunannya akan sungguh-sungguh mudah dalam mengerjakan pemeliharaannya. tidak perlu pengecatan dengan cat khusus ataupun pembersihan tiap-tiap saat.
 
-5\. Mengurangi pemakaian material lainnya, seperti penerapan bekisting, pemakaian steger atau tiang penyangga dan juga material pasir. Besi H Beam tidak memerlukan material pasir dalam penerapannya.
+5. Mengurangi pemakaian material lainnya, seperti penerapan bekisting, pemakaian steger atau tiang penyangga dan juga material pasir. Besi H Beam tidak memerlukan material pasir dalam penerapannya.
 
 ### Kekurangan Dari Besi H Beam Di Cinangka Serang
 

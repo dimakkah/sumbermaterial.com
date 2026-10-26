@@ -50,13 +50,13 @@ d. tidak dapat menjangkau tempat yang sempit. Mengingat Besi WF ini berukuran pa
 
 ### Keunggulan Dari Besi WF Di Kalang Anyar Rangkasbitung
 
-1\. Bisa menghemat waktu dalam pembangunan sebuah konstruksi bangunan, memaksimalkan waktu dan juga mengurangi ongkos dan tukang pasang.
+1. Bisa menghemat waktu dalam pembangunan sebuah konstruksi bangunan, memaksimalkan waktu dan juga mengurangi ongkos dan tukang pasang.
 
-2\. Bisa menopang bobot yang sangat berat, tdk gampang memuai dan lebih simple penerapannya dibanding dengan material struktural lainnya.
+2. Bisa menopang bobot yang sangat berat, tdk gampang memuai dan lebih simple penerapannya dibanding dengan material struktural lainnya.
 
-3\. Mempunyai fleksibilitas yang tinggi. Sehingga struktur bangunan yang dihasilkan dari Besi WF ini menjadi lebih kuat tdk mudah bergeser, tidak mudah ambrol maupun goyang. Sangat pantas untuk macam bangunan diatas tanah yang labil atau sering kali terjadi longsor.
+3. Mempunyai fleksibilitas yang tinggi. Sehingga struktur bangunan yang dihasilkan dari Besi WF ini menjadi lebih kuat tdk mudah bergeser, tidak mudah ambrol maupun goyang. Sangat pantas untuk macam bangunan diatas tanah yang labil atau sering kali terjadi longsor.
 
-4\. Lebih hemat karena struktur bangunan yang menggunakan Besi WF akan memiliki kekuatan yang cukup lama malahan hingga ratusan tahun. Tentunya ini yaitu investasi yang amat murah jikalau kita bandingkan dengan waktu pakai. Malahan bangunan yang dibangun dengan rangka Besi WF dapat kita wariskan kepada anak cucu kita.
+4. Lebih hemat karena struktur bangunan yang menggunakan Besi WF akan memiliki kekuatan yang cukup lama malahan hingga ratusan tahun. Tentunya ini yaitu investasi yang amat murah jikalau kita bandingkan dengan waktu pakai. Malahan bangunan yang dibangun dengan rangka Besi WF dapat kita wariskan kepada anak cucu kita.
 
 ## Mengenal Besi H Beam Di Kalang Anyar Rangkasbitung
 
@@ -72,15 +72,15 @@ Sama seperti besi yang kami jelaskan sebelumnya yakni Besi WF, besi H-Beam malah
 
 ### Kelebihan Besi H Beam Di Kalang Anyar Rangkasbitung
 
-1\. Gampang untuk diperoleh. Banyak supplier besi yang menyediakan stok besi H-Beam bermacam jenis ukuran. Sehingga besi H-Beam ini sungguh-sungguh gampang untuk didapatkan, tdk susah untuk memperoleh supplier besi yang menjual besi H Beam.
+1. Gampang untuk diperoleh. Banyak supplier besi yang menyediakan stok besi H-Beam bermacam jenis ukuran. Sehingga besi H-Beam ini sungguh-sungguh gampang untuk didapatkan, tdk susah untuk memperoleh supplier besi yang menjual besi H Beam.
 
-2\. Mudah Dalam Pemasangan. Banyak tukang ahli dalam pemasangan besi H Beam. Meskipun besi H-Beam ini sepatutnya dipasang oleh tukang yang berpengalaman namun tukang yang berpengalaman dalam memasang besi H Beam ini sangat banyak kita temui hari ini. Sehingga tidak perlu dikhawatirkan lagi pengerjaan pemasangannya.
+2. Mudah Dalam Pemasangan. Banyak tukang ahli dalam pemasangan besi H Beam. Meskipun besi H-Beam ini sepatutnya dipasang oleh tukang yang berpengalaman namun tukang yang berpengalaman dalam memasang besi H Beam ini sangat banyak kita temui hari ini. Sehingga tidak perlu dikhawatirkan lagi pengerjaan pemasangannya.
 
-3\. Mempunyai ketahanan yang tdk diragukan lagi. Besi H Beam sudah teruji selama bertahun-tahun dalam kontruksi bangunan. Apakah skala kecil ataupun skala besar dan terbilang amat tahan lama sekiranya dibandingi dengan material lainnya. Dapat bertahan sampai puluhan sampai ratusan tahun.
+3. Mempunyai ketahanan yang tdk diragukan lagi. Besi H Beam sudah teruji selama bertahun-tahun dalam kontruksi bangunan. Apakah skala kecil ataupun skala besar dan terbilang amat tahan lama sekiranya dibandingi dengan material lainnya. Dapat bertahan sampai puluhan sampai ratusan tahun.
 
-4\. Gampang dalam pemeliharaannya. Bangunan yang menerapkan besi H Beam sebagai struktur rangka bangunannya akan sungguh-sungguh mudah dalam menjalankan pemeliharaannya. tdk perlu pengecatan dengan cat khusus maupun pembersihan setiap saat.
+4. Gampang dalam pemeliharaannya. Bangunan yang menerapkan besi H Beam sebagai struktur rangka bangunannya akan sungguh-sungguh mudah dalam menjalankan pemeliharaannya. tdk perlu pengecatan dengan cat khusus maupun pembersihan setiap saat.
 
-5\. Mengurangi penggunaan material lainnya, seperti pengaplikasian bekisting, pemakaian steger atau perancah dan juga material pasir. Besi H Beam Tdk membutuhkan material pasir dalam penggunaannya.
+5. Mengurangi penggunaan material lainnya, seperti pengaplikasian bekisting, pemakaian steger atau perancah dan juga material pasir. Besi H Beam Tdk membutuhkan material pasir dalam penggunaannya.
 
 ### Kekurangan Dari Besi H Beam Di Kalang Anyar Rangkasbitung
 

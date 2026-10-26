@@ -25,7 +25,7 @@ menurut Standar Nasional Indonesia ( SK SNI - S - 04 - 1989 - F ; 28) di sebutka
 
 Syarat-Syarat Pasir yang Baik buat Konstruksi Bangunan
 
-1.  Agregat Halus harus terdiri dari butiran yg tajam dan keras dengan indeks kekerasan <2.2
+1.  Agregat Halus harus terdiri dari butiran yg tajam dan keras dengan indeks kekerasan <2.2
 2. Jika diaplikasikan Natrium Sulfat bagian hancur optimal dua belas persen
 3. jika digunakan Magnesium Sulfat komponen halus optimal sepuluh %
 4. Tak boleh memuat lumpur lebih dari 5%
@@ -41,7 +41,6 @@ Syarat-Syarat Pasir yang Baik buat Konstruksi Bangunan
 Setelah tahu persis prasyarat pasir buat suatu Konstruksi Bangunan, sekarang ini kita bahas Macam - Macam Pasir Untuk Konstruksi Bangunan penjelasan nya sbb:
 
 - ### Pasir Cor Di Sukasari Bogor
-    
 
 Pasir ini lazim nya berwarna hitam pekat dan tingkat kekasaran butiran nya lumayan tinggi. Melainkan bila anda mengepal nya dengan tangan tidak akan lengket dan akan hancur kembali. macam pasir ini benar-benar lah baik buat Pengecoran, Plesteran Dinding, Adukan Pondasi dan Adukan Pasangan Bata Pasir ini yaitu pasir untuk Beton merupakan butiran-butiran mineral keras dan tajam berukuran antara 0,075 – 5 mm, jikalau terdapat butiran berukuran lebih kecil dari 0,063 mm tak lebih dari 5% berat. Pasir ini yaitu pasir untuk Rigid hampir tak jarang dipakai untuk profesi cor-coran struktur seperti kolom, balok dan pelat lantai.
 
@@ -59,21 +58,18 @@ Untuk mendapat ketahanan Cor yang maksimal karenanya pasir semestinya mampu meme
 ![Harga Pasir Mundu Free Ongkir Ke Sukasari Bogor](/images/info/pasir-hitam-8.jpg)
 
 - ### Pasir Untuk Adukan Pasang Batu, Pondasi, Bata, Ubin, Plester Di Sukasari Bogor
-    
 
 ![Harga Pasir Mundu Free Ongkir Ke Sukasari Bogor](/images/info/pasir-putih3.jpg)
 
 Pasir ini lebih halus lagi dibandingkan oleh pasir beton. kalau anda mengepal pasir ini maka akan menggumpal dan tak akan hancur kembali. pasir pasang lazim nya di manfaatkan buat campuran pasir beton agar tak kelewat kasar dan dapat di pakai untuk plesteran dinding.
 
 - ### Pasir Elod Untuk Dasaran Pemasangan Marmer Di Sukasari Bogor
-    
 
 Di Antara ke dua pasir diatas pasir tipe ini lebih halus lagi, sekiranya kalian mengepal nya akan menggumpal dan tak akan hancur lagi. namun pasir tipe
 
 Pada biasa nya pasir ini nyaris sama dengan pasir beton namun pasir ini mempunyai tingkat kekasaran yg tinggi, butiran - butiran nya cukup besar dan agak banyak batuan nya. pada lazimnya pasir model ini bagus tuk bahan pemadatan lantai
 
 - ### Pasir Putih Halus Untuk Lapangan Voly Di Sukasari Bogor
-    
 
 1. **Pasir Putih Bangka**
 

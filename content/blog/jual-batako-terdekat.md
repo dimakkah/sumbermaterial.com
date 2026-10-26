@@ -17,7 +17,6 @@ draft: false
 
 {{< toc >}}
 
-
 ## Kenali Lebih Dekat Berbagai Jenis Batako
 
 Batako, atau bata ringan, adalah material bangunan yang populer digunakan untuk dinding dan struktur bangunan. Tapi, tahukah Anda bahwa ada beberapa jenis batako yang beredar di pasaran? Pemilihan jenis batako yang tepat akan berpengaruh pada kekuatan, efisiensi biaya, dan hasil akhir bangunan Anda.
@@ -36,7 +35,6 @@ Harga batako sangat bervariasi tergantung pada jenis, ukuran, dan lokasi pembeli
 
 Untuk memberikan gambaran yang lebih jelas, berikut tabel perbandingan ukuran dan perkiraan harga batako:
 
-
 <table class="table">
   <caption>Perbandingan Ukuran dan Harga Batako (Estimasi)</caption>
   <thead>
@@ -49,16 +47,15 @@ Untuk memberikan gambaran yang lebih jelas, berikut tabel perbandingan ukuran da
   </tbody>
 </table>
 
-
 ## Tips Memilih Batako Berkualitas dari Penjual Terdekat
 
 Memilih batako berkualitas adalah kunci utama untuk membangun struktur bangunan yang kuat dan tahan lama. Sebelum membeli dari *jual batako terdekat*, perhatikan beberapa hal berikut ini:
 
-*   **Periksa kondisi fisik batako:** Pastikan batako tidak retak, pecah, atau memiliki cacat lainnya.
-*   **Perhatikan tekstur permukaan:** Batako yang berkualitas memiliki permukaan yang rata dan halus.
-*   **Uji kekuatan dengan memukul:** Batako yang kuat akan menghasilkan bunyi nyaring saat dipukul.
-*   **Cek standar mutu:** Pastikan batako yang Anda beli memenuhi standar mutu SNI (Standar Nasional Indonesia).
-*   **Pilih penyedia terpercaya:** Beli batako dari toko material bangunan yang terpercaya dan memiliki reputasi baik, seperti Sumber Material.
+- **Periksa kondisi fisik batako:** Pastikan batako tidak retak, pecah, atau memiliki cacat lainnya.
+- **Perhatikan tekstur permukaan:** Batako yang berkualitas memiliki permukaan yang rata dan halus.
+- **Uji kekuatan dengan memukul:** Batako yang kuat akan menghasilkan bunyi nyaring saat dipukul.
+- **Cek standar mutu:** Pastikan batako yang Anda beli memenuhi standar mutu SNI (Standar Nasional Indonesia).
+- **Pilih penyedia terpercaya:** Beli batako dari toko material bangunan yang terpercaya dan memiliki reputasi baik, seperti Sumber Material.
 
 Dengan memilih batako berkualitas, Anda tidak hanya mendapatkan material yang kuat dan tahan lama, tetapi juga menghemat biaya perbaikan di kemudian hari. Kami di Sumber Material selalu memastikan produk yang Kami *jual batako terdekat* selalu memenuhi standar kualitas tertinggi.
 

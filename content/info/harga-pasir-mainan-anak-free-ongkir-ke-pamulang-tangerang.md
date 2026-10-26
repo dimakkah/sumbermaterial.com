@@ -25,7 +25,7 @@ menurut Standar Nasional Indonesia ( SK SNI - S - 04 - 1989 - F ; 28) di tuturka
 
 Persyaratan Pasir yang Baik tuk Konstruksi Bangunan
 
-1.  Agregat Halus mesti terdiri dari butiran yang tajam dan keras dengan indeks kekerasan <2.2
+1.  Agregat Halus mesti terdiri dari butiran yang tajam dan keras dengan indeks kekerasan <2.2
 2. bilamana diaplikasikan Natrium Sulfat bagian hancur optimal 12 persen
 3. apabila dipakai Magnesium Sulfat komponen halus optimal sepuluh %
 4. Tidak boleh memuat clay lebih dari lima %
@@ -41,7 +41,6 @@ Persyaratan Pasir yang Baik tuk Konstruksi Bangunan
 sesudah tahu persis persyaratan pasir tuk sebuah Konstruksi Bangunan, pada saat ini kita bahas Jenis - Jenis Pasir Untuk Konstruksi penjelasan nya berikut ini:
 
 - ### Pasir Rigid Di Pamulang Tangerang
-    
 
 Pasir ini umum nya berwarna coklat tua dan tingkat pecahan butiran nya lumayan tinggi. Namun kalau anda mengepal nya dengan tangan tidak akan lengket dan akan hancur kembali. jenis pasir ini benar-benar lah baik tuk Pengecoran, Plesteran Dinding, Adukan Pondasi dan Adukan Pasangan Bata Pasir ini yaitu pasir untuk Cor adalah butiran-butiran mineral keras dan tajam berukuran antara 0,075 – 5 mm, seandainya terdapat butiran berukuran lebih kecil dari 0,063 mm tak lebih dari 5% berat. Pasir ini yaitu pasir untuk Cor kerap kali digunakan untuk profesi cor-coran struktur seperti kolom, balok dan pelat lantai.
 
@@ -52,9 +51,9 @@ Harga Pasir Mainan Anak Free Ongkir Ke Pamulang Tangerang Sekiranya anda sebagai
 Pasir nomor satu diambil dari kp. jebrod cianjur jawa barat yang digunakan oleh indocement serta perusahaan batching plant lainnya sebagai bahan dasar produksi readymix concrete. Pasir ini paling dianjurkan untuk cor sebab irit semen juga mempunyai kandungan lumpur yang sungguh-sungguh rendah dibawah delapan persen. warnanya Hitam abu tua atau hitam seperti hitamnya batu kali, ada juga yang hitam kemerahan atau hitam terasi
 
 3. **Pasir Hitam Beton Cimangkok.** Pasir asal Daerah penambangannya di cimangkok sukabumi jabar yang masih masuk terhadap golongan pasir hitam nomor satu di jabar, warnanya hitam kecoklatan sesuai untuk cor, pasang pondasi dan bata
-    
+
     ![Harga Pasir Mainan Anak Free Ongkir Ke Pamulang Tangerang](/images/info/pasir-hitam-7.jpg)
-    
+
 4. **Pasir Hitam Beton Cimalaka Subang Bandung.**
 
 Pasir nomor satu yang berwarna hitam kebauan ada juga yang berwarna hitam abu tua. Banyak di gunakan untuk Beton, pasang dan keperluan lainnya. Ditambang di Desa cimalaka
@@ -90,9 +89,9 @@ Kecuali Rangkasbitung, Banten juga mempunyai lokasi pnembangan pasir lain sepert
 Masih dari Tempat di banten, pasir kelas tiga ini yakni pasir yang banyak diterapkan di proyek proyek perumahan atau cluster sebab harganya yang murah juga kwalitas yang bagus. Warna pasir ini hitam kecoklatan dan keabuan sungguh-sungguh disarankan untuk pasang pondasi, bata, batu dan lainnya
 
 27. **Pasir Hitam Rigid Bohlam Sukabumi.** Pasir dari Lokasi kp. bohlam di sukabumi berwarna hitam kecoklatan, benar-benar bagus untuk pasang bata, pondasi dan sebagainya sebagai pilihan pasir kwalitas bagus dan ekonomis
-    
+
     ![Harga Pasir Mainan Anak Free Ongkir Ke Pamulang Tangerang](/images/info/pasir-hitam-1.jpg)
-    
+
 28. **Pasir Cor Galunggung.**
 
 Pasir ini yaitu pasir hitam mutu paling unggul dikelasnya umum digunakan oleh pabrik pengolahan beton readymix juga perusahan pembuatan precast dan kerap kali juga digunakan untuk bahan pembuatan batako press hitam, paving block dan lain-lain. Pasir ini ditambang dari Tasikmalaya jabar.
@@ -100,21 +99,18 @@ Pasir ini yaitu pasir hitam mutu paling unggul dikelasnya umum digunakan oleh pa
 ![Harga Pasir Mainan Anak Free Ongkir Ke Pamulang Tangerang](/images/info/pasir-hitam-8.jpg)
 
 - ### Pasir Pasang Di Pamulang Tangerang
-    
 
 ![Harga Pasir Mainan Anak Free Ongkir Ke Pamulang Tangerang](/images/info/jual-pasir-mundu.jpg)
 
 Pasir ini ekstra halus lagi dibandingkan oleh pasir beton. apabila kamu mengepal pasir ini maka akan menggumpal dan tak akan hancur kembali. pasir pasang umum nya di manfaatkan untuk campuran pasir beton supaya tak terlampau kasar dan bisa di gunakan untuk plesteran dinding.
 
 - ### Pasir Elod Untuk pemadatan lantai Di Pamulang Tangerang
-    
 
 Di Antara ke dua pasir diatas pasir ragam ini lebih halus lagi, apabila anda mengepal nya karenanya akan menggumpal dan tak akan hancur lagi. namun pasir ragam tak baik tuk di buat sebagai bahan bangunan. pasir ragam ini pada lazim nya di gunakan untuk Bahan Pembuatan Batako
 
 Pada lazim nya pasir ini nyaris sama dgn pasir beton melainkan pasir ini memiliki tingkat kekasaran yg tinggi, butiran - butiran nya lumayan besar dan agak banyak batuan nya. pada biasanya pasir macam ini baik tuk bahan pemadatan lantai
 
 - ### Pasir Putih Tanpa Batu Untuk Pasang Bata Di Pamulang Tangerang
-    
 
 1. **Pasir Putih Bangka**
 

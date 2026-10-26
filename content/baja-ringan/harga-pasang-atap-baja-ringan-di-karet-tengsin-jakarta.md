@@ -21,13 +21,13 @@ Mendapatkan rangka atap baja ringan untuk bangunan Anda bisa jadi lebih mudah da
 
 Apa saja sih kelebihan baja ringan yang membuatnya menjadi pilihan populer? Berikut beberapa alasan mendasar yang perlu Anda ketahui sebelum menghubungi kami:
 
- **Ramah Lingkungan:** Penggunaan baja ringan mengurangi kebutuhan akan kayu, sehingga membantu melestarikan alam karena tidak perlu menebang pohon.
- **Lebih Terjangkau:** Dibandingkan kerangka kayu, baja ringan umumnya lebih ekonomis. Ini sangat penting untuk menekan biaya pembangunan.
- **Ringan dan Kuat:** Baja ringan memiliki ketebalan yang tipis dan ringan, namun tetap sangat kuat untuk kerangka atap dan pembuatan kanopi rumah Anda. Bobotnya lebih ringan hingga dua kali lipat dibandingkan baja atau besi konvensional.
- **Perawatan Minimal:** Anda tidak perlu khawatir tentang perawatan tahunan. Baja ringan tahan lama dan tidak membutuhkan perawatan rutin.
- **Pemasangan Cepat:** Proses pemasangan baja ringan lebih cepat dibandingkan dengan kerangka kayu atau material lainnya.
- **Kualitas Terjamin:** Baja ringan yang kami gunakan memiliki sertifikat dan standar keamanan yang 4 kali lebih baik dibandingkan baja biasa. Kekuatannya mampu menopang beban berat.
- **Tahan Rayap:** Kerangka atap dan kanopi dari baja ringan terjamin bebas dari serangan rayap.
+- **Ramah Lingkungan:** Penggunaan baja ringan mengurangi kebutuhan akan kayu, sehingga membantu melestarikan alam karena tidak perlu menebang pohon.
+- **Lebih Terjangkau:** Dibandingkan kerangka kayu, baja ringan umumnya lebih ekonomis. Ini sangat penting untuk menekan biaya pembangunan.
+- **Ringan dan Kuat:** Baja ringan memiliki ketebalan yang tipis dan ringan, namun tetap sangat kuat untuk kerangka atap dan pembuatan kanopi rumah Anda. Bobotnya lebih ringan hingga dua kali lipat dibandingkan baja atau besi konvensional.
+- **Perawatan Minimal:** Anda tidak perlu khawatir tentang perawatan tahunan. Baja ringan tahan lama dan tidak membutuhkan perawatan rutin.
+- **Pemasangan Cepat:** Proses pemasangan baja ringan lebih cepat dibandingkan dengan kerangka kayu atau material lainnya.
+- **Kualitas Terjamin:** Baja ringan yang kami gunakan memiliki sertifikat dan standar keamanan yang 4 kali lebih baik dibandingkan baja biasa. Kekuatannya mampu menopang beban berat.
+- **Tahan Rayap:** Kerangka atap dan kanopi dari baja ringan terjamin bebas dari serangan rayap.
 
 ## Cara Menghitung Luas Rangka Baja Ringan Di Karet Tengsin Jakarta
 
@@ -53,10 +53,10 @@ Membahas biaya pemasangan baja ringan, ada banyak informasi di internet. Sayangn
 
 (Catatan: biaya dapat dimodifikasi sendiri) Berikut perkiraan biaya layanan pasang baja ringan berdasarkan jenis pemasangan:
 
-\- Kanopi dengan rangka baja ringan “Polikarbonat Lite”: Rp. 285.000 / m
-\- Kanopi dengan rangka baja ringan “Spandek”: Rp. 225.000 / m
-\- Kanopi dengan rangka baja ringan “Gogreen”: Rp. 200.000 /m
-\- Untuk perhitungan lainnya, silakan hubungi kami melalui kontak yang tersedia di website kami.
+- Kanopi dengan rangka baja ringan “Polikarbonat Lite”: Rp. 285.000 / m
+- Kanopi dengan rangka baja ringan “Spandek”: Rp. 225.000 / m
+- Kanopi dengan rangka baja ringan “Gogreen”: Rp. 200.000 /m
+- Untuk perhitungan lainnya, silakan hubungi kami melalui kontak yang tersedia di website kami.
 
 Adapun parameter yang memengaruhi besaran harga layanan pasang baja ringan:
 
@@ -76,10 +76,10 @@ Setelah pembuatan sketsa dan perhitungan rangka selesai, Anda dapat mendiskusika
 
 Berikut informasi lebih detail mengenai biaya jasa pasang baja ringan yang perlu Anda ketahui:
 
-\- Harga layanan kami sudah termasuk biaya pemasangan yang kompetitif dan seringkali memberikan diskon menarik untuk pelanggan.
-\- Harga yang kami tawarkan sepadan dengan jasa pemasangan, perhitungan yang akurat, dan material berkualitas yang digunakan.
-\- Kami selalu mengutamakan harga terbaik bagi pelanggan.
-\- Harga layanan pasang baja ringan dapat berubah sewaktu-waktu tergantung pada fluktuasi harga material.
-\- Pembayaran dapat dilakukan dengan uang muka dan sisanya setelah pemasangan selesai.
+- Harga layanan kami sudah termasuk biaya pemasangan yang kompetitif dan seringkali memberikan diskon menarik untuk pelanggan.
+- Harga yang kami tawarkan sepadan dengan jasa pemasangan, perhitungan yang akurat, dan material berkualitas yang digunakan.
+- Kami selalu mengutamakan harga terbaik bagi pelanggan.
+- Harga layanan pasang baja ringan dapat berubah sewaktu-waktu tergantung pada fluktuasi harga material.
+- Pembayaran dapat dilakukan dengan uang muka dan sisanya setelah pemasangan selesai.
 
 Anda dapat mempercayakan semuanya kepada kami. Kami, **Harga Pasang Atap Baja Ringan Di Karet Tengsin Jakarta**, siap membantu Anda dalam menentukan ukuran, kualitas, dan pemasangan yang paling sesuai dengan kebutuhan Anda tanpa meninggalkan sisa material yang tidak perlu. Jangan ragu untuk menghubungi kami! Terima kasih.

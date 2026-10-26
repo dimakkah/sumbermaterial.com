@@ -50,13 +50,13 @@ d. tdk dapat menjangkau lokasi yang sempit. Mengingat Besi WF ini berukuran panj
 
 ### Keunggulan Dari Besi WF Di Cisalak Pasar Depok
 
-1\. Bisa memaksimalkan waktu dalam pembangunan sebuah konstruksi bangunan, mengurangi waktu dan juga menghemat ongkos dan pemasang.
+1. Bisa memaksimalkan waktu dalam pembangunan sebuah konstruksi bangunan, mengurangi waktu dan juga menghemat ongkos dan pemasang.
 
-2\. Dapat menyangga bobot yang benar-benar berat, tidak gampang memuai dan lebih simple pengaplikasiannya dibanding dengan material struktural lainnya.
+2. Dapat menyangga bobot yang benar-benar berat, tidak gampang memuai dan lebih simple pengaplikasiannya dibanding dengan material struktural lainnya.
 
-3\. Mempunyai fleksibilitas yang tinggi. Sehingga struktur bangunan yang diwujudkan dari Besi WF ini menjadi lebih kuat tidak mudah bergeser, tdk mudah ambruk maupun goyang. Amat pantas untuk tipe bangunan diatas tanah yang labil atau sering kali terjadi gempa.
+3. Mempunyai fleksibilitas yang tinggi. Sehingga struktur bangunan yang diwujudkan dari Besi WF ini menjadi lebih kuat tidak mudah bergeser, tdk mudah ambruk maupun goyang. Amat pantas untuk tipe bangunan diatas tanah yang labil atau sering kali terjadi gempa.
 
-4\. Lebih hemat karena struktur bangunan yang mengaplikasikan Besi WF akan memiliki kekuatan yang cukup lama bahkan sampai ratusan tahun. Tentunya ini merupakan investasi yang betul-betul murah sekiranya kita bandingkan dengan waktu pakai. Malah bangunan yang dibangun dengan rangka Besi WF bisa kita wariskan terhadap si kecil cucu kita.
+4. Lebih hemat karena struktur bangunan yang mengaplikasikan Besi WF akan memiliki kekuatan yang cukup lama bahkan sampai ratusan tahun. Tentunya ini merupakan investasi yang betul-betul murah sekiranya kita bandingkan dengan waktu pakai. Malah bangunan yang dibangun dengan rangka Besi WF bisa kita wariskan terhadap si kecil cucu kita.
 
 ## Mengenal Besi H Beam Di Cisalak Pasar Depok
 
@@ -72,15 +72,15 @@ Sama seperti besi yang kami jelaskan sebelumnya merupakan Besi WF, besi H-Beam m
 
 ### Kelebihan Besi H Beam Di Cisalak Pasar Depok
 
-1\. Gampang untuk diperoleh. Banyak toko besi yang menyediakan stok besi H-Beam beragam ukuran. Sehingga besi H-Beam ini amat gampang untuk didapat, tidak sulit untuk menemukan distributor besi yang menjual besi H Beam.
+1. Gampang untuk diperoleh. Banyak toko besi yang menyediakan stok besi H-Beam beragam ukuran. Sehingga besi H-Beam ini amat gampang untuk didapat, tidak sulit untuk menemukan distributor besi yang menjual besi H Beam.
 
-2\. Gampang Dalam Pemasangan. Banyak tukang spesialis dalam pemasangan besi H Beam. Meski besi H-Beam ini sepatutnya dipasang oleh tukang yang berpengalaman namun tukang yang berpengalaman dalam memasang besi H Beam ini amat banyak kita temui hari ini. Sehingga tdk perlu dikhawatirkan lagi pengerjaan pemasangannya.
+2. Gampang Dalam Pemasangan. Banyak tukang spesialis dalam pemasangan besi H Beam. Meski besi H-Beam ini sepatutnya dipasang oleh tukang yang berpengalaman namun tukang yang berpengalaman dalam memasang besi H Beam ini amat banyak kita temui hari ini. Sehingga tdk perlu dikhawatirkan lagi pengerjaan pemasangannya.
 
-3\. Mempunyai daya tahan yang tdk diragukan lagi. Besi H Beam telah teruji selama bertahun-tahun dalam kontruksi bangunan. Baik skala kecil maupun skala besar dan terbilang amat awet apabila diperbandingkan dengan material lainnya. Dapat bertahan sampai puluhan hingga ratusan tahun.
+3. Mempunyai daya tahan yang tdk diragukan lagi. Besi H Beam telah teruji selama bertahun-tahun dalam kontruksi bangunan. Baik skala kecil maupun skala besar dan terbilang amat awet apabila diperbandingkan dengan material lainnya. Dapat bertahan sampai puluhan hingga ratusan tahun.
 
-4\. Mudah dalam perawatannya. Bangunan yang mengaplikasikan besi H Beam sebagai struktur tulangan bangunannya akan amat gampang dalam mengerjakan pemeliharaannya. tdk perlu pengecatan dengan cat khusus maupun pembersihan tiap-tiap saat.
+4. Mudah dalam perawatannya. Bangunan yang mengaplikasikan besi H Beam sebagai struktur tulangan bangunannya akan amat gampang dalam mengerjakan pemeliharaannya. tdk perlu pengecatan dengan cat khusus maupun pembersihan tiap-tiap saat.
 
-5\. Memaksimalkan pemakaian material lainnya, seperti penggunaan bekisting, penerapan steger atau steger dan juga material pasir. Besi H Beam Tdk membutuhkan material pasir dalam pengaplikasiannya.
+5. Memaksimalkan pemakaian material lainnya, seperti penggunaan bekisting, penerapan steger atau steger dan juga material pasir. Besi H Beam Tdk membutuhkan material pasir dalam pengaplikasiannya.
 
 ### Kekurangan Dari Besi H Beam Di Cisalak Pasar Depok
 

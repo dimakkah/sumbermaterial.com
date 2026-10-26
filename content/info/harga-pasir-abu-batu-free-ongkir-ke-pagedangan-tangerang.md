@@ -25,7 +25,7 @@ menurut Standar Nasional Indonesia ( SK SNI - S - 04 - 1989 - F ; 28) di sebutka
 
 Syarat Pasir yang Baik Untuk Konstruksi Bangunan
 
-1.  Agregat Halus seharusnya terdiri dari butiran yg tajam dan keras dengan indeks kekerasan <2.2
+1.  Agregat Halus seharusnya terdiri dari butiran yg tajam dan keras dengan indeks kekerasan <2.2
 2. Bila dimanfaatkan Natrium Sulfat komponen hancur maksimal 12 persen
 3. sekiranya diaplikasikan Magnesium Sulfat komponen halus optimal 10%
 4. Tak boleh memuat lumpur lebih dari 5%
@@ -41,7 +41,6 @@ Syarat Pasir yang Baik Untuk Konstruksi Bangunan
 sesudah memahami persyaratan pasir untuk suatu Bangunan, saat ini kita bahas Jenis - Jenis Pasir Untuk Konstruksi penjelasan nya sebagai berikut:
 
 - ### Pasir Jenis Rigid dan Lokasi Pengambilannya Di Pagedangan Tangerang
-    
 
 Pasir ini biasa nya berwarna coklat tua dan tingkat kekerasan butiran nya cukup tinggi. Tetapi apabila anda mengepal nya dengan tangan tak akan lengket dan akan buyar kembali. macam pasir ini sungguh-sungguh lah baik buat Pengecoran, Plesteran Dinding, Adukan Pondasi dan Adukan Pasangan Bata Pasir ini yaitu pasir untuk Cor ialah butiran-butiran mineral keras dan tajam berukuran antara 0,075 – 5 mm, jikalau terdapat butiran berukuran lebih kecil dari 0,063 mm tak lebih dari 5% berat. Pasir ini yaitu pasir untuk Cor kerap diterapkan untuk profesi cor-coran struktur seperti kolom, balok dan pelat lantai.
 
@@ -59,21 +58,18 @@ Untuk memperoleh kekuatan Cor yang optimal maka pasir wajib mampu memenuhi persy
 ![Harga Pasir Abu Batu Free Ongkir Ke Pagedangan Tangerang](/images/info/pasir-hitam-8.jpg)
 
 - ### Pasir Biasa Di Pagedangan Tangerang
-    
 
 ![Harga Pasir Abu Batu Free Ongkir Ke Pagedangan Tangerang](/images/info/jual-pasir-mundu-2.jpg)
 
 Pasir ini lebih halus lagi dibandingkan oleh pasir beton. seandainya kamu mengepal pasir ini maka akan menggumpal dan tak akan hancur kembali. pasir pasang lazim nya di manfaatkan buat campuran pasir beton agar tidak terlampau kasar dan dapat di manfaatkan untuk plesteran dinding.
 
 - ### Pasir Elod Untuk pemadatan lantai Di Pagedangan Tangerang
-    
 
 Di Antara ke dua pasir diatas pasir tipe ini lebih halus lagi, seandainya anda mengepal nya akan menggumpal dan tak akan buyar lagi. namun pasir tipe
 
 Pada lazim nya pasir ini nyaris sama dgn pasir beton akan tapi pasir ini memiliki tingkat kekasaran yang tinggi, butiran - butiran nya lumayan besar dan agak banyak batuan nya. pada biasanya pasir macam ini bagus untuk bahan dasaran pemasangan keramik
 
 - ### Pasir Putih Kadar Lumpur Rendah Untuk Taman Bermain Di Pagedangan Tangerang
-    
 
 1. **Pasir Putih Bangka**
 

@@ -16,7 +16,7 @@ dikala ini material yang digunakan untuk mengisi tembok gedung, sudah terdapat b
 
 ## Mengenal Tipe-tipe Bata
 
-### 1\. Bata Merah Standar & Jumbo Di Balumbang Jaya Bogor
+### 1. Bata Merah Standar & Jumbo Di Balumbang Jaya Bogor
 
 ![Harga Batako Hitam Press Gratis Ongkir Ke Balumbang Jaya Bogor](/images/bata/bata-merah-oven-19.png)
 
@@ -26,7 +26,7 @@ Bata merah ini diciptakan dari bahan tanah yg kemudian di press dan dioven dg su
 
 Bahan bangunan ini amat tahan terhadap panas dan cocok dibuat pengamanan dari bahaya api. Bata merah ini pada biasanya mempunyai ukuran panjang antara 17-23 cm dan lebar sekitar 7-11 cm, serta tebalnya 3-5 cm. mempunyai ukuran yang lebih kecil akan memberi kemudahan dalam pelaksanaan pengangkutan dan bisa diaplikasikan untuk membentuk bidang kecil.
 
-### 2\. Batako Hitam dan Putih Di Balumbang Jaya Bogor
+### 2. Batako Hitam dan Putih Di Balumbang Jaya Bogor
 
 ![Harga Batako Hitam Press Gratis Ongkir Ke Balumbang Jaya Bogor](/images/bata/batako-hitam-press-05.png)
 
@@ -34,7 +34,7 @@ Bahan bangunan dinding dari batako press ini secara umum terbuat dari bahan Aduk
 
 Batako seperti ini memiliki kelemahan seperti gampang pecah, lebih panas dan pengap. Berbeda dengan bata merah yg terbuat dari material tanah. Namun batako press ini cenderung lebih ringan ketimbang bata merah. Akhirnya akan menonjol lebih halus dan ukurannya lebih presisi seandainya diperbandingkan dengan bata merah. Batako Hitam ini mempunyai ukuran panjang sekitar 36-40 cm, tinggi 18-20 cm dan tebal 8-10 cm. bahan ini acap kali dipilih karena untuk memperingan bobot struktur bangunan, meminimalisir sisa bahan dan mempermudah pembangunan.
 
-### 3\. Bata Hebel Di Balumbang Jaya Bogor
+### 3. Bata Hebel Di Balumbang Jaya Bogor
 
 ![Harga Batako Hitam Press Gratis Ongkir Ke Balumbang Jaya Bogor](/images/bata/bata-hebel-sni-06.png)
 
@@ -62,7 +62,7 @@ Segalanya tentu sudah tahu kegunaan utama batu bata mulai dipakai untuk membikin
 
 Cara mengorder batu bata yg aman dan terpercaya:
 
-1.  Kerja pembayaran dapat anda lakukan secara COD atau dibayar di daerah dikala barang orderan anda telah datang di daerah
+1.  Kerja pembayaran dapat anda lakukan secara COD atau dibayar di daerah dikala barang orderan anda telah datang di daerah
 2. Silahkan memilih dan menentukan bahan batu bata yang anda inginkan
 3. Tentukan juga jumlah orderan batu bata yg anda butuhkan dalam format bijian.
 4. Anda dapat menghubungi layanan telepon warung untuk mempermudah proses pemesanan

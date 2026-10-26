@@ -25,7 +25,7 @@ berdasarkan Standar Nasional Indonesia ( SK SNI - S - 04 - 1989 - F ; 28) di tut
 
 Syarat-Syarat Pasir yg Bagus tuk Konstruksi Bangunan
 
-1.  Agregat Halus seharusnya terdiri dari butiran yang tajam dan keras dengan indeks kekerasan <2.2
+1.  Agregat Halus seharusnya terdiri dari butiran yang tajam dan keras dengan indeks kekerasan <2.2
 2. Kalau diaplikasikan Natrium Sulfat bagian hancur optimal dua belas %
 3. Jika dipakai Magnesium Sulfat komponen halus maksimal 5 persen
 4. Tak boleh mengandung lumpur lebih dari 5 persen
@@ -41,7 +41,6 @@ Syarat-Syarat Pasir yg Bagus tuk Konstruksi Bangunan
 Sesudah mengenal syarat pasir untuk sebuah Konstruksi Bangunan, pada saat ini kita bahas Ragam - Macam Pasir Untuk Konstruksi penjelasan nya sbb:
 
 - ### Pasir Beton Di Cikampek Karawang
-    
 
 Pasir ini lazim nya berwarna hitam pekat dan tingkat kekasaran butiran nya cukup tinggi. Melainkan apabila anda mengepal nya dengan tangan tidak akan menggumpal dan akan buyar kembali. tipe pasir ini amat lah baik buat Pengecoran, Plesteran Dinding, Adukan Pondasi dan Adukan Pasangan Bata Pasir ini yaitu pasir untuk Rigid ialah butiran-butiran mineral keras dan tajam berukuran antara 0,075 – 5 mm, bila terdapat butiran berukuran lebih kecil dari 0,063 mm tidak lebih dari 5% berat. Pasir ini yaitu pasir untuk Rigid sering kali diaplikasikan untuk pekerjaan cor-coran struktur seperti kolom, balok dan pelat lantai.
 
@@ -59,21 +58,18 @@ Untuk mendapatkan kualitas Rigid yang maksimal maka pasir harus sanggup memenuhi
 ![Harga Pasir Putih Bangka Free Ongkir Ke Cikampek Karawang](/images/info/pasir-hitam-7.jpg)
 
 - ### Pasir Untuk Pemasangan Batu, Pondasi, Bata, Ubin, Plester Di Cikampek Karawang
-    
 
 ![Harga Pasir Putih Bangka Free Ongkir Ke Cikampek Karawang](/images/info/pasir-putih3.jpg)
 
 Pasir ini lebih halus lagi dibandingkan oleh pasir beton. kalau kalian mengepal pasir ini karenanya akan menggumpal dan tak akan buyar kembali. pasir pasang biasa nya di manfaatkan buat adukan pasir beton agar tak terlalu kasar dan bisa di manfaatkan untuk plesteran dinding.
 
 - ### Pasir Kualitas rendah Untuk Pembuatan Batako Di Cikampek Karawang
-    
 
 Di Antara ke dua pasir diatas pasir tipe ini lebih halus lagi, apabila kamu mengepal nya akan menggumpal dan tak akan buyar lagi. namun pasir ragam tidak baik tuk di buat sebagai bahan bangunan. pasir jenis ini pada lazim nya di manfaatkan untuk Bahan Pembuatan Batako
 
 Pada biasa nya pasir ini nyaris sama dengan pasir beton tapi pasir ini mempunyai tingkat kekasaran yang tinggi, butiran - butiran nya cukup besar dan agak banyak batuan nya. pada umumnya pasir jenis ini baik untuk bahan pengurugan lantai
 
 - ### Pasir Putih Tanpa Ayak Untuk Hiasan Di Cikampek Karawang
-    
 
 1. **Pasir Putih Bangka**
 

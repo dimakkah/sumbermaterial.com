@@ -25,7 +25,7 @@ Menurut Standar Nasional Indonesia ( SK SNI - S - 04 - 1989 - F ; 28) di sebutka
 
 Prasyarat Pasir yang Bagus Untuk Bangunan
 
-1.  Agregat Halus patut terdiri dari butiran yang tajam dan keras dengan indeks kekerasan <2.2
+1.  Agregat Halus patut terdiri dari butiran yang tajam dan keras dengan indeks kekerasan <2.2
 2. jika diterapkan Natrium Sulfat komponen hancur optimal 12%
 3. sekiranya digunakan Magnesium Sulfat komponen halus optimal sepuluh %
 4. Tidak boleh berisi clay lebih dari lima %
@@ -41,7 +41,6 @@ Prasyarat Pasir yang Bagus Untuk Bangunan
 setelah mengetahui syarat pasir untuk sebuah Konstruksi, saat ini kita bahas Jenis - Ragam Pasir Untuk Konstruksi Bangunan penjelasan nya sbb:
 
 - ### Pasir Untuk Pengecoran Di Cipinang Besar Jakarta
-    
 
 Pasir ini umum nya berwarna hitam gelap dan tingkat kekasaran butiran nya lumayan tinggi. Melainkan jika anda mengepal nya dengan tangan tak akan menggumpal dan akan hancur kembali. jenis pasir ini betul-betul lah bagus untuk Pengecoran, Plesteran Dinding, Adukan Pondasi dan Adukan Pasangan Bata Pasir ini yaitu pasir untuk Rigid yakni butiran-butiran mineral keras dan tajam berukuran antara 0,075 – 5 mm, jikalau terdapat butiran berukuran lebih kecil dari 0,063 mm tak lebih dari 5% berat. Pasir ini yaitu pasir untuk Beton tak jarang diaplikasikan untuk pekerjaan cor-coran struktur seperti kolom, balok dan pelat lantai.
 
@@ -59,21 +58,18 @@ Untuk mendapatkan kualitas Cor yang optimal maka pasir seharusnya bisa memenuhi 
 ![Harga Pasir Besi Free Ongkir Ke Cipinang Besar Jakarta](/images/info/pasir-hitam-8.jpg)
 
 - ### Pasir Untuk Adukan Pasang Batu, Pondasi, Bata, Ubin, Plester Di Cipinang Besar Jakarta
-    
 
 ![Harga Pasir Besi Free Ongkir Ke Cipinang Besar Jakarta](/images/info/pasir-putih3.jpg)
 
 Pasir ini ekstra halus lagi dibandingkan oleh pasir beton. jikalau kamu mengepal pasir ini karenanya akan menggumpal dan tidak akan buyar kembali. pasir pasang biasa nya di manfaatkan buat adukan pasir beton agar tidak terlampau kasar dan dapat di gunakan untuk plesteran dinding.
 
 - ### Pasir Urug Untuk Dasaran Pemasangan Granit Di Cipinang Besar Jakarta
-    
 
 Di Antara ke dua pasir diatas pasir tipe ini lebih halus lagi, bila anda mengepal nya karenanya akan menggumpal dan tak akan buyar lagi. tetapi pasir macam
 
 Pada biasa nya pasir ini nyaris sama dgn pasir beton akan melainkan pasir ini mempunyai tingkat kekasaran yang tinggi, butiran - butiran nya lumayan besar dan agak banyak batuan nya. pada umumnya pasir ragam ini baik untuk bahan Pembuatan Batako
 
 - ### Pasir Putih Tanpa Ayak Untuk Taman Bermain Di Cipinang Besar Jakarta
-    
 
 1. **Pasir Putih Bangka**
 

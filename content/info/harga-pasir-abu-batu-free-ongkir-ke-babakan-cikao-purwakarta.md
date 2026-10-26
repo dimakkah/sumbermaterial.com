@@ -25,7 +25,7 @@ menurut Standar Nasional Indonesia ( SK SNI - S - 04 - 1989 - F ; 28) di sebutka
 
 Syarat Pasir yang Baik buat Konstruksi
 
-1.  Agregat Halus sepatutnya terdiri dari butiran yang tajam dan keras dengan indeks kekerasan <2.2
+1.  Agregat Halus sepatutnya terdiri dari butiran yang tajam dan keras dengan indeks kekerasan <2.2
 2. Bila digunakan Natrium Sulfat bagian hancur optimal dua belas %
 3. jikalau digunakan Magnesium Sulfat bagian halus maksimal 5 persen
 4. Tak boleh berisi clay lebih dari 5 persen
@@ -41,7 +41,6 @@ Syarat Pasir yang Baik buat Konstruksi
 sesudah memahami syarat pasir untuk suatu Bangunan, saat ini kita bahas model - Tipe Pasir Untuk Konstruksi Bangunan penjelasan nya sbb:
 
 - ### Pasir untuk Cor Rigid Di Babakan Cikao Purwakarta
-    
 
 Pasir ini umum nya berwarna coklat tua dan tingkat kekasaran butiran nya cukup tinggi. Tapi jikalau anda mengepal nya dengan tangan tidak akan lengket dan akan hancur kembali. ragam pasir ini betul-betul lah baik untuk Pengecoran, Plesteran Dinding, Adukan Pondasi dan Adukan Pasangan Bata Pasir ini yaitu pasir untuk Cor merupakan butiran-butiran mineral keras dan tajam berukuran antara 0,075 – 5 mm, apabila terdapat butiran berukuran lebih kecil dari 0,063 mm tak lebih dari 5% berat. Pasir ini yaitu pasir untuk Cor hampir kerap kali dimanfaatkan untuk pekerjaan cor-coran struktur seperti kolom, balok dan pelat lantai.
 
@@ -59,21 +58,18 @@ Untuk mendapat kualitas Rigid yang optimal karenanya pasir wajib dapat memenuhi 
 ![Harga Pasir Abu Batu Free Ongkir Ke Babakan Cikao Purwakarta](/images/info/pasir-hitam-7.jpg)
 
 - ### Pasir Standar Di Babakan Cikao Purwakarta
-    
 
 ![Harga Pasir Abu Batu Free Ongkir Ke Babakan Cikao Purwakarta](/images/info/pasir-hitam-4.jpg)
 
 Pasir ini ekstra halus lagi dibandingi oleh pasir beton. apabila kamu mengepal pasir ini karenanya akan menggumpal dan tidak akan hancur kembali. pasir pasang biasa nya di gunakan untuk adukan pasir beton supaya tak terlalu kasar dan dapat di gunakan untuk plesteran dinding.
 
 - ### Pasir Urug Untuk Pembuatan Batako Di Babakan Cikao Purwakarta
-    
 
 Di Antara ke dua pasir diatas pasir macam ini lebih halus lagi, sekiranya kalian mengepal nya akan menggumpal dan tak akan hancur lagi. tapi pasir macam
 
 Pada umum nya pasir ini nyaris sama dengan pasir beton akan namun pasir ini memiliki tingkat kekasaran yang tinggi, butiran - butiran nya cukup besar dan agak banyak batuan nya. pada lazimnya pasir jenis ini baik untuk bahan Pembuatan Batako
 
 - ### Pasir Putih Tanpa Batu Untuk Hiasan Di Babakan Cikao Purwakarta
-    
 
 1. **Pasir Putih Bangka**
 

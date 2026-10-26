@@ -18,19 +18,19 @@ Tanpa adanya besi maka sebuah bangunan akan gampang retak ketika ada getaran kec
 
 ## Megenal Macam-macam Besi Di Tanah Tinggi Jakarta
 
-### 1\. Besi Polos Krakatau Steel 4mm, 6mm, 8mm, 10mm, 12mm, 16mm, 18mm, 19mm Di Tanah Tinggi Jakarta
+### 1. Besi Polos Krakatau Steel 4mm, 6mm, 8mm, 10mm, 12mm, 16mm, 18mm, 19mm Di Tanah Tinggi Jakarta
 
 Besi polos mempunyai ukuran mulai dari 8 mm sampai 25 mm dan memiliki 6 meter panjang tekuk dan 12 meter panjang lurus. Besi beton ini sudah mulai diterapkan sebagai bahan utama di Indonesia pada tahun 1950. Besi ini kerap kali diaplikasikan untuk membangun rumah. Bahan yang mudah diterapkan sehingga selain dari dipakai untuk membangun sebuah gedung juga dipakai untuk membangun trowongan, bendungan, dan lainnya. Ketika digunakan untuk membangun rumah bertingkat karenanya biasa besi polos ini diaplikasikan untuk struktur rangkaian besi balok, dinding, dan sloof. Besi beton polos ini memiliki keunggulan besi polos ini tegangannya lebih tinggi dari pada besi lainnya. Oleh karena itu besi ini terkesan lebih kuat dan tahan beban. Sehingga penggunaan besi polos ini betul-betul layak untuk membangun gedung, jembatan, dan bangunan lainnya. Besi polos ini terbuat dari bahan seperti billet dan skrap. Billet yaitu baja batangan yang progres pembuatannya dengan mengecor biji besi. Seandainya skrap yaitu besi bekas yang dihancurkan dengan temperature tertentu. Selain itu kalau anda memakai besi polos ini tdk membutuhkan budget pemeliharaan. Semakin lama diaplikasikan maka besi ini akan semakin kokoh.
 
-### 2\. Besi Ulir Krakatau Steel 4mm, 6mm, 8mm, 10mm, 12mm, 16mm, 18mm, 19mm Di Tanah Tinggi Jakarta
+### 2. Besi Ulir Krakatau Steel 4mm, 6mm, 8mm, 10mm, 12mm, 16mm, 18mm, 19mm Di Tanah Tinggi Jakarta
 
 Sesuai dengan namanya besi beton ulir ini merupakan besi yang tampilannya mengulir. Pada permukaannya bercorak spiral yang mempunyai tujuan untuk menyatukan gerigi besi dengan faktor material bangunan yang dibentuk oleh besi beton. Besi ulir ini mulai populer dipakai pada abad ke-20 di Amerika dan mulai populer di Indonesia pada tahun1950. Mengingat dikala menggunakan besi ulir ini mempunyai banyak keunggulan mulai dari kekuatan bangunan serta lebih hemat biaya dan efisien. Produk besi ulir ini menjadi paling laris di pasar karena mempunyai mutu yang terbaik di Indonesia dan mempunyai harga yang tinggi apabila dibandingkan dengan produk lainnya.
 
-### 3\. Besi WF dan H-Beam Full Di Tanah Tinggi Jakarta
+### 3. Besi WF dan H-Beam Full Di Tanah Tinggi Jakarta
 
 Besi Wide Flange (WF) ini yakni salah satu baja dengan struktural yang paling populer diterapkan untuk kontruksi baja. Bila anda membutuhkan besi baja Wide Flage dalam jumlah yang banyak atau sedikit maka silahkan cari jual besi yang terpercaya. Besi WF ini mempunyai kekuatan yang kokoh dan kuat pada ketahanan tarik atau tekan. Karenanya dari itu besi ini menjadi faktor struktur yang memiliki batasan yang sempurna untuk menahan beban tekan aksial, tarik aksial, dan lentur dengan fasilitas pembangunan strukturnya. Baja Wide Flange (WF) ini memiliki kepadatan yang tinggi tetapi rasio berat antara kekuatan komponen Baja WF yang tinggi tapi tdk terlalu berat yang berhubungan dengan kapasitas bobot. Selain dari itu menetapkan bila kontruksi yang digunakan secara efisien. Cara kontruksi baja WF ini kombinasi dari unsur struktur yang rumit. Pada struktur ini memiliki tujuan membawa beban yang aman dan efektif yang berefek pada sebuah bangunan dan dikirim pada pondasinya. Gaya dan beban yang bekerja ini termasuk muatan pertikal, perbedaan temperatur, horizontal, getaran dan lainnya. Pada sebuah bangunan baja, maka ada unsure yang berguna menahan gaya lateral dan gravitasi.
 
-### 4\. Besi Hollow Di Tanah Tinggi Jakarta
+### 4. Besi Hollow Di Tanah Tinggi Jakarta
 
 Besi hollow yaitu besi yang diaplikasikan sebagai pembuatan kanopi, pagar, pintu besi dan lainnya. Bahan baku pembuatan besi Hollow ini umumnya terbuat dari stainless, galvanis, dan besi baja. Tetapi yang paling tak jarang diterapkan sebagai bahan baku merupakan galvanis. Terdapat kelebihan yang anda temukan saat memasang kanopi, mengaplikasikan pagar, teralis menerapkan besi hollow:
 

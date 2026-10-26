@@ -19,8 +19,6 @@ draft: false
 
 ![Harga Sirtu Urug Terbaru: Estimasi & Tips Dapatkan Terbaik](/images/info-urugan/urugan-sirtu-makadam-berangkal-07.png)
 
-
-
 Sirtu atau pasir urug adalah material penting untuk pengurugan lahan, pembuatan lantai kerja, atau bahkan sebagai lapisan dasar sebelum pengecoran. Memilih sirtu yang tepat sangat krusial untuk memastikan kekuatan dan ketahanan struktur bangunan Anda. Tapi, bagaimana cara menentukan harga sirtu urug yang wajar dan mendapatkan kualitas terbaik? Yuk, simak ulasan lengkapnya!
 
 ## Pertimbangan Memilih Sirtu Urug yang Tepat
@@ -33,9 +31,9 @@ Selain itu, lokasi proyek juga mempengaruhi biaya total. Semakin jauh jarak peng
 
 Kami menyediakan berbagai jenis sirtu urug yang bisa disesuaikan dengan kebutuhan proyek Mitra Sumber Material. Beberapa pilihan yang tersedia antara lain:
 
-*   **Sirtu Kasar:** Ideal untuk lapisan pondasi jalan, drainase, atau area yang membutuhkan permeabilitas tinggi. Ukuran butiran bervariasi antara 2-5 cm.
-*   **Sirtu Sedang:** Cocok untuk pengurugan lantai kerja, lapisan dasar sebelum paving block, atau sebagai campuran dalam pembuatan beton ringan. Ukuran butiran sekitar 1-2 cm.
-*   **Sirtu Halus:** Pilihan tepat untuk pengurugan yang membutuhkan kepadatan tinggi, seperti di bawah pondasi bangunan atau area parkir. Ukuran butiran kurang dari 1 cm.
+- **Sirtu Kasar:** Ideal untuk lapisan pondasi jalan, drainase, atau area yang membutuhkan permeabilitas tinggi. Ukuran butiran bervariasi antara 2-5 cm.
+- **Sirtu Sedang:** Cocok untuk pengurugan lantai kerja, lapisan dasar sebelum paving block, atau sebagai campuran dalam pembuatan beton ringan. Ukuran butiran sekitar 1-2 cm.
+- **Sirtu Halus:** Pilihan tepat untuk pengurugan yang membutuhkan kepadatan tinggi, seperti di bawah pondasi bangunan atau area parkir. Ukuran butiran kurang dari 1 cm.
 
 Sebagai contoh, untuk proyek pembangunan rumah 2 lantai di area Bogor, Kami pernah menyediakan 50 m³ sirtu sedang untuk pengurugan lantai kerja. Hasilnya, fondasi bangunan menjadi lebih stabil dan tahan lama.  Kami juga menyediakan jasa pengiriman sirtu langsung ke lokasi proyek Anda, sehingga Mitra tidak perlu repot mengatur transportasi sendiri.
 

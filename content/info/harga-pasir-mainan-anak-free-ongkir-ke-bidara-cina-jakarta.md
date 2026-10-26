@@ -25,7 +25,7 @@ menurut Standar Nasional Indonesia ( SK SNI - S - 04 - 1989 - F ; 28) di sebutka
 
 Persyaratan Pasir yg Baik tuk Konstruksi
 
-1.  Agregat Halus wajib terdiri dari butiran yg tajam dan keras dengan indeks kekerasan <2.2
+1.  Agregat Halus wajib terdiri dari butiran yg tajam dan keras dengan indeks kekerasan <2.2
 2. bilamana dimanfaatkan Natrium Sulfat bagian hancur optimal dua belas %
 3. kalau diaplikasikan Magnesium Sulfat bagian halus optimal 10%
 4. Tidak boleh berisi lumpur lebih dari 5 persen
@@ -41,7 +41,6 @@ Persyaratan Pasir yg Baik tuk Konstruksi
 sesudah mengetahui prasyarat pasir tuk suatu Konstruksi Bangunan, saat ini kita bahas Tipe - Ragam Pasir Untuk Bangunan penjelasan nya sebagai berikut:
 
 - ### Pasir Untuk Pengecoran Di Bidara Cina Jakarta
-    
 
 Pasir ini lazim nya berwarna hitam kemerahan dan tingkat kekasaran butiran nya lumayan tinggi. Tapi sekiranya anda mengepal nya dengan tangan tak akan menggumpal dan akan hancur kembali. ragam pasir ini sangat lah baik tuk Pengecoran, Plesteran Dinding, Adukan Pondasi dan Adukan Pasangan Bata Pasir ini yaitu pasir untuk Rigid yaitu butiran-butiran mineral keras dan tajam berukuran antara 0,075 – 5 mm, jikalau terdapat butiran berukuran lebih kecil dari 0,063 mm tak lebih dari 5% berat. Pasir ini yaitu pasir untuk Rigid kerap kali dimanfaatkan untuk profesi cor-coran struktur seperti kolom, balok dan pelat lantai.
 
@@ -59,21 +58,18 @@ Untuk menerima ketahanan Rigid yang maksimal maka pasir wajib dapat memenuhi sya
 ![Harga Pasir Mainan Anak Free Ongkir Ke Bidara Cina Jakarta](/images/info/pasir-hitam-2.jpg)
 
 - ### Pasir Untuk Pasang Batu, Pondasi, Bata, Ubin, Plester Di Bidara Cina Jakarta
-    
 
 ![Harga Pasir Mainan Anak Free Ongkir Ke Bidara Cina Jakarta](/images/info/jual-pasir-mundu.jpg)
 
 Pasir ini lebih halus lagi dibandingi oleh pasir beton. apabila anda mengepal pasir ini karenanya akan menggumpal dan tak akan buyar kembali. pasir pasang umum nya di manfaatkan buat campuran pasir beton supaya tidak terlalu kasar dan dapat di manfaatkan untuk plesteran dinding.
 
 - ### Pasir Elod Untuk Dasaran Pemasangan Marmer Di Bidara Cina Jakarta
-    
 
 Di Antara ke dua pasir diatas pasir macam ini lebih halus lagi, seandainya kamu mengepal nya karenanya akan menggumpal dan tak akan buyar lagi. melainkan pasir tipe
 
 Pada lazim nya pasir ini nyaris sama dengan pasir beton akan tetapi pasir ini memiliki tingkat kekasaran yg tinggi, butiran - butiran nya cukup besar dan agak banyak batuan nya. pada biasanya pasir macam ini baik untuk bahan pengurugan lantai
 
 - ### Pasir Putih Bebas Lumpur Untuk Hiasan Di Bidara Cina Jakarta
-    
 
 1. **Pasir Putih Bangka**
 

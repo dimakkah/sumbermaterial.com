@@ -25,7 +25,7 @@ menurut Standar Nasional Indonesia ( SK SNI - S - 04 - 1989 - F ; 28) di tuturka
 
 Persyaratan Pasir yg Bagus tuk Konstruksi Bangunan
 
-1.  Agregat Halus sepatutnya terdiri dari butiran yang tajam dan keras dengan indeks kekerasan <2.2
+1.  Agregat Halus sepatutnya terdiri dari butiran yang tajam dan keras dengan indeks kekerasan <2.2
 2. Jikalau dimanfaatkan Natrium Sulfat bagian hancur optimal 12 persen
 3. Apabila digunakan Magnesium Sulfat komponen halus maksimal sepuluh %
 4. Tak boleh berisi clay lebih dari lima %
@@ -41,7 +41,6 @@ Persyaratan Pasir yg Bagus tuk Konstruksi Bangunan
 setelah memahami prasyarat pasir untuk sebuah Konstruksi, pada saat ini kita bahas Jenis - Macam Pasir Untuk Konstruksi penjelasan nya berikut ini:
 
 - ### Pasir Untuk Beton Di Cilamaya Kulon Karawang
-    
 
 Pasir ini umum nya berwarna hitam gelap dan tingkat kekasaran butiran nya lumayan tinggi. Melainkan jika anda mengepal nya dengan tangan tak akan lengket dan akan hancur kembali. ragam pasir ini betul-betul lah bagus untuk Pengecoran, Plesteran Dinding, Adukan Pondasi dan Adukan Pasangan Bata Pasir ini yaitu pasir untuk Beton merupakan butiran-butiran mineral keras dan tajam berukuran antara 0,075 – 5 mm, apabila terdapat butiran berukuran lebih kecil dari 0,063 mm tidak lebih dari 5% berat. Pasir ini yaitu pasir untuk Cor hampir tak jarang dimanfaatkan untuk profesi cor-coran struktur seperti kolom, balok dan pelat lantai.
 
@@ -52,9 +51,9 @@ Harga Pasir Abu Batu Free Ongkir Ke Cilamaya Kulon Karawang Bila anda sebagai ko
 Pasir paling unggul dari kp. jebrod cianjur jawa barat yang diterapkan oleh indocement serta perusahaan batching plant lainnya sebagai bahan dasar produksi readymix concrete. Pasir ini paling disarankan untuk cor sebab irit semen juga mempunyai kandungan lumpur yang benar-benar rendah dibawah delapan persen. warnanya Hitam abu tua atau hitam seperti hitamnya batu kali, ada juga yang hitam kemerahan atau hitam terasi
 
 3. **Pasir Hitam Rigid Cimangkok.** Pasir asal Lokasi penambangannya di cimangkok sukabumi jawa barat yang masih masuk pada klasifikasi pasir hitam paling unggul di jawa barat, warnanya hitam kecoklatan layak untuk cor, pasang pondasi dan bata
-    
+
     ![Harga Pasir Abu Batu Free Ongkir Ke Cilamaya Kulon Karawang](/images/info/pasir-hitam-5.jpg)
-    
+
 4. **Pasir Hitam Rigid Cimalaka Subang Bandung.**
 
 Pasir paling unggul yang berwarna hitam kebauan ada juga yang berwarna hitam abu tua. Banyak di aplikasikan untuk Rigid, pasang dan keperluan lainnya. Ditambang di Daerah cimalaka
@@ -90,9 +89,9 @@ Kecuali Rangkasbitung, Banten juga mempunyai lokasi pnembangan pasir lain sepert
 Masih dari Daerah di banten, pasir kelas tiga ini yaitu pasir yang banyak diaplikasikan di proyek proyek perumahan atau cluster sebab harganya yang murah juga mutu yang bagus. Warna pasir ini hitam kecoklatan dan keabuan betul-betul dianjurkan untuk pasang pondasi, bata, batu dan sebagainya
 
 27. **Pasir Hitam Cor Bohlam Sukabumi.** Pasir dari Lokasi kp. bohlam di sukabumi berwarna hitam kecoklatan, betul-betul bagus untuk pasang bata, pondasi dan lainnya sebagai pilihan pasir kwalitas baik dan ekonomis
-    
+
     ![Harga Pasir Abu Batu Free Ongkir Ke Cilamaya Kulon Karawang](/images/info/pasir-hitam-8.jpg)
-    
+
 28. **Pasir Beton Galunggung.**
 
 Pasir ini yaitu pasir hitam kwalitas paling unggul dikelasnya awam diterapkan oleh pabrik pengolahan beton readymix juga perusahan pembuatan precast dan kerap juga diterapkan untuk bahan pembuatan batako press hitam, paving block dsb. Pasir ini ditambang dari Tasikmalaya jawa barat.
@@ -100,21 +99,18 @@ Pasir ini yaitu pasir hitam kwalitas paling unggul dikelasnya awam diterapkan ol
 ![Harga Pasir Abu Batu Free Ongkir Ke Cilamaya Kulon Karawang](/images/info/pasir-hitam-2.jpg)
 
 - ### Pasir Standar Di Cilamaya Kulon Karawang
-    
 
 ![Harga Pasir Abu Batu Free Ongkir Ke Cilamaya Kulon Karawang](/images/info/pasir-putih12.jpg)
 
 Pasir ini lebih halus lagi dibandingkan oleh pasir beton. kalau kamu mengepal pasir ini karenanya akan menggumpal dan tidak akan buyar kembali. pasir pasang biasa nya di pakai buat adukan pasir beton agar tak kelewat kasar dan bisa di gunakan untuk plesteran dinding.
 
 - ### Pasir Elod Untuk Pembuatan Batako Di Cilamaya Kulon Karawang
-    
 
 Di Antara ke dua pasir diatas pasir ragam ini lebih halus lagi, seandainya kalian mengepal nya maka akan menggumpal dan tak akan hancur lagi. namun pasir jenis
 
 Pada biasa nya pasir ini nyaris sama dgn pasir beton namun pasir ini memiliki tingkat kekasaran yg tinggi, butiran - butiran nya lumayan besar dan agak banyak batuan nya. pada lazimnya pasir tipe ini bagus untuk bahan dasaran pemasangan keramik
 
 - ### Pasir Putih Tanpa Ayak Untuk Pelester Di Cilamaya Kulon Karawang
-    
 
 1. **Pasir Putih Bangka**
 

@@ -21,13 +21,13 @@ Ingin memasang baja ringan untuk bangunan Anda di Cibodas Tangerang? Prosesnya s
 
 Berikut adalah beberapa alasan mengapa Anda harus mempertimbangkan baja ringan sebagai pilihan material atap dan *canopy* untuk proyek Anda di Cibodas Tangerang:
 
- **Ramah Lingkungan:** Baja ringan lebih ramah lingkungan karena tidak membutuhkan kayu. Dengan menggunakan baja ringan, Anda turut berkontribusi dalam melestarikan alam.
- **Lebih Ekonomis:** Dibandingkan dengan kerangka kayu, baja ringan umumnya lebih terjangkau. Harga kayu berkualitas tinggi seringkali lebih mahal, sehingga baja ringan bisa menjadi pilihan yang lebih bijak untuk menekan biaya pembangunan.
- **Ringan dan Kuat:** Baja ringan berbeda dengan baja atau besi konvensional yang berat. Ia punya ketebalan yang tipis dan ringan, namun tetap kuat dan kokoh untuk menopang atap dan *canopy* rumah Anda.
- **Minim Perawatan:** Anda tidak perlu khawatir dengan perawatan rutin. Baja ringan relatif tahan terhadap kerusakan, sehingga membebaskan Anda dari biaya perawatan tahunan.
- **Pemasangan Cepat:** Proses pemasangan baja ringan lebih cepat dibandingkan material lain seperti kayu. Hal ini menghemat waktu dan biaya tenaga kerja.
- **Kualitas Terjamin:** Baja ringan yang kami gunakan merupakan bahan berkualitas tinggi, terbuat dari zinc dan aluminium yang memiliki sertifikasi dan standar keamanan 4 kali lebih baik daripada baja biasa. Kekuatannya pun luar biasa, mampu menopang beban berat.
- **Tahan Rayap:** Anda tidak perlu khawatir dengan serangan rayap yang bisa merusak kerangka atap kayu. Baja ringan dijamin tahan terhadap rayap.
+- **Ramah Lingkungan:** Baja ringan lebih ramah lingkungan karena tidak membutuhkan kayu. Dengan menggunakan baja ringan, Anda turut berkontribusi dalam melestarikan alam.
+- **Lebih Ekonomis:** Dibandingkan dengan kerangka kayu, baja ringan umumnya lebih terjangkau. Harga kayu berkualitas tinggi seringkali lebih mahal, sehingga baja ringan bisa menjadi pilihan yang lebih bijak untuk menekan biaya pembangunan.
+- **Ringan dan Kuat:** Baja ringan berbeda dengan baja atau besi konvensional yang berat. Ia punya ketebalan yang tipis dan ringan, namun tetap kuat dan kokoh untuk menopang atap dan *canopy* rumah Anda.
+- **Minim Perawatan:** Anda tidak perlu khawatir dengan perawatan rutin. Baja ringan relatif tahan terhadap kerusakan, sehingga membebaskan Anda dari biaya perawatan tahunan.
+- **Pemasangan Cepat:** Proses pemasangan baja ringan lebih cepat dibandingkan material lain seperti kayu. Hal ini menghemat waktu dan biaya tenaga kerja.
+- **Kualitas Terjamin:** Baja ringan yang kami gunakan merupakan bahan berkualitas tinggi, terbuat dari zinc dan aluminium yang memiliki sertifikasi dan standar keamanan 4 kali lebih baik daripada baja biasa. Kekuatannya pun luar biasa, mampu menopang beban berat.
+- **Tahan Rayap:** Anda tidak perlu khawatir dengan serangan rayap yang bisa merusak kerangka atap kayu. Baja ringan dijamin tahan terhadap rayap.
 
 ## Cara Hitung Luas Rangka Baja Ringan Di Cibodas Tangerang
 

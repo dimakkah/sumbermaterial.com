@@ -21,13 +21,13 @@ Membangun atau merenovasi atap dengan baja ringan di Kampung Melayu Jakarta kini
 
 Apa yang membuat baja ringan jadi pilihan unggulan? Berikut beberapa alasan yang perlu Anda ketahui sebelum menghubungi kami, Mitra Sumber Material:
 
- **Ramah Lingkungan:** Penggunaan baja ringan mendukung pelestarian alam. Anda tidak perlu menebang pohon untuk mendapatkan kayu – material yang sering digunakan sebagai alternatif.
- **Lebih Ekonomis:** Dibandingkan dengan kerangka kayu, baja ringan umumnya lebih terjangkau. Ini membantu menekan biaya pembangunan secara keseluruhan.
- **Ringan Namun Kuat:** Walaupun ringan (sekitar dua kali lebih ringan dari baja konvensional), baja ringan memiliki kekuatan yang luar biasa untuk menopang atap dan kanopi rumah Anda.
- **Perawatan Minimal:** Anda tidak perlu khawatir dengan perawatan rutin yang memakan waktu dan biaya. Baja ringan tahan lama dan tidak memerlukan perawatan khusus.
- **Pemasangan Cepat:** Proses pemasangan baja ringan jauh lebih cepat dibandingkan dengan kerangka kayu atau material lainnya.
- **Kualitas Terjamin:** Baja ringan yang kami gunakan bersertifikasi dan memiliki standar keamanan 4 kali lebih baik dibandingkan baja biasa, mampu menahan beban berkilo-kilo.
- **Tahan Rayap:** Tidak seperti kayu, baja ringan kebal terhadap serangan rayap, sehingga Anda tidak perlu khawatir tentang kerusakan akibat hama.
+- **Ramah Lingkungan:** Penggunaan baja ringan mendukung pelestarian alam. Anda tidak perlu menebang pohon untuk mendapatkan kayu – material yang sering digunakan sebagai alternatif.
+- **Lebih Ekonomis:** Dibandingkan dengan kerangka kayu, baja ringan umumnya lebih terjangkau. Ini membantu menekan biaya pembangunan secara keseluruhan.
+- **Ringan Namun Kuat:** Walaupun ringan (sekitar dua kali lebih ringan dari baja konvensional), baja ringan memiliki kekuatan yang luar biasa untuk menopang atap dan kanopi rumah Anda.
+- **Perawatan Minimal:** Anda tidak perlu khawatir dengan perawatan rutin yang memakan waktu dan biaya. Baja ringan tahan lama dan tidak memerlukan perawatan khusus.
+- **Pemasangan Cepat:** Proses pemasangan baja ringan jauh lebih cepat dibandingkan dengan kerangka kayu atau material lainnya.
+- **Kualitas Terjamin:** Baja ringan yang kami gunakan bersertifikasi dan memiliki standar keamanan 4 kali lebih baik dibandingkan baja biasa, mampu menahan beban berkilo-kilo.
+- **Tahan Rayap:** Tidak seperti kayu, baja ringan kebal terhadap serangan rayap, sehingga Anda tidak perlu khawatir tentang kerusakan akibat hama.
 
 ## Metode Hitung Luas Rangka Baja Ringan Di Kampung Melayu Jakarta
 
@@ -57,10 +57,10 @@ Mari kita bahas biaya pemasangan baja ringan. Banyak informasi tersedia di inter
 
 (Catatan: harga bisa ditambahkan sendiri) Berikut adalah perkiraan harga pemasangan baja ringan berdasarkan jenis pemasangan:
 
-*   Kanopi dengan rangka baja ringan + Polikarbonat x-lite: Rp. 285.000 / m
-*   Kanopi dengan rangka baja ringan + Spandek: Rp. 225.000 / m
-*   Kanopi dengan rangka baja ringan + Gogreen: Rp. 200.000 /m
-*   Untuk perhitungan lainnya, silakan hubungi kami melalui kontak yang tersedia di website kami.
+- Kanopi dengan rangka baja ringan + Polikarbonat x-lite: Rp. 285.000 / m
+- Kanopi dengan rangka baja ringan + Spandek: Rp. 225.000 / m
+- Kanopi dengan rangka baja ringan + Gogreen: Rp. 200.000 /m
+- Untuk perhitungan lainnya, silakan hubungi kami melalui kontak yang tersedia di website kami.
 
 Adapun Parameter Besaran Harga Layanan Pasang Baja Ringan:
 
@@ -80,10 +80,10 @@ Tahap selanjutnya adalah menghitung budget secara keseluruhan. Biaya akan dipeng
 
 Berikut adalah detail harga jasa pemasangan baja ringan yang perlu Anda ketahui:
 
-*   Harga yang kami tawarkan sudah termasuk biaya pemasangan yang kompetitif dan diskon menarik.
-*   Harga yang kami berikan sesuai dengan kualitas pemasangan, perhitungan yang akurat, dan material yang digunakan.
-*   Kami selalu mengutamakan harga terbaik untuk setiap pelanggan.
-*   Harga jasa pemasangan dapat berubah sewaktu-waktu tergantung pada fluktuasi harga material.
-*   Pembayaran dapat dilakukan dengan sistem *down payment* (DP) dan pelunasan setelah pemasangan selesai.
+- Harga yang kami tawarkan sudah termasuk biaya pemasangan yang kompetitif dan diskon menarik.
+- Harga yang kami berikan sesuai dengan kualitas pemasangan, perhitungan yang akurat, dan material yang digunakan.
+- Kami selalu mengutamakan harga terbaik untuk setiap pelanggan.
+- Harga jasa pemasangan dapat berubah sewaktu-waktu tergantung pada fluktuasi harga material.
+- Pembayaran dapat dilakukan dengan sistem *down payment* (DP) dan pelunasan setelah pemasangan selesai.
 
 Demikian informasi mengenai Harga Pasang Atap Baja Ringan Di Kampung Melayu Jakarta. Jangan ragu untuk menghubungi Mitra Sumber Material untuk konsultasi dan penawaran terbaik! Kami siap membantu Anda mewujudkan atap impian Anda!

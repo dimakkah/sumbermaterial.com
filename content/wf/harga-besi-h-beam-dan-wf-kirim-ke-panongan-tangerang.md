@@ -50,13 +50,13 @@ d. tdk dapat menjangkau area yang sempit. Mengingat Besi WF ini berukuran panjan
 
 ### Kelebihan Dari Besi WF Di Panongan Tangerang
 
-1\. Bisa menghemat waktu dalam pembangunan sebuah konstruksi bangunan, menghemat waktu dan juga menghemat biaya dan pemasang.
+1. Bisa menghemat waktu dalam pembangunan sebuah konstruksi bangunan, menghemat waktu dan juga menghemat biaya dan pemasang.
 
-2\. Dapat menopang muatan yang amat berat, tidak gampang memuai dan lebih simple pengaplikasiannya dibanding dengan material struktural lainnya.
+2. Dapat menopang muatan yang amat berat, tidak gampang memuai dan lebih simple pengaplikasiannya dibanding dengan material struktural lainnya.
 
-3\. Memiliki fleksibilitas yang tinggi. Sehingga struktur bangunan yang dijadikan dari Besi WF ini menjadi lebih kuat tdk gampang bergeser, tidak gampang ambrol ataupun goyang. Amat cocok untuk tipe bangunan diatas tanah yang labil atau sering kali terjadi longsor.
+3. Memiliki fleksibilitas yang tinggi. Sehingga struktur bangunan yang dijadikan dari Besi WF ini menjadi lebih kuat tdk gampang bergeser, tidak gampang ambrol ataupun goyang. Amat cocok untuk tipe bangunan diatas tanah yang labil atau sering kali terjadi longsor.
 
-4\. Lebih hemat karena struktur bangunan yang memakai Besi WF akan mempunyai kekuatan yang cukup lama malahan sampai ratusan tahun. Tentunya ini adalah investasi yang sungguh-sungguh murah seandainya kita bandingkan dengan waktu pakai. Malah bangunan yang dibangun dengan rangka Besi WF dapat kita wariskan terhadap buah hati cucu kita.
+4. Lebih hemat karena struktur bangunan yang memakai Besi WF akan mempunyai kekuatan yang cukup lama malahan sampai ratusan tahun. Tentunya ini adalah investasi yang sungguh-sungguh murah seandainya kita bandingkan dengan waktu pakai. Malah bangunan yang dibangun dengan rangka Besi WF dapat kita wariskan terhadap buah hati cucu kita.
 
 ## Mengetahui Besi H Beam Di Panongan Tangerang
 
@@ -72,15 +72,15 @@ Sama seperti besi yang kami terangkan sebelumnya yaitu Besi WF, besi H-Beam bahk
 
 ### Keunggulan Besi H Beam Di Panongan Tangerang
 
-1\. Mudah untuk diperoleh. Banyak toko besi yang menyediakan stok besi H-Beam bermacam-macam ukuran. Sehingga besi H-Beam ini benar-benar mudah untuk didapat, tdk susah untuk menemukan supplier besi yang menjual besi H Beam.
+1. Mudah untuk diperoleh. Banyak toko besi yang menyediakan stok besi H-Beam bermacam-macam ukuran. Sehingga besi H-Beam ini benar-benar mudah untuk didapat, tdk susah untuk menemukan supplier besi yang menjual besi H Beam.
 
-2\. Gampang Dalam Pemasangan. Banyak tukang pakar dalam pemasangan besi H Beam. Walaupun besi H-Beam ini semestinya dipasang oleh tukang yang profesional tapi tukang yang ahli dalam memasang besi H Beam ini sangat banyak kita temui hari ini. Sehingga tdk perlu dikhawatirkan lagi progres pemasangannya.
+2. Gampang Dalam Pemasangan. Banyak tukang pakar dalam pemasangan besi H Beam. Walaupun besi H-Beam ini semestinya dipasang oleh tukang yang profesional tapi tukang yang ahli dalam memasang besi H Beam ini sangat banyak kita temui hari ini. Sehingga tdk perlu dikhawatirkan lagi progres pemasangannya.
 
-3\. Memiliki kekuatan yang tdk diragukan lagi. Besi H Beam sudah teruji selama bertahun-tahun dalam kontruksi bangunan. Baik skala kecil maupun skala besar dan terbilang amat awet bila dibandingi dengan material lainnya. Dapat bertahan hingga puluhan sampai ratusan tahun.
+3. Memiliki kekuatan yang tdk diragukan lagi. Besi H Beam sudah teruji selama bertahun-tahun dalam kontruksi bangunan. Baik skala kecil maupun skala besar dan terbilang amat awet bila dibandingi dengan material lainnya. Dapat bertahan hingga puluhan sampai ratusan tahun.
 
-4\. Mudah dalam perawatannya. Bangunan yang mengaplikasikan besi H Beam sebagai struktur tulangan bangunannya akan sangat gampang dalam menjalankan pemeliharaannya. tdk perlu pengecatan dengan cat khusus ataupun pembersihan tiap-tiap saat.
+4. Mudah dalam perawatannya. Bangunan yang mengaplikasikan besi H Beam sebagai struktur tulangan bangunannya akan sangat gampang dalam menjalankan pemeliharaannya. tdk perlu pengecatan dengan cat khusus ataupun pembersihan tiap-tiap saat.
 
-5\. Mengurangi penggunaan material lainnya, seperti pengaplikasian bekisting, penggunaan tiang penyangga atau tiang penyangga dan juga material pasir. Besi H Beam tidak membutuhkan material pasir dalam pemakaiannya.
+5. Mengurangi penggunaan material lainnya, seperti pengaplikasian bekisting, penggunaan tiang penyangga atau tiang penyangga dan juga material pasir. Besi H Beam tidak membutuhkan material pasir dalam pemakaiannya.
 
 ### Kekurangan Dari Besi H Beam Di Panongan Tangerang
 

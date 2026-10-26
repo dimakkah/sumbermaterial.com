@@ -25,7 +25,7 @@ berdasarkan Standar Nasional Indonesia ( SK SNI - S - 04 - 1989 - F ; 28) di seb
 
 Syarat Pasir yg Baik buat Konstruksi
 
-1.  Agregat Halus wajib terdiri dari butiran yang tajam dan keras dengan indeks kekerasan <2.2
+1.  Agregat Halus wajib terdiri dari butiran yang tajam dan keras dengan indeks kekerasan <2.2
 2. Kalau dimanfaatkan Natrium Sulfat komponen hancur optimal dua belas %
 3. Kalau digunakan Magnesium Sulfat komponen halus optimal sepuluh %
 4. Tidak boleh berisi tanah lebih dari lima persen
@@ -41,7 +41,6 @@ Syarat Pasir yg Baik buat Konstruksi
 setelah mengetahui persyaratan pasir buat suatu Konstruksi Bangunan, saat ini kita bahas Macam - Tipe Pasir Untuk Konstruksi Bangunan penjelasan nya sebagai berikut:
 
 - ### Pasir Jenis Beton dan Lokasi Pengambilannya Di Cikaret Bogor
-    
 
 Pasir ini umum nya berwarna coklat tua dan tingkat kekerasan butiran nya cukup tinggi. Namun kalau anda mengepal nya dengan tangan tidak akan lengket dan akan hancur kembali. model pasir ini sungguh-sungguh lah bagus tuk Pengecoran, Plesteran Dinding, Adukan Pondasi dan Adukan Pasangan Bata Pasir ini yaitu pasir untuk Rigid yaitu butiran-butiran mineral keras dan tajam berukuran antara 0,075 – 5 mm, kalau terdapat butiran berukuran lebih kecil dari 0,063 mm tak lebih dari 5% berat. Pasir ini yaitu pasir untuk Rigid kerap digunakan untuk pekerjaan cor-coran struktur seperti kolom, balok dan pelat lantai.
 
@@ -59,21 +58,18 @@ Untuk mendapatkan kualitas Beton yang optimal maka pasir wajib dapat memenuhi pe
 ![Harga Pasir Pasang Free Ongkir Ke Cikaret Bogor](/images/info/pasir-hitam-8.jpg)
 
 - ### Pasir Untuk Pemasangan Batu, Pondasi, Bata, Ubin, Plester Di Cikaret Bogor
-    
 
 ![Harga Pasir Pasang Free Ongkir Ke Cikaret Bogor](/images/info/jual-pasir-mundu-2.jpg)
 
 Pasir ini ekstra halus lagi diperbandingkan oleh pasir beton. jikalau kamu mengepal pasir ini maka akan menggumpal dan tidak akan hancur kembali. pasir pasang umum nya di manfaatkan tuk adukan pasir beton supaya tak kelewat kasar dan dapat di manfaatkan untuk plesteran dinding.
 
 - ### Pasir Urug Untuk Dasaran Pemasangan Marmer Di Cikaret Bogor
-    
 
 Di Antara ke dua pasir diatas pasir tipe ini lebih halus lagi, bila anda mengepal nya karenanya akan menggumpal dan tak akan hancur lagi. tetapi pasir jenis
 
 Pada lazim nya pasir ini nyaris sama dgn pasir beton tapi pasir ini memiliki tingkat kekasaran yg tinggi, butiran - butiran nya cukup besar dan agak banyak batuan nya. pada lazimnya pasir model ini baik tuk bahan pengurugan lantai
 
 - ### Pasir Putih Tanpa Batu Untuk Pelester Di Cikaret Bogor
-    
 
 1. **Pasir Putih Bangka**
 

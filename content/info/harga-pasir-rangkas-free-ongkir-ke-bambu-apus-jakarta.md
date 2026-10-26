@@ -25,7 +25,7 @@ Menurut Standar Nasional Indonesia ( SK SNI - S - 04 - 1989 - F ; 28) di sebutka
 
 Persyaratan Pasir yg Bagus Untuk Bangunan
 
-1.  Agregat Halus sepatutnya terdiri dari butiran yang tajam dan keras dengan indeks kekerasan <2.2
+1.  Agregat Halus sepatutnya terdiri dari butiran yang tajam dan keras dengan indeks kekerasan <2.2
 2. bilamana digunakan Natrium Sulfat bagian hancur maksimal dua belas persen
 3. sekiranya digunakan Magnesium Sulfat bagian halus optimal sepuluh persen
 4. Tidak boleh mengandung tanah lebih dari 5%
@@ -41,7 +41,6 @@ Persyaratan Pasir yg Bagus Untuk Bangunan
 Sesudah tahu persis syarat pasir tuk suatu Konstruksi, pada saat ini kita bahas Macam - Tipe Pasir Untuk Bangunan penjelasan nya sbb:
 
 - ### Pasir Tipe Beton dan Lokasi Pengambilannya Di Bambu Apus Jakarta
-    
 
 Pasir ini lazim nya berwarna hitam pekat dan tingkat pecahan butiran nya lumayan tinggi. Namun bila anda mengepal nya dengan tangan tidak akan menggumpal dan akan buyar kembali. model pasir ini amat lah bagus buat Pengecoran, Plesteran Dinding, Adukan Pondasi dan Adukan Pasangan Bata Pasir ini yaitu pasir untuk Beton adalah butiran-butiran mineral keras dan tajam berukuran antara 0,075 – 5 mm, bila terdapat butiran berukuran lebih kecil dari 0,063 mm tidak lebih dari 5% berat. Pasir ini yaitu pasir untuk Rigid hampir tak jarang dipakai untuk profesi cor-coran struktur seperti kolom, balok dan pelat lantai.
 
@@ -59,21 +58,18 @@ Untuk memperoleh ketahanan Beton yang maksimal maka pasir mesti mampu memenuhi p
 ![Harga Pasir Rangkas Free Ongkir Ke Bambu Apus Jakarta](/images/info/pasir-hitam-5.jpg)
 
 - ### Pasir Standar Di Bambu Apus Jakarta
-    
 
 ![Harga Pasir Rangkas Free Ongkir Ke Bambu Apus Jakarta](/images/info/pasir-putih3.jpg)
 
 Pasir ini lebih halus lagi diperbandingkan oleh pasir beton. jika anda mengepal pasir ini maka akan menggumpal dan tidak akan hancur kembali. pasir pasang biasa nya di gunakan tuk campuran pasir beton supaya tak kelewat kasar dan dapat di manfaatkan untuk plesteran dinding.
 
 - ### Pasir Kualitas rendah Untuk pemadatan lantai Di Bambu Apus Jakarta
-    
 
 Di Antara ke dua pasir diatas pasir tipe ini lebih halus lagi, jika anda mengepal nya akan menggumpal dan tidak akan buyar lagi. tetapi pasir ragam tidak baik untuk di buat sebagai bahan bangunan. pasir model ini pada nya di pergunakan tuk Bahan Pembuatan Batako
 
 Pada umum nya pasir ini nyaris sama dengan pasir beton namun pasir ini mempunyai tingkat kekasaran yg tinggi, butiran - butiran nya cukup besar dan agak banyak batuan nya. pada umumnya pasir model ini bagus untuk bahan dasaran pemasangan keramik
 
 - ### Pasir Putih Tanpa Batu Untuk Pengecoran Di Bambu Apus Jakarta
-    
 
 1. **Pasir Putih Bangka**
 

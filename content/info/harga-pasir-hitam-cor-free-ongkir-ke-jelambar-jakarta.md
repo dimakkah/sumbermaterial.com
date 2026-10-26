@@ -25,7 +25,7 @@ menurut Standar Nasional Indonesia ( SK SNI - S - 04 - 1989 - F ; 28) di tuturka
 
 Prasyarat Pasir yang Baik tuk Konstruksi Bangunan
 
-1.  Agregat Halus seharusnya terdiri dari butiran yg tajam dan keras dengan indeks kekerasan <2.2
+1.  Agregat Halus seharusnya terdiri dari butiran yg tajam dan keras dengan indeks kekerasan <2.2
 2. bilamana dimanfaatkan Natrium Sulfat komponen hancur maksimal 12 persen
 3. kalau digunakan Magnesium Sulfat bagian halus maksimal 5 persen
 4. Tak boleh memuat clay lebih dari 5%
@@ -41,7 +41,6 @@ Prasyarat Pasir yang Baik tuk Konstruksi Bangunan
 setelah tahu persis prasyarat pasir buat suatu Bangunan, pada saat ini kita bahas Jenis - Ragam Pasir Untuk Bangunan penjelasan nya berikut ini:
 
 - ### Pasir untuk Cor Rigid Di Jelambar Jakarta
-    
 
 Pasir ini lazim nya berwarna keabu-abuan dan tingkat kekasaran butiran nya lumayan tinggi. Namun kalau anda mengepal nya dengan tangan tidak akan lengket dan akan hancur kembali. ragam pasir ini sangat lah baik untuk Pengecoran, Plesteran Dinding, Adukan Pondasi dan Adukan Pasangan Bata Pasir ini yaitu pasir untuk Rigid merupakan butiran-butiran mineral keras dan tajam berukuran antara 0,075 – 5 mm, apabila terdapat butiran berukuran lebih kecil dari 0,063 mm tidak lebih dari 5% berat. Pasir ini yaitu pasir untuk Rigid hampir sering kali dipakai untuk pekerjaan cor-coran struktur seperti kolom, balok dan pelat lantai.
 
@@ -59,21 +58,18 @@ Untuk memperoleh kekuatan Rigid yang maksimal karenanya pasir seharusnya sanggup
 ![Harga Pasir Hitam Cor Free Ongkir Ke Jelambar Jakarta](/images/info/jual-pasir-cor-hitam.jpg)
 
 - ### Pasir Standar Di Jelambar Jakarta
-    
 
 ![Harga Pasir Hitam Cor Free Ongkir Ke Jelambar Jakarta](/images/info/pasir-putih3.jpg)
 
 Pasir ini ekstra halus lagi dibandingkan oleh pasir beton. kalau anda mengepal pasir ini karenanya akan menggumpal dan tak akan buyar kembali. pasir pasang biasa nya di manfaatkan tuk campuran pasir beton agar tidak terlampau kasar dan dapat di gunakan untuk plesteran dinding.
 
 - ### Pasir Kualitas rendah Untuk Pembuatan Batako Di Jelambar Jakarta
-    
 
 Di Antara ke dua pasir diatas pasir model ini lebih halus lagi, kalau anda mengepal nya akan menggumpal dan tidak akan buyar lagi. melainkan pasir macam
 
 Pada lazim nya pasir ini nyaris sama dgn pasir beton melainkan pasir ini memiliki tingkat kekasaran yg tinggi, butiran - butiran nya cukup besar dan agak banyak batuan nya. pada biasanya pasir jenis ini baik tuk bahan pemadatan lantai
 
 - ### Pasir Putih Bebas Lumpur Untuk Pasang Lantai Marmer Di Jelambar Jakarta
-    
 
 1. **Pasir Putih Bangka**
 

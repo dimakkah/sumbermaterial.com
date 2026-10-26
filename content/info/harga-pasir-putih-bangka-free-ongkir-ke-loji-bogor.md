@@ -25,7 +25,7 @@ Berdasarkan Standar Nasional Indonesia ( SK SNI - S - 04 - 1989 - F ; 28) di seb
 
 Persyaratan Pasir yang Baik tuk Bangunan
 
-1.  Agregat Halus patut terdiri dari butiran yang tajam dan keras dengan indeks kekerasan <2.2
+1.  Agregat Halus patut terdiri dari butiran yang tajam dan keras dengan indeks kekerasan <2.2
 2. Bila dipakai Natrium Sulfat bagian hancur maksimal 12 persen
 3. Seandainya digunakan Magnesium Sulfat komponen halus maksimal sepuluh %
 4. Tak boleh memuat clay lebih dari 5%
@@ -41,7 +41,6 @@ Persyaratan Pasir yang Baik tuk Bangunan
 setelah tahu persis persyaratan pasir buat sebuah Konstruksi Bangunan, sekarang ini kita bahas Ragam - Ragam Pasir Untuk Konstruksi Bangunan penjelasan nya sbb:
 
 - ### Pasir Untuk Beton Di Loji Bogor
-    
 
 Pasir ini umum nya berwarna hitam gelap dan tingkat kekerasan butiran nya lumayan tinggi. Namun seandainya anda mengepal nya dengan tangan tidak akan lengket dan akan buyar kembali. tipe pasir ini benar-benar lah baik untuk Pengecoran, Plesteran Dinding, Adukan Pondasi dan Adukan Pasangan Bata Pasir ini yaitu pasir untuk Cor ialah butiran-butiran mineral keras dan tajam berukuran antara 0,075 – 5 mm, bila terdapat butiran berukuran lebih kecil dari 0,063 mm tidak lebih dari 5% berat. Pasir ini yaitu pasir untuk Beton hampir acap kali diterapkan untuk pekerjaan cor-coran struktur seperti kolom, balok dan pelat lantai.
 
@@ -59,21 +58,18 @@ Untuk mendapat kualitas Beton yang maksimal karenanya pasir patut bisa memenuhi 
 ![Harga Pasir Putih Bangka Free Ongkir Ke Loji Bogor](/images/info/pasir-hitam-8.jpg)
 
 - ### Pasir Biasa Di Loji Bogor
-    
 
 ![Harga Pasir Putih Bangka Free Ongkir Ke Loji Bogor](/images/info/jual-pasir-mundu-2.jpg)
 
 Pasir ini ekstra halus lagi dibandingi oleh pasir beton. bila kalian mengepal pasir ini maka akan menggumpal dan tidak akan hancur kembali. pasir pasang biasa nya di gunakan buat adukan pasir beton supaya tidak terlalu kasar dan bisa di manfaatkan untuk plesteran dinding.
 
 - ### Pasir Kualitas rendah Untuk Dasaran Pemasangan Marmer Di Loji Bogor
-    
 
 Di Antara ke dua pasir diatas pasir model ini lebih halus lagi, sekiranya anda mengepal nya akan menggumpal dan tidak akan hancur lagi. tetapi pasir ragam tak bagus tuk di buat sebagai bahan bangunan. pasir macam ini pada umum nya di pakai tuk Bahan Pembuatan Batako
 
 Pada lazim nya pasir ini nyaris sama dgn pasir beton akan melainkan pasir ini mempunyai tingkat kekasaran yang tinggi, butiran - butiran nya lumayan besar dan agak banyak batuan nya. pada umumnya pasir model ini baik tuk bahan dasaran pemasangan keramik
 
 - ### Pasir Putih Bebas Lumpur Untuk Pasang Bata Di Loji Bogor
-    
 
 1. **Pasir Putih Bangka**
 

@@ -50,13 +50,13 @@ d. tidak dapat menjangkau lokasi yang sempit. Mengingat Besi WF ini berukuran pa
 
 ### Kelebihan Dari Besi WF Di Cilincing Jakarta
 
-1\. Dapat menghemat waktu dalam pembangunan sebuah konstruksi bangunan, memaksimalkan waktu dan juga memaksimalkan ongkos dan pemasang.
+1. Dapat menghemat waktu dalam pembangunan sebuah konstruksi bangunan, memaksimalkan waktu dan juga memaksimalkan ongkos dan pemasang.
 
-2\. Bisa menyangga muatan yang sungguh-sungguh berat, tidak gampang memuai dan lebih simple penerapannya dibanding dengan material struktural lainnya.
+2. Bisa menyangga muatan yang sungguh-sungguh berat, tidak gampang memuai dan lebih simple penerapannya dibanding dengan material struktural lainnya.
 
-3\. Memiliki fleksibilitas yang tinggi. Sehingga struktur bangunan yang dibuat dari Besi WF ini menjadi lebih kuat tidak mudah bergeser, tdk mudah ambrol maupun goyang. Sangat pantas untuk tipe bangunan diatas tanah yang labil atau sering terjadi gempa.
+3. Memiliki fleksibilitas yang tinggi. Sehingga struktur bangunan yang dibuat dari Besi WF ini menjadi lebih kuat tidak mudah bergeser, tdk mudah ambrol maupun goyang. Sangat pantas untuk tipe bangunan diatas tanah yang labil atau sering terjadi gempa.
 
-4\. Lebih hemat karena struktur bangunan yang menggunakan Besi WF akan memiliki kekuatan yang cukup lama malahan hingga ratusan tahun. Tentunya ini ialah investasi yang betul-betul murah apabila kita bandingkan dengan waktu pakai. Bahkan bangunan yang dibangun dengan tulangan Besi WF dapat kita wariskan terhadap anak cucu kita.
+4. Lebih hemat karena struktur bangunan yang menggunakan Besi WF akan memiliki kekuatan yang cukup lama malahan hingga ratusan tahun. Tentunya ini ialah investasi yang betul-betul murah apabila kita bandingkan dengan waktu pakai. Bahkan bangunan yang dibangun dengan tulangan Besi WF dapat kita wariskan terhadap anak cucu kita.
 
 ## Mengenal Besi H Beam Di Cilincing Jakarta
 
@@ -72,15 +72,15 @@ Sama seperti besi yang kami terangkan sebelumnya merupakan Besi WF, besi H-Beam 
 
 ### Kelebihan Besi H Beam Di Cilincing Jakarta
 
-1\. Mudah untuk diperoleh. Banyak toko besi yang menyediakan stok besi H-Beam bermacam-macam ukuran. Sehingga besi H-Beam ini sangat mudah untuk didapatkan, tdk sulit untuk mendapatkan toko besi yang menjual besi H Beam.
+1. Mudah untuk diperoleh. Banyak toko besi yang menyediakan stok besi H-Beam bermacam-macam ukuran. Sehingga besi H-Beam ini sangat mudah untuk didapatkan, tdk sulit untuk mendapatkan toko besi yang menjual besi H Beam.
 
-2\. Gampang Dalam Pemasangan. Banyak tukang pakar dalam pemasangan besi H Beam. Walaupun besi H-Beam ini wajib dipasang oleh tukang yang berpengalaman namun tukang yang profesional dalam memasang besi H Beam ini sangat banyak kita temui hari ini. Sehingga tidak perlu dikhawatirkan lagi pelaksanaan pemasangannya.
+2. Gampang Dalam Pemasangan. Banyak tukang pakar dalam pemasangan besi H Beam. Walaupun besi H-Beam ini wajib dipasang oleh tukang yang berpengalaman namun tukang yang profesional dalam memasang besi H Beam ini sangat banyak kita temui hari ini. Sehingga tidak perlu dikhawatirkan lagi pelaksanaan pemasangannya.
 
-3\. Mempunyai daya tahan yang tdk diragukan lagi. Besi H Beam sudah teruji selama bertahun-tahun dalam kontruksi bangunan. Apakah skala kecil ataupun skala besar dan terbilang amat kuat kalau dibandingkan dengan material lainnya. Dapat bertahan hingga puluhan sampai ratusan tahun.
+3. Mempunyai daya tahan yang tdk diragukan lagi. Besi H Beam sudah teruji selama bertahun-tahun dalam kontruksi bangunan. Apakah skala kecil ataupun skala besar dan terbilang amat kuat kalau dibandingkan dengan material lainnya. Dapat bertahan hingga puluhan sampai ratusan tahun.
 
-4\. Mudah dalam pemeliharaannya. Bangunan yang mengaplikasikan besi H Beam sebagai struktur rangka bangunannya akan benar-benar gampang dalam melaksanakan perawatannya. tdk perlu pengecatan dengan cat khusus maupun pembersihan setiap saat.
+4. Mudah dalam pemeliharaannya. Bangunan yang mengaplikasikan besi H Beam sebagai struktur rangka bangunannya akan benar-benar gampang dalam melaksanakan perawatannya. tdk perlu pengecatan dengan cat khusus maupun pembersihan setiap saat.
 
-5\. Mengurangi penggunaan material lainnya, seperti penerapan bekisting, penerapan steger atau tiang penyangga dan juga material pasir. Besi H Beam Tdk membutuhkan material pasir dalam penerapannya.
+5. Mengurangi penggunaan material lainnya, seperti penerapan bekisting, penerapan steger atau tiang penyangga dan juga material pasir. Besi H Beam Tdk membutuhkan material pasir dalam penerapannya.
 
 ### Kekurangan Dari Besi H Beam Di Cilincing Jakarta
 

@@ -50,13 +50,13 @@ d. tidak bisa menjangkau tempat yang sempit. Mengingat Besi WF ini berukuran pan
 
 ### Kelebihan Dari Besi WF Di Cinangka Depok
 
-1\. Bisa menghemat waktu dalam pembangunan sebuah konstruksi bangunan, menghemat waktu dan juga mengurangi biaya dan tukang pasang.
+1. Bisa menghemat waktu dalam pembangunan sebuah konstruksi bangunan, menghemat waktu dan juga mengurangi biaya dan tukang pasang.
 
-2\. Bisa menyangga muatan yang amat berat, tdk mudah memuai dan lebih simple pemakaiannya dibanding dengan material struktural lainnya.
+2. Bisa menyangga muatan yang amat berat, tdk mudah memuai dan lebih simple pemakaiannya dibanding dengan material struktural lainnya.
 
-3\. Memiliki fleksibilitas yang tinggi. Sehingga struktur bangunan yang diciptakan dari Besi WF ini menjadi lebih kuat tidak mudah bergeser, tdk mudah ambruk maupun goyang. Sangat cocok untuk tipe bangunan diatas tanah yang labil atau sering terjadi goncangan.
+3. Memiliki fleksibilitas yang tinggi. Sehingga struktur bangunan yang diciptakan dari Besi WF ini menjadi lebih kuat tidak mudah bergeser, tdk mudah ambruk maupun goyang. Sangat cocok untuk tipe bangunan diatas tanah yang labil atau sering terjadi goncangan.
 
-4\. Lebih hemat sebab struktur bangunan yang menerapkan Besi WF akan memiliki kekokohan yang cukup lama malahan hingga ratusan tahun. Tentunya ini adalah investasi yang benar-benar murah sekiranya kita bandingkan dengan waktu gunakan. Bahkan bangunan yang dibangun dengan rangka Besi WF bisa kita wariskan terhadap anak cucu kita.
+4. Lebih hemat sebab struktur bangunan yang menerapkan Besi WF akan memiliki kekokohan yang cukup lama malahan hingga ratusan tahun. Tentunya ini adalah investasi yang benar-benar murah sekiranya kita bandingkan dengan waktu gunakan. Bahkan bangunan yang dibangun dengan rangka Besi WF bisa kita wariskan terhadap anak cucu kita.
 
 ## Mengetahui Besi H Beam Di Cinangka Depok
 
@@ -72,15 +72,15 @@ Sama seperti besi yang kami terangkan sebelumnya adalah Besi WF, besi H-Beam mal
 
 ### Kelebihan Besi H Beam Di Cinangka Depok
 
-1\. Mudah untuk didapat. Banyak supplier besi yang menyediakan stok besi H-Beam bermacam-macam ukuran. Sehingga besi H-Beam ini amat mudah untuk diperoleh, tdk sulit untuk mendapatkan supplier besi yang menjual besi H Beam.
+1. Mudah untuk didapat. Banyak supplier besi yang menyediakan stok besi H-Beam bermacam-macam ukuran. Sehingga besi H-Beam ini amat mudah untuk diperoleh, tdk sulit untuk mendapatkan supplier besi yang menjual besi H Beam.
 
-2\. Mudah Dalam Pemasangan. Banyak tukang spesialis dalam pemasangan besi H Beam. Meski besi H-Beam ini seharusnya dipasang oleh tukang yang profesional akan tetapi tukang yang ahli dalam memasang besi H Beam ini sungguh-sungguh banyak kita temui hari ini. Sehingga tdk perlu dikhawatirkan lagi proses pemasangannya.
+2. Mudah Dalam Pemasangan. Banyak tukang spesialis dalam pemasangan besi H Beam. Meski besi H-Beam ini seharusnya dipasang oleh tukang yang profesional akan tetapi tukang yang ahli dalam memasang besi H Beam ini sungguh-sungguh banyak kita temui hari ini. Sehingga tdk perlu dikhawatirkan lagi proses pemasangannya.
 
-3\. Mempunyai ketahanan yang tdk diragukan lagi. Besi H Beam telah teruji selama bertahun-tahun dalam kontruksi bangunan. Baik skala kecil maupun skala besar dan terbilang betul-betul kuat apabila dibandingkan dengan material lainnya. Dapat bertahan sampai puluhan sampai ratusan tahun.
+3. Mempunyai ketahanan yang tdk diragukan lagi. Besi H Beam telah teruji selama bertahun-tahun dalam kontruksi bangunan. Baik skala kecil maupun skala besar dan terbilang betul-betul kuat apabila dibandingkan dengan material lainnya. Dapat bertahan sampai puluhan sampai ratusan tahun.
 
-4\. Mudah dalam pemeliharaannya. Bangunan yang menggunakan besi H Beam sebagai struktur tulangan bangunannya akan betul-betul gampang dalam mengerjakan pemeliharaannya. tidak perlu pengecatan dengan cat khusus ataupun pembersihan setiap waktu.
+4. Mudah dalam pemeliharaannya. Bangunan yang menggunakan besi H Beam sebagai struktur tulangan bangunannya akan betul-betul gampang dalam mengerjakan pemeliharaannya. tidak perlu pengecatan dengan cat khusus ataupun pembersihan setiap waktu.
 
-5\. Menghemat penggunaan material lainnya, seperti pengaplikasian bekisting, penerapan steger atau perancah dan juga material pasir. Besi H Beam Tdk membutuhkan material pasir dalam pengaplikasiannya.
+5. Menghemat penggunaan material lainnya, seperti pengaplikasian bekisting, penerapan steger atau perancah dan juga material pasir. Besi H Beam Tdk membutuhkan material pasir dalam pengaplikasiannya.
 
 ### Kekurangan Dari Besi H Beam Di Cinangka Depok
 

@@ -18,19 +18,19 @@ Dengan tidak adanya besi maka sebuah bangunan akan mudah retak ketika ada guncan
 
 ## Mengetahui Variasi-tipe Besi Di Setiabudi Jakarta
 
-### 1\. Besi Polos Toleransi 4mm, 6mm, 8mm, 10mm, 12mm, 16mm, 18mm, 19mm Di Setiabudi Jakarta
+### 1. Besi Polos Toleransi 4mm, 6mm, 8mm, 10mm, 12mm, 16mm, 18mm, 19mm Di Setiabudi Jakarta
 
 Besi polos memiliki ukuran mulai dari 8 mm sampai dengan 25 mm dan memiliki 6 meter panjang tekuk dan 12 meter panjang lurus. Besi beton ini telah mulai digunakan sebagai bahan utama di Indonesia pada tahun 1950. Besi ini tak jarang kali diterapkan untuk membangun bangunan beton. Bahan yang gampang diterapkan sehingga selain digunakan untuk membangun tempat tinggal juga digunakan untuk membangun trowongan, bendungan, dan lainnya. Ketika diaplikasikan untuk membangun bangunan beton bertingkat karenanya biasa besi polos ini diaplikasikan untuk struktur tulangan balok, dinding, dan sloof. Besi beton polos ini memiliki keunggulan besi polos ini tegangannya lebih tinggi dari pada besi lainnya. Sehingga besi ini terkesan lebih kuat dan tahan beban. Sehingga pengaplikasian besi polos ini sungguh-sungguh layak untuk membangun gedung, jembatan, dan bangunan lainnya. Besi polos ini terbuat dari bahan seperti billet dan skrap. Billet ialah baja batangan yang pelaksanaan pembuatannya dengan mengecor biji besi. Kalau skrap ialah besi bekas yang dileburkan dengan temperature tertentu. Selain dari itu jikalau anda mengaplikasikan besi polos ini tdk memerlukan budget pemeliharaan. Kian lama dipakai karenanya besi ini akan semakin kokoh.
 
-### 2\. Besi Ulir KS 4mm, 6mm, 8mm, 10mm, 12mm, 16mm, 18mm, 19mm Di Setiabudi Jakarta
+### 2. Besi Ulir KS 4mm, 6mm, 8mm, 10mm, 12mm, 16mm, 18mm, 19mm Di Setiabudi Jakarta
 
 Selaras dengan namanya besi beton ulir ini adalah besi yang tampilannya mengulir. Pada permukaannya bercorak spiral yang memiliki tujuan untuk menyatukan gerigi besi dengan unsur material bangunan yang dibangun oleh besi beton. Besi ulir ini mulai populer digunakan pada abad ke-20 di Amerika dan mulai populer di Indonesia pada tahun1950. Mengingat ketika menggunakan besi ulir ini memiliki banyak keunggulan mulai dari kekuatan bangunan serta lebih ekonomis dan efisien. Produk besi ulir ini menjadi primadona pasar karena memiliki kualitas yang terbaik di Indonesia dan mempunyai harga yang tinggi kalau dibandingkan dengan produk lainnya.
 
-### 3\. Besi WF dan H-Beam Krakatau Steel Di Setiabudi Jakarta
+### 3. Besi WF dan H-Beam Krakatau Steel Di Setiabudi Jakarta
 
 Besi Wide Flange (WF) ini merupakan salah satu baja dengan struktural yang paling sering digunakan untuk kontruksi baja. Jikalau anda memerlukan besi baja Wide Flage dalam jumlah yang banyak atau sedikit maka silahkan cari supplier besi yang terpercaya. Besi WF ini memiliki kekokohan yang kokoh dan kokoh pada ketahanan tarik atau tekan. Karenanya dari itu besi ini menjadi faktor struktur yang memiliki batasan yang sempurna untuk menopang muatan tekan aksial, tarik aksial, dan lentur dengan fasilitas pembangunan strukturnya. Baja Wide Flange (WF) ini mempunyai kepadatan yang tinggi melainkan rasio berat antara ketahanan komponen Baja WF yang tinggi tapi tdk terlalu berat yang terkait dengan kapasitas bobot. Selain dari itu menentukan bila kontruksi yang digunakan secara efisien. Sistem kontruksi baja WF ini kombinasi dari unsur struktur yang rumit. Pada struktur ini mempunyai tujuan membawa bobot yang aman dan efektif yang bekerja pada sebuah bangunan dan dikirim pada pondasinya. Gaya dan bobot yang berefek ini termasuk bobot pertikal, perbedaan suhu, horizontal, getaran dan lainnya. Pada sebuah bangunan baja, maka ada unsure yang bermanfaat menahan gaya lateral dan gravitasi.
 
-### 4\. Besi Holow Di Setiabudi Jakarta
+### 4. Besi Holow Di Setiabudi Jakarta
 
 Besi hollow ialah besi yang diaplikasikan sebagai pembuatan kanopi, pagar, pintu besi dan lainnya. Bahan baku pembuatan besi Hollow ini biasanya terbuat dari stainless, galvanis, dan besi baja. Namun yang paling kerap kali diterapkan sebagai bahan baku yakni galvanis. Terdapat kelebihan yang anda dapatkan saat menerapkan kanopi, mengaplikasikan pagar, teralis menggunakan besi hollow:
 

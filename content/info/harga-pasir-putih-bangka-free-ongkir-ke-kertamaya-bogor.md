@@ -25,7 +25,7 @@ berdasarkan Standar Nasional Indonesia ( SK SNI - S - 04 - 1989 - F ; 28) di seb
 
 Persyaratan Pasir yang Baik buat Konstruksi
 
-1.  Agregat Halus patut terdiri dari butiran yang tajam dan keras dengan indeks kekerasan <2.2
+1.  Agregat Halus patut terdiri dari butiran yang tajam dan keras dengan indeks kekerasan <2.2
 2. Apabila digunakan Natrium Sulfat komponen hancur maksimal dua belas persen
 3. seandainya diterapkan Magnesium Sulfat bagian halus optimal sepuluh %
 4. Tidak boleh mengandung clay lebih dari 5%
@@ -41,7 +41,6 @@ Persyaratan Pasir yang Baik buat Konstruksi
 sesudah tahu persis prasyarat pasir untuk suatu Konstruksi, saat ini kita bahas Tipe - Ragam Pasir Untuk Bangunan penjelasan nya berikut ini:
 
 - ### Pasir Rigid Di Kertamaya Bogor
-    
 
 Pasir ini umum nya berwarna hitam pekat dan tingkat kekerasan butiran nya cukup tinggi. Tetapi bila anda mengepal nya dengan tangan tak akan menggumpal dan akan hancur kembali. ragam pasir ini amat lah bagus tuk Pengecoran, Plesteran Dinding, Adukan Pondasi dan Adukan Pasangan Bata Pasir ini yaitu pasir untuk Rigid ialah butiran-butiran mineral keras dan tajam berukuran antara 0,075 – 5 mm, kalau terdapat butiran berukuran lebih kecil dari 0,063 mm tidak lebih dari 5% berat. Pasir ini yaitu pasir untuk Beton hampir tak jarang dimanfaatkan untuk profesi cor-coran struktur seperti kolom, balok dan pelat lantai.
 
@@ -52,9 +51,9 @@ Harga Pasir Putih Bangka Free Ongkir Ke Kertamaya Bogor Jika anda sebagai konsum
 Pasir No. 1 diambil dari kp. jebrod cianjur jawa barat yang diterapkan oleh indocement serta perusahaan batching plant lainnya sebagai bahan dasar produksi readymix concrete. Pasir ini paling disarankan untuk cor sebab irit semen juga mempunyai kandungan lumpur yang sungguh-sungguh rendah dibawah delapan %. warnanya Hitam abu tua atau hitam seperti hitamnya batu kali, ada juga yang hitam kemerahan atau hitam terasi
 
 3. **Pasir Hitam Beton Cimangkok.** Pasir diambil dari Tempat penambangannya di cimangkok sukabumi jabar yang masih masuk pada golongan pasir hitam nomor satu di jabar, warnanya hitam kecoklatan sesuai untuk cor, pasang pondasi dan bata
-    
+
     ![Harga Pasir Putih Bangka Free Ongkir Ke Kertamaya Bogor](/images/info/jual-pasir-cor-hitam.jpg)
-    
+
 4. **Pasir Hitam Cor Cimalaka Subang Bandung.**
 
 Pasir kelas satu yang berwarna hitam kebauan ada juga yang berwarna hitam abu tua. Banyak di gunakan untuk Rigid, pasang dan keperluan lainnya. Ditambang di Desa cimalaka
@@ -90,9 +89,9 @@ Kecuali Rangkasbitung, Banten juga mempunyai lokasi pnembangan pasir lain sepert
 Masih dari Lokasi di banten, pasir kelas tiga ini ialah pasir yang banyak diterapkan di proyek proyek perumahan atau cluster sebab harganya yang murah juga mutu yang bagus. Warna pasir ini hitam kecoklatan dan keabuan benar-benar disarankan untuk pasang pondasi, bata, batu dan lain-lain
 
 27. **Pasir Hitam Cor Bohlam Sukabumi.** Pasir dari Daerah kp. bohlam di sukabumi berwarna hitam kecoklatan, benar-benar bagus untuk pasang bata, pondasi dan sebagainya sebagai opsi pasir mutu baik dan ekonomis
-    
+
     ![Harga Pasir Putih Bangka Free Ongkir Ke Kertamaya Bogor](/images/info/pasir-hitam-2.jpg)
-    
+
 28. **Pasir Cor Galunggung.**
 
 Pasir ini yaitu pasir hitam mutu paling unggul dikelasnya umum digunakan oleh pabrik pengolahan beton readymix juga perusahan pembuatan precast dan acap kali juga diaplikasikan untuk bahan pembuatan batako press hitam, paving block dsb. Pasir ini ditambang dari Tasikmalaya jawa barat.
@@ -100,21 +99,18 @@ Pasir ini yaitu pasir hitam mutu paling unggul dikelasnya umum digunakan oleh pa
 ![Harga Pasir Putih Bangka Free Ongkir Ke Kertamaya Bogor](/images/info/pasir-hitam-5.jpg)
 
 - ### Pasir Untuk Adukan Pasang Batu, Pondasi, Bata, Ubin, Plester Di Kertamaya Bogor
-    
 
 ![Harga Pasir Putih Bangka Free Ongkir Ke Kertamaya Bogor](/images/info/jual-pasir-mundu.jpg)
 
 Pasir ini lebih halus lagi dibandingkan oleh pasir beton. jikalau anda mengepal pasir ini maka akan menggumpal dan tak akan hancur kembali. pasir pasang lazim nya di manfaatkan buat campuran pasir beton supaya tak kelewat kasar dan dapat di pakai untuk plesteran dinding.
 
 - ### Pasir Elod Untuk pemadatan lantai Di Kertamaya Bogor
-    
 
 Di Antara ke dua pasir diatas pasir ragam ini lebih halus lagi, sekiranya kamu mengepal nya akan menggumpal dan tak akan hancur lagi. tetapi pasir ragam tidak baik tuk di buat sebagai bahan bangunan. pasir model ini pada biasa nya di pakai tuk Bahan Pembuatan Batako
 
 Pada lazim nya pasir ini nyaris sama dgn pasir beton tetapi pasir ini mempunyai tingkat kekasaran yg tinggi, butiran - butiran nya lumayan besar dan agak banyak batuan nya. pada biasanya pasir tipe ini bagus untuk bahan pengurugan lantai
 
 - ### Pasir Putih Tanpa Ayak Untuk Pasang Keramik Di Kertamaya Bogor
-    
 
 1. **Pasir Putih Bangka**
 

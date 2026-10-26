@@ -18,19 +18,19 @@ Dengan tidak adanya besi maka sebuah bangunan akan mudah retak dikala ada getara
 
 ## Inilah Jenis-jenis Besi Di Wijaya Kusuma Jakarta
 
-### 1\. Besi Polos Krakatau Steel 4mm, 6mm, 8mm, 10mm, 12mm, 16mm, 18mm, 19mm Di Wijaya Kusuma Jakarta
+### 1. Besi Polos Krakatau Steel 4mm, 6mm, 8mm, 10mm, 12mm, 16mm, 18mm, 19mm Di Wijaya Kusuma Jakarta
 
 Besi polos memiliki ukuran mulai dari 8 mm sampai dengan 25 mm dan mempunyai 6 meter panjang tekuk dan 12 meter panjang lurus. Besi beton ini sudah mulai diterapkan sebagai bahan utama di Indonesia pada tahun 1950. Besi ini sering kali digunakan untuk membangun rumah. Bahan yang mudah digunakan sehingga selain dari digunakan untuk membangun tempat tinggal juga digunakan untuk membangun trowongan, bendungan, dan lainnya. Ketika digunakan untuk membangun rumah bertingkat karenanya biasa besi polos ini dipakai untuk struktur tulangan balok, dinding, dan sloof. Besi beton polos ini mempunyai keunggulan besi polos ini tegangannya lebih tinggi dari pada besi lainnya. Sehingga besi ini terkesan lebih kokoh dan tahan beban. Jadi pemakaian besi polos ini sangat layak untuk membangun gedung, jembatan, dan bangunan lainnya. Besi polos ini terbuat dari bahan seperti billet dan skrap. Billet merupakan baja batangan yang progres pembuatannya dengan mengecor biji besi. Bila skrap yaitu besi bekas yang dihancurkan dengan temperature tertentu. Selain itu jika anda memakai besi polos ini tidak membutuhkan budget pemeliharaan. Semakin lama digunakan maka besi ini akan semakin kokoh.
 
-### 2\. Besi Ulir Banci 4mm, 6mm, 8mm, 10mm, 12mm, 16mm, 18mm, 19mm Di Wijaya Kusuma Jakarta
+### 2. Besi Ulir Banci 4mm, 6mm, 8mm, 10mm, 12mm, 16mm, 18mm, 19mm Di Wijaya Kusuma Jakarta
 
 Cocok dengan namanya besi beton ulir ini merupakan besi yang bentuknya mengulir. Pada permukaannya bercorak spiral yang mempunyai tujuan untuk menyatukan tulangan dengan unsur material bangunan yang dibangun oleh besi beton. Besi ulir ini mulai populer diterapkan pada abad ke-20 di Amerika dan mulai populer di Indonesia pada tahun1950. Mengingat ketika menggunakan besi ulir ini mempunyai banyak kelebihan mulai dari kekokohan bangunan serta lebih murah dan efisien. Produk besi ulir ini menjadi paling laris di pasar karena memiliki kwalitas yang terbaik di Indonesia dan mempunyai harga yang tinggi seandainya diperbandingkan dengan produk lainnya.
 
-### 3\. Besi WF dan H-Beam Di Wijaya Kusuma Jakarta
+### 3. Besi WF dan H-Beam Di Wijaya Kusuma Jakarta
 
 Besi Wide Flange (WF) ini yakni salah satu baja dengan struktural yang paling populer dipakai untuk kontruksi baja. Sekiranya anda memerlukan besi baja Wide Flage dalam quantitas yang banyak atau sedikit maka silahkan cari penjual besi yang terpercaya. Besi WF ini memiliki kekokohan yang kokoh dan kokoh pada ketahanan tarik atau tekan. Maka dari itu besi ini menjadi elemen struktur yang memiliki batasan yang sempurna untuk menopang beban tekan aksial, tarik aksial, dan lentur dengan fasilitas pembangunan strukturnya. Baja Wide Flange (WF) ini mempunyai kepadatan yang tinggi namun rasio berat antara ketahanan bagian Baja WF yang tinggi tapi tdk begitu berat yang berhubungan dengan kapasitas bobot. Selain itu menentukan bila kontruksi yang diterapkan secara efisien. Metode kontruksi baja WF ini kombinasi dari faktor struktur yang kompleks. Pada struktur ini memiliki tujuan membawa beban yang aman dan tepat sasaran yang bekerja pada sebuah bangunan dan dikirim pada pondasinya. Gaya dan beban yang berefek ini termasuk beban pertikal, perbedaan temperatur, horizontal, getaran dan lainnya. Pada sebuah bangunan baja, karenanya ada unsure yang bermanfaat menahan gaya lateral dan gravitasi.
 
-### 4\. Besi Holo Di Wijaya Kusuma Jakarta
+### 4. Besi Holo Di Wijaya Kusuma Jakarta
 
 Besi hollow ialah besi yang digunakan sebagai pembuatan kanopi, pagar, pintu besi dan lainnya. Bahan baku pembuatan besi Hollow ini biasanya terbuat dari stainless, galvanis, dan besi baja. Namun yang paling kerap diterapkan sebagai bahan baku merupakan galvanis. Terdapat kelebihan yang anda temukan dikala memasang kanopi, menerapkan pagar, teralis memakai besi hollow:
 

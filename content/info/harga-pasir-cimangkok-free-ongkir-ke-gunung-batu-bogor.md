@@ -25,7 +25,7 @@ menurut Standar Nasional Indonesia ( SK SNI - S - 04 - 1989 - F ; 28) di tuturka
 
 Syarat Pasir yg Bagus buat Konstruksi
 
-1.  Agregat Halus semestinya terdiri dari butiran yg tajam dan keras dengan indeks kekerasan <2.2
+1.  Agregat Halus semestinya terdiri dari butiran yg tajam dan keras dengan indeks kekerasan <2.2
 2. Jikalau diaplikasikan Natrium Sulfat bagian hancur optimal dua belas %
 3. sekiranya dipakai Magnesium Sulfat komponen halus optimal 10%
 4. Tak boleh mengandung clay lebih dari lima persen
@@ -41,7 +41,6 @@ Syarat Pasir yg Bagus buat Konstruksi
 Sesudah tahu persis prasyarat pasir buat sebuah Konstruksi, pada saat ini kita bahas Macam - Ragam Pasir Untuk Konstruksi Bangunan penjelasan nya sbb:
 
 - ### Pasir Tipe Cor dan Lokasi Pengambilannya Di Gunung Batu Bogor
-    
 
 Pasir ini umum nya berwarna hitam kemerahan dan tingkat kekerasan butiran nya lumayan tinggi. Tetapi bila anda mengepal nya dengan tangan tidak akan lengket dan akan hancur kembali. ragam pasir ini betul-betul lah baik tuk Pengecoran, Plesteran Dinding, Adukan Pondasi dan Adukan Pasangan Bata Pasir ini yaitu pasir untuk Rigid yakni butiran-butiran mineral keras dan tajam berukuran antara 0,075 – 5 mm, kalau terdapat butiran berukuran lebih kecil dari 0,063 mm tidak lebih dari 5% berat. Pasir ini yaitu pasir untuk Rigid hampir kerap kali dimanfaatkan untuk pekerjaan cor-coran struktur seperti kolom, balok dan pelat lantai.
 
@@ -59,21 +58,18 @@ Untuk mendapat kekokohan Cor yang maksimal maka pasir patut dapat memenuhi syara
 ![Harga Pasir Cimangkok Free Ongkir Ke Gunung Batu Bogor](/images/info/jual-pasir-cor-hitam.jpg)
 
 - ### Pasir Pasang Di Gunung Batu Bogor
-    
 
 ![Harga Pasir Cimangkok Free Ongkir Ke Gunung Batu Bogor](/images/info/pasir-hitam-11.jpg)
 
 Pasir ini lebih halus lagi dibandingkan oleh pasir beton. sekiranya anda mengepal pasir ini maka akan menggumpal dan tidak akan buyar kembali. pasir pasang biasa nya di manfaatkan tuk campuran pasir beton agar tidak kelewat kasar dan bisa di manfaatkan untuk plesteran dinding.
 
 - ### Pasir Urug Untuk pemadatan lantai Di Gunung Batu Bogor
-    
 
 Di Antara ke dua pasir diatas pasir jenis ini lebih halus lagi, bila kalian mengepal nya akan menggumpal dan tak akan hancur lagi. melainkan pasir tipe
 
 Pada lazim nya pasir ini nyaris sama dengan pasir beton tetapi pasir ini memiliki tingkat kekasaran yg tinggi, butiran - butiran nya cukup besar dan agak banyak batuan nya. pada lazimnya pasir ragam ini baik tuk bahan pemadatan lantai
 
 - ### Pasir Putih Bebas Lumpur Untuk Pasang Bata Di Gunung Batu Bogor
-    
 
 1. **Pasir Putih Bangka**
 

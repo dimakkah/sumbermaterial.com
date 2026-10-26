@@ -25,7 +25,7 @@ menurut Standar Nasional Indonesia ( SK SNI - S - 04 - 1989 - F ; 28) di sebutka
 
 Persyaratan Pasir yang Bagus tuk Bangunan
 
-1.  Agregat Halus semestinya terdiri dari butiran yg tajam dan keras dengan indeks kekerasan <2.2
+1.  Agregat Halus semestinya terdiri dari butiran yg tajam dan keras dengan indeks kekerasan <2.2
 2. Jikalau dipakai Natrium Sulfat komponen hancur optimal 12 persen
 3. seandainya diaplikasikan Magnesium Sulfat komponen halus optimal 10%
 4. Tidak boleh berisi clay lebih dari 5 persen
@@ -41,7 +41,6 @@ Persyaratan Pasir yang Bagus tuk Bangunan
 Sesudah mengetahui persyaratan pasir buat suatu Konstruksi, sekarang ini kita bahas model - Jenis Pasir Untuk Konstruksi penjelasan nya sbb:
 
 - ### Pasir Beton Di Babelan Bekasi
-    
 
 Pasir ini umum nya berwarna coklat tua dan tingkat kekasaran butiran nya lumayan tinggi. Tapi sekiranya anda mengepal nya dengan tangan tak akan lengket dan akan buyar kembali. jenis pasir ini sungguh-sungguh lah baik tuk Pengecoran, Plesteran Dinding, Adukan Pondasi dan Adukan Pasangan Bata Pasir ini yaitu pasir untuk Cor ialah butiran-butiran mineral keras dan tajam berukuran antara 0,075 – 5 mm, jika terdapat butiran berukuran lebih kecil dari 0,063 mm tak lebih dari 5% berat. Pasir ini yaitu pasir untuk Rigid kerap kali diterapkan untuk pekerjaan cor-coran struktur seperti kolom, balok dan pelat lantai.
 
@@ -59,21 +58,18 @@ Untuk menerima ketahanan Beton yang optimal maka pasir harus mampu memenuhi syar
 ![Harga Pasir Mundu Free Ongkir Ke Babelan Bekasi](/images/info/pasir-hitam-8.jpg)
 
 - ### Pasir Untuk Adukan Pasang Batu, Pondasi, Bata, Ubin, Plester Di Babelan Bekasi
-    
 
 ![Harga Pasir Mundu Free Ongkir Ke Babelan Bekasi](/images/info/jual-pasir-mundu.jpg)
 
 Pasir ini lebih halus lagi diperbandingkan oleh pasir beton. sekiranya kalian mengepal pasir ini maka akan menggumpal dan tak akan buyar kembali. pasir pasang biasa nya di manfaatkan tuk campuran pasir beton agar tidak kelewat kasar dan dapat di pakai untuk plesteran dinding.
 
 - ### Pasir Kualitas rendah Untuk pemadatan lantai Di Babelan Bekasi
-    
 
 Di Antara ke dua pasir diatas pasir jenis ini lebih halus lagi, seandainya kalian mengepal nya karenanya akan menggumpal dan tak akan buyar lagi. melainkan pasir macam
 
 Pada biasa nya pasir ini nyaris sama dengan pasir beton melainkan pasir ini mempunyai tingkat kekasaran yg tinggi, butiran - butiran nya cukup besar dan agak banyak batuan nya. pada biasanya pasir macam ini baik tuk bahan pengurugan lantai
 
 - ### Pasir Putih Tanpa Ayak Untuk Lapangan Voly Di Babelan Bekasi
-    
 
 1. **Pasir Putih Bangka**
 

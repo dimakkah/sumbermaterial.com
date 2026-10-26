@@ -25,7 +25,7 @@ Berdasarkan Standar Nasional Indonesia ( SK SNI - S - 04 - 1989 - F ; 28) di seb
 
 Syarat-Syarat Pasir yang Bagus buat Bangunan
 
-1.  Agregat Halus semestinya terdiri dari butiran yg tajam dan keras dengan indeks kekerasan <2.2
+1.  Agregat Halus semestinya terdiri dari butiran yg tajam dan keras dengan indeks kekerasan <2.2
 2. Seandainya digunakan Natrium Sulfat bagian hancur maksimal dua belas persen
 3. jika diterapkan Magnesium Sulfat bagian halus optimal 5 persen
 4. Tak boleh memuat clay lebih dari 5 persen
@@ -41,7 +41,6 @@ Syarat-Syarat Pasir yang Bagus buat Bangunan
 sesudah mengetahui persyaratan pasir untuk sebuah Bangunan, pada saat ini kita bahas Jenis - Jenis Pasir Untuk Konstruksi penjelasan nya sbb:
 
 - ### Pasir Tipe Cor dan Lokasi Penambangannya Di Tamansari Jakarta
-    
 
 Pasir ini lazim nya berwarna hitam kemerahan dan tingkat kekerasan butiran nya lumayan tinggi. Namun kalau anda mengepal nya dengan tangan tidak akan menggumpal dan akan buyar kembali. model pasir ini sungguh-sungguh lah baik tuk Pengecoran, Plesteran Dinding, Adukan Pondasi dan Adukan Pasangan Bata Pasir ini yaitu pasir untuk Cor yaitu butiran-butiran mineral keras dan tajam berukuran antara 0,075 – 5 mm, jikalau terdapat butiran berukuran lebih kecil dari 0,063 mm tidak lebih dari 5% berat. Pasir ini yaitu pasir untuk Beton hampir kerap diterapkan untuk profesi cor-coran struktur seperti kolom, balok dan pelat lantai.
 
@@ -59,21 +58,18 @@ Untuk mendapat kekuatan Cor yang optimal maka pasir sepatutnya dapat memenuhi pe
 ![Harga Pasir Jalupang Free Ongkir Ke Tamansari Jakarta](/images/info/pasir-hitam-7.jpg)
 
 - ### Pasir Biasa Di Tamansari Jakarta
-    
 
 ![Harga Pasir Jalupang Free Ongkir Ke Tamansari Jakarta](/images/info/pasir-putih3.jpg)
 
 Pasir ini ekstra halus lagi dibandingkan oleh pasir beton. jikalau anda mengepal pasir ini karenanya akan menggumpal dan tidak akan hancur kembali. pasir pasang lazim nya di pakai untuk adukan pasir beton agar tidak kelewat kasar dan bisa di pakai untuk plesteran dinding.
 
 - ### Pasir Elod Untuk Dasaran Pemasangan Keramik Di Tamansari Jakarta
-    
 
 Di Antara ke dua pasir diatas pasir jenis ini lebih halus lagi, seandainya anda mengepal nya akan menggumpal dan tidak akan hancur lagi. namun pasir ragam tidak bagus tuk di buat sebagai bahan bangunan. pasir model ini pada umum nya di pergunakan untuk Bahan Pembuatan Batako
 
 Pada umum nya pasir ini nyaris sama dgn pasir beton melainkan pasir ini mempunyai tingkat kekasaran yang tinggi, butiran - butiran nya cukup besar dan agak banyak batuan nya. pada lazimnya pasir model ini baik tuk bahan pemadatan lantai
 
 - ### Pasir Putih Halus Untuk Pasang Lantai Marmer Di Tamansari Jakarta
-    
 
 1. **Pasir Putih Bangka**
 

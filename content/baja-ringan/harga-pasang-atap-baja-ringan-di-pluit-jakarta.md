@@ -19,15 +19,15 @@ Ingin memasang baja ringan untuk bangunan Anda di Pluit Jakarta? Prosesnya seben
 
 ## Alasan Anda Sepatutnya Memilih Kerangka Atap dan Canopy Baja Ringan
 
-Yuk, kita bahas beberapa alasan utama mengapa Anda harus memilih baja ringan sebagai kerangka atap dan *canopy* untuk proyek Anda di Pluit Jakarta. 
+Yuk, kita bahas beberapa alasan utama mengapa Anda harus memilih baja ringan sebagai kerangka atap dan *canopy* untuk proyek Anda di Pluit Jakarta.
 
- Baja ringan ramah lingkungan. Anda tidak perlu menebang pohon untuk mendapatkannya, sehingga turut berkontribusi dalam pelestarian alam.
- Lebih ekonomis. Dibandingkan material kayu, harga baja ringan cenderung lebih terjangkau, terutama untuk bagian kerangka yang vital bagi bangunan. Ini membantu Anda menekan biaya pembangunan secara keseluruhan.
- Ringan dan kuat. Baja ringan memiliki berat 2 kali lebih ringan dari baja atau besi konvensional, namun tetap menawarkan kekuatan yang luar biasa untuk kerangka atap dan *canopy* rumah Anda.
- Bebas perawatan. Anda tidak perlu khawatir tentang kerusakan atau perawatan tahunan, sehingga menghemat waktu dan biaya.
- Pemasangan cepat. Proses pemasangan baja ringan jauh lebih cepat dibandingkan material lain seperti kayu, sehingga proyek Anda bisa selesai lebih cepat.
- Kualitas terjamin. Baja ringan yang kami gunakan adalah bahan berkualitas tinggi dengan sertifikasi dan standar keamanan 4 kali lebih baik daripada baja biasa. Kekuatannya pun mampu menopang beban berat.
- Tahan rayap. Kami menjamin kerangka atap dan *canopy* dari baja ringan ini akan tahan terhadap serangan rayap.
+- Baja ringan ramah lingkungan. Anda tidak perlu menebang pohon untuk mendapatkannya, sehingga turut berkontribusi dalam pelestarian alam.
+- Lebih ekonomis. Dibandingkan material kayu, harga baja ringan cenderung lebih terjangkau, terutama untuk bagian kerangka yang vital bagi bangunan. Ini membantu Anda menekan biaya pembangunan secara keseluruhan.
+- Ringan dan kuat. Baja ringan memiliki berat 2 kali lebih ringan dari baja atau besi konvensional, namun tetap menawarkan kekuatan yang luar biasa untuk kerangka atap dan *canopy* rumah Anda.
+- Bebas perawatan. Anda tidak perlu khawatir tentang kerusakan atau perawatan tahunan, sehingga menghemat waktu dan biaya.
+- Pemasangan cepat. Proses pemasangan baja ringan jauh lebih cepat dibandingkan material lain seperti kayu, sehingga proyek Anda bisa selesai lebih cepat.
+- Kualitas terjamin. Baja ringan yang kami gunakan adalah bahan berkualitas tinggi dengan sertifikasi dan standar keamanan 4 kali lebih baik daripada baja biasa. Kekuatannya pun mampu menopang beban berat.
+- Tahan rayap. Kami menjamin kerangka atap dan *canopy* dari baja ringan ini akan tahan terhadap serangan rayap.
 
 ## Cara Hitung Luas Rangka Baja Ringan Di Pluit Jakarta
 
@@ -43,7 +43,7 @@ Perhitungan luas datar adalah ( *overstack* + Panjang ) x ( lebar + *overstack* 
 
 ### Memastikan Luas miring
 
-Penentuan luas miring menggunakan rumus: Luas miring = Luas datar / Cosinus dengan kemiringan atap. Perhitungannya 181.44 / 0.8666 menghasilkan 209.52 meter. Jadi luas kemiringan pada rangka atap baja ringan ini adalah 209.52 meter. 
+Penentuan luas miring menggunakan rumus: Luas miring = Luas datar / Cosinus dengan kemiringan atap. Perhitungannya 181.44 / 0.8666 menghasilkan 209.52 meter. Jadi luas kemiringan pada rangka atap baja ringan ini adalah 209.52 meter.
 
 Dengan perhitungan ini, Anda bisa memperkirakan jumlah dan volume baja ringan yang dibutuhkan untuk pemasangan. Namun, jika terasa rumit, jangan ragu untuk menghubungi tim kami.
 
@@ -64,15 +64,15 @@ Membahas harga jasa pasang baja ringan, ada banyak informasi di internet. Namun,
 
 ### Parameter Besaran Biaya Jasa Pasang Baja Ringan
 
-### 1\. Pembuatan sketsa desain
+#### 1. Pembuatan sketsa desain
 
 Harga juga dipengaruhi oleh desain atau pola sketsa yang akan dikerjakan oleh tim teknisi kami di lokasi Anda. Sketsa ini penting untuk menentukan kebutuhan jumlah baja ringan sehingga tidak ada sisa material yang terbuang percuma. Pembuatan sketsa juga termasuk dalam perhitungan biaya pemasangan baja ringan dari Jasa kami.
 
-### 2\. Menghitung keperluan rangka
+#### 2. Menghitung keperluan rangka
 
-Setelah Anda memiliki sketsa pemasangan, langkah selanjutnya adalah menghitung kebutuhan rangka yang harus disiapkan untuk memperkirakan jumlah material baja ringan yang diperlukan. Anda dapat berkonsultasi dengan tim teknisi kami mengenai waktu dan kualitas dari setiap material. 
+Setelah Anda memiliki sketsa pemasangan, langkah selanjutnya adalah menghitung kebutuhan rangka yang harus disiapkan untuk memperkirakan jumlah material baja ringan yang diperlukan. Anda dapat berkonsultasi dengan tim teknisi kami mengenai waktu dan kualitas dari setiap material.
 
-### 3\. Menghitung budget yang dibutuhkan
+#### 3. Menghitung budget yang dibutuhkan
 
 Setelah pembuatan sketsa dan perhitungan rangka selesai, Anda dapat mendiskusikan perkiraan biaya dari seluruh proses pemasangan baja ringan. Budget yang dibutuhkan bergantung pada beberapa faktor seperti jumlah rangka, luas komponen kerangka, material tambahan, upah teknisi, dan biaya pengiriman. Mintalah rincian Harga Jasa pasang baja ringan dari tim kami sebagai gambaran untuk menyiapkan budget Anda. Anda juga dapat memilih jenis baja ringan sesuai kebutuhan, mulai dari yang standar hingga kualitas premium.
 

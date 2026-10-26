@@ -21,13 +21,13 @@ Memasang baja ringan untuk kebutuhan bangunan tidak sesulit yang dibayangkan. An
 
 Berikut beberapa alasan penting yang perlu Anda ketahui sebelum menghubungi kami: mengapa baja ringan merupakan pilihan terbaik untuk kerangka atap dan kanopi Anda.
 
- Baja ringan lebih ramah lingkungan karena tidak memerlukan kayu, sehingga Anda turut berkontribusi dalam melestarikan alam.
- Lebih ekonomis. Jika dibandingkan dengan kerangka kayu, biaya penggunaan baja ringan cenderung lebih rendah, terutama untuk komponen utama seperti kerangka. Ini penting untuk menekan biaya pembangunan.
- Ringan dan kuat. Baja ringan berbeda dengan baja atau besi konvensional yang memiliki berat dua kali lipat. Baja ringan tipis dan ringan, tapi sangat kuat untuk menopang kerangka atap dan kanopi rumah Anda.
- Bebas perawatan. Anda tidak perlu khawatir dengan kerusakan atau perawatan rutin, karena baja ringan dirancang untuk tahan lama.
- Pemasangan cepat. Proses pemasangan baja ringan lebih cepat dibandingkan dengan material lain seperti kayu, menghemat waktu dan tenaga Anda.
- Kualitas terjamin. Baja ringan yang kami gunakan bersertifikasi dan memiliki standar keamanan 4 kali lebih baik daripada baja umum. Kekuatannya pun mampu menopang beban berat.
- Tahan rayap. Kami jamin kerangka atap dan kanopi baja ringan ini tahan terhadap serangan rayap.
+- Baja ringan lebih ramah lingkungan karena tidak memerlukan kayu, sehingga Anda turut berkontribusi dalam melestarikan alam.
+- Lebih ekonomis. Jika dibandingkan dengan kerangka kayu, biaya penggunaan baja ringan cenderung lebih rendah, terutama untuk komponen utama seperti kerangka. Ini penting untuk menekan biaya pembangunan.
+- Ringan dan kuat. Baja ringan berbeda dengan baja atau besi konvensional yang memiliki berat dua kali lipat. Baja ringan tipis dan ringan, tapi sangat kuat untuk menopang kerangka atap dan kanopi rumah Anda.
+- Bebas perawatan. Anda tidak perlu khawatir dengan kerusakan atau perawatan rutin, karena baja ringan dirancang untuk tahan lama.
+- Pemasangan cepat. Proses pemasangan baja ringan lebih cepat dibandingkan dengan material lain seperti kayu, menghemat waktu dan tenaga Anda.
+- Kualitas terjamin. Baja ringan yang kami gunakan bersertifikasi dan memiliki standar keamanan 4 kali lebih baik daripada baja umum. Kekuatannya pun mampu menopang beban berat.
+- Tahan rayap. Kami jamin kerangka atap dan kanopi baja ringan ini tahan terhadap serangan rayap.
 
 ## Sistem Hitung Luas Rangka Baja Ringan Di Munjul Jakarta
 
@@ -60,15 +60,15 @@ Mari kita bahas biaya layanan pasang baja ringan. Sebenarnya, banyak informasi d
 
 ### Parameter Besaran Biaya Jasa Pasang Baja Ringan
 
-### 1. Pembuatan Sketsa Desain
+#### 1. Pembuatan Sketsa Desain
 
 Harga juga akan dipengaruhi oleh desain atau sketsa yang akan dikerjakan oleh tim teknisi kami di lokasi Anda. Sketsa ini penting untuk menentukan jumlah baja ringan yang dibutuhkan, sehingga meminimalkan sisa material. Pembuatan sketsa juga termasuk dalam biaya pasang baja ringan dari layanan kami.
 
-### 2. Menghitung Kebutuhan Rangka
+#### 2. Menghitung Kebutuhan Rangka
 
 Setelah Anda memiliki sketsa pemasangan, langkah selanjutnya adalah menghitung kebutuhan rangka yang harus disiapkan. Hal ini membantu memperkirakan jumlah material baja ringan yang diperlukan. Anda dapat berkonsultasi dengan tim teknisi kami mengenai waktu dan kualitas setiap material, dan diskusikan secara menyeluruh untuk mendapatkan material yang sesuai dengan kebutuhan Anda.
 
-### 3. Menghitung Budget yang Dibutuhkan
+#### 3. Menghitung Budget yang Dibutuhkan
 
 Setelah pembuatan sketsa dan perhitungan rangka selesai, Anda dapat mendiskusikan survei harga untuk seluruh proses pemasangan baja ringan. Budget yang dibutuhkan akan tergantung pada beberapa faktor, seperti jumlah rangka, luas komponen kerangka, material tambahan, tenaga teknisi, dan pengiriman. Mintalah rincian harga jasa pasang baja ringan dari tim kami sebagai ilustrasi untuk menyiapkan budget Anda. Anda juga dapat memilih variasi baja ringan, mulai dari yang standar hingga yang berkualitas tinggi, dan konsultasikan secara matang dengan teknisi kami di lokasi anda.
 

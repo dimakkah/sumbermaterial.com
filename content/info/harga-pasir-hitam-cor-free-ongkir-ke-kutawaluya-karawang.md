@@ -25,7 +25,7 @@ Berdasarkan Standar Nasional Indonesia ( SK SNI - S - 04 - 1989 - F ; 28) di seb
 
 Syarat Pasir yang Baik buat Konstruksi
 
-1.  Agregat Halus harus terdiri dari butiran yg tajam dan keras dengan indeks kekerasan <2.2
+1.  Agregat Halus harus terdiri dari butiran yg tajam dan keras dengan indeks kekerasan <2.2
 2. bila diterapkan Natrium Sulfat bagian hancur maksimal 12 persen
 3. Bila dipakai Magnesium Sulfat bagian halus optimal 5 persen
 4. Tak boleh memuat lumpur lebih dari lima %
@@ -41,7 +41,6 @@ Syarat Pasir yang Baik buat Konstruksi
 sesudah tahu persis prasyarat pasir untuk sebuah Konstruksi Bangunan, saat ini kita bahas Tipe - Ragam Pasir Untuk Bangunan penjelasan nya sbb:
 
 - ### Pasir Untuk Pengecoran Di Kutawaluya Karawang
-    
 
 Pasir ini biasa nya berwarna keabu-abuan dan tingkat kekasaran butiran nya lumayan tinggi. Tapi kalau anda mengepal nya dengan tangan tidak akan menggumpal dan akan hancur kembali. model pasir ini betul-betul lah baik tuk Pengecoran, Plesteran Dinding, Adukan Pondasi dan Adukan Pasangan Bata Pasir ini yaitu pasir untuk Cor yakni butiran-butiran mineral keras dan tajam berukuran antara 0,075 – 5 mm, bila terdapat butiran berukuran lebih kecil dari 0,063 mm tak lebih dari 5% berat. Pasir ini yaitu pasir untuk Rigid kerap dipakai untuk profesi cor-coran struktur seperti kolom, balok dan pelat lantai.
 
@@ -59,21 +58,18 @@ Untuk mendapatkan kekuatan Cor yang maksimal maka pasir patut bisa memenuhi pras
 ![Harga Pasir Hitam Cor Free Ongkir Ke Kutawaluya Karawang](/images/info/pasir-hitam-1.jpg)
 
 - ### Pasir Untuk Adukan Pasang Batu, Pondasi, Bata, Ubin, Plester Di Kutawaluya Karawang
-    
 
 ![Harga Pasir Hitam Cor Free Ongkir Ke Kutawaluya Karawang](/images/info/pasir-hitam-11.jpg)
 
 Pasir ini ekstra halus lagi dibandingkan oleh pasir beton. bila kalian mengepal pasir ini maka akan menggumpal dan tidak akan buyar kembali. pasir pasang lazim nya di gunakan buat adukan pasir beton agar tidak kelewat kasar dan bisa di manfaatkan untuk plesteran dinding.
 
 - ### Pasir Elod Untuk pemadatan lantai Di Kutawaluya Karawang
-    
 
 Di Antara ke dua pasir diatas pasir ragam ini lebih halus lagi, kalau anda mengepal nya akan menggumpal dan tak akan buyar lagi. namun pasir ragam tak baik untuk di buat sebagai bahan bangunan. pasir model ini pada lazim nya di pergunakan untuk Bahan Pembuatan Batako
 
 Pada lazim nya pasir ini nyaris sama dengan pasir beton melainkan pasir ini mempunyai tingkat kekasaran yang tinggi, butiran - butiran nya cukup besar dan agak banyak batuan nya. pada biasanya pasir macam ini bagus tuk bahan dasaran pemasangan keramik
 
 - ### Pasir Putih Bebas Lumpur Untuk Pelester Di Kutawaluya Karawang
-    
 
 1. **Pasir Putih Bangka**
 

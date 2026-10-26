@@ -50,13 +50,13 @@ d. tidak bisa menjangkau lokasi yang sempit. Mengingat Besi WF ini berukuran pan
 
 ### Keunggulan Dari Besi WF Di Bukit Duri Jakarta
 
-1\. Bisa mengurangi waktu dalam pembangunan sebuah konstruksi bangunan, memaksimalkan waktu dan juga mengurangi ongkos dan tukang pasang.
+1. Bisa mengurangi waktu dalam pembangunan sebuah konstruksi bangunan, memaksimalkan waktu dan juga mengurangi ongkos dan tukang pasang.
 
-2\. Bisa menopang bobot yang betul-betul berat, tdk gampang memuai dan lebih simple pengaplikasiannya dibanding dengan material struktural lainnya.
+2. Bisa menopang bobot yang betul-betul berat, tdk gampang memuai dan lebih simple pengaplikasiannya dibanding dengan material struktural lainnya.
 
-3\. Mempunyai fleksibilitas yang tinggi. Sehingga struktur bangunan yang diwujudkan dari Besi WF ini menjadi lebih kuat tidak gampang bergeser, tidak mudah roboh maupun goyang. Sangat pantas untuk tipe bangunan diatas tanah yang labil atau kerap kali terjadi goncangan.
+3. Mempunyai fleksibilitas yang tinggi. Sehingga struktur bangunan yang diwujudkan dari Besi WF ini menjadi lebih kuat tidak gampang bergeser, tidak mudah roboh maupun goyang. Sangat pantas untuk tipe bangunan diatas tanah yang labil atau kerap kali terjadi goncangan.
 
-4\. Lebih hemat karena struktur bangunan yang memakai Besi WF akan memiliki kekokohan yang cukup lama malahan sampai ratusan tahun. Tentunya ini yaitu investasi yang sangat murah apabila kita bandingkan dengan waktu pakai. Malah bangunan yang dibangun dengan rangka Besi WF bisa kita wariskan terhadap si kecil cucu kita.
+4. Lebih hemat karena struktur bangunan yang memakai Besi WF akan memiliki kekokohan yang cukup lama malahan sampai ratusan tahun. Tentunya ini yaitu investasi yang sangat murah apabila kita bandingkan dengan waktu pakai. Malah bangunan yang dibangun dengan rangka Besi WF bisa kita wariskan terhadap si kecil cucu kita.
 
 ## Mengetahui Besi H Beam Di Bukit Duri Jakarta
 
@@ -72,15 +72,15 @@ Sama seperti besi yang kami jelaskan sebelumnya yakni Besi WF, besi H-Beam pun m
 
 ### Kelebihan Besi H Beam Di Bukit Duri Jakarta
 
-1\. Mudah untuk diperoleh. Banyak distributor besi yang menyediakan stok besi H-Beam beragam ukuran. Sehingga besi H-Beam ini amat gampang untuk diperoleh, tdk susah untuk menemukan distributor besi yang menjual besi H Beam.
+1. Mudah untuk diperoleh. Banyak distributor besi yang menyediakan stok besi H-Beam beragam ukuran. Sehingga besi H-Beam ini amat gampang untuk diperoleh, tdk susah untuk menemukan distributor besi yang menjual besi H Beam.
 
-2\. Gampang Dalam Pemasangan. Banyak tukang ahli dalam pemasangan besi H Beam. Walaupun besi H-Beam ini harus dipasang oleh tukang yang berpengalaman akan tetapi tukang yang ahli dalam memasang besi H Beam ini betul-betul banyak kita temui hari ini. Sehingga tdk perlu dikhawatirkan lagi progres pemasangannya.
+2. Gampang Dalam Pemasangan. Banyak tukang ahli dalam pemasangan besi H Beam. Walaupun besi H-Beam ini harus dipasang oleh tukang yang berpengalaman akan tetapi tukang yang ahli dalam memasang besi H Beam ini betul-betul banyak kita temui hari ini. Sehingga tdk perlu dikhawatirkan lagi progres pemasangannya.
 
-3\. Mempunyai kekuatan yang tidak diragukan lagi. Besi H Beam telah teruji selama bertahun-tahun dalam kontruksi bangunan. Baik skala kecil maupun skala besar dan terbilang sangat awet sekiranya dibandingkan dengan material lainnya. Bisa bertahan hingga puluhan sampai ratusan tahun.
+3. Mempunyai kekuatan yang tidak diragukan lagi. Besi H Beam telah teruji selama bertahun-tahun dalam kontruksi bangunan. Baik skala kecil maupun skala besar dan terbilang sangat awet sekiranya dibandingkan dengan material lainnya. Bisa bertahan hingga puluhan sampai ratusan tahun.
 
-4\. Gampang dalam pemeliharaannya. Bangunan yang mengaplikasikan besi H Beam sebagai struktur rangka bangunannya akan benar-benar mudah dalam menjalankan perawatannya. tdk perlu pengecatan dengan cat khusus maupun pembersihan setiap saat.
+4. Gampang dalam pemeliharaannya. Bangunan yang mengaplikasikan besi H Beam sebagai struktur rangka bangunannya akan benar-benar mudah dalam menjalankan perawatannya. tdk perlu pengecatan dengan cat khusus maupun pembersihan setiap saat.
 
-5\. Mengurangi penerapan material lainnya, seperti pengaplikasian bekisting, pemakaian tiang penyangga atau perancah dan juga material pasir. Besi H Beam Tdk memerlukan material pasir dalam penggunaannya.
+5. Mengurangi penerapan material lainnya, seperti pengaplikasian bekisting, pemakaian tiang penyangga atau perancah dan juga material pasir. Besi H Beam Tdk memerlukan material pasir dalam penggunaannya.
 
 ### Kekurangan Dari Besi H Beam Di Bukit Duri Jakarta
 

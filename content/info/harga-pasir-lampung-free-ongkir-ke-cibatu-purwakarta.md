@@ -25,7 +25,7 @@ berdasarkan Standar Nasional Indonesia ( SK SNI - S - 04 - 1989 - F ; 28) di tut
 
 Syarat-Syarat Pasir yg Bagus Untuk Bangunan
 
-1.  Agregat Halus mesti terdiri dari butiran yang tajam dan keras dengan indeks kekerasan <2.2
+1.  Agregat Halus mesti terdiri dari butiran yang tajam dan keras dengan indeks kekerasan <2.2
 2. Seandainya dimanfaatkan Natrium Sulfat komponen hancur maksimal 12 persen
 3. Apabila digunakan Magnesium Sulfat komponen halus optimal 10%
 4. Tak boleh memuat tanah lebih dari 5%
@@ -41,7 +41,6 @@ Syarat-Syarat Pasir yg Bagus Untuk Bangunan
 Sesudah mengetahui persyaratan pasir tuk sebuah Konstruksi Bangunan, saat ini kita bahas Macam - Tipe Pasir Untuk Konstruksi Bangunan penjelasan nya berikut ini:
 
 - ### Pasir Model Beton dan Daerah Pengambilannya Di Cibatu Purwakarta
-    
 
 Pasir ini biasa nya berwarna hitam kemerahan dan tingkat pecahan butiran nya lumayan tinggi. Namun jikalau anda mengepal nya dengan tangan tak akan menggumpal dan akan buyar kembali. macam pasir ini benar-benar lah bagus buat Pengecoran, Plesteran Dinding, Adukan Pondasi dan Adukan Pasangan Bata Pasir ini yaitu pasir untuk Rigid ialah butiran-butiran mineral keras dan tajam berukuran antara 0,075 – 5 mm, seandainya terdapat butiran berukuran lebih kecil dari 0,063 mm tak lebih dari 5% berat. Pasir ini yaitu pasir untuk Cor hampir kerap kali dipakai untuk pekerjaan cor-coran struktur seperti kolom, balok dan pelat lantai.
 
@@ -59,21 +58,18 @@ Untuk mendapatkan kekuatan Cor yang maksimal karenanya pasir mesti mampu memenuh
 ![Harga Pasir Lampung Free Ongkir Ke Cibatu Purwakarta](/images/info/pasir-hitam-2.jpg)
 
 - ### Pasir Biasa Di Cibatu Purwakarta
-    
 
 ![Harga Pasir Lampung Free Ongkir Ke Cibatu Purwakarta](/images/info/pasir-hitam-4.jpg)
 
 Pasir ini ekstra halus lagi dibandingi oleh pasir beton. sekiranya kamu mengepal pasir ini karenanya akan menggumpal dan tak akan hancur kembali. pasir pasang lazim nya di pakai buat campuran pasir beton supaya tak terlalu kasar dan dapat di gunakan untuk plesteran dinding.
 
 - ### Pasir Elod Untuk Dasaran Pemasangan Granit Di Cibatu Purwakarta
-    
 
 Di Antara ke dua pasir diatas pasir macam ini lebih halus lagi, jikalau anda mengepal nya maka akan menggumpal dan tidak akan hancur lagi. melainkan pasir tipe
 
 Pada lazim nya pasir ini nyaris sama dengan pasir beton tapi pasir ini memiliki tingkat kekasaran yang tinggi, butiran - butiran nya cukup besar dan agak banyak batuan nya. pada biasanya pasir tipe ini bagus tuk bahan Pembuatan Batako
 
 - ### Pasir Putih Halus Untuk Pasang Bata Di Cibatu Purwakarta
-    
 
 1. **Pasir Putih Bangka**
 

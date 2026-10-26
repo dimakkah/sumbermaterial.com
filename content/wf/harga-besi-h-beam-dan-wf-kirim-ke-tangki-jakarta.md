@@ -50,13 +50,13 @@ d. tdk bisa menjangkau lokasi yang sempit. Mengingat Besi WF ini berukuran panja
 
 ### Keunggulan Dari Besi WF Di Tangki Jakarta
 
-1\. Bisa menghemat waktu dalam pembangunan sebuah konstruksi bangunan, mengurangi waktu dan juga memaksimalkan ongkos dan tukang pasang.
+1. Bisa menghemat waktu dalam pembangunan sebuah konstruksi bangunan, mengurangi waktu dan juga memaksimalkan ongkos dan tukang pasang.
 
-2\. Dapat menopang bobot yang sungguh-sungguh berat, tdk mudah memuai dan lebih simple pengaplikasiannya dibanding dengan material struktural lainnya.
+2. Dapat menopang bobot yang sungguh-sungguh berat, tdk mudah memuai dan lebih simple pengaplikasiannya dibanding dengan material struktural lainnya.
 
-3\. Memiliki fleksibilitas yang tinggi. Sehingga struktur bangunan yang dijadikan dari Besi WF ini menjadi lebih kuat tdk mudah bergeser, tdk mudah ambrol maupun goyang. Sangat pantas untuk ragam bangunan diatas tanah yang labil atau sering terjadi longsor.
+3. Memiliki fleksibilitas yang tinggi. Sehingga struktur bangunan yang dijadikan dari Besi WF ini menjadi lebih kuat tdk mudah bergeser, tdk mudah ambrol maupun goyang. Sangat pantas untuk ragam bangunan diatas tanah yang labil atau sering terjadi longsor.
 
-4\. Lebih hemat karena struktur bangunan yang menggunakan Besi WF akan memiliki ketahanan yang cukup lama malah sampai ratusan tahun. Tentunya ini yaitu investasi yang sangat murah seandainya kita bandingkan dengan waktu gunakan. Malahan bangunan yang dibangun dengan rangka Besi WF bisa kita wariskan kepada buah hati cucu kita.
+4. Lebih hemat karena struktur bangunan yang menggunakan Besi WF akan memiliki ketahanan yang cukup lama malah sampai ratusan tahun. Tentunya ini yaitu investasi yang sangat murah seandainya kita bandingkan dengan waktu gunakan. Malahan bangunan yang dibangun dengan rangka Besi WF bisa kita wariskan kepada buah hati cucu kita.
 
 ## Mengetahui Besi H Beam Di Tangki Jakarta
 
@@ -72,15 +72,15 @@ Sama seperti besi yang kami paparkan sebelumnya adalah Besi WF, besi H-Beam mala
 
 ### Kelebihan Besi H Beam Di Tangki Jakarta
 
-1\. Gampang untuk didapat. Banyak supplier besi yang menyediakan stok besi H-Beam berbagai ukuran. Sehingga besi H-Beam ini betul-betul mudah untuk diperoleh, tidak sulit untuk mendapatkan toko besi yang menjual besi H Beam.
+1. Gampang untuk didapat. Banyak supplier besi yang menyediakan stok besi H-Beam berbagai ukuran. Sehingga besi H-Beam ini betul-betul mudah untuk diperoleh, tidak sulit untuk mendapatkan toko besi yang menjual besi H Beam.
 
-2\. Mudah Dalam Pemasangan. Banyak tukang ahli dalam pemasangan besi H Beam. Meskipun besi H-Beam ini harus dipasang oleh tukang yang ahli tapi tukang yang berpengalaman dalam memasang besi H Beam ini betul-betul banyak kita temui hari ini. Sehingga tdk perlu dikhawatirkan lagi progres pemasangannya.
+2. Mudah Dalam Pemasangan. Banyak tukang ahli dalam pemasangan besi H Beam. Meskipun besi H-Beam ini harus dipasang oleh tukang yang ahli tapi tukang yang berpengalaman dalam memasang besi H Beam ini betul-betul banyak kita temui hari ini. Sehingga tdk perlu dikhawatirkan lagi progres pemasangannya.
 
-3\. Mempunyai ketahanan yang tdk diragukan lagi. Besi H Beam telah teruji selama bertahun-tahun dalam kontruksi bangunan. Baik skala kecil ataupun skala besar dan terbilang sangat kuat kalau dibandingkan dengan material lainnya. Dapat bertahan sampai puluhan sampai ratusan tahun.
+3. Mempunyai ketahanan yang tdk diragukan lagi. Besi H Beam telah teruji selama bertahun-tahun dalam kontruksi bangunan. Baik skala kecil ataupun skala besar dan terbilang sangat kuat kalau dibandingkan dengan material lainnya. Dapat bertahan sampai puluhan sampai ratusan tahun.
 
-4\. Mudah dalam perawatannya. Bangunan yang mengaplikasikan besi H Beam sebagai struktur rangka bangunannya akan sangat mudah dalam melaksanakan perawatannya. tdk perlu pengecatan dengan cat khusus ataupun pembersihan tiap-tiap waktu.
+4. Mudah dalam perawatannya. Bangunan yang mengaplikasikan besi H Beam sebagai struktur rangka bangunannya akan sangat mudah dalam melaksanakan perawatannya. tdk perlu pengecatan dengan cat khusus ataupun pembersihan tiap-tiap waktu.
 
-5\. Mengurangi penggunaan material lainnya, seperti penerapan bekisting, pemakaian steger atau steger dan juga material pasir. Besi H Beam tidak memerlukan material pasir dalam penerapannya.
+5. Mengurangi penggunaan material lainnya, seperti penerapan bekisting, pemakaian steger atau steger dan juga material pasir. Besi H Beam tidak memerlukan material pasir dalam penerapannya.
 
 ### Kekurangan Dari Besi H Beam Di Tangki Jakarta
 

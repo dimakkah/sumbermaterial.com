@@ -50,13 +50,13 @@ d. tdk bisa menjangkau area yang sempit. Mengingat Besi WF ini berukuran panjang
 
 ### Keunggulan Dari Besi WF Di Cipinang Cempedak Jakarta
 
-1\. Bisa mengurangi waktu dalam pembangunan sebuah konstruksi bangunan, menghemat waktu dan juga mengurangi ongkos dan tenaga tukang.
+1. Bisa mengurangi waktu dalam pembangunan sebuah konstruksi bangunan, menghemat waktu dan juga mengurangi ongkos dan tenaga tukang.
 
-2\. Dapat menopang muatan yang amat berat, tidak gampang memuai dan lebih simple pemakaiannya dibanding dengan material struktural lainnya.
+2. Dapat menopang muatan yang amat berat, tidak gampang memuai dan lebih simple pemakaiannya dibanding dengan material struktural lainnya.
 
-3\. Mempunyai fleksibilitas yang tinggi. Sehingga struktur bangunan yang dijadikan dari Besi WF ini menjadi lebih kuat tdk mudah bergeser, tdk mudah ambruk maupun goyang. Sangat pantas untuk macam bangunan diatas tanah yang labil atau sering kali terjadi goncangan.
+3. Mempunyai fleksibilitas yang tinggi. Sehingga struktur bangunan yang dijadikan dari Besi WF ini menjadi lebih kuat tdk mudah bergeser, tdk mudah ambruk maupun goyang. Sangat pantas untuk macam bangunan diatas tanah yang labil atau sering kali terjadi goncangan.
 
-4\. Lebih hemat sebab struktur bangunan yang menggunakan Besi WF akan memiliki ketahanan yang cukup lama malah sampai ratusan tahun. Tentunya ini adalah investasi yang benar-benar murah apabila kita bandingkan dengan waktu gunakan. Bahkan bangunan yang dibangun dengan tulangan Besi WF dapat kita wariskan kepada anak cucu kita.
+4. Lebih hemat sebab struktur bangunan yang menggunakan Besi WF akan memiliki ketahanan yang cukup lama malah sampai ratusan tahun. Tentunya ini adalah investasi yang benar-benar murah apabila kita bandingkan dengan waktu gunakan. Bahkan bangunan yang dibangun dengan tulangan Besi WF dapat kita wariskan kepada anak cucu kita.
 
 ## Mengenal Besi H Beam Di Cipinang Cempedak Jakarta
 
@@ -72,15 +72,15 @@ Sama seperti besi yang kami terangkan sebelumnya ialah Besi WF, besi H-Beam mala
 
 ### Kelebihan Besi H Beam Di Cipinang Cempedak Jakarta
 
-1\. Mudah untuk didapatkan. Banyak distributor besi yang menyediakan stok besi H-Beam bermacam-macam ukuran. Sehingga besi H-Beam ini benar-benar mudah untuk diperoleh, tdk susah untuk menemukan toko besi yang menjual besi H Beam.
+1. Mudah untuk didapatkan. Banyak distributor besi yang menyediakan stok besi H-Beam bermacam-macam ukuran. Sehingga besi H-Beam ini benar-benar mudah untuk diperoleh, tdk susah untuk menemukan toko besi yang menjual besi H Beam.
 
-2\. Gampang Dalam Pemasangan. Banyak tukang pakar dalam pemasangan besi H Beam. Meskipun besi H-Beam ini wajib dipasang oleh tukang yang profesional akan tetapi tukang yang ahli dalam memasang besi H Beam ini betul-betul banyak kita temui hari ini. Sehingga tidak perlu dikhawatirkan lagi proses pemasangannya.
+2. Gampang Dalam Pemasangan. Banyak tukang pakar dalam pemasangan besi H Beam. Meskipun besi H-Beam ini wajib dipasang oleh tukang yang profesional akan tetapi tukang yang ahli dalam memasang besi H Beam ini betul-betul banyak kita temui hari ini. Sehingga tidak perlu dikhawatirkan lagi proses pemasangannya.
 
-3\. Memiliki kekuatan yang tdk diragukan lagi. Besi H Beam sudah teruji selama bertahun-tahun dalam kontruksi bangunan. Apakah skala kecil maupun skala besar dan terbilang benar-benar awet jika dibandingkan dengan material lainnya. Dapat bertahan hingga puluhan hingga ratusan tahun.
+3. Memiliki kekuatan yang tdk diragukan lagi. Besi H Beam sudah teruji selama bertahun-tahun dalam kontruksi bangunan. Apakah skala kecil maupun skala besar dan terbilang benar-benar awet jika dibandingkan dengan material lainnya. Dapat bertahan hingga puluhan hingga ratusan tahun.
 
-4\. Gampang dalam perawatannya. Bangunan yang menerapkan besi H Beam sebagai struktur rangka bangunannya akan sangat mudah dalam mengerjakan pemeliharaannya. tdk perlu pengecatan dengan cat khusus ataupun pembersihan tiap saat.
+4. Gampang dalam perawatannya. Bangunan yang menerapkan besi H Beam sebagai struktur rangka bangunannya akan sangat mudah dalam mengerjakan pemeliharaannya. tdk perlu pengecatan dengan cat khusus ataupun pembersihan tiap saat.
 
-5\. Menghemat pengaplikasian material lainnya, seperti penggunaan bekisting, pemakaian tiang penyangga atau perancah dan juga material pasir. Besi H Beam Tdk membutuhkan material pasir dalam penerapannya.
+5. Menghemat pengaplikasian material lainnya, seperti penggunaan bekisting, pemakaian tiang penyangga atau perancah dan juga material pasir. Besi H Beam Tdk membutuhkan material pasir dalam penerapannya.
 
 ### Kekurangan Dari Besi H Beam Di Cipinang Cempedak Jakarta
 

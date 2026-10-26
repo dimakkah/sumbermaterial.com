@@ -25,7 +25,7 @@ Menurut Standar Nasional Indonesia ( SK SNI - S - 04 - 1989 - F ; 28) di sebutka
 
 Persyaratan Pasir yg Bagus tuk Konstruksi
 
-1.  Agregat Halus semestinya terdiri dari butiran yg tajam dan keras dengan indeks kekerasan <2.2
+1.  Agregat Halus semestinya terdiri dari butiran yg tajam dan keras dengan indeks kekerasan <2.2
 2. bilamana diaplikasikan Natrium Sulfat komponen hancur optimal 12%
 3. apabila digunakan Magnesium Sulfat komponen halus maksimal 5 persen
 4. Tak boleh berisi clay lebih dari 5 persen
@@ -41,7 +41,6 @@ Persyaratan Pasir yg Bagus tuk Konstruksi
 Sesudah memahami syarat pasir buat suatu Konstruksi, pada saat ini kita bahas model - model Pasir Untuk Konstruksi penjelasan nya sebagai berikut:
 
 - ### Pasir Cor Di Roa Malaka Jakarta
-    
 
 Pasir ini umum nya berwarna keabu-abuan dan tingkat kekasaran butiran nya lumayan tinggi. Melainkan seandainya anda mengepal nya dengan tangan tidak akan lengket dan akan buyar kembali. jenis pasir ini betul-betul lah bagus tuk Pengecoran, Plesteran Dinding, Adukan Pondasi dan Adukan Pasangan Bata Pasir ini yaitu pasir untuk Cor yakni butiran-butiran mineral keras dan tajam berukuran antara 0,075 – 5 mm, jika terdapat butiran berukuran lebih kecil dari 0,063 mm tak lebih dari 5% berat. Pasir ini yaitu pasir untuk Beton sering dimanfaatkan untuk pekerjaan cor-coran struktur seperti kolom, balok dan pelat lantai.
 
@@ -52,9 +51,9 @@ Harga Pasir Lampung Free Ongkir Ke Roa Malaka Jakarta Sekiranya anda sebagai kon
 Pasir kelas satu asal kp. jebrod cianjur jawa barat yang dipakai oleh indocement serta perusahaan batching plant lainnya sebagai bahan dasar produksi readymix concrete. Pasir ini paling dianjurkan untuk cor sebab irit semen juga mempunyai kandungan lumpur yang betul-betul rendah dibawah delapan %. warnanya Hitam abu tua atau hitam seperti hitamnya batu kali, ada juga yang hitam kemerahan atau hitam terasi
 
 3. **Pasir Hitam Cor Cimangkok.** Pasir asli Daerah penambangannya di cimangkok sukabumi jawa barat yang masih masuk terhadap klasifikasi pasir hitam paling unggul di jawa barat, warnanya hitam kecoklatan layak untuk cor, pasang pondasi dan bata
-    
+
     ![Harga Pasir Lampung Free Ongkir Ke Roa Malaka Jakarta](/images/info/pasir-hitam-7.jpg)
-    
+
 4. **Pasir Hitam Beton Cimalaka Subang Bandung.**
 
 Pasir kelas satu yang berwarna hitam kebauan ada juga yang berwarna hitam abu tua. Banyak di gunakan untuk Rigid, pasang dan keperluan lainnya. Ditambang di Desa cimalaka
@@ -90,9 +89,9 @@ Kecuali Rangkasbitung, Banten juga mempunyai lokasi pnembangan pasir lain sepert
 Masih dari kawasan di banten, pasir kelas tiga ini ialah pasir yang banyak diaplikasikan di proyek proyek perumahan atau cluster sebab harganya yang murah juga mutu yang baik. Warna pasir ini hitam kecoklatan dan keabuan betul-betul dianjurkan untuk pasang pondasi, bata, batu dsb
 
 27. **Pasir Hitam Cor Bohlam Sukabumi.** Pasir dari Lokasi kp. bohlam di sukabumi berwarna hitam kecoklatan, sungguh-sungguh bagus untuk pasang bata, pondasi dan lain-lain sebagai pilihan pasir kwalitas tidak diragukan dan ekonomis
-    
+
     ![Harga Pasir Lampung Free Ongkir Ke Roa Malaka Jakarta](/images/info/pasir-hitam-5.jpg)
-    
+
 28. **Pasir Cor Galunggung.**
 
 Pasir ini yakni pasir hitam kwalitas paling unggul dikelasnya awam diaplikasikan oleh pabrik pengolahan beton readymix juga perusahan pembuatan precast dan tak jarang juga diterapkan untuk bahan pembuatan batako press hitam, paving block dan sebagainya. Pasir ini ditambang dari Tasikmalaya jawa barat.
@@ -100,21 +99,18 @@ Pasir ini yakni pasir hitam kwalitas paling unggul dikelasnya awam diaplikasikan
 ![Harga Pasir Lampung Free Ongkir Ke Roa Malaka Jakarta](/images/info/pasir-hitam-8.jpg)
 
 - ### Pasir Untuk Adukan Pasang Batu, Pondasi, Bata, Ubin, Plester Di Roa Malaka Jakarta
-    
 
 ![Harga Pasir Lampung Free Ongkir Ke Roa Malaka Jakarta](/images/info/jual-pasir-mundu.jpg)
 
 Pasir ini lebih halus lagi diperbandingkan oleh pasir beton. kalau anda mengepal pasir ini maka akan menggumpal dan tidak akan hancur kembali. pasir pasang biasa nya di gunakan tuk adukan pasir beton agar tak terlalu kasar dan dapat di gunakan untuk plesteran dinding.
 
 - ### Pasir Urug Untuk Pembuatan Batako Di Roa Malaka Jakarta
-    
 
 Di Antara ke dua pasir diatas pasir jenis ini lebih halus lagi, jika anda mengepal nya karenanya akan menggumpal dan tidak akan buyar lagi. tetapi pasir tipe
 
 Pada umum nya pasir ini nyaris sama dengan pasir beton akan namun pasir ini mempunyai tingkat kekasaran yang tinggi, butiran - butiran nya cukup besar dan agak banyak batuan nya. pada lazimnya pasir ragam ini bagus tuk bahan pengurugan lantai
 
 - ### Pasir Putih Tanpa Batu Untuk Taman Bermain Di Roa Malaka Jakarta
-    
 
 1. **Pasir Putih Bangka**
 

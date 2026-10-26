@@ -25,7 +25,7 @@ Berdasarkan Standar Nasional Indonesia ( SK SNI - S - 04 - 1989 - F ; 28) di seb
 
 Prasyarat Pasir yg Bagus tuk Konstruksi Bangunan
 
-1.  Agregat Halus seharusnya terdiri dari butiran yg tajam dan keras dengan indeks kekerasan <2.2
+1.  Agregat Halus seharusnya terdiri dari butiran yg tajam dan keras dengan indeks kekerasan <2.2
 2. Kalau diaplikasikan Natrium Sulfat bagian hancur maksimal 12 persen
 3. jika diaplikasikan Magnesium Sulfat bagian halus maksimal 5 persen
 4. Tidak boleh memuat lumpur lebih dari 5 persen
@@ -41,7 +41,6 @@ Prasyarat Pasir yg Bagus tuk Konstruksi Bangunan
 setelah tahu persis syarat pasir tuk suatu Konstruksi Bangunan, saat ini kita bahas Ragam - Macam Pasir Untuk Konstruksi Bangunan penjelasan nya berikut ini:
 
 - ### Pasir Untuk Beton Di Gunung Sahari Selatan Jakarta
-    
 
 Pasir ini lazim nya berwarna hitam kemerahan dan tingkat kekasaran butiran nya cukup tinggi. Tetapi bila anda mengepal nya dengan tangan tidak akan menggumpal dan akan buyar kembali. macam pasir ini sangat lah baik untuk Pengecoran, Plesteran Dinding, Adukan Pondasi dan Adukan Pasangan Bata Pasir ini yaitu pasir untuk Cor yakni butiran-butiran mineral keras dan tajam berukuran antara 0,075 – 5 mm, sekiranya terdapat butiran berukuran lebih kecil dari 0,063 mm tidak lebih dari 5% berat. Pasir ini yaitu pasir untuk Cor kerap kali diterapkan untuk profesi cor-coran struktur seperti kolom, balok dan pelat lantai.
 
@@ -52,9 +51,9 @@ Harga Pasir Putih Bangka Free Ongkir Ke Gunung Sahari Selatan Jakarta Jikalau an
 Pasir kelas satu diambil dari kp. jebrod cianjur jawa barat yang dipakai oleh indocement serta perusahaan batching plant lainnya sebagai bahan dasar produksi readymix concrete. Pasir ini paling disarankan untuk cor sebab irit semen juga mempunyai kandungan lumpur yang betul-betul rendah dibawah 8%. warnanya Hitam abu tua atau hitam seperti hitamnya batu kali, ada juga yang hitam kemerahan atau hitam terasi
 
 3. **Pasir Hitam Cor Cimangkok.** Pasir dari Daerah penambangannya di cimangkok sukabumi jawa barat yang masih masuk terhadap golongan pasir hitam terbaik di jabar, warnanya hitam kecoklatan pantas untuk cor, pasang pondasi dan bata
-    
+
     ![Harga Pasir Putih Bangka Free Ongkir Ke Gunung Sahari Selatan Jakarta](/images/info/pasir-hitam-8.jpg)
-    
+
 4. **Pasir Hitam Beton Cimalaka Subang Bandung.**
 
 Pasir paling unggul yang berwarna hitam kebauan ada juga yang berwarna hitam abu tua. Banyak di gunakan untuk Beton, pasang dan keperluan lainnya. Ditambang di Desa cimalaka
@@ -90,9 +89,9 @@ Kecuali Rangkasbitung, Banten juga mempunyai lokasi pnembangan pasir lain sepert
 Masih dari kawasan di banten, pasir kelas tiga ini yaitu pasir yang banyak digunakan di proyek proyek perumahan atau cluster sebab harganya yang murah juga mutu yang tidak diragukan. Warna pasir ini hitam kecoklatan dan keabuan betul-betul disarankan untuk pasang pondasi, bata, batu dan lainnya
 
 27. **Pasir Hitam Rigid Bohlam Sukabumi.** Pasir dari Daerah kp. bohlam di sukabumi berwarna hitam kecoklatan, amat bagus untuk pasang bata, pondasi dan lain-lain sebagai opsi pasir mutu baik dan tidak mahal
-    
+
     ![Harga Pasir Putih Bangka Free Ongkir Ke Gunung Sahari Selatan Jakarta](/images/info/jual-pasir-cor-hitam.jpg)
-    
+
 28. **Pasir Beton Galunggung.**
 
 Pasir ini yaitu pasir hitam kwalitas paling unggul dikelasnya awam digunakan oleh pabrik pengolahan beton readymix juga perusahan pembuatan precast dan kerap kali juga digunakan untuk bahan pembuatan batako press hitam, paving block dan sebagainya. Pasir ini ditambang dari Tasikmalaya jawa barat.
@@ -100,21 +99,18 @@ Pasir ini yaitu pasir hitam kwalitas paling unggul dikelasnya awam digunakan ole
 ![Harga Pasir Putih Bangka Free Ongkir Ke Gunung Sahari Selatan Jakarta](/images/info/pasir-hitam-5.jpg)
 
 - ### Pasir Untuk Adukan Pasang Batu, Pondasi, Bata, Ubin, Plester Di Gunung Sahari Selatan Jakarta
-    
 
 ![Harga Pasir Putih Bangka Free Ongkir Ke Gunung Sahari Selatan Jakarta](/images/info/jual-pasir-mundu.jpg)
 
 Pasir ini ekstra halus lagi dibandingi oleh pasir beton. jika kamu mengepal pasir ini maka akan menggumpal dan tak akan buyar kembali. pasir pasang biasa nya di manfaatkan buat adukan pasir beton agar tidak terlalu kasar dan bisa di pakai untuk plesteran dinding.
 
 - ### Pasir Urug Untuk Pembuatan Batako Di Gunung Sahari Selatan Jakarta
-    
 
 Di Antara ke dua pasir diatas pasir model ini lebih halus lagi, bila anda mengepal nya akan menggumpal dan tak akan hancur lagi. melainkan pasir jenis
 
 Pada umum nya pasir ini nyaris sama dengan pasir beton melainkan pasir ini memiliki tingkat kekasaran yg tinggi, butiran - butiran nya cukup besar dan agak banyak batuan nya. pada umumnya pasir model ini baik tuk bahan pemadatan lantai
 
 - ### Pasir Putih Halus Untuk Pasang Bata Di Gunung Sahari Selatan Jakarta
-    
 
 1. **Pasir Putih Bangka**
 

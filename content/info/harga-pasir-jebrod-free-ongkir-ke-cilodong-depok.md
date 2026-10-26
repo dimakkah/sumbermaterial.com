@@ -25,7 +25,7 @@ berdasarkan Standar Nasional Indonesia ( SK SNI - S - 04 - 1989 - F ; 28) di tut
 
 Persyaratan Pasir yg Bagus tuk Konstruksi Bangunan
 
-1.  Agregat Halus harus terdiri dari butiran yg tajam dan keras dengan indeks kekerasan <2.2
+1.  Agregat Halus harus terdiri dari butiran yg tajam dan keras dengan indeks kekerasan <2.2
 2. bilamana dimanfaatkan Natrium Sulfat bagian hancur maksimal 12 persen
 3. Jika digunakan Magnesium Sulfat bagian halus optimal 10%
 4. Tak boleh berisi tanah lebih dari 5%
@@ -41,7 +41,6 @@ Persyaratan Pasir yg Bagus tuk Konstruksi Bangunan
 Sesudah memahami syarat pasir untuk suatu Konstruksi Bangunan, pada saat ini kita bahas model - Macam Pasir Untuk Konstruksi penjelasan nya sebagai berikut:
 
 - ### Pasir Rigid Di Cilodong Depok
-    
 
 Pasir ini umum nya berwarna hitam pekat dan tingkat pecahan butiran nya lumayan tinggi. Namun seandainya anda mengepal nya dengan tangan tidak akan lengket dan akan hancur kembali. macam pasir ini betul-betul lah baik tuk Pengecoran, Plesteran Dinding, Adukan Pondasi dan Adukan Pasangan Bata Pasir ini yaitu pasir untuk Beton adalah butiran-butiran mineral keras dan tajam berukuran antara 0,075 – 5 mm, bila terdapat butiran berukuran lebih kecil dari 0,063 mm tak lebih dari 5% berat. Pasir ini yaitu pasir untuk Rigid hampir sering kali dimanfaatkan untuk pekerjaan cor-coran struktur seperti kolom, balok dan pelat lantai.
 
@@ -59,21 +58,18 @@ Untuk menerima kekokohan Beton yang maksimal karenanya pasir semestinya bisa mem
 ![Harga Pasir Jebrod Free Ongkir Ke Cilodong Depok](/images/info/pasir-hitam-1.jpg)
 
 - ### Pasir Untuk Pasang Batu, Pondasi, Bata, Ubin, Plester Di Cilodong Depok
-    
 
 ![Harga Pasir Jebrod Free Ongkir Ke Cilodong Depok](/images/info/pasir-hitam-4.jpg)
 
 Pasir ini ekstra halus lagi diperbandingkan oleh pasir beton. seandainya kamu mengepal pasir ini karenanya akan menggumpal dan tidak akan buyar kembali. pasir pasang biasa nya di manfaatkan untuk adukan pasir beton supaya tidak kelewat kasar dan dapat di gunakan untuk plesteran dinding.
 
 - ### Pasir Kualitas rendah Untuk Dasaran Pemasangan Granit Di Cilodong Depok
-    
 
 Di Antara ke dua pasir diatas pasir model ini lebih halus lagi, kalau kamu mengepal nya maka akan menggumpal dan tak akan buyar lagi. tapi pasir ragam tak baik tuk di buat sebagai bahan bangunan. pasir model ini pada nya di pergunakan untuk Bahan Pembuatan Batako
 
 Pada umum nya pasir ini nyaris sama dengan pasir beton namun pasir ini mempunyai tingkat kekasaran yg tinggi, butiran - butiran nya lumayan besar dan agak banyak batuan nya. pada biasanya pasir jenis ini baik untuk bahan pengurugan lantai
 
 - ### Pasir Putih Kadar Lumpur Rendah Untuk Pasang Bata Di Cilodong Depok
-    
 
 1. **Pasir Putih Bangka**
 

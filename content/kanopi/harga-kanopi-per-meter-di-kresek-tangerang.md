@@ -18,25 +18,25 @@ description: "Harga Kanopi Per Meter Di Kresek Tangerang. Demikian isu dari kami
 
 Dibawah ini yaitu beberapa info mengenai biaya dan ragam Kanopi besi minimalis yg paling biasa di pakai banyak perumahan, anda dapat melihat daftarnya dibawah ini.
 
-### 1\. Canopy Besi atap Galvalum
+### 1. Canopy Besi atap Galvalum
 
 Yakni material dasar yg mempunyai bahan utama terdiri dari zinc dan aluminium dengan bahan dasar besi. Secara fisiknya, ini jelas kuat sekali karena galvalum ialah salah satu kerangka struktural yg cocok untuk rangka Kanopi yang kuat dan juga kokoh. Kelebihannya ( Anti rayap, pemasangan kencang, rapi, biaya cukup murah, tahan api, ringan dan kuat ).
 
 Harga Kanopi besi minimalis atap Galvalum Rp. 500.000 / meter
 
-### 2\. Kanopi besi atap Spandek
+### 2. Kanopi besi atap Spandek
 
 Pengunaan material spandek utk sebagian tahun terakhir memang seperti itu familiar, banyak pengembang perum memakai jenis atap ini sebagai opsi Canopy sebab sesuai sekali untuk menggantikan genteng. Selain itu juga, bahan dari spandek ini benar-benar praktis karena mirip seperti genteng yang pantas untuk konstruksi perumahan, campuran utama dari spandek yaitu seng dan alumunium. Kadar almunium sekitar 55% dan 43% yakni kadar sengnya. Kelebihannya ( Awet dan bendung lama, anti pecah, tahan api, kuat, ringan, mudah sekali untuk digunakan, biaya murah dan mudah didapatkan )
 
 Harga Kanopi besi minimalis atap spandek Rp. 500.000 / meter persegi
 
-### 3\. Canopy besi atap Gogreen
+### 3. Canopy besi atap Gogreen
 
 Selanjutnya harga dari Canopy besi dg atap gogreen ini yaitu salah satu penemuan kreatif penutup yg diperoleh dari formula baja ringan. Materi kimia ini mewujudkan suatu penutup yg cukup ramah lingkungan karena tidak mengandung banyak fiber berbisa, berbeda dengan seng dan juga asbes. Kelebihannya cukup banyak ( Awat dan bendung lama, memiliki anti UV, gampang sekali utk di pasang, murah, ringan dan juga kuat )
 
 Harga Kanopi Besi Minimalis atap Gogreen Rp. 460.000 / m2
 
-### 4\. Kanopi Besi atap Polycarbonate
+### 4. Kanopi Besi atap Polycarbonate
 
 Bahan yang umum digunakan di bangunan besar ini memang banyak diaplikasikan atap. Polycarbonate adalah bahan penutup pada atap Canopy yang gampang sekali dipakai sebab formatnya yg fleksible dan bisa disesuaikan dg kebutuhan. Sampel yakni penggunaan pada sheter bis, skylight, garasi rumah, Kanopi outdoor dan masih banyak lagi lainnya. Keunggulan ( Tak gampang bocor, mudah didapat, bebas rayap, kesan modern, banyak warna opsi, pemasangan yang mudah, tahan lama, kapabel meredam panas, dicetak dalam wujud lembaran ).
 
@@ -62,31 +62,31 @@ Dibawah ini merupakan alasan anda mengapa wajib memilih kami
 
 Adapun Keunggulan jasa yang kami tawarkan terhadap anda yakni sebagai berikut.
 
-### 1\. Pemasangan di area segera
+### 1. Pemasangan di area segera
 
 Kami akan langsung memasang Kanopi di rumah atau bangunan milik anda, tidak ada pemasangan di area kami sebab terang itu akan merepotkan pada progres pengiriman. Kami akan menjalankan pemasangan seketika di rumah anda sesuai dg waktu yang telah disepakati bersama antara anda dengan tim teknisi kami. Tidak perlu anda menjemput kerangka Canopy, biarlah tim kami yg menuju ke lokasi anda.
 
-### 2\. Survei area dan pembuatan Sampel dari Canopy
+### 2. Survei area dan pembuatan Sampel dari Canopy
 
 Sesudah anda whatsapp kami dan menjalankan pemesanan, kami akan datang ke rumah anda utk mengerjakan Survei daerah secara khusus dahulu. Hal ini cukup penting karena kami semestinya tahu, modal Design dan luas x panjang halaman tempat Canopy ini nanti di pasang. Anda juga dapat memilih beberapa Sampel yang kami tawarkan, tim teknisi kami telah amat profesional dalam hal ini. Tinggal tanyakan mana Design / Contoh yang palin sesuai agar akhirnya serasi dengan rumah anda.
 
-### 3\. Design dari kami atau anda sendiri
+### 3. Design dari kami atau anda sendiri
 
 Kami memberikan kebebasan kepada setiap pelanggan untuk memberikan Design atau konsep dari Canopy yg di inginkan, disamping itu juga kami memberikan perbandingan design yg sudah kami miliki sebagai ilustrasi untuk pelanggan. Bilamana anda pantas, karenanya dapat lanjutkan ke cara kerja selanjutnya.
 
-### 4\. Penawaran biaya
+### 4. Penawaran biaya
 
 Sesudah ada kesepakan, kami akan menawarkan harga pembuatan beserta pemasangannya seketika di rumah anda. Anda dapat mengerjakan negoisasi harga untuk mendapatkan biaya deal. Kami pastikan untuk memberikan penawaran yg terbaik.
 
-### 5\. Setting dan mendata bahan Kanopi
+### 5. Setting dan mendata bahan Kanopi
 
 Bilamana kesepakatan biaya sudah jadi, regu kami akan mendata beberapa settingan penting yang diperkukan dalam pembuatan Kanopi, kecuali itu juga kami akan mendata beberapa bahan penting yg perlu disiapkan. Ini dilaksanakan supaya tidak ada bahan sisa sehingga dapat menekan harga pembelian.
 
-### 6\. Perakitan Kanopi
+### 6. Perakitan Kanopi
 
 Kerja perakitan Canopy ini akan kami lakukan di area kami sendiri karena memerlukan banyak perlengkapan, cuma saja perakitan ini “ setengah jadi “, perakitan full akan kami lakukan saat telah sampai di lokasi anda.
 
-### 7\. Finishing
+### 7. Finishing
 
 Kami juga akan menjalankan proses pemasangan seketika dirumah anda dan memecahkannya hingga benar-benar berfungsi.
 

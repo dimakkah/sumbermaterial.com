@@ -25,7 +25,7 @@ Menurut Standar Nasional Indonesia ( SK SNI - S - 04 - 1989 - F ; 28) di tuturka
 
 Syarat Pasir yg Baik Untuk Bangunan
 
-1.  Agregat Halus harus terdiri dari butiran yg tajam dan keras dengan indeks kekerasan <2.2
+1.  Agregat Halus harus terdiri dari butiran yg tajam dan keras dengan indeks kekerasan <2.2
 2. kalau dipakai Natrium Sulfat komponen hancur optimal 12%
 3. Apabila diaplikasikan Magnesium Sulfat komponen halus optimal sepuluh %
 4. Tidak boleh berisi tanah lebih dari 5 persen
@@ -41,7 +41,6 @@ Syarat Pasir yg Baik Untuk Bangunan
 sesudah tahu persis syarat pasir tuk suatu Konstruksi Bangunan, sekarang ini kita bahas Jenis - Macam Pasir Untuk Konstruksi penjelasan nya sbb:
 
 - ### Pasir untuk Cor Rigid Di Sukasari Bogor
-    
 
 Pasir ini lazim nya berwarna hitam pekat dan tingkat kekerasan butiran nya cukup tinggi. Melainkan seandainya anda mengepal nya dengan tangan tak akan menggumpal dan akan buyar kembali. ragam pasir ini betul-betul lah bagus tuk Pengecoran, Plesteran Dinding, Adukan Pondasi dan Adukan Pasangan Bata Pasir ini yaitu pasir untuk Cor merupakan butiran-butiran mineral keras dan tajam berukuran antara 0,075 – 5 mm, sekiranya terdapat butiran berukuran lebih kecil dari 0,063 mm tidak lebih dari 5% berat. Pasir ini yaitu pasir untuk Rigid hampir tak jarang diaplikasikan untuk pekerjaan cor-coran struktur seperti kolom, balok dan pelat lantai.
 
@@ -59,21 +58,18 @@ Untuk menerima kekokohan Cor yang maksimal karenanya pasir sepatutnya dapat meme
 ![Harga Pasir Cimangkok Free Ongkir Ke Sukasari Bogor](/images/info/pasir-hitam-5.jpg)
 
 - ### Pasir Untuk Pemasangan Batu, Pondasi, Bata, Ubin, Plester Di Sukasari Bogor
-    
 
 ![Harga Pasir Cimangkok Free Ongkir Ke Sukasari Bogor](/images/info/pasir-putih12.jpg)
 
 Pasir ini lebih halus lagi diperbandingkan oleh pasir beton. jika kamu mengepal pasir ini maka akan menggumpal dan tak akan buyar kembali. pasir pasang umum nya di pakai buat campuran pasir beton supaya tak terlampau kasar dan bisa di gunakan untuk plesteran dinding.
 
 - ### Pasir Kualitas rendah Untuk Dasaran Pemasangan Marmer Di Sukasari Bogor
-    
 
 Di Antara ke dua pasir diatas pasir macam ini lebih halus lagi, jikalau kalian mengepal nya karenanya akan menggumpal dan tak akan hancur lagi. melainkan pasir ragam tak bagus tuk di buat sebagai bahan bangunan. pasir ragam ini pada lazim nya di manfaatkan tuk Bahan Pembuatan Batako
 
 Pada umum nya pasir ini nyaris sama dgn pasir beton tetapi pasir ini mempunyai tingkat kekasaran yg tinggi, butiran - butiran nya cukup besar dan agak banyak batuan nya. pada biasanya pasir model ini baik tuk bahan pemadatan lantai
 
 - ### Pasir Putih Tanpa Batu Untuk Pasang Keramik Di Sukasari Bogor
-    
 
 1. **Pasir Putih Bangka**
 

@@ -50,13 +50,13 @@ d. tidak bisa menjangkau lokasi yang sempit. Mengingat Besi WF ini berukuran pan
 
 ### Keunggulan Dari Besi WF Di Sunter Jaya Jakarta
 
-1\. Dapat menghemat waktu dalam pembangunan sebuah konstruksi bangunan, mengurangi waktu dan juga menghemat ongkos dan tukang pasang.
+1. Dapat menghemat waktu dalam pembangunan sebuah konstruksi bangunan, mengurangi waktu dan juga menghemat ongkos dan tukang pasang.
 
-2\. Dapat menyangga beban yang benar-benar berat, tdk gampang memuai dan lebih simple pengaplikasiannya dibanding dengan material struktural lainnya.
+2. Dapat menyangga beban yang benar-benar berat, tdk gampang memuai dan lebih simple pengaplikasiannya dibanding dengan material struktural lainnya.
 
-3\. Memiliki fleksibilitas yang tinggi. Sehingga struktur bangunan yang dibuat dari Besi WF ini menjadi lebih kuat tidak mudah bergeser, tdk gampang ambruk ataupun goyang. Sangat sesuai untuk tipe bangunan diatas tanah yang labil atau kerap kali terjadi longsor.
+3. Memiliki fleksibilitas yang tinggi. Sehingga struktur bangunan yang dibuat dari Besi WF ini menjadi lebih kuat tidak mudah bergeser, tdk gampang ambruk ataupun goyang. Sangat sesuai untuk tipe bangunan diatas tanah yang labil atau kerap kali terjadi longsor.
 
-4\. Lebih hemat karena struktur bangunan yang memakai Besi WF akan memiliki ketahanan yang cukup lama malahan hingga ratusan tahun. Tentunya ini yakni investasi yang betul-betul murah seandainya kita bandingkan dengan waktu pakai. Bahkan bangunan yang dibangun dengan tulangan Besi WF dapat kita wariskan kepada anak cucu kita.
+4. Lebih hemat karena struktur bangunan yang memakai Besi WF akan memiliki ketahanan yang cukup lama malahan hingga ratusan tahun. Tentunya ini yakni investasi yang betul-betul murah seandainya kita bandingkan dengan waktu pakai. Bahkan bangunan yang dibangun dengan tulangan Besi WF dapat kita wariskan kepada anak cucu kita.
 
 ## Mengetahui Besi H Beam Di Sunter Jaya Jakarta
 
@@ -72,15 +72,15 @@ Sama seperti besi yang kami terangkan sebelumnya adalah Besi WF, besi H-Beam pun
 
 ### Kelebihan Besi H Beam Di Sunter Jaya Jakarta
 
-1\. Mudah untuk didapatkan. Banyak distributor besi yang menyediakan stok besi H-Beam bermacam jenis ukuran. Sehingga besi H-Beam ini amat mudah untuk didapat, tidak susah untuk menemukan distributor besi yang menjual besi H Beam.
+1. Mudah untuk didapatkan. Banyak distributor besi yang menyediakan stok besi H-Beam bermacam jenis ukuran. Sehingga besi H-Beam ini amat mudah untuk didapat, tidak susah untuk menemukan distributor besi yang menjual besi H Beam.
 
-2\. Gampang Dalam Pemasangan. Banyak tukang ahli dalam pemasangan besi H Beam. Walaupun besi H-Beam ini semestinya dipasang oleh tukang yang berpengalaman tapi tukang yang profesional dalam memasang besi H Beam ini sungguh-sungguh banyak kita temui hari ini. Sehingga tdk perlu dikhawatirkan lagi proses pemasangannya.
+2. Gampang Dalam Pemasangan. Banyak tukang ahli dalam pemasangan besi H Beam. Walaupun besi H-Beam ini semestinya dipasang oleh tukang yang berpengalaman tapi tukang yang profesional dalam memasang besi H Beam ini sungguh-sungguh banyak kita temui hari ini. Sehingga tdk perlu dikhawatirkan lagi proses pemasangannya.
 
-3\. Mempunyai daya tahan yang tidak diragukan lagi. Besi H Beam telah teruji selama bertahun-tahun dalam kontruksi bangunan. Baik skala kecil ataupun skala besar dan terbilang amat tahan lama kalau dibandingi dengan material lainnya. Dapat bertahan sampai puluhan sampai ratusan tahun.
+3. Mempunyai daya tahan yang tidak diragukan lagi. Besi H Beam telah teruji selama bertahun-tahun dalam kontruksi bangunan. Baik skala kecil ataupun skala besar dan terbilang amat tahan lama kalau dibandingi dengan material lainnya. Dapat bertahan sampai puluhan sampai ratusan tahun.
 
-4\. Mudah dalam pemeliharaannya. Bangunan yang menggunakan besi H Beam sebagai struktur tulangan bangunannya akan amat mudah dalam melakukan pemeliharaannya. tidak perlu pengecatan dengan cat khusus ataupun pembersihan setiap waktu.
+4. Mudah dalam pemeliharaannya. Bangunan yang menggunakan besi H Beam sebagai struktur tulangan bangunannya akan amat mudah dalam melakukan pemeliharaannya. tidak perlu pengecatan dengan cat khusus ataupun pembersihan setiap waktu.
 
-5\. Memaksimalkan pemakaian material lainnya, seperti pengaplikasian bekisting, pengaplikasian steger atau tiang penyangga dan juga material pasir. Besi H Beam Tdk memerlukan material pasir dalam pemakaiannya.
+5. Memaksimalkan pemakaian material lainnya, seperti pengaplikasian bekisting, pengaplikasian steger atau tiang penyangga dan juga material pasir. Besi H Beam Tdk memerlukan material pasir dalam pemakaiannya.
 
 ### Kekurangan Dari Besi H Beam Di Sunter Jaya Jakarta
 

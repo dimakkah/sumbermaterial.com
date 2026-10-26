@@ -50,13 +50,13 @@ d. tdk bisa menjangkau tempat yang sempit. Mengingat Besi WF ini berukuran panja
 
 ### Kelebihan Dari Besi WF Di Pinangsia Jakarta
 
-1\. Dapat mengurangi waktu dalam pembangunan sebuah konstruksi bangunan, mengurangi waktu dan juga menghemat ongkos dan tenaga tukang.
+1. Dapat mengurangi waktu dalam pembangunan sebuah konstruksi bangunan, mengurangi waktu dan juga menghemat ongkos dan tenaga tukang.
 
-2\. Bisa menopang bobot yang sangat berat, tidak mudah memuai dan lebih simple penerapannya dibanding dengan material struktural lainnya.
+2. Bisa menopang bobot yang sangat berat, tidak mudah memuai dan lebih simple penerapannya dibanding dengan material struktural lainnya.
 
-3\. Mempunyai fleksibilitas yang tinggi. Sehingga struktur bangunan yang diciptakan dari Besi WF ini menjadi lebih kuat tdk gampang bergeser, tidak mudah roboh ataupun goyang. Amat pantas untuk jenis bangunan diatas tanah yang labil atau sering kali terjadi longsor.
+3. Mempunyai fleksibilitas yang tinggi. Sehingga struktur bangunan yang diciptakan dari Besi WF ini menjadi lebih kuat tdk gampang bergeser, tidak mudah roboh ataupun goyang. Amat pantas untuk jenis bangunan diatas tanah yang labil atau sering kali terjadi longsor.
 
-4\. Lebih hemat karena struktur bangunan yang menggunakan Besi WF akan memiliki kekokohan yang cukup lama malahan hingga ratusan tahun. Tentunya ini merupakan investasi yang sangat murah jika kita bandingkan dengan waktu pakai. Malah bangunan yang dibangun dengan tulangan Besi WF bisa kita wariskan terhadap anak cucu kita.
+4. Lebih hemat karena struktur bangunan yang menggunakan Besi WF akan memiliki kekokohan yang cukup lama malahan hingga ratusan tahun. Tentunya ini merupakan investasi yang sangat murah jika kita bandingkan dengan waktu pakai. Malah bangunan yang dibangun dengan tulangan Besi WF bisa kita wariskan terhadap anak cucu kita.
 
 ## Mengenal Besi H Beam Di Pinangsia Jakarta
 
@@ -72,15 +72,15 @@ Sama seperti besi yang kami jelaskan sebelumnya ialah Besi WF, besi H-Beam bahka
 
 ### Keunggulan Besi H Beam Di Pinangsia Jakarta
 
-1\. Mudah untuk didapat. Banyak supplier besi yang menyediakan stok besi H-Beam bermacam jenis ukuran. Sehingga besi H-Beam ini sangat gampang untuk diperoleh, tdk sulit untuk memperoleh supplier besi yang menjual besi H Beam.
+1. Mudah untuk didapat. Banyak supplier besi yang menyediakan stok besi H-Beam bermacam jenis ukuran. Sehingga besi H-Beam ini sangat gampang untuk diperoleh, tdk sulit untuk memperoleh supplier besi yang menjual besi H Beam.
 
-2\. Mudah Dalam Pemasangan. Banyak tukang ahli dalam pemasangan besi H Beam. Meskipun besi H-Beam ini seharusnya dipasang oleh tukang yang ahli akan tetapi tukang yang ahli dalam memasang besi H Beam ini betul-betul banyak kita temui hari ini. Sehingga tdk perlu dikhawatirkan lagi proses pemasangannya.
+2. Mudah Dalam Pemasangan. Banyak tukang ahli dalam pemasangan besi H Beam. Meskipun besi H-Beam ini seharusnya dipasang oleh tukang yang ahli akan tetapi tukang yang ahli dalam memasang besi H Beam ini betul-betul banyak kita temui hari ini. Sehingga tdk perlu dikhawatirkan lagi proses pemasangannya.
 
-3\. Memiliki daya tahan yang tdk diragukan lagi. Besi H Beam sudah teruji selama bertahun-tahun dalam kontruksi bangunan. Baik skala kecil maupun skala besar dan terbilang sungguh-sungguh kuat kalau dibandingi dengan material lainnya. Bisa bertahan hingga puluhan hingga ratusan tahun.
+3. Memiliki daya tahan yang tdk diragukan lagi. Besi H Beam sudah teruji selama bertahun-tahun dalam kontruksi bangunan. Baik skala kecil maupun skala besar dan terbilang sungguh-sungguh kuat kalau dibandingi dengan material lainnya. Bisa bertahan hingga puluhan hingga ratusan tahun.
 
-4\. Gampang dalam pemeliharaannya. Bangunan yang menerapkan besi H Beam sebagai struktur tulangan bangunannya akan amat mudah dalam mengerjakan perawatannya. tdk perlu pengecatan dengan cat khusus ataupun pembersihan tiap waktu.
+4. Gampang dalam pemeliharaannya. Bangunan yang menerapkan besi H Beam sebagai struktur tulangan bangunannya akan amat mudah dalam mengerjakan perawatannya. tdk perlu pengecatan dengan cat khusus ataupun pembersihan tiap waktu.
 
-5\. Memaksimalkan pemakaian material lainnya, seperti pengaplikasian bekisting, pengaplikasian perancah atau tiang penyangga dan juga material pasir. Besi H Beam Tdk membutuhkan material pasir dalam pemakaiannya.
+5. Memaksimalkan pemakaian material lainnya, seperti pengaplikasian bekisting, pengaplikasian perancah atau tiang penyangga dan juga material pasir. Besi H Beam Tdk membutuhkan material pasir dalam pemakaiannya.
 
 ### Kekurangan Dari Besi H Beam Di Pinangsia Jakarta
 

@@ -25,7 +25,7 @@ menurut Standar Nasional Indonesia ( SK SNI - S - 04 - 1989 - F ; 28) di sebutka
 
 Persyaratan Pasir yang Bagus Untuk Konstruksi Bangunan
 
-1.  Agregat Halus semestinya terdiri dari butiran yang tajam dan keras dengan indeks kekerasan <2.2
+1.  Agregat Halus semestinya terdiri dari butiran yang tajam dan keras dengan indeks kekerasan <2.2
 2. bilamana dipakai Natrium Sulfat bagian hancur maksimal 12%
 3. Jika diterapkan Magnesium Sulfat komponen halus maksimal sepuluh %
 4. Tidak boleh memuat tanah lebih dari lima %
@@ -41,7 +41,6 @@ Persyaratan Pasir yang Bagus Untuk Konstruksi Bangunan
 Sesudah memahami syarat pasir buat sebuah Bangunan, saat ini kita bahas Ragam - model Pasir Untuk Konstruksi Bangunan penjelasan nya sbb:
 
 - ### Pasir Jenis Rigid dan Tempat Penambangannya Di Babelan Bekasi
-    
 
 Pasir ini lazim nya berwarna coklat tua dan tingkat kekasaran butiran nya lumayan tinggi. Tetapi bila anda mengepal nya dengan tangan tidak akan lengket dan akan hancur kembali. macam pasir ini sangat lah bagus tuk Pengecoran, Plesteran Dinding, Adukan Pondasi dan Adukan Pasangan Bata Pasir ini yaitu pasir untuk Beton ialah butiran-butiran mineral keras dan tajam berukuran antara 0,075 – 5 mm, jikalau terdapat butiran berukuran lebih kecil dari 0,063 mm tidak lebih dari 5% berat. Pasir ini yaitu pasir untuk Beton hampir acap kali digunakan untuk profesi cor-coran struktur seperti kolom, balok dan pelat lantai.
 
@@ -52,9 +51,9 @@ Harga Pasir Jebrod Free Ongkir Ke Babelan Bekasi Jika anda sebagai konsumen /pem
 Pasir No. 1 asli kp. jebrod cianjur jawa barat yang diterapkan oleh indocement serta perusahaan batching plant lainnya sebagai bahan dasar produksi readymix concrete. Pasir ini paling dianjurkan untuk cor sebab irit semen juga mempunyai kandungan lumpur yang sungguh-sungguh rendah dibawah 8%. warnanya Hitam abu tua atau hitam seperti hitamnya batu kali, ada juga yang hitam kemerahan atau hitam terasi
 
 3. **Pasir Hitam Cor Cimangkok.** Pasir asal Daerah penambangannya di cimangkok sukabumi jabar yang masih masuk pada golongan pasir hitam No. 1 di jawa barat, warnanya hitam kecoklatan pantas untuk cor, pasang pondasi dan bata
-    
+
     ![Harga Pasir Jebrod Free Ongkir Ke Babelan Bekasi](/images/info/pasir-hitam-1.jpg)
-    
+
 4. **Pasir Hitam Beton Cimalaka Subang Bandung.**
 
 Pasir paling unggul yang berwarna hitam kebauan ada juga yang berwarna hitam abu tua. Banyak di pakai untuk Rigid, pasang dan keperluan lainnya. Ditambang di Desa cimalaka
@@ -90,9 +89,9 @@ Kecuali Rangkasbitung, Banten juga mempunyai lokasi pnembangan pasir lain sepert
 Masih dari Lokasi di banten, pasir kelas tiga ini ialah pasir yang banyak digunakan di proyek proyek perumahan atau cluster sebab harganya yang murah juga mutu yang tidak diragukan. Warna pasir ini hitam kecoklatan dan keabuan amat dianjurkan untuk pasang pondasi, bata, batu dan sebagainya
 
 27. **Pasir Hitam Cor Bohlam Sukabumi.** Pasir dari Kawasan kp. bohlam di sukabumi berwarna hitam kecoklatan, sungguh-sungguh bagus untuk pasang bata, pondasi dan lain-lain sebagai pilihan pasir mutu tidak diragukan dan tidak mahal
-    
+
     ![Harga Pasir Jebrod Free Ongkir Ke Babelan Bekasi](/images/info/pasir-hitam-2.jpg)
-    
+
 28. **Pasir Cor Galunggung.**
 
 Pasir ini yaitu pasir hitam kwalitas paling unggul dikelasnya lazim digunakan oleh pabrik pengolahan beton readymix juga perusahan pembuatan precast dan sering kali juga diaplikasikan untuk bahan pembuatan batako press hitam, paving block dan sebagainya. Pasir ini ditambang dari Tasikmalaya jawa barat.
@@ -100,21 +99,18 @@ Pasir ini yaitu pasir hitam kwalitas paling unggul dikelasnya lazim digunakan ol
 ![Harga Pasir Jebrod Free Ongkir Ke Babelan Bekasi](/images/info/pasir-hitam-9.jpg)
 
 - ### Pasir Pasang Di Babelan Bekasi
-    
 
 ![Harga Pasir Jebrod Free Ongkir Ke Babelan Bekasi](/images/info/pasir-putih12.jpg)
 
 Pasir ini lebih halus lagi dibandingkan oleh pasir beton. jika anda mengepal pasir ini karenanya akan menggumpal dan tak akan buyar kembali. pasir pasang lazim nya di gunakan tuk campuran pasir beton agar tak terlampau kasar dan dapat di manfaatkan untuk plesteran dinding.
 
 - ### Pasir Kualitas rendah Untuk Pembuatan Batako Di Babelan Bekasi
-    
 
 Di Antara ke dua pasir diatas pasir ragam ini lebih halus lagi, jika kamu mengepal nya maka akan menggumpal dan tak akan buyar lagi. namun pasir ragam tidak baik tuk di buat sebagai bahan bangunan. pasir macam ini pada nya di gunakan untuk Bahan Pembuatan Batako
 
 Pada biasa nya pasir ini nyaris sama dengan pasir beton tetapi pasir ini mempunyai tingkat kekasaran yg tinggi, butiran - butiran nya cukup besar dan agak banyak batuan nya. pada lazimnya pasir jenis ini baik tuk bahan dasaran pemasangan keramik
 
 - ### Pasir Putih Tanpa Batu Untuk Pengecoran Di Babelan Bekasi
-    
 
 1. **Pasir Putih Bangka**
 

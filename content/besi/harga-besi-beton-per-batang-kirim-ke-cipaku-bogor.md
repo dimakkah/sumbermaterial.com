@@ -18,19 +18,19 @@ Dengan tidak adanya besi karenanya sebuah bangunan akan mudah retak dikala ada g
 
 ## Seperti Ini Jenis-jenis Besi Di Cipaku Bogor
 
-### 1\. Besi Polos Krakatau Steel 4mm, 6mm, 8mm, 10mm, 12mm, 16mm, 18mm, 19mm Di Cipaku Bogor
+### 1. Besi Polos Krakatau Steel 4mm, 6mm, 8mm, 10mm, 12mm, 16mm, 18mm, 19mm Di Cipaku Bogor
 
 Besi polos memiliki ukuran mulai dari 8 mm sampai 25 mm dan memiliki 6 meter panjang tekuk dan 12 meter panjang lurus. Besi beton ini mulai digunakan sebagai bahan utama di Indonesia pada tahun 1950. Besi ini tak jarang kali dipakai untuk membangun bangunan beton. Bahan yang gampang digunakan sehingga selain diaplikasikan untuk membangun sebuah gedung juga diaplikasikan untuk membangun trowongan, bendungan, dan lainnya. Saat dipakai untuk membangun sebuah gedung bertingkat karenanya biasa besi polos ini digunakan untuk struktur tulangan balok, dinding, dan sloof. Besi beton polos ini mempunyai kelebihan besi polos ini tegangannya lebih tinggi dari pada besi lainnya. Jadi besi ini terkesan lebih kokoh dan tahan beban. Jadi pemakaian besi polos ini sungguh-sungguh sesuai untuk membangun gedung, jembatan, dan bangunan lainnya. Besi polos ini terbuat dari bahan seperti billet dan skrap. Billet adalah baja batangan yang pelaksanaan pembuatannya dengan mengecor biji besi. Jika skrap merupakan besi bekas yang dileburkan dengan temperature tertentu. Selain dari itu kalau anda menerapkan besi polos ini tdk memerlukan anggaran pemeliharaan. Kian lama diaplikasikan maka besi ini akan semakin kokoh.
 
-### 2\. Besi Ulir Full 4mm, 6mm, 8mm, 10mm, 12mm, 16mm, 18mm, 19mm Di Cipaku Bogor
+### 2. Besi Ulir Full 4mm, 6mm, 8mm, 10mm, 12mm, 16mm, 18mm, 19mm Di Cipaku Bogor
 
 Cocok dengan namanya besi beton ulir ini yaitu besi yang bentuknya mengulir. Pada permukaannya bercorak spiral yang memiliki tujuan untuk menyatukan gerigi besi dengan elemen bahan bangunan yang dibentuk oleh besi beton. Besi ulir ini mulai populer diaplikasikan pada abad ke-20 di Amerika dan mulai populer di Indonesia pada tahun1950. Mengingat dikala memakai besi ulir ini mempunyai banyak kelebihan mulai dari kekokohan bangunan serta lebih hemat biaya dan efisien. Produk besi ulir ini menjadi paling laris di pasar sebab memiliki kwalitas yang terbaik di Indonesia dan memiliki harga yang tinggi sekiranya diperbandingkan dengan produk lainnya.
 
-### 3\. Besi WF dan H-Beam Banci Di Cipaku Bogor
+### 3. Besi WF dan H-Beam Banci Di Cipaku Bogor
 
 Besi Wide Flange (WF) ini merupakan salah satu baja dengan struktural yang paling banyak diaplikasikan untuk kontruksi baja. Jikalau anda membutuhkan besi baja Wide Flage dalam jumlah yang banyak atau sedikit maka silahkan cari jual besi yang terpercaya. Besi WF ini memiliki kekokohan yang kokoh dan kuat pada ketahanan tarik atau tekan. Karenanya dari itu besi ini menjadi elemen struktur yang memiliki batasan yang paripurna untuk menahan muatan tekan aksial, tarik aksial, dan lentur dengan fasilitas pembangunan strukturnya. Baja Wide Flange (WF) ini memiliki kepadatan yang tinggi melainkan rasio berat antara kekokohan bagian Baja WF yang tinggi tetapi tidak terlalu berat yang berhubungan dengan kapasitas beban. Selain dari itu menetapkan jikalau kontruksi yang diaplikasikan secara efisien. Metode kontruksi baja WF ini kombinasi dari elemen struktur yang rumit. Pada struktur ini mempunyai tujuan membawa muatan yang aman dan efektif yang berefek pada sebuah bangunan dan dikirim pada pondasinya. Gaya dan bobot yang bekerja ini termasuk muatan pertikal, perbedaan suhu, horizontal, getaran dan lainnya. Pada sebuah bangunan baja, maka ada unsure yang berguna menopang gaya lateral dan gravitasi.
 
-### 4\. Besi Holo Di Cipaku Bogor
+### 4. Besi Holo Di Cipaku Bogor
 
 Besi hollow adalah besi yang diterapkan sebagai pembuatan kanopi, pagar, pintu besi dan lainnya. Bahan baku pembuatan besi Hollow ini lazimnya terbuat dari stainless, galvanis, dan besi baja. Tetapi yang paling tak jarang diterapkan sebagai bahan baku yaitu galvanis. Terdapat kelebihan yang anda peroleh dikala memasang kanopi, mengaplikasikan pagar, teralis memakai besi hollow:
 

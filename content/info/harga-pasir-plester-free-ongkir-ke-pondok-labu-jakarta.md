@@ -25,7 +25,7 @@ berdasarkan Standar Nasional Indonesia ( SK SNI - S - 04 - 1989 - F ; 28) di seb
 
 Syarat Pasir yang Bagus Untuk Konstruksi
 
-1.  Agregat Halus mesti terdiri dari butiran yg tajam dan keras dengan indeks kekerasan <2.2
+1.  Agregat Halus mesti terdiri dari butiran yg tajam dan keras dengan indeks kekerasan <2.2
 2. bilamana dipakai Natrium Sulfat bagian hancur optimal 12%
 3. Bila diterapkan Magnesium Sulfat komponen halus maksimal 10%
 4. Tidak boleh memuat lumpur lebih dari lima persen
@@ -41,7 +41,6 @@ Syarat Pasir yang Bagus Untuk Konstruksi
 setelah mengetahui persyaratan pasir buat suatu Konstruksi, saat ini kita bahas Jenis - Macam Pasir Untuk Konstruksi Bangunan penjelasan nya sbb:
 
 - ### Pasir Untuk Beton Di Pondok Labu Jakarta
-    
 
 Pasir ini umum nya berwarna keabu-abuan dan tingkat pecahan butiran nya cukup tinggi. Melainkan jikalau anda mengepal nya dengan tangan tak akan lengket dan akan hancur kembali. macam pasir ini sangat lah bagus untuk Pengecoran, Plesteran Dinding, Adukan Pondasi dan Adukan Pasangan Bata Pasir ini yaitu pasir untuk Beton adalah butiran-butiran mineral keras dan tajam berukuran antara 0,075 – 5 mm, jika terdapat butiran berukuran lebih kecil dari 0,063 mm tak lebih dari 5% berat. Pasir ini yaitu pasir untuk Cor hampir tak jarang digunakan untuk profesi cor-coran struktur seperti kolom, balok dan pelat lantai.
 
@@ -52,9 +51,9 @@ Harga Pasir Plester Free Ongkir Ke Pondok Labu Jakarta Jikalau anda sebagai kons
 Pasir terbaik asli kp. jebrod cianjur jawa barat yang diterapkan oleh indocement serta perusahaan batching plant lainnya sebagai bahan dasar produksi readymix concrete. Pasir ini paling dianjurkan untuk cor sebab irit semen juga mempunyai kandungan lumpur yang sungguh-sungguh rendah dibawah delapan %. warnanya Hitam abu tua atau hitam seperti hitamnya batu kali, ada juga yang hitam kemerahan atau hitam terasi
 
 3. **Pasir Hitam Beton Cimangkok.** Pasir asal Daerah penambangannya di cimangkok sukabumi jabar yang masih masuk pada klasifikasi pasir hitam terbaik di jawa barat, warnanya hitam kecoklatan sesuai untuk cor, pasang pondasi dan bata
-    
+
     ![Harga Pasir Plester Free Ongkir Ke Pondok Labu Jakarta](/images/info/pasir-hitam-9.jpg)
-    
+
 4. **Pasir Hitam Rigid Cimalaka Subang Bandung.**
 
 Pasir No. 1 yang berwarna hitam kebauan ada juga yang berwarna hitam abu tua. Banyak di gunakan untuk Beton, pasang dan keperluan lainnya. Ditambang di Desa cimalaka
@@ -90,9 +89,9 @@ Kecuali Rangkasbitung, Banten juga mempunyai lokasi pnembangan pasir lain sepert
 Masih dari Tempat di banten, pasir kelas tiga ini yaitu pasir yang banyak diterapkan di proyek proyek perumahan atau cluster sebab harganya yang murah juga mutu yang bagus. Warna pasir ini hitam kecoklatan dan keabuan benar-benar disarankan untuk pasang pondasi, bata, batu dan sebagainya
 
 27. **Pasir Hitam Rigid Bohlam Sukabumi.** Pasir dari Daerah kp. bohlam di sukabumi berwarna hitam kecoklatan, amat bagus untuk pasang bata, pondasi dsb sebagai opsi pasir kwalitas unggul dan ekonomis
-    
+
     ![Harga Pasir Plester Free Ongkir Ke Pondok Labu Jakarta](/images/info/pasir-hitam-2.jpg)
-    
+
 28. **Pasir Rigid Galunggung.**
 
 Pasir ini yakni pasir hitam mutu paling unggul dikelasnya lazim digunakan oleh pabrik pengolahan beton readymix juga perusahan pembuatan precast dan acap kali juga diaplikasikan untuk bahan pembuatan batako press hitam, paving block dan lainnya. Pasir ini ditambang dari Tasikmalaya jabar.
@@ -100,21 +99,18 @@ Pasir ini yakni pasir hitam mutu paling unggul dikelasnya lazim digunakan oleh p
 ![Harga Pasir Plester Free Ongkir Ke Pondok Labu Jakarta](/images/info/pasir-hitam-7.jpg)
 
 - ### Pasir Pasang Di Pondok Labu Jakarta
-    
 
 ![Harga Pasir Plester Free Ongkir Ke Pondok Labu Jakarta](/images/info/pasir-hitam-4.jpg)
 
 Pasir ini lebih halus lagi diperbandingkan oleh pasir beton. seandainya kamu mengepal pasir ini karenanya akan menggumpal dan tak akan hancur kembali. pasir pasang umum nya di manfaatkan buat adukan pasir beton agar tak terlalu kasar dan dapat di pakai untuk plesteran dinding.
 
 - ### Pasir Kualitas rendah Untuk pengurugan lantai Di Pondok Labu Jakarta
-    
 
 Di Antara ke dua pasir diatas pasir tipe ini lebih halus lagi, bila kamu mengepal nya akan menggumpal dan tidak akan hancur lagi. namun pasir ragam tidak baik untuk di buat sebagai bahan bangunan. pasir ragam ini pada lazim nya di pergunakan untuk Bahan Pembuatan Batako
 
 Pada biasa nya pasir ini nyaris sama dengan pasir beton akan tapi pasir ini memiliki tingkat kekasaran yang tinggi, butiran - butiran nya lumayan besar dan agak banyak batuan nya. pada umumnya pasir model ini baik tuk bahan pemadatan lantai
 
 - ### Pasir Putih Halus Untuk Pasang Bata Di Pondok Labu Jakarta
-    
 
 1. **Pasir Putih Bangka**
 

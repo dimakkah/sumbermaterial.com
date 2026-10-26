@@ -25,7 +25,7 @@ Menurut Standar Nasional Indonesia ( SK SNI - S - 04 - 1989 - F ; 28) di sebutka
 
 Persyaratan Pasir yang Bagus buat Konstruksi
 
-1.  Agregat Halus seharusnya terdiri dari butiran yg tajam dan keras dengan indeks kekerasan <2.2
+1.  Agregat Halus seharusnya terdiri dari butiran yg tajam dan keras dengan indeks kekerasan <2.2
 2. Apabila digunakan Natrium Sulfat komponen hancur maksimal 12%
 3. Kalau diaplikasikan Magnesium Sulfat bagian halus maksimal sepuluh %
 4. Tidak boleh mengandung lumpur lebih dari 5%
@@ -41,7 +41,6 @@ Persyaratan Pasir yang Bagus buat Konstruksi
 Setelah mengetahui prasyarat pasir tuk suatu Bangunan, pada saat ini kita bahas Jenis - model Pasir Untuk Konstruksi Bangunan penjelasan nya berikut ini:
 
 - ### Pasir Rigid Di Kalimulya Depok
-    
 
 Pasir ini lazim nya berwarna hitam pekat dan tingkat pecahan butiran nya lumayan tinggi. Melainkan jikalau anda mengepal nya dengan tangan tidak akan menggumpal dan akan buyar kembali. macam pasir ini betul-betul lah bagus tuk Pengecoran, Plesteran Dinding, Adukan Pondasi dan Adukan Pasangan Bata Pasir ini yaitu pasir untuk Beton merupakan butiran-butiran mineral keras dan tajam berukuran antara 0,075 – 5 mm, bila terdapat butiran berukuran lebih kecil dari 0,063 mm tak lebih dari 5% berat. Pasir ini yaitu pasir untuk Rigid acap kali dipakai untuk pekerjaan cor-coran struktur seperti kolom, balok dan pelat lantai.
 
@@ -52,9 +51,9 @@ Harga Pasir Jalupang Free Ongkir Ke Kalimulya Depok Jikalau anda sebagai konsume
 Pasir No. 1 asli kp. jebrod cianjur jawa barat yang diaplikasikan oleh indocement serta perusahaan batching plant lainnya sebagai bahan dasar produksi readymix concrete. Pasir ini paling disarankan untuk cor sebab irit semen juga mempunyai kandungan lumpur yang amat rendah dibawah 8%. warnanya Hitam abu tua atau hitam seperti hitamnya batu kali, ada juga yang hitam kemerahan atau hitam terasi
 
 3. **Pasir Hitam Beton Cimangkok.** Pasir dari Tempat penambangannya di cimangkok sukabumi jabar yang masih masuk pada kategori pasir hitam terbaik di jawa barat, warnanya hitam kecoklatan layak untuk cor, pasang pondasi dan bata
-    
+
     ![Harga Pasir Jalupang Free Ongkir Ke Kalimulya Depok](/images/info/pasir-hitam-5.jpg)
-    
+
 4. **Pasir Hitam Rigid Cimalaka Subang Bandung.**
 
 Pasir No. 1 yang berwarna hitam kebauan ada juga yang berwarna hitam abu tua. Banyak di gunakan untuk Rigid, pasang dan keperluan lainnya. Ditambang di Daerah cimalaka
@@ -90,9 +89,9 @@ Kecuali Rangkasbitung, Banten juga mempunyai lokasi pnembangan pasir lain sepert
 Masih dari Daerah di banten, pasir kelas tiga ini merupakan pasir yang banyak diaplikasikan di proyek proyek perumahan atau cluster sebab harganya yang murah juga mutu yang unggul. Warna pasir ini hitam kecoklatan dan keabuan betul-betul disarankan untuk pasang pondasi, bata, batu dan lainnya
 
 27. **Pasir Hitam Rigid Bohlam Sukabumi.** Pasir dari Kawasan kp. bohlam di sukabumi berwarna hitam kecoklatan, benar-benar bagus untuk pasang bata, pondasi dsb sebagai opsi pasir kwalitas bagus dan tidak mahal
-    
+
     ![Harga Pasir Jalupang Free Ongkir Ke Kalimulya Depok](/images/info/pasir-hitam-2.jpg)
-    
+
 28. **Pasir Cor Galunggung.**
 
 Pasir ini merupakan pasir hitam mutu paling unggul dikelasnya lazim diaplikasikan oleh pabrik pengolahan beton readymix juga perusahan pembuatan precast dan kerap juga diterapkan untuk bahan pembuatan batako press hitam, paving block dsb. Pasir ini ditambang dari Tasikmalaya jabar.
@@ -100,21 +99,18 @@ Pasir ini merupakan pasir hitam mutu paling unggul dikelasnya lazim diaplikasika
 ![Harga Pasir Jalupang Free Ongkir Ke Kalimulya Depok](/images/info/pasir-hitam-8.jpg)
 
 - ### Pasir Biasa Di Kalimulya Depok
-    
 
 ![Harga Pasir Jalupang Free Ongkir Ke Kalimulya Depok](/images/info/pasir-putih3.jpg)
 
 Pasir ini ekstra halus lagi dibandingkan oleh pasir beton. jikalau kalian mengepal pasir ini maka akan menggumpal dan tidak akan buyar kembali. pasir pasang biasa nya di pakai tuk adukan pasir beton agar tak kelewat kasar dan bisa di manfaatkan untuk plesteran dinding.
 
 - ### Pasir Urug Untuk Pembuatan Batako Di Kalimulya Depok
-    
 
 Di Antara ke dua pasir diatas pasir model ini lebih halus lagi, jika kalian mengepal nya akan menggumpal dan tak akan hancur lagi. tapi pasir macam
 
 Pada lazim nya pasir ini nyaris sama dengan pasir beton akan tapi pasir ini mempunyai tingkat kekasaran yang tinggi, butiran - butiran nya cukup besar dan agak banyak batuan nya. pada umumnya pasir model ini bagus untuk bahan Pembuatan Batako
 
 - ### Pasir Putih Kadar Lumpur Rendah Untuk Pasang Bata Di Kalimulya Depok
-    
 
 1. **Pasir Putih Bangka**
 

@@ -25,7 +25,7 @@ Menurut Standar Nasional Indonesia ( SK SNI - S - 04 - 1989 - F ; 28) di sebutka
 
 Prasyarat Pasir yang Baik buat Konstruksi
 
-1.  Agregat Halus mesti terdiri dari butiran yang tajam dan keras dengan indeks kekerasan <2.2
+1.  Agregat Halus mesti terdiri dari butiran yang tajam dan keras dengan indeks kekerasan <2.2
 2. bilamana diaplikasikan Natrium Sulfat bagian hancur maksimal 12 persen
 3. seandainya diaplikasikan Magnesium Sulfat komponen halus optimal 10%
 4. Tidak boleh mengandung clay lebih dari lima %
@@ -41,7 +41,6 @@ Prasyarat Pasir yang Baik buat Konstruksi
 setelah memahami persyaratan pasir tuk sebuah Konstruksi Bangunan, pada saat ini kita bahas Jenis - Tipe Pasir Untuk Konstruksi penjelasan nya sebagai berikut:
 
 - ### Pasir Rigid Di Majalaya Karawang
-    
 
 Pasir ini lazim nya berwarna hitam kemerahan dan tingkat kekerasan butiran nya cukup tinggi. Tetapi sekiranya anda mengepal nya dengan tangan tak akan menggumpal dan akan hancur kembali. macam pasir ini sungguh-sungguh lah bagus buat Pengecoran, Plesteran Dinding, Adukan Pondasi dan Adukan Pasangan Bata Pasir ini yaitu pasir untuk Cor merupakan butiran-butiran mineral keras dan tajam berukuran antara 0,075 – 5 mm, apabila terdapat butiran berukuran lebih kecil dari 0,063 mm tidak lebih dari 5% berat. Pasir ini yaitu pasir untuk Beton sering kali dimanfaatkan untuk profesi cor-coran struktur seperti kolom, balok dan pelat lantai.
 
@@ -52,9 +51,9 @@ Harga Pasir Putih Bangka Free Ongkir Ke Majalaya Karawang Seandainya anda sebaga
 Pasir paling unggul asal kp. jebrod cianjur jawa barat yang diaplikasikan oleh indocement serta perusahaan batching plant lainnya sebagai bahan dasar produksi readymix concrete. Pasir ini paling dianjurkan untuk cor sebab irit semen juga mempunyai kandungan lumpur yang betul-betul rendah dibawah 8%. warnanya Hitam abu tua atau hitam seperti hitamnya batu kali, ada juga yang hitam kemerahan atau hitam terasi
 
 3. **Pasir Hitam Beton Cimangkok.** Pasir asal Lokasi penambangannya di cimangkok sukabumi jabar yang masih masuk pada kategori pasir hitam terbaik di jabar, warnanya hitam kecoklatan layak untuk cor, pasang pondasi dan bata
-    
+
     ![Harga Pasir Putih Bangka Free Ongkir Ke Majalaya Karawang](/images/info/pasir-hitam-2.jpg)
-    
+
 4. **Pasir Hitam Rigid Cimalaka Subang Bandung.**
 
 Pasir paling unggul yang berwarna hitam kebauan ada juga yang berwarna hitam abu tua. Banyak di aplikasikan untuk Beton, pasang dan keperluan lainnya. Ditambang di kampung cimalaka
@@ -90,9 +89,9 @@ Kecuali Rangkasbitung, Banten juga mempunyai lokasi pnembangan pasir lain sepert
 Masih dari Tempat di banten, pasir kelas tiga ini yakni pasir yang banyak diterapkan di proyek proyek perumahan atau cluster sebab harganya yang murah juga kwalitas yang bagus. Warna pasir ini hitam kecoklatan dan keabuan betul-betul disarankan untuk pasang pondasi, bata, batu dsb
 
 27. **Pasir Hitam Cor Bohlam Sukabumi.** Pasir dari Daerah kp. bohlam di sukabumi berwarna hitam kecoklatan, amat bagus untuk pasang bata, pondasi dan lainnya sebagai pilihan pasir mutu bagus dan tidak mahal
-    
+
     ![Harga Pasir Putih Bangka Free Ongkir Ke Majalaya Karawang](/images/info/jual-pasir-cor-hitam.jpg)
-    
+
 28. **Pasir Cor Galunggung.**
 
 Pasir ini ialah pasir hitam mutu paling unggul dikelasnya awam digunakan oleh pabrik pengolahan beton readymix juga perusahan pembuatan precast dan kerap juga diaplikasikan untuk bahan pembuatan batako press hitam, paving block dsb. Pasir ini ditambang dari Tasikmalaya jabar.
@@ -100,21 +99,18 @@ Pasir ini ialah pasir hitam mutu paling unggul dikelasnya awam digunakan oleh pa
 ![Harga Pasir Putih Bangka Free Ongkir Ke Majalaya Karawang](/images/info/pasir-hitam-8.jpg)
 
 - ### Pasir Untuk Pemasangan Batu, Pondasi, Bata, Ubin, Plester Di Majalaya Karawang
-    
 
 ![Harga Pasir Putih Bangka Free Ongkir Ke Majalaya Karawang](/images/info/pasir-hitam-4.jpg)
 
 Pasir ini ekstra halus lagi diperbandingkan oleh pasir beton. apabila kalian mengepal pasir ini maka akan menggumpal dan tidak akan buyar kembali. pasir pasang umum nya di manfaatkan untuk campuran pasir beton agar tidak terlampau kasar dan bisa di manfaatkan untuk plesteran dinding.
 
 - ### Pasir Kualitas rendah Untuk Pembuatan Batako Di Majalaya Karawang
-    
 
 Di Antara ke dua pasir diatas pasir tipe ini lebih halus lagi, seandainya kalian mengepal nya akan menggumpal dan tidak akan hancur lagi. tapi pasir macam
 
 Pada umum nya pasir ini nyaris sama dengan pasir beton melainkan pasir ini memiliki tingkat kekasaran yg tinggi, butiran - butiran nya lumayan besar dan agak banyak batuan nya. pada biasanya pasir macam ini baik tuk bahan Pembuatan Batako
 
 - ### Pasir Putih Bebas Lumpur Untuk Lapangan Voly Di Majalaya Karawang
-    
 
 1. **Pasir Putih Bangka**
 

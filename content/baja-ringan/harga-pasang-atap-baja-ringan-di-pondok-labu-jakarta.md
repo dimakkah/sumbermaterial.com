@@ -21,19 +21,19 @@ Membangun atau merenovasi atap dengan baja ringan kini jadi lebih mudah! Di Pond
 
 Apa sih yang bikin baja ringan begitu istimewa? Yuk, kita bahas beberapa alasan yang patut Anda pertimbangkan sebelum menghubungi kami:
 
- **Ramah Lingkungan:** Dengan memilih baja ringan, Anda turut berkontribusi dalam melestarikan alam. Tidak perlu menebang pohon untuk mendapatkan kayu, karena baja ringan adalah alternatif yang lebih berkelanjutan.
+- **Ramah Lingkungan:** Dengan memilih baja ringan, Anda turut berkontribusi dalam melestarikan alam. Tidak perlu menebang pohon untuk mendapatkan kayu, karena baja ringan adalah alternatif yang lebih berkelanjutan.
 
- **Lebih Ekonomis:** Dibandingkan dengan kerangka kayu, biaya penggunaan baja ringan cenderung lebih terjangkau. Apalagi untuk bagian kerangka yang krusial dalam sebuah bangunan, pemilihan material yang ekonomis tentu menjadi pertimbangan penting.
+- **Lebih Ekonomis:** Dibandingkan dengan kerangka kayu, biaya penggunaan baja ringan cenderung lebih terjangkau. Apalagi untuk bagian kerangka yang krusial dalam sebuah bangunan, pemilihan material yang ekonomis tentu menjadi pertimbangan penting.
 
- **Ringan dan Kuat:** Baja ringan memiliki ketebalan yang tipis dan ringan, namun tetap sangat kuat untuk menopang kerangka atap dan kanopi rumah Anda. Kekuatan ini berbeda jauh dengan baja atau besi konvensional yang berat.
+- **Ringan dan Kuat:** Baja ringan memiliki ketebalan yang tipis dan ringan, namun tetap sangat kuat untuk menopang kerangka atap dan kanopi rumah Anda. Kekuatan ini berbeda jauh dengan baja atau besi konvensional yang berat.
 
- **Bebas Perawatan:** Lupakan perawatan atap yang rumit dan memakan waktu! Baja ringan tidak memerlukan perawatan tahunan, sehingga Anda bisa lebih fokus pada hal-hal lain.
+- **Bebas Perawatan:** Lupakan perawatan atap yang rumit dan memakan waktu! Baja ringan tidak memerlukan perawatan tahunan, sehingga Anda bisa lebih fokus pada hal-hal lain.
 
- **Proses Pemasangan Cepat:** Pemasangan kerangka atap baja ringan jauh lebih cepat dibandingkan material lain seperti kayu. Ini akan menghemat waktu dan biaya pembangunan Anda.
+- **Proses Pemasangan Cepat:** Pemasangan kerangka atap baja ringan jauh lebih cepat dibandingkan material lain seperti kayu. Ini akan menghemat waktu dan biaya pembangunan Anda.
 
- **Bahan Berkualitas:** Baja ringan yang kami gunakan terbuat dari zinc dan aluminium dengan sertifikasi dan standar keamanan 4 kali lebih baik daripada baja biasa. Bahkan, daya tahannya mampu menopang beban berat.
+- **Bahan Berkualitas:** Baja ringan yang kami gunakan terbuat dari zinc dan aluminium dengan sertifikasi dan standar keamanan 4 kali lebih baik daripada baja biasa. Bahkan, daya tahannya mampu menopang beban berat.
 
- **Tahan Rayap:** Anda tidak perlu khawatir tentang serangan rayap yang merusak kerangka atap. Baja ringan dijamin tahan terhadap hama merusak ini.
+- **Tahan Rayap:** Anda tidak perlu khawatir tentang serangan rayap yang merusak kerangka atap. Baja ringan dijamin tahan terhadap hama merusak ini.
 
 ## Sistem Hitung Luas Rangka Baja Ringan Di Pondok Labu Jakarta
 

@@ -25,7 +25,7 @@ berdasarkan Standar Nasional Indonesia ( SK SNI - S - 04 - 1989 - F ; 28) di seb
 
 Syarat Pasir yg Baik buat Bangunan
 
-1.  Agregat Halus semestinya terdiri dari butiran yg tajam dan keras dengan indeks kekerasan <2.2
+1.  Agregat Halus semestinya terdiri dari butiran yg tajam dan keras dengan indeks kekerasan <2.2
 2. bilamana dipakai Natrium Sulfat komponen hancur optimal dua belas %
 3. apabila diterapkan Magnesium Sulfat bagian halus maksimal 10%
 4. Tak boleh berisi lumpur lebih dari lima persen
@@ -41,7 +41,6 @@ Syarat Pasir yg Baik buat Bangunan
 Setelah memahami syarat pasir untuk suatu Konstruksi, pada saat ini kita bahas Ragam - Jenis Pasir Untuk Konstruksi penjelasan nya berikut ini:
 
 - ### Pasir Rigid Di Kebayoran Lama Jakarta
-    
 
 Pasir ini lazim nya berwarna keabu-abuan dan tingkat pecahan butiran nya lumayan tinggi. Melainkan bila anda mengepal nya dengan tangan tak akan lengket dan akan buyar kembali. jenis pasir ini sangat lah baik untuk Pengecoran, Plesteran Dinding, Adukan Pondasi dan Adukan Pasangan Bata Pasir ini yaitu pasir untuk Beton ialah butiran-butiran mineral keras dan tajam berukuran antara 0,075 – 5 mm, jika terdapat butiran berukuran lebih kecil dari 0,063 mm tidak lebih dari 5% berat. Pasir ini yaitu pasir untuk Cor sering diaplikasikan untuk pekerjaan cor-coran struktur seperti kolom, balok dan pelat lantai.
 
@@ -59,21 +58,18 @@ Untuk mendapatkan kekokohan Cor yang maksimal maka pasir patut dapat memenuhi pe
 ![Harga Pasir Putih Bangka Free Ongkir Ke Kebayoran Lama Jakarta](/images/info/pasir-hitam-2.jpg)
 
 - ### Pasir Untuk Adukan Pasang Batu, Pondasi, Bata, Ubin, Plester Di Kebayoran Lama Jakarta
-    
 
 ![Harga Pasir Putih Bangka Free Ongkir Ke Kebayoran Lama Jakarta](/images/info/pasir-putih3.jpg)
 
 Pasir ini ekstra halus lagi diperbandingkan oleh pasir beton. kalau kamu mengepal pasir ini maka akan menggumpal dan tak akan hancur kembali. pasir pasang umum nya di manfaatkan tuk campuran pasir beton agar tidak terlalu kasar dan bisa di gunakan untuk plesteran dinding.
 
 - ### Pasir Elod Untuk Pembuatan Batako Di Kebayoran Lama Jakarta
-    
 
 Di Antara ke dua pasir diatas pasir ragam ini lebih halus lagi, apabila kalian mengepal nya akan menggumpal dan tak akan buyar lagi. tetapi pasir jenis
 
 Pada umum nya pasir ini nyaris sama dengan pasir beton akan tapi pasir ini memiliki tingkat kekasaran yang tinggi, butiran - butiran nya lumayan besar dan agak banyak batuan nya. pada biasanya pasir jenis ini bagus untuk bahan Pembuatan Batako
 
 - ### Pasir Putih Bebas Lumpur Untuk Lapangan Voly Di Kebayoran Lama Jakarta
-    
 
 1. **Pasir Putih Bangka**
 

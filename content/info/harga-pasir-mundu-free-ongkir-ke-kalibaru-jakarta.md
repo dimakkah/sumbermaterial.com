@@ -25,7 +25,7 @@ Menurut Standar Nasional Indonesia ( SK SNI - S - 04 - 1989 - F ; 28) di sebutka
 
 Syarat Pasir yg Baik buat Konstruksi
 
-1.  Agregat Halus semestinya terdiri dari butiran yg tajam dan keras dengan indeks kekerasan <2.2
+1.  Agregat Halus semestinya terdiri dari butiran yg tajam dan keras dengan indeks kekerasan <2.2
 2. bila dimanfaatkan Natrium Sulfat bagian hancur optimal dua belas %
 3. bila dipakai Magnesium Sulfat komponen halus maksimal 10%
 4. Tak boleh mengandung tanah lebih dari 5 persen
@@ -41,7 +41,6 @@ Syarat Pasir yg Baik buat Konstruksi
 Sesudah mengetahui persyaratan pasir untuk sebuah Bangunan, sekarang ini kita bahas model - Jenis Pasir Untuk Konstruksi penjelasan nya sebagai berikut:
 
 - ### Pasir Rigid Di Kalibaru Jakarta
-    
 
 Pasir ini umum nya berwarna coklat tua dan tingkat pecahan butiran nya lumayan tinggi. Tetapi kalau anda mengepal nya dengan tangan tak akan menggumpal dan akan hancur kembali. ragam pasir ini sungguh-sungguh lah baik untuk Pengecoran, Plesteran Dinding, Adukan Pondasi dan Adukan Pasangan Bata Pasir ini yaitu pasir untuk Cor yakni butiran-butiran mineral keras dan tajam berukuran antara 0,075 – 5 mm, seandainya terdapat butiran berukuran lebih kecil dari 0,063 mm tak lebih dari 5% berat. Pasir ini yaitu pasir untuk Cor kerap kali digunakan untuk profesi cor-coran struktur seperti kolom, balok dan pelat lantai.
 
@@ -52,9 +51,9 @@ Harga Pasir Mundu Free Ongkir Ke Kalibaru Jakarta Jikalau anda sebagai konsumen 
 Pasir terbaik dari kp. jebrod cianjur jawa barat yang diterapkan oleh indocement serta perusahaan batching plant lainnya sebagai bahan dasar produksi readymix concrete. Pasir ini paling dianjurkan untuk cor sebab irit semen juga mempunyai kandungan lumpur yang amat rendah dibawah delapan persen. warnanya Hitam abu tua atau hitam seperti hitamnya batu kali, ada juga yang hitam kemerahan atau hitam terasi
 
 3. **Pasir Hitam Rigid Cimangkok.** Pasir asli Daerah penambangannya di cimangkok sukabumi jabar yang masih masuk terhadap klasifikasi pasir hitam No. 1 di jabar, warnanya hitam kecoklatan pantas untuk cor, pasang pondasi dan bata
-    
+
     ![Harga Pasir Mundu Free Ongkir Ke Kalibaru Jakarta](/images/info/jual-pasir-cor-hitam.jpg)
-    
+
 4. **Pasir Hitam Rigid Cimalaka Subang Bandung.**
 
 Pasir nomor satu yang berwarna hitam kebauan ada juga yang berwarna hitam abu tua. Banyak di pakai untuk Rigid, pasang dan keperluan lainnya. Ditambang di kampung cimalaka
@@ -90,9 +89,9 @@ Kecuali Rangkasbitung, Banten juga mempunyai lokasi pnembangan pasir lain sepert
 Masih dari Tempat di banten, pasir kelas tiga ini ialah pasir yang banyak digunakan di proyek proyek perumahan atau cluster sebab harganya yang murah juga kwalitas yang tidak diragukan. Warna pasir ini hitam kecoklatan dan keabuan benar-benar disarankan untuk pasang pondasi, bata, batu dsb
 
 27. **Pasir Hitam Rigid Bohlam Sukabumi.** Pasir dari Kawasan kp. bohlam di sukabumi berwarna hitam kecoklatan, betul-betul bagus untuk pasang bata, pondasi dan lain-lain sebagai opsi pasir kwalitas baik dan tidak mahal
-    
+
     ![Harga Pasir Mundu Free Ongkir Ke Kalibaru Jakarta](/images/info/pasir-hitam-1.jpg)
-    
+
 28. **Pasir Beton Galunggung.**
 
 Pasir ini yakni pasir hitam kwalitas paling unggul dikelasnya umum diaplikasikan oleh pabrik pengolahan beton readymix juga perusahan pembuatan precast dan kerap juga diaplikasikan untuk bahan pembuatan batako press hitam, paving block dan sebagainya. Pasir ini ditambang dari Tasikmalaya jabar.
@@ -100,21 +99,18 @@ Pasir ini yakni pasir hitam kwalitas paling unggul dikelasnya umum diaplikasikan
 ![Harga Pasir Mundu Free Ongkir Ke Kalibaru Jakarta](/images/info/jual-pasir-cor-hitam.jpg)
 
 - ### Pasir Pasang Di Kalibaru Jakarta
-    
 
 ![Harga Pasir Mundu Free Ongkir Ke Kalibaru Jakarta](/images/info/pasir-hitam-4.jpg)
 
 Pasir ini lebih halus lagi diperbandingkan oleh pasir beton. jikalau kamu mengepal pasir ini maka akan menggumpal dan tak akan buyar kembali. pasir pasang umum nya di manfaatkan untuk campuran pasir beton supaya tak kelewat kasar dan bisa di manfaatkan untuk plesteran dinding.
 
 - ### Pasir Kualitas rendah Untuk pemadatan lantai Di Kalibaru Jakarta
-    
 
 Di Antara ke dua pasir diatas pasir tipe ini lebih halus lagi, seandainya kamu mengepal nya karenanya akan menggumpal dan tak akan buyar lagi. namun pasir tipe
 
 Pada umum nya pasir ini nyaris sama dgn pasir beton namun pasir ini mempunyai tingkat kekasaran yang tinggi, butiran - butiran nya cukup besar dan agak banyak batuan nya. pada lazimnya pasir macam ini bagus untuk bahan pemadatan lantai
 
 - ### Pasir Putih Kadar Lumpur Rendah Untuk Lapangan Voly Di Kalibaru Jakarta
-    
 
 1. **Pasir Putih Bangka**
 

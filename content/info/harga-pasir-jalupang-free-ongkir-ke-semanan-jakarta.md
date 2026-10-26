@@ -25,7 +25,7 @@ Berdasarkan Standar Nasional Indonesia ( SK SNI - S - 04 - 1989 - F ; 28) di seb
 
 Syarat-Syarat Pasir yang Bagus Untuk Konstruksi Bangunan
 
-1.  Agregat Halus sepatutnya terdiri dari butiran yang tajam dan keras dengan indeks kekerasan <2.2
+1.  Agregat Halus sepatutnya terdiri dari butiran yang tajam dan keras dengan indeks kekerasan <2.2
 2. bilamana diaplikasikan Natrium Sulfat bagian hancur optimal dua belas persen
 3. sekiranya diterapkan Magnesium Sulfat komponen halus optimal sepuluh persen
 4. Tak boleh memuat clay lebih dari lima persen
@@ -41,7 +41,6 @@ Syarat-Syarat Pasir yang Bagus Untuk Konstruksi Bangunan
 sesudah mengenal syarat pasir buat sebuah Konstruksi, pada saat ini kita bahas Tipe - Macam Pasir Untuk Konstruksi penjelasan nya sbb:
 
 - ### Pasir Model Cor dan Daerah Pengambilannya Di Semanan Jakarta
-    
 
 Pasir ini lazim nya berwarna coklat tua dan tingkat kekasaran butiran nya lumayan tinggi. Namun seandainya anda mengepal nya dengan tangan tak akan lengket dan akan buyar kembali. tipe pasir ini amat lah bagus tuk Pengecoran, Plesteran Dinding, Adukan Pondasi dan Adukan Pasangan Bata Pasir ini yaitu pasir untuk Cor yaitu butiran-butiran mineral keras dan tajam berukuran antara 0,075 – 5 mm, seandainya terdapat butiran berukuran lebih kecil dari 0,063 mm tidak lebih dari 5% berat. Pasir ini yaitu pasir untuk Beton hampir kerap kali dipakai untuk pekerjaan cor-coran struktur seperti kolom, balok dan pelat lantai.
 
@@ -59,21 +58,18 @@ Untuk mendapatkan kekokohan Beton yang maksimal maka pasir harus bisa memenuhi p
 ![Harga Pasir Jalupang Free Ongkir Ke Semanan Jakarta](/images/info/pasir-hitam-9.jpg)
 
 - ### Pasir Untuk Pemasangan Batu, Pondasi, Bata, Ubin, Plester Di Semanan Jakarta
-    
 
 ![Harga Pasir Jalupang Free Ongkir Ke Semanan Jakarta](/images/info/pasir-hitam-11.jpg)
 
 Pasir ini lebih halus lagi dibandingkan oleh pasir beton. kalau anda mengepal pasir ini maka akan menggumpal dan tidak akan hancur kembali. pasir pasang biasa nya di manfaatkan buat campuran pasir beton supaya tak terlalu kasar dan dapat di manfaatkan untuk plesteran dinding.
 
 - ### Pasir Urug Untuk pengurugan lantai Di Semanan Jakarta
-    
 
 Di Antara ke dua pasir diatas pasir tipe ini lebih halus lagi, jika kalian mengepal nya akan menggumpal dan tidak akan buyar lagi. namun pasir macam
 
 Pada umum nya pasir ini nyaris sama dgn pasir beton namun pasir ini memiliki tingkat kekasaran yang tinggi, butiran - butiran nya cukup besar dan agak banyak batuan nya. pada umumnya pasir tipe ini baik tuk bahan Pembuatan Batako
 
 - ### Pasir Putih Halus Untuk Pelester Di Semanan Jakarta
-    
 
 1. **Pasir Putih Bangka**
 

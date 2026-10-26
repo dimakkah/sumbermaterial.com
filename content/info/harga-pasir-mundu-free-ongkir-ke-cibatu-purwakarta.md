@@ -25,7 +25,7 @@ Berdasarkan Standar Nasional Indonesia ( SK SNI - S - 04 - 1989 - F ; 28) di seb
 
 Syarat-Syarat Pasir yg Baik tuk Konstruksi Bangunan
 
-1.  Agregat Halus patut terdiri dari butiran yang tajam dan keras dengan indeks kekerasan <2.2
+1.  Agregat Halus patut terdiri dari butiran yang tajam dan keras dengan indeks kekerasan <2.2
 2. bilamana diterapkan Natrium Sulfat komponen hancur optimal 12 persen
 3. seandainya dipakai Magnesium Sulfat bagian halus optimal 5 persen
 4. Tidak boleh berisi clay lebih dari lima %
@@ -41,7 +41,6 @@ Syarat-Syarat Pasir yg Baik tuk Konstruksi Bangunan
 Sesudah tahu persis syarat pasir untuk suatu Konstruksi Bangunan, pada saat ini kita bahas Ragam - Tipe Pasir Untuk Konstruksi Bangunan penjelasan nya sebagai berikut:
 
 - ### Pasir Untuk Beton Di Cibatu Purwakarta
-    
 
 Pasir ini umum nya berwarna hitam gelap dan tingkat kekasaran butiran nya lumayan tinggi. Namun apabila anda mengepal nya dengan tangan tak akan menggumpal dan akan hancur kembali. macam pasir ini betul-betul lah baik untuk Pengecoran, Plesteran Dinding, Adukan Pondasi dan Adukan Pasangan Bata Pasir ini yaitu pasir untuk Cor adalah butiran-butiran mineral keras dan tajam berukuran antara 0,075 – 5 mm, kalau terdapat butiran berukuran lebih kecil dari 0,063 mm tak lebih dari 5% berat. Pasir ini yaitu pasir untuk Rigid kerap diterapkan untuk pekerjaan cor-coran struktur seperti kolom, balok dan pelat lantai.
 
@@ -52,9 +51,9 @@ Harga Pasir Mundu Free Ongkir Ke Cibatu Purwakarta Jika anda sebagai konsumen /p
 Pasir paling unggul asli kp. jebrod cianjur jawa barat yang diaplikasikan oleh indocement serta perusahaan batching plant lainnya sebagai bahan dasar produksi readymix concrete. Pasir ini paling dianjurkan untuk cor sebab irit semen juga mempunyai kandungan lumpur yang sungguh-sungguh rendah dibawah delapan persen. warnanya Hitam abu tua atau hitam seperti hitamnya batu kali, ada juga yang hitam kemerahan atau hitam terasi
 
 3. **Pasir Hitam Cor Cimangkok.** Pasir asal Daerah penambangannya di cimangkok sukabumi jawa barat yang masih masuk pada klasifikasi pasir hitam nomor satu di jabar, warnanya hitam kecoklatan layak untuk cor, pasang pondasi dan bata
-    
+
     ![Harga Pasir Mundu Free Ongkir Ke Cibatu Purwakarta](/images/info/jual-pasir-cor-hitam.jpg)
-    
+
 4. **Pasir Hitam Rigid Cimalaka Subang Bandung.**
 
 Pasir terbaik yang berwarna hitam kebauan ada juga yang berwarna hitam abu tua. Banyak di aplikasikan untuk Cor, pasang dan keperluan lainnya. Ditambang di kampung cimalaka
@@ -90,9 +89,9 @@ Kecuali Rangkasbitung, Banten juga mempunyai lokasi pnembangan pasir lain sepert
 Masih dari Daerah di banten, pasir kelas tiga ini yaitu pasir yang banyak diaplikasikan di proyek proyek perumahan atau cluster sebab harganya yang murah juga mutu yang bagus. Warna pasir ini hitam kecoklatan dan keabuan benar-benar disarankan untuk pasang pondasi, bata, batu dan lain-lain
 
 27. **Pasir Hitam Cor Bohlam Sukabumi.** Pasir dari Daerah kp. bohlam di sukabumi berwarna hitam kecoklatan, benar-benar bagus untuk pasang bata, pondasi dan sebagainya sebagai pilihan pasir kwalitas bagus dan murah
-    
+
     ![Harga Pasir Mundu Free Ongkir Ke Cibatu Purwakarta](/images/info/pasir-hitam-5.jpg)
-    
+
 28. **Pasir Beton Galunggung.**
 
 Pasir ini merupakan pasir hitam mutu paling unggul dikelasnya lazim digunakan oleh pabrik pengolahan beton readymix juga perusahan pembuatan precast dan kerap juga diaplikasikan untuk bahan pembuatan batako press hitam, paving block dan lainnya. Pasir ini ditambang dari Tasikmalaya jabar.
@@ -100,21 +99,18 @@ Pasir ini merupakan pasir hitam mutu paling unggul dikelasnya lazim digunakan ol
 ![Harga Pasir Mundu Free Ongkir Ke Cibatu Purwakarta](/images/info/pasir-hitam-9.jpg)
 
 - ### Pasir Untuk Pemasangan Batu, Pondasi, Bata, Ubin, Plester Di Cibatu Purwakarta
-    
 
 ![Harga Pasir Mundu Free Ongkir Ke Cibatu Purwakarta](/images/info/pasir-hitam-4.jpg)
 
 Pasir ini lebih halus lagi diperbandingkan oleh pasir beton. jikalau kamu mengepal pasir ini karenanya akan menggumpal dan tidak akan hancur kembali. pasir pasang lazim nya di manfaatkan untuk adukan pasir beton supaya tak terlalu kasar dan bisa di pakai untuk plesteran dinding.
 
 - ### Pasir Kualitas rendah Untuk pemadatan lantai Di Cibatu Purwakarta
-    
 
 Di Antara ke dua pasir diatas pasir macam ini lebih halus lagi, sekiranya kalian mengepal nya maka akan menggumpal dan tak akan hancur lagi. melainkan pasir ragam tidak bagus tuk di buat sebagai bahan bangunan. pasir tipe ini pada nya di pergunakan untuk Bahan Pembuatan Batako
 
 Pada nya pasir ini nyaris sama dgn pasir beton melainkan pasir ini memiliki tingkat kekasaran yg tinggi, butiran - butiran nya lumayan besar dan agak banyak batuan nya. pada biasanya pasir macam ini baik untuk bahan pengurugan lantai
 
 - ### Pasir Putih Tanpa Ayak Untuk Pasang Keramik Di Cibatu Purwakarta
-    
 
 1. **Pasir Putih Bangka**
 

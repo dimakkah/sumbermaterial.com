@@ -18,19 +18,19 @@ Tanpa adanya besi karenanya sebuah bangunan akan mudah retak dikala ada getaran 
 
 ## Seperti Ini Macam-macam Besi Di Cibadak Bogor
 
-### 1\. Besi Polos KS 4mm, 6mm, 8mm, 10mm, 12mm, 16mm, 18mm, 19mm Di Cibadak Bogor
+### 1. Besi Polos KS 4mm, 6mm, 8mm, 10mm, 12mm, 16mm, 18mm, 19mm Di Cibadak Bogor
 
 Besi polos mempunyai ukuran mulai dari 8 mm hingga 25 mm dan mempunyai 6 meter panjang tekuk dan 12 meter panjang lurus. Besi beton ini sudah mulai diaplikasikan sebagai bahan utama di Indonesia pada tahun 1950. Besi ini kerap kali digunakan untuk membangun tempat tinggal. Bahan yang gampang dipakai sehingga selain dari diaplikasikan untuk membangun rumah juga diterapkan untuk membangun trowongan, bendungan, dan lainnya. Dikala diterapkan untuk membangun bangunan beton bertingkat karenanya biasa besi polos ini diaplikasikan untuk struktur rangkaian besi balok, dinding, dan sloof. Besi beton polos ini memiliki keunggulan besi polos ini tegangannya lebih tinggi dari pada besi lainnya. Oleh karena itu besi ini terkesan lebih kokoh dan tahan beban. Sehingga penggunaan besi polos ini sangat pantas untuk membangun gedung, jembatan, dan bangunan lainnya. Besi polos ini terbuat dari bahan seperti billet dan skrap. Billet merupakan baja batangan yang proses pembuatannya dengan mengecor biji besi. Seandainya skrap yaitu besi bekas yang dileburkan dengan temperature tertentu. Selain itu jikalau anda menerapkan besi polos ini tdk memerlukan anggaran pemeliharaan. Semakin lama digunakan karenanya besi ini akan semakin kokoh.
 
-### 2\. Besi Ulir 4mm, 6mm, 8mm, 10mm, 12mm, 16mm, 18mm, 19mm Di Cibadak Bogor
+### 2. Besi Ulir 4mm, 6mm, 8mm, 10mm, 12mm, 16mm, 18mm, 19mm Di Cibadak Bogor
 
 Cocok dengan namanya besi beton ulir ini yaitu besi yang tampilannya mengulir. Pada permukaannya bercorak spiral yang memiliki tujuan untuk menyatukan gerigi besi dengan elemen material bangunan yang dibangun oleh besi beton. Besi ulir ini mulai populer digunakan pada abad ke-20 di Amerika dan mulai populer di Indonesia pada tahun1950. Mengingat saat menggunakan besi ulir ini memiliki banyak kelebihan mulai dari kekokohan bangunan serta lebih hemat biaya dan efisien. Produk besi ulir ini menjadi andalan pasar karena mempunyai mutu yang terbaik di Indonesia dan mempunyai harga yang tinggi jikalau dibandingkan dengan produk lainnya.
 
-### 3\. Besi WF dan H-Beam SNI Di Cibadak Bogor
+### 3. Besi WF dan H-Beam SNI Di Cibadak Bogor
 
 Besi Wide Flange (WF) ini yaitu salah satu baja dengan struktural yang paling populer dipakai untuk kontruksi baja. Bila anda memerlukan besi baja Wide Flage dalam quantitas yang banyak atau sedikit karenanya silahkan cari supplier besi yang terpercaya. Besi WF ini mempunyai kekokohan yang kokoh dan kuat pada ketahanan tarik atau tekan. Karenanya dari itu besi ini menjadi faktor struktur yang mempunyai batasan yang paripurna untuk menopang muatan tekan aksial, tarik aksial, dan lentur dengan fasilitas pembangunan strukturnya. Baja Wide Flange (WF) ini memiliki kepadatan yang tinggi namun rasio berat antara kekokohan komponen Baja WF yang tinggi namun tdk terlalu berat yang berhubungan dengan kapasitas beban. Selain dari itu memastikan kalau kontruksi yang diterapkan secara efisien. Metode kontruksi baja WF ini kombinasi dari elemen struktur yang rumit. Pada struktur ini memiliki tujuan membawa beban yang aman dan tepat sasaran yang bekerja pada sebuah bangunan dan dikirim pada pondasinya. Gaya dan bobot yang berefek ini termasuk beban pertikal, perbedaan temperatur, horizontal, getaran dan lainnya. Pada sebuah bangunan baja, karenanya ada unsure yang berguna menopang gaya lateral dan gravitasi.
 
-### 4\. Besi Hollow Di Cibadak Bogor
+### 4. Besi Hollow Di Cibadak Bogor
 
 Besi hollow merupakan besi yang digunakan sebagai pembuatan kanopi, pagar, pintu besi dan lainnya. Bahan baku pembuatan besi Hollow ini lazimnya terbuat dari stainless, galvanis, dan besi baja. Tapi yang paling sering kali diterapkan sebagai bahan baku adalah galvanis. Terdapat kelebihan yang anda dapatkan dikala memasang kanopi, menerapkan pagar, teralis menggunakan besi hollow:
 

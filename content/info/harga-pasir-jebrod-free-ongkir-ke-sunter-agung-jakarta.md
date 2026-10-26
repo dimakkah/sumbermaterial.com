@@ -25,7 +25,7 @@ Berdasarkan Standar Nasional Indonesia ( SK SNI - S - 04 - 1989 - F ; 28) di seb
 
 Syarat-Syarat Pasir yg Bagus tuk Konstruksi
 
-1.  Agregat Halus semestinya terdiri dari butiran yang tajam dan keras dengan indeks kekerasan <2.2
+1.  Agregat Halus semestinya terdiri dari butiran yang tajam dan keras dengan indeks kekerasan <2.2
 2. bilamana dimanfaatkan Natrium Sulfat bagian hancur optimal dua belas %
 3. jika dipakai Magnesium Sulfat bagian halus maksimal 10%
 4. Tak boleh berisi tanah lebih dari 5%
@@ -41,7 +41,6 @@ Syarat-Syarat Pasir yg Bagus tuk Konstruksi
 sesudah mengenal persyaratan pasir buat suatu Bangunan, saat ini kita bahas Macam - Jenis Pasir Untuk Bangunan penjelasan nya sbb:
 
 - ### Pasir Beton Di Sunter Agung Jakarta
-    
 
 Pasir ini biasa nya berwarna hitam kemerahan dan tingkat kekerasan butiran nya lumayan tinggi. Melainkan jikalau anda mengepal nya dengan tangan tak akan menggumpal dan akan buyar kembali. jenis pasir ini sangat lah bagus untuk Pengecoran, Plesteran Dinding, Adukan Pondasi dan Adukan Pasangan Bata Pasir ini yaitu pasir untuk Rigid adalah butiran-butiran mineral keras dan tajam berukuran antara 0,075 – 5 mm, sekiranya terdapat butiran berukuran lebih kecil dari 0,063 mm tidak lebih dari 5% berat. Pasir ini yaitu pasir untuk Beton hampir sering kali dimanfaatkan untuk pekerjaan cor-coran struktur seperti kolom, balok dan pelat lantai.
 
@@ -52,9 +51,9 @@ Harga Pasir Jebrod Free Ongkir Ke Sunter Agung Jakarta Jikalau anda sebagai kons
 Pasir paling unggul dari kp. jebrod cianjur jawa barat yang diterapkan oleh indocement serta perusahaan batching plant lainnya sebagai bahan dasar produksi readymix concrete. Pasir ini paling disarankan untuk cor sebab irit semen juga mempunyai kandungan lumpur yang sungguh-sungguh rendah dibawah delapan %. warnanya Hitam abu tua atau hitam seperti hitamnya batu kali, ada juga yang hitam kemerahan atau hitam terasi
 
 3. **Pasir Hitam Beton Cimangkok.** Pasir diambil dari Tempat penambangannya di cimangkok sukabumi jawa barat yang masih masuk terhadap kategori pasir hitam kelas satu di jabar, warnanya hitam kecoklatan sesuai untuk cor, pasang pondasi dan bata
-    
+
     ![Harga Pasir Jebrod Free Ongkir Ke Sunter Agung Jakarta](/images/info/pasir-hitam-7.jpg)
-    
+
 4. **Pasir Hitam Cor Cimalaka Subang Bandung.**
 
 Pasir nomor satu yang berwarna hitam kebauan ada juga yang berwarna hitam abu tua. Banyak di aplikasikan untuk Beton, pasang dan keperluan lainnya. Ditambang di kampung cimalaka
@@ -90,9 +89,9 @@ Kecuali Rangkasbitung, Banten juga mempunyai lokasi pnembangan pasir lain sepert
 Masih dari Tempat di banten, pasir kelas tiga ini yaitu pasir yang banyak diaplikasikan di proyek proyek perumahan atau cluster sebab harganya yang murah juga kwalitas yang baik. Warna pasir ini hitam kecoklatan dan keabuan amat disarankan untuk pasang pondasi, bata, batu dan sebagainya
 
 27. **Pasir Hitam Rigid Bohlam Sukabumi.** Pasir dari Kawasan kp. bohlam di sukabumi berwarna hitam kecoklatan, benar-benar bagus untuk pasang bata, pondasi dsb sebagai opsi pasir mutu baik dan murah
-    
+
     ![Harga Pasir Jebrod Free Ongkir Ke Sunter Agung Jakarta](/images/info/pasir-hitam-7.jpg)
-    
+
 28. **Pasir Rigid Galunggung.**
 
 Pasir ini merupakan pasir hitam kwalitas paling unggul dikelasnya awam diterapkan oleh pabrik pengolahan beton readymix juga perusahan pembuatan precast dan acap kali juga diterapkan untuk bahan pembuatan batako press hitam, paving block dan sebagainya. Pasir ini ditambang dari Tasikmalaya jawa barat.
@@ -100,21 +99,18 @@ Pasir ini merupakan pasir hitam kwalitas paling unggul dikelasnya awam diterapka
 ![Harga Pasir Jebrod Free Ongkir Ke Sunter Agung Jakarta](/images/info/pasir-hitam-8.jpg)
 
 - ### Pasir Untuk Pemasangan Batu, Pondasi, Bata, Ubin, Plester Di Sunter Agung Jakarta
-    
 
 ![Harga Pasir Jebrod Free Ongkir Ke Sunter Agung Jakarta](/images/info/pasir-putih3.jpg)
 
 Pasir ini ekstra halus lagi dibandingkan oleh pasir beton. seandainya kalian mengepal pasir ini karenanya akan menggumpal dan tak akan hancur kembali. pasir pasang biasa nya di pakai tuk adukan pasir beton agar tidak terlalu kasar dan bisa di manfaatkan untuk plesteran dinding.
 
 - ### Pasir Elod Untuk pengurugan lantai Di Sunter Agung Jakarta
-    
 
 Di Antara ke dua pasir diatas pasir macam ini lebih halus lagi, seandainya kamu mengepal nya akan menggumpal dan tidak akan buyar lagi. tetapi pasir tipe
 
 Pada biasa nya pasir ini nyaris sama dengan pasir beton akan tapi pasir ini memiliki tingkat kekasaran yg tinggi, butiran - butiran nya lumayan besar dan agak banyak batuan nya. pada umumnya pasir jenis ini bagus tuk bahan pemadatan lantai
 
 - ### Pasir Putih Tanpa Ayak Untuk Pasang Lantai Marmer Di Sunter Agung Jakarta
-    
 
 1. **Pasir Putih Bangka**
 

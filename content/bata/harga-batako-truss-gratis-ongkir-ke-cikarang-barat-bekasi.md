@@ -16,7 +16,7 @@ sekarang ini material yg digunakan untuk mengisi dinding bangunan, telah terdapa
 
 ## Mengenal Jenis-jenis Bata
 
-### 1\. Bata Merah Standar & Jumbo Di Cikarang Barat Bekasi
+### 1. Bata Merah Standar & Jumbo Di Cikarang Barat Bekasi
 
 ![Harga Batako Truss Gratis Ongkir Ke Cikarang Barat Bekasi](/images/bata/bata-merah-oven-28.png)
 
@@ -26,7 +26,7 @@ Bata merah ini dijadikan dari material tanah yg kemudian di cetak dan dibakar de
 
 Material bangunan ini sungguh-sungguh kuat kepada panas dan layak dijadikan perlindungan dari bahaya api. Bata merah ini pada biasanya memiliki ukuran panjang antara 17-23 cm dan lebar sekitar 7-11 cm, serta tebalnya 3-5 cm. memiliki ukuran yang lebih kecil akan memberi kemudahan dalam proses pengangkutan dan dapat diaplikasikan untuk menyusun bidang kecil.
 
-### 2\. Batako Hitam dan Putih Di Cikarang Barat Bekasi
+### 2. Batako Hitam dan Putih Di Cikarang Barat Bekasi
 
 ![Harga Batako Truss Gratis Ongkir Ke Cikarang Barat Bekasi](/images/bata/batako-hitam-press-30.png)
 
@@ -34,7 +34,7 @@ Bahan bangunan tembok dari batako ini secara umum terbuat dari bahan Komposisi s
 
 Batako press seperti ini memiliki kekurangan seperti gampang retak, lebih panas dan pengap. Berbeda dengan bata merah yang terbuat dari bahan tanah. Tapi batako trus ini cenderung lebih ringan daripada bata merah. Akibatnya akan menonjol lebih halus dan ukurannya lebih presisi apabila diperbandingkan dg bata merah. Batako press Hitam ini mempunyai ukuran panjang sekitar 36-40 cm, tinggi 18-20 cm dan tebal 8-10 cm. bahan ini acap kali dipilih karena untuk memperingan muatan struktur bangunan, meminimalisir sisa bahan dan mempermudah pembangunan.
 
-### 3\. Bata Hebel Di Cikarang Barat Bekasi
+### 3. Bata Hebel Di Cikarang Barat Bekasi
 
 ![Harga Batako Truss Gratis Ongkir Ke Cikarang Barat Bekasi](/images/bata/bata-hebel-sni-08.png)
 
@@ -62,7 +62,7 @@ Segalanya tentu sudah tahu kegunaan utama batu bata mulai digunakan untuk membik
 
 Sistem mengorder batu bata yang aman dan terpercaya:
 
-1.  Progres pembayaran dapat anda lakukan secara COD atau dibayar di daerah saat barang pesanan anda telah datang di daerah
+1.  Progres pembayaran dapat anda lakukan secara COD atau dibayar di daerah saat barang pesanan anda telah datang di daerah
 2. Silahkan memilih dan memastikan bahan batu bata yg anda inginkan
 3. Tentukan juga jumlah pesanan batu bata yg anda butuhkan dalam format bijian.
 4. Anda dapat menghubungi layanan telepon toko untuk memudahkan pengerjaan pengorderan

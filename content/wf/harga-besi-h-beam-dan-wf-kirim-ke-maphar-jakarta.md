@@ -50,13 +50,13 @@ d. tidak dapat menjangkau tempat yang sempit. Mengingat Besi WF ini berukuran pa
 
 ### Keunggulan Dari Besi WF Di Maphar Jakarta
 
-1\. Dapat mengurangi waktu dalam pembangunan sebuah konstruksi bangunan, mengurangi waktu dan juga memaksimalkan ongkos dan tenaga tukang.
+1. Dapat mengurangi waktu dalam pembangunan sebuah konstruksi bangunan, mengurangi waktu dan juga memaksimalkan ongkos dan tenaga tukang.
 
-2\. Bisa menopang beban yang betul-betul berat, tidak mudah memuai dan lebih simple pemakaiannya dibanding dengan material struktural lainnya.
+2. Bisa menopang beban yang betul-betul berat, tidak mudah memuai dan lebih simple pemakaiannya dibanding dengan material struktural lainnya.
 
-3\. Mempunyai fleksibilitas yang tinggi. Sehingga struktur bangunan yang dihasilkan dari Besi WF ini menjadi lebih kuat tdk gampang bergeser, tdk gampang runtuh ataupun goyang. Amat pantas untuk tipe bangunan diatas tanah yang labil atau sering kali terjadi gempa.
+3. Mempunyai fleksibilitas yang tinggi. Sehingga struktur bangunan yang dihasilkan dari Besi WF ini menjadi lebih kuat tdk gampang bergeser, tdk gampang runtuh ataupun goyang. Amat pantas untuk tipe bangunan diatas tanah yang labil atau sering kali terjadi gempa.
 
-4\. Lebih hemat sebab struktur bangunan yang menggunakan Besi WF akan memiliki kekokohan yang cukup lama bahkan hingga ratusan tahun. Tentunya ini adalah investasi yang amat murah jika kita bandingkan dengan waktu gunakan. Malahan bangunan yang dibangun dengan tulangan Besi WF dapat kita wariskan terhadap buah hati cucu kita.
+4. Lebih hemat sebab struktur bangunan yang menggunakan Besi WF akan memiliki kekokohan yang cukup lama bahkan hingga ratusan tahun. Tentunya ini adalah investasi yang amat murah jika kita bandingkan dengan waktu gunakan. Malahan bangunan yang dibangun dengan tulangan Besi WF dapat kita wariskan terhadap buah hati cucu kita.
 
 ## Mengetahui Besi H Beam Di Maphar Jakarta
 
@@ -72,15 +72,15 @@ Sama seperti besi yang kami jelaskan sebelumnya yaitu Besi WF, besi H-Beam pun m
 
 ### Keunggulan Besi H Beam Di Maphar Jakarta
 
-1\. Mudah untuk didapatkan. Banyak toko besi yang menyediakan stok besi H-Beam berbagai ukuran. Sehingga besi H-Beam ini sungguh-sungguh gampang untuk diperoleh, tidak sulit untuk mendapatkan toko besi yang memasarkan besi H Beam.
+1. Mudah untuk didapatkan. Banyak toko besi yang menyediakan stok besi H-Beam berbagai ukuran. Sehingga besi H-Beam ini sungguh-sungguh gampang untuk diperoleh, tidak sulit untuk mendapatkan toko besi yang memasarkan besi H Beam.
 
-2\. Mudah Dalam Pemasangan. Banyak tukang ahli dalam pemasangan besi H Beam. Meski besi H-Beam ini sepatutnya dipasang oleh tukang yang berpengalaman namun tukang yang profesional dalam memasang besi H Beam ini sangat banyak kita temui hari ini. Sehingga tidak perlu dikhawatirkan lagi proses pemasangannya.
+2. Mudah Dalam Pemasangan. Banyak tukang ahli dalam pemasangan besi H Beam. Meski besi H-Beam ini sepatutnya dipasang oleh tukang yang berpengalaman namun tukang yang profesional dalam memasang besi H Beam ini sangat banyak kita temui hari ini. Sehingga tidak perlu dikhawatirkan lagi proses pemasangannya.
 
-3\. Mempunyai kekuatan yang tdk diragukan lagi. Besi H Beam sudah teruji selama bertahun-tahun dalam kontruksi bangunan. Apakah skala kecil ataupun skala besar dan terbilang betul-betul awet apabila dibandingi dengan material lainnya. Dapat bertahan hingga puluhan sampai ratusan tahun.
+3. Mempunyai kekuatan yang tdk diragukan lagi. Besi H Beam sudah teruji selama bertahun-tahun dalam kontruksi bangunan. Apakah skala kecil ataupun skala besar dan terbilang betul-betul awet apabila dibandingi dengan material lainnya. Dapat bertahan hingga puluhan sampai ratusan tahun.
 
-4\. Gampang dalam pemeliharaannya. Bangunan yang memakai besi H Beam sebagai struktur rangka bangunannya akan sungguh-sungguh mudah dalam melakukan perawatannya. tdk perlu pengecatan dengan cat khusus maupun pembersihan setiap saat.
+4. Gampang dalam pemeliharaannya. Bangunan yang memakai besi H Beam sebagai struktur rangka bangunannya akan sungguh-sungguh mudah dalam melakukan perawatannya. tdk perlu pengecatan dengan cat khusus maupun pembersihan setiap saat.
 
-5\. Mengurangi pengaplikasian material lainnya, seperti penerapan bekisting, pemakaian perancah atau tiang penyangga dan juga material pasir. Besi H Beam Tdk membutuhkan material pasir dalam penerapannya.
+5. Mengurangi pengaplikasian material lainnya, seperti penerapan bekisting, pemakaian perancah atau tiang penyangga dan juga material pasir. Besi H Beam Tdk membutuhkan material pasir dalam penerapannya.
 
 ### Kekurangan Dari Besi H Beam Di Maphar Jakarta
 

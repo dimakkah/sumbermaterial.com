@@ -18,19 +18,19 @@ Dengan tidak adanya besi maka sebuah bangunan akan mudah retak ketika ada guncan
 
 ## Megenal Variasi-tipe Besi Di Koja Jakarta
 
-### 1\. Besi Polos KS 4mm, 6mm, 8mm, 10mm, 12mm, 16mm, 18mm, 19mm Di Koja Jakarta
+### 1. Besi Polos KS 4mm, 6mm, 8mm, 10mm, 12mm, 16mm, 18mm, 19mm Di Koja Jakarta
 
 Besi polos memiliki ukuran mulai dari 8 mm hingga 25 mm dan mempunyai 6 meter panjang tekuk dan 12 meter panjang lurus. Besi beton ini telah mulai digunakan sebagai bahan utama di Indonesia pada tahun 1950. Besi ini kerap kali diterapkan untuk membangun rumah. Bahan yang gampang diterapkan sehingga selain dari digunakan untuk membangun bangunan beton juga dipakai untuk membangun trowongan, bendungan, dan lainnya. Ketika diterapkan untuk membangun sebuah gedung bertingkat maka biasanya besi polos ini diaplikasikan untuk struktur rangkaian besi balok, dinding, dan sloof. Besi beton polos ini mempunyai kelebihan besi polos ini tegangannya lebih tinggi dari pada besi lainnya. Oleh karena itu besi ini terkesan lebih kokoh dan tahan beban. Jadi pengaplikasian besi polos ini amat cocok untuk membangun gedung, jembatan, dan bangunan lainnya. Besi polos ini terbuat dari bahan seperti billet dan skrap. Billet yaitu baja batangan yang pelaksanaan pembuatannya dengan mengecor biji besi. Bila skrap adalah besi bekas yang dihancurkan dengan temperature tertentu. Selain dari itu bila anda mengaplikasikan besi polos ini tidak memerlukan budget pemeliharaan. Semakin lama digunakan karenanya besi ini akan semakin kokoh.
 
-### 2\. Besi Ulir 4mm, 6mm, 8mm, 10mm, 12mm, 16mm, 18mm, 19mm Di Koja Jakarta
+### 2. Besi Ulir 4mm, 6mm, 8mm, 10mm, 12mm, 16mm, 18mm, 19mm Di Koja Jakarta
 
 Selaras dengan namanya besi beton ulir ini merupakan besi yang bentuknya mengulir. Pada permukaannya bercorak spiral yang mempunyai tujuan untuk menyatukan tulangan dengan faktor bahan bangunan yang dibangun oleh besi beton. Besi ulir ini mulai populer digunakan pada abad ke-20 di Amerika dan mulai populer di Indonesia pada tahun1950. Mengingat dikala menggunakan besi ulir ini mempunyai banyak keunggulan mulai dari kekuatan bangunan serta lebih murah dan efisien. Produk besi ulir ini menjadi paling laris di pasar sebab memiliki mutu yang terbaik di Indonesia dan memiliki harga yang tinggi jikalau dibandingkan dengan produk lainnya.
 
-### 3\. Besi WF dan H-Beam SNI Di Koja Jakarta
+### 3. Besi WF dan H-Beam SNI Di Koja Jakarta
 
 Besi Wide Flange (WF) ini adalah salah satu baja dengan struktural yang paling banyak digunakan untuk kontruksi baja. Sekiranya anda memerlukan besi baja Wide Flage dalam quantitas yang banyak atau sedikit maka silahkan cari jual besi yang terpercaya. Besi WF ini memiliki kekuatan yang kokoh dan kuat pada kekokohan tarik atau tekan. Maka dari itu besi ini menjadi elemen struktur yang mempunyai batasan yang paripurna untuk menahan bobot tekan aksial, tarik aksial, dan lentur dengan fasilitas pembangunan strukturnya. Baja Wide Flange (WF) ini memiliki kepadatan yang tinggi melainkan rasio berat antara kekuatan bagian Baja WF yang tinggi tetapi tdk begitu berat yang berhubungan dengan kapasitas muatan. Selain itu memastikan sekiranya kontruksi yang diaplikasikan secara efisien. Metode kontruksi baja WF ini kombinasi dari faktor struktur yang kompleks. Pada struktur ini mempunyai tujuan membawa beban yang aman dan efektif yang bekerja pada sebuah bangunan dan dikirim pada pondasinya. Gaya dan beban yang berefek ini termasuk muatan pertikal, perbedaan temperatur, horizontal, getaran dan lainnya. Pada sebuah bangunan baja, karenanya ada unsure yang berguna menahan gaya lateral dan gravitasi.
 
-### 4\. Besi Holow Di Koja Jakarta
+### 4. Besi Holow Di Koja Jakarta
 
 Besi hollow ialah besi yang digunakan sebagai pembuatan kanopi, pagar, pintu besi dan lainnya. Bahan baku pembuatan besi Hollow ini umumnya terbuat dari stainless, galvanis, dan besi baja. Namun yang paling sering dipakai sebagai bahan baku yakni galvanis. Terdapat kelebihan yang anda dapatkan ketika menerapkan kanopi, mengaplikasikan pagar, teralis menerapkan besi hollow:
 

@@ -25,7 +25,7 @@ menurut Standar Nasional Indonesia ( SK SNI - S - 04 - 1989 - F ; 28) di sebutka
 
 Syarat-Syarat Pasir yg Bagus buat Bangunan
 
-1.  Agregat Halus wajib terdiri dari butiran yang tajam dan keras dengan indeks kekerasan <2.2
+1.  Agregat Halus wajib terdiri dari butiran yang tajam dan keras dengan indeks kekerasan <2.2
 2. bilamana dipakai Natrium Sulfat komponen hancur optimal dua belas %
 3. sekiranya digunakan Magnesium Sulfat komponen halus optimal sepuluh persen
 4. Tak boleh mengandung lumpur lebih dari 5%
@@ -41,7 +41,6 @@ Syarat-Syarat Pasir yg Bagus buat Bangunan
 Setelah mengenal prasyarat pasir untuk sebuah Bangunan, saat ini kita bahas model - Ragam Pasir Untuk Konstruksi Bangunan penjelasan nya sebagai berikut:
 
 - ### Pasir Beton Di Tarumajaya Bekasi
-    
 
 Pasir ini umum nya berwarna hitam gelap dan tingkat kekerasan butiran nya lumayan tinggi. Melainkan apabila anda mengepal nya dengan tangan tak akan menggumpal dan akan hancur kembali. tipe pasir ini sangat lah baik tuk Pengecoran, Plesteran Dinding, Adukan Pondasi dan Adukan Pasangan Bata Pasir ini yaitu pasir untuk Rigid merupakan butiran-butiran mineral keras dan tajam berukuran antara 0,075 – 5 mm, kalau terdapat butiran berukuran lebih kecil dari 0,063 mm tak lebih dari 5% berat. Pasir ini yaitu pasir untuk Beton hampir tak jarang dimanfaatkan untuk profesi cor-coran struktur seperti kolom, balok dan pelat lantai.
 
@@ -52,9 +51,9 @@ Harga Pasir Putih Bangka Free Ongkir Ke Tarumajaya Bekasi Bila anda sebagai kons
 Pasir paling unggul dari kp. jebrod cianjur jawa barat yang digunakan oleh indocement serta perusahaan batching plant lainnya sebagai bahan dasar produksi readymix concrete. Pasir ini paling dianjurkan untuk cor sebab irit semen juga mempunyai kandungan lumpur yang sungguh-sungguh rendah dibawah delapan persen. warnanya Hitam abu tua atau hitam seperti hitamnya batu kali, ada juga yang hitam kemerahan atau hitam terasi
 
 3. **Pasir Hitam Rigid Cimangkok.** Pasir diambil dari Tempat penambangannya di cimangkok sukabumi jabar yang masih masuk terhadap klasifikasi pasir hitam paling unggul di jawa barat, warnanya hitam kecoklatan sesuai untuk cor, pasang pondasi dan bata
-    
+
     ![Harga Pasir Putih Bangka Free Ongkir Ke Tarumajaya Bekasi](/images/info/pasir-hitam-2.jpg)
-    
+
 4. **Pasir Hitam Cor Cimalaka Subang Bandung.**
 
 Pasir nomor satu yang berwarna hitam kebauan ada juga yang berwarna hitam abu tua. Banyak di aplikasikan untuk Rigid, pasang dan keperluan lainnya. Ditambang di kampung cimalaka
@@ -90,9 +89,9 @@ Kecuali Rangkasbitung, Banten juga mempunyai lokasi pnembangan pasir lain sepert
 Masih dari Lokasi di banten, pasir kelas tiga ini merupakan pasir yang banyak diaplikasikan di proyek proyek perumahan atau cluster sebab harganya yang murah juga mutu yang bagus. Warna pasir ini hitam kecoklatan dan keabuan betul-betul dianjurkan untuk pasang pondasi, bata, batu dan lainnya
 
 27. **Pasir Hitam Beton Bohlam Sukabumi.** Pasir dari Daerah kp. bohlam di sukabumi berwarna hitam kecoklatan, amat bagus untuk pasang bata, pondasi dan lainnya sebagai pilihan pasir kwalitas unggul dan tidak mahal
-    
+
     ![Harga Pasir Putih Bangka Free Ongkir Ke Tarumajaya Bekasi](/images/info/pasir-hitam-9.jpg)
-    
+
 28. **Pasir Rigid Galunggung.**
 
 Pasir ini merupakan pasir hitam mutu paling unggul dikelasnya lazim diaplikasikan oleh pabrik pengolahan beton readymix juga perusahan pembuatan precast dan acap kali juga diaplikasikan untuk bahan pembuatan batako press hitam, paving block dsb. Pasir ini ditambang dari Tasikmalaya jabar.
@@ -100,21 +99,18 @@ Pasir ini merupakan pasir hitam mutu paling unggul dikelasnya lazim diaplikasika
 ![Harga Pasir Putih Bangka Free Ongkir Ke Tarumajaya Bekasi](/images/info/pasir-hitam-7.jpg)
 
 - ### Pasir Untuk Pasang Batu, Pondasi, Bata, Ubin, Plester Di Tarumajaya Bekasi
-    
 
 ![Harga Pasir Putih Bangka Free Ongkir Ke Tarumajaya Bekasi](/images/info/jual-pasir-mundu-2.jpg)
 
 Pasir ini lebih halus lagi dibandingi oleh pasir beton. kalau anda mengepal pasir ini maka akan menggumpal dan tak akan hancur kembali. pasir pasang umum nya di pakai tuk adukan pasir beton supaya tidak kelewat kasar dan dapat di manfaatkan untuk plesteran dinding.
 
 - ### Pasir Elod Untuk pengurugan lantai Di Tarumajaya Bekasi
-    
 
 Di Antara ke dua pasir diatas pasir model ini lebih halus lagi, sekiranya kamu mengepal nya akan menggumpal dan tak akan buyar lagi. tetapi pasir jenis
 
 Pada lazim nya pasir ini nyaris sama dengan pasir beton tetapi pasir ini memiliki tingkat kekasaran yang tinggi, butiran - butiran nya cukup besar dan agak banyak batuan nya. pada biasanya pasir model ini bagus untuk bahan Pembuatan Batako
 
 - ### Pasir Putih Halus Untuk Hiasan Di Tarumajaya Bekasi
-    
 
 1. **Pasir Putih Bangka**
 

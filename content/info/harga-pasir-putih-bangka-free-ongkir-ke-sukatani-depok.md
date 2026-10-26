@@ -25,7 +25,7 @@ menurut Standar Nasional Indonesia ( SK SNI - S - 04 - 1989 - F ; 28) di tuturka
 
 Prasyarat Pasir yg Baik Untuk Konstruksi Bangunan
 
-1.  Agregat Halus sepatutnya terdiri dari butiran yg tajam dan keras dengan indeks kekerasan <2.2
+1.  Agregat Halus sepatutnya terdiri dari butiran yg tajam dan keras dengan indeks kekerasan <2.2
 2. bilamana dipakai Natrium Sulfat komponen hancur maksimal dua belas persen
 3. Apabila digunakan Magnesium Sulfat komponen halus optimal 10%
 4. Tidak boleh mengandung lumpur lebih dari lima %
@@ -41,7 +41,6 @@ Prasyarat Pasir yg Baik Untuk Konstruksi Bangunan
 setelah mengetahui prasyarat pasir untuk suatu Konstruksi Bangunan, saat ini kita bahas Macam - Tipe Pasir Untuk Konstruksi penjelasan nya sbb:
 
 - ### Pasir Tipe Rigid dan Tempat Sumbernya Di Sukatani Depok
-    
 
 Pasir ini umum nya berwarna keabu-abuan dan tingkat kekasaran butiran nya cukup tinggi. Tapi jika anda mengepal nya dengan tangan tidak akan lengket dan akan buyar kembali. tipe pasir ini betul-betul lah baik buat Pengecoran, Plesteran Dinding, Adukan Pondasi dan Adukan Pasangan Bata Pasir ini yaitu pasir untuk Cor adalah butiran-butiran mineral keras dan tajam berukuran antara 0,075 – 5 mm, sekiranya terdapat butiran berukuran lebih kecil dari 0,063 mm tidak lebih dari 5% berat. Pasir ini yaitu pasir untuk Cor kerap kali dimanfaatkan untuk profesi cor-coran struktur seperti kolom, balok dan pelat lantai.
 
@@ -59,21 +58,18 @@ Untuk mendapatkan kekuatan Cor yang maksimal karenanya pasir harus sanggup memen
 ![Harga Pasir Putih Bangka Free Ongkir Ke Sukatani Depok](/images/info/pasir-hitam-5.jpg)
 
 - ### Pasir Untuk Pasang Batu, Pondasi, Bata, Ubin, Plester Di Sukatani Depok
-    
 
 ![Harga Pasir Putih Bangka Free Ongkir Ke Sukatani Depok](/images/info/jual-pasir-mundu-2.jpg)
 
 Pasir ini lebih halus lagi dibandingkan oleh pasir beton. apabila kalian mengepal pasir ini karenanya akan menggumpal dan tak akan buyar kembali. pasir pasang umum nya di pakai tuk adukan pasir beton agar tak kelewat kasar dan bisa di manfaatkan untuk plesteran dinding.
 
 - ### Pasir Elod Untuk Dasaran Pemasangan Marmer Di Sukatani Depok
-    
 
 Di Antara ke dua pasir diatas pasir model ini lebih halus lagi, sekiranya kalian mengepal nya maka akan menggumpal dan tak akan buyar lagi. namun pasir macam
 
 Pada umum nya pasir ini nyaris sama dgn pasir beton akan namun pasir ini mempunyai tingkat kekasaran yg tinggi, butiran - butiran nya cukup besar dan agak banyak batuan nya. pada lazimnya pasir ragam ini bagus tuk bahan pemadatan lantai
 
 - ### Pasir Putih Tanpa Ayak Untuk Pasang Keramik Di Sukatani Depok
-    
 
 1. **Pasir Putih Bangka**
 

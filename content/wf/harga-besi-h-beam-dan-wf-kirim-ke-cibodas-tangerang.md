@@ -50,13 +50,13 @@ d. tdk bisa menjangkau area yang sempit. Mengingat Besi WF ini berukuran panjang
 
 ### Keunggulan Dari Besi WF Di Cibodas Tangerang
 
-1\. Bisa menghemat waktu dalam pembangunan sebuah konstruksi bangunan, menghemat waktu dan juga mengurangi ongkos dan tenaga tukang.
+1. Bisa menghemat waktu dalam pembangunan sebuah konstruksi bangunan, menghemat waktu dan juga mengurangi ongkos dan tenaga tukang.
 
-2\. Bisa menyangga muatan yang sungguh-sungguh berat, tidak mudah memuai dan lebih simple penerapannya dibanding dengan material struktural lainnya.
+2. Bisa menyangga muatan yang sungguh-sungguh berat, tidak mudah memuai dan lebih simple penerapannya dibanding dengan material struktural lainnya.
 
-3\. Mempunyai fleksibilitas yang tinggi. Sehingga struktur bangunan yang diwujudkan dari Besi WF ini menjadi lebih kuat tidak mudah bergeser, tidak mudah runtuh ataupun goyang. Sangat layak untuk jenis bangunan diatas tanah yang labil atau sering terjadi goncangan.
+3. Mempunyai fleksibilitas yang tinggi. Sehingga struktur bangunan yang diwujudkan dari Besi WF ini menjadi lebih kuat tidak mudah bergeser, tidak mudah runtuh ataupun goyang. Sangat layak untuk jenis bangunan diatas tanah yang labil atau sering terjadi goncangan.
 
-4\. Lebih hemat karena struktur bangunan yang menerapkan Besi WF akan mempunyai kekuatan yang cukup lama malah hingga ratusan tahun. Tentunya ini merupakan investasi yang benar-benar murah kalau kita bandingkan dengan waktu pakai. Malahan bangunan yang dibangun dengan rangka Besi WF dapat kita wariskan terhadap anak cucu kita.
+4. Lebih hemat karena struktur bangunan yang menerapkan Besi WF akan mempunyai kekuatan yang cukup lama malah hingga ratusan tahun. Tentunya ini merupakan investasi yang benar-benar murah kalau kita bandingkan dengan waktu pakai. Malahan bangunan yang dibangun dengan rangka Besi WF dapat kita wariskan terhadap anak cucu kita.
 
 ## Mengetahui Besi H Beam Di Cibodas Tangerang
 
@@ -72,15 +72,15 @@ Sama seperti besi yang kami paparkan sebelumnya yaitu Besi WF, besi H-Beam malah
 
 ### Kelebihan Besi H Beam Di Cibodas Tangerang
 
-1\. Gampang untuk didapat. Banyak supplier besi yang menyediakan stok besi H-Beam beragam ukuran. Sehingga besi H-Beam ini benar-benar mudah untuk didapat, tdk sulit untuk menemukan distributor besi yang menjual besi H Beam.
+1. Gampang untuk didapat. Banyak supplier besi yang menyediakan stok besi H-Beam beragam ukuran. Sehingga besi H-Beam ini benar-benar mudah untuk didapat, tdk sulit untuk menemukan distributor besi yang menjual besi H Beam.
 
-2\. Gampang Dalam Pemasangan. Banyak tukang ahli dalam pemasangan besi H Beam. Walaupun besi H-Beam ini sepatutnya dipasang oleh tukang yang profesional tapi tukang yang berpengalaman dalam memasang besi H Beam ini sangat banyak kita temui hari ini. Sehingga tdk perlu dikhawatirkan lagi progres pemasangannya.
+2. Gampang Dalam Pemasangan. Banyak tukang ahli dalam pemasangan besi H Beam. Walaupun besi H-Beam ini sepatutnya dipasang oleh tukang yang profesional tapi tukang yang berpengalaman dalam memasang besi H Beam ini sangat banyak kita temui hari ini. Sehingga tdk perlu dikhawatirkan lagi progres pemasangannya.
 
-3\. Mempunyai kekuatan yang tidak diragukan lagi. Besi H Beam sudah teruji selama bertahun-tahun dalam kontruksi bangunan. Baik skala kecil ataupun skala besar dan terbilang betul-betul kuat apabila diperbandingkan dengan material lainnya. Dapat bertahan hingga puluhan sampai ratusan tahun.
+3. Mempunyai kekuatan yang tidak diragukan lagi. Besi H Beam sudah teruji selama bertahun-tahun dalam kontruksi bangunan. Baik skala kecil ataupun skala besar dan terbilang betul-betul kuat apabila diperbandingkan dengan material lainnya. Dapat bertahan hingga puluhan sampai ratusan tahun.
 
-4\. Mudah dalam pemeliharaannya. Bangunan yang menerapkan besi H Beam sebagai struktur tulangan bangunannya akan betul-betul gampang dalam mengerjakan pemeliharaannya. tdk perlu pengecatan dengan cat khusus maupun pembersihan tiap saat.
+4. Mudah dalam pemeliharaannya. Bangunan yang menerapkan besi H Beam sebagai struktur tulangan bangunannya akan betul-betul gampang dalam mengerjakan pemeliharaannya. tdk perlu pengecatan dengan cat khusus maupun pembersihan tiap saat.
 
-5\. Memaksimalkan pengaplikasian material lainnya, seperti penggunaan bekisting, pengaplikasian tiang penyangga atau steger dan juga material pasir. Besi H Beam Tdk membutuhkan material pasir dalam pengaplikasiannya.
+5. Memaksimalkan pengaplikasian material lainnya, seperti penggunaan bekisting, pengaplikasian tiang penyangga atau steger dan juga material pasir. Besi H Beam Tdk membutuhkan material pasir dalam pengaplikasiannya.
 
 ### Kekurangan Dari Besi H Beam Di Cibodas Tangerang
 

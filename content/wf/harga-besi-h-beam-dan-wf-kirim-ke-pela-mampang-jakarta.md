@@ -50,13 +50,13 @@ d. tidak bisa menjangkau area yang sempit. Mengingat Besi WF ini berukuran panja
 
 ### Keunggulan Dari Besi WF Di Pela Mampang Jakarta
 
-1\. Bisa menghemat waktu dalam pembangunan sebuah konstruksi bangunan, mengurangi waktu dan juga menghemat ongkos dan tenaga tukang.
+1. Bisa menghemat waktu dalam pembangunan sebuah konstruksi bangunan, mengurangi waktu dan juga menghemat ongkos dan tenaga tukang.
 
-2\. Dapat menopang beban yang sangat berat, tdk gampang memuai dan lebih simple penerapannya dibanding dengan material struktural lainnya.
+2. Dapat menopang beban yang sangat berat, tdk gampang memuai dan lebih simple penerapannya dibanding dengan material struktural lainnya.
 
-3\. Mempunyai fleksibilitas yang tinggi. Sehingga struktur bangunan yang diwujudkan dari Besi WF ini menjadi lebih kuat tidak gampang bergeser, tdk mudah runtuh maupun goyang. Sangat sesuai untuk macam bangunan diatas tanah yang labil atau kerap kali terjadi longsor.
+3. Mempunyai fleksibilitas yang tinggi. Sehingga struktur bangunan yang diwujudkan dari Besi WF ini menjadi lebih kuat tidak gampang bergeser, tdk mudah runtuh maupun goyang. Sangat sesuai untuk macam bangunan diatas tanah yang labil atau kerap kali terjadi longsor.
 
-4\. Lebih hemat sebab struktur bangunan yang menggunakan Besi WF akan memiliki kekokohan yang cukup lama bahkan hingga ratusan tahun. Tentunya ini merupakan investasi yang amat murah sekiranya kita bandingkan dengan waktu gunakan. Bahkan bangunan yang dibangun dengan rangka Besi WF bisa kita wariskan kepada si kecil cucu kita.
+4. Lebih hemat sebab struktur bangunan yang menggunakan Besi WF akan memiliki kekokohan yang cukup lama bahkan hingga ratusan tahun. Tentunya ini merupakan investasi yang amat murah sekiranya kita bandingkan dengan waktu gunakan. Bahkan bangunan yang dibangun dengan rangka Besi WF bisa kita wariskan kepada si kecil cucu kita.
 
 ## Mengenal Besi H Beam Di Pela Mampang Jakarta
 
@@ -72,15 +72,15 @@ Sama seperti besi yang kami jelaskan sebelumnya ialah Besi WF, besi H-Beam bahka
 
 ### Keunggulan Besi H Beam Di Pela Mampang Jakarta
 
-1\. Gampang untuk didapat. Banyak supplier besi yang menyediakan stok besi H-Beam beragam ukuran. Sehingga besi H-Beam ini sungguh-sungguh mudah untuk didapatkan, tdk susah untuk menemukan supplier besi yang memasarkan besi H Beam.
+1. Gampang untuk didapat. Banyak supplier besi yang menyediakan stok besi H-Beam beragam ukuran. Sehingga besi H-Beam ini sungguh-sungguh mudah untuk didapatkan, tdk susah untuk menemukan supplier besi yang memasarkan besi H Beam.
 
-2\. Gampang Dalam Pemasangan. Banyak tukang pakar dalam pemasangan besi H Beam. Meskipun besi H-Beam ini wajib dipasang oleh tukang yang profesional namun tukang yang ahli dalam memasang besi H Beam ini amat banyak kita temui hari ini. Sehingga tdk perlu dikhawatirkan lagi proses pemasangannya.
+2. Gampang Dalam Pemasangan. Banyak tukang pakar dalam pemasangan besi H Beam. Meskipun besi H-Beam ini wajib dipasang oleh tukang yang profesional namun tukang yang ahli dalam memasang besi H Beam ini amat banyak kita temui hari ini. Sehingga tdk perlu dikhawatirkan lagi proses pemasangannya.
 
-3\. Memiliki daya tahan yang tidak diragukan lagi. Besi H Beam telah teruji selama bertahun-tahun dalam kontruksi bangunan. Apakah skala kecil ataupun skala besar dan terbilang sungguh-sungguh kuat seandainya diperbandingkan dengan material lainnya. Bisa bertahan sampai puluhan sampai ratusan tahun.
+3. Memiliki daya tahan yang tidak diragukan lagi. Besi H Beam telah teruji selama bertahun-tahun dalam kontruksi bangunan. Apakah skala kecil ataupun skala besar dan terbilang sungguh-sungguh kuat seandainya diperbandingkan dengan material lainnya. Bisa bertahan sampai puluhan sampai ratusan tahun.
 
-4\. Mudah dalam perawatannya. Bangunan yang menerapkan besi H Beam sebagai struktur tulangan bangunannya akan sangat gampang dalam melakukan perawatannya. tdk perlu pengecatan dengan cat khusus ataupun pembersihan setiap saat.
+4. Mudah dalam perawatannya. Bangunan yang menerapkan besi H Beam sebagai struktur tulangan bangunannya akan sangat gampang dalam melakukan perawatannya. tdk perlu pengecatan dengan cat khusus ataupun pembersihan setiap saat.
 
-5\. Mengurangi penggunaan material lainnya, seperti pemakaian bekisting, penerapan steger atau steger dan juga material pasir. Besi H Beam tidak membutuhkan material pasir dalam pemakaiannya.
+5. Mengurangi penggunaan material lainnya, seperti pemakaian bekisting, penerapan steger atau steger dan juga material pasir. Besi H Beam tidak membutuhkan material pasir dalam pemakaiannya.
 
 ### Kekurangan Dari Besi H Beam Di Pela Mampang Jakarta
 

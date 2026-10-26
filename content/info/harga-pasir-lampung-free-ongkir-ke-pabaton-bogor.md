@@ -25,7 +25,7 @@ menurut Standar Nasional Indonesia ( SK SNI - S - 04 - 1989 - F ; 28) di tuturka
 
 Syarat-Syarat Pasir yg Bagus Untuk Bangunan
 
-1.  Agregat Halus harus terdiri dari butiran yang tajam dan keras dengan indeks kekerasan <2.2
+1.  Agregat Halus harus terdiri dari butiran yang tajam dan keras dengan indeks kekerasan <2.2
 2. Seandainya dipakai Natrium Sulfat bagian hancur maksimal dua belas persen
 3. jikalau digunakan Magnesium Sulfat komponen halus maksimal 5 persen
 4. Tak boleh berisi clay lebih dari lima %
@@ -41,7 +41,6 @@ Syarat-Syarat Pasir yg Bagus Untuk Bangunan
 sesudah memahami prasyarat pasir untuk suatu Konstruksi Bangunan, sekarang ini kita bahas Tipe - Tipe Pasir Untuk Konstruksi Bangunan penjelasan nya berikut ini:
 
 - ### Pasir Tipe Cor dan Lokasi Sumbernya Di Pabaton Bogor
-    
 
 Pasir ini lazim nya berwarna hitam kemerahan dan tingkat kekasaran butiran nya lumayan tinggi. Melainkan sekiranya anda mengepal nya dengan tangan tidak akan lengket dan akan buyar kembali. ragam pasir ini amat lah baik tuk Pengecoran, Plesteran Dinding, Adukan Pondasi dan Adukan Pasangan Bata Pasir ini yaitu pasir untuk Rigid yakni butiran-butiran mineral keras dan tajam berukuran antara 0,075 – 5 mm, jika terdapat butiran berukuran lebih kecil dari 0,063 mm tidak lebih dari 5% berat. Pasir ini yaitu pasir untuk Beton hampir sering diaplikasikan untuk pekerjaan cor-coran struktur seperti kolom, balok dan pelat lantai.
 
@@ -59,21 +58,18 @@ Untuk mendapatkan kualitas Cor yang maksimal karenanya pasir sepatutnya dapat me
 ![Harga Pasir Lampung Free Ongkir Ke Pabaton Bogor](/images/info/pasir-hitam-2.jpg)
 
 - ### Pasir Untuk Pemasangan Batu, Pondasi, Bata, Ubin, Plester Di Pabaton Bogor
-    
 
 ![Harga Pasir Lampung Free Ongkir Ke Pabaton Bogor](/images/info/pasir-hitam-11.jpg)
 
 Pasir ini lebih halus lagi dibandingkan oleh pasir beton. apabila anda mengepal pasir ini karenanya akan menggumpal dan tidak akan hancur kembali. pasir pasang lazim nya di pakai untuk adukan pasir beton supaya tidak terlalu kasar dan dapat di gunakan untuk plesteran dinding.
 
 - ### Pasir Kualitas rendah Untuk Dasaran Pemasangan Keramik Di Pabaton Bogor
-    
 
 Di Antara ke dua pasir diatas pasir model ini lebih halus lagi, seandainya anda mengepal nya karenanya akan menggumpal dan tak akan buyar lagi. tapi pasir macam
 
 Pada biasa nya pasir ini nyaris sama dgn pasir beton namun pasir ini memiliki tingkat kekasaran yang tinggi, butiran - butiran nya cukup besar dan agak banyak batuan nya. pada umumnya pasir jenis ini baik untuk bahan dasaran pemasangan keramik
 
 - ### Pasir Putih Bebas Lumpur Untuk Pasang Keramik Di Pabaton Bogor
-    
 
 1. **Pasir Putih Bangka**
 

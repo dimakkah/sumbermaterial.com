@@ -18,19 +18,19 @@ Tanpa adanya besi karenanya sebuah bangunan akan mudah retak saat ada getaran ke
 
 ## Seperti Ini Macam-macam Besi Di Johar Baru Jakarta
 
-### 1\. Besi Polos Toleransi 4mm, 6mm, 8mm, 10mm, 12mm, 16mm, 18mm, 19mm Di Johar Baru Jakarta
+### 1. Besi Polos Toleransi 4mm, 6mm, 8mm, 10mm, 12mm, 16mm, 18mm, 19mm Di Johar Baru Jakarta
 
 Besi polos memiliki ukuran mulai dari 8 mm hingga 25 mm dan memiliki 6 meter panjang tekuk dan 12 meter panjang lurus. Besi beton ini sudah mulai diaplikasikan sebagai bahan utama di Indonesia pada tahun 1950. Besi ini tak jarang kali dipakai untuk membangun sebuah gedung. Bahan yang gampang dipakai sehingga selain dari diaplikasikan untuk membangun bangunan beton juga dipakai untuk membangun trowongan, bendungan, dan lainnya. Saat digunakan untuk membangun sebuah gedung bertingkat karenanya biasa besi polos ini diaplikasikan untuk struktur tulangan balok, dinding, dan sloof. Besi beton polos ini mempunyai kelebihan besi polos ini tegangannya lebih tinggi dari pada besi lainnya. Jadi besi ini terkesan lebih kokoh dan tahan beban. Oleh karena itu pemakaian besi polos ini benar-benar cocok untuk membangun gedung, jembatan, dan bangunan lainnya. Besi polos ini terbuat dari bahan seperti billet dan skrap. Billet merupakan baja batangan yang cara kerja pembuatannya dengan melebur biji besi. Apabila skrap yakni besi bekas yang dileburkan dengan temperature tertentu. Selain dari itu sekiranya anda mengaplikasikan besi polos ini tdk membutuhkan anggaran pemeliharaan. Semakin lama digunakan maka besi ini akan kian kokoh.
 
-### 2\. Besi Ulir Full 4mm, 6mm, 8mm, 10mm, 12mm, 16mm, 18mm, 19mm Di Johar Baru Jakarta
+### 2. Besi Ulir Full 4mm, 6mm, 8mm, 10mm, 12mm, 16mm, 18mm, 19mm Di Johar Baru Jakarta
 
 Selaras dengan namanya besi beton ulir ini ialah besi yang karakternya mengulir. Pada permukaannya bercorak spiral yang mempunyai tujuan untuk menyatukan gerigi besi dengan faktor bahan bangunan yang dibangun oleh besi beton. Besi ulir ini mulai populer diterapkan pada abad ke-20 di Amerika dan mulai populer di Indonesia pada tahun1950. Mengingat saat mengaplikasikan besi ulir ini memiliki banyak kelebihan mulai dari kekokohan bangunan serta lebih ekonomis dan efisien. Produk besi ulir ini menjadi andalan pasar karena mempunyai kwalitas yang terbaik di Indonesia dan mempunyai harga yang tinggi jika dibandingkan dengan produk lainnya.
 
-### 3\. Besi WF dan H-Beam SNI Di Johar Baru Jakarta
+### 3. Besi WF dan H-Beam SNI Di Johar Baru Jakarta
 
 Besi Wide Flange (WF) ini yaitu salah satu baja dengan struktural yang paling populer dipakai untuk kontruksi baja. Jika anda membutuhkan besi baja Wide Flage dalam jumlah yang banyak atau sedikit maka silahkan cari distributor besi yang terpercaya. Besi WF ini memiliki ketahanan yang kokoh dan kuat pada kekokohan tarik atau tekan. Karenanya dari itu besi ini menjadi elemen struktur yang mempunyai batasan yang sempurna untuk menahan bobot tekan aksial, tarik aksial, dan lentur dengan fasilitas pembangunan strukturnya. Baja Wide Flange (WF) ini memiliki kepadatan yang tinggi melainkan rasio berat antara ketahanan bagian Baja WF yang tinggi namun tidak begitu berat yang berkaitan dengan kapasitas bobot. Selain itu menetapkan bila kontruksi yang diterapkan secara efisien. Cara kontruksi baja WF ini kombinasi dari faktor struktur yang rumit. Pada struktur ini mempunyai tujuan membawa beban yang aman dan efektif yang berefek pada sebuah bangunan dan dikirim pada pondasinya. Gaya dan muatan yang bekerja ini termasuk beban pertikal, perbedaan temperatur, horizontal, getaran dan lainnya. Pada sebuah bangunan baja, maka ada unsure yang bermanfaat menahan gaya lateral dan gravitasi.
 
-### 4\. Besi Holo Di Johar Baru Jakarta
+### 4. Besi Holo Di Johar Baru Jakarta
 
 Besi hollow merupakan besi yang diaplikasikan sebagai pembuatan kanopi, pagar, pintu besi dan lainnya. Bahan baku pembuatan besi Hollow ini umumnya terbuat dari stainless, galvanis, dan besi baja. Tetapi yang paling kerap kali diaplikasikan sebagai bahan baku yaitu galvanis. Terdapat kelebihan yang anda peroleh dikala menerapkan kanopi, menerapkan pagar, teralis menggunakan besi hollow:
 

@@ -50,13 +50,13 @@ d. tidak dapat menjangkau area yang sempit. Mengingat Besi WF ini berukuran panj
 
 ### Keunggulan Dari Besi WF Di Kartini Jakarta
 
-1\. Bisa mengurangi waktu dalam pembangunan sebuah konstruksi bangunan, mengurangi waktu dan juga menghemat ongkos dan tenaga tukang.
+1. Bisa mengurangi waktu dalam pembangunan sebuah konstruksi bangunan, mengurangi waktu dan juga menghemat ongkos dan tenaga tukang.
 
-2\. Bisa menyangga bobot yang betul-betul berat, tidak gampang memuai dan lebih simple pengaplikasiannya dibanding dengan material struktural lainnya.
+2. Bisa menyangga bobot yang betul-betul berat, tidak gampang memuai dan lebih simple pengaplikasiannya dibanding dengan material struktural lainnya.
 
-3\. Mempunyai fleksibilitas yang tinggi. Sehingga struktur bangunan yang diciptakan dari Besi WF ini menjadi lebih kuat tdk gampang bergeser, tidak gampang runtuh ataupun goyang. Amat cocok untuk ragam bangunan diatas tanah yang labil atau sering kali terjadi longsor.
+3. Mempunyai fleksibilitas yang tinggi. Sehingga struktur bangunan yang diciptakan dari Besi WF ini menjadi lebih kuat tdk gampang bergeser, tidak gampang runtuh ataupun goyang. Amat cocok untuk ragam bangunan diatas tanah yang labil atau sering kali terjadi longsor.
 
-4\. Lebih hemat sebab struktur bangunan yang memakai Besi WF akan memiliki kekuatan yang cukup lama malah hingga ratusan tahun. Tentunya ini ialah investasi yang betul-betul murah seandainya kita bandingkan dengan waktu gunakan. Bahkan bangunan yang dibangun dengan rangka Besi WF bisa kita wariskan kepada si kecil cucu kita.
+4. Lebih hemat sebab struktur bangunan yang memakai Besi WF akan memiliki kekuatan yang cukup lama malah hingga ratusan tahun. Tentunya ini ialah investasi yang betul-betul murah seandainya kita bandingkan dengan waktu gunakan. Bahkan bangunan yang dibangun dengan rangka Besi WF bisa kita wariskan kepada si kecil cucu kita.
 
 ## Mengetahui Besi H Beam Di Kartini Jakarta
 
@@ -72,15 +72,15 @@ Sama seperti besi yang kami jelaskan sebelumnya yakni Besi WF, besi H-Beam bahka
 
 ### Keunggulan Besi H Beam Di Kartini Jakarta
 
-1\. Gampang untuk didapat. Banyak distributor besi yang menyediakan stok besi H-Beam beragam ukuran. Sehingga besi H-Beam ini betul-betul gampang untuk didapatkan, tidak susah untuk memperoleh supplier besi yang menjual besi H Beam.
+1. Gampang untuk didapat. Banyak distributor besi yang menyediakan stok besi H-Beam beragam ukuran. Sehingga besi H-Beam ini betul-betul gampang untuk didapatkan, tidak susah untuk memperoleh supplier besi yang menjual besi H Beam.
 
-2\. Gampang Dalam Pemasangan. Banyak tukang ahli dalam pemasangan besi H Beam. Meski besi H-Beam ini harus dipasang oleh tukang yang ahli tapi tukang yang ahli dalam memasang besi H Beam ini amat banyak kita temui hari ini. Sehingga tidak perlu dikhawatirkan lagi pengerjaan pemasangannya.
+2. Gampang Dalam Pemasangan. Banyak tukang ahli dalam pemasangan besi H Beam. Meski besi H-Beam ini harus dipasang oleh tukang yang ahli tapi tukang yang ahli dalam memasang besi H Beam ini amat banyak kita temui hari ini. Sehingga tidak perlu dikhawatirkan lagi pengerjaan pemasangannya.
 
-3\. Mempunyai kekuatan yang tdk diragukan lagi. Besi H Beam sudah teruji selama bertahun-tahun dalam kontruksi bangunan. Baik skala kecil ataupun skala besar dan terbilang betul-betul awet apabila diperbandingkan dengan material lainnya. Bisa bertahan hingga puluhan hingga ratusan tahun.
+3. Mempunyai kekuatan yang tdk diragukan lagi. Besi H Beam sudah teruji selama bertahun-tahun dalam kontruksi bangunan. Baik skala kecil ataupun skala besar dan terbilang betul-betul awet apabila diperbandingkan dengan material lainnya. Bisa bertahan hingga puluhan hingga ratusan tahun.
 
-4\. Mudah dalam perawatannya. Bangunan yang menerapkan besi H Beam sebagai struktur rangka bangunannya akan betul-betul mudah dalam mengerjakan perawatannya. tdk perlu pengecatan dengan cat khusus ataupun pembersihan setiap waktu.
+4. Mudah dalam perawatannya. Bangunan yang menerapkan besi H Beam sebagai struktur rangka bangunannya akan betul-betul mudah dalam mengerjakan perawatannya. tdk perlu pengecatan dengan cat khusus ataupun pembersihan setiap waktu.
 
-5\. Mengurangi penerapan material lainnya, seperti pengaplikasian bekisting, pemakaian steger atau perancah dan juga material pasir. Besi H Beam tidak memerlukan material pasir dalam penggunaannya.
+5. Mengurangi penerapan material lainnya, seperti pengaplikasian bekisting, pemakaian steger atau perancah dan juga material pasir. Besi H Beam tidak memerlukan material pasir dalam penggunaannya.
 
 ### Kekurangan Dari Besi H Beam Di Kartini Jakarta
 

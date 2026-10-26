@@ -25,7 +25,7 @@ Menurut Standar Nasional Indonesia ( SK SNI - S - 04 - 1989 - F ; 28) di sebutka
 
 Syarat-Syarat Pasir yang Baik tuk Konstruksi
 
-1.  Agregat Halus patut terdiri dari butiran yg tajam dan keras dengan indeks kekerasan <2.2
+1.  Agregat Halus patut terdiri dari butiran yg tajam dan keras dengan indeks kekerasan <2.2
 2. bilamana digunakan Natrium Sulfat bagian hancur maksimal 12 persen
 3. bila diterapkan Magnesium Sulfat bagian halus maksimal sepuluh %
 4. Tidak boleh memuat tanah lebih dari lima persen
@@ -41,7 +41,6 @@ Syarat-Syarat Pasir yang Baik tuk Konstruksi
 Setelah memahami persyaratan pasir tuk suatu Bangunan, saat ini kita bahas model - Tipe Pasir Untuk Bangunan penjelasan nya sebagai berikut:
 
 - ### Pasir Untuk Beton Di Kalibaru Jakarta
-    
 
 Pasir ini biasa nya berwarna hitam kemerahan dan tingkat kekerasan butiran nya cukup tinggi. Tapi jikalau anda mengepal nya dengan tangan tidak akan menggumpal dan akan hancur kembali. tipe pasir ini betul-betul lah baik buat Pengecoran, Plesteran Dinding, Adukan Pondasi dan Adukan Pasangan Bata Pasir ini yaitu pasir untuk Rigid yaitu butiran-butiran mineral keras dan tajam berukuran antara 0,075 – 5 mm, seandainya terdapat butiran berukuran lebih kecil dari 0,063 mm tak lebih dari 5% berat. Pasir ini yaitu pasir untuk Cor acap kali digunakan untuk profesi cor-coran struktur seperti kolom, balok dan pelat lantai.
 
@@ -59,21 +58,18 @@ Untuk menerima kualitas Beton yang maksimal maka pasir sepatutnya mampu memenuhi
 ![Harga Pasir Mainan Anak Free Ongkir Ke Kalibaru Jakarta](/images/info/pasir-hitam-2.jpg)
 
 - ### Pasir Untuk Pemasangan Batu, Pondasi, Bata, Ubin, Plester Di Kalibaru Jakarta
-    
 
 ![Harga Pasir Mainan Anak Free Ongkir Ke Kalibaru Jakarta](/images/info/jual-pasir-mundu-2.jpg)
 
 Pasir ini lebih halus lagi dibandingi oleh pasir beton. apabila anda mengepal pasir ini karenanya akan menggumpal dan tidak akan hancur kembali. pasir pasang lazim nya di manfaatkan buat campuran pasir beton supaya tidak terlalu kasar dan bisa di pakai untuk plesteran dinding.
 
 - ### Pasir Elod Untuk pemadatan lantai Di Kalibaru Jakarta
-    
 
 Di Antara ke dua pasir diatas pasir macam ini lebih halus lagi, apabila anda mengepal nya akan menggumpal dan tak akan buyar lagi. namun pasir jenis
 
 Pada nya pasir ini nyaris sama dengan pasir beton namun pasir ini memiliki tingkat kekasaran yg tinggi, butiran - butiran nya cukup besar dan agak banyak batuan nya. pada lazimnya pasir jenis ini baik tuk bahan dasaran pemasangan keramik
 
 - ### Pasir Putih Tanpa Ayak Untuk Lapangan Voly Di Kalibaru Jakarta
-    
 
 1. **Pasir Putih Bangka**
 

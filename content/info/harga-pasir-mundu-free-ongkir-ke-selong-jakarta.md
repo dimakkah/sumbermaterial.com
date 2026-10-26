@@ -25,7 +25,7 @@ menurut Standar Nasional Indonesia ( SK SNI - S - 04 - 1989 - F ; 28) di sebutka
 
 Prasyarat Pasir yang Baik buat Konstruksi Bangunan
 
-1.  Agregat Halus sepatutnya terdiri dari butiran yang tajam dan keras dengan indeks kekerasan <2.2
+1.  Agregat Halus sepatutnya terdiri dari butiran yang tajam dan keras dengan indeks kekerasan <2.2
 2. kalau dimanfaatkan Natrium Sulfat komponen hancur maksimal 12%
 3. kalau digunakan Magnesium Sulfat komponen halus optimal 10%
 4. Tak boleh mengandung lumpur lebih dari lima persen
@@ -41,7 +41,6 @@ Prasyarat Pasir yang Baik buat Konstruksi Bangunan
 Setelah tahu persis syarat pasir tuk suatu Konstruksi, pada saat ini kita bahas Jenis - Ragam Pasir Untuk Bangunan penjelasan nya sebagai berikut:
 
 - ### Pasir Cor Di Selong Jakarta
-    
 
 Pasir ini lazim nya berwarna coklat tua dan tingkat pecahan butiran nya lumayan tinggi. Melainkan kalau anda mengepal nya dengan tangan tak akan lengket dan akan buyar kembali. model pasir ini sungguh-sungguh lah bagus untuk Pengecoran, Plesteran Dinding, Adukan Pondasi dan Adukan Pasangan Bata Pasir ini yaitu pasir untuk Rigid adalah butiran-butiran mineral keras dan tajam berukuran antara 0,075 – 5 mm, jikalau terdapat butiran berukuran lebih kecil dari 0,063 mm tidak lebih dari 5% berat. Pasir ini yaitu pasir untuk Cor hampir sering kali digunakan untuk profesi cor-coran struktur seperti kolom, balok dan pelat lantai.
 
@@ -59,21 +58,18 @@ Untuk mendapatkan kekuatan Beton yang maksimal maka pasir harus dapat memenuhi p
 ![Harga Pasir Mundu Free Ongkir Ke Selong Jakarta](/images/info/pasir-hitam-2.jpg)
 
 - ### Pasir Untuk Adukan Pasang Batu, Pondasi, Bata, Ubin, Plester Di Selong Jakarta
-    
 
 ![Harga Pasir Mundu Free Ongkir Ke Selong Jakarta](/images/info/pasir-putih12.jpg)
 
 Pasir ini ekstra halus lagi diperbandingkan oleh pasir beton. sekiranya kamu mengepal pasir ini karenanya akan menggumpal dan tidak akan hancur kembali. pasir pasang lazim nya di manfaatkan tuk campuran pasir beton supaya tidak terlalu kasar dan bisa di pakai untuk plesteran dinding.
 
 - ### Pasir Kualitas rendah Untuk Pembuatan Batako Di Selong Jakarta
-    
 
 Di Antara ke dua pasir diatas pasir ragam ini lebih halus lagi, kalau anda mengepal nya akan menggumpal dan tidak akan buyar lagi. tetapi pasir jenis
 
 Pada biasa nya pasir ini nyaris sama dgn pasir beton namun pasir ini mempunyai tingkat kekasaran yang tinggi, butiran - butiran nya lumayan besar dan agak banyak batuan nya. pada biasanya pasir tipe ini baik untuk bahan dasaran pemasangan keramik
 
 - ### Pasir Putih Tanpa Ayak Untuk Pasang Lantai Marmer Di Selong Jakarta
-    
 
 1. **Pasir Putih Bangka**
 

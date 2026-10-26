@@ -18,19 +18,19 @@ Tanpa adanya besi karenanya sebuah bangunan akan gampang retak dikala ada guncan
 
 ## Inilah Jenis-jenis Besi Di Bedahan Depok
 
-### 1\. Besi Polos KS 4mm, 6mm, 8mm, 10mm, 12mm, 16mm, 18mm, 19mm Di Bedahan Depok
+### 1. Besi Polos KS 4mm, 6mm, 8mm, 10mm, 12mm, 16mm, 18mm, 19mm Di Bedahan Depok
 
 Besi polos mempunyai ukuran mulai dari 8 mm sampai 25 mm dan mempunyai 6 meter panjang tekuk dan 12 meter panjang lurus. Besi beton ini mulai diaplikasikan sebagai bahan utama di Indonesia pada tahun 1950. Besi ini tak jarang kali dipakai untuk membangun tempat tinggal. Bahan yang gampang diaplikasikan sehingga selain diterapkan untuk membangun tempat tinggal juga diaplikasikan untuk membangun trowongan, bendungan, dan lainnya. Dikala dipakai untuk membangun tempat tinggal bertingkat karenanya biasa besi polos ini dipakai untuk struktur rangkaian besi balok, dinding, dan sloof. Besi beton polos ini memiliki keunggulan besi polos ini tegangannya lebih tinggi dari pada besi lainnya. Jadi besi ini terkesan lebih kokoh dan tahan beban. Sehingga penggunaan besi polos ini betul-betul cocok untuk membangun gedung, jembatan, dan bangunan lainnya. Besi polos ini terbuat dari bahan seperti billet dan skrap. Billet merupakan baja batangan yang proses pembuatannya dengan mengecor biji besi. Seandainya skrap adalah besi bekas yang dihancurkan dengan temperature tertentu. Selain itu seandainya anda memakai besi polos ini tdk memerlukan budget pemeliharaan. Semakin lama digunakan maka besi ini akan semakin kokoh.
 
-### 2\. Besi Ulir KS 4mm, 6mm, 8mm, 10mm, 12mm, 16mm, 18mm, 19mm Di Bedahan Depok
+### 2. Besi Ulir KS 4mm, 6mm, 8mm, 10mm, 12mm, 16mm, 18mm, 19mm Di Bedahan Depok
 
 Cocok dengan namanya besi beton ulir ini ialah besi yang karakternya mengulir. Pada permukaannya bercorak spiral yang memiliki tujuan untuk menyatukan gerigi besi dengan faktor bahan bangunan yang dibentuk oleh besi beton. Besi ulir ini mulai populer diterapkan pada abad ke-20 di Amerika dan mulai populer di Indonesia pada tahun1950. Mengingat ketika mengaplikasikan besi ulir ini mempunyai banyak keunggulan mulai dari ketahanan bangunan serta lebih ekonomis dan efisien. Produk besi ulir ini menjadi andalan pasar sebab mempunyai mutu yang terbaik di Indonesia dan memiliki harga yang tinggi sekiranya dibandingi dengan produk lainnya.
 
-### 3\. Besi WF dan H-Beam Full Di Bedahan Depok
+### 3. Besi WF dan H-Beam Full Di Bedahan Depok
 
 Besi Wide Flange (WF) ini merupakan salah satu baja dengan struktural yang paling banyak diaplikasikan untuk kontruksi baja. Seandainya anda membutuhkan besi baja Wide Flage dalam jumlah yang banyak atau sedikit maka silahkan cari supplier besi yang terpercaya. Besi WF ini memiliki kekokohan yang kokoh dan kuat pada kekokohan tarik atau tekan. Karenanya dari itu besi ini menjadi faktor struktur yang memiliki batasan yang sempurna untuk menopang beban tekan aksial, tarik aksial, dan lentur dengan fasilitas pembangunan strukturnya. Baja Wide Flange (WF) ini memiliki kepadatan yang tinggi tetapi rasio berat antara ketahanan komponen Baja WF yang tinggi tapi tdk begitu berat yang berkaitan dengan kapasitas beban. Selain dari itu menentukan apabila kontruksi yang digunakan secara efisien. Sistem kontruksi baja WF ini kombinasi dari unsur struktur yang kompleks. Pada struktur ini memiliki tujuan membawa beban yang aman dan efektif yang berefek pada sebuah bangunan dan dikirim pada pondasinya. Gaya dan muatan yang bekerja ini termasuk beban pertikal, perbedaan temperatur, horizontal, getaran dan lainnya. Pada sebuah bangunan baja, maka ada unsure yang berguna menopang gaya lateral dan gravitasi.
 
-### 4\. Besi Holow Di Bedahan Depok
+### 4. Besi Holow Di Bedahan Depok
 
 Besi hollow merupakan besi yang digunakan sebagai pembuatan kanopi, pagar, pintu besi dan lainnya. Bahan baku pembuatan besi Hollow ini biasanya terbuat dari stainless, galvanis, dan besi baja. Tetapi yang paling kerap kali digunakan sebagai bahan baku ialah galvanis. Terdapat kelebihan yang anda peroleh dikala mengaplikasikan kanopi, memasang pagar, teralis mengaplikasikan besi hollow:
 

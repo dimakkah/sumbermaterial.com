@@ -50,13 +50,13 @@ d. tdk dapat menjangkau area yang sempit. Mengingat Besi WF ini berukuran panjan
 
 ### Keunggulan Dari Besi WF Di Grogol Depok
 
-1\. Bisa mengurangi waktu dalam pembangunan sebuah konstruksi bangunan, memaksimalkan waktu dan juga mengurangi biaya dan tenaga tukang.
+1. Bisa mengurangi waktu dalam pembangunan sebuah konstruksi bangunan, memaksimalkan waktu dan juga mengurangi biaya dan tenaga tukang.
 
-2\. Dapat menopang bobot yang amat berat, tidak gampang memuai dan lebih simple pemakaiannya dibanding dengan material struktural lainnya.
+2. Dapat menopang bobot yang amat berat, tidak gampang memuai dan lebih simple pemakaiannya dibanding dengan material struktural lainnya.
 
-3\. Memiliki fleksibilitas yang tinggi. Sehingga struktur bangunan yang dibuat dari Besi WF ini menjadi lebih kuat tdk mudah bergeser, tidak mudah runtuh ataupun goyang. Amat pantas untuk ragam bangunan diatas tanah yang labil atau sering terjadi longsor.
+3. Memiliki fleksibilitas yang tinggi. Sehingga struktur bangunan yang dibuat dari Besi WF ini menjadi lebih kuat tdk mudah bergeser, tidak mudah runtuh ataupun goyang. Amat pantas untuk ragam bangunan diatas tanah yang labil atau sering terjadi longsor.
 
-4\. Lebih hemat sebab struktur bangunan yang menerapkan Besi WF akan memiliki kekokohan yang cukup lama malah hingga ratusan tahun. Tentunya ini ialah investasi yang betul-betul murah seandainya kita bandingkan dengan waktu pakai. Malahan bangunan yang dibangun dengan rangka Besi WF dapat kita wariskan kepada si kecil cucu kita.
+4. Lebih hemat sebab struktur bangunan yang menerapkan Besi WF akan memiliki kekokohan yang cukup lama malah hingga ratusan tahun. Tentunya ini ialah investasi yang betul-betul murah seandainya kita bandingkan dengan waktu pakai. Malahan bangunan yang dibangun dengan rangka Besi WF dapat kita wariskan kepada si kecil cucu kita.
 
 ## Mengetahui Besi H Beam Di Grogol Depok
 
@@ -72,15 +72,15 @@ Sama seperti besi yang kami terangkan sebelumnya ialah Besi WF, besi H-Beam pun 
 
 ### Kelebihan Besi H Beam Di Grogol Depok
 
-1\. Mudah untuk diperoleh. Banyak supplier besi yang menyediakan stok besi H-Beam bermacam-macam ukuran. Sehingga besi H-Beam ini betul-betul mudah untuk diperoleh, tidak susah untuk mendapatkan toko besi yang menjual besi H Beam.
+1. Mudah untuk diperoleh. Banyak supplier besi yang menyediakan stok besi H-Beam bermacam-macam ukuran. Sehingga besi H-Beam ini betul-betul mudah untuk diperoleh, tidak susah untuk mendapatkan toko besi yang menjual besi H Beam.
 
-2\. Mudah Dalam Pemasangan. Banyak tukang ahli dalam pemasangan besi H Beam. Meskipun besi H-Beam ini wajib dipasang oleh tukang yang profesional akan tetapi tukang yang ahli dalam memasang besi H Beam ini sungguh-sungguh banyak kita temui hari ini. Sehingga tidak perlu dikhawatirkan lagi progres pemasangannya.
+2. Mudah Dalam Pemasangan. Banyak tukang ahli dalam pemasangan besi H Beam. Meskipun besi H-Beam ini wajib dipasang oleh tukang yang profesional akan tetapi tukang yang ahli dalam memasang besi H Beam ini sungguh-sungguh banyak kita temui hari ini. Sehingga tidak perlu dikhawatirkan lagi progres pemasangannya.
 
-3\. Memiliki ketahanan yang tdk diragukan lagi. Besi H Beam telah teruji selama bertahun-tahun dalam kontruksi bangunan. Apakah skala kecil maupun skala besar dan terbilang benar-benar tahan lama seandainya diperbandingkan dengan material lainnya. Bisa bertahan sampai puluhan sampai ratusan tahun.
+3. Memiliki ketahanan yang tdk diragukan lagi. Besi H Beam telah teruji selama bertahun-tahun dalam kontruksi bangunan. Apakah skala kecil maupun skala besar dan terbilang benar-benar tahan lama seandainya diperbandingkan dengan material lainnya. Bisa bertahan sampai puluhan sampai ratusan tahun.
 
-4\. Mudah dalam perawatannya. Bangunan yang menggunakan besi H Beam sebagai struktur rangka bangunannya akan amat gampang dalam melaksanakan perawatannya. tdk perlu pengecatan dengan cat khusus maupun pembersihan tiap-tiap waktu.
+4. Mudah dalam perawatannya. Bangunan yang menggunakan besi H Beam sebagai struktur rangka bangunannya akan amat gampang dalam melaksanakan perawatannya. tdk perlu pengecatan dengan cat khusus maupun pembersihan tiap-tiap waktu.
 
-5\. Menghemat pemakaian material lainnya, seperti penggunaan bekisting, pengaplikasian steger atau tiang penyangga dan juga material pasir. Besi H Beam Tdk memerlukan material pasir dalam penggunaannya.
+5. Menghemat pemakaian material lainnya, seperti penggunaan bekisting, pengaplikasian steger atau tiang penyangga dan juga material pasir. Besi H Beam Tdk memerlukan material pasir dalam penggunaannya.
 
 ### Kekurangan Dari Besi H Beam Di Grogol Depok
 

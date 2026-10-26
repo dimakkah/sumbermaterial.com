@@ -18,19 +18,19 @@ Tanpa adanya besi karenanya sebuah bangunan akan mudah retak ketika ada getaran 
 
 ## Seperti Ini Macam-macam Besi Di Kelapa Dua Wetan Jakarta
 
-### 1\. Besi Polos Krakatau Steel 4mm, 6mm, 8mm, 10mm, 12mm, 16mm, 18mm, 19mm Di Kelapa Dua Wetan Jakarta
+### 1. Besi Polos Krakatau Steel 4mm, 6mm, 8mm, 10mm, 12mm, 16mm, 18mm, 19mm Di Kelapa Dua Wetan Jakarta
 
 Besi polos memiliki ukuran mulai dari 8 mm sampai dengan 25 mm dan memiliki 6 meter panjang tekuk dan 12 meter panjang lurus. Besi beton ini mulai diaplikasikan sebagai bahan utama di Indonesia pada tahun 1950. Besi ini kerap kali kali dipakai untuk membangun bangunan beton. Bahan yang gampang diaplikasikan sehingga selain diterapkan untuk membangun sebuah gedung juga digunakan untuk membangun trowongan, bendungan, dan lainnya. Saat diaplikasikan untuk membangun tempat tinggal bertingkat karenanya biasa besi polos ini digunakan untuk struktur rangkaian besi balok, dinding, dan sloof. Besi beton polos ini mempunyai kelebihan besi polos ini tegangannya lebih tinggi dari pada besi lainnya. Oleh karena itu besi ini terkesan lebih kokoh dan tahan beban. Jadi pengaplikasian besi polos ini amat layak untuk membangun gedung, jembatan, dan bangunan lainnya. Besi polos ini terbuat dari bahan seperti billet dan skrap. Billet ialah baja batangan yang pengerjaan pembuatannya dengan mengecor biji besi. Sekiranya skrap yaitu besi bekas yang dileburkan dengan temperature tertentu. Selain dari itu bila anda mengaplikasikan besi polos ini tidak membutuhkan biaya pemeliharaan. Semakin lama diterapkan maka besi ini akan semakin kokoh.
 
-### 2\. Besi Ulir Full 4mm, 6mm, 8mm, 10mm, 12mm, 16mm, 18mm, 19mm Di Kelapa Dua Wetan Jakarta
+### 2. Besi Ulir Full 4mm, 6mm, 8mm, 10mm, 12mm, 16mm, 18mm, 19mm Di Kelapa Dua Wetan Jakarta
 
 Selaras dengan namanya besi beton ulir ini merupakan besi yang tampilannya mengulir. Pada permukaannya bercorak spiral yang memiliki tujuan untuk menyatukan tulangan dengan elemen material bangunan yang dibangun oleh besi beton. Besi ulir ini mulai populer dipakai pada abad ke-20 di Amerika dan mulai populer di Indonesia pada tahun1950. Mengingat ketika menerapkan besi ulir ini mempunyai banyak keunggulan mulai dari kekuatan bangunan serta lebih hemat biaya dan efisien. Produk besi ulir ini menjadi andalan pasar karena mempunyai mutu yang terbaik di Indonesia dan mempunyai harga yang tinggi seandainya dibandingkan dengan produk lainnya.
 
-### 3\. Besi WF dan H-Beam KS Di Kelapa Dua Wetan Jakarta
+### 3. Besi WF dan H-Beam KS Di Kelapa Dua Wetan Jakarta
 
 Besi Wide Flange (WF) ini yakni salah satu baja dengan struktural yang paling populer digunakan untuk kontruksi baja. Jika anda membutuhkan besi baja Wide Flage dalam quantitas yang banyak atau sedikit karenanya silahkan cari jual besi yang terpercaya. Besi WF ini memiliki ketahanan yang kokoh dan kuat pada ketahanan tarik atau tekan. Maka dari itu besi ini menjadi elemen struktur yang mempunyai batasan yang paripurna untuk menahan beban tekan aksial, tarik aksial, dan lentur dengan fasilitas pembangunan strukturnya. Baja Wide Flange (WF) ini mempunyai kepadatan yang tinggi tetapi rasio berat antara ketahanan bagian Baja WF yang tinggi tetapi tdk begitu berat yang berkaitan dengan kapasitas beban. Selain itu menetapkan bila kontruksi yang diterapkan secara efisien. Cara kontruksi baja WF ini kombinasi dari elemen struktur yang rumit. Pada struktur ini memiliki tujuan membawa muatan yang aman dan efektif yang berefek pada sebuah bangunan dan dikirim pada pondasinya. Gaya dan bobot yang berefek ini termasuk muatan pertikal, perbedaan suhu, horizontal, getaran dan lainnya. Pada sebuah bangunan baja, maka ada unsure yang berguna menopang gaya lateral dan gravitasi.
 
-### 4\. Besi Holow Di Kelapa Dua Wetan Jakarta
+### 4. Besi Holow Di Kelapa Dua Wetan Jakarta
 
 Besi hollow ialah besi yang diaplikasikan sebagai pembuatan kanopi, pagar, pintu besi dan lainnya. Bahan baku pembuatan besi Hollow ini umumnya terbuat dari stainless, galvanis, dan besi baja. Namun yang paling sering kali digunakan sebagai bahan baku adalah galvanis. Terdapat kelebihan yang anda peroleh ketika memasang kanopi, memasang pagar, teralis memakai besi hollow:
 

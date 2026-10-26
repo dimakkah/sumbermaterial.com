@@ -16,7 +16,7 @@ saat ini bahan yg digunakan untuk mengisi dinding tempat tinggal, sudah terdapat
 
 ## Mengetahui Ragam Variasi Bata
 
-### 1\. Bata Merah Standar & Jumbo Di Pisangan Baru Jakarta
+### 1. Bata Merah Standar & Jumbo Di Pisangan Baru Jakarta
 
 ![Harga Batako Hitam Press Gratis Ongkir Ke Pisangan Baru Jakarta](/images/bata/bata-merah-oven-19.png)
 
@@ -26,7 +26,7 @@ Bata merah ini dihasilkan dari material tanah yg kemudian di press dan dibakar d
 
 Material bangunan ini amat kuat terhadap panas dan pantas dibuat perlindungan dari bahaya api. Bata merah ini pada umumnya mempunyai ukuran panjang antara 17-23 cm dan lebar sekitar 7-11 cm, serta tebalnya 3-5 cm. mempunyai ukuran yang lebih kecil akan memberi kemudahan dalam proses pengangkutan dan bisa diaplikasikan untuk membentuk bidang kecil.
 
-### 2\. Batako Hitam dan Putih Di Pisangan Baru Jakarta
+### 2. Batako Hitam dan Putih Di Pisangan Baru Jakarta
 
 ![Harga Batako Hitam Press Gratis Ongkir Ke Pisangan Baru Jakarta](/images/bata/batako-hitam-press-22.png)
 
@@ -34,7 +34,7 @@ Material bangunan dinding dari batako trus ini secara lazimnya terbuat dari baha
 
 Batako seperti ini memiliki kekurangan seperti mudah retak, lebih panas dan pengap. Berbeda dengan bata merah yang terbuat dari material tanah. Melainkan batako trus ini cenderung lebih ringan ketimbang bata merah. Akhirnya akan nampak lebih halus dan ukurannya lebih presisi sekiranya dibandingkan dengan bata merah. Batako trus Hitam ini mempunyai ukuran panjang sekitar 36-40 cm, tinggi 18-20 cm dan tebal 8-10 cm. bahan ini sering kali dipilih karena untuk memperingan beban struktur bangunan, meminimalisir sisa material dan mempercepat pembangunan.
 
-### 3\. Bata Hebel Di Pisangan Baru Jakarta
+### 3. Bata Hebel Di Pisangan Baru Jakarta
 
 ![Harga Batako Hitam Press Gratis Ongkir Ke Pisangan Baru Jakarta](/images/bata/bata-hebel-sni-08.png)
 
@@ -62,7 +62,7 @@ Segalanya tentu sudah tahu fungsi utama batu bata mulai diaplikasikan untuk memb
 
 Sistem memesan batu bata yg aman dan terpercaya:
 
-1.  Progres pembayaran dapat anda lakukan secara COD atau dibayar di tempat saat barang orderan anda sudah datang di tempat
+1.  Progres pembayaran dapat anda lakukan secara COD atau dibayar di tempat saat barang orderan anda sudah datang di tempat
 2. Silahkan memilih dan memutuskan bahan batu bata yg anda inginkan
 3. Tentukan juga jumlah pesanan batu bata yg anda butuhkan dalam format bijian.
 4. Anda dapat menghubungi layanan telepon toko untuk memudahkan proses pengorderan

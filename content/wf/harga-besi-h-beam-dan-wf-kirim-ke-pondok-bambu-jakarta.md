@@ -50,13 +50,13 @@ d. tidak dapat menjangkau area yang sempit. Mengingat Besi WF ini berukuran panj
 
 ### Kelebihan Dari Besi WF Di Pondok Bambu Jakarta
 
-1\. Bisa memaksimalkan waktu dalam pembangunan sebuah konstruksi bangunan, mengurangi waktu dan juga menghemat biaya dan tenaga tukang.
+1. Bisa memaksimalkan waktu dalam pembangunan sebuah konstruksi bangunan, mengurangi waktu dan juga menghemat biaya dan tenaga tukang.
 
-2\. Bisa menopang bobot yang benar-benar berat, tdk gampang memuai dan lebih simple pemakaiannya dibanding dengan material struktural lainnya.
+2. Bisa menopang bobot yang benar-benar berat, tdk gampang memuai dan lebih simple pemakaiannya dibanding dengan material struktural lainnya.
 
-3\. Mempunyai fleksibilitas yang tinggi. Sehingga struktur bangunan yang dihasilkan dari Besi WF ini menjadi lebih kuat tdk gampang bergeser, tidak mudah ambruk maupun goyang. Amat sesuai untuk variasi bangunan diatas tanah yang labil atau sering kali terjadi goncangan.
+3. Mempunyai fleksibilitas yang tinggi. Sehingga struktur bangunan yang dihasilkan dari Besi WF ini menjadi lebih kuat tdk gampang bergeser, tidak mudah ambruk maupun goyang. Amat sesuai untuk variasi bangunan diatas tanah yang labil atau sering kali terjadi goncangan.
 
-4\. Lebih hemat karena struktur bangunan yang menerapkan Besi WF akan mempunyai kekokohan yang cukup lama bahkan sampai ratusan tahun. Tentunya ini yaitu investasi yang sangat murah kalau kita bandingkan dengan waktu gunakan. Bahkan bangunan yang dibangun dengan tulangan Besi WF bisa kita wariskan kepada buah hati cucu kita.
+4. Lebih hemat karena struktur bangunan yang menerapkan Besi WF akan mempunyai kekokohan yang cukup lama bahkan sampai ratusan tahun. Tentunya ini yaitu investasi yang sangat murah kalau kita bandingkan dengan waktu gunakan. Bahkan bangunan yang dibangun dengan tulangan Besi WF bisa kita wariskan kepada buah hati cucu kita.
 
 ## Mengetahui Besi H Beam Di Pondok Bambu Jakarta
 
@@ -72,15 +72,15 @@ Sama seperti besi yang kami paparkan sebelumnya ialah Besi WF, besi H-Beam bahka
 
 ### Keunggulan Besi H Beam Di Pondok Bambu Jakarta
 
-1\. Mudah untuk diperoleh. Banyak toko besi yang menyediakan stok besi H-Beam bermacam-macam ukuran. Sehingga besi H-Beam ini sangat gampang untuk diperoleh, tdk susah untuk memperoleh supplier besi yang memasarkan besi H Beam.
+1. Mudah untuk diperoleh. Banyak toko besi yang menyediakan stok besi H-Beam bermacam-macam ukuran. Sehingga besi H-Beam ini sangat gampang untuk diperoleh, tdk susah untuk memperoleh supplier besi yang memasarkan besi H Beam.
 
-2\. Mudah Dalam Pemasangan. Banyak tukang spesialis dalam pemasangan besi H Beam. Meski besi H-Beam ini sepatutnya dipasang oleh tukang yang berpengalaman akan tetapi tukang yang berpengalaman dalam memasang besi H Beam ini sungguh-sungguh banyak kita temui hari ini. Sehingga tidak perlu dikhawatirkan lagi progres pemasangannya.
+2. Mudah Dalam Pemasangan. Banyak tukang spesialis dalam pemasangan besi H Beam. Meski besi H-Beam ini sepatutnya dipasang oleh tukang yang berpengalaman akan tetapi tukang yang berpengalaman dalam memasang besi H Beam ini sungguh-sungguh banyak kita temui hari ini. Sehingga tidak perlu dikhawatirkan lagi progres pemasangannya.
 
-3\. Mempunyai daya tahan yang tdk diragukan lagi. Besi H Beam telah teruji selama bertahun-tahun dalam kontruksi bangunan. Apakah skala kecil maupun skala besar dan terbilang amat kuat seandainya diperbandingkan dengan material lainnya. Dapat bertahan hingga puluhan sampai ratusan tahun.
+3. Mempunyai daya tahan yang tdk diragukan lagi. Besi H Beam telah teruji selama bertahun-tahun dalam kontruksi bangunan. Apakah skala kecil maupun skala besar dan terbilang amat kuat seandainya diperbandingkan dengan material lainnya. Dapat bertahan hingga puluhan sampai ratusan tahun.
 
-4\. Gampang dalam perawatannya. Bangunan yang menerapkan besi H Beam sebagai struktur tulangan bangunannya akan betul-betul mudah dalam melaksanakan perawatannya. tidak perlu pengecatan dengan cat khusus ataupun pembersihan tiap saat.
+4. Gampang dalam perawatannya. Bangunan yang menerapkan besi H Beam sebagai struktur tulangan bangunannya akan betul-betul mudah dalam melaksanakan perawatannya. tidak perlu pengecatan dengan cat khusus ataupun pembersihan tiap saat.
 
-5\. Menghemat pengaplikasian material lainnya, seperti penggunaan bekisting, pemakaian steger atau steger dan juga material pasir. Besi H Beam tidak memerlukan material pasir dalam penggunaannya.
+5. Menghemat pengaplikasian material lainnya, seperti penggunaan bekisting, pemakaian steger atau steger dan juga material pasir. Besi H Beam tidak memerlukan material pasir dalam penggunaannya.
 
 ### Kekurangan Dari Besi H Beam Di Pondok Bambu Jakarta
 

@@ -18,19 +18,19 @@ Tanpa adanya besi maka sebuah bangunan akan gampang retak ketika ada guncangan k
 
 ## Megenal Jenis-jenis Besi Di Cikarang Bekasi
 
-### 1\. Besi Polos Toleransi 4mm, 6mm, 8mm, 10mm, 12mm, 16mm, 18mm, 19mm Di Cikarang Bekasi
+### 1. Besi Polos Toleransi 4mm, 6mm, 8mm, 10mm, 12mm, 16mm, 18mm, 19mm Di Cikarang Bekasi
 
 Besi polos mempunyai ukuran mulai dari 8 mm sampai 25 mm dan mempunyai 6 meter panjang tekuk dan 12 meter panjang lurus. Besi beton ini sudah mulai diterapkan sebagai bahan utama di Indonesia pada tahun 1950. Besi ini sering kali dipakai untuk membangun rumah. Bahan yang gampang diterapkan sehingga selain dari diaplikasikan untuk membangun sebuah gedung juga digunakan untuk membangun trowongan, bendungan, dan lainnya. Saat diterapkan untuk membangun rumah bertingkat karenanya biasa besi polos ini diaplikasikan untuk struktur rangkaian besi balok, dinding, dan sloof. Besi beton polos ini memiliki keunggulan besi polos ini tegangannya lebih tinggi dari pada besi lainnya. Jadi besi ini terkesan lebih kokoh dan tahan beban. Sehingga pengaplikasian besi polos ini amat layak untuk membangun gedung, jembatan, dan bangunan lainnya. Besi polos ini terbuat dari bahan seperti billet dan skrap. Billet yaitu baja batangan yang proses pembuatannya dengan melebur biji besi. Jikalau skrap adalah besi bekas yang dihancurkan dengan temperature tertentu. Selain dari itu sekiranya anda menerapkan besi polos ini tdk membutuhkan anggaran pemeliharaan. Semakin lama digunakan maka besi ini akan kian kokoh.
 
-### 2\. Besi Ulir KS 4mm, 6mm, 8mm, 10mm, 12mm, 16mm, 18mm, 19mm Di Cikarang Bekasi
+### 2. Besi Ulir KS 4mm, 6mm, 8mm, 10mm, 12mm, 16mm, 18mm, 19mm Di Cikarang Bekasi
 
 Cocok dengan namanya besi beton ulir ini adalah besi yang tampilannya mengulir. Pada permukaannya bercorak spiral yang memiliki tujuan untuk menyatukan gerigi besi dengan faktor material bangunan yang dibentuk oleh besi beton. Besi ulir ini mulai populer dipakai pada abad ke-20 di Amerika dan mulai populer di Indonesia pada tahun1950. Mengingat ketika menerapkan besi ulir ini memiliki banyak kelebihan mulai dari ketahanan bangunan serta lebih hemat biaya dan efisien. Produk besi ulir ini menjadi primadona pasar karena memiliki kualitas yang terbaik di Indonesia dan mempunyai harga yang tinggi bila dibandingkan dengan produk lainnya.
 
-### 3\. Besi WF dan H-Beam SNI Di Cikarang Bekasi
+### 3. Besi WF dan H-Beam SNI Di Cikarang Bekasi
 
 Besi Wide Flange (WF) ini yakni salah satu baja dengan struktural yang paling populer dipakai untuk kontruksi baja. Apabila anda membutuhkan besi baja Wide Flage dalam quantitas yang banyak atau sedikit maka silahkan cari penjual besi yang terpercaya. Besi WF ini mempunyai kekuatan yang kokoh dan kokoh pada ketahanan tarik atau tekan. Karenanya dari itu besi ini menjadi elemen struktur yang mempunyai batasan yang sempurna untuk menahan beban tekan aksial, tarik aksial, dan lentur dengan fasilitas pembangunan strukturnya. Baja Wide Flange (WF) ini memiliki kepadatan yang tinggi namun rasio berat antara kekuatan bagian Baja WF yang tinggi namun tdk terlalu berat yang terkait dengan kapasitas bobot. Selain dari itu memastikan seandainya kontruksi yang diaplikasikan secara efisien. Cara kontruksi baja WF ini kombinasi dari faktor struktur yang rumit. Pada struktur ini memiliki tujuan membawa beban yang aman dan tepat sasaran yang bekerja pada sebuah bangunan dan dikirim pada pondasinya. Gaya dan bobot yang bekerja ini termasuk bobot pertikal, perbedaan temperatur, horizontal, getaran dan lainnya. Pada sebuah bangunan baja, karenanya ada unsure yang bermanfaat menopang gaya lateral dan gravitasi.
 
-### 4\. Besi Holow Di Cikarang Bekasi
+### 4. Besi Holow Di Cikarang Bekasi
 
 Besi hollow yaitu besi yang dipakai sebagai pembuatan kanopi, pagar, pintu besi dan lainnya. Bahan baku pembuatan besi Hollow ini lazimnya terbuat dari stainless, galvanis, dan besi baja. Tapi yang paling tak jarang diaplikasikan sebagai bahan baku adalah galvanis. Terdapat kelebihan yang anda dapatkan dikala menerapkan kanopi, mengaplikasikan pagar, teralis mengaplikasikan besi hollow:
 

@@ -25,7 +25,7 @@ Menurut Standar Nasional Indonesia ( SK SNI - S - 04 - 1989 - F ; 28) di sebutka
 
 Persyaratan Pasir yg Baik buat Bangunan
 
-1.  Agregat Halus mesti terdiri dari butiran yang tajam dan keras dengan indeks kekerasan <2.2
+1.  Agregat Halus mesti terdiri dari butiran yang tajam dan keras dengan indeks kekerasan <2.2
 2. Jika digunakan Natrium Sulfat komponen hancur optimal dua belas persen
 3. Jikalau diaplikasikan Magnesium Sulfat bagian halus optimal 10%
 4. Tidak boleh mengandung clay lebih dari lima %
@@ -41,7 +41,6 @@ Persyaratan Pasir yg Baik buat Bangunan
 Setelah mengetahui persyaratan pasir tuk suatu Konstruksi Bangunan, pada saat ini kita bahas model - model Pasir Untuk Konstruksi penjelasan nya sbb:
 
 - ### Pasir untuk Cor Rigid Di Tajur Kecamatan Bogor
-    
 
 Pasir ini biasa nya berwarna hitam kemerahan dan tingkat kekerasan butiran nya lumayan tinggi. Tapi jikalau anda mengepal nya dengan tangan tak akan menggumpal dan akan buyar kembali. tipe pasir ini betul-betul lah baik tuk Pengecoran, Plesteran Dinding, Adukan Pondasi dan Adukan Pasangan Bata Pasir ini yaitu pasir untuk Beton merupakan butiran-butiran mineral keras dan tajam berukuran antara 0,075 – 5 mm, apabila terdapat butiran berukuran lebih kecil dari 0,063 mm tidak lebih dari 5% berat. Pasir ini yaitu pasir untuk Cor hampir sering kali diterapkan untuk pekerjaan cor-coran struktur seperti kolom, balok dan pelat lantai.
 
@@ -52,9 +51,9 @@ Harga Pasir Pasang Free Ongkir Ke Tajur Kecamatan Bogor Kalau anda sebagai konsu
 Pasir nomor satu diambil dari kp. jebrod cianjur jawa barat yang diterapkan oleh indocement serta perusahaan batching plant lainnya sebagai bahan dasar produksi readymix concrete. Pasir ini paling dianjurkan untuk cor sebab irit semen juga mempunyai kandungan lumpur yang amat rendah dibawah delapan %. warnanya Hitam abu tua atau hitam seperti hitamnya batu kali, ada juga yang hitam kemerahan atau hitam terasi
 
 3. **Pasir Hitam Rigid Cimangkok.** Pasir dari Tempat penambangannya di cimangkok sukabumi jabar yang masih masuk pada kategori pasir hitam No. 1 di jawa barat, warnanya hitam kecoklatan sesuai untuk cor, pasang pondasi dan bata
-    
+
     ![Harga Pasir Pasang Free Ongkir Ke Tajur Kecamatan Bogor](/images/info/pasir-hitam-8.jpg)
-    
+
 4. **Pasir Hitam Rigid Cimalaka Subang Bandung.**
 
 Pasir paling unggul yang berwarna hitam kebauan ada juga yang berwarna hitam abu tua. Banyak di aplikasikan untuk Cor, pasang dan keperluan lainnya. Ditambang di kampung cimalaka
@@ -90,9 +89,9 @@ Kecuali Rangkasbitung, Banten juga mempunyai lokasi pnembangan pasir lain sepert
 Masih dari Lokasi di banten, pasir kelas tiga ini yaitu pasir yang banyak diaplikasikan di proyek proyek perumahan atau cluster sebab harganya yang murah juga kwalitas yang bagus. Warna pasir ini hitam kecoklatan dan keabuan sungguh-sungguh disarankan untuk pasang pondasi, bata, batu dan lain-lain
 
 27. **Pasir Hitam Cor Bohlam Sukabumi.** Pasir dari Lokasi kp. bohlam di sukabumi berwarna hitam kecoklatan, benar-benar bagus untuk pasang bata, pondasi dsb sebagai opsi pasir kwalitas unggul dan murah
-    
+
     ![Harga Pasir Pasang Free Ongkir Ke Tajur Kecamatan Bogor](/images/info/pasir-hitam-7.jpg)
-    
+
 28. **Pasir Cor Galunggung.**
 
 Pasir ini merupakan pasir hitam kwalitas paling unggul dikelasnya lazim digunakan oleh pabrik pengolahan beton readymix juga perusahan pembuatan precast dan kerap juga diterapkan untuk bahan pembuatan batako press hitam, paving block dsb. Pasir ini ditambang dari Tasikmalaya jawa barat.
@@ -100,21 +99,18 @@ Pasir ini merupakan pasir hitam kwalitas paling unggul dikelasnya lazim digunaka
 ![Harga Pasir Pasang Free Ongkir Ke Tajur Kecamatan Bogor](/images/info/pasir-hitam-7.jpg)
 
 - ### Pasir Biasa Di Tajur Kecamatan Bogor
-    
 
 ![Harga Pasir Pasang Free Ongkir Ke Tajur Kecamatan Bogor](/images/info/jual-pasir-mundu-2.jpg)
 
 Pasir ini lebih halus lagi dibandingi oleh pasir beton. seandainya anda mengepal pasir ini karenanya akan menggumpal dan tak akan hancur kembali. pasir pasang biasa nya di gunakan buat campuran pasir beton supaya tak terlalu kasar dan bisa di pakai untuk plesteran dinding.
 
 - ### Pasir Kualitas rendah Untuk Dasaran Pemasangan Keramik Di Tajur Kecamatan Bogor
-    
 
 Di Antara ke dua pasir diatas pasir tipe ini lebih halus lagi, kalau anda mengepal nya karenanya akan menggumpal dan tak akan hancur lagi. tetapi pasir macam
 
 Pada umum nya pasir ini nyaris sama dgn pasir beton melainkan pasir ini memiliki tingkat kekasaran yg tinggi, butiran - butiran nya cukup besar dan agak banyak batuan nya. pada lazimnya pasir macam ini bagus tuk bahan Pembuatan Batako
 
 - ### Pasir Putih Bebas Lumpur Untuk Pengecoran Di Tajur Kecamatan Bogor
-    
 
 1. **Pasir Putih Bangka**
 

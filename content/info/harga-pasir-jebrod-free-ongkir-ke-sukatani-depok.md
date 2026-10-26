@@ -25,7 +25,7 @@ Menurut Standar Nasional Indonesia ( SK SNI - S - 04 - 1989 - F ; 28) di sebutka
 
 Prasyarat Pasir yang Bagus buat Konstruksi
 
-1.  Agregat Halus harus terdiri dari butiran yg tajam dan keras dengan indeks kekerasan <2.2
+1.  Agregat Halus harus terdiri dari butiran yg tajam dan keras dengan indeks kekerasan <2.2
 2. jikalau diterapkan Natrium Sulfat bagian hancur maksimal 12 persen
 3. jika diaplikasikan Magnesium Sulfat komponen halus optimal 10%
 4. Tak boleh berisi clay lebih dari 5%
@@ -41,7 +41,6 @@ Prasyarat Pasir yang Bagus buat Konstruksi
 Setelah memahami persyaratan pasir tuk suatu Konstruksi, pada saat ini kita bahas Tipe - Tipe Pasir Untuk Konstruksi penjelasan nya sebagai berikut:
 
 - ### Pasir Cor Di Sukatani Depok
-    
 
 Pasir ini biasa nya berwarna hitam pekat dan tingkat kekasaran butiran nya cukup tinggi. Melainkan jika anda mengepal nya dengan tangan tak akan lengket dan akan buyar kembali. jenis pasir ini benar-benar lah bagus tuk Pengecoran, Plesteran Dinding, Adukan Pondasi dan Adukan Pasangan Bata Pasir ini yaitu pasir untuk Beton adalah butiran-butiran mineral keras dan tajam berukuran antara 0,075 – 5 mm, sekiranya terdapat butiran berukuran lebih kecil dari 0,063 mm tidak lebih dari 5% berat. Pasir ini yaitu pasir untuk Cor hampir tak jarang dimanfaatkan untuk pekerjaan cor-coran struktur seperti kolom, balok dan pelat lantai.
 
@@ -52,9 +51,9 @@ Harga Pasir Jebrod Free Ongkir Ke Sukatani Depok Seandainya anda sebagai konsume
 Pasir paling unggul asal kp. jebrod cianjur jawa barat yang dipakai oleh indocement serta perusahaan batching plant lainnya sebagai bahan dasar produksi readymix concrete. Pasir ini paling disarankan untuk cor sebab irit semen juga mempunyai kandungan lumpur yang benar-benar rendah dibawah delapan %. warnanya Hitam abu tua atau hitam seperti hitamnya batu kali, ada juga yang hitam kemerahan atau hitam terasi
 
 3. **Pasir Hitam Rigid Cimangkok.** Pasir asal Tempat penambangannya di cimangkok sukabumi jawa barat yang masih masuk pada kategori pasir hitam No. 1 di jawa barat, warnanya hitam kecoklatan pantas untuk cor, pasang pondasi dan bata
-    
+
     ![Harga Pasir Jebrod Free Ongkir Ke Sukatani Depok](/images/info/jual-pasir-cor-hitam.jpg)
-    
+
 4. **Pasir Hitam Rigid Cimalaka Subang Bandung.**
 
 Pasir paling unggul yang berwarna hitam kebauan ada juga yang berwarna hitam abu tua. Banyak di pakai untuk Rigid, pasang dan keperluan lainnya. Ditambang di Desa cimalaka
@@ -90,9 +89,9 @@ Kecuali Rangkasbitung, Banten juga mempunyai lokasi pnembangan pasir lain sepert
 Masih dari Daerah di banten, pasir kelas tiga ini merupakan pasir yang banyak digunakan di proyek proyek perumahan atau cluster sebab harganya yang murah juga kwalitas yang tidak diragukan. Warna pasir ini hitam kecoklatan dan keabuan benar-benar dianjurkan untuk pasang pondasi, bata, batu dsb
 
 27. **Pasir Hitam Rigid Bohlam Sukabumi.** Pasir dari Kawasan kp. bohlam di sukabumi berwarna hitam kecoklatan, benar-benar bagus untuk pasang bata, pondasi dan sebagainya sebagai pilihan pasir mutu tidak diragukan dan ekonomis
-    
+
     ![Harga Pasir Jebrod Free Ongkir Ke Sukatani Depok](/images/info/pasir-hitam-5.jpg)
-    
+
 28. **Pasir Rigid Galunggung.**
 
 Pasir ini yaitu pasir hitam mutu paling unggul dikelasnya awam diaplikasikan oleh pabrik pengolahan beton readymix juga perusahan pembuatan precast dan kerap kali juga diaplikasikan untuk bahan pembuatan batako press hitam, paving block dan lainnya. Pasir ini ditambang dari Tasikmalaya jawa barat.
@@ -100,21 +99,18 @@ Pasir ini yaitu pasir hitam mutu paling unggul dikelasnya awam diaplikasikan ole
 ![Harga Pasir Jebrod Free Ongkir Ke Sukatani Depok](/images/info/pasir-hitam-1.jpg)
 
 - ### Pasir Untuk Pemasangan Batu, Pondasi, Bata, Ubin, Plester Di Sukatani Depok
-    
 
 ![Harga Pasir Jebrod Free Ongkir Ke Sukatani Depok](/images/info/pasir-hitam-11.jpg)
 
 Pasir ini lebih halus lagi dibandingkan oleh pasir beton. bila anda mengepal pasir ini karenanya akan menggumpal dan tak akan buyar kembali. pasir pasang biasa nya di manfaatkan tuk campuran pasir beton supaya tak kelewat kasar dan dapat di pakai untuk plesteran dinding.
 
 - ### Pasir Elod Untuk pengurugan lantai Di Sukatani Depok
-    
 
 Di Antara ke dua pasir diatas pasir model ini lebih halus lagi, sekiranya kalian mengepal nya akan menggumpal dan tidak akan buyar lagi. namun pasir ragam tidak bagus untuk di buat sebagai bahan bangunan. pasir macam ini pada biasa nya di pakai tuk Bahan Pembuatan Batako
 
 Pada umum nya pasir ini nyaris sama dgn pasir beton namun pasir ini memiliki tingkat kekasaran yang tinggi, butiran - butiran nya cukup besar dan agak banyak batuan nya. pada biasanya pasir tipe ini baik untuk bahan dasaran pemasangan keramik
 
 - ### Pasir Putih Tanpa Batu Untuk Lapangan Voly Di Sukatani Depok
-    
 
 1. **Pasir Putih Bangka**
 

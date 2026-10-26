@@ -22,31 +22,31 @@ Metode pengecoran sendiri terbagi menjadi dua bagian, yaitu teknik traditional d
 
 **• Teknik konvesional terdiri dari beberapa bagian:**
 
-1\. Dry-Sand Casting
+1. Dry-Sand Casting
 
-2\. Full-Mold Casting
+2. Full-Mold Casting
 
-3\. Sand-Mold Casting
+3. Sand-Mold Casting
 
-4\. Vacuum-Mold Casting
+4. Vacuum-Mold Casting
 
-5\. Shell-Mold Casting
+5. Shell-Mold Casting
 
-6\. Cement-Mold Casting
+6. Cement-Mold Casting
 
 **• Teknik modern terdiri atas:**
 
-1\. Centrifugal Casting
+1. Centrifugal Casting
 
-2\. Investment Casting
+2. Investment Casting
 
-3\. Permanent-Mold Casting
+3. Permanent-Mold Casting
 
-4\. High-Pressure Die Casting
+4. High-Pressure Die Casting
 
-5\. Plaster-Mold Casting
+5. Plaster-Mold Casting
 
-6\. Solid-Ceramic Casting
+6. Solid-Ceramic Casting
 
 Sebenarnya, baik metode traditional ataupun non konvesional sama – sama memiliki kualitas yang top untuk sistem pengecoran. Pada intinya perbedaan antara teknik konvesional dan non konvesional terdapat pada sebuah contemporary casting yang tidak bergantung pada pasir dalam pembuatan cetakannya. Selain itu, temporary yang terdapat pada pengecoran akan di manfaatkan utk mendapatkan suatu produk berdasarkan geometriyang kecil. hingga, cukup relatif dibandingkan jika menggunakan traditional casting. Dimana, Hasil coran non konvesional casting tidak perlu membutuhkan proses tambahan dalam menyelesaikan suatu permukaan. Sebagaimana di ketahui, jika jenis logam yg akan di perbuat pengecoran kebanyakan mempergunakan logam besi secara bersama-sama. Hal ini di lakukan dengan menggunakan aluminium, kuningan, perak, dan beberapa material non logam lainnya. Sistem pengecoran telah memiliki mekanisme yang lumayan sederhana. Inilah kenapa banyak yg mempromosikam jasa pengecoran. Jasa pengecoran memang sangat mudah di temukan. Di setiap sosial media Anda dapat melihat banyak iklan yg mempromosikam jasa penyecoran. Hal ini tentu saja akan menjadikan Anda mudah memperoleh jasa pengecoran. Semakin banyaknya yang menawarkan, maka sebaiknya anda waspada dalam memakai jasa pengecoran. Dengan keahilan yg di milikinya, maka para jasa pengecoran dapat lebih mudah dalam menjalankan progres pengecoran secara sempurna. Hakikatnya, ada banyak jenis pengecoran yang di tawarkan oleh jasa pengecoran. Inilah beberapa macam pengecoran dari Jasa Cor Lantai dan Jalan Per Meter Di Cibubur Jakarta:
 
@@ -56,27 +56,27 @@ Merupakan salah satu jenis pengecoran yang di lakukan dengan teknik mencetak sec
 
 **A. Advantage Permanent Mold Casting:**
 
-• di dalam operasinya tidak diperlukan tenaga ahli
+- di dalam operasinya tidak diperlukan tenaga ahli
 
-• Tidak membutuhkanprogres lanjutan
+- Tidak membutuhkanprogres lanjutan
 
-• Produksi Tinggi
+- Produksi Tinggi
 
-• Cetakan dapat dipakai berulang kali
+- Cetakan dapat dipakai berulang kali
 
-• Ketelitian produk lebih baik daripada sand casting
+- Ketelitian produk lebih baik daripada sand casting
 
 **B. Disadvantage Permanent Mold Casting:**
 
-• Ukuran produk kecil dan sederhana
+- Ukuran produk kecil dan sederhana
 
-• Perlu perhitungan yang tepat dalam mengerjakan cetakan
+- Perlu perhitungan yang tepat dalam mengerjakan cetakan
 
-• Tidak dapat mengecor baja
+- Tidak dapat mengecor baja
 
-• Harga cetakan mahal
+- Harga cetakan mahal
 
-• cetakan untuk satu macam produk
+- cetakan untuk satu macam produk
 
 ## Jasa Pengecoran Jalan Rigit Di Cibubur Jakarta
 
@@ -98,21 +98,21 @@ e. Tahapan penuangan cor
 
 Pekerjaan beton dilakukan sesuai dengan ketentuan dan undang-undang yang berlaku (SNI03 NO 2847 Tahun 2002) dengan jenis kwalitas beton yang akan di pakai pantas dengan Agenda Anggaran dan Biaya (RAB). Adapun dalam proses pengecoran parkiran atau zona parkir gedung atau gudang pabrik, maka sudah wajib mencontoh undang-undang standar mutu supaya tdk terjadi hal hal yang tidak di inginkan oleh anda sekalian. Karena boleh jadi dikala anda mencari harga murah kualitaspun anda abaikan dan ini amat berbahaya selain boros biaya juga lebih pendek umurnya. Berikut merupakan beberapa persyaratan yang kami utamakan dalam progres pelaksaan kerja pengecoran lahan parkir atau area parkir dan gudang.
 
-1\. Beton ready mix layak dengan kualitas yang sudah disetujui
+1. Beton ready mix layak dengan kualitas yang sudah disetujui
 
-2\. Calbond (Super Bonding Agent) /cairan lem antara beton lama dengan baru disebut juga perekat beton
+2. Calbond (Super Bonding Agent) /cairan lem antara beton lama dengan baru disebut juga perekat beton
 
-3\. Curing compound/bahan perawatan dan perlindungan beton yang menghalangi progres penguapan air pada beton berair
+3. Curing compound/bahan perawatan dan perlindungan beton yang menghalangi progres penguapan air pada beton berair
 
-5\. Tukang cor piawai yang tahu lingkup kerja pengecoran.
+5. Tukang cor piawai yang tahu lingkup kerja pengecoran.
 
-6\. Mandor dan pelaksana yang dapat membaca shop drawing/for constrution dengan bagus.
+6. Mandor dan pelaksana yang dapat membaca shop drawing/for constrution dengan bagus.
 
-7\. Pengecekan elevasi balok dijalankan dengan menempatkan alat waterpass dimana tinggi alat yakni setinggi marking pada kolom (1,00 m dari permukaan pelat lantai di bawahnya).
+7. Pengecekan elevasi balok dijalankan dengan menempatkan alat waterpass dimana tinggi alat yakni setinggi marking pada kolom (1,00 m dari permukaan pelat lantai di bawahnya).
 
-8\. Bak ukur ditempatkan pada komponen bawah bekisting balok (bottom) Oleh pelaksana pengevaluasian kecermatan elevasi bottom dicek dengan alatwaterpass.
+8. Bak ukur ditempatkan pada komponen bawah bekisting balok (bottom) Oleh pelaksana pengevaluasian kecermatan elevasi bottom dicek dengan alatwaterpass.
 
-9\. Jikalau pembacaan alat waterpass belum memperlihatkan elevasi yang cocok dengan gambar perencanaan, maka screwjack diputar untuk menaikkan atau menurunkan posisi bottom balok
+9. Jikalau pembacaan alat waterpass belum memperlihatkan elevasi yang cocok dengan gambar perencanaan, maka screwjack diputar untuk menaikkan atau menurunkan posisi bottom balok
 
 .
 

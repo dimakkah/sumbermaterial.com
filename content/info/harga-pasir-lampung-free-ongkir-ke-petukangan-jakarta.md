@@ -25,7 +25,7 @@ Berdasarkan Standar Nasional Indonesia ( SK SNI - S - 04 - 1989 - F ; 28) di tut
 
 Syarat Pasir yg Baik Untuk Konstruksi
 
-1.  Agregat Halus patut terdiri dari butiran yang tajam dan keras dengan indeks kekerasan <2.2
+1.  Agregat Halus patut terdiri dari butiran yang tajam dan keras dengan indeks kekerasan <2.2
 2. bilamana dimanfaatkan Natrium Sulfat komponen hancur maksimal 12 persen
 3. kalau diaplikasikan Magnesium Sulfat komponen halus maksimal 5 persen
 4. Tak boleh berisi tanah lebih dari lima %
@@ -41,7 +41,6 @@ Syarat Pasir yg Baik Untuk Konstruksi
 Sesudah mengetahui syarat pasir tuk sebuah Konstruksi Bangunan, sekarang ini kita bahas Macam - Ragam Pasir Untuk Konstruksi Bangunan penjelasan nya sbb:
 
 - ### Pasir Tipe Cor dan Lokasi Pengambilannya Di Petukangan Jakarta
-    
 
 Pasir ini biasa nya berwarna hitam kemerahan dan tingkat kekasaran butiran nya lumayan tinggi. Namun bila anda mengepal nya dengan tangan tidak akan lengket dan akan buyar kembali. ragam pasir ini amat lah baik untuk Pengecoran, Plesteran Dinding, Adukan Pondasi dan Adukan Pasangan Bata Pasir ini yaitu pasir untuk Cor yaitu butiran-butiran mineral keras dan tajam berukuran antara 0,075 – 5 mm, jika terdapat butiran berukuran lebih kecil dari 0,063 mm tak lebih dari 5% berat. Pasir ini yaitu pasir untuk Beton kerap kali dimanfaatkan untuk profesi cor-coran struktur seperti kolom, balok dan pelat lantai.
 
@@ -52,9 +51,9 @@ Harga Pasir Lampung Free Ongkir Ke Petukangan Jakarta Seandainya anda sebagai ko
 Pasir paling unggul asli kp. jebrod cianjur jawa barat yang diterapkan oleh indocement serta perusahaan batching plant lainnya sebagai bahan dasar produksi readymix concrete. Pasir ini paling disarankan untuk cor sebab irit semen juga mempunyai kandungan lumpur yang benar-benar rendah dibawah delapan %. warnanya Hitam abu tua atau hitam seperti hitamnya batu kali, ada juga yang hitam kemerahan atau hitam terasi
 
 3. **Pasir Hitam Rigid Cimangkok.** Pasir diambil dari Daerah penambangannya di cimangkok sukabumi jabar yang masih masuk pada klasifikasi pasir hitam nomor satu di jabar, warnanya hitam kecoklatan layak untuk cor, pasang pondasi dan bata
-    
+
     ![Harga Pasir Lampung Free Ongkir Ke Petukangan Jakarta](/images/info/pasir-hitam-9.jpg)
-    
+
 4. **Pasir Hitam Rigid Cimalaka Subang Bandung.**
 
 Pasir kelas satu yang berwarna hitam kebauan ada juga yang berwarna hitam abu tua. Banyak di gunakan untuk Rigid, pasang dan keperluan lainnya. Ditambang di Desa cimalaka
@@ -90,9 +89,9 @@ Kecuali Rangkasbitung, Banten juga mempunyai lokasi pnembangan pasir lain sepert
 Masih dari Lokasi di banten, pasir kelas tiga ini yakni pasir yang banyak diterapkan di proyek proyek perumahan atau cluster sebab harganya yang murah juga mutu yang bagus. Warna pasir ini hitam kecoklatan dan keabuan betul-betul disarankan untuk pasang pondasi, bata, batu dan lainnya
 
 27. **Pasir Hitam Beton Bohlam Sukabumi.** Pasir dari Kawasan kp. bohlam di sukabumi berwarna hitam kecoklatan, amat bagus untuk pasang bata, pondasi dan sebagainya sebagai opsi pasir kwalitas unggul dan ekonomis
-    
+
     ![Harga Pasir Lampung Free Ongkir Ke Petukangan Jakarta](/images/info/pasir-hitam-1.jpg)
-    
+
 28. **Pasir Rigid Galunggung.**
 
 Pasir ini ialah pasir hitam kwalitas paling unggul dikelasnya awam digunakan oleh pabrik pengolahan beton readymix juga perusahan pembuatan precast dan kerap juga diaplikasikan untuk bahan pembuatan batako press hitam, paving block dan sebagainya. Pasir ini ditambang dari Tasikmalaya jawa barat.
@@ -100,21 +99,18 @@ Pasir ini ialah pasir hitam kwalitas paling unggul dikelasnya awam digunakan ole
 ![Harga Pasir Lampung Free Ongkir Ke Petukangan Jakarta](/images/info/pasir-hitam-2.jpg)
 
 - ### Pasir Standar Di Petukangan Jakarta
-    
 
 ![Harga Pasir Lampung Free Ongkir Ke Petukangan Jakarta](/images/info/jual-pasir-mundu.jpg)
 
 Pasir ini ekstra halus lagi dibandingi oleh pasir beton. kalau anda mengepal pasir ini karenanya akan menggumpal dan tak akan hancur kembali. pasir pasang lazim nya di manfaatkan untuk campuran pasir beton supaya tak kelewat kasar dan bisa di manfaatkan untuk plesteran dinding.
 
 - ### Pasir Kualitas rendah Untuk Pembuatan Batako Di Petukangan Jakarta
-    
 
 Di Antara ke dua pasir diatas pasir model ini lebih halus lagi, seandainya kamu mengepal nya karenanya akan menggumpal dan tak akan hancur lagi. tapi pasir macam
 
 Pada lazim nya pasir ini nyaris sama dengan pasir beton akan tapi pasir ini mempunyai tingkat kekasaran yang tinggi, butiran - butiran nya lumayan besar dan agak banyak batuan nya. pada lazimnya pasir macam ini baik tuk bahan pemadatan lantai
 
 - ### Pasir Putih Halus Untuk Lapangan Voly Di Petukangan Jakarta
-    
 
 1. **Pasir Putih Bangka**
 

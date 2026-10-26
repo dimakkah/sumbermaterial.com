@@ -18,19 +18,19 @@ Dengan tidak adanya besi maka sebuah bangunan akan gampang retak saat ada guncan
 
 ## Inilah Variasi-tipe Besi Di Cipinang Besar Jakarta
 
-### 1\. Besi Polos 4mm, 6mm, 8mm, 10mm, 12mm, 16mm, 18mm, 19mm Di Cipinang Besar Jakarta
+### 1. Besi Polos 4mm, 6mm, 8mm, 10mm, 12mm, 16mm, 18mm, 19mm Di Cipinang Besar Jakarta
 
 Besi polos mempunyai ukuran mulai dari 8 mm sampai 25 mm dan memiliki 6 meter panjang tekuk dan 12 meter panjang lurus. Besi beton ini sudah mulai dipakai sebagai bahan utama di Indonesia pada tahun 1950. Besi ini kerap kali kali digunakan untuk membangun bangunan beton. Bahan yang mudah digunakan sehingga selain dari diaplikasikan untuk membangun rumah juga dipakai untuk membangun trowongan, bendungan, dan lainnya. Ketika digunakan untuk membangun rumah bertingkat maka biasanya besi polos ini dipakai untuk struktur tulangan balok, dinding, dan sloof. Besi beton polos ini memiliki kelebihan besi polos ini tegangannya lebih tinggi dari pada besi lainnya. Oleh karena itu besi ini terkesan lebih kokoh dan tahan beban. Oleh karena itu pemakaian besi polos ini betul-betul layak untuk membangun gedung, jembatan, dan bangunan lainnya. Besi polos ini terbuat dari bahan seperti billet dan skrap. Billet ialah baja batangan yang progres pembuatannya dengan mengecor biji besi. Jika skrap merupakan besi bekas yang dihancurkan dengan temperature tertentu. Selain itu jika anda memakai besi polos ini tdk membutuhkan budget pemeliharaan. Semakin lama dipakai karenanya besi ini akan semakin kokoh.
 
-### 2\. Besi Ulir Full 4mm, 6mm, 8mm, 10mm, 12mm, 16mm, 18mm, 19mm Di Cipinang Besar Jakarta
+### 2. Besi Ulir Full 4mm, 6mm, 8mm, 10mm, 12mm, 16mm, 18mm, 19mm Di Cipinang Besar Jakarta
 
 Cocok dengan namanya besi beton ulir ini adalah besi yang tampilannya mengulir. Pada permukaannya bercorak spiral yang mempunyai tujuan untuk menyatukan gerigi besi dengan elemen material bangunan yang dibangun oleh besi beton. Besi ulir ini mulai populer digunakan pada abad ke-20 di Amerika dan mulai populer di Indonesia pada tahun1950. Mengingat dikala memakai besi ulir ini mempunyai banyak kelebihan mulai dari ketahanan bangunan serta lebih murah dan efisien. Produk besi ulir ini menjadi andalan pasar karena mempunyai mutu yang terbaik di Indonesia dan memiliki harga yang tinggi kalau diperbandingkan dengan produk lainnya.
 
-### 3\. Besi WF dan H-Beam Krakatau Steel Di Cipinang Besar Jakarta
+### 3. Besi WF dan H-Beam Krakatau Steel Di Cipinang Besar Jakarta
 
 Besi Wide Flange (WF) ini merupakan salah satu baja dengan struktural yang paling sering diterapkan untuk kontruksi baja. Jikalau anda membutuhkan besi baja Wide Flage dalam quantitas yang banyak atau sedikit karenanya silahkan cari jual besi yang terpercaya. Besi WF ini mempunyai ketahanan yang kokoh dan kuat pada kekokohan tarik atau tekan. Karenanya dari itu besi ini menjadi unsur struktur yang mempunyai batasan yang sempurna untuk menahan bobot tekan aksial, tarik aksial, dan lentur dengan fasilitas pembangunan strukturnya. Baja Wide Flange (WF) ini memiliki kepadatan yang tinggi tapi rasio berat antara kekuatan komponen Baja WF yang tinggi tetapi tdk begitu berat yang terkait dengan kapasitas muatan. Selain itu menentukan jikalau kontruksi yang digunakan secara efisien. Cara kontruksi baja WF ini kombinasi dari elemen struktur yang kompleks. Pada struktur ini mempunyai tujuan membawa beban yang aman dan tepat sasaran yang bekerja pada sebuah bangunan dan dikirim pada pondasinya. Gaya dan beban yang bekerja ini termasuk beban pertikal, perbedaan temperatur, horizontal, getaran dan lainnya. Pada sebuah bangunan baja, maka ada unsure yang berguna menopang gaya lateral dan gravitasi.
 
-### 4\. Besi Holo Di Cipinang Besar Jakarta
+### 4. Besi Holo Di Cipinang Besar Jakarta
 
 Besi hollow adalah besi yang digunakan sebagai pembuatan kanopi, pagar, pintu besi dan lainnya. Bahan baku pembuatan besi Hollow ini lazimnya terbuat dari stainless, galvanis, dan besi baja. Tapi yang paling kerap kali diaplikasikan sebagai bahan baku yaitu galvanis. Terdapat kelebihan yang anda temukan saat memasang kanopi, mengaplikasikan pagar, teralis mengaplikasikan besi hollow:
 

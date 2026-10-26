@@ -18,19 +18,19 @@ Tanpa adanya besi maka sebuah bangunan akan mudah retak dikala ada guncangan kec
 
 ## Mengetahui Macam-macam Besi Di Kebon Melati Jakarta
 
-### 1\. Besi Polos SNI 4mm, 6mm, 8mm, 10mm, 12mm, 16mm, 18mm, 19mm Di Kebon Melati Jakarta
+### 1. Besi Polos SNI 4mm, 6mm, 8mm, 10mm, 12mm, 16mm, 18mm, 19mm Di Kebon Melati Jakarta
 
 Besi polos memiliki ukuran mulai dari 8 mm sampai 25 mm dan memiliki 6 meter panjang tekuk dan 12 meter panjang lurus. Besi beton ini sudah mulai dipakai sebagai bahan utama di Indonesia pada tahun 1950. Besi ini tak jarang kali digunakan untuk membangun rumah. Bahan yang mudah diaplikasikan sehingga selain dari diaplikasikan untuk membangun tempat tinggal juga diterapkan untuk membangun trowongan, bendungan, dan lainnya. Saat diterapkan untuk membangun sebuah gedung bertingkat karenanya biasa besi polos ini diaplikasikan untuk struktur tulangan balok, dinding, dan sloof. Besi beton polos ini mempunyai keunggulan besi polos ini tegangannya lebih tinggi dari pada besi lainnya. Oleh karena itu besi ini terkesan lebih kokoh dan tahan beban. Sehingga penerapan besi polos ini amat layak untuk membangun gedung, jembatan, dan bangunan lainnya. Besi polos ini terbuat dari bahan seperti billet dan skrap. Billet yaitu baja batangan yang pengerjaan pembuatannya dengan melebur biji besi. Jika skrap yaitu besi bekas yang dileburkan dengan temperature tertentu. Selain itu kalau anda mengaplikasikan besi polos ini tdk membutuhkan budget pemeliharaan. Kian lama diterapkan karenanya besi ini akan semakin kokoh.
 
-### 2\. Besi Ulir Toleransi 4mm, 6mm, 8mm, 10mm, 12mm, 16mm, 18mm, 19mm Di Kebon Melati Jakarta
+### 2. Besi Ulir Toleransi 4mm, 6mm, 8mm, 10mm, 12mm, 16mm, 18mm, 19mm Di Kebon Melati Jakarta
 
 Cocok dengan namanya besi beton ulir ini merupakan besi yang karakternya mengulir. Pada permukaannya bercorak spiral yang memiliki tujuan untuk menyatukan gerigi besi dengan unsur bahan bangunan yang dibentuk oleh besi beton. Besi ulir ini mulai populer dipakai pada abad ke-20 di Amerika dan mulai populer di Indonesia pada tahun1950. Mengingat dikala memakai besi ulir ini mempunyai banyak keunggulan mulai dari ketahanan bangunan serta lebih murah dan efisien. Produk besi ulir ini menjadi primadona pasar karena memiliki kwalitas yang terbaik di Indonesia dan mempunyai harga yang tinggi seandainya diperbandingkan dengan produk lainnya.
 
-### 3\. Besi WF dan H-Beam Di Kebon Melati Jakarta
+### 3. Besi WF dan H-Beam Di Kebon Melati Jakarta
 
 Besi Wide Flange (WF) ini yakni salah satu baja dengan struktural yang paling sering digunakan untuk kontruksi baja. Jikalau anda membutuhkan besi baja Wide Flage dalam quantitas yang banyak atau sedikit karenanya silahkan cari jual besi yang terpercaya. Besi WF ini mempunyai ketahanan yang kokoh dan kokoh pada kekuatan tarik atau tekan. Maka dari itu besi ini menjadi unsur struktur yang mempunyai batasan yang sempurna untuk menopang bobot tekan aksial, tarik aksial, dan lentur dengan fasilitas pembangunan strukturnya. Baja Wide Flange (WF) ini mempunyai kepadatan yang tinggi tetapi rasio berat antara kekuatan komponen Baja WF yang tinggi tapi tdk begitu berat yang berkaitan dengan kapasitas muatan. Selain dari itu memastikan apabila kontruksi yang dipakai secara efisien. Cara kontruksi baja WF ini kombinasi dari unsur struktur yang rumit. Pada struktur ini memiliki tujuan membawa muatan yang aman dan efektif yang berefek pada sebuah bangunan dan dikirim pada pondasinya. Gaya dan muatan yang berefek ini termasuk beban pertikal, perbedaan temperatur, horizontal, getaran dan lainnya. Pada sebuah bangunan baja, maka ada unsure yang berfungsi menopang gaya lateral dan gravitasi.
 
-### 4\. Besi Holo Di Kebon Melati Jakarta
+### 4. Besi Holo Di Kebon Melati Jakarta
 
 Besi hollow yaitu besi yang diaplikasikan sebagai pembuatan kanopi, pagar, pintu besi dan lainnya. Bahan baku pembuatan besi Hollow ini biasanya terbuat dari stainless, galvanis, dan besi baja. Tapi yang paling sering kali diaplikasikan sebagai bahan baku adalah galvanis. Terdapat kelebihan yang anda dapatkan saat menerapkan kanopi, mengaplikasikan pagar, teralis menerapkan besi hollow:
 

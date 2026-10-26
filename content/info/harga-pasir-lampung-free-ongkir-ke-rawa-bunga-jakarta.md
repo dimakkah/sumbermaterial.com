@@ -25,7 +25,7 @@ Berdasarkan Standar Nasional Indonesia ( SK SNI - S - 04 - 1989 - F ; 28) di tut
 
 Prasyarat Pasir yg Baik tuk Konstruksi Bangunan
 
-1.  Agregat Halus harus terdiri dari butiran yg tajam dan keras dengan indeks kekerasan <2.2
+1.  Agregat Halus harus terdiri dari butiran yg tajam dan keras dengan indeks kekerasan <2.2
 2. Jikalau digunakan Natrium Sulfat bagian hancur optimal 12%
 3. bila dipakai Magnesium Sulfat bagian halus maksimal 5 persen
 4. Tak boleh mengandung tanah lebih dari 5 persen
@@ -41,7 +41,6 @@ Prasyarat Pasir yg Baik tuk Konstruksi Bangunan
 Sesudah memahami syarat pasir buat sebuah Bangunan, saat ini kita bahas Ragam - model Pasir Untuk Konstruksi penjelasan nya berikut ini:
 
 - ### Pasir Model Cor dan Lokasi Pengambilannya Di Rawa Bunga Jakarta
-    
 
 Pasir ini biasa nya berwarna hitam pekat dan tingkat kekasaran butiran nya lumayan tinggi. Melainkan apabila anda mengepal nya dengan tangan tak akan lengket dan akan buyar kembali. jenis pasir ini betul-betul lah bagus buat Pengecoran, Plesteran Dinding, Adukan Pondasi dan Adukan Pasangan Bata Pasir ini yaitu pasir untuk Cor yakni butiran-butiran mineral keras dan tajam berukuran antara 0,075 – 5 mm, sekiranya terdapat butiran berukuran lebih kecil dari 0,063 mm tak lebih dari 5% berat. Pasir ini yaitu pasir untuk Cor hampir kerap kali digunakan untuk pekerjaan cor-coran struktur seperti kolom, balok dan pelat lantai.
 
@@ -59,21 +58,18 @@ Untuk mendapatkan kualitas Cor yang optimal maka pasir seharusnya sanggup memenu
 ![Harga Pasir Lampung Free Ongkir Ke Rawa Bunga Jakarta](/images/info/pasir-hitam-2.jpg)
 
 - ### Pasir Biasa Di Rawa Bunga Jakarta
-    
 
 ![Harga Pasir Lampung Free Ongkir Ke Rawa Bunga Jakarta](/images/info/pasir-putih12.jpg)
 
 Pasir ini lebih halus lagi dibandingkan oleh pasir beton. apabila anda mengepal pasir ini karenanya akan menggumpal dan tak akan hancur kembali. pasir pasang lazim nya di manfaatkan tuk campuran pasir beton supaya tak terlalu kasar dan bisa di pakai untuk plesteran dinding.
 
 - ### Pasir Kualitas rendah Untuk Pembuatan Batako Di Rawa Bunga Jakarta
-    
 
 Di Antara ke dua pasir diatas pasir jenis ini lebih halus lagi, apabila kamu mengepal nya akan menggumpal dan tidak akan hancur lagi. namun pasir jenis
 
 Pada biasa nya pasir ini nyaris sama dgn pasir beton tetapi pasir ini mempunyai tingkat kekasaran yg tinggi, butiran - butiran nya lumayan besar dan agak banyak batuan nya. pada biasanya pasir ragam ini baik tuk bahan Pembuatan Batako
 
 - ### Pasir Putih Halus Untuk Lapangan Voly Di Rawa Bunga Jakarta
-    
 
 1. **Pasir Putih Bangka**
 

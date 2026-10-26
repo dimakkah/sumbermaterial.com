@@ -18,19 +18,19 @@ Tanpa adanya besi karenanya sebuah bangunan akan mudah retak dikala ada getaran 
 
 ## Inilah Jenis-jenis Besi Di Sukamaju Depok
 
-### 1\. Besi Polos Krakatau Steel 4mm, 6mm, 8mm, 10mm, 12mm, 16mm, 18mm, 19mm Di Sukamaju Depok
+### 1. Besi Polos Krakatau Steel 4mm, 6mm, 8mm, 10mm, 12mm, 16mm, 18mm, 19mm Di Sukamaju Depok
 
 Besi polos mempunyai ukuran mulai dari 8 mm sampai dengan 25 mm dan memiliki 6 meter panjang tekuk dan 12 meter panjang lurus. Besi beton ini sudah mulai dipakai sebagai bahan utama di Indonesia pada tahun 1950. Besi ini acap kali kali diterapkan untuk membangun bangunan beton. Bahan yang gampang diaplikasikan sehingga selain dari diaplikasikan untuk membangun tempat tinggal juga diterapkan untuk membangun trowongan, bendungan, dan lainnya. Ketika diaplikasikan untuk membangun bangunan beton bertingkat maka biasanya besi polos ini diaplikasikan untuk struktur rangkaian besi balok, dinding, dan sloof. Besi beton polos ini memiliki kelebihan besi polos ini tegangannya lebih tinggi dari pada besi lainnya. Sehingga besi ini terkesan lebih kuat dan tahan beban. Jadi pemakaian besi polos ini benar-benar sesuai untuk membangun gedung, jembatan, dan bangunan lainnya. Besi polos ini terbuat dari bahan seperti billet dan skrap. Billet merupakan baja batangan yang progres pembuatannya dengan mengecor biji besi. Jika skrap yaitu besi bekas yang dihancurkan dengan temperature tertentu. Selain dari itu apabila anda menggunakan besi polos ini tidak membutuhkan budget pemeliharaan. Semakin lama digunakan karenanya besi ini akan kian kokoh.
 
-### 2\. Besi Ulir SNI 4mm, 6mm, 8mm, 10mm, 12mm, 16mm, 18mm, 19mm Di Sukamaju Depok
+### 2. Besi Ulir SNI 4mm, 6mm, 8mm, 10mm, 12mm, 16mm, 18mm, 19mm Di Sukamaju Depok
 
 Selaras dengan namanya besi beton ulir ini yakni besi yang bentuknya mengulir. Pada permukaannya bercorak spiral yang mempunyai tujuan untuk menyatukan tulangan dengan faktor material bangunan yang dibentuk oleh besi beton. Besi ulir ini mulai populer digunakan pada abad ke-20 di Amerika dan mulai populer di Indonesia pada tahun1950. Mengingat saat menggunakan besi ulir ini mempunyai banyak kelebihan mulai dari ketahanan bangunan serta lebih hemat biaya dan efisien. Produk besi ulir ini menjadi primadona pasar sebab mempunyai kualitas yang terbaik di Indonesia dan memiliki harga yang tinggi seandainya dibandingkan dengan produk lainnya.
 
-### 3\. Besi WF dan H-Beam Full Di Sukamaju Depok
+### 3. Besi WF dan H-Beam Full Di Sukamaju Depok
 
 Besi Wide Flange (WF) ini yaitu salah satu baja dengan struktural yang paling banyak diaplikasikan untuk kontruksi baja. Seandainya anda memerlukan besi baja Wide Flage dalam jumlah yang banyak atau sedikit karenanya silahkan cari distributor besi yang terpercaya. Besi WF ini memiliki kekuatan yang kokoh dan kuat pada kekuatan tarik atau tekan. Maka dari itu besi ini menjadi unsur struktur yang mempunyai batasan yang paripurna untuk menopang bobot tekan aksial, tarik aksial, dan lentur dengan fasilitas pembangunan strukturnya. Baja Wide Flange (WF) ini mempunyai kepadatan yang tinggi tapi rasio berat antara kekokohan bagian Baja WF yang tinggi namun tdk begitu berat yang berhubungan dengan kapasitas bobot. Selain dari itu menentukan jikalau kontruksi yang dipakai secara efisien. Metode kontruksi baja WF ini kombinasi dari elemen struktur yang kompleks. Pada struktur ini mempunyai tujuan membawa muatan yang aman dan efektif yang berefek pada sebuah bangunan dan dikirim pada pondasinya. Gaya dan muatan yang bekerja ini termasuk beban pertikal, perbedaan temperatur, horizontal, getaran dan lainnya. Pada sebuah bangunan baja, karenanya ada unsure yang berguna menahan gaya lateral dan gravitasi.
 
-### 4\. Besi Hollow Di Sukamaju Depok
+### 4. Besi Hollow Di Sukamaju Depok
 
 Besi hollow adalah besi yang digunakan sebagai pembuatan kanopi, pagar, pintu besi dan lainnya. Bahan baku pembuatan besi Hollow ini umumnya terbuat dari stainless, galvanis, dan besi baja. Tapi yang paling tak jarang digunakan sebagai bahan baku merupakan galvanis. Terdapat kelebihan yang anda dapatkan dikala mengaplikasikan kanopi, mengaplikasikan pagar, teralis memakai besi hollow:
 

@@ -50,13 +50,13 @@ d. tdk dapat menjangkau lokasi yang sempit. Mengingat Besi WF ini berukuran panj
 
 ### Kelebihan Dari Besi WF Di Warakas Jakarta
 
-1\. Bisa menghemat waktu dalam pembangunan sebuah konstruksi bangunan, mengurangi waktu dan juga memaksimalkan biaya dan tenaga tukang.
+1. Bisa menghemat waktu dalam pembangunan sebuah konstruksi bangunan, mengurangi waktu dan juga memaksimalkan biaya dan tenaga tukang.
 
-2\. Dapat menopang beban yang betul-betul berat, tdk mudah memuai dan lebih simple penggunaannya dibanding dengan material struktural lainnya.
+2. Dapat menopang beban yang betul-betul berat, tdk mudah memuai dan lebih simple penggunaannya dibanding dengan material struktural lainnya.
 
-3\. Mempunyai fleksibilitas yang tinggi. Sehingga struktur bangunan yang diwujudkan dari Besi WF ini menjadi lebih kuat tdk gampang bergeser, tdk mudah ambrol maupun goyang. Sangat pantas untuk variasi bangunan diatas tanah yang labil atau sering kali terjadi longsor.
+3. Mempunyai fleksibilitas yang tinggi. Sehingga struktur bangunan yang diwujudkan dari Besi WF ini menjadi lebih kuat tdk gampang bergeser, tdk mudah ambrol maupun goyang. Sangat pantas untuk variasi bangunan diatas tanah yang labil atau sering kali terjadi longsor.
 
-4\. Lebih hemat karena struktur bangunan yang menerapkan Besi WF akan memiliki kekokohan yang cukup lama malah hingga ratusan tahun. Tentunya ini yaitu investasi yang betul-betul murah bila kita bandingkan dengan waktu pakai. Bahkan bangunan yang dibangun dengan rangka Besi WF dapat kita wariskan terhadap buah hati cucu kita.
+4. Lebih hemat karena struktur bangunan yang menerapkan Besi WF akan memiliki kekokohan yang cukup lama malah hingga ratusan tahun. Tentunya ini yaitu investasi yang betul-betul murah bila kita bandingkan dengan waktu pakai. Bahkan bangunan yang dibangun dengan rangka Besi WF dapat kita wariskan terhadap buah hati cucu kita.
 
 ## Mengenal Besi H Beam Di Warakas Jakarta
 
@@ -72,15 +72,15 @@ Sama seperti besi yang kami terangkan sebelumnya yakni Besi WF, besi H-Beam mala
 
 ### Kelebihan Besi H Beam Di Warakas Jakarta
 
-1\. Mudah untuk diperoleh. Banyak distributor besi yang menyediakan stok besi H-Beam berbagai ukuran. Sehingga besi H-Beam ini sangat mudah untuk diperoleh, tidak susah untuk mendapatkan distributor besi yang menjual besi H Beam.
+1. Mudah untuk diperoleh. Banyak distributor besi yang menyediakan stok besi H-Beam berbagai ukuran. Sehingga besi H-Beam ini sangat mudah untuk diperoleh, tidak susah untuk mendapatkan distributor besi yang menjual besi H Beam.
 
-2\. Mudah Dalam Pemasangan. Banyak tukang pakar dalam pemasangan besi H Beam. Meski besi H-Beam ini seharusnya dipasang oleh tukang yang berpengalaman akan tetapi tukang yang profesional dalam memasang besi H Beam ini sungguh-sungguh banyak kita temui hari ini. Sehingga tidak perlu dikhawatirkan lagi progres pemasangannya.
+2. Mudah Dalam Pemasangan. Banyak tukang pakar dalam pemasangan besi H Beam. Meski besi H-Beam ini seharusnya dipasang oleh tukang yang berpengalaman akan tetapi tukang yang profesional dalam memasang besi H Beam ini sungguh-sungguh banyak kita temui hari ini. Sehingga tidak perlu dikhawatirkan lagi progres pemasangannya.
 
-3\. Memiliki ketahanan yang tdk diragukan lagi. Besi H Beam telah teruji selama bertahun-tahun dalam kontruksi bangunan. Baik skala kecil maupun skala besar dan terbilang benar-benar kuat apabila dibandingkan dengan material lainnya. Bisa bertahan sampai puluhan hingga ratusan tahun.
+3. Memiliki ketahanan yang tdk diragukan lagi. Besi H Beam telah teruji selama bertahun-tahun dalam kontruksi bangunan. Baik skala kecil maupun skala besar dan terbilang benar-benar kuat apabila dibandingkan dengan material lainnya. Bisa bertahan sampai puluhan hingga ratusan tahun.
 
-4\. Mudah dalam perawatannya. Bangunan yang menggunakan besi H Beam sebagai struktur rangka bangunannya akan sangat gampang dalam melakukan perawatannya. tidak perlu pengecatan dengan cat khusus maupun pembersihan setiap saat.
+4. Mudah dalam perawatannya. Bangunan yang menggunakan besi H Beam sebagai struktur rangka bangunannya akan sangat gampang dalam melakukan perawatannya. tidak perlu pengecatan dengan cat khusus maupun pembersihan setiap saat.
 
-5\. Memaksimalkan penggunaan material lainnya, seperti penggunaan bekisting, penggunaan perancah atau perancah dan juga material pasir. Besi H Beam tidak memerlukan material pasir dalam penerapannya.
+5. Memaksimalkan penggunaan material lainnya, seperti penggunaan bekisting, penggunaan perancah atau perancah dan juga material pasir. Besi H Beam tidak memerlukan material pasir dalam penerapannya.
 
 ### Kekurangan Dari Besi H Beam Di Warakas Jakarta
 

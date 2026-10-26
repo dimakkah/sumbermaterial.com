@@ -50,13 +50,13 @@ d. tidak bisa menjangkau tempat yang sempit. Mengingat Besi WF ini berukuran pan
 
 ### Kelebihan Dari Besi WF Di Bojongmangu Bekasi
 
-1\. Dapat menghemat waktu dalam pembangunan sebuah konstruksi bangunan, menghemat waktu dan juga menghemat biaya dan pemasang.
+1. Dapat menghemat waktu dalam pembangunan sebuah konstruksi bangunan, menghemat waktu dan juga menghemat biaya dan pemasang.
 
-2\. Bisa menopang beban yang benar-benar berat, tdk mudah memuai dan lebih simple penggunaannya dibanding dengan material struktural lainnya.
+2. Bisa menopang beban yang benar-benar berat, tdk mudah memuai dan lebih simple penggunaannya dibanding dengan material struktural lainnya.
 
-3\. Mempunyai fleksibilitas yang tinggi. Sehingga struktur bangunan yang dihasilkan dari Besi WF ini menjadi lebih kuat tidak mudah bergeser, tdk mudah roboh maupun goyang. Sangat layak untuk jenis bangunan diatas tanah yang labil atau sering kali terjadi longsor.
+3. Mempunyai fleksibilitas yang tinggi. Sehingga struktur bangunan yang dihasilkan dari Besi WF ini menjadi lebih kuat tidak mudah bergeser, tdk mudah roboh maupun goyang. Sangat layak untuk jenis bangunan diatas tanah yang labil atau sering kali terjadi longsor.
 
-4\. Lebih hemat karena struktur bangunan yang menggunakan Besi WF akan memiliki kekokohan yang cukup lama malah hingga ratusan tahun. Tentunya ini yakni investasi yang betul-betul murah sekiranya kita bandingkan dengan waktu pakai. Malah bangunan yang dibangun dengan tulangan Besi WF dapat kita wariskan kepada si kecil cucu kita.
+4. Lebih hemat karena struktur bangunan yang menggunakan Besi WF akan memiliki kekokohan yang cukup lama malah hingga ratusan tahun. Tentunya ini yakni investasi yang betul-betul murah sekiranya kita bandingkan dengan waktu pakai. Malah bangunan yang dibangun dengan tulangan Besi WF dapat kita wariskan kepada si kecil cucu kita.
 
 ## Mengetahui Besi H Beam Di Bojongmangu Bekasi
 
@@ -72,15 +72,15 @@ Sama seperti besi yang kami paparkan sebelumnya yaitu Besi WF, besi H-Beam pun m
 
 ### Keunggulan Besi H Beam Di Bojongmangu Bekasi
 
-1\. Mudah untuk diperoleh. Banyak distributor besi yang menyediakan stok besi H-Beam berbagai ukuran. Sehingga besi H-Beam ini sangat gampang untuk diperoleh, tidak susah untuk memperoleh toko besi yang menjual besi H Beam.
+1. Mudah untuk diperoleh. Banyak distributor besi yang menyediakan stok besi H-Beam berbagai ukuran. Sehingga besi H-Beam ini sangat gampang untuk diperoleh, tidak susah untuk memperoleh toko besi yang menjual besi H Beam.
 
-2\. Mudah Dalam Pemasangan. Banyak tukang ahli dalam pemasangan besi H Beam. Walaupun besi H-Beam ini semestinya dipasang oleh tukang yang berpengalaman akan tetapi tukang yang profesional dalam memasang besi H Beam ini sangat banyak kita temui hari ini. Sehingga tidak perlu dikhawatirkan lagi pengerjaan pemasangannya.
+2. Mudah Dalam Pemasangan. Banyak tukang ahli dalam pemasangan besi H Beam. Walaupun besi H-Beam ini semestinya dipasang oleh tukang yang berpengalaman akan tetapi tukang yang profesional dalam memasang besi H Beam ini sangat banyak kita temui hari ini. Sehingga tidak perlu dikhawatirkan lagi pengerjaan pemasangannya.
 
-3\. Mempunyai ketahanan yang tidak diragukan lagi. Besi H Beam sudah teruji selama bertahun-tahun dalam kontruksi bangunan. Baik skala kecil maupun skala besar dan terbilang amat tahan lama bila dibandingi dengan material lainnya. Dapat bertahan sampai puluhan sampai ratusan tahun.
+3. Mempunyai ketahanan yang tidak diragukan lagi. Besi H Beam sudah teruji selama bertahun-tahun dalam kontruksi bangunan. Baik skala kecil maupun skala besar dan terbilang amat tahan lama bila dibandingi dengan material lainnya. Dapat bertahan sampai puluhan sampai ratusan tahun.
 
-4\. Gampang dalam pemeliharaannya. Bangunan yang mengaplikasikan besi H Beam sebagai struktur tulangan bangunannya akan sungguh-sungguh gampang dalam melaksanakan pemeliharaannya. tidak perlu pengecatan dengan cat khusus maupun pembersihan tiap saat.
+4. Gampang dalam pemeliharaannya. Bangunan yang mengaplikasikan besi H Beam sebagai struktur tulangan bangunannya akan sungguh-sungguh gampang dalam melaksanakan pemeliharaannya. tidak perlu pengecatan dengan cat khusus maupun pembersihan tiap saat.
 
-5\. Mengurangi pengaplikasian material lainnya, seperti pemakaian bekisting, penerapan steger atau tiang penyangga dan juga material pasir. Besi H Beam tidak memerlukan material pasir dalam pemakaiannya.
+5. Mengurangi pengaplikasian material lainnya, seperti pemakaian bekisting, penerapan steger atau tiang penyangga dan juga material pasir. Besi H Beam tidak memerlukan material pasir dalam pemakaiannya.
 
 ### Kekurangan Dari Besi H Beam Di Bojongmangu Bekasi
 

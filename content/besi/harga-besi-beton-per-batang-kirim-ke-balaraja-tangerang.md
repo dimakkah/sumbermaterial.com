@@ -18,19 +18,19 @@ Dengan tidak adanya besi maka sebuah bangunan akan mudah retak dikala ada guncan
 
 ## Inilah Macam-macam Besi Di Balaraja Tangerang
 
-### 1\. Besi Polos 4mm, 6mm, 8mm, 10mm, 12mm, 16mm, 18mm, 19mm Di Balaraja Tangerang
+### 1. Besi Polos 4mm, 6mm, 8mm, 10mm, 12mm, 16mm, 18mm, 19mm Di Balaraja Tangerang
 
 Besi polos memiliki ukuran mulai dari 8 mm hingga 25 mm dan memiliki 6 meter panjang tekuk dan 12 meter panjang lurus. Besi beton ini telah mulai dipakai sebagai bahan utama di Indonesia pada tahun 1950. Besi ini tak jarang kali diaplikasikan untuk membangun sebuah gedung. Bahan yang gampang diterapkan sehingga selain diaplikasikan untuk membangun sebuah gedung juga digunakan untuk membangun trowongan, bendungan, dan lainnya. Dikala diterapkan untuk membangun rumah bertingkat maka biasanya besi polos ini diaplikasikan untuk struktur tulangan balok, dinding, dan sloof. Besi beton polos ini memiliki keunggulan besi polos ini tegangannya lebih tinggi dari pada besi lainnya. Sehingga besi ini terkesan lebih kokoh dan tahan beban. Sehingga penggunaan besi polos ini amat cocok untuk membangun gedung, jembatan, dan bangunan lainnya. Besi polos ini terbuat dari bahan seperti billet dan skrap. Billet yakni baja batangan yang proses pembuatannya dengan mengecor biji besi. Sekiranya skrap yaitu besi bekas yang dileburkan dengan temperature tertentu. Selain dari itu apabila anda menggunakan besi polos ini tidak memerlukan budget pemeliharaan. Kian lama diterapkan karenanya besi ini akan semakin kokoh.
 
-### 2\. Besi Ulir Banci 4mm, 6mm, 8mm, 10mm, 12mm, 16mm, 18mm, 19mm Di Balaraja Tangerang
+### 2. Besi Ulir Banci 4mm, 6mm, 8mm, 10mm, 12mm, 16mm, 18mm, 19mm Di Balaraja Tangerang
 
 Selaras dengan namanya besi beton ulir ini adalah besi yang tampilannya mengulir. Pada permukaannya bercorak spiral yang mempunyai tujuan untuk menyatukan tulangan dengan unsur bahan bangunan yang dibentuk oleh besi beton. Besi ulir ini mulai populer digunakan pada abad ke-20 di Amerika dan mulai populer di Indonesia pada tahun1950. Mengingat saat mengaplikasikan besi ulir ini mempunyai banyak keunggulan mulai dari kekokohan bangunan serta lebih ekonomis dan efisien. Produk besi ulir ini menjadi andalan pasar karena mempunyai mutu yang terbaik di Indonesia dan memiliki harga yang tinggi jika diperbandingkan dengan produk lainnya.
 
-### 3\. Besi WF dan H-Beam SNI Di Balaraja Tangerang
+### 3. Besi WF dan H-Beam SNI Di Balaraja Tangerang
 
 Besi Wide Flange (WF) ini ialah salah satu baja dengan struktural yang paling sering diaplikasikan untuk kontruksi baja. Apabila anda membutuhkan besi baja Wide Flage dalam jumlah yang banyak atau sedikit maka silahkan cari distributor besi yang terpercaya. Besi WF ini mempunyai kekokohan yang kokoh dan kuat pada kekokohan tarik atau tekan. Karenanya dari itu besi ini menjadi unsur struktur yang memiliki batasan yang sempurna untuk menopang muatan tekan aksial, tarik aksial, dan lentur dengan fasilitas pembangunan strukturnya. Baja Wide Flange (WF) ini mempunyai kepadatan yang tinggi melainkan rasio berat antara ketahanan komponen Baja WF yang tinggi tetapi tdk terlalu berat yang terkait dengan kapasitas beban. Selain itu memastikan seandainya kontruksi yang diaplikasikan secara efisien. Metode kontruksi baja WF ini kombinasi dari unsur struktur yang rumit. Pada struktur ini mempunyai tujuan membawa muatan yang aman dan efektif yang berefek pada sebuah bangunan dan dikirim pada pondasinya. Gaya dan muatan yang bekerja ini termasuk bobot pertikal, perbedaan temperatur, horizontal, getaran dan lainnya. Pada sebuah bangunan baja, karenanya ada unsure yang bermanfaat menahan gaya lateral dan gravitasi.
 
-### 4\. Besi Holo Di Balaraja Tangerang
+### 4. Besi Holo Di Balaraja Tangerang
 
 Besi hollow yaitu besi yang diaplikasikan sebagai pembuatan kanopi, pagar, pintu besi dan lainnya. Bahan baku pembuatan besi Hollow ini biasanya terbuat dari stainless, galvanis, dan besi baja. Namun yang paling sering dipakai sebagai bahan baku yakni galvanis. Terdapat kelebihan yang anda temukan ketika menerapkan kanopi, memasang pagar, teralis menggunakan besi hollow:
 

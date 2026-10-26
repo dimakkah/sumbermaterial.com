@@ -18,19 +18,19 @@ Tanpa adanya besi karenanya sebuah bangunan akan gampang retak saat ada guncanga
 
 ## Inilah Macam-macam Besi Di Duren Mekar Depok
 
-### 1\. Besi Polos KS 4mm, 6mm, 8mm, 10mm, 12mm, 16mm, 18mm, 19mm Di Duren Mekar Depok
+### 1. Besi Polos KS 4mm, 6mm, 8mm, 10mm, 12mm, 16mm, 18mm, 19mm Di Duren Mekar Depok
 
 Besi polos memiliki ukuran mulai dari 8 mm sampai 25 mm dan memiliki 6 meter panjang tekuk dan 12 meter panjang lurus. Besi beton ini mulai diaplikasikan sebagai bahan utama di Indonesia pada tahun 1950. Besi ini kerap kali kali diterapkan untuk membangun sebuah gedung. Bahan yang mudah dipakai sehingga selain dari diterapkan untuk membangun rumah juga diterapkan untuk membangun trowongan, bendungan, dan lainnya. Ketika dipakai untuk membangun rumah bertingkat maka biasanya besi polos ini digunakan untuk struktur rangkaian besi balok, dinding, dan sloof. Besi beton polos ini memiliki kelebihan besi polos ini tegangannya lebih tinggi dari pada besi lainnya. Oleh karena itu besi ini terkesan lebih kokoh dan tahan beban. Oleh karena itu pengaplikasian besi polos ini benar-benar sesuai untuk membangun gedung, jembatan, dan bangunan lainnya. Besi polos ini terbuat dari bahan seperti billet dan skrap. Billet merupakan baja batangan yang progres pembuatannya dengan mengecor biji besi. Kalau skrap adalah besi bekas yang dihancurkan dengan temperature tertentu. Selain dari itu seandainya anda menerapkan besi polos ini tidak memerlukan biaya pemeliharaan. Semakin lama dipakai karenanya besi ini akan kian kokoh.
 
-### 2\. Besi Ulir SNI 4mm, 6mm, 8mm, 10mm, 12mm, 16mm, 18mm, 19mm Di Duren Mekar Depok
+### 2. Besi Ulir SNI 4mm, 6mm, 8mm, 10mm, 12mm, 16mm, 18mm, 19mm Di Duren Mekar Depok
 
 Sesuai dengan namanya besi beton ulir ini yakni besi yang tampilannya mengulir. Pada permukaannya bercorak spiral yang mempunyai tujuan untuk menyatukan gerigi besi dengan faktor bahan bangunan yang dibangun oleh besi beton. Besi ulir ini mulai populer diaplikasikan pada abad ke-20 di Amerika dan mulai populer di Indonesia pada tahun1950. Mengingat saat menggunakan besi ulir ini mempunyai banyak keunggulan mulai dari ketahanan bangunan serta lebih hemat biaya dan efisien. Produk besi ulir ini menjadi paling laris di pasar sebab mempunyai kwalitas yang terbaik di Indonesia dan mempunyai harga yang tinggi apabila dibandingkan dengan produk lainnya.
 
-### 3\. Besi WF dan H-Beam Di Duren Mekar Depok
+### 3. Besi WF dan H-Beam Di Duren Mekar Depok
 
 Besi Wide Flange (WF) ini yaitu salah satu baja dengan struktural yang paling populer dipakai untuk kontruksi baja. Jikalau anda membutuhkan besi baja Wide Flage dalam jumlah yang banyak atau sedikit karenanya silahkan cari supplier besi yang terpercaya. Besi WF ini memiliki kekuatan yang kokoh dan kokoh pada kekokohan tarik atau tekan. Karenanya dari itu besi ini menjadi unsur struktur yang mempunyai batasan yang sempurna untuk menopang muatan tekan aksial, tarik aksial, dan lentur dengan fasilitas pembangunan strukturnya. Baja Wide Flange (WF) ini memiliki kepadatan yang tinggi namun rasio berat antara kekuatan bagian Baja WF yang tinggi tetapi tidak begitu berat yang terkait dengan kapasitas beban. Selain itu menetapkan kalau kontruksi yang dipakai secara efisien. Cara kontruksi baja WF ini kombinasi dari unsur struktur yang rumit. Pada struktur ini memiliki tujuan membawa bobot yang aman dan efektif yang bekerja pada sebuah bangunan dan dikirim pada pondasinya. Gaya dan bobot yang berefek ini termasuk beban pertikal, perbedaan temperatur, horizontal, getaran dan lainnya. Pada sebuah bangunan baja, maka ada unsure yang bermanfaat menahan gaya lateral dan gravitasi.
 
-### 4\. Besi Holo Di Duren Mekar Depok
+### 4. Besi Holo Di Duren Mekar Depok
 
 Besi hollow yakni besi yang diaplikasikan sebagai pembuatan kanopi, pagar, pintu besi dan lainnya. Bahan baku pembuatan besi Hollow ini lazimnya terbuat dari stainless, galvanis, dan besi baja. Tapi yang paling sering digunakan sebagai bahan baku merupakan galvanis. Terdapat kelebihan yang anda peroleh saat menerapkan kanopi, memasang pagar, teralis mengaplikasikan besi hollow:
 

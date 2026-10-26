@@ -25,7 +25,7 @@ menurut Standar Nasional Indonesia ( SK SNI - S - 04 - 1989 - F ; 28) di tuturka
 
 Syarat-Syarat Pasir yang Baik Untuk Bangunan
 
-1.  Agregat Halus semestinya terdiri dari butiran yang tajam dan keras dengan indeks kekerasan <2.2
+1.  Agregat Halus semestinya terdiri dari butiran yang tajam dan keras dengan indeks kekerasan <2.2
 2. Jika diterapkan Natrium Sulfat komponen hancur maksimal dua belas %
 3. Seandainya digunakan Magnesium Sulfat bagian halus maksimal 5 persen
 4. Tidak boleh memuat tanah lebih dari lima persen
@@ -41,7 +41,6 @@ Syarat-Syarat Pasir yang Baik Untuk Bangunan
 Sesudah memahami prasyarat pasir untuk sebuah Konstruksi, sekarang ini kita bahas Tipe - Tipe Pasir Untuk Konstruksi penjelasan nya sbb:
 
 - ### Pasir Beton Di Semper Jakarta
-    
 
 Pasir ini umum nya berwarna coklat tua dan tingkat kekerasan butiran nya cukup tinggi. Tapi kalau anda mengepal nya dengan tangan tidak akan menggumpal dan akan hancur kembali. model pasir ini sangat lah baik buat Pengecoran, Plesteran Dinding, Adukan Pondasi dan Adukan Pasangan Bata Pasir ini yaitu pasir untuk Beton yaitu butiran-butiran mineral keras dan tajam berukuran antara 0,075 – 5 mm, seandainya terdapat butiran berukuran lebih kecil dari 0,063 mm tidak lebih dari 5% berat. Pasir ini yaitu pasir untuk Rigid kerap kali dimanfaatkan untuk pekerjaan cor-coran struktur seperti kolom, balok dan pelat lantai.
 
@@ -59,21 +58,18 @@ Untuk mendapat kekokohan Cor yang maksimal maka pasir wajib dapat memenuhi persy
 ![Harga Pasir Jalupang Free Ongkir Ke Semper Jakarta](/images/info/pasir-hitam-5.jpg)
 
 - ### Pasir Pasang Di Semper Jakarta
-    
 
 ![Harga Pasir Jalupang Free Ongkir Ke Semper Jakarta](/images/info/pasir-hitam-11.jpg)
 
 Pasir ini ekstra halus lagi diperbandingkan oleh pasir beton. jika kamu mengepal pasir ini maka akan menggumpal dan tak akan buyar kembali. pasir pasang lazim nya di pakai tuk campuran pasir beton agar tak kelewat kasar dan bisa di pakai untuk plesteran dinding.
 
 - ### Pasir Elod Untuk pemadatan lantai Di Semper Jakarta
-    
 
 Di Antara ke dua pasir diatas pasir macam ini lebih halus lagi, seandainya anda mengepal nya akan menggumpal dan tidak akan buyar lagi. namun pasir tipe
 
 Pada nya pasir ini nyaris sama dgn pasir beton akan tapi pasir ini memiliki tingkat kekasaran yg tinggi, butiran - butiran nya lumayan besar dan agak banyak batuan nya. pada lazimnya pasir ragam ini bagus tuk bahan pengurugan lantai
 
 - ### Pasir Putih Halus Untuk Taman Bermain Di Semper Jakarta
-    
 
 1. **Pasir Putih Bangka**
 

@@ -21,19 +21,19 @@ Mendapatkan rangka atap dan kanopi baja ringan berkualitas di Curug Serang kini 
 
 Sebelum menghubungi kami, ada beberapa alasan penting yang perlu Anda ketahui, mengapa sebaiknya memilih baja ringan sebagai kerangka atap dan kanopi:
 
- **Ramah Lingkungan:** Baja ringan lebih ramah lingkungan karena tidak memerlukan penebangan pohon untuk mendapatkan kayu. Pilihan ini berkontribusi pada pelestarian alam.
+- **Ramah Lingkungan:** Baja ringan lebih ramah lingkungan karena tidak memerlukan penebangan pohon untuk mendapatkan kayu. Pilihan ini berkontribusi pada pelestarian alam.
 
- **Lebih Ekonomis:** Dibandingkan dengan kerangka kayu, penggunaan baja ringan umumnya lebih hemat biaya. Mendapatkan kayu berkualitas tinggi terkadang membutuhkan biaya yang signifikan. Ini penting untuk dipertimbangkan dalam menekan biaya pembangunan.
+- **Lebih Ekonomis:** Dibandingkan dengan kerangka kayu, penggunaan baja ringan umumnya lebih hemat biaya. Mendapatkan kayu berkualitas tinggi terkadang membutuhkan biaya yang signifikan. Ini penting untuk dipertimbangkan dalam menekan biaya pembangunan.
 
- **Ringan & Kuat:** Baja ringan berbeda dengan baja atau besi biasa yang memiliki berat dua kali lipat. Dengan ketebalan yang tipis dan ringan, baja ringan justru sangat kuat untuk kerangka atap dan pembuatan kanopi rumah Anda.
+- **Ringan & Kuat:** Baja ringan berbeda dengan baja atau besi biasa yang memiliki berat dua kali lipat. Dengan ketebalan yang tipis dan ringan, baja ringan justru sangat kuat untuk kerangka atap dan pembuatan kanopi rumah Anda.
 
- **Perawatan Minimal:** Anda tidak perlu khawatir dengan perawatan rutin. Kami yakin baja ringan akan membebaskan Anda dari biaya perawatan tahunan yang mahal.
+- **Perawatan Minimal:** Anda tidak perlu khawatir dengan perawatan rutin. Kami yakin baja ringan akan membebaskan Anda dari biaya perawatan tahunan yang mahal.
 
- **Pemasangan Cepat:** Proses pemasangan baja ringan jauh lebih cepat dibandingkan kerangka atap kayu atau material lainnya. Ini menghemat waktu dan biaya tenaga kerja.
+- **Pemasangan Cepat:** Proses pemasangan baja ringan jauh lebih cepat dibandingkan kerangka atap kayu atau material lainnya. Ini menghemat waktu dan biaya tenaga kerja.
 
- **Kualitas Terjamin:** Baja ringan yang kami gunakan bukanlah sembarang material. Bahan utamanya adalah zinc dan aluminium yang telah memiliki sertifikasi dan standar keamanan 4 kali lebih baik dibandingkan baja biasa. Kekuatannya pun mampu menahan beban berkilo-kilo.
+- **Kualitas Terjamin:** Baja ringan yang kami gunakan bukanlah sembarang material. Bahan utamanya adalah zinc dan aluminium yang telah memiliki sertifikasi dan standar keamanan 4 kali lebih baik dibandingkan baja biasa. Kekuatannya pun mampu menahan beban berkilo-kilo.
 
- **Tahan Rayap:** Kami menjamin bahwa kerangka atap dan kanopi dari baja ringan ini tahan terhadap serangan rayap.
+- **Tahan Rayap:** Kami menjamin bahwa kerangka atap dan kanopi dari baja ringan ini tahan terhadap serangan rayap.
 
 ## Cara Menghitung Luas Rangka Baja Ringan Di Curug Serang
 
@@ -59,10 +59,10 @@ Mengenai harga layanan pasang baja ringan, banyak informasi tersedia secara onli
 
 (Catatan: Harga dapat ditambahkan sendiri) Berikut beberapa perkiraan biaya jasa pasang baja ringan berdasarkan jenis pemasangannya, baik kanopi maupun kerangka atap:
 
-*   Kanopi dengan rangka baja ringan “Polikarbonat X-Lite”: Rp 285.000 / m²
-*   Kanopi dengan rangka baja ringan “Spandek”: Rp 225.000 / m²
-*   Kanopi dengan rangka baja ringan “Gogreen”: Rp 200.000 / m²
-*   Untuk perhitungan lainnya, segera hubungi kami melalui kontak yang telah kami sediakan di *website* kami.
+- Kanopi dengan rangka baja ringan “Polikarbonat X-Lite”: Rp 285.000 / m²
+- Kanopi dengan rangka baja ringan “Spandek”: Rp 225.000 / m²
+- Kanopi dengan rangka baja ringan “Gogreen”: Rp 200.000 / m²
+- Untuk perhitungan lainnya, segera hubungi kami melalui kontak yang telah kami sediakan di *website* kami.
 
 Adapun Parameter Besaran Harga Layanan Pasang Baja Ringan
 
@@ -82,10 +82,10 @@ Setelah pembuatan sketsa dan perhitungan rangka selesai, Anda dapat mendiskusika
 
 Berikut informasi detail tentang harga jasa pasang baja ringan yang perlu Anda ketahui. Ini penting untuk memperkirakan budget yang dibutuhkan:
 
-*   Harga jasa kami sudah termasuk biaya pemasangan dan diskon menarik untuk konsumen.
-*   Harga yang kami berikan sesuai dengan layanan pemasangan, perhitungan, dan material yang terpasang.
-*   Kami selalu mengutamakan harga terbaik bagi Anda.
-*   Harga layanan pasang baja ringan dapat berubah sewaktu-waktu karena fluktuasi harga material.
-*   Pembayaran dapat dilakukan dengan *down payment* dan sisanya setelah pemasangan selesai.
+- Harga jasa kami sudah termasuk biaya pemasangan dan diskon menarik untuk konsumen.
+- Harga yang kami berikan sesuai dengan layanan pemasangan, perhitungan, dan material yang terpasang.
+- Kami selalu mengutamakan harga terbaik bagi Anda.
+- Harga layanan pasang baja ringan dapat berubah sewaktu-waktu karena fluktuasi harga material.
+- Pembayaran dapat dilakukan dengan *down payment* dan sisanya setelah pemasangan selesai.
 
 Anda dapat mempercayakan semua itu kepada kami. Kami, sebagai Harga Pasang Atap Baja Ringan Di Curug Serang, siap membantu Anda dalam menentukan ukuran, kualitas, dan pemasangan yang benar-benar sesuai dengan kebutuhan Anda tanpa ada sisa material yang terbuang. Terima kasih.

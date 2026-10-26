@@ -50,13 +50,13 @@ d. tdk bisa menjangkau area yang sempit. Mengingat Besi WF ini berukuran panjang
 
 ### Kelebihan Dari Besi WF Di Sumur Batu Jakarta
 
-1\. Bisa menghemat waktu dalam pembangunan sebuah konstruksi bangunan, mengurangi waktu dan juga mengurangi ongkos dan tukang pasang.
+1. Bisa menghemat waktu dalam pembangunan sebuah konstruksi bangunan, mengurangi waktu dan juga mengurangi ongkos dan tukang pasang.
 
-2\. Dapat menyangga bobot yang benar-benar berat, tdk gampang memuai dan lebih simple pengaplikasiannya dibanding dengan material struktural lainnya.
+2. Dapat menyangga bobot yang benar-benar berat, tdk gampang memuai dan lebih simple pengaplikasiannya dibanding dengan material struktural lainnya.
 
-3\. Mempunyai fleksibilitas yang tinggi. Sehingga struktur bangunan yang dihasilkan dari Besi WF ini menjadi lebih kuat tdk mudah bergeser, tdk gampang ambrol maupun goyang. Amat sesuai untuk jenis bangunan diatas tanah yang labil atau sering kali terjadi goncangan.
+3. Mempunyai fleksibilitas yang tinggi. Sehingga struktur bangunan yang dihasilkan dari Besi WF ini menjadi lebih kuat tdk mudah bergeser, tdk gampang ambrol maupun goyang. Amat sesuai untuk jenis bangunan diatas tanah yang labil atau sering kali terjadi goncangan.
 
-4\. Lebih hemat sebab struktur bangunan yang menggunakan Besi WF akan mempunyai kekuatan yang cukup lama malah sampai ratusan tahun. Tentunya ini yaitu investasi yang amat murah kalau kita bandingkan dengan waktu gunakan. Bahkan bangunan yang dibangun dengan tulangan Besi WF bisa kita wariskan kepada si kecil cucu kita.
+4. Lebih hemat sebab struktur bangunan yang menggunakan Besi WF akan mempunyai kekuatan yang cukup lama malah sampai ratusan tahun. Tentunya ini yaitu investasi yang amat murah kalau kita bandingkan dengan waktu gunakan. Bahkan bangunan yang dibangun dengan tulangan Besi WF bisa kita wariskan kepada si kecil cucu kita.
 
 ## Mengenal Besi H Beam Di Sumur Batu Jakarta
 
@@ -72,15 +72,15 @@ Sama seperti besi yang kami paparkan sebelumnya yaitu Besi WF, besi H-Beam bahka
 
 ### Kelebihan Besi H Beam Di Sumur Batu Jakarta
 
-1\. Mudah untuk didapat. Banyak distributor besi yang menyediakan stok besi H-Beam bermacam-macam ukuran. Sehingga besi H-Beam ini betul-betul mudah untuk didapat, tdk susah untuk mendapatkan toko besi yang memasarkan besi H Beam.
+1. Mudah untuk didapat. Banyak distributor besi yang menyediakan stok besi H-Beam bermacam-macam ukuran. Sehingga besi H-Beam ini betul-betul mudah untuk didapat, tdk susah untuk mendapatkan toko besi yang memasarkan besi H Beam.
 
-2\. Gampang Dalam Pemasangan. Banyak tukang spesialis dalam pemasangan besi H Beam. Meski besi H-Beam ini mesti dipasang oleh tukang yang berpengalaman namun tukang yang profesional dalam memasang besi H Beam ini betul-betul banyak kita temui hari ini. Sehingga tdk perlu dikhawatirkan lagi pelaksanaan pemasangannya.
+2. Gampang Dalam Pemasangan. Banyak tukang spesialis dalam pemasangan besi H Beam. Meski besi H-Beam ini mesti dipasang oleh tukang yang berpengalaman namun tukang yang profesional dalam memasang besi H Beam ini betul-betul banyak kita temui hari ini. Sehingga tdk perlu dikhawatirkan lagi pelaksanaan pemasangannya.
 
-3\. Memiliki ketahanan yang tdk diragukan lagi. Besi H Beam telah teruji selama bertahun-tahun dalam kontruksi bangunan. Baik skala kecil maupun skala besar dan terbilang sungguh-sungguh kuat seandainya dibandingkan dengan material lainnya. Bisa bertahan sampai puluhan sampai ratusan tahun.
+3. Memiliki ketahanan yang tdk diragukan lagi. Besi H Beam telah teruji selama bertahun-tahun dalam kontruksi bangunan. Baik skala kecil maupun skala besar dan terbilang sungguh-sungguh kuat seandainya dibandingkan dengan material lainnya. Bisa bertahan sampai puluhan sampai ratusan tahun.
 
-4\. Gampang dalam perawatannya. Bangunan yang menerapkan besi H Beam sebagai struktur tulangan bangunannya akan sungguh-sungguh mudah dalam melakukan pemeliharaannya. tdk perlu pengecatan dengan cat khusus maupun pembersihan setiap waktu.
+4. Gampang dalam perawatannya. Bangunan yang menerapkan besi H Beam sebagai struktur tulangan bangunannya akan sungguh-sungguh mudah dalam melakukan pemeliharaannya. tdk perlu pengecatan dengan cat khusus maupun pembersihan setiap waktu.
 
-5\. Mengurangi penggunaan material lainnya, seperti penerapan bekisting, pemakaian steger atau perancah dan juga material pasir. Besi H Beam tidak membutuhkan material pasir dalam pengaplikasiannya.
+5. Mengurangi penggunaan material lainnya, seperti penerapan bekisting, pemakaian steger atau perancah dan juga material pasir. Besi H Beam tidak membutuhkan material pasir dalam pengaplikasiannya.
 
 ### Kekurangan Dari Besi H Beam Di Sumur Batu Jakarta
 

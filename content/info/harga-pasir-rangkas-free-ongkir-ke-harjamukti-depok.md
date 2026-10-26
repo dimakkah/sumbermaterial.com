@@ -25,7 +25,7 @@ menurut Standar Nasional Indonesia ( SK SNI - S - 04 - 1989 - F ; 28) di sebutka
 
 Persyaratan Pasir yg Bagus Untuk Konstruksi
 
-1.  Agregat Halus semestinya terdiri dari butiran yang tajam dan keras dengan indeks kekerasan <2.2
+1.  Agregat Halus semestinya terdiri dari butiran yang tajam dan keras dengan indeks kekerasan <2.2
 2. Kalau diterapkan Natrium Sulfat komponen hancur maksimal 12 persen
 3. sekiranya diterapkan Magnesium Sulfat komponen halus maksimal sepuluh persen
 4. Tidak boleh berisi lumpur lebih dari 5%
@@ -41,7 +41,6 @@ Persyaratan Pasir yg Bagus Untuk Konstruksi
 setelah memahami prasyarat pasir buat sebuah Konstruksi Bangunan, saat ini kita bahas Jenis - Macam Pasir Untuk Bangunan penjelasan nya berikut ini:
 
 - ### Pasir Jenis Rigid dan Tempat Sumbernya Di Harjamukti Depok
-    
 
 Pasir ini lazim nya berwarna hitam pekat dan tingkat kekerasan butiran nya lumayan tinggi. Melainkan kalau anda mengepal nya dengan tangan tak akan lengket dan akan hancur kembali. tipe pasir ini amat lah bagus tuk Pengecoran, Plesteran Dinding, Adukan Pondasi dan Adukan Pasangan Bata Pasir ini yaitu pasir untuk Rigid yakni butiran-butiran mineral keras dan tajam berukuran antara 0,075 – 5 mm, jikalau terdapat butiran berukuran lebih kecil dari 0,063 mm tidak lebih dari 5% berat. Pasir ini yaitu pasir untuk Beton kerap kali dimanfaatkan untuk pekerjaan cor-coran struktur seperti kolom, balok dan pelat lantai.
 
@@ -52,9 +51,9 @@ Harga Pasir Rangkas Free Ongkir Ke Harjamukti Depok Jika anda sebagai konsumen /
 Pasir terbaik dari kp. jebrod cianjur jawa barat yang diterapkan oleh indocement serta perusahaan batching plant lainnya sebagai bahan dasar produksi readymix concrete. Pasir ini paling dianjurkan untuk cor sebab irit semen juga mempunyai kandungan lumpur yang amat rendah dibawah delapan persen. warnanya Hitam abu tua atau hitam seperti hitamnya batu kali, ada juga yang hitam kemerahan atau hitam terasi
 
 3. **Pasir Hitam Rigid Cimangkok.** Pasir diambil dari Daerah penambangannya di cimangkok sukabumi jabar yang masih masuk pada kategori pasir hitam nomor satu di jawa barat, warnanya hitam kecoklatan layak untuk cor, pasang pondasi dan bata
-    
+
     ![Harga Pasir Rangkas Free Ongkir Ke Harjamukti Depok](/images/info/pasir-hitam-5.jpg)
-    
+
 4. **Pasir Hitam Rigid Cimalaka Subang Bandung.**
 
 Pasir nomor satu yang berwarna hitam kebauan ada juga yang berwarna hitam abu tua. Banyak di pakai untuk Cor, pasang dan keperluan lainnya. Ditambang di kampung cimalaka
@@ -90,9 +89,9 @@ Kecuali Rangkasbitung, Banten juga mempunyai lokasi pnembangan pasir lain sepert
 Masih dari Tempat di banten, pasir kelas tiga ini yaitu pasir yang banyak diterapkan di proyek proyek perumahan atau cluster sebab harganya yang murah juga kwalitas yang unggul. Warna pasir ini hitam kecoklatan dan keabuan amat disarankan untuk pasang pondasi, bata, batu dan lainnya
 
 27. **Pasir Hitam Cor Bohlam Sukabumi.** Pasir dari Kawasan kp. bohlam di sukabumi berwarna hitam kecoklatan, betul-betul bagus untuk pasang bata, pondasi dan sebagainya sebagai opsi pasir mutu bagus dan murah
-    
+
     ![Harga Pasir Rangkas Free Ongkir Ke Harjamukti Depok](/images/info/jual-pasir-cor-hitam.jpg)
-    
+
 28. **Pasir Cor Galunggung.**
 
 Pasir ini yakni pasir hitam mutu paling unggul dikelasnya umum digunakan oleh pabrik pengolahan beton readymix juga perusahan pembuatan precast dan kerap kali juga diaplikasikan untuk bahan pembuatan batako press hitam, paving block dan lain-lain. Pasir ini ditambang dari Tasikmalaya jawa barat.
@@ -100,21 +99,18 @@ Pasir ini yakni pasir hitam mutu paling unggul dikelasnya umum digunakan oleh pa
 ![Harga Pasir Rangkas Free Ongkir Ke Harjamukti Depok](/images/info/pasir-hitam-2.jpg)
 
 - ### Pasir Untuk Pasang Batu, Pondasi, Bata, Ubin, Plester Di Harjamukti Depok
-    
 
 ![Harga Pasir Rangkas Free Ongkir Ke Harjamukti Depok](/images/info/pasir-putih12.jpg)
 
 Pasir ini lebih halus lagi diperbandingkan oleh pasir beton. apabila kalian mengepal pasir ini maka akan menggumpal dan tak akan hancur kembali. pasir pasang biasa nya di manfaatkan untuk adukan pasir beton supaya tidak terlalu kasar dan dapat di manfaatkan untuk plesteran dinding.
 
 - ### Pasir Elod Untuk pengurugan lantai Di Harjamukti Depok
-    
 
 Di Antara ke dua pasir diatas pasir macam ini lebih halus lagi, bila anda mengepal nya maka akan menggumpal dan tidak akan hancur lagi. tetapi pasir macam
 
 Pada lazim nya pasir ini nyaris sama dengan pasir beton akan namun pasir ini mempunyai tingkat kekasaran yang tinggi, butiran - butiran nya cukup besar dan agak banyak batuan nya. pada biasanya pasir jenis ini bagus untuk bahan dasaran pemasangan keramik
 
 - ### Pasir Putih Tanpa Ayak Untuk Pengecoran Di Harjamukti Depok
-    
 
 1. **Pasir Putih Bangka**
 

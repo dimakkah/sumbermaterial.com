@@ -50,13 +50,13 @@ d. tidak bisa menjangkau lokasi yang sempit. Mengingat Besi WF ini berukuran pan
 
 ### Kelebihan Dari Besi WF Di Tambun Selatan Bekasi
 
-1\. Dapat mengurangi waktu dalam pembangunan sebuah konstruksi bangunan, mengurangi waktu dan juga mengurangi biaya dan pemasang.
+1. Dapat mengurangi waktu dalam pembangunan sebuah konstruksi bangunan, mengurangi waktu dan juga mengurangi biaya dan pemasang.
 
-2\. Dapat menyangga muatan yang amat berat, tdk gampang memuai dan lebih simple pengaplikasiannya dibanding dengan material struktural lainnya.
+2. Dapat menyangga muatan yang amat berat, tdk gampang memuai dan lebih simple pengaplikasiannya dibanding dengan material struktural lainnya.
 
-3\. Mempunyai fleksibilitas yang tinggi. Sehingga struktur bangunan yang dijadikan dari Besi WF ini menjadi lebih kuat tdk mudah bergeser, tidak gampang runtuh maupun goyang. Sangat cocok untuk macam bangunan diatas tanah yang labil atau sering kali terjadi longsor.
+3. Mempunyai fleksibilitas yang tinggi. Sehingga struktur bangunan yang dijadikan dari Besi WF ini menjadi lebih kuat tdk mudah bergeser, tidak gampang runtuh maupun goyang. Sangat cocok untuk macam bangunan diatas tanah yang labil atau sering kali terjadi longsor.
 
-4\. Lebih hemat sebab struktur bangunan yang memakai Besi WF akan memiliki kekokohan yang cukup lama malah sampai ratusan tahun. Tentunya ini merupakan investasi yang sungguh-sungguh murah kalau kita bandingkan dengan waktu gunakan. Bahkan bangunan yang dibangun dengan tulangan Besi WF dapat kita wariskan terhadap anak cucu kita.
+4. Lebih hemat sebab struktur bangunan yang memakai Besi WF akan memiliki kekokohan yang cukup lama malah sampai ratusan tahun. Tentunya ini merupakan investasi yang sungguh-sungguh murah kalau kita bandingkan dengan waktu gunakan. Bahkan bangunan yang dibangun dengan tulangan Besi WF dapat kita wariskan terhadap anak cucu kita.
 
 ## Mengetahui Besi H Beam Di Tambun Selatan Bekasi
 
@@ -72,15 +72,15 @@ Sama seperti besi yang kami paparkan sebelumnya merupakan Besi WF, besi H-Beam m
 
 ### Kelebihan Besi H Beam Di Tambun Selatan Bekasi
 
-1\. Gampang untuk didapat. Banyak distributor besi yang menyediakan stok besi H-Beam beragam ukuran. Sehingga besi H-Beam ini amat gampang untuk diperoleh, tdk susah untuk memperoleh distributor besi yang memasarkan besi H Beam.
+1. Gampang untuk didapat. Banyak distributor besi yang menyediakan stok besi H-Beam beragam ukuran. Sehingga besi H-Beam ini amat gampang untuk diperoleh, tdk susah untuk memperoleh distributor besi yang memasarkan besi H Beam.
 
-2\. Gampang Dalam Pemasangan. Banyak tukang pakar dalam pemasangan besi H Beam. Meskipun besi H-Beam ini harus dipasang oleh tukang yang ahli namun tukang yang profesional dalam memasang besi H Beam ini betul-betul banyak kita temui hari ini. Sehingga tdk perlu dikhawatirkan lagi progres pemasangannya.
+2. Gampang Dalam Pemasangan. Banyak tukang pakar dalam pemasangan besi H Beam. Meskipun besi H-Beam ini harus dipasang oleh tukang yang ahli namun tukang yang profesional dalam memasang besi H Beam ini betul-betul banyak kita temui hari ini. Sehingga tdk perlu dikhawatirkan lagi progres pemasangannya.
 
-3\. Memiliki kekuatan yang tidak diragukan lagi. Besi H Beam sudah teruji selama bertahun-tahun dalam kontruksi bangunan. Baik skala kecil maupun skala besar dan terbilang sangat tahan lama jikalau diperbandingkan dengan material lainnya. Bisa bertahan hingga puluhan sampai ratusan tahun.
+3. Memiliki kekuatan yang tidak diragukan lagi. Besi H Beam sudah teruji selama bertahun-tahun dalam kontruksi bangunan. Baik skala kecil maupun skala besar dan terbilang sangat tahan lama jikalau diperbandingkan dengan material lainnya. Bisa bertahan hingga puluhan sampai ratusan tahun.
 
-4\. Gampang dalam pemeliharaannya. Bangunan yang mengaplikasikan besi H Beam sebagai struktur tulangan bangunannya akan amat gampang dalam menjalankan perawatannya. tdk perlu pengecatan dengan cat khusus ataupun pembersihan tiap saat.
+4. Gampang dalam pemeliharaannya. Bangunan yang mengaplikasikan besi H Beam sebagai struktur tulangan bangunannya akan amat gampang dalam menjalankan perawatannya. tdk perlu pengecatan dengan cat khusus ataupun pembersihan tiap saat.
 
-5\. Memaksimalkan penggunaan material lainnya, seperti pengaplikasian bekisting, pengaplikasian steger atau tiang penyangga dan juga material pasir. Besi H Beam tidak memerlukan material pasir dalam pemakaiannya.
+5. Memaksimalkan penggunaan material lainnya, seperti pengaplikasian bekisting, pengaplikasian steger atau tiang penyangga dan juga material pasir. Besi H Beam tidak memerlukan material pasir dalam pemakaiannya.
 
 ### Kekurangan Dari Besi H Beam Di Tambun Selatan Bekasi
 

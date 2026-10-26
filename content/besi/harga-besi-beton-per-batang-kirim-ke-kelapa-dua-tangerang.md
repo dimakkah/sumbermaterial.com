@@ -18,19 +18,19 @@ Tanpa adanya besi karenanya sebuah bangunan akan gampang retak dikala ada getara
 
 ## Seperti Ini Macam-macam Besi Di Kelapa Dua Tangerang
 
-### 1\. Besi Polos Toleransi 4mm, 6mm, 8mm, 10mm, 12mm, 16mm, 18mm, 19mm Di Kelapa Dua Tangerang
+### 1. Besi Polos Toleransi 4mm, 6mm, 8mm, 10mm, 12mm, 16mm, 18mm, 19mm Di Kelapa Dua Tangerang
 
 Besi polos mempunyai ukuran mulai dari 8 mm sampai 25 mm dan mempunyai 6 meter panjang tekuk dan 12 meter panjang lurus. Besi beton ini mulai dipakai sebagai bahan utama di Indonesia pada tahun 1950. Besi ini tak jarang kali digunakan untuk membangun bangunan beton. Bahan yang mudah diaplikasikan sehingga selain dipakai untuk membangun bangunan beton juga diterapkan untuk membangun trowongan, bendungan, dan lainnya. Ketika digunakan untuk membangun sebuah gedung bertingkat maka biasanya besi polos ini dipakai untuk struktur rangkaian besi balok, dinding, dan sloof. Besi beton polos ini mempunyai keunggulan besi polos ini tegangannya lebih tinggi dari pada besi lainnya. Sehingga besi ini terkesan lebih kokoh dan tahan beban. Oleh karena itu penerapan besi polos ini sungguh-sungguh layak untuk membangun gedung, jembatan, dan bangunan lainnya. Besi polos ini terbuat dari bahan seperti billet dan skrap. Billet merupakan baja batangan yang progres pembuatannya dengan melebur biji besi. Bila skrap ialah besi bekas yang dileburkan dengan temperature tertentu. Selain itu jikalau anda menggunakan besi polos ini tdk membutuhkan anggaran pemeliharaan. Semakin lama diaplikasikan maka besi ini akan kian kokoh.
 
-### 2\. Besi Ulir Toleransi 4mm, 6mm, 8mm, 10mm, 12mm, 16mm, 18mm, 19mm Di Kelapa Dua Tangerang
+### 2. Besi Ulir Toleransi 4mm, 6mm, 8mm, 10mm, 12mm, 16mm, 18mm, 19mm Di Kelapa Dua Tangerang
 
 Cocok dengan namanya besi beton ulir ini adalah besi yang karakternya mengulir. Pada permukaannya bercorak spiral yang mempunyai tujuan untuk menyatukan gerigi besi dengan unsur material bangunan yang dibentuk oleh besi beton. Besi ulir ini mulai populer digunakan pada abad ke-20 di Amerika dan mulai populer di Indonesia pada tahun1950. Mengingat saat mengaplikasikan besi ulir ini memiliki banyak keunggulan mulai dari kekokohan bangunan serta lebih hemat biaya dan efisien. Produk besi ulir ini menjadi paling laris di pasar sebab mempunyai kualitas yang terbaik di Indonesia dan memiliki harga yang tinggi jika dibandingkan dengan produk lainnya.
 
-### 3\. Besi WF dan H-Beam Banci Di Kelapa Dua Tangerang
+### 3. Besi WF dan H-Beam Banci Di Kelapa Dua Tangerang
 
 Besi Wide Flange (WF) ini yakni salah satu baja dengan struktural yang paling populer digunakan untuk kontruksi baja. Sekiranya anda membutuhkan besi baja Wide Flage dalam quantitas yang banyak atau sedikit karenanya silahkan cari jual besi yang terpercaya. Besi WF ini mempunyai kekokohan yang kokoh dan kokoh pada kekuatan tarik atau tekan. Karenanya dari itu besi ini menjadi elemen struktur yang memiliki batasan yang sempurna untuk menopang muatan tekan aksial, tarik aksial, dan lentur dengan fasilitas pembangunan strukturnya. Baja Wide Flange (WF) ini mempunyai kepadatan yang tinggi namun rasio berat antara kekuatan bagian Baja WF yang tinggi tapi tdk begitu berat yang berhubungan dengan kapasitas beban. Selain dari itu menentukan jika kontruksi yang digunakan secara efisien. Sistem kontruksi baja WF ini kombinasi dari elemen struktur yang kompleks. Pada struktur ini mempunyai tujuan membawa bobot yang aman dan efektif yang bekerja pada sebuah bangunan dan dikirim pada pondasinya. Gaya dan beban yang bekerja ini termasuk muatan pertikal, perbedaan suhu, horizontal, getaran dan lainnya. Pada sebuah bangunan baja, maka ada unsure yang berguna menopang gaya lateral dan gravitasi.
 
-### 4\. Besi Hollow Di Kelapa Dua Tangerang
+### 4. Besi Hollow Di Kelapa Dua Tangerang
 
 Besi hollow merupakan besi yang dipakai sebagai pembuatan kanopi, pagar, pintu besi dan lainnya. Bahan baku pembuatan besi Hollow ini umumnya terbuat dari stainless, galvanis, dan besi baja. Tapi yang paling tak jarang digunakan sebagai bahan baku yaitu galvanis. Terdapat kelebihan yang anda dapatkan saat menerapkan kanopi, mengaplikasikan pagar, teralis menggunakan besi hollow:
 

@@ -50,13 +50,13 @@ d. tidak dapat menjangkau area yang sempit. Mengingat Besi WF ini berukuran panj
 
 ### Kelebihan Dari Besi WF Di Galur Jakarta
 
-1\. Dapat mengurangi waktu dalam pembangunan sebuah konstruksi bangunan, memaksimalkan waktu dan juga mengurangi ongkos dan tukang pasang.
+1. Dapat mengurangi waktu dalam pembangunan sebuah konstruksi bangunan, memaksimalkan waktu dan juga mengurangi ongkos dan tukang pasang.
 
-2\. Dapat menyangga muatan yang benar-benar berat, tidak gampang memuai dan lebih simple pemakaiannya dibanding dengan material struktural lainnya.
+2. Dapat menyangga muatan yang benar-benar berat, tidak gampang memuai dan lebih simple pemakaiannya dibanding dengan material struktural lainnya.
 
-3\. Memiliki fleksibilitas yang tinggi. Sehingga struktur bangunan yang dibuat dari Besi WF ini menjadi lebih kuat tdk mudah bergeser, tidak mudah ambruk ataupun goyang. Amat pantas untuk tipe bangunan diatas tanah yang labil atau sering kali terjadi gempa.
+3. Memiliki fleksibilitas yang tinggi. Sehingga struktur bangunan yang dibuat dari Besi WF ini menjadi lebih kuat tdk mudah bergeser, tidak mudah ambruk ataupun goyang. Amat pantas untuk tipe bangunan diatas tanah yang labil atau sering kali terjadi gempa.
 
-4\. Lebih hemat sebab struktur bangunan yang mengaplikasikan Besi WF akan memiliki kekokohan yang cukup lama bahkan sampai ratusan tahun. Tentunya ini merupakan investasi yang benar-benar murah seandainya kita bandingkan dengan waktu gunakan. Malahan bangunan yang dibangun dengan rangka Besi WF dapat kita wariskan kepada anak cucu kita.
+4. Lebih hemat sebab struktur bangunan yang mengaplikasikan Besi WF akan memiliki kekokohan yang cukup lama bahkan sampai ratusan tahun. Tentunya ini merupakan investasi yang benar-benar murah seandainya kita bandingkan dengan waktu gunakan. Malahan bangunan yang dibangun dengan rangka Besi WF dapat kita wariskan kepada anak cucu kita.
 
 ## Mengetahui Besi H Beam Di Galur Jakarta
 
@@ -72,15 +72,15 @@ Sama seperti besi yang kami paparkan sebelumnya yakni Besi WF, besi H-Beam bahka
 
 ### Keunggulan Besi H Beam Di Galur Jakarta
 
-1\. Mudah untuk didapat. Banyak supplier besi yang menyediakan stok besi H-Beam beragam ukuran. Sehingga besi H-Beam ini amat gampang untuk diperoleh, tidak susah untuk mendapatkan supplier besi yang menjual besi H Beam.
+1. Mudah untuk didapat. Banyak supplier besi yang menyediakan stok besi H-Beam beragam ukuran. Sehingga besi H-Beam ini amat gampang untuk diperoleh, tidak susah untuk mendapatkan supplier besi yang menjual besi H Beam.
 
-2\. Gampang Dalam Pemasangan. Banyak tukang ahli dalam pemasangan besi H Beam. Walaupun besi H-Beam ini sepatutnya dipasang oleh tukang yang ahli namun tukang yang profesional dalam memasang besi H Beam ini amat banyak kita temui hari ini. Sehingga tidak perlu dikhawatirkan lagi proses pemasangannya.
+2. Gampang Dalam Pemasangan. Banyak tukang ahli dalam pemasangan besi H Beam. Walaupun besi H-Beam ini sepatutnya dipasang oleh tukang yang ahli namun tukang yang profesional dalam memasang besi H Beam ini amat banyak kita temui hari ini. Sehingga tidak perlu dikhawatirkan lagi proses pemasangannya.
 
-3\. Mempunyai kekuatan yang tdk diragukan lagi. Besi H Beam telah teruji selama bertahun-tahun dalam kontruksi bangunan. Apakah skala kecil ataupun skala besar dan terbilang betul-betul awet sekiranya dibandingkan dengan material lainnya. Dapat bertahan hingga puluhan hingga ratusan tahun.
+3. Mempunyai kekuatan yang tdk diragukan lagi. Besi H Beam telah teruji selama bertahun-tahun dalam kontruksi bangunan. Apakah skala kecil ataupun skala besar dan terbilang betul-betul awet sekiranya dibandingkan dengan material lainnya. Dapat bertahan hingga puluhan hingga ratusan tahun.
 
-4\. Gampang dalam perawatannya. Bangunan yang mengaplikasikan besi H Beam sebagai struktur rangka bangunannya akan sangat gampang dalam melakukan perawatannya. tdk perlu pengecatan dengan cat khusus maupun pembersihan tiap saat.
+4. Gampang dalam perawatannya. Bangunan yang mengaplikasikan besi H Beam sebagai struktur rangka bangunannya akan sangat gampang dalam melakukan perawatannya. tdk perlu pengecatan dengan cat khusus maupun pembersihan tiap saat.
 
-5\. Memaksimalkan pengaplikasian material lainnya, seperti pemakaian bekisting, pemakaian tiang penyangga atau perancah dan juga material pasir. Besi H Beam tidak membutuhkan material pasir dalam pengaplikasiannya.
+5. Memaksimalkan pengaplikasian material lainnya, seperti pemakaian bekisting, pemakaian tiang penyangga atau perancah dan juga material pasir. Besi H Beam tidak membutuhkan material pasir dalam pengaplikasiannya.
 
 ### Kekurangan Dari Besi H Beam Di Galur Jakarta
 

@@ -50,13 +50,13 @@ d. tidak dapat menjangkau tempat yang sempit. Mengingat Besi WF ini berukuran pa
 
 ### Kelebihan Dari Besi WF Di Jatinegara Kaum Jakarta
 
-1\. Bisa menghemat waktu dalam pembangunan sebuah konstruksi bangunan, menghemat waktu dan juga menghemat ongkos dan tukang pasang.
+1. Bisa menghemat waktu dalam pembangunan sebuah konstruksi bangunan, menghemat waktu dan juga menghemat ongkos dan tukang pasang.
 
-2\. Dapat menyangga muatan yang betul-betul berat, tidak mudah memuai dan lebih simple pemakaiannya dibanding dengan material struktural lainnya.
+2. Dapat menyangga muatan yang betul-betul berat, tidak mudah memuai dan lebih simple pemakaiannya dibanding dengan material struktural lainnya.
 
-3\. Memiliki fleksibilitas yang tinggi. Sehingga struktur bangunan yang dibuat dari Besi WF ini menjadi lebih kuat tidak gampang bergeser, tidak gampang runtuh maupun goyang. Amat pantas untuk tipe bangunan diatas tanah yang labil atau sering kali terjadi goncangan.
+3. Memiliki fleksibilitas yang tinggi. Sehingga struktur bangunan yang dibuat dari Besi WF ini menjadi lebih kuat tidak gampang bergeser, tidak gampang runtuh maupun goyang. Amat pantas untuk tipe bangunan diatas tanah yang labil atau sering kali terjadi goncangan.
 
-4\. Lebih hemat karena struktur bangunan yang memakai Besi WF akan mempunyai kekokohan yang cukup lama bahkan hingga ratusan tahun. Tentunya ini ialah investasi yang sungguh-sungguh murah seandainya kita bandingkan dengan waktu gunakan. Malah bangunan yang dibangun dengan tulangan Besi WF bisa kita wariskan kepada buah hati cucu kita.
+4. Lebih hemat karena struktur bangunan yang memakai Besi WF akan mempunyai kekokohan yang cukup lama bahkan hingga ratusan tahun. Tentunya ini ialah investasi yang sungguh-sungguh murah seandainya kita bandingkan dengan waktu gunakan. Malah bangunan yang dibangun dengan tulangan Besi WF bisa kita wariskan kepada buah hati cucu kita.
 
 ## Mengetahui Besi H Beam Di Jatinegara Kaum Jakarta
 
@@ -72,15 +72,15 @@ Sama seperti besi yang kami jelaskan sebelumnya ialah Besi WF, besi H-Beam malah
 
 ### Kelebihan Besi H Beam Di Jatinegara Kaum Jakarta
 
-1\. Mudah untuk didapat. Banyak toko besi yang menyediakan stok besi H-Beam bermacam jenis ukuran. Sehingga besi H-Beam ini benar-benar mudah untuk didapat, tdk susah untuk memperoleh distributor besi yang menjual besi H Beam.
+1. Mudah untuk didapat. Banyak toko besi yang menyediakan stok besi H-Beam bermacam jenis ukuran. Sehingga besi H-Beam ini benar-benar mudah untuk didapat, tdk susah untuk memperoleh distributor besi yang menjual besi H Beam.
 
-2\. Gampang Dalam Pemasangan. Banyak tukang ahli dalam pemasangan besi H Beam. Meskipun besi H-Beam ini wajib dipasang oleh tukang yang profesional akan tetapi tukang yang berpengalaman dalam memasang besi H Beam ini betul-betul banyak kita temui hari ini. Sehingga tidak perlu dikhawatirkan lagi pengerjaan pemasangannya.
+2. Gampang Dalam Pemasangan. Banyak tukang ahli dalam pemasangan besi H Beam. Meskipun besi H-Beam ini wajib dipasang oleh tukang yang profesional akan tetapi tukang yang berpengalaman dalam memasang besi H Beam ini betul-betul banyak kita temui hari ini. Sehingga tidak perlu dikhawatirkan lagi pengerjaan pemasangannya.
 
-3\. Mempunyai daya tahan yang tidak diragukan lagi. Besi H Beam telah teruji selama bertahun-tahun dalam kontruksi bangunan. Baik skala kecil maupun skala besar dan terbilang sungguh-sungguh kuat bila dibandingkan dengan material lainnya. Bisa bertahan hingga puluhan sampai ratusan tahun.
+3. Mempunyai daya tahan yang tidak diragukan lagi. Besi H Beam telah teruji selama bertahun-tahun dalam kontruksi bangunan. Baik skala kecil maupun skala besar dan terbilang sungguh-sungguh kuat bila dibandingkan dengan material lainnya. Bisa bertahan hingga puluhan sampai ratusan tahun.
 
-4\. Gampang dalam pemeliharaannya. Bangunan yang memakai besi H Beam sebagai struktur rangka bangunannya akan benar-benar gampang dalam melaksanakan pemeliharaannya. tdk perlu pengecatan dengan cat khusus ataupun pembersihan tiap waktu.
+4. Gampang dalam pemeliharaannya. Bangunan yang memakai besi H Beam sebagai struktur rangka bangunannya akan benar-benar gampang dalam melaksanakan pemeliharaannya. tdk perlu pengecatan dengan cat khusus ataupun pembersihan tiap waktu.
 
-5\. Menghemat pemakaian material lainnya, seperti penerapan bekisting, penggunaan tiang penyangga atau tiang penyangga dan juga material pasir. Besi H Beam tidak memerlukan material pasir dalam pengaplikasiannya.
+5. Menghemat pemakaian material lainnya, seperti penerapan bekisting, penggunaan tiang penyangga atau tiang penyangga dan juga material pasir. Besi H Beam tidak memerlukan material pasir dalam pengaplikasiannya.
 
 ### Kekurangan Dari Besi H Beam Di Jatinegara Kaum Jakarta
 

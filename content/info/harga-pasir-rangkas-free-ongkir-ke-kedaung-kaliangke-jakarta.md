@@ -25,7 +25,7 @@ Menurut Standar Nasional Indonesia ( SK SNI - S - 04 - 1989 - F ; 28) di sebutka
 
 Syarat Pasir yg Baik buat Konstruksi
 
-1.  Agregat Halus patut terdiri dari butiran yg tajam dan keras dengan indeks kekerasan <2.2
+1.  Agregat Halus patut terdiri dari butiran yg tajam dan keras dengan indeks kekerasan <2.2
 2. seandainya dimanfaatkan Natrium Sulfat bagian hancur optimal 12%
 3. kalau digunakan Magnesium Sulfat komponen halus optimal sepuluh persen
 4. Tak boleh berisi tanah lebih dari lima %
@@ -41,7 +41,6 @@ Syarat Pasir yg Baik buat Konstruksi
 Sesudah mengenal persyaratan pasir tuk suatu Konstruksi, sekarang ini kita bahas Macam - model Pasir Untuk Konstruksi penjelasan nya berikut ini:
 
 - ### Pasir Cor Di Kedaung Kaliangke Jakarta
-    
 
 Pasir ini umum nya berwarna hitam gelap dan tingkat pecahan butiran nya lumayan tinggi. Tapi sekiranya anda mengepal nya dengan tangan tak akan menggumpal dan akan buyar kembali. model pasir ini amat lah bagus tuk Pengecoran, Plesteran Dinding, Adukan Pondasi dan Adukan Pasangan Bata Pasir ini yaitu pasir untuk Cor merupakan butiran-butiran mineral keras dan tajam berukuran antara 0,075 – 5 mm, jikalau terdapat butiran berukuran lebih kecil dari 0,063 mm tak lebih dari 5% berat. Pasir ini yaitu pasir untuk Rigid sering diaplikasikan untuk profesi cor-coran struktur seperti kolom, balok dan pelat lantai.
 
@@ -59,21 +58,18 @@ Untuk mendapatkan ketahanan Beton yang optimal karenanya pasir wajib dapat memen
 ![Harga Pasir Rangkas Free Ongkir Ke Kedaung Kaliangke Jakarta](/images/info/pasir-hitam-5.jpg)
 
 - ### Pasir Untuk Pemasangan Batu, Pondasi, Bata, Ubin, Plester Di Kedaung Kaliangke Jakarta
-    
 
 ![Harga Pasir Rangkas Free Ongkir Ke Kedaung Kaliangke Jakarta](/images/info/jual-pasir-mundu.jpg)
 
 Pasir ini ekstra halus lagi dibandingkan oleh pasir beton. seandainya anda mengepal pasir ini karenanya akan menggumpal dan tak akan buyar kembali. pasir pasang biasa nya di pakai tuk campuran pasir beton supaya tidak kelewat kasar dan dapat di manfaatkan untuk plesteran dinding.
 
 - ### Pasir Urug Untuk Dasaran Pemasangan Granit Di Kedaung Kaliangke Jakarta
-    
 
 Di Antara ke dua pasir diatas pasir model ini lebih halus lagi, sekiranya anda mengepal nya akan menggumpal dan tidak akan hancur lagi. tetapi pasir macam
 
 Pada nya pasir ini nyaris sama dengan pasir beton akan namun pasir ini mempunyai tingkat kekasaran yg tinggi, butiran - butiran nya lumayan besar dan agak banyak batuan nya. pada umumnya pasir tipe ini baik tuk bahan Pembuatan Batako
 
 - ### Pasir Putih Kadar Lumpur Rendah Untuk Pasang Lantai Marmer Di Kedaung Kaliangke Jakarta
-    
 
 1. **Pasir Putih Bangka**
 

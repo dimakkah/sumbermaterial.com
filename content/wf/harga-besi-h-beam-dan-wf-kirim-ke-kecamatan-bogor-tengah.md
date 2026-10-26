@@ -50,13 +50,13 @@ d. tidak dapat menjangkau lokasi yang sempit. Mengingat Besi WF ini berukuran pa
 
 ### Keunggulan Dari Besi WF Di Kecamatan Bogor Tengah
 
-1\. Bisa mengurangi waktu dalam pembangunan sebuah konstruksi bangunan, mengurangi waktu dan juga memaksimalkan biaya dan tukang pasang.
+1. Bisa mengurangi waktu dalam pembangunan sebuah konstruksi bangunan, mengurangi waktu dan juga memaksimalkan biaya dan tukang pasang.
 
-2\. Bisa menopang bobot yang benar-benar berat, tdk mudah memuai dan lebih simple pengaplikasiannya dibanding dengan material struktural lainnya.
+2. Bisa menopang bobot yang benar-benar berat, tdk mudah memuai dan lebih simple pengaplikasiannya dibanding dengan material struktural lainnya.
 
-3\. Mempunyai fleksibilitas yang tinggi. Sehingga struktur bangunan yang dijadikan dari Besi WF ini menjadi lebih kuat tidak gampang bergeser, tdk gampang roboh maupun goyang. Amat pantas untuk macam bangunan diatas tanah yang labil atau kerap kali terjadi gempa.
+3. Mempunyai fleksibilitas yang tinggi. Sehingga struktur bangunan yang dijadikan dari Besi WF ini menjadi lebih kuat tidak gampang bergeser, tdk gampang roboh maupun goyang. Amat pantas untuk macam bangunan diatas tanah yang labil atau kerap kali terjadi gempa.
 
-4\. Lebih hemat karena struktur bangunan yang menggunakan Besi WF akan memiliki kekuatan yang cukup lama malah sampai ratusan tahun. Tentunya ini yaitu investasi yang amat murah bila kita bandingkan dengan waktu pakai. Malah bangunan yang dibangun dengan tulangan Besi WF dapat kita wariskan kepada si kecil cucu kita.
+4. Lebih hemat karena struktur bangunan yang menggunakan Besi WF akan memiliki kekuatan yang cukup lama malah sampai ratusan tahun. Tentunya ini yaitu investasi yang amat murah bila kita bandingkan dengan waktu pakai. Malah bangunan yang dibangun dengan tulangan Besi WF dapat kita wariskan kepada si kecil cucu kita.
 
 ## Mengenal Besi H Beam Di Kecamatan Bogor Tengah
 
@@ -72,15 +72,15 @@ Sama seperti besi yang kami jelaskan sebelumnya yaitu Besi WF, besi H-Beam malah
 
 ### Keunggulan Besi H Beam Di Kecamatan Bogor Tengah
 
-1\. Gampang untuk didapatkan. Banyak supplier besi yang menyediakan stok besi H-Beam berbagai ukuran. Sehingga besi H-Beam ini amat gampang untuk didapatkan, tdk susah untuk menemukan toko besi yang menjual besi H Beam.
+1. Gampang untuk didapatkan. Banyak supplier besi yang menyediakan stok besi H-Beam berbagai ukuran. Sehingga besi H-Beam ini amat gampang untuk didapatkan, tdk susah untuk menemukan toko besi yang menjual besi H Beam.
 
-2\. Mudah Dalam Pemasangan. Banyak tukang ahli dalam pemasangan besi H Beam. Walaupun besi H-Beam ini semestinya dipasang oleh tukang yang berpengalaman namun tukang yang ahli dalam memasang besi H Beam ini amat banyak kita temui hari ini. Sehingga tidak perlu dikhawatirkan lagi pelaksanaan pemasangannya.
+2. Mudah Dalam Pemasangan. Banyak tukang ahli dalam pemasangan besi H Beam. Walaupun besi H-Beam ini semestinya dipasang oleh tukang yang berpengalaman namun tukang yang ahli dalam memasang besi H Beam ini amat banyak kita temui hari ini. Sehingga tidak perlu dikhawatirkan lagi pelaksanaan pemasangannya.
 
-3\. Memiliki daya tahan yang tidak diragukan lagi. Besi H Beam sudah teruji selama bertahun-tahun dalam kontruksi bangunan. Baik skala kecil ataupun skala besar dan terbilang amat tahan lama jikalau dibandingi dengan material lainnya. Bisa bertahan sampai puluhan hingga ratusan tahun.
+3. Memiliki daya tahan yang tidak diragukan lagi. Besi H Beam sudah teruji selama bertahun-tahun dalam kontruksi bangunan. Baik skala kecil ataupun skala besar dan terbilang amat tahan lama jikalau dibandingi dengan material lainnya. Bisa bertahan sampai puluhan hingga ratusan tahun.
 
-4\. Gampang dalam pemeliharaannya. Bangunan yang menerapkan besi H Beam sebagai struktur tulangan bangunannya akan betul-betul mudah dalam melakukan pemeliharaannya. tidak perlu pengecatan dengan cat khusus maupun pembersihan tiap-tiap saat.
+4. Gampang dalam pemeliharaannya. Bangunan yang menerapkan besi H Beam sebagai struktur tulangan bangunannya akan betul-betul mudah dalam melakukan pemeliharaannya. tidak perlu pengecatan dengan cat khusus maupun pembersihan tiap-tiap saat.
 
-5\. Menghemat penerapan material lainnya, seperti penerapan bekisting, penerapan tiang penyangga atau steger dan juga material pasir. Besi H Beam Tdk membutuhkan material pasir dalam pengaplikasiannya.
+5. Menghemat penerapan material lainnya, seperti penerapan bekisting, penerapan tiang penyangga atau steger dan juga material pasir. Besi H Beam Tdk membutuhkan material pasir dalam pengaplikasiannya.
 
 ### Kekurangan Dari Besi H Beam Di Kecamatan Bogor Tengah
 

@@ -44,13 +44,13 @@ Secara lazim pembuatan Kusen Pintu/Jendela Aluminium ini banyak dicari orang unt
 
 Alasan Anda Memilih Layanan Pembikinan Kusen Alumunium dari Kami.
 
-1\. Kami mengerjakan pesanan pantas dengan tanggal yang disepakati sehingga anda sebagai pelanggan juga menerima hasil yg layak dg estimasi.
+1. Kami mengerjakan pesanan pantas dengan tanggal yang disepakati sehingga anda sebagai pelanggan juga menerima hasil yg layak dg estimasi.
 
-2\. Kami juga melayani banyak pekerjaan lain seperti pembuatan kerangka atas, wood parisi, instalisasi listrik dan masih banyak lagi Jasa lain yg kami miliki.
+2. Kami juga melayani banyak pekerjaan lain seperti pembuatan kerangka atas, wood parisi, instalisasi listrik dan masih banyak lagi Jasa lain yg kami miliki.
 
-3\. Pembayaran menjadi solusi untuk anda, kami memberikan pembayaran dg cara DP sehingga anda tidak perlu ragu denga Jasa yg kami tawarkan.
+3. Pembayaran menjadi solusi untuk anda, kami memberikan pembayaran dg cara DP sehingga anda tidak perlu ragu denga Jasa yg kami tawarkan.
 
-4\. Regu kami akan datang ke lokasi anda untuk memperhatikan dan mengukur ukuran Kusen Pintu/Jendela Almunium yg anda pesan.
+4. Regu kami akan datang ke lokasi anda untuk memperhatikan dan mengukur ukuran Kusen Pintu/Jendela Almunium yg anda pesan.
 
 ## Jenis dan Merk Alumium Yang kami Sediakan Di Cikupa Tangerang
 

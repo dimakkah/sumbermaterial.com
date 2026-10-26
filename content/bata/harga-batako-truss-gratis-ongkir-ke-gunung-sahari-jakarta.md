@@ -16,7 +16,7 @@ saat ini material yang dipakai untuk mengisi dinding bangunan, telah terdapat be
 
 ## Mengetahui Ragam Variasi Bata
 
-### 1\. Bata Merah Standar & Jumbo Di Gunung Sahari Jakarta
+### 1. Bata Merah Standar & Jumbo Di Gunung Sahari Jakarta
 
 ![Harga Batako Truss Gratis Ongkir Ke Gunung Sahari Jakarta](/images/bata/bata-merah-oven-11.png)
 
@@ -26,7 +26,7 @@ Bata merah ini diwujudkan dari bahan tanah yang kemudian di press dan dipanaskan
 
 Bahan bangunan ini benar-benar kuat terhadap panas dan sesuai dibuat pengamanan dari bahaya api. Bata merah ini pada lazimnya mempunyai ukuran panjang antara 17-23 cm dan lebar sekitar 7-11 cm, serta tebalnya 3-5 cm. mempunyai ukuran yg lebih kecil akan memberi kemudahan dalam pengerjaan pengangkutan dan dapat dipakai untuk menyusun bidang kecil.
 
-### 2\. Batako Hitam dan Putih Di Gunung Sahari Jakarta
+### 2. Batako Hitam dan Putih Di Gunung Sahari Jakarta
 
 ![Harga Batako Truss Gratis Ongkir Ke Gunung Sahari Jakarta](/images/bata/batako-hitam-press-19.png)
 
@@ -34,7 +34,7 @@ Bahan bangunan dinding dari batako trus ini secara biasa terbuat dari material A
 
 Batako seperti ini mempunyai kelemahan seperti mudah pecah, lebih panas dan pengap. Berbeda dengan bata merah yg terbuat dari material tanah. Tetapi batako trus ini cenderung lebih ringan ketimbang bata merah. Akhirnya akan terlihat lebih halus dan ukurannya lebih presisi jika dibandingi dg bata merah. Batako press Hitam ini memiliki ukuran panjang sekitar 36-40 cm, tinggi 18-20 cm dan tebal 8-10 cm. bahan ini sering dipilih sebab untuk memperingan beban struktur bangunan, meminimalisir sisa material dan mempermudah pembangunan.
 
-### 3\. Bata Hebel Di Gunung Sahari Jakarta
+### 3. Bata Hebel Di Gunung Sahari Jakarta
 
 ![Harga Batako Truss Gratis Ongkir Ke Gunung Sahari Jakarta](/images/bata/bata-hebel-sni-07.png)
 
@@ -62,7 +62,7 @@ Seluruhnya tentu sudah tahu kegunaan utama batu bata mulai dipakai untuk membiki
 
 Cara memesan batu bata yang aman dan terpercaya:
 
-1.  Pelaksanaan pembayaran dapat anda lakukan secara COD atau dibayar di tempat dikala barang pesanan anda sudah datang di daerah
+1.  Pelaksanaan pembayaran dapat anda lakukan secara COD atau dibayar di tempat dikala barang pesanan anda sudah datang di daerah
 2. Silahkan memilih dan memutuskan material batu bata yg anda inginkan
 3. Tentukan juga jumlah orderan batu bata yg anda butuhkan dalam bentuk bijian.
 4. Anda dapat menghubungi layanan telepon toko untuk memudahkan pengerjaan pemesanan

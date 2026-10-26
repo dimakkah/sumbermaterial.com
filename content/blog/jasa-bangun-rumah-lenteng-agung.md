@@ -17,7 +17,6 @@ draft: false
 
 {{< toc >}}
 
-
 Nah, kalau Anda sedang merencanakan membangun rumah baru atau merenovasi hunian di Lenteng Agung, artikel ini hadir untuk membantu! Kami akan membahas secara mendalam mengenai estimasi biaya jasa bangun rumah di area tersebut, serta memberikan tips penting dalam memilih kontraktor yang tepat agar proyek Anda berjalan lancar dan sesuai harapan.
 
 ## Estimasi Biaya Jasa Bangun Rumah Lenteng Agung: Faktor Penentu Utama
@@ -28,9 +27,9 @@ Secara umum, biaya jasa bangun rumah di Lenteng Agung berkisar antara Rp 3.500.0
 
 Sebagai gambaran, mari kita hitung estimasi biaya untuk membangun rumah minimalis 2 lantai dengan luas 100 meter persegi:
 
-*   Luas Bangunan: 100 m²
-*   Biaya per Meter Persegi (Estimasi): Rp 4.500.000
-*   Total Biaya Konstruksi: 100 m² x Rp 4.500.000 = Rp 450.000.000
+- Luas Bangunan: 100 m²
+- Biaya per Meter Persegi (Estimasi): Rp 4.500.000
+- Total Biaya Konstruksi: 100 m² x Rp 4.500.000 = Rp 450.000.000
 
 Harga ini bersifat estimasi dan dapat berubah sewaktu-waktu — hubungi Kami untuk penawaran terbaru dan paling akurat sesuai kebutuhan proyek Mitra.
 
@@ -49,7 +48,6 @@ Memilih kontraktor yang tepat adalah kunci keberhasilan proyek pembangunan rumah
 
 Dalam membangun rumah, pemilihan material bangunan memegang peranan penting. Tentu saja material yang berkualitas akan berbanding lurus dengan kekuatan dan keawetan bangunan Anda. Berikut tabel perbandingan beberapa material bangunan umum yang sering digunakan dalam jasa bangun rumah Lenteng Agung:
 
-
 <table class="table">
   <caption>Perbandingan Material Bangunan</caption>
   <thead>
@@ -62,14 +60,13 @@ Dalam membangun rumah, pemilihan material bangunan memegang peranan penting. Ten
   </tbody>
 </table>
 
-
 ## Jasa Bangun Rumah Lenteng Agung: Apa yang Ditawarkan Sumber Material?
 
 Kami di Sumber Material bukan hanya menyediakan material konstruksi berkualitas, tetapi juga menawarkan solusi lengkap untuk kebutuhan pembangunan rumah Anda di Lenteng Agung. Dengan pengalaman bertahun-tahun, Kami telah membantu banyak Mitra mewujudkan hunian impian mereka. Kami bekerja sama dengan kontraktor-kontraktor terpercaya yang memiliki reputasi baik di wilayah ini. Layanan Kami meliputi:
 
-*   **Konsultasi Gratis:** Kami akan membantu Anda merencanakan anggaran dan memilih material yang sesuai dengan kebutuhan dan anggaran Anda.
-*   **Pengadaan Material:** Kami menyediakan berbagai macam material konstruksi berkualitas dengan harga yang kompetitif.
-*   **Penyediaan Jasa Kontraktor:** Kami menghubungkan Anda dengan kontraktor-kontraktor terpercaya yang telah Kami seleksi dengan ketat.
-*   **Pengiriman Material:** Kami menyediakan layanan pengiriman material langsung ke lokasi proyek Anda di Lenteng Agung dan sekitarnya.
+- **Konsultasi Gratis:** Kami akan membantu Anda merencanakan anggaran dan memilih material yang sesuai dengan kebutuhan dan anggaran Anda.
+- **Pengadaan Material:** Kami menyediakan berbagai macam material konstruksi berkualitas dengan harga yang kompetitif.
+- **Penyediaan Jasa Kontraktor:** Kami menghubungkan Anda dengan kontraktor-kontraktor terpercaya yang telah Kami seleksi dengan ketat.
+- **Pengiriman Material:** Kami menyediakan layanan pengiriman material langsung ke lokasi proyek Anda di Lenteng Agung dan sekitarnya.
 
 Apabila ada pertanyaan lain seputar topik ini, tombol **Telepon** dan **WhatsApp** di bawah halaman ini siap Kami jawab.

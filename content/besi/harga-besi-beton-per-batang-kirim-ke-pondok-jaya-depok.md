@@ -18,19 +18,19 @@ Dengan tidak adanya besi karenanya sebuah bangunan akan mudah retak ketika ada g
 
 ## Inilah Variasi-tipe Besi Di Pondok Jaya Depok
 
-### 1\. Besi Polos 4mm, 6mm, 8mm, 10mm, 12mm, 16mm, 18mm, 19mm Di Pondok Jaya Depok
+### 1. Besi Polos 4mm, 6mm, 8mm, 10mm, 12mm, 16mm, 18mm, 19mm Di Pondok Jaya Depok
 
 Besi polos memiliki ukuran mulai dari 8 mm hingga 25 mm dan mempunyai 6 meter panjang tekuk dan 12 meter panjang lurus. Besi beton ini telah mulai diterapkan sebagai bahan utama di Indonesia pada tahun 1950. Besi ini sering kali kali diterapkan untuk membangun bangunan beton. Bahan yang gampang digunakan sehingga selain digunakan untuk membangun rumah juga digunakan untuk membangun trowongan, bendungan, dan lainnya. Ketika diaplikasikan untuk membangun sebuah gedung bertingkat karenanya biasa besi polos ini diaplikasikan untuk struktur rangkaian besi balok, dinding, dan sloof. Besi beton polos ini memiliki keunggulan besi polos ini tegangannya lebih tinggi dari pada besi lainnya. Sehingga besi ini terkesan lebih kokoh dan tahan beban. Sehingga penerapan besi polos ini sangat cocok untuk membangun gedung, jembatan, dan bangunan lainnya. Besi polos ini terbuat dari bahan seperti billet dan skrap. Billet adalah baja batangan yang progres pembuatannya dengan melebur biji besi. Jika skrap merupakan besi bekas yang dihancurkan dengan temperature tertentu. Selain itu seandainya anda mengaplikasikan besi polos ini tdk membutuhkan budget pemeliharaan. Kian lama dipakai maka besi ini akan kian kokoh.
 
-### 2\. Besi Ulir Toleransi 4mm, 6mm, 8mm, 10mm, 12mm, 16mm, 18mm, 19mm Di Pondok Jaya Depok
+### 2. Besi Ulir Toleransi 4mm, 6mm, 8mm, 10mm, 12mm, 16mm, 18mm, 19mm Di Pondok Jaya Depok
 
 Cocok dengan namanya besi beton ulir ini adalah besi yang karakternya mengulir. Pada permukaannya bercorak spiral yang memiliki tujuan untuk menyatukan tulangan dengan elemen bahan bangunan yang dibangun oleh besi beton. Besi ulir ini mulai populer diterapkan pada abad ke-20 di Amerika dan mulai populer di Indonesia pada tahun1950. Mengingat ketika mengaplikasikan besi ulir ini mempunyai banyak kelebihan mulai dari kekokohan bangunan serta lebih murah dan efisien. Produk besi ulir ini menjadi primadona pasar karena memiliki kwalitas yang terbaik di Indonesia dan mempunyai harga yang tinggi sekiranya dibandingkan dengan produk lainnya.
 
-### 3\. Besi WF dan H-Beam KS Di Pondok Jaya Depok
+### 3. Besi WF dan H-Beam KS Di Pondok Jaya Depok
 
 Besi Wide Flange (WF) ini adalah salah satu baja dengan struktural yang paling sering diterapkan untuk kontruksi baja. Seandainya anda memerlukan besi baja Wide Flage dalam jumlah yang banyak atau sedikit karenanya silahkan cari toko besi yang terpercaya. Besi WF ini mempunyai kekokohan yang kokoh dan kokoh pada kekokohan tarik atau tekan. Maka dari itu besi ini menjadi faktor struktur yang memiliki batasan yang sempurna untuk menahan beban tekan aksial, tarik aksial, dan lentur dengan fasilitas pembangunan strukturnya. Baja Wide Flange (WF) ini mempunyai kepadatan yang tinggi melainkan rasio berat antara kekuatan bagian Baja WF yang tinggi namun tidak terlalu berat yang terkait dengan kapasitas muatan. Selain itu menetapkan jikalau kontruksi yang dipakai secara efisien. Metode kontruksi baja WF ini kombinasi dari unsur struktur yang rumit. Pada struktur ini mempunyai tujuan membawa beban yang aman dan efektif yang berefek pada sebuah bangunan dan dikirim pada pondasinya. Gaya dan muatan yang berefek ini termasuk beban pertikal, perbedaan suhu, horizontal, getaran dan lainnya. Pada sebuah bangunan baja, maka ada unsure yang bermanfaat menopang gaya lateral dan gravitasi.
 
-### 4\. Besi Holo Di Pondok Jaya Depok
+### 4. Besi Holo Di Pondok Jaya Depok
 
 Besi hollow ialah besi yang dipakai sebagai pembuatan kanopi, pagar, pintu besi dan lainnya. Bahan baku pembuatan besi Hollow ini umumnya terbuat dari stainless, galvanis, dan besi baja. Tetapi yang paling tak jarang diaplikasikan sebagai bahan baku yaitu galvanis. Terdapat kelebihan yang anda dapatkan saat menerapkan kanopi, menerapkan pagar, teralis memakai besi hollow:
 

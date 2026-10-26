@@ -18,19 +18,19 @@ Dengan tidak adanya besi maka sebuah bangunan akan mudah retak dikala ada guncan
 
 ## Mengetahui Variasi-tipe Besi Di Cibodas Tangerang
 
-### 1\. Besi Polos Banci 4mm, 6mm, 8mm, 10mm, 12mm, 16mm, 18mm, 19mm Di Cibodas Tangerang
+### 1. Besi Polos Banci 4mm, 6mm, 8mm, 10mm, 12mm, 16mm, 18mm, 19mm Di Cibodas Tangerang
 
 Besi polos memiliki ukuran mulai dari 8 mm sampai dengan 25 mm dan memiliki 6 meter panjang tekuk dan 12 meter panjang lurus. Besi beton ini mulai dipakai sebagai bahan utama di Indonesia pada tahun 1950. Besi ini sering kali kali digunakan untuk membangun rumah. Bahan yang mudah diterapkan sehingga selain diaplikasikan untuk membangun bangunan beton juga digunakan untuk membangun trowongan, bendungan, dan lainnya. Dikala diterapkan untuk membangun rumah bertingkat karenanya biasa besi polos ini diaplikasikan untuk struktur tulangan balok, dinding, dan sloof. Besi beton polos ini mempunyai kelebihan besi polos ini tegangannya lebih tinggi dari pada besi lainnya. Sehingga besi ini terkesan lebih kokoh dan tahan beban. Sehingga penggunaan besi polos ini sungguh-sungguh sesuai untuk membangun gedung, jembatan, dan bangunan lainnya. Besi polos ini terbuat dari bahan seperti billet dan skrap. Billet yaitu baja batangan yang pelaksanaan pembuatannya dengan melebur biji besi. Jikalau skrap adalah besi bekas yang dileburkan dengan temperature tertentu. Selain dari itu sekiranya anda memakai besi polos ini tdk memerlukan budget pemeliharaan. Semakin lama dipakai maka besi ini akan kian kokoh.
 
-### 2\. Besi Ulir Krakatau Steel 4mm, 6mm, 8mm, 10mm, 12mm, 16mm, 18mm, 19mm Di Cibodas Tangerang
+### 2. Besi Ulir Krakatau Steel 4mm, 6mm, 8mm, 10mm, 12mm, 16mm, 18mm, 19mm Di Cibodas Tangerang
 
 Cocok dengan namanya besi beton ulir ini yaitu besi yang karakternya mengulir. Pada permukaannya bercorak spiral yang mempunyai tujuan untuk menyatukan gerigi besi dengan faktor material bangunan yang dibangun oleh besi beton. Besi ulir ini mulai populer dipakai pada abad ke-20 di Amerika dan mulai populer di Indonesia pada tahun1950. Mengingat ketika menerapkan besi ulir ini memiliki banyak kelebihan mulai dari kekokohan bangunan serta lebih murah dan efisien. Produk besi ulir ini menjadi andalan pasar sebab mempunyai mutu yang terbaik di Indonesia dan memiliki harga yang tinggi kalau dibandingi dengan produk lainnya.
 
-### 3\. Besi WF dan H-Beam Full Di Cibodas Tangerang
+### 3. Besi WF dan H-Beam Full Di Cibodas Tangerang
 
 Besi Wide Flange (WF) ini merupakan salah satu baja dengan struktural yang paling sering diterapkan untuk kontruksi baja. Bila anda memerlukan besi baja Wide Flage dalam jumlah yang banyak atau sedikit maka silahkan cari penjual besi yang terpercaya. Besi WF ini mempunyai kekuatan yang kokoh dan kuat pada ketahanan tarik atau tekan. Karenanya dari itu besi ini menjadi faktor struktur yang mempunyai batasan yang paripurna untuk menopang beban tekan aksial, tarik aksial, dan lentur dengan fasilitas pembangunan strukturnya. Baja Wide Flange (WF) ini memiliki kepadatan yang tinggi tapi rasio berat antara kekuatan bagian Baja WF yang tinggi tapi tdk begitu berat yang berkaitan dengan kapasitas beban. Selain itu menetapkan sekiranya kontruksi yang dipakai secara efisien. Metode kontruksi baja WF ini kombinasi dari faktor struktur yang rumit. Pada struktur ini mempunyai tujuan membawa beban yang aman dan tepat sasaran yang berefek pada sebuah bangunan dan dikirim pada pondasinya. Gaya dan muatan yang berefek ini termasuk muatan pertikal, perbedaan temperatur, horizontal, getaran dan lainnya. Pada sebuah bangunan baja, maka ada unsure yang berguna menopang gaya lateral dan gravitasi.
 
-### 4\. Besi Hollow Di Cibodas Tangerang
+### 4. Besi Hollow Di Cibodas Tangerang
 
 Besi hollow adalah besi yang diterapkan sebagai pembuatan kanopi, pagar, pintu besi dan lainnya. Bahan baku pembuatan besi Hollow ini biasanya terbuat dari stainless, galvanis, dan besi baja. Tetapi yang paling kerap kali digunakan sebagai bahan baku adalah galvanis. Terdapat kelebihan yang anda peroleh ketika mengaplikasikan kanopi, menerapkan pagar, teralis menggunakan besi hollow:
 

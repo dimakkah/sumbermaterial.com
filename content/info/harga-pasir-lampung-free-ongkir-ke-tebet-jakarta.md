@@ -25,7 +25,7 @@ menurut Standar Nasional Indonesia ( SK SNI - S - 04 - 1989 - F ; 28) di tuturka
 
 Persyaratan Pasir yang Bagus tuk Konstruksi
 
-1.  Agregat Halus semestinya terdiri dari butiran yg tajam dan keras dengan indeks kekerasan <2.2
+1.  Agregat Halus semestinya terdiri dari butiran yg tajam dan keras dengan indeks kekerasan <2.2
 2. sekiranya digunakan Natrium Sulfat bagian hancur optimal 12 persen
 3. kalau diaplikasikan Magnesium Sulfat bagian halus maksimal 10%
 4. Tidak boleh memuat tanah lebih dari 5 persen
@@ -41,7 +41,6 @@ Persyaratan Pasir yang Bagus tuk Konstruksi
 Setelah tahu persis syarat pasir tuk suatu Bangunan, sekarang ini kita bahas Ragam - Macam Pasir Untuk Bangunan penjelasan nya sbb:
 
 - ### Pasir Jenis Rigid dan Lokasi Sumbernya Di Tebet Jakarta
-    
 
 Pasir ini biasa nya berwarna coklat tua dan tingkat kekerasan butiran nya lumayan tinggi. Tapi sekiranya anda mengepal nya dengan tangan tidak akan lengket dan akan hancur kembali. tipe pasir ini amat lah baik tuk Pengecoran, Plesteran Dinding, Adukan Pondasi dan Adukan Pasangan Bata Pasir ini yaitu pasir untuk Cor adalah butiran-butiran mineral keras dan tajam berukuran antara 0,075 – 5 mm, apabila terdapat butiran berukuran lebih kecil dari 0,063 mm tak lebih dari 5% berat. Pasir ini yaitu pasir untuk Rigid hampir kerap digunakan untuk profesi cor-coran struktur seperti kolom, balok dan pelat lantai.
 
@@ -59,21 +58,18 @@ Untuk mendapatkan kekuatan Beton yang maksimal karenanya pasir wajib mampu memen
 ![Harga Pasir Lampung Free Ongkir Ke Tebet Jakarta](/images/info/pasir-hitam-5.jpg)
 
 - ### Pasir Untuk Pemasangan Batu, Pondasi, Bata, Ubin, Plester Di Tebet Jakarta
-    
 
 ![Harga Pasir Lampung Free Ongkir Ke Tebet Jakarta](/images/info/jual-pasir-mundu-2.jpg)
 
 Pasir ini lebih halus lagi dibandingi oleh pasir beton. apabila anda mengepal pasir ini maka akan menggumpal dan tak akan hancur kembali. pasir pasang biasa nya di manfaatkan buat adukan pasir beton agar tak terlampau kasar dan bisa di gunakan untuk plesteran dinding.
 
 - ### Pasir Kualitas rendah Untuk Dasaran Pemasangan Keramik Di Tebet Jakarta
-    
 
 Di Antara ke dua pasir diatas pasir ragam ini lebih halus lagi, jikalau anda mengepal nya karenanya akan menggumpal dan tidak akan buyar lagi. tetapi pasir macam
 
 Pada umum nya pasir ini nyaris sama dengan pasir beton melainkan pasir ini mempunyai tingkat kekasaran yang tinggi, butiran - butiran nya cukup besar dan agak banyak batuan nya. pada biasanya pasir ragam ini bagus tuk bahan dasaran pemasangan keramik
 
 - ### Pasir Putih Bebas Lumpur Untuk Hiasan Di Tebet Jakarta
-    
 
 1. **Pasir Putih Bangka**
 

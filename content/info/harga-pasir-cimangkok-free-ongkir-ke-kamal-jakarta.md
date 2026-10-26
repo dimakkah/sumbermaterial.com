@@ -25,7 +25,7 @@ Berdasarkan Standar Nasional Indonesia ( SK SNI - S - 04 - 1989 - F ; 28) di tut
 
 Persyaratan Pasir yg Baik buat Bangunan
 
-1.  Agregat Halus wajib terdiri dari butiran yang tajam dan keras dengan indeks kekerasan <2.2
+1.  Agregat Halus wajib terdiri dari butiran yang tajam dan keras dengan indeks kekerasan <2.2
 2. seandainya diterapkan Natrium Sulfat bagian hancur optimal 12 persen
 3. kalau diterapkan Magnesium Sulfat komponen halus maksimal sepuluh persen
 4. Tidak boleh mengandung tanah lebih dari 5%
@@ -41,7 +41,6 @@ Persyaratan Pasir yg Baik buat Bangunan
 Setelah mengenal persyaratan pasir untuk suatu Konstruksi, pada saat ini kita bahas Macam - Tipe Pasir Untuk Konstruksi penjelasan nya sbb:
 
 - ### Pasir Beton Di Kamal Jakarta
-    
 
 Pasir ini lazim nya berwarna hitam gelap dan tingkat kekerasan butiran nya lumayan tinggi. Tapi seandainya anda mengepal nya dengan tangan tak akan lengket dan akan buyar kembali. macam pasir ini benar-benar lah baik buat Pengecoran, Plesteran Dinding, Adukan Pondasi dan Adukan Pasangan Bata Pasir ini yaitu pasir untuk Beton ialah butiran-butiran mineral keras dan tajam berukuran antara 0,075 – 5 mm, jikalau terdapat butiran berukuran lebih kecil dari 0,063 mm tak lebih dari 5% berat. Pasir ini yaitu pasir untuk Beton kerap dimanfaatkan untuk profesi cor-coran struktur seperti kolom, balok dan pelat lantai.
 
@@ -59,21 +58,18 @@ Untuk memperoleh kekuatan Rigid yang optimal karenanya pasir mesti mampu memenuh
 ![Harga Pasir Cimangkok Free Ongkir Ke Kamal Jakarta](/images/info/pasir-hitam-9.jpg)
 
 - ### Pasir Standar Di Kamal Jakarta
-    
 
 ![Harga Pasir Cimangkok Free Ongkir Ke Kamal Jakarta](/images/info/pasir-hitam-4.jpg)
 
 Pasir ini lebih halus lagi dibandingi oleh pasir beton. bila kalian mengepal pasir ini maka akan menggumpal dan tak akan hancur kembali. pasir pasang biasa nya di manfaatkan buat campuran pasir beton supaya tak terlampau kasar dan bisa di manfaatkan untuk plesteran dinding.
 
 - ### Pasir Kualitas rendah Untuk pengurugan lantai Di Kamal Jakarta
-    
 
 Di Antara ke dua pasir diatas pasir model ini lebih halus lagi, seandainya anda mengepal nya karenanya akan menggumpal dan tak akan hancur lagi. namun pasir tipe
 
 Pada biasa nya pasir ini nyaris sama dgn pasir beton melainkan pasir ini mempunyai tingkat kekasaran yang tinggi, butiran - butiran nya lumayan besar dan agak banyak batuan nya. pada umumnya pasir tipe ini baik tuk bahan dasaran pemasangan keramik
 
 - ### Pasir Putih Bebas Lumpur Untuk Hiasan Di Kamal Jakarta
-    
 
 1. **Pasir Putih Bangka**
 

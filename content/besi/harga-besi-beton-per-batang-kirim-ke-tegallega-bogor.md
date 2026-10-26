@@ -18,19 +18,19 @@ Tanpa adanya besi karenanya sebuah bangunan akan mudah retak saat ada guncangan 
 
 ## Seperti Ini Jenis-jenis Besi Di Tegallega Bogor
 
-### 1\. Besi Polos KS 4mm, 6mm, 8mm, 10mm, 12mm, 16mm, 18mm, 19mm Di Tegallega Bogor
+### 1. Besi Polos KS 4mm, 6mm, 8mm, 10mm, 12mm, 16mm, 18mm, 19mm Di Tegallega Bogor
 
 Besi polos mempunyai ukuran mulai dari 8 mm hingga 25 mm dan memiliki 6 meter panjang tekuk dan 12 meter panjang lurus. Besi beton ini sudah mulai digunakan sebagai bahan utama di Indonesia pada tahun 1950. Besi ini kerap kali kali diaplikasikan untuk membangun sebuah gedung. Bahan yang mudah dipakai sehingga selain dari diterapkan untuk membangun rumah juga diaplikasikan untuk membangun trowongan, bendungan, dan lainnya. Saat dipakai untuk membangun tempat tinggal bertingkat maka biasanya besi polos ini diaplikasikan untuk struktur rangkaian besi balok, dinding, dan sloof. Besi beton polos ini mempunyai kelebihan besi polos ini tegangannya lebih tinggi dari pada besi lainnya. Sehingga besi ini terkesan lebih kokoh dan tahan beban. Sehingga pengaplikasian besi polos ini sangat layak untuk membangun gedung, jembatan, dan bangunan lainnya. Besi polos ini terbuat dari bahan seperti billet dan skrap. Billet adalah baja batangan yang pengerjaan pembuatannya dengan melebur biji besi. Kalau skrap ialah besi bekas yang dileburkan dengan temperature tertentu. Selain dari itu kalau anda memakai besi polos ini tdk memerlukan anggaran pemeliharaan. Semakin lama diaplikasikan karenanya besi ini akan semakin kokoh.
 
-### 2\. Besi Ulir Toleransi 4mm, 6mm, 8mm, 10mm, 12mm, 16mm, 18mm, 19mm Di Tegallega Bogor
+### 2. Besi Ulir Toleransi 4mm, 6mm, 8mm, 10mm, 12mm, 16mm, 18mm, 19mm Di Tegallega Bogor
 
 Cocok dengan namanya besi beton ulir ini merupakan besi yang bentuknya mengulir. Pada permukaannya bercorak spiral yang memiliki tujuan untuk menyatukan gerigi besi dengan faktor bahan bangunan yang dibangun oleh besi beton. Besi ulir ini mulai populer diaplikasikan pada abad ke-20 di Amerika dan mulai populer di Indonesia pada tahun1950. Mengingat ketika menerapkan besi ulir ini memiliki banyak keunggulan mulai dari ketahanan bangunan serta lebih murah dan efisien. Produk besi ulir ini menjadi primadona pasar karena mempunyai kualitas yang terbaik di Indonesia dan mempunyai harga yang tinggi jikalau dibandingi dengan produk lainnya.
 
-### 3\. Besi WF dan H-Beam Toleransi Di Tegallega Bogor
+### 3. Besi WF dan H-Beam Toleransi Di Tegallega Bogor
 
 Besi Wide Flange (WF) ini adalah salah satu baja dengan struktural yang paling populer diterapkan untuk kontruksi baja. Kalau anda memerlukan besi baja Wide Flage dalam quantitas yang banyak atau sedikit maka silahkan cari distributor besi yang terpercaya. Besi WF ini mempunyai kekuatan yang kokoh dan kokoh pada ketahanan tarik atau tekan. Karenanya dari itu besi ini menjadi faktor struktur yang memiliki batasan yang paripurna untuk menopang muatan tekan aksial, tarik aksial, dan lentur dengan fasilitas pembangunan strukturnya. Baja Wide Flange (WF) ini mempunyai kepadatan yang tinggi tapi rasio berat antara kekuatan komponen Baja WF yang tinggi namun tdk terlalu berat yang terkait dengan kapasitas beban. Selain itu menetapkan sekiranya kontruksi yang digunakan secara efisien. Sistem kontruksi baja WF ini kombinasi dari faktor struktur yang rumit. Pada struktur ini memiliki tujuan membawa beban yang aman dan efektif yang bekerja pada sebuah bangunan dan dikirim pada pondasinya. Gaya dan bobot yang berefek ini termasuk muatan pertikal, perbedaan temperatur, horizontal, getaran dan lainnya. Pada sebuah bangunan baja, maka ada unsure yang berguna menahan gaya lateral dan gravitasi.
 
-### 4\. Besi Holow Di Tegallega Bogor
+### 4. Besi Holow Di Tegallega Bogor
 
 Besi hollow adalah besi yang diterapkan sebagai pembuatan kanopi, pagar, pintu besi dan lainnya. Bahan baku pembuatan besi Hollow ini umumnya terbuat dari stainless, galvanis, dan besi baja. Tetapi yang paling sering kali diterapkan sebagai bahan baku adalah galvanis. Terdapat kelebihan yang anda dapatkan dikala menerapkan kanopi, mengaplikasikan pagar, teralis memakai besi hollow:
 

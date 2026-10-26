@@ -25,7 +25,7 @@ Menurut Standar Nasional Indonesia ( SK SNI - S - 04 - 1989 - F ; 28) di sebutka
 
 Syarat Pasir yang Bagus Untuk Konstruksi Bangunan
 
-1.  Agregat Halus sepatutnya terdiri dari butiran yang tajam dan keras dengan indeks kekerasan <2.2
+1.  Agregat Halus sepatutnya terdiri dari butiran yang tajam dan keras dengan indeks kekerasan <2.2
 2. bilamana dimanfaatkan Natrium Sulfat komponen hancur maksimal dua belas %
 3. Apabila digunakan Magnesium Sulfat komponen halus optimal sepuluh persen
 4. Tidak boleh mengandung tanah lebih dari 5 persen
@@ -41,7 +41,6 @@ Syarat Pasir yang Bagus Untuk Konstruksi Bangunan
 sesudah memahami syarat pasir untuk sebuah Bangunan, saat ini kita bahas Jenis - model Pasir Untuk Bangunan penjelasan nya sebagai berikut:
 
 - ### Pasir Beton Di Jayanti Tangerang
-    
 
 Pasir ini lazim nya berwarna hitam gelap dan tingkat kekerasan butiran nya cukup tinggi. Melainkan sekiranya anda mengepal nya dengan tangan tak akan lengket dan akan hancur kembali. macam pasir ini amat lah bagus untuk Pengecoran, Plesteran Dinding, Adukan Pondasi dan Adukan Pasangan Bata Pasir ini yaitu pasir untuk Rigid adalah butiran-butiran mineral keras dan tajam berukuran antara 0,075 – 5 mm, jikalau terdapat butiran berukuran lebih kecil dari 0,063 mm tak lebih dari 5% berat. Pasir ini yaitu pasir untuk Cor hampir sering diterapkan untuk profesi cor-coran struktur seperti kolom, balok dan pelat lantai.
 
@@ -59,21 +58,18 @@ Untuk menerima kekokohan Cor yang optimal karenanya pasir patut mampu memenuhi s
 ![Harga Pasir Mundu Free Ongkir Ke Jayanti Tangerang](/images/info/jual-pasir-cor-hitam.jpg)
 
 - ### Pasir Untuk Adukan Pasang Batu, Pondasi, Bata, Ubin, Plester Di Jayanti Tangerang
-    
 
 ![Harga Pasir Mundu Free Ongkir Ke Jayanti Tangerang](/images/info/pasir-hitam-4.jpg)
 
 Pasir ini ekstra halus lagi diperbandingkan oleh pasir beton. kalau kalian mengepal pasir ini maka akan menggumpal dan tak akan buyar kembali. pasir pasang biasa nya di manfaatkan buat adukan pasir beton supaya tak terlampau kasar dan dapat di pakai untuk plesteran dinding.
 
 - ### Pasir Urug Untuk pemadatan lantai Di Jayanti Tangerang
-    
 
 Di Antara ke dua pasir diatas pasir ragam ini lebih halus lagi, jikalau kalian mengepal nya maka akan menggumpal dan tidak akan hancur lagi. melainkan pasir macam
 
 Pada biasa nya pasir ini nyaris sama dgn pasir beton tapi pasir ini memiliki tingkat kekasaran yg tinggi, butiran - butiran nya cukup besar dan agak banyak batuan nya. pada umumnya pasir macam ini bagus tuk bahan pemadatan lantai
 
 - ### Pasir Putih Tanpa Batu Untuk Pelester Di Jayanti Tangerang
-    
 
 1. **Pasir Putih Bangka**
 

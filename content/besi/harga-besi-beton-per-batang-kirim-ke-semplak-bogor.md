@@ -18,19 +18,19 @@ Tanpa adanya besi karenanya sebuah bangunan akan mudah retak saat ada guncangan 
 
 ## Megenal Variasi-tipe Besi Di Semplak Bogor
 
-### 1\. Besi Polos KS 4mm, 6mm, 8mm, 10mm, 12mm, 16mm, 18mm, 19mm Di Semplak Bogor
+### 1. Besi Polos KS 4mm, 6mm, 8mm, 10mm, 12mm, 16mm, 18mm, 19mm Di Semplak Bogor
 
 Besi polos memiliki ukuran mulai dari 8 mm hingga 25 mm dan mempunyai 6 meter panjang tekuk dan 12 meter panjang lurus. Besi beton ini sudah mulai diterapkan sebagai bahan utama di Indonesia pada tahun 1950. Besi ini sering kali digunakan untuk membangun bangunan beton. Bahan yang gampang dipakai sehingga selain dipakai untuk membangun tempat tinggal juga dipakai untuk membangun trowongan, bendungan, dan lainnya. Ketika diaplikasikan untuk membangun tempat tinggal bertingkat karenanya biasa besi polos ini diaplikasikan untuk struktur tulangan balok, dinding, dan sloof. Besi beton polos ini memiliki kelebihan besi polos ini tegangannya lebih tinggi dari pada besi lainnya. Oleh karena itu besi ini terkesan lebih kokoh dan tahan beban. Sehingga pengaplikasian besi polos ini betul-betul layak untuk membangun gedung, jembatan, dan bangunan lainnya. Besi polos ini terbuat dari bahan seperti billet dan skrap. Billet merupakan baja batangan yang progres pembuatannya dengan melebur biji besi. Jika skrap ialah besi bekas yang dileburkan dengan temperature tertentu. Selain dari itu apabila anda mengaplikasikan besi polos ini tidak memerlukan budget pemeliharaan. Kian lama digunakan karenanya besi ini akan kian kokoh.
 
-### 2\. Besi Ulir Banci 4mm, 6mm, 8mm, 10mm, 12mm, 16mm, 18mm, 19mm Di Semplak Bogor
+### 2. Besi Ulir Banci 4mm, 6mm, 8mm, 10mm, 12mm, 16mm, 18mm, 19mm Di Semplak Bogor
 
 Cocok dengan namanya besi beton ulir ini adalah besi yang tampilannya mengulir. Pada permukaannya bercorak spiral yang memiliki tujuan untuk menyatukan tulangan dengan unsur bahan bangunan yang dibentuk oleh besi beton. Besi ulir ini mulai populer diaplikasikan pada abad ke-20 di Amerika dan mulai populer di Indonesia pada tahun1950. Mengingat ketika menerapkan besi ulir ini mempunyai banyak keunggulan mulai dari kekuatan bangunan serta lebih hemat biaya dan efisien. Produk besi ulir ini menjadi primadona pasar karena mempunyai mutu yang terbaik di Indonesia dan mempunyai harga yang tinggi jika dibandingkan dengan produk lainnya.
 
-### 3\. Besi WF dan H-Beam SNI Di Semplak Bogor
+### 3. Besi WF dan H-Beam SNI Di Semplak Bogor
 
 Besi Wide Flange (WF) ini ialah salah satu baja dengan struktural yang paling banyak digunakan untuk kontruksi baja. Seandainya anda membutuhkan besi baja Wide Flage dalam quantitas yang banyak atau sedikit karenanya silahkan cari penjual besi yang terpercaya. Besi WF ini mempunyai kekokohan yang kokoh dan kokoh pada kekuatan tarik atau tekan. Maka dari itu besi ini menjadi faktor struktur yang memiliki batasan yang sempurna untuk menopang beban tekan aksial, tarik aksial, dan lentur dengan fasilitas pembangunan strukturnya. Baja Wide Flange (WF) ini mempunyai kepadatan yang tinggi melainkan rasio berat antara kekokohan komponen Baja WF yang tinggi tetapi tidak begitu berat yang terkait dengan kapasitas muatan. Selain itu menentukan seandainya kontruksi yang digunakan secara efisien. Metode kontruksi baja WF ini kombinasi dari unsur struktur yang kompleks. Pada struktur ini mempunyai tujuan membawa muatan yang aman dan efektif yang bekerja pada sebuah bangunan dan dikirim pada pondasinya. Gaya dan beban yang berefek ini termasuk muatan pertikal, perbedaan temperatur, horizontal, getaran dan lainnya. Pada sebuah bangunan baja, maka ada unsure yang berguna menahan gaya lateral dan gravitasi.
 
-### 4\. Besi Holow Di Semplak Bogor
+### 4. Besi Holow Di Semplak Bogor
 
 Besi hollow yaitu besi yang diaplikasikan sebagai pembuatan kanopi, pagar, pintu besi dan lainnya. Bahan baku pembuatan besi Hollow ini biasanya terbuat dari stainless, galvanis, dan besi baja. Tapi yang paling kerap kali dipakai sebagai bahan baku yaitu galvanis. Terdapat kelebihan yang anda peroleh saat mengaplikasikan kanopi, memasang pagar, teralis menerapkan besi hollow:
 

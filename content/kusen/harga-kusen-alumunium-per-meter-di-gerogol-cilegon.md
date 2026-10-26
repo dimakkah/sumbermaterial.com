@@ -44,13 +44,13 @@ Secara biasa pembuatan Kusen Pintu/Jendela Alumunium ini banyak dicari orang unt
 
 Alasan Anda Memilih Layanan Pembikinan Kusen Alumunium dari Kami.
 
-1\. Kami menjalankan orderan sesuai dg tanggal yang disepakati sehingga anda sebagai pelanggan juga mendapatkan hasil yg layak dg estimasi.
+1. Kami menjalankan orderan sesuai dg tanggal yang disepakati sehingga anda sebagai pelanggan juga mendapatkan hasil yg layak dg estimasi.
 
-2\. Kami juga melayani banyak pekerjaan lain seperti pembuatan kerangka atas, wood parisi, instalisasi listrik dan masih banyak lagi Jasa lain yang kami miliki.
+2. Kami juga melayani banyak pekerjaan lain seperti pembuatan kerangka atas, wood parisi, instalisasi listrik dan masih banyak lagi Jasa lain yang kami miliki.
 
-3\. Pembayaran menjadi solusi utk anda, kami memberikan pembayaran dengan sistem DP sehingga anda tidak perlu ragu denga Layanan yang kami tawarkan.
+3. Pembayaran menjadi solusi utk anda, kami memberikan pembayaran dengan sistem DP sehingga anda tidak perlu ragu denga Layanan yang kami tawarkan.
 
-4\. Tim kami akan datang ke tempat anda untuk melihat dan mengevaluasi ukuran Kusen Pintu/Jendela Alumunium yg anda pesan.
+4. Tim kami akan datang ke tempat anda untuk melihat dan mengevaluasi ukuran Kusen Pintu/Jendela Alumunium yg anda pesan.
 
 ## Macam dan Merk Alumium Yang kami Sediakan Di Gerogol Cilegon
 

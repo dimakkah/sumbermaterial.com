@@ -21,19 +21,19 @@ Pemasangan baja ringan untuk kebutuhan bangunan bisa dilakukan dengan cukup muda
 
 Berikut beberapa alasan penting yang perlu Anda ketahui sebelum menghubungi kami, mengapa Anda wajib memilih baja ringan sebagai kerangka atap dan kanopi:
 
- **Ramah Lingkungan:** Baja ringan adalah pilihan ramah lingkungan karena Anda tidak membutuhkan kayu, yang berarti tidak perlu menebang pohon. Dengan menggunakan kerangka baja ringan, Anda turut berkontribusi pada pelestarian alam.
+- **Ramah Lingkungan:** Baja ringan adalah pilihan ramah lingkungan karena Anda tidak membutuhkan kayu, yang berarti tidak perlu menebang pohon. Dengan menggunakan kerangka baja ringan, Anda turut berkontribusi pada pelestarian alam.
 
- **Lebih Ekonomis:** Dibandingkan kerangka kayu, baja ringan lebih ekonomis. Harga kayu berkualitas tinggi biasanya lebih mahal. Untuk bagian kerangka yang sangat krusial bagi sebuah bangunan, mempertimbangkan ini sangat penting untuk menekan biaya pembangunan.
+- **Lebih Ekonomis:** Dibandingkan kerangka kayu, baja ringan lebih ekonomis. Harga kayu berkualitas tinggi biasanya lebih mahal. Untuk bagian kerangka yang sangat krusial bagi sebuah bangunan, mempertimbangkan ini sangat penting untuk menekan biaya pembangunan.
 
- **Ringan dan Kuat:** Baja ringan berbeda dengan baja atau besi yang memiliki berat dua kali lipat. Baja ringan tipis dan ringan, namun sangat kuat untuk kerangka atap dan pembuatan kanopi rumah Anda.
+- **Ringan dan Kuat:** Baja ringan berbeda dengan baja atau besi yang memiliki berat dua kali lipat. Baja ringan tipis dan ringan, namun sangat kuat untuk kerangka atap dan pembuatan kanopi rumah Anda.
 
- **Minim Perawatan:** Anda tak perlu khawatir tentang kerusakan kerangka atap – baja ringan praktis bebas perawatan tahunan.
+- **Minim Perawatan:** Anda tak perlu khawatir tentang kerusakan kerangka atap – baja ringan praktis bebas perawatan tahunan.
 
- **Pemasangan Cepat:** Pemasangan kerangka atap baja ringan jauh lebih cepat dibandingkan material lain seperti kayu.
+- **Pemasangan Cepat:** Pemasangan kerangka atap baja ringan jauh lebih cepat dibandingkan material lain seperti kayu.
 
- **Kualitas Terjamin:** Baja ringan yang kami gunakan bukan sembarangan material. Bahan utamanya adalah zinc dan aluminium yang memiliki sertifikasi dan standar keamanan 4 kali lebih baik daripada baja biasa. Kekuatannya pun mampu menopang beban berat.
+- **Kualitas Terjamin:** Baja ringan yang kami gunakan bukan sembarangan material. Bahan utamanya adalah zinc dan aluminium yang memiliki sertifikasi dan standar keamanan 4 kali lebih baik daripada baja biasa. Kekuatannya pun mampu menopang beban berat.
 
- **Tahan Rayap:** Kami menjamin bahwa kerangka atap dan kanopi dari baja ringan ini tahan terhadap serangan rayap.
+- **Tahan Rayap:** Kami menjamin bahwa kerangka atap dan kanopi dari baja ringan ini tahan terhadap serangan rayap.
 
 ## Sistem Perhitungan Luas Rangka Baja Ringan Di Grogol Depok
 

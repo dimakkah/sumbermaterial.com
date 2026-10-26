@@ -25,7 +25,7 @@ menurut Standar Nasional Indonesia ( SK SNI - S - 04 - 1989 - F ; 28) di sebutka
 
 Syarat-Syarat Pasir yang Baik Untuk Konstruksi Bangunan
 
-1.  Agregat Halus wajib terdiri dari butiran yg tajam dan keras dengan indeks kekerasan <2.2
+1.  Agregat Halus wajib terdiri dari butiran yg tajam dan keras dengan indeks kekerasan <2.2
 2. bilamana dimanfaatkan Natrium Sulfat bagian hancur optimal dua belas %
 3. bila diterapkan Magnesium Sulfat bagian halus optimal 10%
 4. Tak boleh berisi clay lebih dari lima %
@@ -41,7 +41,6 @@ Syarat-Syarat Pasir yang Baik Untuk Konstruksi Bangunan
 Sesudah tahu persis persyaratan pasir untuk suatu Bangunan, sekarang ini kita bahas Jenis - Ragam Pasir Untuk Konstruksi Bangunan penjelasan nya sebagai berikut:
 
 - ### Pasir Model Cor dan Daerah Sumbernya Di Tanah Sareal Bogor
-    
 
 Pasir ini lazim nya berwarna coklat tua dan tingkat kekerasan butiran nya lumayan tinggi. Tetapi seandainya anda mengepal nya dengan tangan tidak akan lengket dan akan buyar kembali. ragam pasir ini sungguh-sungguh lah baik buat Pengecoran, Plesteran Dinding, Adukan Pondasi dan Adukan Pasangan Bata Pasir ini yaitu pasir untuk Cor adalah butiran-butiran mineral keras dan tajam berukuran antara 0,075 – 5 mm, apabila terdapat butiran berukuran lebih kecil dari 0,063 mm tak lebih dari 5% berat. Pasir ini yaitu pasir untuk Cor hampir tak jarang dimanfaatkan untuk pekerjaan cor-coran struktur seperti kolom, balok dan pelat lantai.
 
@@ -52,9 +51,9 @@ Harga Pasir Mainan Anak Free Ongkir Ke Tanah Sareal Bogor Kalau anda sebagai kon
 Pasir terbaik dari kp. jebrod cianjur jawa barat yang diaplikasikan oleh indocement serta perusahaan batching plant lainnya sebagai bahan dasar produksi readymix concrete. Pasir ini paling disarankan untuk cor sebab irit semen juga mempunyai kandungan lumpur yang betul-betul rendah dibawah delapan persen. warnanya Hitam abu tua atau hitam seperti hitamnya batu kali, ada juga yang hitam kemerahan atau hitam terasi
 
 3. **Pasir Hitam Cor Cimangkok.** Pasir asal Lokasi penambangannya di cimangkok sukabumi jabar yang masih masuk terhadap klasifikasi pasir hitam kelas satu di jabar, warnanya hitam kecoklatan sesuai untuk cor, pasang pondasi dan bata
-    
+
     ![Harga Pasir Mainan Anak Free Ongkir Ke Tanah Sareal Bogor](/images/info/pasir-hitam-7.jpg)
-    
+
 4. **Pasir Hitam Beton Cimalaka Subang Bandung.**
 
 Pasir nomor satu yang berwarna hitam kebauan ada juga yang berwarna hitam abu tua. Banyak di pakai untuk Beton, pasang dan keperluan lainnya. Ditambang di Daerah cimalaka
@@ -90,9 +89,9 @@ Kecuali Rangkasbitung, Banten juga mempunyai lokasi pnembangan pasir lain sepert
 Masih dari Tempat di banten, pasir kelas tiga ini yaitu pasir yang banyak digunakan di proyek proyek perumahan atau cluster sebab harganya yang murah juga kwalitas yang bagus. Warna pasir ini hitam kecoklatan dan keabuan benar-benar disarankan untuk pasang pondasi, bata, batu dsb
 
 27. **Pasir Hitam Rigid Bohlam Sukabumi.** Pasir dari Daerah kp. bohlam di sukabumi berwarna hitam kecoklatan, benar-benar bagus untuk pasang bata, pondasi dan lainnya sebagai pilihan pasir mutu baik dan murah
-    
+
     ![Harga Pasir Mainan Anak Free Ongkir Ke Tanah Sareal Bogor](/images/info/pasir-hitam-5.jpg)
-    
+
 28. **Pasir Beton Galunggung.**
 
 Pasir ini ialah pasir hitam kwalitas paling unggul dikelasnya awam diterapkan oleh pabrik pengolahan beton readymix juga perusahan pembuatan precast dan sering kali juga diterapkan untuk bahan pembuatan batako press hitam, paving block dsb. Pasir ini ditambang dari Tasikmalaya jawa barat.
@@ -100,21 +99,18 @@ Pasir ini ialah pasir hitam kwalitas paling unggul dikelasnya awam diterapkan ol
 ![Harga Pasir Mainan Anak Free Ongkir Ke Tanah Sareal Bogor](/images/info/jual-pasir-cor-hitam.jpg)
 
 - ### Pasir Standar Di Tanah Sareal Bogor
-    
 
 ![Harga Pasir Mainan Anak Free Ongkir Ke Tanah Sareal Bogor](/images/info/pasir-hitam-4.jpg)
 
 Pasir ini ekstra halus lagi dibandingi oleh pasir beton. jikalau kamu mengepal pasir ini maka akan menggumpal dan tidak akan hancur kembali. pasir pasang biasa nya di manfaatkan buat adukan pasir beton agar tak terlalu kasar dan bisa di manfaatkan untuk plesteran dinding.
 
 - ### Pasir Elod Untuk Pembuatan Batako Di Tanah Sareal Bogor
-    
 
 Di Antara ke dua pasir diatas pasir ragam ini lebih halus lagi, jika kamu mengepal nya akan menggumpal dan tidak akan buyar lagi. namun pasir ragam tak bagus tuk di buat sebagai bahan bangunan. pasir model ini pada lazim nya di pergunakan untuk Bahan Pembuatan Batako
 
 Pada nya pasir ini nyaris sama dgn pasir beton tetapi pasir ini mempunyai tingkat kekasaran yang tinggi, butiran - butiran nya lumayan besar dan agak banyak batuan nya. pada biasanya pasir model ini baik tuk bahan pengurugan lantai
 
 - ### Pasir Putih Tanpa Ayak Untuk Taman Bermain Di Tanah Sareal Bogor
-    
 
 1. **Pasir Putih Bangka**
 

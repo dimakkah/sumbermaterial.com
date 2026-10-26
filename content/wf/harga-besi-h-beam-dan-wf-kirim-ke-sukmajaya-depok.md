@@ -50,13 +50,13 @@ d. tidak bisa menjangkau lokasi yang sempit. Mengingat Besi WF ini berukuran pan
 
 ### Kelebihan Dari Besi WF Di Sukmajaya Depok
 
-1\. Bisa menghemat waktu dalam pembangunan sebuah konstruksi bangunan, menghemat waktu dan juga mengurangi biaya dan tenaga tukang.
+1. Bisa menghemat waktu dalam pembangunan sebuah konstruksi bangunan, menghemat waktu dan juga mengurangi biaya dan tenaga tukang.
 
-2\. Bisa menyangga bobot yang sungguh-sungguh berat, tdk mudah memuai dan lebih simple pemakaiannya dibanding dengan material struktural lainnya.
+2. Bisa menyangga bobot yang sungguh-sungguh berat, tdk mudah memuai dan lebih simple pemakaiannya dibanding dengan material struktural lainnya.
 
-3\. Mempunyai fleksibilitas yang tinggi. Sehingga struktur bangunan yang dijadikan dari Besi WF ini menjadi lebih kuat tidak gampang bergeser, tidak mudah roboh ataupun goyang. Sangat pantas untuk ragam bangunan diatas tanah yang labil atau sering terjadi longsor.
+3. Mempunyai fleksibilitas yang tinggi. Sehingga struktur bangunan yang dijadikan dari Besi WF ini menjadi lebih kuat tidak gampang bergeser, tidak mudah roboh ataupun goyang. Sangat pantas untuk ragam bangunan diatas tanah yang labil atau sering terjadi longsor.
 
-4\. Lebih hemat sebab struktur bangunan yang menggunakan Besi WF akan memiliki kekuatan yang cukup lama malahan sampai ratusan tahun. Tentunya ini yakni investasi yang sungguh-sungguh murah kalau kita bandingkan dengan waktu gunakan. Bahkan bangunan yang dibangun dengan tulangan Besi WF dapat kita wariskan kepada anak cucu kita.
+4. Lebih hemat sebab struktur bangunan yang menggunakan Besi WF akan memiliki kekuatan yang cukup lama malahan sampai ratusan tahun. Tentunya ini yakni investasi yang sungguh-sungguh murah kalau kita bandingkan dengan waktu gunakan. Bahkan bangunan yang dibangun dengan tulangan Besi WF dapat kita wariskan kepada anak cucu kita.
 
 ## Mengetahui Besi H Beam Di Sukmajaya Depok
 
@@ -72,15 +72,15 @@ Sama seperti besi yang kami terangkan sebelumnya merupakan Besi WF, besi H-Beam 
 
 ### Kelebihan Besi H Beam Di Sukmajaya Depok
 
-1\. Gampang untuk didapat. Banyak distributor besi yang menyediakan stok besi H-Beam bermacam-macam ukuran. Sehingga besi H-Beam ini benar-benar gampang untuk didapatkan, tidak susah untuk menemukan toko besi yang menjual besi H Beam.
+1. Gampang untuk didapat. Banyak distributor besi yang menyediakan stok besi H-Beam bermacam-macam ukuran. Sehingga besi H-Beam ini benar-benar gampang untuk didapatkan, tidak susah untuk menemukan toko besi yang menjual besi H Beam.
 
-2\. Gampang Dalam Pemasangan. Banyak tukang ahli dalam pemasangan besi H Beam. Walaupun besi H-Beam ini semestinya dipasang oleh tukang yang berpengalaman akan tetapi tukang yang ahli dalam memasang besi H Beam ini amat banyak kita temui hari ini. Sehingga tdk perlu dikhawatirkan lagi progres pemasangannya.
+2. Gampang Dalam Pemasangan. Banyak tukang ahli dalam pemasangan besi H Beam. Walaupun besi H-Beam ini semestinya dipasang oleh tukang yang berpengalaman akan tetapi tukang yang ahli dalam memasang besi H Beam ini amat banyak kita temui hari ini. Sehingga tdk perlu dikhawatirkan lagi progres pemasangannya.
 
-3\. Mempunyai daya tahan yang tidak diragukan lagi. Besi H Beam telah teruji selama bertahun-tahun dalam kontruksi bangunan. Apakah skala kecil maupun skala besar dan terbilang sungguh-sungguh awet apabila dibandingi dengan material lainnya. Dapat bertahan sampai puluhan hingga ratusan tahun.
+3. Mempunyai daya tahan yang tidak diragukan lagi. Besi H Beam telah teruji selama bertahun-tahun dalam kontruksi bangunan. Apakah skala kecil maupun skala besar dan terbilang sungguh-sungguh awet apabila dibandingi dengan material lainnya. Dapat bertahan sampai puluhan hingga ratusan tahun.
 
-4\. Gampang dalam pemeliharaannya. Bangunan yang memakai besi H Beam sebagai struktur rangka bangunannya akan sungguh-sungguh mudah dalam mengerjakan pemeliharaannya. tdk perlu pengecatan dengan cat khusus ataupun pembersihan tiap saat.
+4. Gampang dalam pemeliharaannya. Bangunan yang memakai besi H Beam sebagai struktur rangka bangunannya akan sungguh-sungguh mudah dalam mengerjakan pemeliharaannya. tdk perlu pengecatan dengan cat khusus ataupun pembersihan tiap saat.
 
-5\. Menghemat pemakaian material lainnya, seperti pengaplikasian bekisting, pemakaian tiang penyangga atau steger dan juga material pasir. Besi H Beam Tdk memerlukan material pasir dalam penggunaannya.
+5. Menghemat pemakaian material lainnya, seperti pengaplikasian bekisting, pemakaian tiang penyangga atau steger dan juga material pasir. Besi H Beam Tdk memerlukan material pasir dalam penggunaannya.
 
 ### Kekurangan Dari Besi H Beam Di Sukmajaya Depok
 

@@ -25,7 +25,7 @@ Berdasarkan Standar Nasional Indonesia ( SK SNI - S - 04 - 1989 - F ; 28) di seb
 
 Syarat-Syarat Pasir yang Bagus buat Bangunan
 
-1.  Agregat Halus semestinya terdiri dari butiran yang tajam dan keras dengan indeks kekerasan <2.2
+1.  Agregat Halus semestinya terdiri dari butiran yang tajam dan keras dengan indeks kekerasan <2.2
 2. seandainya dimanfaatkan Natrium Sulfat komponen hancur optimal dua belas %
 3. sekiranya diterapkan Magnesium Sulfat bagian halus maksimal 5 persen
 4. Tidak boleh memuat lumpur lebih dari 5%
@@ -41,7 +41,6 @@ Syarat-Syarat Pasir yang Bagus buat Bangunan
 Setelah tahu persis syarat pasir buat sebuah Konstruksi, pada saat ini kita bahas Macam - Ragam Pasir Untuk Konstruksi Bangunan penjelasan nya berikut ini:
 
 - ### Pasir Tipe Rigid dan Lokasi Sumbernya Di Krukut Depok
-    
 
 Pasir ini umum nya berwarna keabu-abuan dan tingkat kekasaran butiran nya cukup tinggi. Melainkan jikalau anda mengepal nya dengan tangan tak akan menggumpal dan akan hancur kembali. macam pasir ini amat lah bagus buat Pengecoran, Plesteran Dinding, Adukan Pondasi dan Adukan Pasangan Bata Pasir ini yaitu pasir untuk Cor yaitu butiran-butiran mineral keras dan tajam berukuran antara 0,075 – 5 mm, jika terdapat butiran berukuran lebih kecil dari 0,063 mm tidak lebih dari 5% berat. Pasir ini yaitu pasir untuk Beton sering kali dimanfaatkan untuk pekerjaan cor-coran struktur seperti kolom, balok dan pelat lantai.
 
@@ -52,9 +51,9 @@ Harga Pasir Ekstra Beton Free Ongkir Ke Krukut Depok Sekiranya anda sebagai kons
 Pasir nomor satu dari kp. jebrod cianjur jawa barat yang digunakan oleh indocement serta perusahaan batching plant lainnya sebagai bahan dasar produksi readymix concrete. Pasir ini paling dianjurkan untuk cor sebab irit semen juga mempunyai kandungan lumpur yang benar-benar rendah dibawah delapan %. warnanya Hitam abu tua atau hitam seperti hitamnya batu kali, ada juga yang hitam kemerahan atau hitam terasi
 
 3. **Pasir Hitam Cor Cimangkok.** Pasir dari Lokasi penambangannya di cimangkok sukabumi jawa barat yang masih masuk pada klasifikasi pasir hitam nomor satu di jabar, warnanya hitam kecoklatan layak untuk cor, pasang pondasi dan bata
-    
+
     ![Harga Pasir Ekstra Beton Free Ongkir Ke Krukut Depok](/images/info/pasir-hitam-8.jpg)
-    
+
 4. **Pasir Hitam Rigid Cimalaka Subang Bandung.**
 
 Pasir paling unggul yang berwarna hitam kebauan ada juga yang berwarna hitam abu tua. Banyak di gunakan untuk Cor, pasang dan keperluan lainnya. Ditambang di kampung cimalaka
@@ -90,9 +89,9 @@ Kecuali Rangkasbitung, Banten juga mempunyai lokasi pnembangan pasir lain sepert
 Masih dari Lokasi di banten, pasir kelas tiga ini yaitu pasir yang banyak diterapkan di proyek proyek perumahan atau cluster sebab harganya yang murah juga mutu yang bagus. Warna pasir ini hitam kecoklatan dan keabuan sungguh-sungguh dianjurkan untuk pasang pondasi, bata, batu dan lainnya
 
 27. **Pasir Hitam Beton Bohlam Sukabumi.** Pasir dari Daerah kp. bohlam di sukabumi berwarna hitam kecoklatan, sungguh-sungguh bagus untuk pasang bata, pondasi dan sebagainya sebagai pilihan pasir mutu tidak diragukan dan ekonomis
-    
+
     ![Harga Pasir Ekstra Beton Free Ongkir Ke Krukut Depok](/images/info/pasir-hitam-9.jpg)
-    
+
 28. **Pasir Cor Galunggung.**
 
 Pasir ini merupakan pasir hitam mutu paling unggul dikelasnya awam diaplikasikan oleh pabrik pengolahan beton readymix juga perusahan pembuatan precast dan kerap juga diaplikasikan untuk bahan pembuatan batako press hitam, paving block dan lain-lain. Pasir ini ditambang dari Tasikmalaya jabar.
@@ -100,21 +99,18 @@ Pasir ini merupakan pasir hitam mutu paling unggul dikelasnya awam diaplikasikan
 ![Harga Pasir Ekstra Beton Free Ongkir Ke Krukut Depok](/images/info/pasir-hitam-5.jpg)
 
 - ### Pasir Untuk Pemasangan Batu, Pondasi, Bata, Ubin, Plester Di Krukut Depok
-    
 
 ![Harga Pasir Ekstra Beton Free Ongkir Ke Krukut Depok](/images/info/pasir-putih3.jpg)
 
 Pasir ini lebih halus lagi diperbandingkan oleh pasir beton. seandainya anda mengepal pasir ini maka akan menggumpal dan tidak akan hancur kembali. pasir pasang lazim nya di pakai untuk campuran pasir beton supaya tak terlampau kasar dan dapat di gunakan untuk plesteran dinding.
 
 - ### Pasir Kualitas rendah Untuk Dasaran Pemasangan Keramik Di Krukut Depok
-    
 
 Di Antara ke dua pasir diatas pasir model ini lebih halus lagi, jika anda mengepal nya karenanya akan menggumpal dan tidak akan hancur lagi. tapi pasir macam
 
 Pada umum nya pasir ini nyaris sama dengan pasir beton akan tetapi pasir ini mempunyai tingkat kekasaran yang tinggi, butiran - butiran nya lumayan besar dan agak banyak batuan nya. pada umumnya pasir macam ini baik untuk bahan dasaran pemasangan keramik
 
 - ### Pasir Putih Kadar Lumpur Rendah Untuk Lapangan Voly Di Krukut Depok
-    
 
 1. **Pasir Putih Bangka**
 

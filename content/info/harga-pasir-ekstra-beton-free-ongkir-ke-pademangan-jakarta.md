@@ -25,7 +25,7 @@ berdasarkan Standar Nasional Indonesia ( SK SNI - S - 04 - 1989 - F ; 28) di tut
 
 Persyaratan Pasir yg Bagus Untuk Bangunan
 
-1.  Agregat Halus semestinya terdiri dari butiran yg tajam dan keras dengan indeks kekerasan <2.2
+1.  Agregat Halus semestinya terdiri dari butiran yg tajam dan keras dengan indeks kekerasan <2.2
 2. Bila diterapkan Natrium Sulfat bagian hancur maksimal 12 persen
 3. jikalau dipakai Magnesium Sulfat bagian halus maksimal sepuluh persen
 4. Tak boleh berisi lumpur lebih dari lima %
@@ -41,7 +41,6 @@ Persyaratan Pasir yg Bagus Untuk Bangunan
 sesudah tahu persis persyaratan pasir tuk suatu Konstruksi Bangunan, sekarang ini kita bahas Jenis - model Pasir Untuk Konstruksi penjelasan nya berikut ini:
 
 - ### Pasir Rigid Di Pademangan Jakarta
-    
 
 Pasir ini biasa nya berwarna keabu-abuan dan tingkat kekerasan butiran nya lumayan tinggi. Tapi jika anda mengepal nya dengan tangan tak akan menggumpal dan akan buyar kembali. ragam pasir ini sungguh-sungguh lah bagus tuk Pengecoran, Plesteran Dinding, Adukan Pondasi dan Adukan Pasangan Bata Pasir ini yaitu pasir untuk Beton adalah butiran-butiran mineral keras dan tajam berukuran antara 0,075 – 5 mm, kalau terdapat butiran berukuran lebih kecil dari 0,063 mm tidak lebih dari 5% berat. Pasir ini yaitu pasir untuk Rigid tak jarang dimanfaatkan untuk pekerjaan cor-coran struktur seperti kolom, balok dan pelat lantai.
 
@@ -52,9 +51,9 @@ Harga Pasir Ekstra Beton Free Ongkir Ke Pademangan Jakarta Sekiranya anda sebaga
 Pasir nomor satu asal kp. jebrod cianjur jawa barat yang dipakai oleh indocement serta perusahaan batching plant lainnya sebagai bahan dasar produksi readymix concrete. Pasir ini paling dianjurkan untuk cor sebab irit semen juga mempunyai kandungan lumpur yang amat rendah dibawah 8%. warnanya Hitam abu tua atau hitam seperti hitamnya batu kali, ada juga yang hitam kemerahan atau hitam terasi
 
 3. **Pasir Hitam Cor Cimangkok.** Pasir dari Lokasi penambangannya di cimangkok sukabumi jabar yang masih masuk terhadap kategori pasir hitam paling unggul di jawa barat, warnanya hitam kecoklatan layak untuk cor, pasang pondasi dan bata
-    
+
     ![Harga Pasir Ekstra Beton Free Ongkir Ke Pademangan Jakarta](/images/info/pasir-hitam-2.jpg)
-    
+
 4. **Pasir Hitam Beton Cimalaka Subang Bandung.**
 
 Pasir terbaik yang berwarna hitam kebauan ada juga yang berwarna hitam abu tua. Banyak di gunakan untuk Cor, pasang dan keperluan lainnya. Ditambang di kampung cimalaka
@@ -90,9 +89,9 @@ Kecuali Rangkasbitung, Banten juga mempunyai lokasi pnembangan pasir lain sepert
 Masih dari Lokasi di banten, pasir kelas tiga ini yakni pasir yang banyak diterapkan di proyek proyek perumahan atau cluster sebab harganya yang murah juga kwalitas yang baik. Warna pasir ini hitam kecoklatan dan keabuan sungguh-sungguh dianjurkan untuk pasang pondasi, bata, batu dan lainnya
 
 27. **Pasir Hitam Cor Bohlam Sukabumi.** Pasir dari Lokasi kp. bohlam di sukabumi berwarna hitam kecoklatan, betul-betul bagus untuk pasang bata, pondasi dan lainnya sebagai pilihan pasir mutu baik dan tidak mahal
-    
+
     ![Harga Pasir Ekstra Beton Free Ongkir Ke Pademangan Jakarta](/images/info/pasir-hitam-2.jpg)
-    
+
 28. **Pasir Rigid Galunggung.**
 
 Pasir ini yakni pasir hitam mutu paling unggul dikelasnya lazim diterapkan oleh pabrik pengolahan beton readymix juga perusahan pembuatan precast dan tak jarang juga diaplikasikan untuk bahan pembuatan batako press hitam, paving block dsb. Pasir ini ditambang dari Tasikmalaya jabar.
@@ -100,21 +99,18 @@ Pasir ini yakni pasir hitam mutu paling unggul dikelasnya lazim diterapkan oleh 
 ![Harga Pasir Ekstra Beton Free Ongkir Ke Pademangan Jakarta](/images/info/jual-pasir-cor-hitam.jpg)
 
 - ### Pasir Untuk Pemasangan Batu, Pondasi, Bata, Ubin, Plester Di Pademangan Jakarta
-    
 
 ![Harga Pasir Ekstra Beton Free Ongkir Ke Pademangan Jakarta](/images/info/pasir-hitam-11.jpg)
 
 Pasir ini lebih halus lagi diperbandingkan oleh pasir beton. bila anda mengepal pasir ini karenanya akan menggumpal dan tidak akan buyar kembali. pasir pasang umum nya di manfaatkan tuk adukan pasir beton supaya tak terlalu kasar dan bisa di gunakan untuk plesteran dinding.
 
 - ### Pasir Urug Untuk pengurugan lantai Di Pademangan Jakarta
-    
 
 Di Antara ke dua pasir diatas pasir macam ini lebih halus lagi, apabila anda mengepal nya karenanya akan menggumpal dan tak akan buyar lagi. tapi pasir macam
 
 Pada nya pasir ini nyaris sama dengan pasir beton akan melainkan pasir ini mempunyai tingkat kekasaran yang tinggi, butiran - butiran nya lumayan besar dan agak banyak batuan nya. pada biasanya pasir model ini bagus untuk bahan Pembuatan Batako
 
 - ### Pasir Putih Kadar Lumpur Rendah Untuk Pasang Keramik Di Pademangan Jakarta
-    
 
 1. **Pasir Putih Bangka**
 

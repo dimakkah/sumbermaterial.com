@@ -25,7 +25,7 @@ Berdasarkan Standar Nasional Indonesia ( SK SNI - S - 04 - 1989 - F ; 28) di seb
 
 Persyaratan Pasir yang Baik buat Konstruksi
 
-1.  Agregat Halus wajib terdiri dari butiran yang tajam dan keras dengan indeks kekerasan <2.2
+1.  Agregat Halus wajib terdiri dari butiran yang tajam dan keras dengan indeks kekerasan <2.2
 2. jikalau dimanfaatkan Natrium Sulfat komponen hancur maksimal 12 persen
 3. Jikalau dipakai Magnesium Sulfat komponen halus optimal sepuluh persen
 4. Tak boleh berisi tanah lebih dari 5%
@@ -41,7 +41,6 @@ Persyaratan Pasir yang Baik buat Konstruksi
 Sesudah mengetahui syarat pasir buat sebuah Konstruksi Bangunan, pada saat ini kita bahas Jenis - Jenis Pasir Untuk Konstruksi Bangunan penjelasan nya berikut ini:
 
 - ### Pasir Model Rigid dan Daerah Pengambilannya Di Rambtan Jakarta
-    
 
 Pasir ini biasa nya berwarna keabu-abuan dan tingkat pecahan butiran nya lumayan tinggi. Tetapi kalau anda mengepal nya dengan tangan tak akan lengket dan akan hancur kembali. ragam pasir ini sungguh-sungguh lah baik tuk Pengecoran, Plesteran Dinding, Adukan Pondasi dan Adukan Pasangan Bata Pasir ini yaitu pasir untuk Cor yaitu butiran-butiran mineral keras dan tajam berukuran antara 0,075 – 5 mm, bila terdapat butiran berukuran lebih kecil dari 0,063 mm tak lebih dari 5% berat. Pasir ini yaitu pasir untuk Beton hampir tak jarang diaplikasikan untuk profesi cor-coran struktur seperti kolom, balok dan pelat lantai.
 
@@ -59,21 +58,18 @@ Untuk memperoleh kualitas Rigid yang optimal maka pasir wajib bisa memenuhi pras
 ![Harga Pasir Putih Bangka Free Ongkir Ke Rambtan Jakarta](/images/info/jual-pasir-cor-hitam.jpg)
 
 - ### Pasir Pasang Di Rambtan Jakarta
-    
 
 ![Harga Pasir Putih Bangka Free Ongkir Ke Rambtan Jakarta](/images/info/pasir-hitam-11.jpg)
 
 Pasir ini ekstra halus lagi diperbandingkan oleh pasir beton. sekiranya kamu mengepal pasir ini maka akan menggumpal dan tak akan hancur kembali. pasir pasang lazim nya di gunakan buat adukan pasir beton supaya tidak terlampau kasar dan dapat di manfaatkan untuk plesteran dinding.
 
 - ### Pasir Elod Untuk pemadatan lantai Di Rambtan Jakarta
-    
 
 Di Antara ke dua pasir diatas pasir jenis ini lebih halus lagi, sekiranya kalian mengepal nya maka akan menggumpal dan tidak akan hancur lagi. tapi pasir ragam tidak bagus untuk di buat sebagai bahan bangunan. pasir tipe ini pada nya di manfaatkan tuk Bahan Pembuatan Batako
 
 Pada nya pasir ini nyaris sama dengan pasir beton namun pasir ini mempunyai tingkat kekasaran yg tinggi, butiran - butiran nya lumayan besar dan agak banyak batuan nya. pada lazimnya pasir jenis ini bagus tuk bahan Pembuatan Batako
 
 - ### Pasir Putih Halus Untuk Pelester Di Rambtan Jakarta
-    
 
 1. **Pasir Putih Bangka**
 

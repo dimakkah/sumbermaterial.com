@@ -25,7 +25,7 @@ berdasarkan Standar Nasional Indonesia ( SK SNI - S - 04 - 1989 - F ; 28) di tut
 
 Prasyarat Pasir yang Bagus tuk Konstruksi Bangunan
 
-1.  Agregat Halus patut terdiri dari butiran yg tajam dan keras dengan indeks kekerasan <2.2
+1.  Agregat Halus patut terdiri dari butiran yg tajam dan keras dengan indeks kekerasan <2.2
 2. bila dipakai Natrium Sulfat bagian hancur optimal 12%
 3. kalau diterapkan Magnesium Sulfat komponen halus optimal 5 persen
 4. Tak boleh berisi clay lebih dari 5 persen
@@ -41,7 +41,6 @@ Prasyarat Pasir yang Bagus tuk Konstruksi Bangunan
 sesudah memahami persyaratan pasir buat suatu Bangunan, saat ini kita bahas model - model Pasir Untuk Konstruksi Bangunan penjelasan nya berikut ini:
 
 - ### Pasir Jenis Beton dan Lokasi Pengambilannya Di Cikarang Pusat Bekasi
-    
 
 Pasir ini umum nya berwarna hitam kemerahan dan tingkat pecahan butiran nya cukup tinggi. Tapi sekiranya anda mengepal nya dengan tangan tak akan lengket dan akan hancur kembali. jenis pasir ini sangat lah baik untuk Pengecoran, Plesteran Dinding, Adukan Pondasi dan Adukan Pasangan Bata Pasir ini yaitu pasir untuk Beton ialah butiran-butiran mineral keras dan tajam berukuran antara 0,075 – 5 mm, sekiranya terdapat butiran berukuran lebih kecil dari 0,063 mm tidak lebih dari 5% berat. Pasir ini yaitu pasir untuk Beton tak jarang diterapkan untuk profesi cor-coran struktur seperti kolom, balok dan pelat lantai.
 
@@ -59,21 +58,18 @@ Untuk mendapatkan kekokohan Cor yang optimal maka pasir mesti bisa memenuhi pers
 ![Harga Pasir Putih Bangka Free Ongkir Ke Cikarang Pusat Bekasi](/images/info/pasir-hitam-2.jpg)
 
 - ### Pasir Pasang Di Cikarang Pusat Bekasi
-    
 
 ![Harga Pasir Putih Bangka Free Ongkir Ke Cikarang Pusat Bekasi](/images/info/jual-pasir-mundu.jpg)
 
 Pasir ini lebih halus lagi dibandingi oleh pasir beton. sekiranya anda mengepal pasir ini maka akan menggumpal dan tak akan buyar kembali. pasir pasang umum nya di gunakan buat campuran pasir beton supaya tak terlalu kasar dan bisa di pakai untuk plesteran dinding.
 
 - ### Pasir Elod Untuk Pembuatan Batako Di Cikarang Pusat Bekasi
-    
 
 Di Antara ke dua pasir diatas pasir ragam ini lebih halus lagi, bila kamu mengepal nya akan menggumpal dan tidak akan hancur lagi. tetapi pasir jenis
 
 Pada lazim nya pasir ini nyaris sama dengan pasir beton akan tetapi pasir ini mempunyai tingkat kekasaran yg tinggi, butiran - butiran nya lumayan besar dan agak banyak batuan nya. pada umumnya pasir model ini bagus untuk bahan dasaran pemasangan keramik
 
 - ### Pasir Putih Tanpa Batu Untuk Taman Bermain Di Cikarang Pusat Bekasi
-    
 
 1. **Pasir Putih Bangka**
 

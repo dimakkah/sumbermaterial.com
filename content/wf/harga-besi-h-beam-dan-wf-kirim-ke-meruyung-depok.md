@@ -50,13 +50,13 @@ d. tidak bisa menjangkau tempat yang sempit. Mengingat Besi WF ini berukuran pan
 
 ### Kelebihan Dari Besi WF Di Meruyung Depok
 
-1\. Dapat mengurangi waktu dalam pembangunan sebuah konstruksi bangunan, menghemat waktu dan juga mengurangi ongkos dan tenaga tukang.
+1. Dapat mengurangi waktu dalam pembangunan sebuah konstruksi bangunan, menghemat waktu dan juga mengurangi ongkos dan tenaga tukang.
 
-2\. Dapat menopang bobot yang sungguh-sungguh berat, tdk mudah memuai dan lebih simple penerapannya dibanding dengan material struktural lainnya.
+2. Dapat menopang bobot yang sungguh-sungguh berat, tdk mudah memuai dan lebih simple penerapannya dibanding dengan material struktural lainnya.
 
-3\. Mempunyai fleksibilitas yang tinggi. Sehingga struktur bangunan yang dihasilkan dari Besi WF ini menjadi lebih kuat tidak gampang bergeser, tidak gampang runtuh ataupun goyang. Amat pantas untuk ragam bangunan diatas tanah yang labil atau sering terjadi gempa.
+3. Mempunyai fleksibilitas yang tinggi. Sehingga struktur bangunan yang dihasilkan dari Besi WF ini menjadi lebih kuat tidak gampang bergeser, tidak gampang runtuh ataupun goyang. Amat pantas untuk ragam bangunan diatas tanah yang labil atau sering terjadi gempa.
 
-4\. Lebih hemat sebab struktur bangunan yang mengaplikasikan Besi WF akan mempunyai ketahanan yang cukup lama bahkan sampai ratusan tahun. Tentunya ini ialah investasi yang sungguh-sungguh murah apabila kita bandingkan dengan waktu gunakan. Bahkan bangunan yang dibangun dengan tulangan Besi WF bisa kita wariskan terhadap buah hati cucu kita.
+4. Lebih hemat sebab struktur bangunan yang mengaplikasikan Besi WF akan mempunyai ketahanan yang cukup lama bahkan sampai ratusan tahun. Tentunya ini ialah investasi yang sungguh-sungguh murah apabila kita bandingkan dengan waktu gunakan. Bahkan bangunan yang dibangun dengan tulangan Besi WF bisa kita wariskan terhadap buah hati cucu kita.
 
 ## Mengetahui Besi H Beam Di Meruyung Depok
 
@@ -72,15 +72,15 @@ Sama seperti besi yang kami paparkan sebelumnya yaitu Besi WF, besi H-Beam bahka
 
 ### Keunggulan Besi H Beam Di Meruyung Depok
 
-1\. Gampang untuk didapatkan. Banyak distributor besi yang menyediakan stok besi H-Beam berbagai ukuran. Sehingga besi H-Beam ini sungguh-sungguh gampang untuk diperoleh, tdk sulit untuk menemukan distributor besi yang memasarkan besi H Beam.
+1. Gampang untuk didapatkan. Banyak distributor besi yang menyediakan stok besi H-Beam berbagai ukuran. Sehingga besi H-Beam ini sungguh-sungguh gampang untuk diperoleh, tdk sulit untuk menemukan distributor besi yang memasarkan besi H Beam.
 
-2\. Mudah Dalam Pemasangan. Banyak tukang ahli dalam pemasangan besi H Beam. Meskipun besi H-Beam ini semestinya dipasang oleh tukang yang ahli namun tukang yang ahli dalam memasang besi H Beam ini sangat banyak kita temui hari ini. Sehingga tdk perlu dikhawatirkan lagi proses pemasangannya.
+2. Mudah Dalam Pemasangan. Banyak tukang ahli dalam pemasangan besi H Beam. Meskipun besi H-Beam ini semestinya dipasang oleh tukang yang ahli namun tukang yang ahli dalam memasang besi H Beam ini sangat banyak kita temui hari ini. Sehingga tdk perlu dikhawatirkan lagi proses pemasangannya.
 
-3\. Mempunyai kekuatan yang tidak diragukan lagi. Besi H Beam telah teruji selama bertahun-tahun dalam kontruksi bangunan. Baik skala kecil ataupun skala besar dan terbilang betul-betul tahan lama sekiranya dibandingkan dengan material lainnya. Dapat bertahan hingga puluhan sampai ratusan tahun.
+3. Mempunyai kekuatan yang tidak diragukan lagi. Besi H Beam telah teruji selama bertahun-tahun dalam kontruksi bangunan. Baik skala kecil ataupun skala besar dan terbilang betul-betul tahan lama sekiranya dibandingkan dengan material lainnya. Dapat bertahan hingga puluhan sampai ratusan tahun.
 
-4\. Gampang dalam pemeliharaannya. Bangunan yang memakai besi H Beam sebagai struktur rangka bangunannya akan sangat mudah dalam melakukan perawatannya. tdk perlu pengecatan dengan cat khusus maupun pembersihan setiap saat.
+4. Gampang dalam pemeliharaannya. Bangunan yang memakai besi H Beam sebagai struktur rangka bangunannya akan sangat mudah dalam melakukan perawatannya. tdk perlu pengecatan dengan cat khusus maupun pembersihan setiap saat.
 
-5\. Menghemat penerapan material lainnya, seperti pemakaian bekisting, pemakaian perancah atau steger dan juga material pasir. Besi H Beam Tdk membutuhkan material pasir dalam pemakaiannya.
+5. Menghemat penerapan material lainnya, seperti pemakaian bekisting, pemakaian perancah atau steger dan juga material pasir. Besi H Beam Tdk membutuhkan material pasir dalam pemakaiannya.
 
 ### Kekurangan Dari Besi H Beam Di Meruyung Depok
 

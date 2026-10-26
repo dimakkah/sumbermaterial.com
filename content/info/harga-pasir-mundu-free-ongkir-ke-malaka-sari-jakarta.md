@@ -25,7 +25,7 @@ menurut Standar Nasional Indonesia ( SK SNI - S - 04 - 1989 - F ; 28) di tuturka
 
 Prasyarat Pasir yg Baik buat Konstruksi Bangunan
 
-1.  Agregat Halus semestinya terdiri dari butiran yang tajam dan keras dengan indeks kekerasan <2.2
+1.  Agregat Halus semestinya terdiri dari butiran yang tajam dan keras dengan indeks kekerasan <2.2
 2. bila digunakan Natrium Sulfat komponen hancur optimal 12 persen
 3. bila diterapkan Magnesium Sulfat komponen halus optimal sepuluh persen
 4. Tak boleh mengandung tanah lebih dari lima persen
@@ -41,7 +41,6 @@ Prasyarat Pasir yg Baik buat Konstruksi Bangunan
 setelah mengenal prasyarat pasir buat suatu Konstruksi, pada saat ini kita bahas model - Tipe Pasir Untuk Konstruksi penjelasan nya sbb:
 
 - ### Pasir Cor Di Malaka Sari Jakarta
-    
 
 Pasir ini lazim nya berwarna hitam gelap dan tingkat pecahan butiran nya cukup tinggi. Tetapi seandainya anda mengepal nya dengan tangan tak akan lengket dan akan hancur kembali. macam pasir ini amat lah baik buat Pengecoran, Plesteran Dinding, Adukan Pondasi dan Adukan Pasangan Bata Pasir ini yaitu pasir untuk Rigid merupakan butiran-butiran mineral keras dan tajam berukuran antara 0,075 – 5 mm, jika terdapat butiran berukuran lebih kecil dari 0,063 mm tidak lebih dari 5% berat. Pasir ini yaitu pasir untuk Beton sering diaplikasikan untuk profesi cor-coran struktur seperti kolom, balok dan pelat lantai.
 
@@ -52,9 +51,9 @@ Harga Pasir Mundu Free Ongkir Ke Malaka Sari Jakarta Sekiranya anda sebagai kons
 Pasir terbaik asli kp. jebrod cianjur jawa barat yang digunakan oleh indocement serta perusahaan batching plant lainnya sebagai bahan dasar produksi readymix concrete. Pasir ini paling dianjurkan untuk cor sebab irit semen juga mempunyai kandungan lumpur yang betul-betul rendah dibawah delapan %. warnanya Hitam abu tua atau hitam seperti hitamnya batu kali, ada juga yang hitam kemerahan atau hitam terasi
 
 3. **Pasir Hitam Cor Cimangkok.** Pasir dari Daerah penambangannya di cimangkok sukabumi jawa barat yang masih masuk pada golongan pasir hitam nomor satu di jabar, warnanya hitam kecoklatan sesuai untuk cor, pasang pondasi dan bata
-    
+
     ![Harga Pasir Mundu Free Ongkir Ke Malaka Sari Jakarta](/images/info/pasir-hitam-2.jpg)
-    
+
 4. **Pasir Hitam Beton Cimalaka Subang Bandung.**
 
 Pasir paling unggul yang berwarna hitam kebauan ada juga yang berwarna hitam abu tua. Banyak di pakai untuk Cor, pasang dan keperluan lainnya. Ditambang di Daerah cimalaka
@@ -90,9 +89,9 @@ Kecuali Rangkasbitung, Banten juga mempunyai lokasi pnembangan pasir lain sepert
 Masih dari Tempat di banten, pasir kelas tiga ini yakni pasir yang banyak digunakan di proyek proyek perumahan atau cluster sebab harganya yang murah juga kwalitas yang baik. Warna pasir ini hitam kecoklatan dan keabuan benar-benar dianjurkan untuk pasang pondasi, bata, batu dsb
 
 27. **Pasir Hitam Rigid Bohlam Sukabumi.** Pasir dari Daerah kp. bohlam di sukabumi berwarna hitam kecoklatan, betul-betul bagus untuk pasang bata, pondasi dan lain-lain sebagai pilihan pasir mutu unggul dan tidak mahal
-    
+
     ![Harga Pasir Mundu Free Ongkir Ke Malaka Sari Jakarta](/images/info/pasir-hitam-1.jpg)
-    
+
 28. **Pasir Cor Galunggung.**
 
 Pasir ini yaitu pasir hitam kwalitas paling unggul dikelasnya lazim diaplikasikan oleh pabrik pengolahan beton readymix juga perusahan pembuatan precast dan acap kali juga diaplikasikan untuk bahan pembuatan batako press hitam, paving block dan lainnya. Pasir ini ditambang dari Tasikmalaya jabar.
@@ -100,21 +99,18 @@ Pasir ini yaitu pasir hitam kwalitas paling unggul dikelasnya lazim diaplikasika
 ![Harga Pasir Mundu Free Ongkir Ke Malaka Sari Jakarta](/images/info/jual-pasir-cor-hitam.jpg)
 
 - ### Pasir Untuk Pasang Batu, Pondasi, Bata, Ubin, Plester Di Malaka Sari Jakarta
-    
 
 ![Harga Pasir Mundu Free Ongkir Ke Malaka Sari Jakarta](/images/info/pasir-hitam-4.jpg)
 
 Pasir ini ekstra halus lagi dibandingi oleh pasir beton. jika anda mengepal pasir ini karenanya akan menggumpal dan tak akan buyar kembali. pasir pasang biasa nya di pakai untuk campuran pasir beton supaya tak terlampau kasar dan dapat di gunakan untuk plesteran dinding.
 
 - ### Pasir Kualitas rendah Untuk Dasaran Pemasangan Granit Di Malaka Sari Jakarta
-    
 
 Di Antara ke dua pasir diatas pasir ragam ini lebih halus lagi, bila kalian mengepal nya karenanya akan menggumpal dan tak akan buyar lagi. tetapi pasir ragam tak bagus tuk di buat sebagai bahan bangunan. pasir jenis ini pada biasa nya di pakai untuk Bahan Pembuatan Batako
 
 Pada biasa nya pasir ini nyaris sama dgn pasir beton akan namun pasir ini mempunyai tingkat kekasaran yg tinggi, butiran - butiran nya cukup besar dan agak banyak batuan nya. pada lazimnya pasir model ini bagus untuk bahan pengurugan lantai
 
 - ### Pasir Putih Tanpa Batu Untuk Pasang Bata Di Malaka Sari Jakarta
-    
 
 1. **Pasir Putih Bangka**
 

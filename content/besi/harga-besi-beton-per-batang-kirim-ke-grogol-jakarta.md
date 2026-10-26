@@ -18,19 +18,19 @@ Tanpa adanya besi karenanya sebuah bangunan akan gampang retak ketika ada guncan
 
 ## Inilah Jenis-jenis Besi Di Grogol Jakarta
 
-### 1\. Besi Polos Banci 4mm, 6mm, 8mm, 10mm, 12mm, 16mm, 18mm, 19mm Di Grogol Jakarta
+### 1. Besi Polos Banci 4mm, 6mm, 8mm, 10mm, 12mm, 16mm, 18mm, 19mm Di Grogol Jakarta
 
 Besi polos mempunyai ukuran mulai dari 8 mm sampai 25 mm dan memiliki 6 meter panjang tekuk dan 12 meter panjang lurus. Besi beton ini telah mulai digunakan sebagai bahan utama di Indonesia pada tahun 1950. Besi ini acap kali kali diaplikasikan untuk membangun rumah. Bahan yang gampang diterapkan sehingga selain dari dipakai untuk membangun rumah juga dipakai untuk membangun trowongan, bendungan, dan lainnya. Dikala digunakan untuk membangun rumah bertingkat maka biasanya besi polos ini digunakan untuk struktur rangkaian besi balok, dinding, dan sloof. Besi beton polos ini memiliki keunggulan besi polos ini tegangannya lebih tinggi dari pada besi lainnya. Oleh karena itu besi ini terkesan lebih kuat dan tahan beban. Sehingga penerapan besi polos ini benar-benar pantas untuk membangun gedung, jembatan, dan bangunan lainnya. Besi polos ini terbuat dari bahan seperti billet dan skrap. Billet merupakan baja batangan yang pelaksanaan pembuatannya dengan mengecor biji besi. Jikalau skrap yakni besi bekas yang dihancurkan dengan temperature tertentu. Selain dari itu kalau anda menerapkan besi polos ini tidak memerlukan budget pemeliharaan. Kian lama diaplikasikan karenanya besi ini akan kian kokoh.
 
-### 2\. Besi Ulir SNI 4mm, 6mm, 8mm, 10mm, 12mm, 16mm, 18mm, 19mm Di Grogol Jakarta
+### 2. Besi Ulir SNI 4mm, 6mm, 8mm, 10mm, 12mm, 16mm, 18mm, 19mm Di Grogol Jakarta
 
 Selaras dengan namanya besi beton ulir ini adalah besi yang tampilannya mengulir. Pada permukaannya bercorak spiral yang memiliki tujuan untuk menyatukan tulangan dengan unsur bahan bangunan yang dibentuk oleh besi beton. Besi ulir ini mulai populer digunakan pada abad ke-20 di Amerika dan mulai populer di Indonesia pada tahun1950. Mengingat dikala mengaplikasikan besi ulir ini mempunyai banyak kelebihan mulai dari ketahanan bangunan serta lebih hemat biaya dan efisien. Produk besi ulir ini menjadi andalan pasar karena mempunyai kualitas yang terbaik di Indonesia dan mempunyai harga yang tinggi kalau dibandingi dengan produk lainnya.
 
-### 3\. Besi WF dan H-Beam Di Grogol Jakarta
+### 3. Besi WF dan H-Beam Di Grogol Jakarta
 
 Besi Wide Flange (WF) ini yaitu salah satu baja dengan struktural yang paling banyak dipakai untuk kontruksi baja. Seandainya anda memerlukan besi baja Wide Flage dalam quantitas yang banyak atau sedikit maka silahkan cari supplier besi yang terpercaya. Besi WF ini mempunyai ketahanan yang kokoh dan kuat pada ketahanan tarik atau tekan. Karenanya dari itu besi ini menjadi unsur struktur yang memiliki batasan yang sempurna untuk menopang beban tekan aksial, tarik aksial, dan lentur dengan fasilitas pembangunan strukturnya. Baja Wide Flange (WF) ini mempunyai kepadatan yang tinggi tetapi rasio berat antara kekuatan komponen Baja WF yang tinggi tapi tdk begitu berat yang berkaitan dengan kapasitas bobot. Selain itu memastikan jika kontruksi yang dipakai secara efisien. Sistem kontruksi baja WF ini kombinasi dari unsur struktur yang kompleks. Pada struktur ini memiliki tujuan membawa beban yang aman dan efektif yang bekerja pada sebuah bangunan dan dikirim pada pondasinya. Gaya dan beban yang bekerja ini termasuk beban pertikal, perbedaan temperatur, horizontal, getaran dan lainnya. Pada sebuah bangunan baja, karenanya ada unsure yang berguna menahan gaya lateral dan gravitasi.
 
-### 4\. Besi Holow Di Grogol Jakarta
+### 4. Besi Holow Di Grogol Jakarta
 
 Besi hollow yaitu besi yang digunakan sebagai pembuatan kanopi, pagar, pintu besi dan lainnya. Bahan baku pembuatan besi Hollow ini biasanya terbuat dari stainless, galvanis, dan besi baja. Tetapi yang paling kerap kali dipakai sebagai bahan baku ialah galvanis. Terdapat kelebihan yang anda dapatkan saat memasang kanopi, menerapkan pagar, teralis memakai besi hollow:
 

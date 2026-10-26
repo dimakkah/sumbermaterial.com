@@ -21,13 +21,13 @@ Memasang baja ringan untuk bangunan Anda tidak serumit yang dibayangkan. Anda cu
 
 Sebelum menghubungi kami, ada baiknya Anda mengetahui beberapa alasan mengapa baja ringan menjadi pilihan yang tepat untuk bangunan Anda:
 
- **Ramah Lingkungan:** Penggunaan baja ringan mengurangi kebutuhan akan kayu, sehingga membantu melestarikan hutan dan menjaga kelestarian alam.
- **Lebih Ekonomis:** Dibandingkan dengan kayu, baja ringan menawarkan solusi yang lebih terjangkau, tanpa mengorbankan kualitas dan kekuatan.
- **Ringan dan Kuat:** Meskipun ringan, baja ringan memiliki kekuatan yang luar biasa, mampu menahan tekanan dan beban dengan optimal.
- **Perawatan Minimal:** Baja ringan tidak memerlukan perawatan rutin yang memakan waktu dan biaya, menjadikannya pilihan yang praktis.
- **Pemasangan Cepat:** Proses pemasangan baja ringan relatif cepat dibandingkan dengan material lainnya, menghemat waktu dan tenaga Anda.
- **Kualitas Terjamin:** Baja ringan yang kami gunakan terbuat dari zinc dan aluminium dengan standar keamanan 4 kali lebih baik daripada baja biasa, mampu menahan beban berkilo-kilo.
- **Tahan Rayap:** Baja ringan kebal terhadap serangan rayap, memberikan perlindungan jangka panjang untuk bangunan Anda.
+- **Ramah Lingkungan:** Penggunaan baja ringan mengurangi kebutuhan akan kayu, sehingga membantu melestarikan hutan dan menjaga kelestarian alam.
+- **Lebih Ekonomis:** Dibandingkan dengan kayu, baja ringan menawarkan solusi yang lebih terjangkau, tanpa mengorbankan kualitas dan kekuatan.
+- **Ringan dan Kuat:** Meskipun ringan, baja ringan memiliki kekuatan yang luar biasa, mampu menahan tekanan dan beban dengan optimal.
+- **Perawatan Minimal:** Baja ringan tidak memerlukan perawatan rutin yang memakan waktu dan biaya, menjadikannya pilihan yang praktis.
+- **Pemasangan Cepat:** Proses pemasangan baja ringan relatif cepat dibandingkan dengan material lainnya, menghemat waktu dan tenaga Anda.
+- **Kualitas Terjamin:** Baja ringan yang kami gunakan terbuat dari zinc dan aluminium dengan standar keamanan 4 kali lebih baik daripada baja biasa, mampu menahan beban berkilo-kilo.
+- **Tahan Rayap:** Baja ringan kebal terhadap serangan rayap, memberikan perlindungan jangka panjang untuk bangunan Anda.
 
 ## Sistem Hitung Luas Rangka Baja Ringan Di Pasawahan Purwakarta
 
@@ -60,15 +60,15 @@ Mendiskusikan biaya pemasangan atap baja ringan memang membutuhkan informasi yan
 
 ### Parameter Besaran Harga Jasa Pasang Baja Ringan
 
-### 1. Pembuatan Sketsa Desain
+#### 1. Pembuatan Sketsa Desain
 
 Biaya juga dipengaruhi oleh desain atau pola sketsa yang dibuat oleh tim teknisi kami. Sketsa ini penting untuk menentukan kebutuhan jumlah baja ringan secara tepat, sehingga tidak ada material yang terbuang sia-sia. Pembuatan sketsa juga termasuk dalam perhitungan biaya pemasangan baja ringan.
 
-### 2. Menghitung Kebutuhan Rangka
+#### 2. Menghitung Kebutuhan Rangka
 
 Setelah Anda memiliki sketsa pemasangan, tahap selanjutnya adalah menghitung kebutuhan rangka yang harus disiapkan. Anda dapat berkonsultasi dengan tim teknisi kami mengenai waktu dan kualitas setiap material. Diskusikan secara menyeluruh untuk mendapatkan material yang paling sesuai dengan kebutuhan Anda.
 
-### 3. Menghitung Budget yang Dibutuhkan
+#### 3. Menghitung Budget yang Dibutuhkan
 
 Setelah pembuatan sketsa dan perhitungan rangka selesai, Anda dapat mendiskusikan perkiraan biaya total pemasangan baja ringan. Budget yang diperlukan bergantung pada jumlah rangka, luas area, material tambahan, upah teknisi, dan biaya pengiriman. Mintalah rincian biaya dari tim kami agar Anda dapat mempersiapkan budget dengan lebih baik. Anda juga dapat memilih variasi baja ringan dari yang standar hingga kualitas terbaik, dan berkonsultasilah dengan teknisi kami secara matang.
 

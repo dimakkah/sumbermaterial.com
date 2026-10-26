@@ -50,13 +50,13 @@ d. tdk bisa menjangkau lokasi yang sempit. Mengingat Besi WF ini berukuran panja
 
 ### Keunggulan Dari Besi WF Di Kebon Kalapa Bogor
 
-1\. Dapat menghemat waktu dalam pembangunan sebuah konstruksi bangunan, memaksimalkan waktu dan juga mengurangi biaya dan tenaga tukang.
+1. Dapat menghemat waktu dalam pembangunan sebuah konstruksi bangunan, memaksimalkan waktu dan juga mengurangi biaya dan tenaga tukang.
 
-2\. Bisa menopang beban yang sungguh-sungguh berat, tdk gampang memuai dan lebih simple pengaplikasiannya dibanding dengan material struktural lainnya.
+2. Bisa menopang beban yang sungguh-sungguh berat, tdk gampang memuai dan lebih simple pengaplikasiannya dibanding dengan material struktural lainnya.
 
-3\. Mempunyai fleksibilitas yang tinggi. Sehingga struktur bangunan yang diciptakan dari Besi WF ini menjadi lebih kuat tdk mudah bergeser, tidak gampang ambrol ataupun goyang. Amat pantas untuk ragam bangunan diatas tanah yang labil atau sering kali terjadi gempa.
+3. Mempunyai fleksibilitas yang tinggi. Sehingga struktur bangunan yang diciptakan dari Besi WF ini menjadi lebih kuat tdk mudah bergeser, tidak gampang ambrol ataupun goyang. Amat pantas untuk ragam bangunan diatas tanah yang labil atau sering kali terjadi gempa.
 
-4\. Lebih hemat sebab struktur bangunan yang memakai Besi WF akan memiliki kekuatan yang cukup lama malahan hingga ratusan tahun. Tentunya ini yaitu investasi yang sungguh-sungguh murah kalau kita bandingkan dengan waktu pakai. Bahkan bangunan yang dibangun dengan rangka Besi WF bisa kita wariskan terhadap si kecil cucu kita.
+4. Lebih hemat sebab struktur bangunan yang memakai Besi WF akan memiliki kekuatan yang cukup lama malahan hingga ratusan tahun. Tentunya ini yaitu investasi yang sungguh-sungguh murah kalau kita bandingkan dengan waktu pakai. Bahkan bangunan yang dibangun dengan rangka Besi WF bisa kita wariskan terhadap si kecil cucu kita.
 
 ## Mengetahui Besi H Beam Di Kebon Kalapa Bogor
 
@@ -72,15 +72,15 @@ Sama seperti besi yang kami terangkan sebelumnya adalah Besi WF, besi H-Beam bah
 
 ### Kelebihan Besi H Beam Di Kebon Kalapa Bogor
 
-1\. Gampang untuk didapatkan. Banyak distributor besi yang menyediakan stok besi H-Beam beragam ukuran. Sehingga besi H-Beam ini sungguh-sungguh mudah untuk didapatkan, tdk sulit untuk menemukan supplier besi yang memasarkan besi H Beam.
+1. Gampang untuk didapatkan. Banyak distributor besi yang menyediakan stok besi H-Beam beragam ukuran. Sehingga besi H-Beam ini sungguh-sungguh mudah untuk didapatkan, tdk sulit untuk menemukan supplier besi yang memasarkan besi H Beam.
 
-2\. Mudah Dalam Pemasangan. Banyak tukang ahli dalam pemasangan besi H Beam. Meskipun besi H-Beam ini semestinya dipasang oleh tukang yang profesional tapi tukang yang berpengalaman dalam memasang besi H Beam ini sangat banyak kita temui hari ini. Sehingga tidak perlu dikhawatirkan lagi progres pemasangannya.
+2. Mudah Dalam Pemasangan. Banyak tukang ahli dalam pemasangan besi H Beam. Meskipun besi H-Beam ini semestinya dipasang oleh tukang yang profesional tapi tukang yang berpengalaman dalam memasang besi H Beam ini sangat banyak kita temui hari ini. Sehingga tidak perlu dikhawatirkan lagi progres pemasangannya.
 
-3\. Memiliki kekuatan yang tidak diragukan lagi. Besi H Beam sudah teruji selama bertahun-tahun dalam kontruksi bangunan. Apakah skala kecil maupun skala besar dan terbilang amat kuat bila dibandingi dengan material lainnya. Bisa bertahan sampai puluhan sampai ratusan tahun.
+3. Memiliki kekuatan yang tidak diragukan lagi. Besi H Beam sudah teruji selama bertahun-tahun dalam kontruksi bangunan. Apakah skala kecil maupun skala besar dan terbilang amat kuat bila dibandingi dengan material lainnya. Bisa bertahan sampai puluhan sampai ratusan tahun.
 
-4\. Mudah dalam perawatannya. Bangunan yang menerapkan besi H Beam sebagai struktur tulangan bangunannya akan benar-benar gampang dalam melakukan pemeliharaannya. tdk perlu pengecatan dengan cat khusus maupun pembersihan tiap waktu.
+4. Mudah dalam perawatannya. Bangunan yang menerapkan besi H Beam sebagai struktur tulangan bangunannya akan benar-benar gampang dalam melakukan pemeliharaannya. tdk perlu pengecatan dengan cat khusus maupun pembersihan tiap waktu.
 
-5\. Mengurangi penggunaan material lainnya, seperti penggunaan bekisting, penerapan perancah atau perancah dan juga material pasir. Besi H Beam Tdk memerlukan material pasir dalam penerapannya.
+5. Mengurangi penggunaan material lainnya, seperti penggunaan bekisting, penerapan perancah atau perancah dan juga material pasir. Besi H Beam Tdk memerlukan material pasir dalam penerapannya.
 
 ### Kekurangan Dari Besi H Beam Di Kebon Kalapa Bogor
 

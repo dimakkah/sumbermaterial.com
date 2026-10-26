@@ -25,7 +25,7 @@ Menurut Standar Nasional Indonesia ( SK SNI - S - 04 - 1989 - F ; 28) di sebutka
 
 Prasyarat Pasir yang Baik buat Konstruksi
 
-1.  Agregat Halus seharusnya terdiri dari butiran yg tajam dan keras dengan indeks kekerasan <2.2
+1.  Agregat Halus seharusnya terdiri dari butiran yg tajam dan keras dengan indeks kekerasan <2.2
 2. bilamana dimanfaatkan Natrium Sulfat komponen hancur maksimal dua belas persen
 3. Sekiranya digunakan Magnesium Sulfat komponen halus maksimal 5 persen
 4. Tidak boleh mengandung clay lebih dari 5%
@@ -41,7 +41,6 @@ Prasyarat Pasir yang Baik buat Konstruksi
 Setelah mengenal persyaratan pasir tuk sebuah Bangunan, pada saat ini kita bahas model - Tipe Pasir Untuk Konstruksi Bangunan penjelasan nya sebagai berikut:
 
 - ### Pasir Tipe Cor dan Daerah Sumbernya Di Benda Tangerang
-    
 
 Pasir ini lazim nya berwarna coklat tua dan tingkat kekasaran butiran nya lumayan tinggi. Tapi jika anda mengepal nya dengan tangan tak akan menggumpal dan akan hancur kembali. jenis pasir ini benar-benar lah bagus untuk Pengecoran, Plesteran Dinding, Adukan Pondasi dan Adukan Pasangan Bata Pasir ini yaitu pasir untuk Rigid ialah butiran-butiran mineral keras dan tajam berukuran antara 0,075 – 5 mm, jikalau terdapat butiran berukuran lebih kecil dari 0,063 mm tidak lebih dari 5% berat. Pasir ini yaitu pasir untuk Beton hampir sering dimanfaatkan untuk profesi cor-coran struktur seperti kolom, balok dan pelat lantai.
 
@@ -59,21 +58,18 @@ Untuk mendapatkan ketahanan Rigid yang optimal maka pasir patut mampu memenuhi p
 ![Harga Pasir Mundu Free Ongkir Ke Benda Tangerang](/images/info/jual-pasir-cor-hitam.jpg)
 
 - ### Pasir Pasang Di Benda Tangerang
-    
 
 ![Harga Pasir Mundu Free Ongkir Ke Benda Tangerang](/images/info/jual-pasir-mundu.jpg)
 
 Pasir ini ekstra halus lagi diperbandingkan oleh pasir beton. seandainya kalian mengepal pasir ini karenanya akan menggumpal dan tidak akan hancur kembali. pasir pasang umum nya di manfaatkan untuk campuran pasir beton supaya tak terlalu kasar dan bisa di manfaatkan untuk plesteran dinding.
 
 - ### Pasir Urug Untuk pengurugan lantai Di Benda Tangerang
-    
 
 Di Antara ke dua pasir diatas pasir tipe ini lebih halus lagi, kalau anda mengepal nya akan menggumpal dan tidak akan buyar lagi. tapi pasir ragam tak baik tuk di buat sebagai bahan bangunan. pasir macam ini pada lazim nya di pergunakan untuk Bahan Pembuatan Batako
 
 Pada lazim nya pasir ini nyaris sama dgn pasir beton akan tapi pasir ini mempunyai tingkat kekasaran yg tinggi, butiran - butiran nya cukup besar dan agak banyak batuan nya. pada umumnya pasir model ini baik untuk bahan pengurugan lantai
 
 - ### Pasir Putih Halus Untuk Pasang Lantai Marmer Di Benda Tangerang
-    
 
 1. **Pasir Putih Bangka**
 

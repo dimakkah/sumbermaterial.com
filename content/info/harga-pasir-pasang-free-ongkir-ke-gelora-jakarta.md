@@ -25,7 +25,7 @@ menurut Standar Nasional Indonesia ( SK SNI - S - 04 - 1989 - F ; 28) di tuturka
 
 Syarat Pasir yg Bagus tuk Konstruksi Bangunan
 
-1.  Agregat Halus harus terdiri dari butiran yang tajam dan keras dengan indeks kekerasan <2.2
+1.  Agregat Halus harus terdiri dari butiran yang tajam dan keras dengan indeks kekerasan <2.2
 2. Seandainya dimanfaatkan Natrium Sulfat komponen hancur maksimal dua belas persen
 3. Seandainya digunakan Magnesium Sulfat komponen halus optimal sepuluh %
 4. Tak boleh berisi clay lebih dari 5 persen
@@ -41,7 +41,6 @@ Syarat Pasir yg Bagus tuk Konstruksi Bangunan
 setelah memahami persyaratan pasir tuk sebuah Bangunan, sekarang ini kita bahas Jenis - Tipe Pasir Untuk Konstruksi Bangunan penjelasan nya sbb:
 
 - ### Pasir Jenis Rigid dan Tempat Pengambilannya Di Gelora Jakarta
-    
 
 Pasir ini umum nya berwarna hitam pekat dan tingkat pecahan butiran nya lumayan tinggi. Melainkan jikalau anda mengepal nya dengan tangan tidak akan lengket dan akan hancur kembali. macam pasir ini amat lah bagus untuk Pengecoran, Plesteran Dinding, Adukan Pondasi dan Adukan Pasangan Bata Pasir ini yaitu pasir untuk Beton yaitu butiran-butiran mineral keras dan tajam berukuran antara 0,075 – 5 mm, jikalau terdapat butiran berukuran lebih kecil dari 0,063 mm tidak lebih dari 5% berat. Pasir ini yaitu pasir untuk Beton acap kali diaplikasikan untuk pekerjaan cor-coran struktur seperti kolom, balok dan pelat lantai.
 
@@ -59,21 +58,18 @@ Untuk mendapatkan kualitas Rigid yang maksimal karenanya pasir harus mampu memen
 ![Harga Pasir Pasang Free Ongkir Ke Gelora Jakarta](/images/info/jual-pasir-cor-hitam.jpg)
 
 - ### Pasir Untuk Adukan Pasang Batu, Pondasi, Bata, Ubin, Plester Di Gelora Jakarta
-    
 
 ![Harga Pasir Pasang Free Ongkir Ke Gelora Jakarta](/images/info/pasir-putih12.jpg)
 
 Pasir ini lebih halus lagi diperbandingkan oleh pasir beton. kalau anda mengepal pasir ini maka akan menggumpal dan tidak akan buyar kembali. pasir pasang umum nya di pakai untuk adukan pasir beton supaya tak kelewat kasar dan bisa di pakai untuk plesteran dinding.
 
 - ### Pasir Kualitas rendah Untuk Pembuatan Batako Di Gelora Jakarta
-    
 
 Di Antara ke dua pasir diatas pasir tipe ini lebih halus lagi, jika kamu mengepal nya karenanya akan menggumpal dan tak akan buyar lagi. tapi pasir macam
 
 Pada umum nya pasir ini nyaris sama dengan pasir beton namun pasir ini memiliki tingkat kekasaran yang tinggi, butiran - butiran nya cukup besar dan agak banyak batuan nya. pada biasanya pasir ragam ini bagus tuk bahan dasaran pemasangan keramik
 
 - ### Pasir Putih Kadar Lumpur Rendah Untuk Hiasan Di Gelora Jakarta
-    
 
 1. **Pasir Putih Bangka**
 

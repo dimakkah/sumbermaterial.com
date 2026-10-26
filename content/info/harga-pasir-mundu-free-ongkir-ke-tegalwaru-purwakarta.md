@@ -25,7 +25,7 @@ Berdasarkan Standar Nasional Indonesia ( SK SNI - S - 04 - 1989 - F ; 28) di seb
 
 Syarat-Syarat Pasir yg Baik tuk Bangunan
 
-1.  Agregat Halus seharusnya terdiri dari butiran yang tajam dan keras dengan indeks kekerasan <2.2
+1.  Agregat Halus seharusnya terdiri dari butiran yang tajam dan keras dengan indeks kekerasan <2.2
 2. apabila dimanfaatkan Natrium Sulfat bagian hancur optimal 12 persen
 3. jika digunakan Magnesium Sulfat komponen halus optimal 5 persen
 4. Tak boleh memuat tanah lebih dari 5%
@@ -41,7 +41,6 @@ Syarat-Syarat Pasir yg Baik tuk Bangunan
 sesudah tahu persis syarat pasir tuk suatu Konstruksi Bangunan, sekarang ini kita bahas Macam - model Pasir Untuk Bangunan penjelasan nya berikut ini:
 
 - ### Pasir Model Cor dan Lokasi Penambangannya Di Tegalwaru Purwakarta
-    
 
 Pasir ini lazim nya berwarna hitam pekat dan tingkat pecahan butiran nya cukup tinggi. Tetapi bila anda mengepal nya dengan tangan tak akan menggumpal dan akan buyar kembali. jenis pasir ini betul-betul lah baik tuk Pengecoran, Plesteran Dinding, Adukan Pondasi dan Adukan Pasangan Bata Pasir ini yaitu pasir untuk Beton merupakan butiran-butiran mineral keras dan tajam berukuran antara 0,075 – 5 mm, apabila terdapat butiran berukuran lebih kecil dari 0,063 mm tidak lebih dari 5% berat. Pasir ini yaitu pasir untuk Beton tak jarang diterapkan untuk profesi cor-coran struktur seperti kolom, balok dan pelat lantai.
 
@@ -52,9 +51,9 @@ Harga Pasir Mundu Free Ongkir Ke Tegalwaru Purwakarta Jikalau anda sebagai konsu
 Pasir kelas satu diambil dari kp. jebrod cianjur jawa barat yang digunakan oleh indocement serta perusahaan batching plant lainnya sebagai bahan dasar produksi readymix concrete. Pasir ini paling dianjurkan untuk cor sebab irit semen juga mempunyai kandungan lumpur yang sungguh-sungguh rendah dibawah 8%. warnanya Hitam abu tua atau hitam seperti hitamnya batu kali, ada juga yang hitam kemerahan atau hitam terasi
 
 3. **Pasir Hitam Beton Cimangkok.** Pasir asli Tempat penambangannya di cimangkok sukabumi jawa barat yang masih masuk terhadap klasifikasi pasir hitam No. 1 di jawa barat, warnanya hitam kecoklatan sesuai untuk cor, pasang pondasi dan bata
-    
+
     ![Harga Pasir Mundu Free Ongkir Ke Tegalwaru Purwakarta](/images/info/jual-pasir-cor-hitam.jpg)
-    
+
 4. **Pasir Hitam Beton Cimalaka Subang Bandung.**
 
 Pasir No. 1 yang berwarna hitam kebauan ada juga yang berwarna hitam abu tua. Banyak di gunakan untuk Cor, pasang dan keperluan lainnya. Ditambang di kampung cimalaka
@@ -90,9 +89,9 @@ Kecuali Rangkasbitung, Banten juga mempunyai lokasi pnembangan pasir lain sepert
 Masih dari Lokasi di banten, pasir kelas tiga ini ialah pasir yang banyak diaplikasikan di proyek proyek perumahan atau cluster sebab harganya yang murah juga kwalitas yang baik. Warna pasir ini hitam kecoklatan dan keabuan betul-betul disarankan untuk pasang pondasi, bata, batu dan lain-lain
 
 27. **Pasir Hitam Cor Bohlam Sukabumi.** Pasir dari Lokasi kp. bohlam di sukabumi berwarna hitam kecoklatan, amat bagus untuk pasang bata, pondasi dan sebagainya sebagai opsi pasir kwalitas bagus dan ekonomis
-    
+
     ![Harga Pasir Mundu Free Ongkir Ke Tegalwaru Purwakarta](/images/info/pasir-hitam-1.jpg)
-    
+
 28. **Pasir Rigid Galunggung.**
 
 Pasir ini yakni pasir hitam mutu paling unggul dikelasnya awam diterapkan oleh pabrik pengolahan beton readymix juga perusahan pembuatan precast dan kerap juga diaplikasikan untuk bahan pembuatan batako press hitam, paving block dan lainnya. Pasir ini ditambang dari Tasikmalaya jawa barat.
@@ -100,21 +99,18 @@ Pasir ini yakni pasir hitam mutu paling unggul dikelasnya awam diterapkan oleh p
 ![Harga Pasir Mundu Free Ongkir Ke Tegalwaru Purwakarta](/images/info/pasir-hitam-1.jpg)
 
 - ### Pasir Untuk Pemasangan Batu, Pondasi, Bata, Ubin, Plester Di Tegalwaru Purwakarta
-    
 
 ![Harga Pasir Mundu Free Ongkir Ke Tegalwaru Purwakarta](/images/info/pasir-hitam-11.jpg)
 
 Pasir ini lebih halus lagi dibandingi oleh pasir beton. jika anda mengepal pasir ini karenanya akan menggumpal dan tidak akan buyar kembali. pasir pasang lazim nya di pakai tuk campuran pasir beton agar tak terlalu kasar dan dapat di manfaatkan untuk plesteran dinding.
 
 - ### Pasir Urug Untuk pemadatan lantai Di Tegalwaru Purwakarta
-    
 
 Di Antara ke dua pasir diatas pasir model ini lebih halus lagi, bila anda mengepal nya karenanya akan menggumpal dan tak akan hancur lagi. melainkan pasir macam
 
 Pada umum nya pasir ini nyaris sama dengan pasir beton namun pasir ini memiliki tingkat kekasaran yang tinggi, butiran - butiran nya cukup besar dan agak banyak batuan nya. pada lazimnya pasir ragam ini bagus untuk bahan pemadatan lantai
 
 - ### Pasir Putih Halus Untuk Hiasan Di Tegalwaru Purwakarta
-    
 
 1. **Pasir Putih Bangka**
 

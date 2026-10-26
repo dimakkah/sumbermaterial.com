@@ -50,13 +50,13 @@ d. tdk bisa menjangkau tempat yang sempit. Mengingat Besi WF ini berukuran panja
 
 ### Keunggulan Dari Besi WF Di Malaka Jaya Jakarta
 
-1\. Bisa mengurangi waktu dalam pembangunan sebuah konstruksi bangunan, menghemat waktu dan juga memaksimalkan biaya dan tukang pasang.
+1. Bisa mengurangi waktu dalam pembangunan sebuah konstruksi bangunan, menghemat waktu dan juga memaksimalkan biaya dan tukang pasang.
 
-2\. Bisa menopang beban yang amat berat, tidak mudah memuai dan lebih simple penggunaannya dibanding dengan material struktural lainnya.
+2. Bisa menopang beban yang amat berat, tidak mudah memuai dan lebih simple penggunaannya dibanding dengan material struktural lainnya.
 
-3\. Memiliki fleksibilitas yang tinggi. Sehingga struktur bangunan yang diwujudkan dari Besi WF ini menjadi lebih kuat tdk mudah bergeser, tidak gampang roboh ataupun goyang. Sangat sesuai untuk jenis bangunan diatas tanah yang labil atau sering terjadi longsor.
+3. Memiliki fleksibilitas yang tinggi. Sehingga struktur bangunan yang diwujudkan dari Besi WF ini menjadi lebih kuat tdk mudah bergeser, tidak gampang roboh ataupun goyang. Sangat sesuai untuk jenis bangunan diatas tanah yang labil atau sering terjadi longsor.
 
-4\. Lebih hemat karena struktur bangunan yang menerapkan Besi WF akan mempunyai ketahanan yang cukup lama malah hingga ratusan tahun. Tentunya ini yakni investasi yang amat murah bila kita bandingkan dengan waktu gunakan. Bahkan bangunan yang dibangun dengan tulangan Besi WF bisa kita wariskan kepada anak cucu kita.
+4. Lebih hemat karena struktur bangunan yang menerapkan Besi WF akan mempunyai ketahanan yang cukup lama malah hingga ratusan tahun. Tentunya ini yakni investasi yang amat murah bila kita bandingkan dengan waktu gunakan. Bahkan bangunan yang dibangun dengan tulangan Besi WF bisa kita wariskan kepada anak cucu kita.
 
 ## Mengenal Besi H Beam Di Malaka Jaya Jakarta
 
@@ -72,15 +72,15 @@ Sama seperti besi yang kami terangkan sebelumnya yakni Besi WF, besi H-Beam pun 
 
 ### Keunggulan Besi H Beam Di Malaka Jaya Jakarta
 
-1\. Mudah untuk diperoleh. Banyak distributor besi yang menyediakan stok besi H-Beam bermacam-macam ukuran. Sehingga besi H-Beam ini betul-betul gampang untuk didapatkan, tdk sulit untuk mendapatkan toko besi yang menjual besi H Beam.
+1. Mudah untuk diperoleh. Banyak distributor besi yang menyediakan stok besi H-Beam bermacam-macam ukuran. Sehingga besi H-Beam ini betul-betul gampang untuk didapatkan, tdk sulit untuk mendapatkan toko besi yang menjual besi H Beam.
 
-2\. Gampang Dalam Pemasangan. Banyak tukang pakar dalam pemasangan besi H Beam. Meski besi H-Beam ini sepatutnya dipasang oleh tukang yang ahli tapi tukang yang berpengalaman dalam memasang besi H Beam ini benar-benar banyak kita temui hari ini. Sehingga tdk perlu dikhawatirkan lagi progres pemasangannya.
+2. Gampang Dalam Pemasangan. Banyak tukang pakar dalam pemasangan besi H Beam. Meski besi H-Beam ini sepatutnya dipasang oleh tukang yang ahli tapi tukang yang berpengalaman dalam memasang besi H Beam ini benar-benar banyak kita temui hari ini. Sehingga tdk perlu dikhawatirkan lagi progres pemasangannya.
 
-3\. Memiliki kekuatan yang tidak diragukan lagi. Besi H Beam telah teruji selama bertahun-tahun dalam kontruksi bangunan. Baik skala kecil ataupun skala besar dan terbilang amat tahan lama seandainya dibandingi dengan material lainnya. Dapat bertahan hingga puluhan hingga ratusan tahun.
+3. Memiliki kekuatan yang tidak diragukan lagi. Besi H Beam telah teruji selama bertahun-tahun dalam kontruksi bangunan. Baik skala kecil ataupun skala besar dan terbilang amat tahan lama seandainya dibandingi dengan material lainnya. Dapat bertahan hingga puluhan hingga ratusan tahun.
 
-4\. Gampang dalam pemeliharaannya. Bangunan yang mengaplikasikan besi H Beam sebagai struktur rangka bangunannya akan benar-benar mudah dalam melakukan pemeliharaannya. tidak perlu pengecatan dengan cat khusus ataupun pembersihan tiap saat.
+4. Gampang dalam pemeliharaannya. Bangunan yang mengaplikasikan besi H Beam sebagai struktur rangka bangunannya akan benar-benar mudah dalam melakukan pemeliharaannya. tidak perlu pengecatan dengan cat khusus ataupun pembersihan tiap saat.
 
-5\. Mengurangi penerapan material lainnya, seperti penerapan bekisting, pemakaian steger atau tiang penyangga dan juga material pasir. Besi H Beam tidak memerlukan material pasir dalam penggunaannya.
+5. Mengurangi penerapan material lainnya, seperti penerapan bekisting, pemakaian steger atau tiang penyangga dan juga material pasir. Besi H Beam tidak memerlukan material pasir dalam penggunaannya.
 
 ### Kekurangan Dari Besi H Beam Di Malaka Jaya Jakarta
 

@@ -21,13 +21,13 @@ Membangun atau merenovasi dengan baja ringan menjadi semakin mudah dengan bantua
 
 Sebagai Mitra Sumber Material, kami ingin berbagi beberapa alasan utama mengapa memilih baja ringan akan menjadi keputusan yang tepat untuk bangunan Anda:
 
- **Ramah Lingkungan:** Baja ringan mendukung gaya hidup berkelanjutan. Anda tidak perlu menebang pohon untuk mendapatkan kayu, melainkan berkontribusi pada pelestarian alam dengan memilih material yang lebih bertanggung jawab.
- **Lebih Ekonomis:** Dibandingkan dengan kerangka kayu, baja ringan menawarkan harga yang lebih terjangkau, terutama untuk bagian kerangka yang krusial bagi kekuatan bangunan Anda. Menekan biaya pembangunan adalah prioritas utama, bukan?
- **Ringan & Kuat:** Meskipun ringan, baja ringan memiliki kekuatan yang luar biasa. Baja ringan memiliki ketebalan yang tipis dan ringan, sehingga sangat kuat untuk kerangka atap dan pembuatan *canopy* rumah anda.
- **Minim Perawatan:** Anda tidak perlu khawatir tentang perawatan rutin yang mahal. Baja ringan tahan terhadap kerusakan dan hama, membebaskan Anda dari beban perawatan tahunan.
- **Pemasangan Cepat:** Proses pemasangan baja ringan jauh lebih cepat dibandingkan kerangka kayu atau material lainnya, menghemat waktu dan biaya tenaga kerja.
- **Kualitas Terjamin:** Baja ringan yang kami gunakan terbuat dari zinc dan aluminium berkualitas tinggi, dengan standar keamanan 4 kali lebih baik dari baja biasa. Kekuatannya mampu menopang beban berkilo-kilo.
- **Tahan Rayap:** Anda tak perlu lagi khawatir tentang serangan rayap yang dapat merusak struktur atap bangunan Anda.
+- **Ramah Lingkungan:** Baja ringan mendukung gaya hidup berkelanjutan. Anda tidak perlu menebang pohon untuk mendapatkan kayu, melainkan berkontribusi pada pelestarian alam dengan memilih material yang lebih bertanggung jawab.
+- **Lebih Ekonomis:** Dibandingkan dengan kerangka kayu, baja ringan menawarkan harga yang lebih terjangkau, terutama untuk bagian kerangka yang krusial bagi kekuatan bangunan Anda. Menekan biaya pembangunan adalah prioritas utama, bukan?
+- **Ringan & Kuat:** Meskipun ringan, baja ringan memiliki kekuatan yang luar biasa. Baja ringan memiliki ketebalan yang tipis dan ringan, sehingga sangat kuat untuk kerangka atap dan pembuatan *canopy* rumah anda.
+- **Minim Perawatan:** Anda tidak perlu khawatir tentang perawatan rutin yang mahal. Baja ringan tahan terhadap kerusakan dan hama, membebaskan Anda dari beban perawatan tahunan.
+- **Pemasangan Cepat:** Proses pemasangan baja ringan jauh lebih cepat dibandingkan kerangka kayu atau material lainnya, menghemat waktu dan biaya tenaga kerja.
+- **Kualitas Terjamin:** Baja ringan yang kami gunakan terbuat dari zinc dan aluminium berkualitas tinggi, dengan standar keamanan 4 kali lebih baik dari baja biasa. Kekuatannya mampu menopang beban berkilo-kilo.
+- **Tahan Rayap:** Anda tak perlu lagi khawatir tentang serangan rayap yang dapat merusak struktur atap bangunan Anda.
 
 ## Cara Hitung Luas Rangka Baja Ringan Di Sajira Rangkasbitung
 
@@ -39,7 +39,7 @@ Perhitungan luas datar adalah ( *overstack* + Panjang ) x ( lebar + *overstack* 
 
 ### Menghitung Luas Miring
 
-Luas miring dihitung dengan rumus Luas miring = Luas datar / *Cosinus* dengan kemiringan atap. Jika kemiringan atap 30 derajat (cosinus 30 = 0.8660), maka perhitungannya adalah 181.44 / 0.8666 = 209.52 m². Jadi, luas kemiringan pada rangka atap baja ringan ini adalah 209.52 meter persegi. 
+Luas miring dihitung dengan rumus Luas miring = Luas datar / *Cosinus* dengan kemiringan atap. Jika kemiringan atap 30 derajat (cosinus 30 = 0.8660), maka perhitungannya adalah 181.44 / 0.8666 = 209.52 m². Jadi, luas kemiringan pada rangka atap baja ringan ini adalah 209.52 meter persegi.
 
 Dengan perhitungan ini, Anda dapat memperkirakan jumlah dan volume baja ringan yang diperlukan. Jika terasa rumit, jangan ragu untuk menghubungi kami!
 
@@ -60,15 +60,15 @@ Membahas biaya jasa pasang baja ringan, Anda bisa menemukan banyak informasi di 
 
 ### Parameter Besaran Harga Layanan Pasang Baja Ringan
 
-### 1. Pembuatan Sketsa Desain
+#### 1. Pembuatan Sketsa Desain
 
 Biaya juga dipengaruhi oleh desain atau pola sketsa yang akan dikerjakan oleh tim teknisi kami di lokasi. Sketsa yang baik akan membantu menentukan kebutuhan material baja ringan secara akurat, sehingga tidak ada sisa material yang terbuang sia-sia. Pembuatan sketsa juga termasuk dalam perhitungan harga pasang baja ringan dari layanan kami.
 
-### 2. Menghitung Keperluan Rangka
+#### 2. Menghitung Keperluan Rangka
 
 Setelah Anda memiliki sketsa pemasangan, tim kami akan menghitung kebutuhan rangka yang harus disiapkan untuk memperkirakan jumlah material baja ringan yang diperlukan.  Konsultasikan dengan teknisi kami untuk mendapatkan material yang paling sesuai dengan kebutuhan Anda.
 
-### 3. Menghitung *Budget* yang Dibutuhkan
+#### 3. Menghitung *Budget* yang Dibutuhkan
 
 Setelah pembuatan sketsa dan perhitungan rangka selesai, Anda dapat mendiskusikan survei harga dari seluruh proses pemasangan baja ringan. *Budget* yang dibutuhkan bergantung pada jumlah rangka, luas bagian kerangka, material tambahan, biaya tenaga kerja, dan pengiriman. Mintalah rincian biaya jasa pasang baja ringan agar Anda dapat menyiapkan *budget* dengan lebih baik. Anda juga dapat memilih jenis baja ringan, mulai dari yang standar hingga yang berkualitas tinggi.
 

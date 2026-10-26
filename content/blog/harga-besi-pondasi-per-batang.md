@@ -13,16 +13,15 @@ toc: false
 draft: false
 ---
 
-**Harga Besi Pondasi Per Batang** - Mitra Sumber Material yang kami hormati, apakah Anda sedang merencanakan pembangunan atau renovasi? Pondasi yang kokoh adalah kunci utama kekuatan bangunan, dan besi pondasi memegang peranan krusial di dalamnya. 
+**Harga Besi Pondasi Per Batang** - Mitra Sumber Material yang kami hormati, apakah Anda sedang merencanakan pembangunan atau renovasi? Pondasi yang kokoh adalah kunci utama kekuatan bangunan, dan besi pondasi memegang peranan krusial di dalamnya.
 
 {{< toc >}}
-
 
 Nah, sebelum Anda memutuskan untuk membeli, penting sekali untuk mengetahui perkiraan harga besi pondasi per batang. Ini akan membantu Anda menyusun anggaran proyek dengan lebih akurat. Kami dari Sumber Material akan kupas tuntas informasi ini untuk Anda.
 
 ## Memahami Jenis Besi Pondasi dan Pengaruhnya Pada Harga
 
-Mitra, ada beberapa jenis besi pondasi yang umum digunakan dalam konstruksi. Masing-masing jenis memiliki karakteristik dan harga yang berbeda-beda. Secara umum, ada besi polos dan besi ulir. Besi polos biasanya digunakan untuk struktur yang tidak memerlukan kekuatan tarik yang tinggi, sementara besi ulir lebih sering dipilih untuk pondasi karena memiliki kekuatan tarik yang lebih baik. 
+Mitra, ada beberapa jenis besi pondasi yang umum digunakan dalam konstruksi. Masing-masing jenis memiliki karakteristik dan harga yang berbeda-beda. Secara umum, ada besi polos dan besi ulir. Besi polos biasanya digunakan untuk struktur yang tidak memerlukan kekuatan tarik yang tinggi, sementara besi ulir lebih sering dipilih untuk pondasi karena memiliki kekuatan tarik yang lebih baik.
 
 Selain itu, diameter besi juga memengaruhi harga. Semakin besar diameternya, semakin kuat besi tersebut, dan tentu saja, harganya juga akan lebih mahal. Ukuran yang umum digunakan untuk pondasi rumah antara 8mm hingga 16mm. Ada juga besi beton dengan standar SNI yang berbeda-beda, misalnya besi polos PSI, besi ulir U40, atau U50. Standar ini menunjukkan kekuatan tarik besi tersebut.
 
@@ -30,12 +29,12 @@ Selain itu, diameter besi juga memengaruhi harga. Semakin besar diameternya, sem
 
 Harga besi pondasi per batang bisa sangat bervariasi tergantung beberapa faktor, seperti merek, kualitas, ukuran, dan lokasi pembelian. Untuk memberikan gambaran, berikut ini estimasi harga per batang (per April 2026):
 
-*   **Besi Polos Diameter 8mm:** Mulai dari Rp 30.000 – Rp 40.000 per batang
-*   **Besi Polos Diameter 10mm:** Mulai dari Rp 40.000 – Rp 50.000 per batang
-*   **Besi Polos Diameter 12mm:** Mulai dari Rp 50.000 – Rp 60.000 per batang
-*   **Besi Ulir Diameter 8mm:** Mulai dari Rp 45.000 – Rp 55.000 per batang
-*   **Besi Ulir Diameter 10mm:** Mulai dari Rp 55.000 – Rp 65.000 per batang
-*   **Besi Ulir Diameter 12mm:** Mulai dari Rp 65.000 – Rp 75.000 per batang
+- **Besi Polos Diameter 8mm:** Mulai dari Rp 30.000 – Rp 40.000 per batang
+- **Besi Polos Diameter 10mm:** Mulai dari Rp 40.000 – Rp 50.000 per batang
+- **Besi Polos Diameter 12mm:** Mulai dari Rp 50.000 – Rp 60.000 per batang
+- **Besi Ulir Diameter 8mm:** Mulai dari Rp 45.000 – Rp 55.000 per batang
+- **Besi Ulir Diameter 10mm:** Mulai dari Rp 55.000 – Rp 65.000 per batang
+- **Besi Ulir Diameter 12mm:** Mulai dari Rp 65.000 – Rp 75.000 per batang
 
 Harga ini bersifat estimasi dan dapat berubah sewaktu-waktu — hubungi Kami untuk penawaran terbaru dan paling akurat sesuai kebutuhan proyek Mitra.
 

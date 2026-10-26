@@ -50,13 +50,13 @@ d. tidak dapat menjangkau tempat yang sempit. Mengingat Besi WF ini berukuran pa
 
 ### Kelebihan Dari Besi WF Di Pondok Cina Depok
 
-1\. Dapat memaksimalkan waktu dalam pembangunan sebuah konstruksi bangunan, memaksimalkan waktu dan juga mengurangi ongkos dan pemasang.
+1. Dapat memaksimalkan waktu dalam pembangunan sebuah konstruksi bangunan, memaksimalkan waktu dan juga mengurangi ongkos dan pemasang.
 
-2\. Bisa menopang muatan yang benar-benar berat, tidak gampang memuai dan lebih simple pemakaiannya dibanding dengan material struktural lainnya.
+2. Bisa menopang muatan yang benar-benar berat, tidak gampang memuai dan lebih simple pemakaiannya dibanding dengan material struktural lainnya.
 
-3\. Mempunyai fleksibilitas yang tinggi. Sehingga struktur bangunan yang dibuat dari Besi WF ini menjadi lebih kuat tidak mudah bergeser, tdk gampang ambruk maupun goyang. Amat sesuai untuk jenis bangunan diatas tanah yang labil atau kerap kali terjadi gempa.
+3. Mempunyai fleksibilitas yang tinggi. Sehingga struktur bangunan yang dibuat dari Besi WF ini menjadi lebih kuat tidak mudah bergeser, tdk gampang ambruk maupun goyang. Amat sesuai untuk jenis bangunan diatas tanah yang labil atau kerap kali terjadi gempa.
 
-4\. Lebih hemat karena struktur bangunan yang menerapkan Besi WF akan memiliki kekokohan yang cukup lama malahan hingga ratusan tahun. Tentunya ini yakni investasi yang benar-benar murah jikalau kita bandingkan dengan waktu gunakan. Malahan bangunan yang dibangun dengan tulangan Besi WF dapat kita wariskan terhadap anak cucu kita.
+4. Lebih hemat karena struktur bangunan yang menerapkan Besi WF akan memiliki kekokohan yang cukup lama malahan hingga ratusan tahun. Tentunya ini yakni investasi yang benar-benar murah jikalau kita bandingkan dengan waktu gunakan. Malahan bangunan yang dibangun dengan tulangan Besi WF dapat kita wariskan terhadap anak cucu kita.
 
 ## Mengetahui Besi H Beam Di Pondok Cina Depok
 
@@ -72,15 +72,15 @@ Sama seperti besi yang kami paparkan sebelumnya ialah Besi WF, besi H-Beam bahka
 
 ### Keunggulan Besi H Beam Di Pondok Cina Depok
 
-1\. Gampang untuk diperoleh. Banyak distributor besi yang menyediakan stok besi H-Beam bermacam jenis ukuran. Sehingga besi H-Beam ini betul-betul mudah untuk diperoleh, tdk susah untuk memperoleh toko besi yang menjual besi H Beam.
+1. Gampang untuk diperoleh. Banyak distributor besi yang menyediakan stok besi H-Beam bermacam jenis ukuran. Sehingga besi H-Beam ini betul-betul mudah untuk diperoleh, tdk susah untuk memperoleh toko besi yang menjual besi H Beam.
 
-2\. Mudah Dalam Pemasangan. Banyak tukang ahli dalam pemasangan besi H Beam. Walaupun besi H-Beam ini semestinya dipasang oleh tukang yang berpengalaman tapi tukang yang profesional dalam memasang besi H Beam ini sangat banyak kita temui hari ini. Sehingga tdk perlu dikhawatirkan lagi proses pemasangannya.
+2. Mudah Dalam Pemasangan. Banyak tukang ahli dalam pemasangan besi H Beam. Walaupun besi H-Beam ini semestinya dipasang oleh tukang yang berpengalaman tapi tukang yang profesional dalam memasang besi H Beam ini sangat banyak kita temui hari ini. Sehingga tdk perlu dikhawatirkan lagi proses pemasangannya.
 
-3\. Memiliki kekuatan yang tidak diragukan lagi. Besi H Beam telah teruji selama bertahun-tahun dalam kontruksi bangunan. Apakah skala kecil maupun skala besar dan terbilang betul-betul tahan lama bila dibandingkan dengan material lainnya. Dapat bertahan sampai puluhan hingga ratusan tahun.
+3. Memiliki kekuatan yang tidak diragukan lagi. Besi H Beam telah teruji selama bertahun-tahun dalam kontruksi bangunan. Apakah skala kecil maupun skala besar dan terbilang betul-betul tahan lama bila dibandingkan dengan material lainnya. Dapat bertahan sampai puluhan hingga ratusan tahun.
 
-4\. Mudah dalam pemeliharaannya. Bangunan yang menerapkan besi H Beam sebagai struktur rangka bangunannya akan betul-betul mudah dalam menjalankan pemeliharaannya. tdk perlu pengecatan dengan cat khusus maupun pembersihan tiap saat.
+4. Mudah dalam pemeliharaannya. Bangunan yang menerapkan besi H Beam sebagai struktur rangka bangunannya akan betul-betul mudah dalam menjalankan pemeliharaannya. tdk perlu pengecatan dengan cat khusus maupun pembersihan tiap saat.
 
-5\. Mengurangi penggunaan material lainnya, seperti pengaplikasian bekisting, pengaplikasian tiang penyangga atau tiang penyangga dan juga material pasir. Besi H Beam tidak membutuhkan material pasir dalam penerapannya.
+5. Mengurangi penggunaan material lainnya, seperti pengaplikasian bekisting, pengaplikasian tiang penyangga atau tiang penyangga dan juga material pasir. Besi H Beam tidak membutuhkan material pasir dalam penerapannya.
 
 ### Kekurangan Dari Besi H Beam Di Pondok Cina Depok
 

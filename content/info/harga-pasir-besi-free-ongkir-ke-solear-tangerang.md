@@ -25,7 +25,7 @@ Berdasarkan Standar Nasional Indonesia ( SK SNI - S - 04 - 1989 - F ; 28) di tut
 
 Syarat-Syarat Pasir yang Bagus buat Konstruksi Bangunan
 
-1.  Agregat Halus seharusnya terdiri dari butiran yg tajam dan keras dengan indeks kekerasan <2.2
+1.  Agregat Halus seharusnya terdiri dari butiran yg tajam dan keras dengan indeks kekerasan <2.2
 2. bilamana diterapkan Natrium Sulfat komponen hancur optimal dua belas %
 3. bila dipakai Magnesium Sulfat bagian halus maksimal sepuluh %
 4. Tak boleh berisi lumpur lebih dari lima %
@@ -41,7 +41,6 @@ Syarat-Syarat Pasir yang Bagus buat Konstruksi Bangunan
 sesudah mengetahui prasyarat pasir buat suatu Konstruksi Bangunan, saat ini kita bahas Macam - Macam Pasir Untuk Konstruksi penjelasan nya sebagai berikut:
 
 - ### Pasir Rigid Di Solear Tangerang
-    
 
 Pasir ini umum nya berwarna coklat tua dan tingkat kekasaran butiran nya cukup tinggi. Melainkan jika anda mengepal nya dengan tangan tidak akan menggumpal dan akan buyar kembali. jenis pasir ini sungguh-sungguh lah baik tuk Pengecoran, Plesteran Dinding, Adukan Pondasi dan Adukan Pasangan Bata Pasir ini yaitu pasir untuk Rigid ialah butiran-butiran mineral keras dan tajam berukuran antara 0,075 – 5 mm, sekiranya terdapat butiran berukuran lebih kecil dari 0,063 mm tidak lebih dari 5% berat. Pasir ini yaitu pasir untuk Beton hampir tak jarang dimanfaatkan untuk pekerjaan cor-coran struktur seperti kolom, balok dan pelat lantai.
 
@@ -59,21 +58,18 @@ Untuk mendapatkan kekokohan Cor yang maksimal karenanya pasir patut bisa memenuh
 ![Harga Pasir Besi Free Ongkir Ke Solear Tangerang](/images/info/jual-pasir-cor-hitam.jpg)
 
 - ### Pasir Biasa Di Solear Tangerang
-    
 
 ![Harga Pasir Besi Free Ongkir Ke Solear Tangerang](/images/info/jual-pasir-mundu-2.jpg)
 
 Pasir ini ekstra halus lagi dibandingkan oleh pasir beton. bila anda mengepal pasir ini karenanya akan menggumpal dan tidak akan hancur kembali. pasir pasang umum nya di gunakan tuk adukan pasir beton supaya tak terlalu kasar dan bisa di manfaatkan untuk plesteran dinding.
 
 - ### Pasir Urug Untuk Pembuatan Batako Di Solear Tangerang
-    
 
 Di Antara ke dua pasir diatas pasir jenis ini lebih halus lagi, jika kamu mengepal nya akan menggumpal dan tak akan hancur lagi. melainkan pasir ragam tidak bagus tuk di buat sebagai bahan bangunan. pasir tipe ini pada lazim nya di pakai tuk Bahan Pembuatan Batako
 
 Pada biasa nya pasir ini nyaris sama dengan pasir beton melainkan pasir ini memiliki tingkat kekasaran yg tinggi, butiran - butiran nya lumayan besar dan agak banyak batuan nya. pada lazimnya pasir model ini bagus untuk bahan dasaran pemasangan keramik
 
 - ### Pasir Putih Bebas Lumpur Untuk Pasang Keramik Di Solear Tangerang
-    
 
 1. **Pasir Putih Bangka**
 

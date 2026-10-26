@@ -16,7 +16,7 @@ saat ini material yang diaplikasikan untuk mengisi tembok tempat tinggal, telah 
 
 ## Mengetahui Ragam Variasi Bata
 
-### 1\. Bata Merah Standar & Jumbo Di Cideng Jakarta
+### 1. Bata Merah Standar & Jumbo Di Cideng Jakarta
 
 ![Harga Batako Putih Gratis Ongkir Ke Cideng Jakarta](/images/bata/bata-merah-oven-25.png)
 
@@ -26,7 +26,7 @@ Bata merah ini dibuat dari material tanah yg kemudian di cetak dan dibakar denga
 
 Bahan bangunan ini sungguh-sungguh tahan kepada panas dan cocok dibuat proteksi dari panas api. Bata merah ini pada umumnya memiliki ukuran panjang antara 17-23 cm dan lebar sekitar 7-11 cm, serta tebalnya 3-5 cm. memiliki ukuran yg lebih kecil akan memberi kemudahan dalam progres pengangkutan dan dapat dipakai untuk membentuk bidang kecil.
 
-### 2\. Batako Hitam dan Putih Di Cideng Jakarta
+### 2. Batako Hitam dan Putih Di Cideng Jakarta
 
 ![Harga Batako Putih Gratis Ongkir Ke Cideng Jakarta](/images/bata/batako-hitam-press-16.png)
 
@@ -34,7 +34,7 @@ Bahan bangunan dinding dari batako ini secara lazimnya terbuat dari bahan Adukan
 
 Batako press seperti ini memiliki kelemahan seperti mudah retak, lebih panas dan pengap. Berbeda dg bata merah yang terbuat dari bahan tanah. Tapi batako trus ini cenderung lebih ringan ketimbang bata merah. Akibatnya akan nampak lebih halus dan ukurannya lebih presisi apabila diperbandingkan dengan bata merah. Batako trus Hitam ini memiliki ukuran panjang sekitar 36-40 cm, tinggi 18-20 cm dan tebal 8-10 cm. bahan ini tak jarang dipilih karena untuk memperingan beban struktur bangunan, meminimalisir sisa material dan mempermudah pembangunan.
 
-### 3\. Bata Ringan Di Cideng Jakarta
+### 3. Bata Ringan Di Cideng Jakarta
 
 ![Harga Batako Putih Gratis Ongkir Ke Cideng Jakarta](/images/bata/bata-hebel-sni-04.png)
 
@@ -62,7 +62,7 @@ Segalanya tentu telah tahu fungsi utama batu bata mulai digunakan untuk membikin
 
 Cara mengorder batu bata yg aman dan terpercaya:
 
-1.  Kerja pembayaran dapat anda lakukan secara COD atau dibayar di tempat dikala barang orderan anda telah datang di tempat
+1.  Kerja pembayaran dapat anda lakukan secara COD atau dibayar di tempat dikala barang orderan anda telah datang di tempat
 2. Silahkan memilih dan menetapkan material batu bata yang anda inginkan
 3. Tentukan juga jumlah pesanan batu bata yg anda butuhkan dalam bentuk bijian.
 4. Anda dapat menghubungi layanan telepon warung untuk memudahkan progres pengorderan

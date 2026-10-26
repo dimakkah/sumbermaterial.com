@@ -21,13 +21,13 @@ Pemasangan baja ringan untuk bangunan Anda sebenarnya cukup mudah, namun memerlu
 
 Yuk, kita bahas beberapa alasan penting kenapa Anda sebaiknya memilih baja ringan sebagai kerangka atap dan kanopi di Pasir Jaya Bogor:
 
- **Ramah Lingkungan:** Penggunaan baja ringan mengurangi kebutuhan kayu, sehingga membantu melestarikan alam.
- **Lebih Hemat:** Dibandingkan kayu, baja ringan umumnya lebih terjangkau, terutama untuk komponen kerangka yang krusial bagi bangunan Anda.
- **Ringan dan Kuat:** Baja ringan memiliki ketebalan tipis dan ringan, namun tetap sangat kuat untuk kerangka atap dan pembuatan kanopi rumah Anda.
- **Perawatan Bebas Ribet:** Anda tidak perlu khawatir dengan perawatan tahunan yang merepotkan.
- **Pemasangan Cepat:** Proses pemasangan baja ringan jauh lebih cepat daripada material tradisional seperti kayu.
- **Kualitas Terjamin:** Baja ringan dari Mitra Sumber Material adalah produk berkualitas tinggi, terbuat dari zinc dan aluminium dengan standar keamanan 4 kali lebih baik daripada baja biasa. Kekuatannya mampu menahan beban berkilo-kilo.
- **Tahan Rayap:** Anda tidak perlu khawatir kerangka atap dan kanopi Anda dimakan rayap.
+- **Ramah Lingkungan:** Penggunaan baja ringan mengurangi kebutuhan kayu, sehingga membantu melestarikan alam.
+- **Lebih Hemat:** Dibandingkan kayu, baja ringan umumnya lebih terjangkau, terutama untuk komponen kerangka yang krusial bagi bangunan Anda.
+- **Ringan dan Kuat:** Baja ringan memiliki ketebalan tipis dan ringan, namun tetap sangat kuat untuk kerangka atap dan pembuatan kanopi rumah Anda.
+- **Perawatan Bebas Ribet:** Anda tidak perlu khawatir dengan perawatan tahunan yang merepotkan.
+- **Pemasangan Cepat:** Proses pemasangan baja ringan jauh lebih cepat daripada material tradisional seperti kayu.
+- **Kualitas Terjamin:** Baja ringan dari Mitra Sumber Material adalah produk berkualitas tinggi, terbuat dari zinc dan aluminium dengan standar keamanan 4 kali lebih baik daripada baja biasa. Kekuatannya mampu menahan beban berkilo-kilo.
+- **Tahan Rayap:** Anda tidak perlu khawatir kerangka atap dan kanopi Anda dimakan rayap.
 
 ## Cara Hitung Luas Rangka Baja Ringan Di Pasir Jaya Bogor
 
@@ -41,7 +41,7 @@ Perhitungan luas datar adalah ( *overstack* + Panjang ) x ( lebar + *overstack* 
 
 ### Mempertimbangkan Luas Miring
 
-Penentuan luas miring untuk perhitungannya adalah Luas miring = Luas datar / Cosinus dengan kemiringan atap. Perhitungannya 181.44/0.8666 menghasilkan 209.52 meter. Jadi, luas kemiringan pada rangka atap baja ringan ini adalah 209.52 meter. 
+Penentuan luas miring untuk perhitungannya adalah Luas miring = Luas datar / Cosinus dengan kemiringan atap. Perhitungannya 181.44/0.8666 menghasilkan 209.52 meter. Jadi, luas kemiringan pada rangka atap baja ringan ini adalah 209.52 meter.
 
 Dengan begitu Anda bisa memperkirakan jumlah dan volume baja ringan yang dibutuhkan. Jika terasa rumit, jangan ragu untuk menghubungi kami!
 
@@ -55,10 +55,10 @@ Mengenai biaya jasa pasang baja ringan, ada banyak informasi yang beredar di int
 
 (Catatan: biaya dapat ditambahkan sendiri) Berikut ini perkiraan harga jasa pasang baja ringan berdasarkan jenis pemasangan:
 
-*   Kanopi rangka baja ringan “Polikarbonat x Lite Rp. 285.000 / m
-*   Kanopi rangka baja ringan “Spandek Rp. 225.000 / m
-*   Kanopi rangka baja ringan “Gogreen Rp. 200.000 /m
-*   Untuk perhitungan lainnya, silakan hubungi kami melalui kontak yang tertera di situs kami.
+- Kanopi rangka baja ringan “Polikarbonat x Lite Rp. 285.000 / m
+- Kanopi rangka baja ringan “Spandek Rp. 225.000 / m
+- Kanopi rangka baja ringan “Gogreen Rp. 200.000 /m
+- Untuk perhitungan lainnya, silakan hubungi kami melalui kontak yang tertera di situs kami.
 
 Adapun Parameter Besaran Harga Jasa Pasang Baja Ringan:
 
@@ -78,10 +78,10 @@ Setelah pembuatan sketsa dan perhitungan rangka selesai, Anda dapat membicarakan
 
 Berikut informasi detail mengenai biaya jasa pasang baja ringan yang perlu Anda ketahui:
 
-*   Harga yang kami tawarkan sudah termasuk biaya pemasangan, lebih ekonomis, dan seringkali memberikan diskon menarik bagi konsumen.
-*   Harga yang kami patok sudah sesuai dengan kualitas jasa pemasangan, perhitungan yang akurat, dan material yang terpasang.
-*   Kami selalu mengutamakan harga terbaik bagi pelanggan.
-*   Biaya jasa pasang baja ringan dapat berubah sewaktu-waktu karena fluktuasi harga material.
-*   Pembayaran dapat dilakukan dengan *down payment* dan sisanya setelah pemasangan selesai.
+- Harga yang kami tawarkan sudah termasuk biaya pemasangan, lebih ekonomis, dan seringkali memberikan diskon menarik bagi konsumen.
+- Harga yang kami patok sudah sesuai dengan kualitas jasa pemasangan, perhitungan yang akurat, dan material yang terpasang.
+- Kami selalu mengutamakan harga terbaik bagi pelanggan.
+- Biaya jasa pasang baja ringan dapat berubah sewaktu-waktu karena fluktuasi harga material.
+- Pembayaran dapat dilakukan dengan *down payment* dan sisanya setelah pemasangan selesai.
 
 Sekian informasi mengenai Harga Pasang Atap Baja Ringan Di Pasir Jaya Bogor dari Mitra Sumber Material. Jangan ragu untuk menghubungi kami untuk konsultasi gratis dan penawaran terbaik! Kami siap membantu Anda mewujudkan atap impian yang kuat, tahan lama, dan terpercaya.

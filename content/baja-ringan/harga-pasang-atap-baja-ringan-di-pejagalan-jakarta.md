@@ -21,19 +21,19 @@ Membangun dengan baja ringan kini lebih mudah dari yang Anda bayangkan! Anda han
 
 Sebelum menghubungi kami, yuk simak beberapa alasan penting mengapa Anda harus mempertimbangkan baja ringan sebagai material utama untuk atap dan kanopi:
 
- **Ramah Lingkungan:** Lebih berkelanjutan dibandingkan penggunaan kayu, karena tidak memerlukan penebangan pohon. Dengan memilih baja ringan, Anda turut berkontribusi dalam menjaga kelestarian alam.
+- **Ramah Lingkungan:** Lebih berkelanjutan dibandingkan penggunaan kayu, karena tidak memerlukan penebangan pohon. Dengan memilih baja ringan, Anda turut berkontribusi dalam menjaga kelestarian alam.
 
- **Lebih Ekonomis:** Biaya penggunaan baja ringan umumnya lebih terjangkau dibandingkan kayu berkualitas tinggi. Ini membantu Anda menekan anggaran pembangunan secara keseluruhan.
+- **Lebih Ekonomis:** Biaya penggunaan baja ringan umumnya lebih terjangkau dibandingkan kayu berkualitas tinggi. Ini membantu Anda menekan anggaran pembangunan secara keseluruhan.
 
- **Ringan dan Kuat:** Baja ringan menawarkan kombinasi ideal antara berat yang ringan dan kekuatan yang optimal. Material ini sangat cocok untuk kerangka atap dan pembuatan kanopi rumah Anda.
+- **Ringan dan Kuat:** Baja ringan menawarkan kombinasi ideal antara berat yang ringan dan kekuatan yang optimal. Material ini sangat cocok untuk kerangka atap dan pembuatan kanopi rumah Anda.
 
- **Perawatan Minimal:** Tak perlu khawatir tentang perawatan rutin yang memakan biaya. Baja ringan dirancang tahan lama dan minim perawatan.
+- **Perawatan Minimal:** Tak perlu khawatir tentang perawatan rutin yang memakan biaya. Baja ringan dirancang tahan lama dan minim perawatan.
 
- **Pemasangan Cepat:** Proses pemasangan baja ringan jauh lebih cepat dibandingkan material atap tradisional seperti kayu.
+- **Pemasangan Cepat:** Proses pemasangan baja ringan jauh lebih cepat dibandingkan material atap tradisional seperti kayu.
 
- **Bahan Berkualitas:** Baja ringan yang kami gunakan adalah bahan asli zinc dan aluminium, dengan standar keamanan 4 kali lebih baik dibandingkan baja konvensional. Material ini mampu menahan beban hingga berkilo-kilo.
+- **Bahan Berkualitas:** Baja ringan yang kami gunakan adalah bahan asli zinc dan aluminium, dengan standar keamanan 4 kali lebih baik dibandingkan baja konvensional. Material ini mampu menahan beban hingga berkilo-kilo.
 
- **Tahan Rayap:** Anda tidak perlu khawatir tentang kerusakan akibat rayap dengan menggunakan baja ringan.
+- **Tahan Rayap:** Anda tidak perlu khawatir tentang kerusakan akibat rayap dengan menggunakan baja ringan.
 
 ## Cara Menghitung Luas Rangka Baja Ringan Di Pejagalan Jakarta
 
@@ -59,10 +59,10 @@ Mengenai harga jasa pasang baja ringan, terdapat banyak informasi di internet. N
 
 (Catatan: harga dapat disesuaikan) Berikut adalah perkiraan biaya layanan pemasangan baja ringan berdasarkan jenis pemasangannya:
 
-*   Kanopi dengan rangka baja ringan & Polikarbonat Lite: Rp 285.000 / m²
-*   Kanopi dengan rangka baja ringan & Spandek: Rp 225.000 / m²
-*   Kanopi dengan rangka baja ringan & Gogreen: Rp 200.000 / m²
-*   Untuk perhitungan lainnya, segera hubungi kami melalui kontak yang tersedia di website kami.
+- Kanopi dengan rangka baja ringan & Polikarbonat Lite: Rp 285.000 / m²
+- Kanopi dengan rangka baja ringan & Spandek: Rp 225.000 / m²
+- Kanopi dengan rangka baja ringan & Gogreen: Rp 200.000 / m²
+- Untuk perhitungan lainnya, segera hubungi kami melalui kontak yang tersedia di website kami.
 
 ### Faktor Penentu Biaya
 
@@ -82,10 +82,10 @@ Setelah sketsa dan perhitungan rangka selesai, Anda dapat mendiskusikan perkiraa
 
 Berikut adalah informasi detail mengenai biaya jasa pasang baja ringan yang perlu Anda ketahui:
 
-*   Harga jasa kami sudah termasuk biaya pemasangan dengan harga yang lebih kompetitif dan banyak diskon menarik.
-*   Harga yang kami tawarkan sudah sesuai dengan jasa pemasangan, perhitungan, dan material yang digunakan.
-*   Kami selalu berusaha memberikan harga terbaik kepada pelanggan.
-*   Biaya layanan pasang baja ringan dapat berubah sewaktu-waktu karena fluktuasi harga material.
-*   Pembayaran dapat dilakukan dengan sistem *down payment* dan sisanya setelah pemasangan selesai.
+- Harga jasa kami sudah termasuk biaya pemasangan dengan harga yang lebih kompetitif dan banyak diskon menarik.
+- Harga yang kami tawarkan sudah sesuai dengan jasa pemasangan, perhitungan, dan material yang digunakan.
+- Kami selalu berusaha memberikan harga terbaik kepada pelanggan.
+- Biaya layanan pasang baja ringan dapat berubah sewaktu-waktu karena fluktuasi harga material.
+- Pembayaran dapat dilakukan dengan sistem *down payment* dan sisanya setelah pemasangan selesai.
 
 Mitra Sumber Material siap membantu Anda dalam memilih ukuran, kualitas, dan pemasangan yang tepat sesuai kebutuhan Anda. Terima kasih. Hubungi kami sekarang untuk konsultasi dan penawaran terbaik! Hubungi Kami untuk informasi lebih lanjut.

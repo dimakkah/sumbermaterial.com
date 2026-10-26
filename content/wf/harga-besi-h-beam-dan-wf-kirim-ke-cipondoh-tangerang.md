@@ -50,13 +50,13 @@ d. tidak dapat menjangkau lokasi yang sempit. Mengingat Besi WF ini berukuran pa
 
 ### Keunggulan Dari Besi WF Di Cipondoh Tangerang
 
-1\. Dapat mengurangi waktu dalam pembangunan sebuah konstruksi bangunan, memaksimalkan waktu dan juga mengurangi ongkos dan tenaga tukang.
+1. Dapat mengurangi waktu dalam pembangunan sebuah konstruksi bangunan, memaksimalkan waktu dan juga mengurangi ongkos dan tenaga tukang.
 
-2\. Dapat menopang muatan yang sangat berat, tidak mudah memuai dan lebih simple pengaplikasiannya dibanding dengan material struktural lainnya.
+2. Dapat menopang muatan yang sangat berat, tidak mudah memuai dan lebih simple pengaplikasiannya dibanding dengan material struktural lainnya.
 
-3\. Mempunyai fleksibilitas yang tinggi. Sehingga struktur bangunan yang diwujudkan dari Besi WF ini menjadi lebih kuat tdk mudah bergeser, tidak mudah ambruk ataupun goyang. Amat pantas untuk jenis bangunan diatas tanah yang labil atau sering kali terjadi goncangan.
+3. Mempunyai fleksibilitas yang tinggi. Sehingga struktur bangunan yang diwujudkan dari Besi WF ini menjadi lebih kuat tdk mudah bergeser, tidak mudah ambruk ataupun goyang. Amat pantas untuk jenis bangunan diatas tanah yang labil atau sering kali terjadi goncangan.
 
-4\. Lebih hemat sebab struktur bangunan yang mengaplikasikan Besi WF akan memiliki kekokohan yang cukup lama malahan sampai ratusan tahun. Tentunya ini yakni investasi yang betul-betul murah jikalau kita bandingkan dengan waktu pakai. Malah bangunan yang dibangun dengan rangka Besi WF dapat kita wariskan terhadap si kecil cucu kita.
+4. Lebih hemat sebab struktur bangunan yang mengaplikasikan Besi WF akan memiliki kekokohan yang cukup lama malahan sampai ratusan tahun. Tentunya ini yakni investasi yang betul-betul murah jikalau kita bandingkan dengan waktu pakai. Malah bangunan yang dibangun dengan rangka Besi WF dapat kita wariskan terhadap si kecil cucu kita.
 
 ## Mengetahui Besi H Beam Di Cipondoh Tangerang
 
@@ -72,15 +72,15 @@ Sama seperti besi yang kami jelaskan sebelumnya yakni Besi WF, besi H-Beam bahka
 
 ### Kelebihan Besi H Beam Di Cipondoh Tangerang
 
-1\. Gampang untuk didapat. Banyak supplier besi yang menyediakan stok besi H-Beam berbagai ukuran. Sehingga besi H-Beam ini sangat mudah untuk diperoleh, tdk sulit untuk menemukan toko besi yang menjual besi H Beam.
+1. Gampang untuk didapat. Banyak supplier besi yang menyediakan stok besi H-Beam berbagai ukuran. Sehingga besi H-Beam ini sangat mudah untuk diperoleh, tdk sulit untuk menemukan toko besi yang menjual besi H Beam.
 
-2\. Gampang Dalam Pemasangan. Banyak tukang spesialis dalam pemasangan besi H Beam. Meskipun besi H-Beam ini seharusnya dipasang oleh tukang yang berpengalaman akan tetapi tukang yang profesional dalam memasang besi H Beam ini benar-benar banyak kita temui hari ini. Sehingga tidak perlu dikhawatirkan lagi pelaksanaan pemasangannya.
+2. Gampang Dalam Pemasangan. Banyak tukang spesialis dalam pemasangan besi H Beam. Meskipun besi H-Beam ini seharusnya dipasang oleh tukang yang berpengalaman akan tetapi tukang yang profesional dalam memasang besi H Beam ini benar-benar banyak kita temui hari ini. Sehingga tidak perlu dikhawatirkan lagi pelaksanaan pemasangannya.
 
-3\. Memiliki ketahanan yang tidak diragukan lagi. Besi H Beam sudah teruji selama bertahun-tahun dalam kontruksi bangunan. Apakah skala kecil ataupun skala besar dan terbilang benar-benar tahan lama jika dibandingi dengan material lainnya. Bisa bertahan hingga puluhan sampai ratusan tahun.
+3. Memiliki ketahanan yang tidak diragukan lagi. Besi H Beam sudah teruji selama bertahun-tahun dalam kontruksi bangunan. Apakah skala kecil ataupun skala besar dan terbilang benar-benar tahan lama jika dibandingi dengan material lainnya. Bisa bertahan hingga puluhan sampai ratusan tahun.
 
-4\. Gampang dalam pemeliharaannya. Bangunan yang menggunakan besi H Beam sebagai struktur rangka bangunannya akan betul-betul mudah dalam mengerjakan perawatannya. tdk perlu pengecatan dengan cat khusus maupun pembersihan tiap waktu.
+4. Gampang dalam pemeliharaannya. Bangunan yang menggunakan besi H Beam sebagai struktur rangka bangunannya akan betul-betul mudah dalam mengerjakan perawatannya. tdk perlu pengecatan dengan cat khusus maupun pembersihan tiap waktu.
 
-5\. Menghemat penerapan material lainnya, seperti pengaplikasian bekisting, penerapan steger atau perancah dan juga material pasir. Besi H Beam tidak memerlukan material pasir dalam penerapannya.
+5. Menghemat penerapan material lainnya, seperti pengaplikasian bekisting, penerapan steger atau perancah dan juga material pasir. Besi H Beam tidak memerlukan material pasir dalam penerapannya.
 
 ### Kekurangan Dari Besi H Beam Di Cipondoh Tangerang
 

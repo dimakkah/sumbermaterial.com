@@ -25,7 +25,7 @@ berdasarkan Standar Nasional Indonesia ( SK SNI - S - 04 - 1989 - F ; 28) di tut
 
 Syarat Pasir yg Bagus Untuk Konstruksi Bangunan
 
-1.  Agregat Halus patut terdiri dari butiran yang tajam dan keras dengan indeks kekerasan <2.2
+1.  Agregat Halus patut terdiri dari butiran yang tajam dan keras dengan indeks kekerasan <2.2
 2. bilamana dimanfaatkan Natrium Sulfat bagian hancur optimal dua belas persen
 3. apabila diterapkan Magnesium Sulfat komponen halus optimal sepuluh persen
 4. Tak boleh mengandung clay lebih dari 5 persen
@@ -41,7 +41,6 @@ Syarat Pasir yg Bagus Untuk Konstruksi Bangunan
 Sesudah mengetahui persyaratan pasir tuk sebuah Bangunan, sekarang ini kita bahas Jenis - model Pasir Untuk Konstruksi Bangunan penjelasan nya berikut ini:
 
 - ### Pasir Beton Di Setiabudi Jakarta
-    
 
 Pasir ini lazim nya berwarna hitam kemerahan dan tingkat kekerasan butiran nya cukup tinggi. Tapi jikalau anda mengepal nya dengan tangan tak akan menggumpal dan akan buyar kembali. macam pasir ini sungguh-sungguh lah baik tuk Pengecoran, Plesteran Dinding, Adukan Pondasi dan Adukan Pasangan Bata Pasir ini yaitu pasir untuk Cor merupakan butiran-butiran mineral keras dan tajam berukuran antara 0,075 – 5 mm, kalau terdapat butiran berukuran lebih kecil dari 0,063 mm tidak lebih dari 5% berat. Pasir ini yaitu pasir untuk Rigid hampir acap kali dimanfaatkan untuk profesi cor-coran struktur seperti kolom, balok dan pelat lantai.
 
@@ -52,9 +51,9 @@ Harga Pasir Putih Bangka Free Ongkir Ke Setiabudi Jakarta Jika anda sebagai kons
 Pasir kelas satu asli kp. jebrod cianjur jawa barat yang diaplikasikan oleh indocement serta perusahaan batching plant lainnya sebagai bahan dasar produksi readymix concrete. Pasir ini paling disarankan untuk cor sebab irit semen juga mempunyai kandungan lumpur yang betul-betul rendah dibawah delapan persen. warnanya Hitam abu tua atau hitam seperti hitamnya batu kali, ada juga yang hitam kemerahan atau hitam terasi
 
 3. **Pasir Hitam Cor Cimangkok.** Pasir asal Daerah penambangannya di cimangkok sukabumi jabar yang masih masuk terhadap klasifikasi pasir hitam No. 1 di jabar, warnanya hitam kecoklatan sesuai untuk cor, pasang pondasi dan bata
-    
+
     ![Harga Pasir Putih Bangka Free Ongkir Ke Setiabudi Jakarta](/images/info/pasir-hitam-5.jpg)
-    
+
 4. **Pasir Hitam Cor Cimalaka Subang Bandung.**
 
 Pasir paling unggul yang berwarna hitam kebauan ada juga yang berwarna hitam abu tua. Banyak di aplikasikan untuk Cor, pasang dan keperluan lainnya. Ditambang di Desa cimalaka
@@ -90,9 +89,9 @@ Kecuali Rangkasbitung, Banten juga mempunyai lokasi pnembangan pasir lain sepert
 Masih dari Lokasi di banten, pasir kelas tiga ini yakni pasir yang banyak diaplikasikan di proyek proyek perumahan atau cluster sebab harganya yang murah juga kwalitas yang baik. Warna pasir ini hitam kecoklatan dan keabuan betul-betul dianjurkan untuk pasang pondasi, bata, batu dan sebagainya
 
 27. **Pasir Hitam Rigid Bohlam Sukabumi.** Pasir dari Lokasi kp. bohlam di sukabumi berwarna hitam kecoklatan, benar-benar bagus untuk pasang bata, pondasi dsb sebagai opsi pasir mutu bagus dan ekonomis
-    
+
     ![Harga Pasir Putih Bangka Free Ongkir Ke Setiabudi Jakarta](/images/info/pasir-hitam-1.jpg)
-    
+
 28. **Pasir Cor Galunggung.**
 
 Pasir ini merupakan pasir hitam kwalitas paling unggul dikelasnya lazim diaplikasikan oleh pabrik pengolahan beton readymix juga perusahan pembuatan precast dan kerap juga diterapkan untuk bahan pembuatan batako press hitam, paving block dan lainnya. Pasir ini ditambang dari Tasikmalaya jawa barat.
@@ -100,21 +99,18 @@ Pasir ini merupakan pasir hitam kwalitas paling unggul dikelasnya lazim diaplika
 ![Harga Pasir Putih Bangka Free Ongkir Ke Setiabudi Jakarta](/images/info/pasir-hitam-2.jpg)
 
 - ### Pasir Pasang Di Setiabudi Jakarta
-    
 
 ![Harga Pasir Putih Bangka Free Ongkir Ke Setiabudi Jakarta](/images/info/jual-pasir-mundu-2.jpg)
 
 Pasir ini ekstra halus lagi diperbandingkan oleh pasir beton. apabila anda mengepal pasir ini maka akan menggumpal dan tidak akan buyar kembali. pasir pasang lazim nya di manfaatkan buat campuran pasir beton supaya tidak kelewat kasar dan bisa di manfaatkan untuk plesteran dinding.
 
 - ### Pasir Elod Untuk pemadatan lantai Di Setiabudi Jakarta
-    
 
 Di Antara ke dua pasir diatas pasir model ini lebih halus lagi, bila kalian mengepal nya akan menggumpal dan tak akan buyar lagi. tetapi pasir tipe
 
 Pada lazim nya pasir ini nyaris sama dgn pasir beton tapi pasir ini memiliki tingkat kekasaran yg tinggi, butiran - butiran nya cukup besar dan agak banyak batuan nya. pada lazimnya pasir tipe ini baik untuk bahan pemadatan lantai
 
 - ### Pasir Putih Halus Untuk Pasang Bata Di Setiabudi Jakarta
-    
 
 1. **Pasir Putih Bangka**
 

@@ -18,19 +18,19 @@ Tanpa adanya besi maka sebuah bangunan akan gampang retak saat ada guncangan kec
 
 ## Seperti Ini Jenis-jenis Besi Di Pasir Putih Depok
 
-### 1\. Besi Polos Toleransi 4mm, 6mm, 8mm, 10mm, 12mm, 16mm, 18mm, 19mm Di Pasir Putih Depok
+### 1. Besi Polos Toleransi 4mm, 6mm, 8mm, 10mm, 12mm, 16mm, 18mm, 19mm Di Pasir Putih Depok
 
 Besi polos mempunyai ukuran mulai dari 8 mm hingga 25 mm dan memiliki 6 meter panjang tekuk dan 12 meter panjang lurus. Besi beton ini sudah mulai dipakai sebagai bahan utama di Indonesia pada tahun 1950. Besi ini acap kali kali diaplikasikan untuk membangun bangunan beton. Bahan yang gampang diaplikasikan sehingga selain dari dipakai untuk membangun rumah juga digunakan untuk membangun trowongan, bendungan, dan lainnya. Saat diaplikasikan untuk membangun sebuah gedung bertingkat karenanya biasa besi polos ini diaplikasikan untuk struktur tulangan balok, dinding, dan sloof. Besi beton polos ini memiliki kelebihan besi polos ini tegangannya lebih tinggi dari pada besi lainnya. Jadi besi ini terkesan lebih kokoh dan tahan beban. Sehingga penggunaan besi polos ini betul-betul sesuai untuk membangun gedung, jembatan, dan bangunan lainnya. Besi polos ini terbuat dari bahan seperti billet dan skrap. Billet merupakan baja batangan yang pengerjaan pembuatannya dengan mengecor biji besi. Seandainya skrap ialah besi bekas yang dihancurkan dengan temperature tertentu. Selain itu jikalau anda memakai besi polos ini tidak memerlukan anggaran pemeliharaan. Kian lama diaplikasikan maka besi ini akan kian kokoh.
 
-### 2\. Besi Ulir Toleransi 4mm, 6mm, 8mm, 10mm, 12mm, 16mm, 18mm, 19mm Di Pasir Putih Depok
+### 2. Besi Ulir Toleransi 4mm, 6mm, 8mm, 10mm, 12mm, 16mm, 18mm, 19mm Di Pasir Putih Depok
 
 Sesuai dengan namanya besi beton ulir ini adalah besi yang bentuknya mengulir. Pada permukaannya bercorak spiral yang mempunyai tujuan untuk menyatukan tulangan dengan faktor bahan bangunan yang dibangun oleh besi beton. Besi ulir ini mulai populer digunakan pada abad ke-20 di Amerika dan mulai populer di Indonesia pada tahun1950. Mengingat ketika mengaplikasikan besi ulir ini mempunyai banyak kelebihan mulai dari kekuatan bangunan serta lebih hemat biaya dan efisien. Produk besi ulir ini menjadi andalan pasar sebab mempunyai mutu yang terbaik di Indonesia dan memiliki harga yang tinggi seandainya diperbandingkan dengan produk lainnya.
 
-### 3\. Besi WF dan H-Beam Banci Di Pasir Putih Depok
+### 3. Besi WF dan H-Beam Banci Di Pasir Putih Depok
 
 Besi Wide Flange (WF) ini yaitu salah satu baja dengan struktural yang paling populer digunakan untuk kontruksi baja. Seandainya anda membutuhkan besi baja Wide Flage dalam jumlah yang banyak atau sedikit maka silahkan cari distributor besi yang terpercaya. Besi WF ini memiliki kekokohan yang kokoh dan kuat pada kekokohan tarik atau tekan. Karenanya dari itu besi ini menjadi unsur struktur yang mempunyai batasan yang sempurna untuk menahan beban tekan aksial, tarik aksial, dan lentur dengan fasilitas pembangunan strukturnya. Baja Wide Flange (WF) ini memiliki kepadatan yang tinggi namun rasio berat antara kekokohan bagian Baja WF yang tinggi namun tidak begitu berat yang terkait dengan kapasitas beban. Selain dari itu memastikan bila kontruksi yang diterapkan secara efisien. Cara kontruksi baja WF ini kombinasi dari elemen struktur yang rumit. Pada struktur ini mempunyai tujuan membawa bobot yang aman dan tepat sasaran yang bekerja pada sebuah bangunan dan dikirim pada pondasinya. Gaya dan bobot yang bekerja ini termasuk muatan pertikal, perbedaan temperatur, horizontal, getaran dan lainnya. Pada sebuah bangunan baja, maka ada unsure yang bermanfaat menopang gaya lateral dan gravitasi.
 
-### 4\. Besi Hollow Di Pasir Putih Depok
+### 4. Besi Hollow Di Pasir Putih Depok
 
 Besi hollow adalah besi yang dipakai sebagai pembuatan kanopi, pagar, pintu besi dan lainnya. Bahan baku pembuatan besi Hollow ini lazimnya terbuat dari stainless, galvanis, dan besi baja. Tapi yang paling kerap kali dipakai sebagai bahan baku ialah galvanis. Terdapat kelebihan yang anda peroleh saat mengaplikasikan kanopi, menerapkan pagar, teralis menggunakan besi hollow:
 

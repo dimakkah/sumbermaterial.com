@@ -18,19 +18,19 @@ Dengan tidak adanya besi maka sebuah bangunan akan mudah retak dikala ada guncan
 
 ## Megenal Variasi-tipe Besi Di Duri Selatan Jakarta
 
-### 1\. Besi Polos 4mm, 6mm, 8mm, 10mm, 12mm, 16mm, 18mm, 19mm Di Duri Selatan Jakarta
+### 1. Besi Polos 4mm, 6mm, 8mm, 10mm, 12mm, 16mm, 18mm, 19mm Di Duri Selatan Jakarta
 
 Besi polos mempunyai ukuran mulai dari 8 mm hingga 25 mm dan memiliki 6 meter panjang tekuk dan 12 meter panjang lurus. Besi beton ini mulai diaplikasikan sebagai bahan utama di Indonesia pada tahun 1950. Besi ini tak jarang kali diterapkan untuk membangun bangunan beton. Bahan yang gampang dipakai sehingga selain diaplikasikan untuk membangun sebuah gedung juga diaplikasikan untuk membangun trowongan, bendungan, dan lainnya. Saat diaplikasikan untuk membangun bangunan beton bertingkat maka biasanya besi polos ini dipakai untuk struktur tulangan balok, dinding, dan sloof. Besi beton polos ini memiliki keunggulan besi polos ini tegangannya lebih tinggi dari pada besi lainnya. Jadi besi ini terkesan lebih kokoh dan tahan beban. Sehingga pemakaian besi polos ini betul-betul cocok untuk membangun gedung, jembatan, dan bangunan lainnya. Besi polos ini terbuat dari bahan seperti billet dan skrap. Billet adalah baja batangan yang proses pembuatannya dengan melebur biji besi. Kalau skrap yaitu besi bekas yang dileburkan dengan temperature tertentu. Selain dari itu kalau anda memakai besi polos ini tdk memerlukan budget pemeliharaan. Semakin lama diterapkan karenanya besi ini akan kian kokoh.
 
-### 2\. Besi Ulir Toleransi 4mm, 6mm, 8mm, 10mm, 12mm, 16mm, 18mm, 19mm Di Duri Selatan Jakarta
+### 2. Besi Ulir Toleransi 4mm, 6mm, 8mm, 10mm, 12mm, 16mm, 18mm, 19mm Di Duri Selatan Jakarta
 
 Cocok dengan namanya besi beton ulir ini yaitu besi yang karakternya mengulir. Pada permukaannya bercorak spiral yang mempunyai tujuan untuk menyatukan gerigi besi dengan elemen material bangunan yang dibentuk oleh besi beton. Besi ulir ini mulai populer digunakan pada abad ke-20 di Amerika dan mulai populer di Indonesia pada tahun1950. Mengingat saat menerapkan besi ulir ini mempunyai banyak keunggulan mulai dari kekuatan bangunan serta lebih ekonomis dan efisien. Produk besi ulir ini menjadi paling laris di pasar sebab memiliki kwalitas yang terbaik di Indonesia dan memiliki harga yang tinggi jikalau dibandingkan dengan produk lainnya.
 
-### 3\. Besi WF dan H-Beam Di Duri Selatan Jakarta
+### 3. Besi WF dan H-Beam Di Duri Selatan Jakarta
 
 Besi Wide Flange (WF) ini ialah salah satu baja dengan struktural yang paling sering digunakan untuk kontruksi baja. Bila anda membutuhkan besi baja Wide Flage dalam jumlah yang banyak atau sedikit maka silahkan cari jual besi yang terpercaya. Besi WF ini memiliki ketahanan yang kokoh dan kuat pada ketahanan tarik atau tekan. Maka dari itu besi ini menjadi faktor struktur yang mempunyai batasan yang sempurna untuk menahan beban tekan aksial, tarik aksial, dan lentur dengan fasilitas pembangunan strukturnya. Baja Wide Flange (WF) ini mempunyai kepadatan yang tinggi tapi rasio berat antara kekuatan bagian Baja WF yang tinggi namun tdk terlalu berat yang berkaitan dengan kapasitas beban. Selain dari itu memastikan apabila kontruksi yang dipakai secara efisien. Metode kontruksi baja WF ini kombinasi dari faktor struktur yang kompleks. Pada struktur ini mempunyai tujuan membawa beban yang aman dan tepat sasaran yang berefek pada sebuah bangunan dan dikirim pada pondasinya. Gaya dan muatan yang bekerja ini termasuk bobot pertikal, perbedaan suhu, horizontal, getaran dan lainnya. Pada sebuah bangunan baja, maka ada unsure yang berguna menopang gaya lateral dan gravitasi.
 
-### 4\. Besi Holo Di Duri Selatan Jakarta
+### 4. Besi Holo Di Duri Selatan Jakarta
 
 Besi hollow yakni besi yang dipakai sebagai pembuatan kanopi, pagar, pintu besi dan lainnya. Bahan baku pembuatan besi Hollow ini lazimnya terbuat dari stainless, galvanis, dan besi baja. Namun yang paling kerap diterapkan sebagai bahan baku yakni galvanis. Terdapat kelebihan yang anda temukan saat mengaplikasikan kanopi, mengaplikasikan pagar, teralis memakai besi hollow:
 

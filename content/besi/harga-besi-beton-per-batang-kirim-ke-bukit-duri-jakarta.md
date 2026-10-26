@@ -18,19 +18,19 @@ Dengan tidak adanya besi karenanya sebuah bangunan akan mudah retak ketika ada g
 
 ## Seperti Ini Variasi-tipe Besi Di Bukit Duri Jakarta
 
-### 1\. Besi Polos Toleransi 4mm, 6mm, 8mm, 10mm, 12mm, 16mm, 18mm, 19mm Di Bukit Duri Jakarta
+### 1. Besi Polos Toleransi 4mm, 6mm, 8mm, 10mm, 12mm, 16mm, 18mm, 19mm Di Bukit Duri Jakarta
 
 Besi polos mempunyai ukuran mulai dari 8 mm hingga 25 mm dan memiliki 6 meter panjang tekuk dan 12 meter panjang lurus. Besi beton ini telah mulai dipakai sebagai bahan utama di Indonesia pada tahun 1950. Besi ini kerap kali diaplikasikan untuk membangun sebuah gedung. Bahan yang gampang digunakan sehingga selain diterapkan untuk membangun rumah juga dipakai untuk membangun trowongan, bendungan, dan lainnya. Dikala dipakai untuk membangun rumah bertingkat karenanya biasa besi polos ini digunakan untuk struktur tulangan balok, dinding, dan sloof. Besi beton polos ini mempunyai keunggulan besi polos ini tegangannya lebih tinggi dari pada besi lainnya. Sehingga besi ini terkesan lebih kuat dan tahan beban. Oleh karena itu penggunaan besi polos ini sungguh-sungguh cocok untuk membangun gedung, jembatan, dan bangunan lainnya. Besi polos ini terbuat dari bahan seperti billet dan skrap. Billet merupakan baja batangan yang pelaksanaan pembuatannya dengan mengecor biji besi. Apabila skrap merupakan besi bekas yang dihancurkan dengan temperature tertentu. Selain dari itu bila anda menggunakan besi polos ini tdk membutuhkan biaya pemeliharaan. Kian lama dipakai karenanya besi ini akan semakin kokoh.
 
-### 2\. Besi Ulir Toleransi 4mm, 6mm, 8mm, 10mm, 12mm, 16mm, 18mm, 19mm Di Bukit Duri Jakarta
+### 2. Besi Ulir Toleransi 4mm, 6mm, 8mm, 10mm, 12mm, 16mm, 18mm, 19mm Di Bukit Duri Jakarta
 
 Cocok dengan namanya besi beton ulir ini yakni besi yang bentuknya mengulir. Pada permukaannya bercorak spiral yang memiliki tujuan untuk menyatukan tulangan dengan unsur bahan bangunan yang dibangun oleh besi beton. Besi ulir ini mulai populer dipakai pada abad ke-20 di Amerika dan mulai populer di Indonesia pada tahun1950. Mengingat dikala mengaplikasikan besi ulir ini mempunyai banyak kelebihan mulai dari kekokohan bangunan serta lebih ekonomis dan efisien. Produk besi ulir ini menjadi paling laris di pasar karena mempunyai mutu yang terbaik di Indonesia dan memiliki harga yang tinggi seandainya diperbandingkan dengan produk lainnya.
 
-### 3\. Besi WF dan H-Beam Di Bukit Duri Jakarta
+### 3. Besi WF dan H-Beam Di Bukit Duri Jakarta
 
 Besi Wide Flange (WF) ini ialah salah satu baja dengan struktural yang paling banyak digunakan untuk kontruksi baja. Apabila anda memerlukan besi baja Wide Flage dalam jumlah yang banyak atau sedikit karenanya silahkan cari distributor besi yang terpercaya. Besi WF ini memiliki kekokohan yang kokoh dan kokoh pada kekokohan tarik atau tekan. Karenanya dari itu besi ini menjadi faktor struktur yang memiliki batasan yang sempurna untuk menopang bobot tekan aksial, tarik aksial, dan lentur dengan fasilitas pembangunan strukturnya. Baja Wide Flange (WF) ini mempunyai kepadatan yang tinggi tetapi rasio berat antara kekuatan komponen Baja WF yang tinggi namun tdk terlalu berat yang berhubungan dengan kapasitas muatan. Selain itu menetapkan bila kontruksi yang diterapkan secara efisien. Metode kontruksi baja WF ini kombinasi dari faktor struktur yang rumit. Pada struktur ini memiliki tujuan membawa beban yang aman dan tepat sasaran yang bekerja pada sebuah bangunan dan dikirim pada pondasinya. Gaya dan bobot yang berefek ini termasuk beban pertikal, perbedaan temperatur, horizontal, getaran dan lainnya. Pada sebuah bangunan baja, karenanya ada unsure yang berfungsi menopang gaya lateral dan gravitasi.
 
-### 4\. Besi Hollow Di Bukit Duri Jakarta
+### 4. Besi Hollow Di Bukit Duri Jakarta
 
 Besi hollow ialah besi yang digunakan sebagai pembuatan kanopi, pagar, pintu besi dan lainnya. Bahan baku pembuatan besi Hollow ini biasanya terbuat dari stainless, galvanis, dan besi baja. Tapi yang paling kerap digunakan sebagai bahan baku adalah galvanis. Terdapat kelebihan yang anda temukan dikala menerapkan kanopi, menerapkan pagar, teralis menerapkan besi hollow:
 

@@ -25,7 +25,7 @@ Menurut Standar Nasional Indonesia ( SK SNI - S - 04 - 1989 - F ; 28) di sebutka
 
 Prasyarat Pasir yang Baik Untuk Konstruksi Bangunan
 
-1.  Agregat Halus sepatutnya terdiri dari butiran yg tajam dan keras dengan indeks kekerasan <2.2
+1.  Agregat Halus sepatutnya terdiri dari butiran yg tajam dan keras dengan indeks kekerasan <2.2
 2. bilamana digunakan Natrium Sulfat bagian hancur maksimal dua belas %
 3. jika digunakan Magnesium Sulfat komponen halus maksimal sepuluh persen
 4. Tidak boleh berisi tanah lebih dari lima %
@@ -41,7 +41,6 @@ Prasyarat Pasir yang Baik Untuk Konstruksi Bangunan
 setelah mengetahui syarat pasir tuk suatu Bangunan, saat ini kita bahas Tipe - model Pasir Untuk Konstruksi penjelasan nya berikut ini:
 
 - ### Pasir Cor Di Kenari Jakarta
-    
 
 Pasir ini umum nya berwarna coklat tua dan tingkat kekasaran butiran nya lumayan tinggi. Tetapi apabila anda mengepal nya dengan tangan tidak akan menggumpal dan akan buyar kembali. tipe pasir ini betul-betul lah baik tuk Pengecoran, Plesteran Dinding, Adukan Pondasi dan Adukan Pasangan Bata Pasir ini yaitu pasir untuk Cor yakni butiran-butiran mineral keras dan tajam berukuran antara 0,075 – 5 mm, jika terdapat butiran berukuran lebih kecil dari 0,063 mm tidak lebih dari 5% berat. Pasir ini yaitu pasir untuk Cor hampir sering kali diterapkan untuk pekerjaan cor-coran struktur seperti kolom, balok dan pelat lantai.
 
@@ -52,9 +51,9 @@ Harga Pasir Lampung Free Ongkir Ke Kenari Jakarta Jikalau anda sebagai konsumen 
 Pasir kelas satu diambil dari kp. jebrod cianjur jawa barat yang diterapkan oleh indocement serta perusahaan batching plant lainnya sebagai bahan dasar produksi readymix concrete. Pasir ini paling dianjurkan untuk cor sebab irit semen juga mempunyai kandungan lumpur yang benar-benar rendah dibawah delapan persen. warnanya Hitam abu tua atau hitam seperti hitamnya batu kali, ada juga yang hitam kemerahan atau hitam terasi
 
 3. **Pasir Hitam Beton Cimangkok.** Pasir dari Lokasi penambangannya di cimangkok sukabumi jawa barat yang masih masuk terhadap golongan pasir hitam kelas satu di jabar, warnanya hitam kecoklatan layak untuk cor, pasang pondasi dan bata
-    
+
     ![Harga Pasir Lampung Free Ongkir Ke Kenari Jakarta](/images/info/pasir-hitam-8.jpg)
-    
+
 4. **Pasir Hitam Cor Cimalaka Subang Bandung.**
 
 Pasir nomor satu yang berwarna hitam kebauan ada juga yang berwarna hitam abu tua. Banyak di gunakan untuk Beton, pasang dan keperluan lainnya. Ditambang di Daerah cimalaka
@@ -90,9 +89,9 @@ Kecuali Rangkasbitung, Banten juga mempunyai lokasi pnembangan pasir lain sepert
 Masih dari kawasan di banten, pasir kelas tiga ini merupakan pasir yang banyak diaplikasikan di proyek proyek perumahan atau cluster sebab harganya yang murah juga mutu yang unggul. Warna pasir ini hitam kecoklatan dan keabuan amat dianjurkan untuk pasang pondasi, bata, batu dan sebagainya
 
 27. **Pasir Hitam Beton Bohlam Sukabumi.** Pasir dari Lokasi kp. bohlam di sukabumi berwarna hitam kecoklatan, amat bagus untuk pasang bata, pondasi dsb sebagai pilihan pasir mutu baik dan tidak mahal
-    
+
     ![Harga Pasir Lampung Free Ongkir Ke Kenari Jakarta](/images/info/pasir-hitam-1.jpg)
-    
+
 28. **Pasir Rigid Galunggung.**
 
 Pasir ini ialah pasir hitam kwalitas paling unggul dikelasnya lazim digunakan oleh pabrik pengolahan beton readymix juga perusahan pembuatan precast dan kerap juga diterapkan untuk bahan pembuatan batako press hitam, paving block dan lain-lain. Pasir ini ditambang dari Tasikmalaya jabar.
@@ -100,21 +99,18 @@ Pasir ini ialah pasir hitam kwalitas paling unggul dikelasnya lazim digunakan ol
 ![Harga Pasir Lampung Free Ongkir Ke Kenari Jakarta](/images/info/pasir-hitam-8.jpg)
 
 - ### Pasir Standar Di Kenari Jakarta
-    
 
 ![Harga Pasir Lampung Free Ongkir Ke Kenari Jakarta](/images/info/jual-pasir-mundu-2.jpg)
 
 Pasir ini lebih halus lagi dibandingi oleh pasir beton. jikalau kamu mengepal pasir ini maka akan menggumpal dan tak akan buyar kembali. pasir pasang lazim nya di gunakan untuk campuran pasir beton agar tidak kelewat kasar dan dapat di manfaatkan untuk plesteran dinding.
 
 - ### Pasir Elod Untuk pemadatan lantai Di Kenari Jakarta
-    
 
 Di Antara ke dua pasir diatas pasir jenis ini lebih halus lagi, bila anda mengepal nya maka akan menggumpal dan tidak akan hancur lagi. namun pasir tipe
 
 Pada umum nya pasir ini nyaris sama dengan pasir beton akan melainkan pasir ini mempunyai tingkat kekasaran yg tinggi, butiran - butiran nya cukup besar dan agak banyak batuan nya. pada umumnya pasir jenis ini baik tuk bahan pemadatan lantai
 
 - ### Pasir Putih Kadar Lumpur Rendah Untuk Pasang Keramik Di Kenari Jakarta
-    
 
 1. **Pasir Putih Bangka**
 

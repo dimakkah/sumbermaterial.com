@@ -25,7 +25,7 @@ berdasarkan Standar Nasional Indonesia ( SK SNI - S - 04 - 1989 - F ; 28) di tut
 
 Syarat-Syarat Pasir yg Bagus buat Konstruksi Bangunan
 
-1.  Agregat Halus wajib terdiri dari butiran yang tajam dan keras dengan indeks kekerasan <2.2
+1.  Agregat Halus wajib terdiri dari butiran yang tajam dan keras dengan indeks kekerasan <2.2
 2. bila dimanfaatkan Natrium Sulfat bagian hancur optimal dua belas %
 3. bila diterapkan Magnesium Sulfat komponen halus optimal sepuluh persen
 4. Tak boleh mengandung lumpur lebih dari 5 persen
@@ -41,7 +41,6 @@ Syarat-Syarat Pasir yg Bagus buat Konstruksi Bangunan
 setelah mengenal prasyarat pasir tuk sebuah Konstruksi, saat ini kita bahas Tipe - Macam Pasir Untuk Konstruksi Bangunan penjelasan nya berikut ini:
 
 - ### Pasir Untuk Pengecoran Di Kebonsirih Jakarta
-    
 
 Pasir ini lazim nya berwarna coklat tua dan tingkat kekasaran butiran nya lumayan tinggi. Tetapi jika anda mengepal nya dengan tangan tidak akan menggumpal dan akan buyar kembali. model pasir ini betul-betul lah baik buat Pengecoran, Plesteran Dinding, Adukan Pondasi dan Adukan Pasangan Bata Pasir ini yaitu pasir untuk Cor merupakan butiran-butiran mineral keras dan tajam berukuran antara 0,075 – 5 mm, kalau terdapat butiran berukuran lebih kecil dari 0,063 mm tidak lebih dari 5% berat. Pasir ini yaitu pasir untuk Cor kerap kali diterapkan untuk pekerjaan cor-coran struktur seperti kolom, balok dan pelat lantai.
 
@@ -59,21 +58,18 @@ Untuk mendapatkan kekuatan Cor yang optimal maka pasir harus sanggup memenuhi pe
 ![Harga Pasir Mainan Anak Free Ongkir Ke Kebonsirih Jakarta](/images/info/pasir-hitam-7.jpg)
 
 - ### Pasir Biasa Di Kebonsirih Jakarta
-    
 
 ![Harga Pasir Mainan Anak Free Ongkir Ke Kebonsirih Jakarta](/images/info/pasir-putih3.jpg)
 
 Pasir ini lebih halus lagi dibandingi oleh pasir beton. bila kalian mengepal pasir ini maka akan menggumpal dan tidak akan buyar kembali. pasir pasang biasa nya di manfaatkan tuk campuran pasir beton agar tidak terlampau kasar dan bisa di manfaatkan untuk plesteran dinding.
 
 - ### Pasir Elod Untuk Dasaran Pemasangan Granit Di Kebonsirih Jakarta
-    
 
 Di Antara ke dua pasir diatas pasir model ini lebih halus lagi, seandainya anda mengepal nya akan menggumpal dan tak akan hancur lagi. melainkan pasir tipe
 
 Pada umum nya pasir ini nyaris sama dgn pasir beton akan tapi pasir ini memiliki tingkat kekasaran yang tinggi, butiran - butiran nya cukup besar dan agak banyak batuan nya. pada lazimnya pasir jenis ini baik untuk bahan pemadatan lantai
 
 - ### Pasir Putih Halus Untuk Taman Bermain Di Kebonsirih Jakarta
-    
 
 1. **Pasir Putih Bangka**
 

@@ -17,7 +17,6 @@ draft: false
 
 {{< toc >}}
 
-
 ## Memahami Faktor-faktor yang Mempengaruhi Harga Jasa Ngecor Lantai Per M2
 
 Mitra, ada banyak hal yang memengaruhi harga jasa ngecor lantai per m2. Bukan sekadar harga materialnya saja, tapi juga kompleksitas pekerjaan, lokasi, dan penyedia jasanya. Mari kita bahas satu per satu.

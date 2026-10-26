@@ -18,19 +18,19 @@ Dengan tidak adanya besi karenanya sebuah bangunan akan gampang retak ketika ada
 
 ## Megenal Macam-macam Besi Di Rawamangun Jakarta
 
-### 1\. Besi Polos KS 4mm, 6mm, 8mm, 10mm, 12mm, 16mm, 18mm, 19mm Di Rawamangun Jakarta
+### 1. Besi Polos KS 4mm, 6mm, 8mm, 10mm, 12mm, 16mm, 18mm, 19mm Di Rawamangun Jakarta
 
 Besi polos mempunyai ukuran mulai dari 8 mm sampai 25 mm dan memiliki 6 meter panjang tekuk dan 12 meter panjang lurus. Besi beton ini telah mulai dipakai sebagai bahan utama di Indonesia pada tahun 1950. Besi ini sering kali kali diterapkan untuk membangun rumah. Bahan yang mudah diaplikasikan sehingga selain digunakan untuk membangun tempat tinggal juga diaplikasikan untuk membangun trowongan, bendungan, dan lainnya. Dikala diaplikasikan untuk membangun rumah bertingkat maka biasanya besi polos ini diaplikasikan untuk struktur rangkaian besi balok, dinding, dan sloof. Besi beton polos ini memiliki kelebihan besi polos ini tegangannya lebih tinggi dari pada besi lainnya. Jadi besi ini terkesan lebih kokoh dan tahan beban. Sehingga penerapan besi polos ini betul-betul cocok untuk membangun gedung, jembatan, dan bangunan lainnya. Besi polos ini terbuat dari bahan seperti billet dan skrap. Billet yakni baja batangan yang cara kerja pembuatannya dengan mengecor biji besi. Apabila skrap yaitu besi bekas yang dileburkan dengan temperature tertentu. Selain itu jika anda memakai besi polos ini tidak memerlukan biaya pemeliharaan. Kian lama diterapkan karenanya besi ini akan semakin kokoh.
 
-### 2\. Besi Ulir Krakatau Steel 4mm, 6mm, 8mm, 10mm, 12mm, 16mm, 18mm, 19mm Di Rawamangun Jakarta
+### 2. Besi Ulir Krakatau Steel 4mm, 6mm, 8mm, 10mm, 12mm, 16mm, 18mm, 19mm Di Rawamangun Jakarta
 
 Selaras dengan namanya besi beton ulir ini ialah besi yang tampilannya mengulir. Pada permukaannya bercorak spiral yang mempunyai tujuan untuk menyatukan gerigi besi dengan faktor material bangunan yang dibentuk oleh besi beton. Besi ulir ini mulai populer dipakai pada abad ke-20 di Amerika dan mulai populer di Indonesia pada tahun1950. Mengingat dikala mengaplikasikan besi ulir ini memiliki banyak kelebihan mulai dari kekokohan bangunan serta lebih hemat biaya dan efisien. Produk besi ulir ini menjadi paling laris di pasar karena mempunyai kualitas yang terbaik di Indonesia dan mempunyai harga yang tinggi jika diperbandingkan dengan produk lainnya.
 
-### 3\. Besi WF dan H-Beam Toleransi Di Rawamangun Jakarta
+### 3. Besi WF dan H-Beam Toleransi Di Rawamangun Jakarta
 
 Besi Wide Flange (WF) ini adalah salah satu baja dengan struktural yang paling populer dipakai untuk kontruksi baja. Sekiranya anda membutuhkan besi baja Wide Flage dalam quantitas yang banyak atau sedikit karenanya silahkan cari supplier besi yang terpercaya. Besi WF ini mempunyai kekuatan yang kokoh dan kokoh pada ketahanan tarik atau tekan. Maka dari itu besi ini menjadi elemen struktur yang memiliki batasan yang paripurna untuk menahan bobot tekan aksial, tarik aksial, dan lentur dengan fasilitas pembangunan strukturnya. Baja Wide Flange (WF) ini memiliki kepadatan yang tinggi tetapi rasio berat antara kekuatan bagian Baja WF yang tinggi tapi tidak begitu berat yang terkait dengan kapasitas bobot. Selain itu menentukan jikalau kontruksi yang digunakan secara efisien. Cara kontruksi baja WF ini kombinasi dari faktor struktur yang kompleks. Pada struktur ini memiliki tujuan membawa muatan yang aman dan efektif yang berefek pada sebuah bangunan dan dikirim pada pondasinya. Gaya dan beban yang bekerja ini termasuk muatan pertikal, perbedaan suhu, horizontal, getaran dan lainnya. Pada sebuah bangunan baja, karenanya ada unsure yang berfungsi menahan gaya lateral dan gravitasi.
 
-### 4\. Besi Holo Di Rawamangun Jakarta
+### 4. Besi Holo Di Rawamangun Jakarta
 
 Besi hollow yakni besi yang dipakai sebagai pembuatan kanopi, pagar, pintu besi dan lainnya. Bahan baku pembuatan besi Hollow ini umumnya terbuat dari stainless, galvanis, dan besi baja. Tetapi yang paling tak jarang diterapkan sebagai bahan baku adalah galvanis. Terdapat kelebihan yang anda peroleh saat menerapkan kanopi, mengaplikasikan pagar, teralis memakai besi hollow:
 

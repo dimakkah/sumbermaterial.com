@@ -50,13 +50,13 @@ d. tidak bisa menjangkau lokasi yang sempit. Mengingat Besi WF ini berukuran pan
 
 ### Kelebihan Dari Besi WF Di Sindangrasa
 
-1\. Bisa menghemat waktu dalam pembangunan sebuah konstruksi bangunan, memaksimalkan waktu dan juga menghemat biaya dan tenaga tukang.
+1. Bisa menghemat waktu dalam pembangunan sebuah konstruksi bangunan, memaksimalkan waktu dan juga menghemat biaya dan tenaga tukang.
 
-2\. Dapat menopang beban yang amat berat, tidak mudah memuai dan lebih simple penggunaannya dibanding dengan material struktural lainnya.
+2. Dapat menopang beban yang amat berat, tidak mudah memuai dan lebih simple penggunaannya dibanding dengan material struktural lainnya.
 
-3\. Memiliki fleksibilitas yang tinggi. Sehingga struktur bangunan yang dihasilkan dari Besi WF ini menjadi lebih kuat tdk mudah bergeser, tidak mudah runtuh maupun goyang. Amat pantas untuk macam bangunan diatas tanah yang labil atau kerap kali terjadi goncangan.
+3. Memiliki fleksibilitas yang tinggi. Sehingga struktur bangunan yang dihasilkan dari Besi WF ini menjadi lebih kuat tdk mudah bergeser, tidak mudah runtuh maupun goyang. Amat pantas untuk macam bangunan diatas tanah yang labil atau kerap kali terjadi goncangan.
 
-4\. Lebih hemat karena struktur bangunan yang menerapkan Besi WF akan memiliki kekuatan yang cukup lama malah hingga ratusan tahun. Tentunya ini adalah investasi yang sangat murah kalau kita bandingkan dengan waktu pakai. Bahkan bangunan yang dibangun dengan tulangan Besi WF bisa kita wariskan kepada si kecil cucu kita.
+4. Lebih hemat karena struktur bangunan yang menerapkan Besi WF akan memiliki kekuatan yang cukup lama malah hingga ratusan tahun. Tentunya ini adalah investasi yang sangat murah kalau kita bandingkan dengan waktu pakai. Bahkan bangunan yang dibangun dengan tulangan Besi WF bisa kita wariskan kepada si kecil cucu kita.
 
 ## Mengenal Besi H Beam Di Sindangrasa
 
@@ -72,15 +72,15 @@ Sama seperti besi yang kami terangkan sebelumnya yakni Besi WF, besi H-Beam mala
 
 ### Kelebihan Besi H Beam Di Sindangrasa
 
-1\. Gampang untuk didapat. Banyak distributor besi yang menyediakan stok besi H-Beam bermacam jenis ukuran. Sehingga besi H-Beam ini benar-benar mudah untuk didapat, tdk sulit untuk menemukan supplier besi yang menjual besi H Beam.
+1. Gampang untuk didapat. Banyak distributor besi yang menyediakan stok besi H-Beam bermacam jenis ukuran. Sehingga besi H-Beam ini benar-benar mudah untuk didapat, tdk sulit untuk menemukan supplier besi yang menjual besi H Beam.
 
-2\. Gampang Dalam Pemasangan. Banyak tukang spesialis dalam pemasangan besi H Beam. Meskipun besi H-Beam ini harus dipasang oleh tukang yang ahli namun tukang yang berpengalaman dalam memasang besi H Beam ini amat banyak kita temui hari ini. Sehingga tdk perlu dikhawatirkan lagi pengerjaan pemasangannya.
+2. Gampang Dalam Pemasangan. Banyak tukang spesialis dalam pemasangan besi H Beam. Meskipun besi H-Beam ini harus dipasang oleh tukang yang ahli namun tukang yang berpengalaman dalam memasang besi H Beam ini amat banyak kita temui hari ini. Sehingga tdk perlu dikhawatirkan lagi pengerjaan pemasangannya.
 
-3\. Mempunyai ketahanan yang tdk diragukan lagi. Besi H Beam sudah teruji selama bertahun-tahun dalam kontruksi bangunan. Apakah skala kecil ataupun skala besar dan terbilang sangat awet apabila diperbandingkan dengan material lainnya. Bisa bertahan sampai puluhan hingga ratusan tahun.
+3. Mempunyai ketahanan yang tdk diragukan lagi. Besi H Beam sudah teruji selama bertahun-tahun dalam kontruksi bangunan. Apakah skala kecil ataupun skala besar dan terbilang sangat awet apabila diperbandingkan dengan material lainnya. Bisa bertahan sampai puluhan hingga ratusan tahun.
 
-4\. Mudah dalam pemeliharaannya. Bangunan yang mengaplikasikan besi H Beam sebagai struktur rangka bangunannya akan amat gampang dalam mengerjakan perawatannya. tidak perlu pengecatan dengan cat khusus maupun pembersihan setiap saat.
+4. Mudah dalam pemeliharaannya. Bangunan yang mengaplikasikan besi H Beam sebagai struktur rangka bangunannya akan amat gampang dalam mengerjakan perawatannya. tidak perlu pengecatan dengan cat khusus maupun pembersihan setiap saat.
 
-5\. Menghemat pengaplikasian material lainnya, seperti penggunaan bekisting, penerapan perancah atau steger dan juga material pasir. Besi H Beam Tdk memerlukan material pasir dalam penggunaannya.
+5. Menghemat pengaplikasian material lainnya, seperti penggunaan bekisting, penerapan perancah atau steger dan juga material pasir. Besi H Beam Tdk memerlukan material pasir dalam penggunaannya.
 
 ### Kekurangan Dari Besi H Beam Di Sindangrasa
 

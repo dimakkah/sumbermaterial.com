@@ -25,7 +25,7 @@ menurut Standar Nasional Indonesia ( SK SNI - S - 04 - 1989 - F ; 28) di tuturka
 
 Syarat-Syarat Pasir yang Bagus tuk Konstruksi
 
-1.  Agregat Halus seharusnya terdiri dari butiran yg tajam dan keras dengan indeks kekerasan <2.2
+1.  Agregat Halus seharusnya terdiri dari butiran yg tajam dan keras dengan indeks kekerasan <2.2
 2. kalau diterapkan Natrium Sulfat bagian hancur optimal 12 persen
 3. jika dipakai Magnesium Sulfat komponen halus optimal 10%
 4. Tidak boleh memuat clay lebih dari lima %
@@ -41,7 +41,6 @@ Syarat-Syarat Pasir yang Bagus tuk Konstruksi
 setelah memahami prasyarat pasir buat suatu Bangunan, pada saat ini kita bahas Jenis - Ragam Pasir Untuk Konstruksi Bangunan penjelasan nya sebagai berikut:
 
 - ### Pasir Beton Di Gunung Batu Bogor
-    
 
 Pasir ini lazim nya berwarna coklat tua dan tingkat kekerasan butiran nya cukup tinggi. Tapi sekiranya anda mengepal nya dengan tangan tidak akan lengket dan akan buyar kembali. ragam pasir ini betul-betul lah bagus untuk Pengecoran, Plesteran Dinding, Adukan Pondasi dan Adukan Pasangan Bata Pasir ini yaitu pasir untuk Beton merupakan butiran-butiran mineral keras dan tajam berukuran antara 0,075 – 5 mm, bila terdapat butiran berukuran lebih kecil dari 0,063 mm tidak lebih dari 5% berat. Pasir ini yaitu pasir untuk Cor sering kali diaplikasikan untuk profesi cor-coran struktur seperti kolom, balok dan pelat lantai.
 
@@ -59,21 +58,18 @@ Untuk menerima kekokohan Rigid yang optimal maka pasir sepatutnya dapat memenuhi
 ![Harga Pasir Jebrod Free Ongkir Ke Gunung Batu Bogor](/images/info/pasir-hitam-8.jpg)
 
 - ### Pasir Untuk Adukan Pasang Batu, Pondasi, Bata, Ubin, Plester Di Gunung Batu Bogor
-    
 
 ![Harga Pasir Jebrod Free Ongkir Ke Gunung Batu Bogor](/images/info/pasir-putih3.jpg)
 
 Pasir ini lebih halus lagi dibandingkan oleh pasir beton. sekiranya anda mengepal pasir ini maka akan menggumpal dan tidak akan hancur kembali. pasir pasang biasa nya di manfaatkan tuk adukan pasir beton agar tak terlampau kasar dan dapat di gunakan untuk plesteran dinding.
 
 - ### Pasir Kualitas rendah Untuk Dasaran Pemasangan Keramik Di Gunung Batu Bogor
-    
 
 Di Antara ke dua pasir diatas pasir jenis ini lebih halus lagi, bila anda mengepal nya akan menggumpal dan tidak akan hancur lagi. tetapi pasir tipe
 
 Pada nya pasir ini nyaris sama dgn pasir beton akan namun pasir ini mempunyai tingkat kekasaran yg tinggi, butiran - butiran nya lumayan besar dan agak banyak batuan nya. pada umumnya pasir tipe ini baik tuk bahan Pembuatan Batako
 
 - ### Pasir Putih Kadar Lumpur Rendah Untuk Hiasan Di Gunung Batu Bogor
-    
 
 1. **Pasir Putih Bangka**
 

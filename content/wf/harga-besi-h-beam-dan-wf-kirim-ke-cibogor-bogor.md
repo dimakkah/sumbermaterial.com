@@ -50,13 +50,13 @@ d. tdk dapat menjangkau area yang sempit. Mengingat Besi WF ini berukuran panjan
 
 ### Kelebihan Dari Besi WF Di Cibogor Bogor
 
-1\. Bisa memaksimalkan waktu dalam pembangunan sebuah konstruksi bangunan, mengurangi waktu dan juga mengurangi biaya dan tukang pasang.
+1. Bisa memaksimalkan waktu dalam pembangunan sebuah konstruksi bangunan, mengurangi waktu dan juga mengurangi biaya dan tukang pasang.
 
-2\. Bisa menyangga muatan yang sangat berat, tidak gampang memuai dan lebih simple pemakaiannya dibanding dengan material struktural lainnya.
+2. Bisa menyangga muatan yang sangat berat, tidak gampang memuai dan lebih simple pemakaiannya dibanding dengan material struktural lainnya.
 
-3\. Mempunyai fleksibilitas yang tinggi. Sehingga struktur bangunan yang dibuat dari Besi WF ini menjadi lebih kuat tidak gampang bergeser, tdk mudah roboh maupun goyang. Amat pantas untuk jenis bangunan diatas tanah yang labil atau sering kali terjadi gempa.
+3. Mempunyai fleksibilitas yang tinggi. Sehingga struktur bangunan yang dibuat dari Besi WF ini menjadi lebih kuat tidak gampang bergeser, tdk mudah roboh maupun goyang. Amat pantas untuk jenis bangunan diatas tanah yang labil atau sering kali terjadi gempa.
 
-4\. Lebih hemat sebab struktur bangunan yang menerapkan Besi WF akan mempunyai kekuatan yang cukup lama malahan hingga ratusan tahun. Tentunya ini adalah investasi yang sangat murah bila kita bandingkan dengan waktu gunakan. Malahan bangunan yang dibangun dengan tulangan Besi WF bisa kita wariskan terhadap si kecil cucu kita.
+4. Lebih hemat sebab struktur bangunan yang menerapkan Besi WF akan mempunyai kekuatan yang cukup lama malahan hingga ratusan tahun. Tentunya ini adalah investasi yang sangat murah bila kita bandingkan dengan waktu gunakan. Malahan bangunan yang dibangun dengan tulangan Besi WF bisa kita wariskan terhadap si kecil cucu kita.
 
 ## Mengenal Besi H Beam Di Cibogor Bogor
 
@@ -72,15 +72,15 @@ Sama seperti besi yang kami paparkan sebelumnya merupakan Besi WF, besi H-Beam p
 
 ### Keunggulan Besi H Beam Di Cibogor Bogor
 
-1\. Mudah untuk diperoleh. Banyak toko besi yang menyediakan stok besi H-Beam berbagai ukuran. Sehingga besi H-Beam ini amat mudah untuk didapat, tdk susah untuk menemukan toko besi yang memasarkan besi H Beam.
+1. Mudah untuk diperoleh. Banyak toko besi yang menyediakan stok besi H-Beam berbagai ukuran. Sehingga besi H-Beam ini amat mudah untuk didapat, tdk susah untuk menemukan toko besi yang memasarkan besi H Beam.
 
-2\. Mudah Dalam Pemasangan. Banyak tukang pakar dalam pemasangan besi H Beam. Meskipun besi H-Beam ini seharusnya dipasang oleh tukang yang berpengalaman tapi tukang yang profesional dalam memasang besi H Beam ini sungguh-sungguh banyak kita temui hari ini. Sehingga tdk perlu dikhawatirkan lagi progres pemasangannya.
+2. Mudah Dalam Pemasangan. Banyak tukang pakar dalam pemasangan besi H Beam. Meskipun besi H-Beam ini seharusnya dipasang oleh tukang yang berpengalaman tapi tukang yang profesional dalam memasang besi H Beam ini sungguh-sungguh banyak kita temui hari ini. Sehingga tdk perlu dikhawatirkan lagi progres pemasangannya.
 
-3\. Memiliki kekuatan yang tdk diragukan lagi. Besi H Beam telah teruji selama bertahun-tahun dalam kontruksi bangunan. Baik skala kecil maupun skala besar dan terbilang sangat awet seandainya diperbandingkan dengan material lainnya. Bisa bertahan hingga puluhan sampai ratusan tahun.
+3. Memiliki kekuatan yang tdk diragukan lagi. Besi H Beam telah teruji selama bertahun-tahun dalam kontruksi bangunan. Baik skala kecil maupun skala besar dan terbilang sangat awet seandainya diperbandingkan dengan material lainnya. Bisa bertahan hingga puluhan sampai ratusan tahun.
 
-4\. Gampang dalam pemeliharaannya. Bangunan yang menerapkan besi H Beam sebagai struktur tulangan bangunannya akan betul-betul mudah dalam mengerjakan perawatannya. tdk perlu pengecatan dengan cat khusus maupun pembersihan tiap-tiap saat.
+4. Gampang dalam pemeliharaannya. Bangunan yang menerapkan besi H Beam sebagai struktur tulangan bangunannya akan betul-betul mudah dalam mengerjakan perawatannya. tdk perlu pengecatan dengan cat khusus maupun pembersihan tiap-tiap saat.
 
-5\. Memaksimalkan penggunaan material lainnya, seperti pengaplikasian bekisting, pemakaian tiang penyangga atau steger dan juga material pasir. Besi H Beam Tdk membutuhkan material pasir dalam pemakaiannya.
+5. Memaksimalkan penggunaan material lainnya, seperti pengaplikasian bekisting, pemakaian tiang penyangga atau steger dan juga material pasir. Besi H Beam Tdk membutuhkan material pasir dalam pemakaiannya.
 
 ### Kekurangan Dari Besi H Beam Di Cibogor Bogor
 

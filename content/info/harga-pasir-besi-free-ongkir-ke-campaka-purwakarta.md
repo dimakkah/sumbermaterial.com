@@ -25,7 +25,7 @@ Berdasarkan Standar Nasional Indonesia ( SK SNI - S - 04 - 1989 - F ; 28) di tut
 
 Syarat Pasir yg Bagus buat Konstruksi Bangunan
 
-1.  Agregat Halus sepatutnya terdiri dari butiran yg tajam dan keras dengan indeks kekerasan <2.2
+1.  Agregat Halus sepatutnya terdiri dari butiran yg tajam dan keras dengan indeks kekerasan <2.2
 2. jikalau diaplikasikan Natrium Sulfat bagian hancur optimal dua belas persen
 3. Sekiranya digunakan Magnesium Sulfat komponen halus optimal 5 persen
 4. Tak boleh mengandung clay lebih dari lima %
@@ -41,7 +41,6 @@ Syarat Pasir yg Bagus buat Konstruksi Bangunan
 setelah memahami persyaratan pasir buat sebuah Konstruksi Bangunan, saat ini kita bahas model - Ragam Pasir Untuk Konstruksi Bangunan penjelasan nya sbb:
 
 - ### Pasir Cor Di Campaka Purwakarta
-    
 
 Pasir ini lazim nya berwarna keabu-abuan dan tingkat pecahan butiran nya cukup tinggi. Tapi kalau anda mengepal nya dengan tangan tidak akan menggumpal dan akan buyar kembali. jenis pasir ini sungguh-sungguh lah baik buat Pengecoran, Plesteran Dinding, Adukan Pondasi dan Adukan Pasangan Bata Pasir ini yaitu pasir untuk Rigid merupakan butiran-butiran mineral keras dan tajam berukuran antara 0,075 – 5 mm, sekiranya terdapat butiran berukuran lebih kecil dari 0,063 mm tidak lebih dari 5% berat. Pasir ini yaitu pasir untuk Rigid hampir tak jarang dimanfaatkan untuk profesi cor-coran struktur seperti kolom, balok dan pelat lantai.
 
@@ -59,21 +58,18 @@ Untuk mendapatkan ketahanan Beton yang optimal maka pasir sepatutnya dapat memen
 ![Harga Pasir Besi Free Ongkir Ke Campaka Purwakarta](/images/info/pasir-hitam-8.jpg)
 
 - ### Pasir Pasang Di Campaka Purwakarta
-    
 
 ![Harga Pasir Besi Free Ongkir Ke Campaka Purwakarta](/images/info/pasir-hitam-11.jpg)
 
 Pasir ini ekstra halus lagi diperbandingkan oleh pasir beton. sekiranya kalian mengepal pasir ini karenanya akan menggumpal dan tak akan buyar kembali. pasir pasang biasa nya di manfaatkan untuk campuran pasir beton agar tak kelewat kasar dan dapat di manfaatkan untuk plesteran dinding.
 
 - ### Pasir Urug Untuk Pembuatan Batako Di Campaka Purwakarta
-    
 
 Di Antara ke dua pasir diatas pasir tipe ini lebih halus lagi, sekiranya anda mengepal nya akan menggumpal dan tak akan buyar lagi. tetapi pasir macam
 
 Pada lazim nya pasir ini nyaris sama dengan pasir beton tetapi pasir ini memiliki tingkat kekasaran yg tinggi, butiran - butiran nya lumayan besar dan agak banyak batuan nya. pada biasanya pasir model ini baik tuk bahan pemadatan lantai
 
 - ### Pasir Putih Bebas Lumpur Untuk Hiasan Di Campaka Purwakarta
-    
 
 1. **Pasir Putih Bangka**
 

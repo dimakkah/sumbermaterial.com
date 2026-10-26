@@ -18,19 +18,19 @@ Tanpa adanya besi maka sebuah bangunan akan gampang retak saat ada getaran kecil
 
 ## Seperti Ini Macam-macam Besi Di Batuceper Tangerang
 
-### 1\. Besi Polos Toleransi 4mm, 6mm, 8mm, 10mm, 12mm, 16mm, 18mm, 19mm Di Batuceper Tangerang
+### 1. Besi Polos Toleransi 4mm, 6mm, 8mm, 10mm, 12mm, 16mm, 18mm, 19mm Di Batuceper Tangerang
 
 Besi polos mempunyai ukuran mulai dari 8 mm hingga 25 mm dan mempunyai 6 meter panjang tekuk dan 12 meter panjang lurus. Besi beton ini mulai digunakan sebagai bahan utama di Indonesia pada tahun 1950. Besi ini acap kali kali diaplikasikan untuk membangun sebuah gedung. Bahan yang mudah digunakan sehingga selain diaplikasikan untuk membangun rumah juga digunakan untuk membangun trowongan, bendungan, dan lainnya. Dikala diterapkan untuk membangun tempat tinggal bertingkat karenanya biasa besi polos ini dipakai untuk struktur tulangan balok, dinding, dan sloof. Besi beton polos ini memiliki keunggulan besi polos ini tegangannya lebih tinggi dari pada besi lainnya. Oleh karena itu besi ini terkesan lebih kokoh dan tahan beban. Oleh karena itu pengaplikasian besi polos ini betul-betul sesuai untuk membangun gedung, jembatan, dan bangunan lainnya. Besi polos ini terbuat dari bahan seperti billet dan skrap. Billet ialah baja batangan yang proses pembuatannya dengan mengecor biji besi. Kalau skrap yakni besi bekas yang dihancurkan dengan temperature tertentu. Selain dari itu apabila anda menggunakan besi polos ini tdk membutuhkan anggaran pemeliharaan. Semakin lama diaplikasikan karenanya besi ini akan semakin kokoh.
 
-### 2\. Besi Ulir 4mm, 6mm, 8mm, 10mm, 12mm, 16mm, 18mm, 19mm Di Batuceper Tangerang
+### 2. Besi Ulir 4mm, 6mm, 8mm, 10mm, 12mm, 16mm, 18mm, 19mm Di Batuceper Tangerang
 
 Cocok dengan namanya besi beton ulir ini yaitu besi yang karakternya mengulir. Pada permukaannya bercorak spiral yang memiliki tujuan untuk menyatukan gerigi besi dengan elemen bahan bangunan yang dibangun oleh besi beton. Besi ulir ini mulai populer diaplikasikan pada abad ke-20 di Amerika dan mulai populer di Indonesia pada tahun1950. Mengingat saat memakai besi ulir ini mempunyai banyak keunggulan mulai dari ketahanan bangunan serta lebih ekonomis dan efisien. Produk besi ulir ini menjadi primadona pasar karena memiliki mutu yang terbaik di Indonesia dan mempunyai harga yang tinggi seandainya diperbandingkan dengan produk lainnya.
 
-### 3\. Besi WF dan H-Beam Di Batuceper Tangerang
+### 3. Besi WF dan H-Beam Di Batuceper Tangerang
 
 Besi Wide Flange (WF) ini yakni salah satu baja dengan struktural yang paling populer diaplikasikan untuk kontruksi baja. Kalau anda memerlukan besi baja Wide Flage dalam jumlah yang banyak atau sedikit maka silahkan cari supplier besi yang terpercaya. Besi WF ini memiliki ketahanan yang kokoh dan kuat pada kekuatan tarik atau tekan. Maka dari itu besi ini menjadi faktor struktur yang mempunyai batasan yang paripurna untuk menahan bobot tekan aksial, tarik aksial, dan lentur dengan fasilitas pembangunan strukturnya. Baja Wide Flange (WF) ini memiliki kepadatan yang tinggi namun rasio berat antara kekokohan bagian Baja WF yang tinggi tetapi tidak terlalu berat yang terkait dengan kapasitas muatan. Selain itu memastikan apabila kontruksi yang digunakan secara efisien. Cara kontruksi baja WF ini kombinasi dari elemen struktur yang rumit. Pada struktur ini mempunyai tujuan membawa muatan yang aman dan tepat sasaran yang berefek pada sebuah bangunan dan dikirim pada pondasinya. Gaya dan bobot yang bekerja ini termasuk bobot pertikal, perbedaan suhu, horizontal, getaran dan lainnya. Pada sebuah bangunan baja, maka ada unsure yang bermanfaat menahan gaya lateral dan gravitasi.
 
-### 4\. Besi Holow Di Batuceper Tangerang
+### 4. Besi Holow Di Batuceper Tangerang
 
 Besi hollow yakni besi yang diaplikasikan sebagai pembuatan kanopi, pagar, pintu besi dan lainnya. Bahan baku pembuatan besi Hollow ini biasanya terbuat dari stainless, galvanis, dan besi baja. Tapi yang paling kerap kali diterapkan sebagai bahan baku yaitu galvanis. Terdapat kelebihan yang anda dapatkan saat memasang kanopi, mengaplikasikan pagar, teralis menerapkan besi hollow:
 

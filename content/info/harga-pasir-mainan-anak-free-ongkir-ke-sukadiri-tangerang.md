@@ -25,7 +25,7 @@ Menurut Standar Nasional Indonesia ( SK SNI - S - 04 - 1989 - F ; 28) di sebutka
 
 Persyaratan Pasir yang Bagus buat Bangunan
 
-1.  Agregat Halus sepatutnya terdiri dari butiran yg tajam dan keras dengan indeks kekerasan <2.2
+1.  Agregat Halus sepatutnya terdiri dari butiran yg tajam dan keras dengan indeks kekerasan <2.2
 2. sekiranya diaplikasikan Natrium Sulfat komponen hancur optimal dua belas persen
 3. sekiranya digunakan Magnesium Sulfat komponen halus maksimal 10%
 4. Tak boleh berisi clay lebih dari 5%
@@ -41,7 +41,6 @@ Persyaratan Pasir yang Bagus buat Bangunan
 sesudah memahami prasyarat pasir tuk sebuah Konstruksi Bangunan, saat ini kita bahas Ragam - model Pasir Untuk Bangunan penjelasan nya sbb:
 
 - ### Pasir Rigid Di Sukadiri Tangerang
-    
 
 Pasir ini umum nya berwarna coklat tua dan tingkat pecahan butiran nya lumayan tinggi. Namun sekiranya anda mengepal nya dengan tangan tak akan menggumpal dan akan hancur kembali. ragam pasir ini betul-betul lah bagus buat Pengecoran, Plesteran Dinding, Adukan Pondasi dan Adukan Pasangan Bata Pasir ini yaitu pasir untuk Rigid ialah butiran-butiran mineral keras dan tajam berukuran antara 0,075 – 5 mm, jika terdapat butiran berukuran lebih kecil dari 0,063 mm tidak lebih dari 5% berat. Pasir ini yaitu pasir untuk Rigid acap kali diterapkan untuk pekerjaan cor-coran struktur seperti kolom, balok dan pelat lantai.
 
@@ -59,21 +58,18 @@ Untuk mendapatkan kualitas Rigid yang optimal maka pasir semestinya dapat memenu
 ![Harga Pasir Mainan Anak Free Ongkir Ke Sukadiri Tangerang](/images/info/pasir-hitam-9.jpg)
 
 - ### Pasir Standar Di Sukadiri Tangerang
-    
 
 ![Harga Pasir Mainan Anak Free Ongkir Ke Sukadiri Tangerang](/images/info/pasir-hitam-11.jpg)
 
 Pasir ini ekstra halus lagi dibandingkan oleh pasir beton. jikalau anda mengepal pasir ini maka akan menggumpal dan tidak akan buyar kembali. pasir pasang umum nya di manfaatkan untuk campuran pasir beton supaya tidak kelewat kasar dan dapat di pakai untuk plesteran dinding.
 
 - ### Pasir Kualitas rendah Untuk Dasaran Pemasangan Granit Di Sukadiri Tangerang
-    
 
 Di Antara ke dua pasir diatas pasir model ini lebih halus lagi, sekiranya kamu mengepal nya akan menggumpal dan tidak akan buyar lagi. melainkan pasir macam
 
 Pada lazim nya pasir ini nyaris sama dgn pasir beton tetapi pasir ini memiliki tingkat kekasaran yg tinggi, butiran - butiran nya cukup besar dan agak banyak batuan nya. pada lazimnya pasir macam ini bagus untuk bahan Pembuatan Batako
 
 - ### Pasir Putih Tanpa Ayak Untuk Taman Bermain Di Sukadiri Tangerang
-    
 
 1. **Pasir Putih Bangka**
 

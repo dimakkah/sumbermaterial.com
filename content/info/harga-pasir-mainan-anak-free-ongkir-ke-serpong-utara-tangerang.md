@@ -25,7 +25,7 @@ berdasarkan Standar Nasional Indonesia ( SK SNI - S - 04 - 1989 - F ; 28) di tut
 
 Syarat-Syarat Pasir yg Baik buat Bangunan
 
-1.  Agregat Halus sepatutnya terdiri dari butiran yang tajam dan keras dengan indeks kekerasan <2.2
+1.  Agregat Halus sepatutnya terdiri dari butiran yang tajam dan keras dengan indeks kekerasan <2.2
 2. bilamana dimanfaatkan Natrium Sulfat komponen hancur maksimal 12%
 3. Sekiranya digunakan Magnesium Sulfat bagian halus optimal 10%
 4. Tak boleh berisi clay lebih dari 5 persen
@@ -41,7 +41,6 @@ Syarat-Syarat Pasir yg Baik buat Bangunan
 Sesudah memahami syarat pasir tuk suatu Konstruksi, saat ini kita bahas Macam - Ragam Pasir Untuk Bangunan penjelasan nya sbb:
 
 - ### Pasir Untuk Beton Di Serpong Utara Tangerang
-    
 
 Pasir ini biasa nya berwarna hitam kemerahan dan tingkat pecahan butiran nya cukup tinggi. Melainkan kalau anda mengepal nya dengan tangan tidak akan lengket dan akan hancur kembali. model pasir ini betul-betul lah bagus tuk Pengecoran, Plesteran Dinding, Adukan Pondasi dan Adukan Pasangan Bata Pasir ini yaitu pasir untuk Cor merupakan butiran-butiran mineral keras dan tajam berukuran antara 0,075 – 5 mm, jika terdapat butiran berukuran lebih kecil dari 0,063 mm tidak lebih dari 5% berat. Pasir ini yaitu pasir untuk Rigid tak jarang dipakai untuk profesi cor-coran struktur seperti kolom, balok dan pelat lantai.
 
@@ -59,21 +58,18 @@ Untuk menerima ketahanan Beton yang optimal maka pasir mesti dapat memenuhi pers
 ![Harga Pasir Mainan Anak Free Ongkir Ke Serpong Utara Tangerang](/images/info/pasir-hitam-5.jpg)
 
 - ### Pasir Untuk Pasang Batu, Pondasi, Bata, Ubin, Plester Di Serpong Utara Tangerang
-    
 
 ![Harga Pasir Mainan Anak Free Ongkir Ke Serpong Utara Tangerang](/images/info/pasir-hitam-4.jpg)
 
 Pasir ini ekstra halus lagi diperbandingkan oleh pasir beton. bila kamu mengepal pasir ini maka akan menggumpal dan tidak akan hancur kembali. pasir pasang lazim nya di gunakan buat adukan pasir beton agar tidak terlampau kasar dan dapat di pakai untuk plesteran dinding.
 
 - ### Pasir Kualitas rendah Untuk pemadatan lantai Di Serpong Utara Tangerang
-    
 
 Di Antara ke dua pasir diatas pasir jenis ini lebih halus lagi, kalau anda mengepal nya akan menggumpal dan tak akan buyar lagi. namun pasir tipe
 
 Pada umum nya pasir ini nyaris sama dengan pasir beton namun pasir ini memiliki tingkat kekasaran yang tinggi, butiran - butiran nya cukup besar dan agak banyak batuan nya. pada lazimnya pasir macam ini baik tuk bahan pengurugan lantai
 
 - ### Pasir Putih Tanpa Ayak Untuk Pasang Keramik Di Serpong Utara Tangerang
-    
 
 1. **Pasir Putih Bangka**
 

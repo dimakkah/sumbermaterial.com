@@ -32,11 +32,11 @@ Dari perhitungan Biaya Jasa Las Pagar Dan Kanopi diatas, kami harap anda bisa me
 
 ## Biaya Jasa Las Pagar Dan Kanopi Berdasarkan Keperluan dan Bahan Di Curug Tangerang
 
-1\. Pembuatan Kanopi Di Curug Tangerang
+1. Pembuatan Kanopi Di Curug Tangerang
 
 \# Bahan besi mulai dari Rp. 400.000 hingga Rp. 800.000 untuk per meter # Bahan besi galvanis Rp. 500.000 sampai Rp. 850.000 utk per meter persegi # Bahan stainless Rp. 650.000 sampai Rp. 1.675.000 utk per m2
 
-2\. Pembuatan Pagar Di Curug Tangerang
+2. Pembuatan Pagar Di Curug Tangerang
 
 \# Bahan besi mulai dari Rp. 350.000 hingga Rp. 750.000 untuk per m2 # Bahan besi Galvanis mulai dari Rp. 400.000 hingga Rp. 800.000 per meter persegi # Bahan besi Stainless mulai dari Rp. 600.000 sampai Rp. 1.500.000 per meter # Bahan Tempa mulai dari Rp. 750.000 hingga Rp. 1.700.000 per m2 # Bahan Brc mulai dari Rp. 200.000 sampai Rp. 450.000 per meter
 
@@ -54,15 +54,15 @@ Sebagai Layanan Las Pagar Dan Kanopi kami melayani banyak job atau pesanan untuk
 
 Berikut ini ialah sebagian profit yang akan anda dapatkan bila mengorder Layanan Las Pagar Dan Kanopi dari kami. Kami pastikan memberikan hasil yg memuaskan utk anda.
 
- Harga Murah utk anda: Kami memberikan biaya termurah untuk anda yg mengorder Jasa Las Pagar Dan Kanopi dari kami. Kami siap datang ke tempat anda untuk melaksanakan suvery dan informasi yang terkait dg pengelasan yg diperlukan.
+- Harga Murah utk anda: Kami memberikan biaya termurah untuk anda yg mengorder Jasa Las Pagar Dan Kanopi dari kami. Kami siap datang ke tempat anda untuk melaksanakan suvery dan informasi yang terkait dg pengelasan yg diperlukan.
 
- Mendapatkan ragam material: Kami juga mendapatkan banyak macam material yang bisa kami sanggupi utk pengerjaan pengelasan. Adapun sebagian material yg dapat kami kerjakan seperti ( Pengorderan pagar, pengorderan Kanopi, pengorderan tralis, pengorderan pintu besi, pengorderan pintu henderson, pemesanan tralis, pengorderan Canopy dan masih banyak lagi yg lainnya ).
+- Mendapatkan ragam material: Kami juga mendapatkan banyak macam material yang bisa kami sanggupi utk pengerjaan pengelasan. Adapun sebagian material yg dapat kami kerjakan seperti ( Pengorderan pagar, pengorderan Kanopi, pengorderan tralis, pengorderan pintu besi, pengorderan pintu henderson, pemesanan tralis, pengorderan Canopy dan masih banyak lagi yg lainnya ).
 
- Harga disesuaikan dengan material: Seperti Jasa las pada biasanya, tiap-tiap biaya yang kami patok disesuaikan dg macam material mulai dari bahan material, panjang dan pendeknya material, ketebalan dan tingkat kesusahan ).
+- Harga disesuaikan dengan material: Seperti Jasa las pada biasanya, tiap-tiap biaya yang kami patok disesuaikan dg macam material mulai dari bahan material, panjang dan pendeknya material, ketebalan dan tingkat kesusahan ).
 
- Kerja Ideal waktu: Kami Layanan Las Pagar Dan Kanopi yang mampu menyelesaikan pelaksanaan ideal waktu cocok dengan tanggal yang telah disepakati bersama.
+- Kerja Ideal waktu: Kami Layanan Las Pagar Dan Kanopi yang mampu menyelesaikan pelaksanaan ideal waktu cocok dengan tanggal yang telah disepakati bersama.
 
- Request pantas dengan harapan: Kami memberikan kesempatan kepada anda utk merequest sesuai dengan kemauan terkait dengan progres pengelasan agar cocok dg keperluan anda.
+- Request pantas dengan harapan: Kami memberikan kesempatan kepada anda utk merequest sesuai dengan kemauan terkait dengan progres pengelasan agar cocok dg keperluan anda.
 
 Jasa Las Pagar Dan Kanopi dari kami benar-benar telah berpengalaman dalam mengerjakana banyak orderan baik dari proyek kecil ataupun proyek besar sekalipun, dari skala rumah hingga skala besar seperti perkantoran, hotel, sekolahan dan masih banyak lagi yg lainnya. Bengkel Layanan Las Pagar Dan Kanopi dari kami menerapkan bahan besi yg benar-benar bermutu di kelasnya, sehingga anda tidak perlu ragu dengan hasil finisihing yang kami berikan karena dg pengalaman para tenaga pekerja yg sudah matang akan mewujudkan finishing yang baik dan bisa bertahan lama. Ini adalah jaminan dari Layanan Las Pagar Dan Kanopi kami untuk anda.
 
@@ -76,18 +76,18 @@ Langkah permulaan yang bisa anda lakukan kalau berharap mengorder Jasa Las Pagar
 
 Bagi anda yg berharap mengenal seperti apa sistem kami mematok harga orderan Jasa las listrik, bisa menyimak informasinya dibawah ini.
 
- Merek / Sampel Material: Hal pertama yang akan kami lihat yakni jenis material dan merk.
+- Merek / Sampel Material: Hal pertama yang akan kami lihat yakni jenis material dan merk.
 
- Tebal ukuran: Tebal ukuran juga menjadi pertimbangan kami dalam menetapkan biaya.
+- Tebal ukuran: Tebal ukuran juga menjadi pertimbangan kami dalam menetapkan biaya.
 
- Bentuk / Contoh: Wujud maupun format juga menjadi pertimbangan utama kami dalam menetapkan harga.
+- Bentuk / Contoh: Wujud maupun format juga menjadi pertimbangan utama kami dalam menetapkan harga.
 
- Volume Ragam: Besar kecilnya volume pelaksanaan juga dapat menjadi pertimbangan kami.
+- Volume Ragam: Besar kecilnya volume pelaksanaan juga dapat menjadi pertimbangan kami.
 
- Tingkat kesusahan: Tingkas kesusahan juga menjadi pertimbangan kami
+- Tingkat kesusahan: Tingkas kesusahan juga menjadi pertimbangan kami
 
- Jarak: Mengatar pesanan anda ke lokasi juga masuk hitungan harga kami
+- Jarak: Mengatar pesanan anda ke lokasi juga masuk hitungan harga kami
 
- Aplikasi / : Tambahan utk biaya apabila memakai tipe
+- Aplikasi / : Tambahan utk biaya apabila memakai tipe
 
 Sekian informasi tentang Jasa Las Pagar Dan Kanopi Di Curug Tangerang. Semoga informasi ini berfaidah utk kita semuanya. Makasih.

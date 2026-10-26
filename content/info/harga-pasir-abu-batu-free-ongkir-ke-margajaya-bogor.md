@@ -25,7 +25,7 @@ Berdasarkan Standar Nasional Indonesia ( SK SNI - S - 04 - 1989 - F ; 28) di seb
 
 Syarat-Syarat Pasir yang Bagus Untuk Bangunan
 
-1.  Agregat Halus mesti terdiri dari butiran yg tajam dan keras dengan indeks kekerasan <2.2
+1.  Agregat Halus mesti terdiri dari butiran yg tajam dan keras dengan indeks kekerasan <2.2
 2. Jika digunakan Natrium Sulfat komponen hancur maksimal dua belas %
 3. Seandainya diaplikasikan Magnesium Sulfat komponen halus optimal sepuluh persen
 4. Tidak boleh memuat lumpur lebih dari lima %
@@ -41,7 +41,6 @@ Syarat-Syarat Pasir yang Bagus Untuk Bangunan
 Setelah memahami syarat pasir untuk sebuah Konstruksi, sekarang ini kita bahas Jenis - Tipe Pasir Untuk Konstruksi Bangunan penjelasan nya sbb:
 
 - ### Pasir Beton Di Margajaya Bogor
-    
 
 Pasir ini lazim nya berwarna keabu-abuan dan tingkat pecahan butiran nya lumayan tinggi. Tapi kalau anda mengepal nya dengan tangan tidak akan menggumpal dan akan buyar kembali. jenis pasir ini sangat lah bagus untuk Pengecoran, Plesteran Dinding, Adukan Pondasi dan Adukan Pasangan Bata Pasir ini yaitu pasir untuk Beton merupakan butiran-butiran mineral keras dan tajam berukuran antara 0,075 – 5 mm, jikalau terdapat butiran berukuran lebih kecil dari 0,063 mm tidak lebih dari 5% berat. Pasir ini yaitu pasir untuk Rigid sering kali dimanfaatkan untuk pekerjaan cor-coran struktur seperti kolom, balok dan pelat lantai.
 
@@ -59,21 +58,18 @@ Untuk menerima kualitas Cor yang maksimal karenanya pasir mesti dapat memenuhi p
 ![Harga Pasir Abu Batu Free Ongkir Ke Margajaya Bogor](/images/info/pasir-hitam-5.jpg)
 
 - ### Pasir Standar Di Margajaya Bogor
-    
 
 ![Harga Pasir Abu Batu Free Ongkir Ke Margajaya Bogor](/images/info/pasir-putih3.jpg)
 
 Pasir ini ekstra halus lagi dibandingi oleh pasir beton. bila anda mengepal pasir ini maka akan menggumpal dan tak akan hancur kembali. pasir pasang umum nya di pakai untuk campuran pasir beton supaya tak terlalu kasar dan bisa di manfaatkan untuk plesteran dinding.
 
 - ### Pasir Elod Untuk pemadatan lantai Di Margajaya Bogor
-    
 
 Di Antara ke dua pasir diatas pasir tipe ini lebih halus lagi, bila kamu mengepal nya karenanya akan menggumpal dan tidak akan hancur lagi. tapi pasir ragam tidak bagus tuk di buat sebagai bahan bangunan. pasir model ini pada lazim nya di pergunakan untuk Bahan Pembuatan Batako
 
 Pada nya pasir ini nyaris sama dengan pasir beton tetapi pasir ini memiliki tingkat kekasaran yg tinggi, butiran - butiran nya lumayan besar dan agak banyak batuan nya. pada lazimnya pasir model ini bagus tuk bahan pengurugan lantai
 
 - ### Pasir Putih Tanpa Batu Untuk Pengecoran Di Margajaya Bogor
-    
 
 1. **Pasir Putih Bangka**
 

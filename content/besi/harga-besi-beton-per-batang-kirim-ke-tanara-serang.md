@@ -18,19 +18,19 @@ Dengan tidak adanya besi maka sebuah bangunan akan gampang retak saat ada getara
 
 ## Megenal Macam-macam Besi Di Tanara Serang
 
-### 1\. Besi Polos SNI 4mm, 6mm, 8mm, 10mm, 12mm, 16mm, 18mm, 19mm Di Tanara Serang
+### 1. Besi Polos SNI 4mm, 6mm, 8mm, 10mm, 12mm, 16mm, 18mm, 19mm Di Tanara Serang
 
 Besi polos memiliki ukuran mulai dari 8 mm sampai 25 mm dan memiliki 6 meter panjang tekuk dan 12 meter panjang lurus. Besi beton ini mulai diaplikasikan sebagai bahan utama di Indonesia pada tahun 1950. Besi ini kerap kali kali diaplikasikan untuk membangun bangunan beton. Bahan yang gampang digunakan sehingga selain dipakai untuk membangun sebuah gedung juga diterapkan untuk membangun trowongan, bendungan, dan lainnya. Dikala digunakan untuk membangun sebuah gedung bertingkat maka biasanya besi polos ini diterapkan untuk struktur rangkaian besi balok, dinding, dan sloof. Besi beton polos ini mempunyai kelebihan besi polos ini tegangannya lebih tinggi dari pada besi lainnya. Jadi besi ini terkesan lebih kuat dan tahan beban. Jadi pengaplikasian besi polos ini sangat layak untuk membangun gedung, jembatan, dan bangunan lainnya. Besi polos ini terbuat dari bahan seperti billet dan skrap. Billet yaitu baja batangan yang pengerjaan pembuatannya dengan mengecor biji besi. Jikalau skrap ialah besi bekas yang dihancurkan dengan temperature tertentu. Selain itu kalau anda menerapkan besi polos ini tdk membutuhkan budget pemeliharaan. Semakin lama diaplikasikan maka besi ini akan kian kokoh.
 
-### 2\. Besi Ulir KS 4mm, 6mm, 8mm, 10mm, 12mm, 16mm, 18mm, 19mm Di Tanara Serang
+### 2. Besi Ulir KS 4mm, 6mm, 8mm, 10mm, 12mm, 16mm, 18mm, 19mm Di Tanara Serang
 
 Cocok dengan namanya besi beton ulir ini yakni besi yang karakternya mengulir. Pada permukaannya bercorak spiral yang mempunyai tujuan untuk menyatukan tulangan dengan faktor bahan bangunan yang dibentuk oleh besi beton. Besi ulir ini mulai populer diterapkan pada abad ke-20 di Amerika dan mulai populer di Indonesia pada tahun1950. Mengingat dikala menggunakan besi ulir ini mempunyai banyak kelebihan mulai dari kekokohan bangunan serta lebih ekonomis dan efisien. Produk besi ulir ini menjadi andalan pasar sebab memiliki mutu yang terbaik di Indonesia dan memiliki harga yang tinggi seandainya dibandingkan dengan produk lainnya.
 
-### 3\. Besi WF dan H-Beam Full Di Tanara Serang
+### 3. Besi WF dan H-Beam Full Di Tanara Serang
 
 Besi Wide Flange (WF) ini adalah salah satu baja dengan struktural yang paling sering diaplikasikan untuk kontruksi baja. Seandainya anda memerlukan besi baja Wide Flage dalam jumlah yang banyak atau sedikit karenanya silahkan cari toko besi yang terpercaya. Besi WF ini mempunyai ketahanan yang kokoh dan kokoh pada ketahanan tarik atau tekan. Maka dari itu besi ini menjadi faktor struktur yang memiliki batasan yang sempurna untuk menahan beban tekan aksial, tarik aksial, dan lentur dengan fasilitas pembangunan strukturnya. Baja Wide Flange (WF) ini mempunyai kepadatan yang tinggi namun rasio berat antara kekuatan komponen Baja WF yang tinggi tapi tdk terlalu berat yang berkaitan dengan kapasitas beban. Selain itu memastikan kalau kontruksi yang diaplikasikan secara efisien. Metode kontruksi baja WF ini kombinasi dari unsur struktur yang rumit. Pada struktur ini mempunyai tujuan membawa muatan yang aman dan efektif yang bekerja pada sebuah bangunan dan dikirim pada pondasinya. Gaya dan muatan yang bekerja ini termasuk bobot pertikal, perbedaan temperatur, horizontal, getaran dan lainnya. Pada sebuah bangunan baja, maka ada unsure yang berfungsi menopang gaya lateral dan gravitasi.
 
-### 4\. Besi Holow Di Tanara Serang
+### 4. Besi Holow Di Tanara Serang
 
 Besi hollow merupakan besi yang digunakan sebagai pembuatan kanopi, pagar, pintu besi dan lainnya. Bahan baku pembuatan besi Hollow ini umumnya terbuat dari stainless, galvanis, dan besi baja. Tetapi yang paling tak jarang dipakai sebagai bahan baku adalah galvanis. Terdapat kelebihan yang anda peroleh dikala menerapkan kanopi, mengaplikasikan pagar, teralis mengaplikasikan besi hollow:
 

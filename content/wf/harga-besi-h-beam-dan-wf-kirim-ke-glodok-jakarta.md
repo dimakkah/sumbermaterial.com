@@ -50,13 +50,13 @@ d. tdk dapat menjangkau area yang sempit. Mengingat Besi WF ini berukuran panjan
 
 ### Keunggulan Dari Besi WF Di Glodok Jakarta
 
-1\. Bisa menghemat waktu dalam pembangunan sebuah konstruksi bangunan, memaksimalkan waktu dan juga memaksimalkan biaya dan tenaga tukang.
+1. Bisa menghemat waktu dalam pembangunan sebuah konstruksi bangunan, memaksimalkan waktu dan juga memaksimalkan biaya dan tenaga tukang.
 
-2\. Dapat menyangga bobot yang benar-benar berat, tdk mudah memuai dan lebih simple pengaplikasiannya dibanding dengan material struktural lainnya.
+2. Dapat menyangga bobot yang benar-benar berat, tdk mudah memuai dan lebih simple pengaplikasiannya dibanding dengan material struktural lainnya.
 
-3\. Mempunyai fleksibilitas yang tinggi. Sehingga struktur bangunan yang dihasilkan dari Besi WF ini menjadi lebih kuat tdk mudah bergeser, tdk gampang roboh ataupun goyang. Amat layak untuk jenis bangunan diatas tanah yang labil atau sering terjadi gempa.
+3. Mempunyai fleksibilitas yang tinggi. Sehingga struktur bangunan yang dihasilkan dari Besi WF ini menjadi lebih kuat tdk mudah bergeser, tdk gampang roboh ataupun goyang. Amat layak untuk jenis bangunan diatas tanah yang labil atau sering terjadi gempa.
 
-4\. Lebih hemat sebab struktur bangunan yang memakai Besi WF akan mempunyai ketahanan yang cukup lama malahan hingga ratusan tahun. Tentunya ini merupakan investasi yang sungguh-sungguh murah jikalau kita bandingkan dengan waktu gunakan. Malah bangunan yang dibangun dengan rangka Besi WF bisa kita wariskan kepada buah hati cucu kita.
+4. Lebih hemat sebab struktur bangunan yang memakai Besi WF akan mempunyai ketahanan yang cukup lama malahan hingga ratusan tahun. Tentunya ini merupakan investasi yang sungguh-sungguh murah jikalau kita bandingkan dengan waktu gunakan. Malah bangunan yang dibangun dengan rangka Besi WF bisa kita wariskan kepada buah hati cucu kita.
 
 ## Mengetahui Besi H Beam Di Glodok Jakarta
 
@@ -72,15 +72,15 @@ Sama seperti besi yang kami paparkan sebelumnya ialah Besi WF, besi H-Beam pun m
 
 ### Keunggulan Besi H Beam Di Glodok Jakarta
 
-1\. Gampang untuk didapat. Banyak distributor besi yang menyediakan stok besi H-Beam bermacam jenis ukuran. Sehingga besi H-Beam ini betul-betul mudah untuk didapat, tidak susah untuk menemukan distributor besi yang memasarkan besi H Beam.
+1. Gampang untuk didapat. Banyak distributor besi yang menyediakan stok besi H-Beam bermacam jenis ukuran. Sehingga besi H-Beam ini betul-betul mudah untuk didapat, tidak susah untuk menemukan distributor besi yang memasarkan besi H Beam.
 
-2\. Gampang Dalam Pemasangan. Banyak tukang spesialis dalam pemasangan besi H Beam. Walaupun besi H-Beam ini mesti dipasang oleh tukang yang ahli tapi tukang yang profesional dalam memasang besi H Beam ini sangat banyak kita temui hari ini. Sehingga tidak perlu dikhawatirkan lagi progres pemasangannya.
+2. Gampang Dalam Pemasangan. Banyak tukang spesialis dalam pemasangan besi H Beam. Walaupun besi H-Beam ini mesti dipasang oleh tukang yang ahli tapi tukang yang profesional dalam memasang besi H Beam ini sangat banyak kita temui hari ini. Sehingga tidak perlu dikhawatirkan lagi progres pemasangannya.
 
-3\. Memiliki ketahanan yang tdk diragukan lagi. Besi H Beam telah teruji selama bertahun-tahun dalam kontruksi bangunan. Baik skala kecil maupun skala besar dan terbilang benar-benar awet seandainya dibandingkan dengan material lainnya. Bisa bertahan hingga puluhan sampai ratusan tahun.
+3. Memiliki ketahanan yang tdk diragukan lagi. Besi H Beam telah teruji selama bertahun-tahun dalam kontruksi bangunan. Baik skala kecil maupun skala besar dan terbilang benar-benar awet seandainya dibandingkan dengan material lainnya. Bisa bertahan hingga puluhan sampai ratusan tahun.
 
-4\. Gampang dalam pemeliharaannya. Bangunan yang menerapkan besi H Beam sebagai struktur rangka bangunannya akan sungguh-sungguh mudah dalam menjalankan pemeliharaannya. tdk perlu pengecatan dengan cat khusus ataupun pembersihan setiap waktu.
+4. Gampang dalam pemeliharaannya. Bangunan yang menerapkan besi H Beam sebagai struktur rangka bangunannya akan sungguh-sungguh mudah dalam menjalankan pemeliharaannya. tdk perlu pengecatan dengan cat khusus ataupun pembersihan setiap waktu.
 
-5\. Memaksimalkan penggunaan material lainnya, seperti penerapan bekisting, pengaplikasian steger atau tiang penyangga dan juga material pasir. Besi H Beam Tdk memerlukan material pasir dalam penerapannya.
+5. Memaksimalkan penggunaan material lainnya, seperti penerapan bekisting, pengaplikasian steger atau tiang penyangga dan juga material pasir. Besi H Beam Tdk memerlukan material pasir dalam penerapannya.
 
 ### Kekurangan Dari Besi H Beam Di Glodok Jakarta
 

@@ -16,7 +16,7 @@ dikala ini bahan yg dipakai untuk mengisi dinding rumah, sudah terdapat beragam 
 
 ## Mengenal Macam-macam Bata
 
-### 1\. Bata Merah Standar & Jumbo Di Medan Satria Bekasi
+### 1. Bata Merah Standar & Jumbo Di Medan Satria Bekasi
 
 ![Harga Batako Beton Gratis Ongkir Ke Medan Satria Bekasi](/images/bata/bata-merah-oven-08.png)
 
@@ -26,7 +26,7 @@ Bata merah ini diwujudkan dari material tanah yang kemudian di bentuk dan dibaka
 
 Material bangunan ini sungguh-sungguh kuat terhadap panas dan layak dibuat perlindungan dari bahaya api. Bata merah ini pada umumnya memiliki ukuran panjang antara 17-23 cm dan lebar sekitar 7-11 cm, serta tebalnya 3-5 cm. mempunyai ukuran yang lebih kecil akan memberi kemudahan dalam pelaksanaan pengangkutan dan dapat digunakan untuk menyusun bidang kecil.
 
-### 2\. Batako Hitam dan Putih Di Medan Satria Bekasi
+### 2. Batako Hitam dan Putih Di Medan Satria Bekasi
 
 ![Harga Batako Beton Gratis Ongkir Ke Medan Satria Bekasi](/images/bata/batako-hitam-press-09.png)
 
@@ -34,7 +34,7 @@ Material bangunan dinding dari batako press ini secara umum terbuat dari bahan K
 
 Batako trus seperti ini mempunyai kekurangan seperti mudah retak, lebih panas dan pengap. Berbeda dengan bata merah yg terbuat dari material tanah. Melainkan batako press ini cenderung lebih ringan ketimbang bata merah. Walhasil akan tampak lebih halus dan ukurannya lebih presisi sekiranya dibandingi dg bata merah. Batako trus Hitam ini memiliki ukuran panjang sekitar 36-40 cm, tinggi 18-20 cm dan tebal 8-10 cm. material ini kerap dipilih karena untuk memperingan beban struktur bangunan, meminimalisir sisa material dan mempermudah pembangunan.
 
-### 3\. Bata Herbel Di Medan Satria Bekasi
+### 3. Bata Herbel Di Medan Satria Bekasi
 
 ![Harga Batako Beton Gratis Ongkir Ke Medan Satria Bekasi](/images/bata/bata-hebel-sni-02.png)
 
@@ -62,7 +62,7 @@ Semua tentunya sudah tahu kegunaan utama batu bata mulai diaplikasikan untuk mem
 
 Metode memesan batu bata yg aman dan terpercaya:
 
-1.  Cara pembayaran bisa anda lakukan secara COD atau dibayar di daerah ketika barang pesanan anda telah datang di daerah
+1.  Cara pembayaran bisa anda lakukan secara COD atau dibayar di daerah ketika barang pesanan anda telah datang di daerah
 2. Silahkan memilih dan menetapkan material batu bata yg anda inginkan
 3. Tentukan juga jumlah orderan batu bata yg anda butuhkan dalam bentuk bijian.
 4. Anda bisa menghubungi layanan telepon toko untuk mempermudah proses pemesanan

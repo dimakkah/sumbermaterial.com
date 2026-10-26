@@ -21,13 +21,13 @@ Pemasangan baja ringan untuk proyek bangunan Anda di Cigemblong Rangkasbitung bi
 
 Yuk, kita bahas beberapa alasan mengapa Anda harus mempertimbangkan baja ringan sebagai material atap dan kanopi untuk bangunan Anda di Cigemblong Rangkasbitung:
 
- **Ramah Lingkungan:** Baja ringan merupakan pilihan yang lebih ramah lingkungan dibandingkan kayu, karena tidak memerlukan penebangan pohon. Dengan memilih baja ringan, Anda turut berkontribusi dalam melestarikan alam.
- **Ekonomis:** Dibandingkan dengan kerangka atap kayu, baja ringan biasanya lebih hemat biaya. Terutama untuk komponen kerangka yang krusial bagi kekuatan bangunan. Mempertimbangkan ini matang-matang bisa membantu menekan biaya pembangunan Anda.
- **Ringan dan Kuat:** Baja ringan memiliki berat yang lebih ringan dibandingkan baja atau besi konvensional, namun tetap memiliki kekuatan yang luar biasa. Ketebalannya yang tipis tidak mengurangi kekuatannya sebagai kerangka atap dan kanopi rumah Anda.
- **Perawatan Minimal:** Anda tidak perlu khawatir tentang perawatan rutin yang rumit. Baja ringan tahan terhadap berbagai kondisi cuaca dan hama, sehingga membebaskan Anda dari biaya perawatan tahunan.
- **Pemasangan Cepat:** Proses pemasangan baja ringan lebih cepat dibandingkan dengan kerangka atap kayu atau material lainnya. Ini menghemat waktu dan biaya tenaga kerja Anda.
- **Kualitas Terjamin:** Baja ringan yang kami gunakan adalah produk berkualitas tinggi yang terbuat dari zinc dan aluminium bersertifikat. Kekuatannya 4 kali lebih baik dibandingkan baja biasa dan mampu menahan beban hingga berkilo-kilo.
- **Tahan Rayap:** Anda tidak perlu khawatir tentang kerusakan akibat rayap. Kerangka atap dan kanopi baja ringan kami dijamin tahan terhadap serangan rayap.
+- **Ramah Lingkungan:** Baja ringan merupakan pilihan yang lebih ramah lingkungan dibandingkan kayu, karena tidak memerlukan penebangan pohon. Dengan memilih baja ringan, Anda turut berkontribusi dalam melestarikan alam.
+- **Ekonomis:** Dibandingkan dengan kerangka atap kayu, baja ringan biasanya lebih hemat biaya. Terutama untuk komponen kerangka yang krusial bagi kekuatan bangunan. Mempertimbangkan ini matang-matang bisa membantu menekan biaya pembangunan Anda.
+- **Ringan dan Kuat:** Baja ringan memiliki berat yang lebih ringan dibandingkan baja atau besi konvensional, namun tetap memiliki kekuatan yang luar biasa. Ketebalannya yang tipis tidak mengurangi kekuatannya sebagai kerangka atap dan kanopi rumah Anda.
+- **Perawatan Minimal:** Anda tidak perlu khawatir tentang perawatan rutin yang rumit. Baja ringan tahan terhadap berbagai kondisi cuaca dan hama, sehingga membebaskan Anda dari biaya perawatan tahunan.
+- **Pemasangan Cepat:** Proses pemasangan baja ringan lebih cepat dibandingkan dengan kerangka atap kayu atau material lainnya. Ini menghemat waktu dan biaya tenaga kerja Anda.
+- **Kualitas Terjamin:** Baja ringan yang kami gunakan adalah produk berkualitas tinggi yang terbuat dari zinc dan aluminium bersertifikat. Kekuatannya 4 kali lebih baik dibandingkan baja biasa dan mampu menahan beban hingga berkilo-kilo.
+- **Tahan Rayap:** Anda tidak perlu khawatir tentang kerusakan akibat rayap. Kerangka atap dan kanopi baja ringan kami dijamin tahan terhadap serangan rayap.
 
 ## Cara Menghitung Luas Rangka Baja Ringan Di Cigemblong Rangkasbitung
 
@@ -57,10 +57,10 @@ Pembahasan mengenai harga jasa pasang baja ringan memang sering muncul di intern
 
 ( Catatan: biaya dapat disesuaikan ) Berikut ini perkiraan biaya jasa pasang baja ringan berdasarkan variasi pemasangan:
 
-*   Kanopi dengan rangka baja ringan “ Polikarbonat x Lite Rp. 285.000 / m
-*   Kanopi dengan rangka baja ringan “ Spandek Rp. 225.000 / m
-*   Kanopi dengan rangka baja ringan “ Gogreen Rp. 200.000 /m
-*   Untuk perhitungan lainnya, silakan hubungi kami melalui kontak yang tertera di laman kami.
+- Kanopi dengan rangka baja ringan “ Polikarbonat x Lite Rp. 285.000 / m
+- Kanopi dengan rangka baja ringan “ Spandek Rp. 225.000 / m
+- Kanopi dengan rangka baja ringan “ Gogreen Rp. 200.000 /m
+- Untuk perhitungan lainnya, silakan hubungi kami melalui kontak yang tertera di laman kami.
 
 ### Parameter Besaran Biaya Jasa Pasang Baja Ringan
 
@@ -80,10 +80,10 @@ Setelah sketsa dan perhitungan rangka selesai, Anda dapat mendiskusikan rincian 
 
 Berikut ini detail harga jasa pasang baja ringan yang perlu Anda ketahui:
 
-*   Harga sudah termasuk biaya pemasangan yang kompetitif dan seringkali disertai diskon menarik.
-*   Harga yang kami tawarkan sesuai dengan kualitas pemasangan, perhitungan, dan material yang digunakan.
-*   Kami selalu berupaya memberikan harga terbaik bagi pelanggan kami.
-*   Harga jasa pasang baja ringan dapat berubah sewaktu-waktu mengikuti fluktuasi harga material.
-*   Pembayaran dapat dilakukan dengan *down payment* dan sisanya setelah pemasangan selesai.
+- Harga sudah termasuk biaya pemasangan yang kompetitif dan seringkali disertai diskon menarik.
+- Harga yang kami tawarkan sesuai dengan kualitas pemasangan, perhitungan, dan material yang digunakan.
+- Kami selalu berupaya memberikan harga terbaik bagi pelanggan kami.
+- Harga jasa pasang baja ringan dapat berubah sewaktu-waktu mengikuti fluktuasi harga material.
+- Pembayaran dapat dilakukan dengan *down payment* dan sisanya setelah pemasangan selesai.
 
 Anda bisa mempercayakan proyek Anda kepada kami. Harga Pasang Atap Baja Ringan Di Cigemblong Rangkasbitung siap membantu Anda dalam menentukan ukuran, kualitas, dan pemasangan yang paling sesuai dengan kebutuhan Anda. Terima kasih!

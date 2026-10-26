@@ -50,13 +50,13 @@ d. tdk dapat menjangkau area yang sempit. Mengingat Besi WF ini berukuran panjan
 
 ### Kelebihan Dari Besi WF Di Duren Mekar Depok
 
-1\. Dapat mengurangi waktu dalam pembangunan sebuah konstruksi bangunan, memaksimalkan waktu dan juga menghemat ongkos dan tenaga tukang.
+1. Dapat mengurangi waktu dalam pembangunan sebuah konstruksi bangunan, memaksimalkan waktu dan juga menghemat ongkos dan tenaga tukang.
 
-2\. Dapat menopang bobot yang amat berat, tdk mudah memuai dan lebih simple pengaplikasiannya dibanding dengan material struktural lainnya.
+2. Dapat menopang bobot yang amat berat, tdk mudah memuai dan lebih simple pengaplikasiannya dibanding dengan material struktural lainnya.
 
-3\. Mempunyai fleksibilitas yang tinggi. Sehingga struktur bangunan yang dihasilkan dari Besi WF ini menjadi lebih kuat tidak gampang bergeser, tdk gampang ambrol ataupun goyang. Sangat sesuai untuk tipe bangunan diatas tanah yang labil atau sering terjadi gempa.
+3. Mempunyai fleksibilitas yang tinggi. Sehingga struktur bangunan yang dihasilkan dari Besi WF ini menjadi lebih kuat tidak gampang bergeser, tdk gampang ambrol ataupun goyang. Sangat sesuai untuk tipe bangunan diatas tanah yang labil atau sering terjadi gempa.
 
-4\. Lebih hemat sebab struktur bangunan yang menggunakan Besi WF akan memiliki kekuatan yang cukup lama malahan hingga ratusan tahun. Tentunya ini merupakan investasi yang betul-betul murah sekiranya kita bandingkan dengan waktu pakai. Bahkan bangunan yang dibangun dengan tulangan Besi WF dapat kita wariskan terhadap buah hati cucu kita.
+4. Lebih hemat sebab struktur bangunan yang menggunakan Besi WF akan memiliki kekuatan yang cukup lama malahan hingga ratusan tahun. Tentunya ini merupakan investasi yang betul-betul murah sekiranya kita bandingkan dengan waktu pakai. Bahkan bangunan yang dibangun dengan tulangan Besi WF dapat kita wariskan terhadap buah hati cucu kita.
 
 ## Mengenal Besi H Beam Di Duren Mekar Depok
 
@@ -72,15 +72,15 @@ Sama seperti besi yang kami paparkan sebelumnya adalah Besi WF, besi H-Beam mala
 
 ### Keunggulan Besi H Beam Di Duren Mekar Depok
 
-1\. Gampang untuk diperoleh. Banyak toko besi yang menyediakan stok besi H-Beam bermacam-macam ukuran. Sehingga besi H-Beam ini amat mudah untuk didapatkan, tidak susah untuk memperoleh toko besi yang menjual besi H Beam.
+1. Gampang untuk diperoleh. Banyak toko besi yang menyediakan stok besi H-Beam bermacam-macam ukuran. Sehingga besi H-Beam ini amat mudah untuk didapatkan, tidak susah untuk memperoleh toko besi yang menjual besi H Beam.
 
-2\. Mudah Dalam Pemasangan. Banyak tukang spesialis dalam pemasangan besi H Beam. Meskipun besi H-Beam ini harus dipasang oleh tukang yang ahli namun tukang yang profesional dalam memasang besi H Beam ini sangat banyak kita temui hari ini. Sehingga tdk perlu dikhawatirkan lagi proses pemasangannya.
+2. Mudah Dalam Pemasangan. Banyak tukang spesialis dalam pemasangan besi H Beam. Meskipun besi H-Beam ini harus dipasang oleh tukang yang ahli namun tukang yang profesional dalam memasang besi H Beam ini sangat banyak kita temui hari ini. Sehingga tdk perlu dikhawatirkan lagi proses pemasangannya.
 
-3\. Mempunyai daya tahan yang tdk diragukan lagi. Besi H Beam telah teruji selama bertahun-tahun dalam kontruksi bangunan. Apakah skala kecil maupun skala besar dan terbilang betul-betul tahan lama bila dibandingkan dengan material lainnya. Bisa bertahan sampai puluhan sampai ratusan tahun.
+3. Mempunyai daya tahan yang tdk diragukan lagi. Besi H Beam telah teruji selama bertahun-tahun dalam kontruksi bangunan. Apakah skala kecil maupun skala besar dan terbilang betul-betul tahan lama bila dibandingkan dengan material lainnya. Bisa bertahan sampai puluhan sampai ratusan tahun.
 
-4\. Mudah dalam pemeliharaannya. Bangunan yang menerapkan besi H Beam sebagai struktur tulangan bangunannya akan sangat gampang dalam menjalankan pemeliharaannya. tidak perlu pengecatan dengan cat khusus maupun pembersihan tiap saat.
+4. Mudah dalam pemeliharaannya. Bangunan yang menerapkan besi H Beam sebagai struktur tulangan bangunannya akan sangat gampang dalam menjalankan pemeliharaannya. tidak perlu pengecatan dengan cat khusus maupun pembersihan tiap saat.
 
-5\. Memaksimalkan penggunaan material lainnya, seperti pemakaian bekisting, penggunaan perancah atau tiang penyangga dan juga material pasir. Besi H Beam Tdk membutuhkan material pasir dalam penggunaannya.
+5. Memaksimalkan penggunaan material lainnya, seperti pemakaian bekisting, penggunaan perancah atau tiang penyangga dan juga material pasir. Besi H Beam Tdk membutuhkan material pasir dalam penggunaannya.
 
 ### Kekurangan Dari Besi H Beam Di Duren Mekar Depok
 

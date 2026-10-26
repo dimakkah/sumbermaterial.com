@@ -16,7 +16,7 @@ dikala ini material yg diaplikasikan untuk mengisi dinding rumah, telah terdapat
 
 ## Mengenal Ragam Variasi Bata
 
-### 1\. Bata Merah Standar & Jumbo Di Ciluar Cimahpar Bogor
+### 1. Bata Merah Standar & Jumbo Di Ciluar Cimahpar Bogor
 
 ![Harga Batako Beton Gratis Ongkir Ke Ciluar Cimahpar Bogor](/images/bata/bata-merah-oven-34.png)
 
@@ -26,7 +26,7 @@ Bata merah ini dibuat dari bahan tanah yg kemudian di press dan dipanaskan denga
 
 Material bangunan ini betul-betul kuat kepada panas dan sesuai dibuat pengamanan dari panas api. Bata merah ini pada umumnya mempunyai ukuran panjang antara 17-23 cm dan lebar sekitar 7-11 cm, serta tebalnya 3-5 cm. memiliki ukuran yg lebih kecil akan memberi kemudahan dalam progres pengangkutan dan bisa diterapkan untuk membentuk bidang kecil.
 
-### 2\. Batako Hitam dan Putih Di Ciluar Cimahpar Bogor
+### 2. Batako Hitam dan Putih Di Ciluar Cimahpar Bogor
 
 ![Harga Batako Beton Gratis Ongkir Ke Ciluar Cimahpar Bogor](/images/bata/batako-hitam-press-01.png)
 
@@ -34,7 +34,7 @@ Material bangunan dinding dari batako press ini secara umum terbuat dari bahan c
 
 Batako seperti ini mempunyai kelemahan seperti mudah retak, lebih panas dan pengap. Berbeda dg bata merah yg terbuat dari material tanah. Melainkan batako trus ini cenderung lebih ringan daripada bata merah. Walhasil akan nampak lebih halus dan ukurannya lebih presisi apabila diperbandingkan dengan bata merah. Batako press Hitam ini mempunyai ukuran panjang sekitar 36-40 cm, tinggi 18-20 cm dan tebal 8-10 cm. bahan ini sering dipilih sebab untuk memperingan bobot struktur bangunan, meminimalisir sisa bahan dan mempermudah pembangunan.
 
-### 3\. Bata Herbel Di Ciluar Cimahpar Bogor
+### 3. Bata Herbel Di Ciluar Cimahpar Bogor
 
 ![Harga Batako Beton Gratis Ongkir Ke Ciluar Cimahpar Bogor](/images/bata/bata-hebel-sni-14.png)
 
@@ -62,7 +62,7 @@ Seluruhnya tentu sudah tahu kegunaan utama batu bata mulai diterapkan untuk memb
 
 Sistem mengorder batu bata yg aman dan terpercaya:
 
-1.  Pelaksanaan pembayaran dapat anda lakukan secara COD atau dibayar di daerah saat barang orderan anda telah datang di tempat
+1.  Pelaksanaan pembayaran dapat anda lakukan secara COD atau dibayar di daerah saat barang orderan anda telah datang di tempat
 2. Silahkan memilih dan memutuskan material batu bata yg anda inginkan
 3. Tentukan juga jumlah pesanan batu bata yg anda butuhkan dalam bentuk bijian.
 4. Anda dapat menghubungi layanan telepon warung untuk memudahkan pengerjaan pemesanan

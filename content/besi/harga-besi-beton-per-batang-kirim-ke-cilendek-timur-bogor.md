@@ -18,19 +18,19 @@ Tanpa adanya besi karenanya sebuah bangunan akan gampang retak ketika ada guncan
 
 ## Seperti Ini Macam-macam Besi Di Cilendek Timur Bogor
 
-### 1\. Besi Polos Full 4mm, 6mm, 8mm, 10mm, 12mm, 16mm, 18mm, 19mm Di Cilendek Timur Bogor
+### 1. Besi Polos Full 4mm, 6mm, 8mm, 10mm, 12mm, 16mm, 18mm, 19mm Di Cilendek Timur Bogor
 
 Besi polos memiliki ukuran mulai dari 8 mm hingga 25 mm dan mempunyai 6 meter panjang tekuk dan 12 meter panjang lurus. Besi beton ini mulai digunakan sebagai bahan utama di Indonesia pada tahun 1950. Besi ini tak jarang kali dipakai untuk membangun rumah. Bahan yang gampang digunakan sehingga selain digunakan untuk membangun tempat tinggal juga dipakai untuk membangun trowongan, bendungan, dan lainnya. Saat diterapkan untuk membangun tempat tinggal bertingkat karenanya biasa besi polos ini dipakai untuk struktur tulangan balok, dinding, dan sloof. Besi beton polos ini memiliki keunggulan besi polos ini tegangannya lebih tinggi dari pada besi lainnya. Sehingga besi ini terkesan lebih kokoh dan tahan beban. Oleh karena itu pengaplikasian besi polos ini sangat pantas untuk membangun gedung, jembatan, dan bangunan lainnya. Besi polos ini terbuat dari bahan seperti billet dan skrap. Billet ialah baja batangan yang pengerjaan pembuatannya dengan mengecor biji besi. Sekiranya skrap merupakan besi bekas yang dihancurkan dengan temperature tertentu. Selain itu sekiranya anda memakai besi polos ini tidak membutuhkan anggaran pemeliharaan. Kian lama diterapkan karenanya besi ini akan kian kokoh.
 
-### 2\. Besi Ulir KS 4mm, 6mm, 8mm, 10mm, 12mm, 16mm, 18mm, 19mm Di Cilendek Timur Bogor
+### 2. Besi Ulir KS 4mm, 6mm, 8mm, 10mm, 12mm, 16mm, 18mm, 19mm Di Cilendek Timur Bogor
 
 Selaras dengan namanya besi beton ulir ini adalah besi yang karakternya mengulir. Pada permukaannya bercorak spiral yang memiliki tujuan untuk menyatukan tulangan dengan unsur bahan bangunan yang dibangun oleh besi beton. Besi ulir ini mulai populer diaplikasikan pada abad ke-20 di Amerika dan mulai populer di Indonesia pada tahun1950. Mengingat dikala menerapkan besi ulir ini mempunyai banyak kelebihan mulai dari kekuatan bangunan serta lebih hemat biaya dan efisien. Produk besi ulir ini menjadi paling laris di pasar karena memiliki mutu yang terbaik di Indonesia dan memiliki harga yang tinggi apabila diperbandingkan dengan produk lainnya.
 
-### 3\. Besi WF dan H-Beam KS Di Cilendek Timur Bogor
+### 3. Besi WF dan H-Beam KS Di Cilendek Timur Bogor
 
 Besi Wide Flange (WF) ini adalah salah satu baja dengan struktural yang paling populer diaplikasikan untuk kontruksi baja. Bila anda memerlukan besi baja Wide Flage dalam quantitas yang banyak atau sedikit karenanya silahkan cari toko besi yang terpercaya. Besi WF ini memiliki ketahanan yang kokoh dan kuat pada kekuatan tarik atau tekan. Karenanya dari itu besi ini menjadi elemen struktur yang memiliki batasan yang paripurna untuk menopang beban tekan aksial, tarik aksial, dan lentur dengan fasilitas pembangunan strukturnya. Baja Wide Flange (WF) ini memiliki kepadatan yang tinggi namun rasio berat antara kekokohan komponen Baja WF yang tinggi tetapi tdk terlalu berat yang berhubungan dengan kapasitas beban. Selain dari itu menetapkan jikalau kontruksi yang diterapkan secara efisien. Sistem kontruksi baja WF ini kombinasi dari unsur struktur yang rumit. Pada struktur ini mempunyai tujuan membawa muatan yang aman dan tepat sasaran yang bekerja pada sebuah bangunan dan dikirim pada pondasinya. Gaya dan beban yang bekerja ini termasuk muatan pertikal, perbedaan temperatur, horizontal, getaran dan lainnya. Pada sebuah bangunan baja, karenanya ada unsure yang bermanfaat menahan gaya lateral dan gravitasi.
 
-### 4\. Besi Holo Di Cilendek Timur Bogor
+### 4. Besi Holo Di Cilendek Timur Bogor
 
 Besi hollow merupakan besi yang diaplikasikan sebagai pembuatan kanopi, pagar, pintu besi dan lainnya. Bahan baku pembuatan besi Hollow ini umumnya terbuat dari stainless, galvanis, dan besi baja. Namun yang paling kerap digunakan sebagai bahan baku yakni galvanis. Terdapat kelebihan yang anda temukan ketika menerapkan kanopi, mengaplikasikan pagar, teralis menggunakan besi hollow:
 

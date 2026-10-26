@@ -21,13 +21,13 @@ Pemasangan baja ringan untuk keperluan bangunan bisa dilakukan dengan cukup muda
 
 Berikut ini beberapa alasan mendasar yang sebaiknya Anda ketahui sebelum menghubungi kami. Mengapa Anda harus memilih baja ringan sebagai kerangka atap dan Kanopi:
 
-*   Baja ringan dianggap lebih ramah lingkungan karena Anda tidak membutuhkan kayu yang berarti tidak perlu menebang pohon secara khusus hanya untuk mendapatkannya. Dengan memakai kerangka baja ringan, Anda turut membantu melestarikan alam.
-*   Lebih ekonomis. Jika dibandingkan menggunakan kerangka dari bahan kayu, harganya akan jauh lebih mahal karena mendapatkan kayu berkualitas terbaik juga memerlukan biaya yang lebih besar. Terlebih ini untuk bagian kerangka yang sangat krusial untuk sebuah bangunan. Anda perlu memikirkan ini matang-matang untuk menekan biaya pembangunan.
-*   Ringan dan kuat. Baja ringan berbeda dengan “baja/besi” yang memiliki berat 2 kali lipat dari baja ringan. Baja ringan memiliki ketebalan yang tipis dan ringan, namun tetap sangat kuat untuk kerangka atap dan pembuatan Canopy rumah Anda.
-*   Minim perawatan. Anda tidak perlu khawatir kerangka atap Anda rusak dan lain-lain. Kami yakin ini akan membebaskan Anda dari perawatan tahunan yang memakan biaya.
-*   Proses pemasangan cepat. Berbeda dengan kerangka atap yang terbuat dari bahan kayu dan bahan lain yang membutuhkan waktu lama dalam pengerjaannya. Ini tidak berlaku jika Anda menggunakan kerangka atap dari bahan baja ringan.
-*   Bahan berkualitas. Baja ringan dari kami bukanlah baja ringan sembarangan. Bahan utamanya adalah zinc dan aluminium yang telah memiliki akta dan standar keamanan 4 kali lebih baik dibandingkan baja umum. Kekuatannya pun bisa menopang berkilo-kilo beban.
-*   Tahan rayap. Kami pastikan kerangka atap dan Kanopi dari baja ringan ini dijamin tahan rayap.
+- Baja ringan dianggap lebih ramah lingkungan karena Anda tidak membutuhkan kayu yang berarti tidak perlu menebang pohon secara khusus hanya untuk mendapatkannya. Dengan memakai kerangka baja ringan, Anda turut membantu melestarikan alam.
+- Lebih ekonomis. Jika dibandingkan menggunakan kerangka dari bahan kayu, harganya akan jauh lebih mahal karena mendapatkan kayu berkualitas terbaik juga memerlukan biaya yang lebih besar. Terlebih ini untuk bagian kerangka yang sangat krusial untuk sebuah bangunan. Anda perlu memikirkan ini matang-matang untuk menekan biaya pembangunan.
+- Ringan dan kuat. Baja ringan berbeda dengan “baja/besi” yang memiliki berat 2 kali lipat dari baja ringan. Baja ringan memiliki ketebalan yang tipis dan ringan, namun tetap sangat kuat untuk kerangka atap dan pembuatan Canopy rumah Anda.
+- Minim perawatan. Anda tidak perlu khawatir kerangka atap Anda rusak dan lain-lain. Kami yakin ini akan membebaskan Anda dari perawatan tahunan yang memakan biaya.
+- Proses pemasangan cepat. Berbeda dengan kerangka atap yang terbuat dari bahan kayu dan bahan lain yang membutuhkan waktu lama dalam pengerjaannya. Ini tidak berlaku jika Anda menggunakan kerangka atap dari bahan baja ringan.
+- Bahan berkualitas. Baja ringan dari kami bukanlah baja ringan sembarangan. Bahan utamanya adalah zinc dan aluminium yang telah memiliki akta dan standar keamanan 4 kali lebih baik dibandingkan baja umum. Kekuatannya pun bisa menopang berkilo-kilo beban.
+- Tahan rayap. Kami pastikan kerangka atap dan Kanopi dari baja ringan ini dijamin tahan rayap.
 
 ## Cara Hitung Luas Rangka Baja Ringan Di Cidadap Sukabumi
 
@@ -39,7 +39,7 @@ Perhitungan luas datar adalah (overstack + Panjang) x (lebar + overstack) atau (
 
 ### Menentukan Luas Miring
 
-Penentuan luas miring menggunakan rumus: Luas miring = Luas datar / Cosinus kemiringan atap. Perhitungannya adalah 181.44 / 0.8666 menghasilkan 209.52 m². Jadi, luas kemiringan pada rangka atap baja ringan adalah 209.52 meter persegi. 
+Penentuan luas miring menggunakan rumus: Luas miring = Luas datar / Cosinus kemiringan atap. Perhitungannya adalah 181.44 / 0.8666 menghasilkan 209.52 m². Jadi, luas kemiringan pada rangka atap baja ringan adalah 209.52 meter persegi.
 
 Dengan perhitungan ini, Anda dapat memperkirakan jumlah dan volume baja ringan yang dibutuhkan untuk pemasangan. Namun, jika terasa sulit untuk dilakukan sendiri, jangan ragu untuk menghubungi kami.
 
@@ -53,10 +53,10 @@ Mengenai Harga Jasa pasang baja ringan, sudah banyak informasi yang tersedia onl
 
 (Catatan: harga dapat ditambahkan sendiri) Berikut adalah beberapa perhitungan Harga Jasa pasang baja ringan berdasarkan variasi pemasangannya (kanopi dan kerangka atap):
 
-*   Kanopi dengan rangka baja ringan “Polikarbonat x Lite Rp. 285.000 / m
-*   Kanopi dengan rangka baja ringan “Spandek Rp. 225.000 / m
-*   Kanopi dengan rangka baja ringan “Gogreen Rp. 200.000 /m
-*   Untuk perhitungan lainnya, segera hubungi kami melalui kontak yang telah kami sediakan di situs kami.
+- Kanopi dengan rangka baja ringan “Polikarbonat x Lite Rp. 285.000 / m
+- Kanopi dengan rangka baja ringan “Spandek Rp. 225.000 / m
+- Kanopi dengan rangka baja ringan “Gogreen Rp. 200.000 /m
+- Untuk perhitungan lainnya, segera hubungi kami melalui kontak yang telah kami sediakan di situs kami.
 
 ## Parameter Besaran Biaya Layanan Pasang Baja Ringan
 
@@ -76,10 +76,10 @@ Setelah pembuatan sketsa dan perhitungan rangka selesai, Anda dapat mendiskusika
 
 Berikut adalah informasi rinci mengenai Biaya Jasa pasang baja ringan yang perlu Anda ketahui. Ini penting untuk menentukan besaran budget yang diperlukan:
 
-*   Harga Layanan kami sudah termasuk biaya pemasangan yang lebih ekonomis dan banyak memberikan diskon.
-*   Harga yang kami berikan sudah layak sesuai dengan Jasa pemasangan, perhitungan, dan material yang terpasang.
-*   Harga terbaik dari kami selalu kami prioritaskan saat bertemu dengan Anda.
-*   Biaya Jasa pasang baja ringan dapat berubah sewaktu-waktu karena faktor material.
-*   Pembayaran dapat dilakukan dengan down payment dan sisanya setelah pemasangan selesai.
+- Harga Layanan kami sudah termasuk biaya pemasangan yang lebih ekonomis dan banyak memberikan diskon.
+- Harga yang kami berikan sudah layak sesuai dengan Jasa pemasangan, perhitungan, dan material yang terpasang.
+- Harga terbaik dari kami selalu kami prioritaskan saat bertemu dengan Anda.
+- Biaya Jasa pasang baja ringan dapat berubah sewaktu-waktu karena faktor material.
+- Pembayaran dapat dilakukan dengan down payment dan sisanya setelah pemasangan selesai.
 
 Anda bisa mempercayakan hal ini kepada kami. Kami, sebagai Harga Pasang Atap Baja Ringan Di Cidadap Sukabumi, siap membantu Anda dalam menentukan ukuran, kualitas, dan pemasangan yang benar-benar sesuai dengan kebutuhan tanpa meninggalkan sisa material. Terima kasih.

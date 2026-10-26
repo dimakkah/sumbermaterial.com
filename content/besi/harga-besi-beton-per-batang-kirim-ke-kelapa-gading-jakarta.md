@@ -18,19 +18,19 @@ Dengan tidak adanya besi karenanya sebuah bangunan akan mudah retak saat ada get
 
 ## Seperti Ini Variasi-tipe Besi Di Kelapa Gading Jakarta
 
-### 1\. Besi Polos 4mm, 6mm, 8mm, 10mm, 12mm, 16mm, 18mm, 19mm Di Kelapa Gading Jakarta
+### 1. Besi Polos 4mm, 6mm, 8mm, 10mm, 12mm, 16mm, 18mm, 19mm Di Kelapa Gading Jakarta
 
 Besi polos mempunyai ukuran mulai dari 8 mm sampai 25 mm dan memiliki 6 meter panjang tekuk dan 12 meter panjang lurus. Besi beton ini telah mulai digunakan sebagai bahan utama di Indonesia pada tahun 1950. Besi ini sering kali diaplikasikan untuk membangun rumah. Bahan yang gampang digunakan sehingga selain dari digunakan untuk membangun sebuah gedung juga dipakai untuk membangun trowongan, bendungan, dan lainnya. Saat diterapkan untuk membangun rumah bertingkat karenanya biasa besi polos ini diterapkan untuk struktur tulangan balok, dinding, dan sloof. Besi beton polos ini memiliki kelebihan besi polos ini tegangannya lebih tinggi dari pada besi lainnya. Oleh karena itu besi ini terkesan lebih kuat dan tahan beban. Jadi pemakaian besi polos ini amat pantas untuk membangun gedung, jembatan, dan bangunan lainnya. Besi polos ini terbuat dari bahan seperti billet dan skrap. Billet merupakan baja batangan yang cara kerja pembuatannya dengan mengecor biji besi. Seandainya skrap merupakan besi bekas yang dileburkan dengan temperature tertentu. Selain itu jika anda mengaplikasikan besi polos ini tidak memerlukan budget pemeliharaan. Semakin lama digunakan maka besi ini akan semakin kokoh.
 
-### 2\. Besi Ulir KS 4mm, 6mm, 8mm, 10mm, 12mm, 16mm, 18mm, 19mm Di Kelapa Gading Jakarta
+### 2. Besi Ulir KS 4mm, 6mm, 8mm, 10mm, 12mm, 16mm, 18mm, 19mm Di Kelapa Gading Jakarta
 
 Cocok dengan namanya besi beton ulir ini adalah besi yang tampilannya mengulir. Pada permukaannya bercorak spiral yang memiliki tujuan untuk menyatukan gerigi besi dengan faktor bahan bangunan yang dibangun oleh besi beton. Besi ulir ini mulai populer diterapkan pada abad ke-20 di Amerika dan mulai populer di Indonesia pada tahun1950. Mengingat dikala menggunakan besi ulir ini memiliki banyak kelebihan mulai dari ketahanan bangunan serta lebih murah dan efisien. Produk besi ulir ini menjadi primadona pasar sebab memiliki kualitas yang terbaik di Indonesia dan memiliki harga yang tinggi seandainya dibandingkan dengan produk lainnya.
 
-### 3\. Besi WF dan H-Beam Toleransi Di Kelapa Gading Jakarta
+### 3. Besi WF dan H-Beam Toleransi Di Kelapa Gading Jakarta
 
 Besi Wide Flange (WF) ini yaitu salah satu baja dengan struktural yang paling populer diaplikasikan untuk kontruksi baja. Jika anda memerlukan besi baja Wide Flage dalam jumlah yang banyak atau sedikit karenanya silahkan cari distributor besi yang terpercaya. Besi WF ini mempunyai ketahanan yang kokoh dan kuat pada kekokohan tarik atau tekan. Karenanya dari itu besi ini menjadi unsur struktur yang mempunyai batasan yang paripurna untuk menopang beban tekan aksial, tarik aksial, dan lentur dengan fasilitas pembangunan strukturnya. Baja Wide Flange (WF) ini memiliki kepadatan yang tinggi namun rasio berat antara ketahanan bagian Baja WF yang tinggi namun tdk begitu berat yang berhubungan dengan kapasitas muatan. Selain itu memastikan jika kontruksi yang diaplikasikan secara efisien. Cara kontruksi baja WF ini kombinasi dari faktor struktur yang rumit. Pada struktur ini mempunyai tujuan membawa bobot yang aman dan tepat sasaran yang berefek pada sebuah bangunan dan dikirim pada pondasinya. Gaya dan beban yang berefek ini termasuk muatan pertikal, perbedaan suhu, horizontal, getaran dan lainnya. Pada sebuah bangunan baja, maka ada unsure yang bermanfaat menopang gaya lateral dan gravitasi.
 
-### 4\. Besi Holow Di Kelapa Gading Jakarta
+### 4. Besi Holow Di Kelapa Gading Jakarta
 
 Besi hollow yakni besi yang diaplikasikan sebagai pembuatan kanopi, pagar, pintu besi dan lainnya. Bahan baku pembuatan besi Hollow ini umumnya terbuat dari stainless, galvanis, dan besi baja. Tapi yang paling sering kali dipakai sebagai bahan baku yaitu galvanis. Terdapat kelebihan yang anda temukan ketika menerapkan kanopi, mengaplikasikan pagar, teralis memakai besi hollow:
 

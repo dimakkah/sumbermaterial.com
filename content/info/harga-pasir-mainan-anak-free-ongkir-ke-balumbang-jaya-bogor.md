@@ -25,7 +25,7 @@ menurut Standar Nasional Indonesia ( SK SNI - S - 04 - 1989 - F ; 28) di sebutka
 
 Syarat-Syarat Pasir yang Bagus Untuk Konstruksi Bangunan
 
-1.  Agregat Halus wajib terdiri dari butiran yang tajam dan keras dengan indeks kekerasan <2.2
+1.  Agregat Halus wajib terdiri dari butiran yang tajam dan keras dengan indeks kekerasan <2.2
 2. seandainya diaplikasikan Natrium Sulfat bagian hancur optimal 12 persen
 3. Kalau diterapkan Magnesium Sulfat bagian halus optimal 5 persen
 4. Tak boleh berisi clay lebih dari lima persen
@@ -41,7 +41,6 @@ Syarat-Syarat Pasir yang Bagus Untuk Konstruksi Bangunan
 Setelah memahami prasyarat pasir tuk sebuah Bangunan, sekarang ini kita bahas Tipe - model Pasir Untuk Bangunan penjelasan nya sebagai berikut:
 
 - ### Pasir Untuk Beton Di Balumbang Jaya Bogor
-    
 
 Pasir ini umum nya berwarna hitam kemerahan dan tingkat pecahan butiran nya lumayan tinggi. Melainkan jika anda mengepal nya dengan tangan tak akan menggumpal dan akan buyar kembali. tipe pasir ini sangat lah baik buat Pengecoran, Plesteran Dinding, Adukan Pondasi dan Adukan Pasangan Bata Pasir ini yaitu pasir untuk Beton yaitu butiran-butiran mineral keras dan tajam berukuran antara 0,075 – 5 mm, bila terdapat butiran berukuran lebih kecil dari 0,063 mm tak lebih dari 5% berat. Pasir ini yaitu pasir untuk Beton kerap kali dimanfaatkan untuk profesi cor-coran struktur seperti kolom, balok dan pelat lantai.
 
@@ -59,21 +58,18 @@ Untuk mendapatkan ketahanan Beton yang optimal karenanya pasir patut bisa memenu
 ![Harga Pasir Mainan Anak Free Ongkir Ke Balumbang Jaya Bogor](/images/info/pasir-hitam-5.jpg)
 
 - ### Pasir Standar Di Balumbang Jaya Bogor
-    
 
 ![Harga Pasir Mainan Anak Free Ongkir Ke Balumbang Jaya Bogor](/images/info/pasir-hitam-4.jpg)
 
 Pasir ini ekstra halus lagi diperbandingkan oleh pasir beton. seandainya anda mengepal pasir ini karenanya akan menggumpal dan tak akan hancur kembali. pasir pasang biasa nya di manfaatkan untuk adukan pasir beton agar tak terlampau kasar dan bisa di manfaatkan untuk plesteran dinding.
 
 - ### Pasir Kualitas rendah Untuk Pembuatan Batako Di Balumbang Jaya Bogor
-    
 
 Di Antara ke dua pasir diatas pasir model ini lebih halus lagi, sekiranya kalian mengepal nya karenanya akan menggumpal dan tidak akan hancur lagi. namun pasir macam
 
 Pada lazim nya pasir ini nyaris sama dengan pasir beton akan tetapi pasir ini memiliki tingkat kekasaran yg tinggi, butiran - butiran nya cukup besar dan agak banyak batuan nya. pada biasanya pasir tipe ini baik untuk bahan pengurugan lantai
 
 - ### Pasir Putih Tanpa Batu Untuk Pengecoran Di Balumbang Jaya Bogor
-    
 
 1. **Pasir Putih Bangka**
 

@@ -18,19 +18,19 @@ Dengan tidak adanya besi karenanya sebuah bangunan akan gampang retak saat ada g
 
 ## Seperti Ini Jenis-jenis Besi Di Mangga Besar Jakarta
 
-### 1\. Besi Polos Toleransi 4mm, 6mm, 8mm, 10mm, 12mm, 16mm, 18mm, 19mm Di Mangga Besar Jakarta
+### 1. Besi Polos Toleransi 4mm, 6mm, 8mm, 10mm, 12mm, 16mm, 18mm, 19mm Di Mangga Besar Jakarta
 
 Besi polos mempunyai ukuran mulai dari 8 mm hingga 25 mm dan mempunyai 6 meter panjang tekuk dan 12 meter panjang lurus. Besi beton ini telah mulai diaplikasikan sebagai bahan utama di Indonesia pada tahun 1950. Besi ini sering kali kali diaplikasikan untuk membangun rumah. Bahan yang mudah diterapkan sehingga selain dari diterapkan untuk membangun tempat tinggal juga dipakai untuk membangun trowongan, bendungan, dan lainnya. Ketika diterapkan untuk membangun tempat tinggal bertingkat maka biasanya besi polos ini dipakai untuk struktur rangkaian besi balok, dinding, dan sloof. Besi beton polos ini memiliki kelebihan besi polos ini tegangannya lebih tinggi dari pada besi lainnya. Sehingga besi ini terkesan lebih kokoh dan tahan beban. Jadi penggunaan besi polos ini benar-benar layak untuk membangun gedung, jembatan, dan bangunan lainnya. Besi polos ini terbuat dari bahan seperti billet dan skrap. Billet adalah baja batangan yang pengerjaan pembuatannya dengan mengecor biji besi. Apabila skrap ialah besi bekas yang dileburkan dengan temperature tertentu. Selain dari itu bila anda menerapkan besi polos ini tdk memerlukan biaya pemeliharaan. Kian lama digunakan maka besi ini akan semakin kokoh.
 
-### 2\. Besi Ulir KS 4mm, 6mm, 8mm, 10mm, 12mm, 16mm, 18mm, 19mm Di Mangga Besar Jakarta
+### 2. Besi Ulir KS 4mm, 6mm, 8mm, 10mm, 12mm, 16mm, 18mm, 19mm Di Mangga Besar Jakarta
 
 Cocok dengan namanya besi beton ulir ini merupakan besi yang karakternya mengulir. Pada permukaannya bercorak spiral yang memiliki tujuan untuk menyatukan gerigi besi dengan faktor bahan bangunan yang dibangun oleh besi beton. Besi ulir ini mulai populer diaplikasikan pada abad ke-20 di Amerika dan mulai populer di Indonesia pada tahun1950. Mengingat dikala mengaplikasikan besi ulir ini mempunyai banyak kelebihan mulai dari ketahanan bangunan serta lebih ekonomis dan efisien. Produk besi ulir ini menjadi primadona pasar karena mempunyai kwalitas yang terbaik di Indonesia dan mempunyai harga yang tinggi seandainya dibandingi dengan produk lainnya.
 
-### 3\. Besi WF dan H-Beam Di Mangga Besar Jakarta
+### 3. Besi WF dan H-Beam Di Mangga Besar Jakarta
 
 Besi Wide Flange (WF) ini yaitu salah satu baja dengan struktural yang paling banyak diaplikasikan untuk kontruksi baja. Jika anda membutuhkan besi baja Wide Flage dalam jumlah yang banyak atau sedikit maka silahkan cari penjual besi yang terpercaya. Besi WF ini memiliki kekokohan yang kokoh dan kokoh pada ketahanan tarik atau tekan. Karenanya dari itu besi ini menjadi faktor struktur yang mempunyai batasan yang paripurna untuk menopang beban tekan aksial, tarik aksial, dan lentur dengan fasilitas pembangunan strukturnya. Baja Wide Flange (WF) ini mempunyai kepadatan yang tinggi tapi rasio berat antara kekokohan bagian Baja WF yang tinggi tetapi tdk begitu berat yang terkait dengan kapasitas bobot. Selain itu memastikan apabila kontruksi yang dipakai secara efisien. Metode kontruksi baja WF ini kombinasi dari elemen struktur yang kompleks. Pada struktur ini memiliki tujuan membawa muatan yang aman dan tepat sasaran yang bekerja pada sebuah bangunan dan dikirim pada pondasinya. Gaya dan beban yang bekerja ini termasuk bobot pertikal, perbedaan suhu, horizontal, getaran dan lainnya. Pada sebuah bangunan baja, maka ada unsure yang berfungsi menopang gaya lateral dan gravitasi.
 
-### 4\. Besi Holow Di Mangga Besar Jakarta
+### 4. Besi Holow Di Mangga Besar Jakarta
 
 Besi hollow merupakan besi yang diaplikasikan sebagai pembuatan kanopi, pagar, pintu besi dan lainnya. Bahan baku pembuatan besi Hollow ini umumnya terbuat dari stainless, galvanis, dan besi baja. Tapi yang paling sering diaplikasikan sebagai bahan baku yaitu galvanis. Terdapat kelebihan yang anda temukan dikala memasang kanopi, menerapkan pagar, teralis menerapkan besi hollow:
 

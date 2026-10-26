@@ -50,13 +50,13 @@ d. tidak dapat menjangkau lokasi yang sempit. Mengingat Besi WF ini berukuran pa
 
 ### Kelebihan Dari Besi WF Di Legok Tangerang
 
-1\. Dapat memaksimalkan waktu dalam pembangunan sebuah konstruksi bangunan, memaksimalkan waktu dan juga menghemat ongkos dan pemasang.
+1. Dapat memaksimalkan waktu dalam pembangunan sebuah konstruksi bangunan, memaksimalkan waktu dan juga menghemat ongkos dan pemasang.
 
-2\. Bisa menyangga muatan yang benar-benar berat, tdk mudah memuai dan lebih simple penggunaannya dibanding dengan material struktural lainnya.
+2. Bisa menyangga muatan yang benar-benar berat, tdk mudah memuai dan lebih simple penggunaannya dibanding dengan material struktural lainnya.
 
-3\. Mempunyai fleksibilitas yang tinggi. Sehingga struktur bangunan yang dibuat dari Besi WF ini menjadi lebih kuat tdk gampang bergeser, tidak gampang ambruk ataupun goyang. Sangat cocok untuk macam bangunan diatas tanah yang labil atau sering terjadi gempa.
+3. Mempunyai fleksibilitas yang tinggi. Sehingga struktur bangunan yang dibuat dari Besi WF ini menjadi lebih kuat tdk gampang bergeser, tidak gampang ambruk ataupun goyang. Sangat cocok untuk macam bangunan diatas tanah yang labil atau sering terjadi gempa.
 
-4\. Lebih hemat karena struktur bangunan yang mengaplikasikan Besi WF akan memiliki kekokohan yang cukup lama malah hingga ratusan tahun. Tentunya ini merupakan investasi yang sungguh-sungguh murah sekiranya kita bandingkan dengan waktu pakai. Malah bangunan yang dibangun dengan tulangan Besi WF bisa kita wariskan terhadap si kecil cucu kita.
+4. Lebih hemat karena struktur bangunan yang mengaplikasikan Besi WF akan memiliki kekokohan yang cukup lama malah hingga ratusan tahun. Tentunya ini merupakan investasi yang sungguh-sungguh murah sekiranya kita bandingkan dengan waktu pakai. Malah bangunan yang dibangun dengan tulangan Besi WF bisa kita wariskan terhadap si kecil cucu kita.
 
 ## Mengenal Besi H Beam Di Legok Tangerang
 
@@ -72,15 +72,15 @@ Sama seperti besi yang kami terangkan sebelumnya yakni Besi WF, besi H-Beam bahk
 
 ### Kelebihan Besi H Beam Di Legok Tangerang
 
-1\. Mudah untuk didapat. Banyak supplier besi yang menyediakan stok besi H-Beam berbagai ukuran. Sehingga besi H-Beam ini sangat gampang untuk diperoleh, tidak susah untuk mendapatkan toko besi yang memasarkan besi H Beam.
+1. Mudah untuk didapat. Banyak supplier besi yang menyediakan stok besi H-Beam berbagai ukuran. Sehingga besi H-Beam ini sangat gampang untuk diperoleh, tidak susah untuk mendapatkan toko besi yang memasarkan besi H Beam.
 
-2\. Gampang Dalam Pemasangan. Banyak tukang spesialis dalam pemasangan besi H Beam. Meski besi H-Beam ini harus dipasang oleh tukang yang ahli akan tetapi tukang yang profesional dalam memasang besi H Beam ini sungguh-sungguh banyak kita temui hari ini. Sehingga tidak perlu dikhawatirkan lagi proses pemasangannya.
+2. Gampang Dalam Pemasangan. Banyak tukang spesialis dalam pemasangan besi H Beam. Meski besi H-Beam ini harus dipasang oleh tukang yang ahli akan tetapi tukang yang profesional dalam memasang besi H Beam ini sungguh-sungguh banyak kita temui hari ini. Sehingga tidak perlu dikhawatirkan lagi proses pemasangannya.
 
-3\. Mempunyai kekuatan yang tidak diragukan lagi. Besi H Beam sudah teruji selama bertahun-tahun dalam kontruksi bangunan. Apakah skala kecil maupun skala besar dan terbilang betul-betul kuat kalau dibandingkan dengan material lainnya. Dapat bertahan hingga puluhan hingga ratusan tahun.
+3. Mempunyai kekuatan yang tidak diragukan lagi. Besi H Beam sudah teruji selama bertahun-tahun dalam kontruksi bangunan. Apakah skala kecil maupun skala besar dan terbilang betul-betul kuat kalau dibandingkan dengan material lainnya. Dapat bertahan hingga puluhan hingga ratusan tahun.
 
-4\. Mudah dalam perawatannya. Bangunan yang memakai besi H Beam sebagai struktur tulangan bangunannya akan amat gampang dalam melakukan perawatannya. tdk perlu pengecatan dengan cat khusus maupun pembersihan tiap-tiap saat.
+4. Mudah dalam perawatannya. Bangunan yang memakai besi H Beam sebagai struktur tulangan bangunannya akan amat gampang dalam melakukan perawatannya. tdk perlu pengecatan dengan cat khusus maupun pembersihan tiap-tiap saat.
 
-5\. Menghemat pemakaian material lainnya, seperti pemakaian bekisting, pemakaian tiang penyangga atau steger dan juga material pasir. Besi H Beam tidak membutuhkan material pasir dalam penggunaannya.
+5. Menghemat pemakaian material lainnya, seperti pemakaian bekisting, pemakaian tiang penyangga atau steger dan juga material pasir. Besi H Beam tidak membutuhkan material pasir dalam penggunaannya.
 
 ### Kekurangan Dari Besi H Beam Di Legok Tangerang
 

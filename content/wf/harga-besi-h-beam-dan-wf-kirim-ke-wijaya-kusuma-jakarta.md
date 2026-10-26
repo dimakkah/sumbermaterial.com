@@ -50,13 +50,13 @@ d. tdk bisa menjangkau area yang sempit. Mengingat Besi WF ini berukuran panjang
 
 ### Keunggulan Dari Besi WF Di Wijaya Kusuma Jakarta
 
-1\. Bisa mengurangi waktu dalam pembangunan sebuah konstruksi bangunan, menghemat waktu dan juga memaksimalkan ongkos dan tenaga tukang.
+1. Bisa mengurangi waktu dalam pembangunan sebuah konstruksi bangunan, menghemat waktu dan juga memaksimalkan ongkos dan tenaga tukang.
 
-2\. Bisa menyangga beban yang benar-benar berat, tdk mudah memuai dan lebih simple penerapannya dibanding dengan material struktural lainnya.
+2. Bisa menyangga beban yang benar-benar berat, tdk mudah memuai dan lebih simple penerapannya dibanding dengan material struktural lainnya.
 
-3\. Memiliki fleksibilitas yang tinggi. Sehingga struktur bangunan yang dihasilkan dari Besi WF ini menjadi lebih kuat tdk mudah bergeser, tidak mudah runtuh maupun goyang. Sangat sesuai untuk variasi bangunan diatas tanah yang labil atau kerap kali terjadi longsor.
+3. Memiliki fleksibilitas yang tinggi. Sehingga struktur bangunan yang dihasilkan dari Besi WF ini menjadi lebih kuat tdk mudah bergeser, tidak mudah runtuh maupun goyang. Sangat sesuai untuk variasi bangunan diatas tanah yang labil atau kerap kali terjadi longsor.
 
-4\. Lebih hemat sebab struktur bangunan yang menerapkan Besi WF akan memiliki ketahanan yang cukup lama malahan hingga ratusan tahun. Tentunya ini yakni investasi yang sangat murah kalau kita bandingkan dengan waktu gunakan. Bahkan bangunan yang dibangun dengan tulangan Besi WF dapat kita wariskan kepada si kecil cucu kita.
+4. Lebih hemat sebab struktur bangunan yang menerapkan Besi WF akan memiliki ketahanan yang cukup lama malahan hingga ratusan tahun. Tentunya ini yakni investasi yang sangat murah kalau kita bandingkan dengan waktu gunakan. Bahkan bangunan yang dibangun dengan tulangan Besi WF dapat kita wariskan kepada si kecil cucu kita.
 
 ## Mengetahui Besi H Beam Di Wijaya Kusuma Jakarta
 
@@ -72,15 +72,15 @@ Sama seperti besi yang kami paparkan sebelumnya merupakan Besi WF, besi H-Beam b
 
 ### Keunggulan Besi H Beam Di Wijaya Kusuma Jakarta
 
-1\. Gampang untuk didapat. Banyak distributor besi yang menyediakan stok besi H-Beam berbagai ukuran. Sehingga besi H-Beam ini sangat mudah untuk didapat, tidak susah untuk menemukan toko besi yang menjual besi H Beam.
+1. Gampang untuk didapat. Banyak distributor besi yang menyediakan stok besi H-Beam berbagai ukuran. Sehingga besi H-Beam ini sangat mudah untuk didapat, tidak susah untuk menemukan toko besi yang menjual besi H Beam.
 
-2\. Mudah Dalam Pemasangan. Banyak tukang spesialis dalam pemasangan besi H Beam. Meskipun besi H-Beam ini wajib dipasang oleh tukang yang ahli namun tukang yang berpengalaman dalam memasang besi H Beam ini amat banyak kita temui hari ini. Sehingga tdk perlu dikhawatirkan lagi pelaksanaan pemasangannya.
+2. Mudah Dalam Pemasangan. Banyak tukang spesialis dalam pemasangan besi H Beam. Meskipun besi H-Beam ini wajib dipasang oleh tukang yang ahli namun tukang yang berpengalaman dalam memasang besi H Beam ini amat banyak kita temui hari ini. Sehingga tdk perlu dikhawatirkan lagi pelaksanaan pemasangannya.
 
-3\. Memiliki kekuatan yang tidak diragukan lagi. Besi H Beam telah teruji selama bertahun-tahun dalam kontruksi bangunan. Apakah skala kecil maupun skala besar dan terbilang betul-betul awet kalau dibandingkan dengan material lainnya. Dapat bertahan hingga puluhan sampai ratusan tahun.
+3. Memiliki kekuatan yang tidak diragukan lagi. Besi H Beam telah teruji selama bertahun-tahun dalam kontruksi bangunan. Apakah skala kecil maupun skala besar dan terbilang betul-betul awet kalau dibandingkan dengan material lainnya. Dapat bertahan hingga puluhan sampai ratusan tahun.
 
-4\. Gampang dalam pemeliharaannya. Bangunan yang mengaplikasikan besi H Beam sebagai struktur tulangan bangunannya akan sangat mudah dalam melakukan pemeliharaannya. tidak perlu pengecatan dengan cat khusus maupun pembersihan tiap saat.
+4. Gampang dalam pemeliharaannya. Bangunan yang mengaplikasikan besi H Beam sebagai struktur tulangan bangunannya akan sangat mudah dalam melakukan pemeliharaannya. tidak perlu pengecatan dengan cat khusus maupun pembersihan tiap saat.
 
-5\. Mengurangi pemakaian material lainnya, seperti penggunaan bekisting, penerapan perancah atau tiang penyangga dan juga material pasir. Besi H Beam tidak membutuhkan material pasir dalam penerapannya.
+5. Mengurangi pemakaian material lainnya, seperti penggunaan bekisting, penerapan perancah atau tiang penyangga dan juga material pasir. Besi H Beam tidak membutuhkan material pasir dalam penerapannya.
 
 ### Kekurangan Dari Besi H Beam Di Wijaya Kusuma Jakarta
 

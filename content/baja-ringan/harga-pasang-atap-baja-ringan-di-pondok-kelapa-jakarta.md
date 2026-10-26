@@ -21,13 +21,13 @@ Pemasangan baja ringan untuk bangunan sebenarnya cukup mudah. Anda tak perlu rep
 
 Yuk, simak beberapa alasan penting yang perlu Anda tahu sebelum menghubungi kami. Mengapa memilih baja ringan sebagai kerangka atap dan *canopy*?
 
- **Ramah Lingkungan:** Mengurangi kebutuhan kayu berarti ikut melestarikan alam, karena kayu berasal dari penebangan pohon. Dengan memilih baja ringan, Anda berkontribusi pada lingkungan.
- **Lebih Ekonomis:** Dibandingkan kerangka kayu, penggunaan baja ringan bisa lebih hemat biaya. Kayu berkualitas tinggi tentu harganya lebih mahal, terutama untuk komponen penting seperti kerangka bangunan.
- **Ringan & Kuat:** Baja ringan berbeda dengan baja atau besi yang berat. Material ini tipis dan ringan, tapi tetap kuat untuk menopang kerangka atap dan *canopy* rumah Anda.
- **Perawatan Minimal:** Tak perlu khawatir dengan perawatan rutin. Kami yakin kerangka atap Anda akan bebas dari masalah kerusakan.
- **Pemasangan Cepat:** Pemasangan kerangka atap baja ringan jauh lebih cepat dibandingkan bahan kayu atau material lainnya.
- **Kualitas Terjamin:** Baja ringan yang kami gunakan bukan sembarang material. Bahan utamanya adalah *zinc* dan aluminium yang sudah memiliki sertifikasi dan standar keamanan 4 kali lebih baik daripada baja biasa. Kekuatannya pun teruji, mampu menahan beban berkilo-kilo.
- **Tahan Rayap:** Kami pastikan kerangka atap dan *canopy* baja ringan ini tahan terhadap serangan rayap.
+- **Ramah Lingkungan:** Mengurangi kebutuhan kayu berarti ikut melestarikan alam, karena kayu berasal dari penebangan pohon. Dengan memilih baja ringan, Anda berkontribusi pada lingkungan.
+- **Lebih Ekonomis:** Dibandingkan kerangka kayu, penggunaan baja ringan bisa lebih hemat biaya. Kayu berkualitas tinggi tentu harganya lebih mahal, terutama untuk komponen penting seperti kerangka bangunan.
+- **Ringan & Kuat:** Baja ringan berbeda dengan baja atau besi yang berat. Material ini tipis dan ringan, tapi tetap kuat untuk menopang kerangka atap dan *canopy* rumah Anda.
+- **Perawatan Minimal:** Tak perlu khawatir dengan perawatan rutin. Kami yakin kerangka atap Anda akan bebas dari masalah kerusakan.
+- **Pemasangan Cepat:** Pemasangan kerangka atap baja ringan jauh lebih cepat dibandingkan bahan kayu atau material lainnya.
+- **Kualitas Terjamin:** Baja ringan yang kami gunakan bukan sembarang material. Bahan utamanya adalah *zinc* dan aluminium yang sudah memiliki sertifikasi dan standar keamanan 4 kali lebih baik daripada baja biasa. Kekuatannya pun teruji, mampu menahan beban berkilo-kilo.
+- **Tahan Rayap:** Kami pastikan kerangka atap dan *canopy* baja ringan ini tahan terhadap serangan rayap.
 
 ## Sistem Hitung Luas Rangka Baja Ringan Di Pondok Kelapa Jakarta
 
@@ -53,10 +53,10 @@ Membahas harga jasa pasang baja ringan, sebenarnya sudah banyak informasi di int
 
 (Catatan: harga dapat ditambahkan sendiri) Berikut adalah perkiraan biaya jasa pasang baja ringan berdasarkan jenis pemasangannya, baik *canopy* maupun kerangka atap.
 
-*   *Canopy* rangka baja ringan “Polikarbonat x Lite”: Rp 285.000 / m²
-*   *Canopy* rangka baja ringan “Spandek”: Rp 225.000 / m²
-*   *Canopy* rangka baja ringan “Gogreen”: Rp 200.000 / m²
-*   Untuk perhitungan lainnya, segera hubungi kami melalui kontak yang tersedia di *website* kami.
+- *Canopy* rangka baja ringan “Polikarbonat x Lite”: Rp 285.000 / m²
+- *Canopy* rangka baja ringan “Spandek”: Rp 225.000 / m²
+- *Canopy* rangka baja ringan “Gogreen”: Rp 200.000 / m²
+- Untuk perhitungan lainnya, segera hubungi kami melalui kontak yang tersedia di *website* kami.
 
 Adapun Parameter Besaran Biaya Jasa Pasang Baja Ringan:
 
@@ -76,10 +76,10 @@ Setelah sketsa dan perhitungan rangka selesai, Anda dapat mendiskusikan perkiraa
 
 Berikut adalah informasi detail mengenai harga jasa pasang baja ringan yang perlu Anda ketahui.
 
-*   Harga jasa kami sudah termasuk biaya pemasangan, yang lebih murah dan menawarkan banyak diskon untuk konsumen
-*   Harga yang kami berikan sudah sesuai dengan jasa pemasangan, perhitungan, dan material yang terpasang
-*   Harga terbaik selalu kami tawarkan saat bertemu dengan Anda
-*   Harga jasa pasang baja ringan dapat berubah sewaktu-waktu karena fluktuasi harga material
-*   Pembayaran dapat dilakukan dengan uang muka (DP) dan sisanya setelah pemasangan selesai.
+- Harga jasa kami sudah termasuk biaya pemasangan, yang lebih murah dan menawarkan banyak diskon untuk konsumen
+- Harga yang kami berikan sudah sesuai dengan jasa pemasangan, perhitungan, dan material yang terpasang
+- Harga terbaik selalu kami tawarkan saat bertemu dengan Anda
+- Harga jasa pasang baja ringan dapat berubah sewaktu-waktu karena fluktuasi harga material
+- Pembayaran dapat dilakukan dengan uang muka (DP) dan sisanya setelah pemasangan selesai.
 
 Demikian informasi mengenai Harga Pasang Atap Baja Ringan Di Pondok Kelapa Jakarta. Jangan ragu untuk menghubungi kami jika Anda memiliki pertanyaan atau ingin mendapatkan penawaran harga terbaik untuk proyek Anda di Pondok Kelapa Jakarta! Harga Baja Ringan – Dapatkan penawaran harga terbaik dari kami sekarang juga!

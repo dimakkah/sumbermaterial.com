@@ -18,19 +18,19 @@ Dengan tidak adanya besi karenanya sebuah bangunan akan gampang retak ketika ada
 
 ## Inilah Variasi-tipe Besi Di Pasir Jaya Bogor
 
-### 1\. Besi Polos KS 4mm, 6mm, 8mm, 10mm, 12mm, 16mm, 18mm, 19mm Di Pasir Jaya Bogor
+### 1. Besi Polos KS 4mm, 6mm, 8mm, 10mm, 12mm, 16mm, 18mm, 19mm Di Pasir Jaya Bogor
 
 Besi polos memiliki ukuran mulai dari 8 mm sampai 25 mm dan memiliki 6 meter panjang tekuk dan 12 meter panjang lurus. Besi beton ini mulai diterapkan sebagai bahan utama di Indonesia pada tahun 1950. Besi ini tak jarang kali dipakai untuk membangun bangunan beton. Bahan yang mudah diterapkan sehingga selain dari digunakan untuk membangun sebuah gedung juga diaplikasikan untuk membangun trowongan, bendungan, dan lainnya. Ketika dipakai untuk membangun rumah bertingkat maka biasanya besi polos ini diaplikasikan untuk struktur tulangan balok, dinding, dan sloof. Besi beton polos ini memiliki kelebihan besi polos ini tegangannya lebih tinggi dari pada besi lainnya. Jadi besi ini terkesan lebih kokoh dan tahan beban. Sehingga pemakaian besi polos ini betul-betul cocok untuk membangun gedung, jembatan, dan bangunan lainnya. Besi polos ini terbuat dari bahan seperti billet dan skrap. Billet yaitu baja batangan yang pengerjaan pembuatannya dengan mengecor biji besi. Apabila skrap adalah besi bekas yang dihancurkan dengan temperature tertentu. Selain itu jika anda memakai besi polos ini tdk memerlukan budget pemeliharaan. Semakin lama dipakai karenanya besi ini akan kian kokoh.
 
-### 2\. Besi Ulir Toleransi 4mm, 6mm, 8mm, 10mm, 12mm, 16mm, 18mm, 19mm Di Pasir Jaya Bogor
+### 2. Besi Ulir Toleransi 4mm, 6mm, 8mm, 10mm, 12mm, 16mm, 18mm, 19mm Di Pasir Jaya Bogor
 
 Selaras dengan namanya besi beton ulir ini merupakan besi yang bentuknya mengulir. Pada permukaannya bercorak spiral yang memiliki tujuan untuk menyatukan tulangan dengan unsur bahan bangunan yang dibentuk oleh besi beton. Besi ulir ini mulai populer diaplikasikan pada abad ke-20 di Amerika dan mulai populer di Indonesia pada tahun1950. Mengingat ketika memakai besi ulir ini memiliki banyak keunggulan mulai dari ketahanan bangunan serta lebih murah dan efisien. Produk besi ulir ini menjadi paling laris di pasar sebab memiliki kualitas yang terbaik di Indonesia dan memiliki harga yang tinggi sekiranya dibandingi dengan produk lainnya.
 
-### 3\. Besi WF dan H-Beam Krakatau Steel Di Pasir Jaya Bogor
+### 3. Besi WF dan H-Beam Krakatau Steel Di Pasir Jaya Bogor
 
 Besi Wide Flange (WF) ini yaitu salah satu baja dengan struktural yang paling sering digunakan untuk kontruksi baja. Bila anda memerlukan besi baja Wide Flage dalam quantitas yang banyak atau sedikit karenanya silahkan cari distributor besi yang terpercaya. Besi WF ini mempunyai ketahanan yang kokoh dan kuat pada ketahanan tarik atau tekan. Maka dari itu besi ini menjadi elemen struktur yang mempunyai batasan yang paripurna untuk menopang muatan tekan aksial, tarik aksial, dan lentur dengan fasilitas pembangunan strukturnya. Baja Wide Flange (WF) ini mempunyai kepadatan yang tinggi tapi rasio berat antara kekuatan bagian Baja WF yang tinggi tapi tidak begitu berat yang berkaitan dengan kapasitas muatan. Selain dari itu memastikan sekiranya kontruksi yang digunakan secara efisien. Sistem kontruksi baja WF ini kombinasi dari unsur struktur yang rumit. Pada struktur ini mempunyai tujuan membawa bobot yang aman dan efektif yang bekerja pada sebuah bangunan dan dikirim pada pondasinya. Gaya dan bobot yang bekerja ini termasuk beban pertikal, perbedaan temperatur, horizontal, getaran dan lainnya. Pada sebuah bangunan baja, karenanya ada unsure yang bermanfaat menahan gaya lateral dan gravitasi.
 
-### 4\. Besi Holo Di Pasir Jaya Bogor
+### 4. Besi Holo Di Pasir Jaya Bogor
 
 Besi hollow yakni besi yang diterapkan sebagai pembuatan kanopi, pagar, pintu besi dan lainnya. Bahan baku pembuatan besi Hollow ini umumnya terbuat dari stainless, galvanis, dan besi baja. Tetapi yang paling kerap kali dipakai sebagai bahan baku merupakan galvanis. Terdapat kelebihan yang anda temukan ketika mengaplikasikan kanopi, memasang pagar, teralis mengaplikasikan besi hollow:
 

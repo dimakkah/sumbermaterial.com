@@ -25,7 +25,7 @@ Menurut Standar Nasional Indonesia ( SK SNI - S - 04 - 1989 - F ; 28) di sebutka
 
 Prasyarat Pasir yang Baik Untuk Konstruksi Bangunan
 
-1.  Agregat Halus wajib terdiri dari butiran yang tajam dan keras dengan indeks kekerasan <2.2
+1.  Agregat Halus wajib terdiri dari butiran yang tajam dan keras dengan indeks kekerasan <2.2
 2. kalau digunakan Natrium Sulfat komponen hancur maksimal dua belas %
 3. bila dipakai Magnesium Sulfat bagian halus optimal 10%
 4. Tidak boleh mengandung tanah lebih dari 5 persen
@@ -41,7 +41,6 @@ Prasyarat Pasir yang Baik Untuk Konstruksi Bangunan
 Sesudah tahu persis prasyarat pasir untuk sebuah Konstruksi Bangunan, saat ini kita bahas Ragam - Tipe Pasir Untuk Bangunan penjelasan nya berikut ini:
 
 - ### Pasir Tipe Cor dan Daerah Penambangannya Di Cakung Timur Jakarta
-    
 
 Pasir ini lazim nya berwarna hitam pekat dan tingkat kekerasan butiran nya cukup tinggi. Tapi bila anda mengepal nya dengan tangan tidak akan menggumpal dan akan hancur kembali. tipe pasir ini betul-betul lah baik untuk Pengecoran, Plesteran Dinding, Adukan Pondasi dan Adukan Pasangan Bata Pasir ini yaitu pasir untuk Cor adalah butiran-butiran mineral keras dan tajam berukuran antara 0,075 – 5 mm, apabila terdapat butiran berukuran lebih kecil dari 0,063 mm tidak lebih dari 5% berat. Pasir ini yaitu pasir untuk Beton kerap kali diterapkan untuk profesi cor-coran struktur seperti kolom, balok dan pelat lantai.
 
@@ -59,21 +58,18 @@ Untuk menerima kekuatan Cor yang optimal karenanya pasir patut dapat memenuhi sy
 ![Harga Pasir Mainan Anak Free Ongkir Ke Cakung Timur Jakarta](/images/info/pasir-hitam-5.jpg)
 
 - ### Pasir Untuk Adukan Pasang Batu, Pondasi, Bata, Ubin, Plester Di Cakung Timur Jakarta
-    
 
 ![Harga Pasir Mainan Anak Free Ongkir Ke Cakung Timur Jakarta](/images/info/jual-pasir-mundu-2.jpg)
 
 Pasir ini lebih halus lagi dibandingi oleh pasir beton. bila kalian mengepal pasir ini karenanya akan menggumpal dan tidak akan buyar kembali. pasir pasang biasa nya di pakai buat campuran pasir beton supaya tidak kelewat kasar dan bisa di manfaatkan untuk plesteran dinding.
 
 - ### Pasir Kualitas rendah Untuk pemadatan lantai Di Cakung Timur Jakarta
-    
 
 Di Antara ke dua pasir diatas pasir tipe ini lebih halus lagi, jika kalian mengepal nya akan menggumpal dan tak akan buyar lagi. tetapi pasir jenis
 
 Pada lazim nya pasir ini nyaris sama dengan pasir beton melainkan pasir ini mempunyai tingkat kekasaran yang tinggi, butiran - butiran nya lumayan besar dan agak banyak batuan nya. pada lazimnya pasir jenis ini baik untuk bahan Pembuatan Batako
 
 - ### Pasir Putih Tanpa Batu Untuk Lapangan Voly Di Cakung Timur Jakarta
-    
 
 1. **Pasir Putih Bangka**
 

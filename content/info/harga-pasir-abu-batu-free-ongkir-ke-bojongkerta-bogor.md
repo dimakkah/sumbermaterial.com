@@ -25,7 +25,7 @@ berdasarkan Standar Nasional Indonesia ( SK SNI - S - 04 - 1989 - F ; 28) di tut
 
 Syarat-Syarat Pasir yg Baik Untuk Bangunan
 
-1.  Agregat Halus seharusnya terdiri dari butiran yang tajam dan keras dengan indeks kekerasan <2.2
+1.  Agregat Halus seharusnya terdiri dari butiran yang tajam dan keras dengan indeks kekerasan <2.2
 2. Bila dimanfaatkan Natrium Sulfat komponen hancur optimal dua belas %
 3. kalau digunakan Magnesium Sulfat bagian halus maksimal 10%
 4. Tak boleh memuat lumpur lebih dari lima %
@@ -41,7 +41,6 @@ Syarat-Syarat Pasir yg Baik Untuk Bangunan
 Setelah memahami persyaratan pasir tuk sebuah Bangunan, pada saat ini kita bahas model - Tipe Pasir Untuk Konstruksi penjelasan nya sebagai berikut:
 
 - ### Pasir Cor Di Bojongkerta Bogor
-    
 
 Pasir ini umum nya berwarna hitam gelap dan tingkat kekerasan butiran nya cukup tinggi. Namun jika anda mengepal nya dengan tangan tak akan menggumpal dan akan buyar kembali. jenis pasir ini sungguh-sungguh lah baik buat Pengecoran, Plesteran Dinding, Adukan Pondasi dan Adukan Pasangan Bata Pasir ini yaitu pasir untuk Cor merupakan butiran-butiran mineral keras dan tajam berukuran antara 0,075 – 5 mm, apabila terdapat butiran berukuran lebih kecil dari 0,063 mm tak lebih dari 5% berat. Pasir ini yaitu pasir untuk Rigid tak jarang diterapkan untuk pekerjaan cor-coran struktur seperti kolom, balok dan pelat lantai.
 
@@ -52,9 +51,9 @@ Harga Pasir Abu Batu Free Ongkir Ke Bojongkerta Bogor Seandainya anda sebagai ko
 Pasir kelas satu diambil dari kp. jebrod cianjur jawa barat yang diterapkan oleh indocement serta perusahaan batching plant lainnya sebagai bahan dasar produksi readymix concrete. Pasir ini paling dianjurkan untuk cor sebab irit semen juga mempunyai kandungan lumpur yang amat rendah dibawah delapan persen. warnanya Hitam abu tua atau hitam seperti hitamnya batu kali, ada juga yang hitam kemerahan atau hitam terasi
 
 3. **Pasir Hitam Cor Cimangkok.** Pasir asal Lokasi penambangannya di cimangkok sukabumi jabar yang masih masuk terhadap klasifikasi pasir hitam paling unggul di jawa barat, warnanya hitam kecoklatan sesuai untuk cor, pasang pondasi dan bata
-    
+
     ![Harga Pasir Abu Batu Free Ongkir Ke Bojongkerta Bogor](/images/info/pasir-hitam-7.jpg)
-    
+
 4. **Pasir Hitam Cor Cimalaka Subang Bandung.**
 
 Pasir terbaik yang berwarna hitam kebauan ada juga yang berwarna hitam abu tua. Banyak di gunakan untuk Cor, pasang dan keperluan lainnya. Ditambang di Daerah cimalaka
@@ -90,9 +89,9 @@ Kecuali Rangkasbitung, Banten juga mempunyai lokasi pnembangan pasir lain sepert
 Masih dari Tempat di banten, pasir kelas tiga ini yakni pasir yang banyak diaplikasikan di proyek proyek perumahan atau cluster sebab harganya yang murah juga mutu yang baik. Warna pasir ini hitam kecoklatan dan keabuan sungguh-sungguh disarankan untuk pasang pondasi, bata, batu dan sebagainya
 
 27. **Pasir Hitam Rigid Bohlam Sukabumi.** Pasir dari Daerah kp. bohlam di sukabumi berwarna hitam kecoklatan, betul-betul bagus untuk pasang bata, pondasi dan sebagainya sebagai opsi pasir mutu baik dan murah
-    
+
     ![Harga Pasir Abu Batu Free Ongkir Ke Bojongkerta Bogor](/images/info/pasir-hitam-8.jpg)
-    
+
 28. **Pasir Rigid Galunggung.**
 
 Pasir ini ialah pasir hitam kwalitas paling unggul dikelasnya umum digunakan oleh pabrik pengolahan beton readymix juga perusahan pembuatan precast dan sering kali juga digunakan untuk bahan pembuatan batako press hitam, paving block dsb. Pasir ini ditambang dari Tasikmalaya jabar.
@@ -100,21 +99,18 @@ Pasir ini ialah pasir hitam kwalitas paling unggul dikelasnya umum digunakan ole
 ![Harga Pasir Abu Batu Free Ongkir Ke Bojongkerta Bogor](/images/info/pasir-hitam-5.jpg)
 
 - ### Pasir Untuk Pemasangan Batu, Pondasi, Bata, Ubin, Plester Di Bojongkerta Bogor
-    
 
 ![Harga Pasir Abu Batu Free Ongkir Ke Bojongkerta Bogor](/images/info/jual-pasir-mundu.jpg)
 
 Pasir ini ekstra halus lagi dibandingkan oleh pasir beton. sekiranya kamu mengepal pasir ini maka akan menggumpal dan tak akan hancur kembali. pasir pasang lazim nya di pakai untuk adukan pasir beton supaya tidak terlalu kasar dan dapat di pakai untuk plesteran dinding.
 
 - ### Pasir Kualitas rendah Untuk Pembuatan Batako Di Bojongkerta Bogor
-    
 
 Di Antara ke dua pasir diatas pasir jenis ini lebih halus lagi, apabila kamu mengepal nya akan menggumpal dan tidak akan hancur lagi. tetapi pasir ragam tak bagus tuk di buat sebagai bahan bangunan. pasir jenis ini pada nya di pakai untuk Bahan Pembuatan Batako
 
 Pada lazim nya pasir ini nyaris sama dengan pasir beton akan tetapi pasir ini mempunyai tingkat kekasaran yang tinggi, butiran - butiran nya lumayan besar dan agak banyak batuan nya. pada biasanya pasir macam ini baik untuk bahan Pembuatan Batako
 
 - ### Pasir Putih Bebas Lumpur Untuk Lapangan Voly Di Bojongkerta Bogor
-    
 
 1. **Pasir Putih Bangka**
 

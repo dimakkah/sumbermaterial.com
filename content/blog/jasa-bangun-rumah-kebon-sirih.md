@@ -19,8 +19,6 @@ draft: false
 
 ![Jasa Bangun Rumah Kebon Sirih: Estimasi Biaya 2026](/images/bangunan/jasa-bangun-rumah-minimalis-8.png)
 
-
-
 Memang, biaya membangun rumah bisa bervariasi tergantung banyak faktor. Nah, di artikel ini, Kami akan membahas secara rinci estimasi biaya jasa bangun rumah di Kebon Sirih tahun ini, serta tips untuk mengoptimalkan anggaran Anda. Dengan informasi yang tepat, Mitra bisa mempersiapkan diri dengan lebih baik dan menghindari jebakan biaya tak terduga.
 
 ## Estimasi Biaya Jasa Bangun Rumah Kebon Sirih per Meter Persegi
@@ -39,7 +37,6 @@ Kedua, reputasi dan pengalaman kontraktor. Kontraktor yang sudah berpengalaman b
 
 Ketiga, jenis material bangunan. Seperti yang sudah Kami sebutkan sebelumnya, pilihan material sangat memengaruhi biaya. Berikut adalah tabel perbandingan harga beberapa material bangunan umum:
 
-
 <table class="table">
   <caption>Perbandingan Harga Material Bangun Rumah (Estimasi 2026)</caption>
   <thead>
@@ -53,7 +50,6 @@ Ketiga, jenis material bangunan. Seperti yang sudah Kami sebutkan sebelumnya, pi
     <tr><td>Besi Beton (ton)</td><td>Rp 8.000.000 - Rp 9.000.000</td><td>Diameter 10mm - 16mm</td></tr>
   </tbody>
 </table>
-
 
 ## Memilih Jasa Bangun Rumah Kebon Sirih yang Tepat
 

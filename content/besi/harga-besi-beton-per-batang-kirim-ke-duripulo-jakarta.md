@@ -18,19 +18,19 @@ Tanpa adanya besi maka sebuah bangunan akan mudah retak saat ada getaran kecil a
 
 ## Seperti Ini Jenis-jenis Besi Di DuriPulo Jakarta
 
-### 1\. Besi Polos Krakatau Steel 4mm, 6mm, 8mm, 10mm, 12mm, 16mm, 18mm, 19mm Di DuriPulo Jakarta
+### 1. Besi Polos Krakatau Steel 4mm, 6mm, 8mm, 10mm, 12mm, 16mm, 18mm, 19mm Di DuriPulo Jakarta
 
 Besi polos memiliki ukuran mulai dari 8 mm sampai dengan 25 mm dan mempunyai 6 meter panjang tekuk dan 12 meter panjang lurus. Besi beton ini sudah mulai dipakai sebagai bahan utama di Indonesia pada tahun 1950. Besi ini kerap kali digunakan untuk membangun sebuah gedung. Bahan yang gampang dipakai sehingga selain dari diaplikasikan untuk membangun sebuah gedung juga diaplikasikan untuk membangun trowongan, bendungan, dan lainnya. Dikala dipakai untuk membangun bangunan beton bertingkat karenanya biasa besi polos ini diterapkan untuk struktur tulangan balok, dinding, dan sloof. Besi beton polos ini mempunyai kelebihan besi polos ini tegangannya lebih tinggi dari pada besi lainnya. Sehingga besi ini terkesan lebih kuat dan tahan beban. Oleh karena itu penerapan besi polos ini sungguh-sungguh sesuai untuk membangun gedung, jembatan, dan bangunan lainnya. Besi polos ini terbuat dari bahan seperti billet dan skrap. Billet merupakan baja batangan yang cara kerja pembuatannya dengan melebur biji besi. Sekiranya skrap adalah besi bekas yang dileburkan dengan temperature tertentu. Selain itu jikalau anda menerapkan besi polos ini tdk membutuhkan anggaran pemeliharaan. Kian lama diterapkan maka besi ini akan kian kokoh.
 
-### 2\. Besi Ulir Full 4mm, 6mm, 8mm, 10mm, 12mm, 16mm, 18mm, 19mm Di DuriPulo Jakarta
+### 2. Besi Ulir Full 4mm, 6mm, 8mm, 10mm, 12mm, 16mm, 18mm, 19mm Di DuriPulo Jakarta
 
 Selaras dengan namanya besi beton ulir ini adalah besi yang bentuknya mengulir. Pada permukaannya bercorak spiral yang mempunyai tujuan untuk menyatukan tulangan dengan unsur material bangunan yang dibangun oleh besi beton. Besi ulir ini mulai populer digunakan pada abad ke-20 di Amerika dan mulai populer di Indonesia pada tahun1950. Mengingat dikala mengaplikasikan besi ulir ini mempunyai banyak kelebihan mulai dari kekuatan bangunan serta lebih hemat biaya dan efisien. Produk besi ulir ini menjadi paling laris di pasar sebab mempunyai kualitas yang terbaik di Indonesia dan memiliki harga yang tinggi bila diperbandingkan dengan produk lainnya.
 
-### 3\. Besi WF dan H-Beam Di DuriPulo Jakarta
+### 3. Besi WF dan H-Beam Di DuriPulo Jakarta
 
 Besi Wide Flange (WF) ini yakni salah satu baja dengan struktural yang paling populer diaplikasikan untuk kontruksi baja. Sekiranya anda membutuhkan besi baja Wide Flage dalam jumlah yang banyak atau sedikit maka silahkan cari supplier besi yang terpercaya. Besi WF ini memiliki kekokohan yang kokoh dan kokoh pada kekokohan tarik atau tekan. Maka dari itu besi ini menjadi faktor struktur yang memiliki batasan yang sempurna untuk menahan beban tekan aksial, tarik aksial, dan lentur dengan fasilitas pembangunan strukturnya. Baja Wide Flange (WF) ini memiliki kepadatan yang tinggi namun rasio berat antara ketahanan bagian Baja WF yang tinggi tetapi tdk terlalu berat yang berhubungan dengan kapasitas bobot. Selain dari itu memastikan sekiranya kontruksi yang diaplikasikan secara efisien. Metode kontruksi baja WF ini kombinasi dari unsur struktur yang kompleks. Pada struktur ini memiliki tujuan membawa muatan yang aman dan tepat sasaran yang bekerja pada sebuah bangunan dan dikirim pada pondasinya. Gaya dan bobot yang bekerja ini termasuk muatan pertikal, perbedaan suhu, horizontal, getaran dan lainnya. Pada sebuah bangunan baja, maka ada unsure yang berguna menopang gaya lateral dan gravitasi.
 
-### 4\. Besi Holow Di DuriPulo Jakarta
+### 4. Besi Holow Di DuriPulo Jakarta
 
 Besi hollow adalah besi yang dipakai sebagai pembuatan kanopi, pagar, pintu besi dan lainnya. Bahan baku pembuatan besi Hollow ini biasanya terbuat dari stainless, galvanis, dan besi baja. Tapi yang paling tak jarang dipakai sebagai bahan baku yakni galvanis. Terdapat kelebihan yang anda peroleh ketika menerapkan kanopi, memasang pagar, teralis memakai besi hollow:
 

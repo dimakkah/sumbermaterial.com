@@ -16,7 +16,7 @@ sekarang ini bahan yg diaplikasikan untuk mengisi dinding bangunan, sudah terdap
 
 ## Mengetahui Ragam Variasi Bata
 
-### 1\. Bata Merah Standar & Jumbo Di Cipaku Bogor
+### 1. Bata Merah Standar & Jumbo Di Cipaku Bogor
 
 ![Harga Batako Putih Gratis Ongkir Ke Cipaku Bogor](/images/bata/bata-merah-oven-20.png)
 
@@ -26,7 +26,7 @@ Bata merah ini dihasilkan dari bahan tanah yg kemudian di cetak dan dibakar deng
 
 Material bangunan ini benar-benar tahan terhadap panas dan cocok dibuat proteksi dari panas api. Bata merah ini pada biasanya mempunyai ukuran panjang antara 17-23 cm dan lebar sekitar 7-11 cm, serta tebalnya 3-5 cm. memiliki ukuran yang lebih kecil akan memberi kemudahan dalam proses pengangkutan dan bisa dipakai untuk membentuk bidang kecil.
 
-### 2\. Batako Hitam dan Putih Di Cipaku Bogor
+### 2. Batako Hitam dan Putih Di Cipaku Bogor
 
 ![Harga Batako Putih Gratis Ongkir Ke Cipaku Bogor](/images/bata/batako-hitam-press-23.png)
 
@@ -34,7 +34,7 @@ Material bangunan dinding dari batako trus ini secara umum terbuat dari bahan ca
 
 Batako seperti ini mempunyai kelemahan seperti mudah pecah, lebih panas dan pengap. Berbeda dengan bata merah yg terbuat dari material tanah. Namun batako press ini cenderung lebih ringan daripada bata merah. Akhirnya akan menonjol lebih halus dan ukurannya lebih presisi kalau dibandingkan dg bata merah. Batako press Hitam ini memiliki ukuran panjang sekitar 36-40 cm, tinggi 18-20 cm dan tebal 8-10 cm. bahan ini acap kali dipilih sebab untuk memperingan beban struktur bangunan, meminimalisir sisa bahan dan mempermudah pembangunan.
 
-### 3\. Bata Herbel Di Cipaku Bogor
+### 3. Bata Herbel Di Cipaku Bogor
 
 ![Harga Batako Putih Gratis Ongkir Ke Cipaku Bogor](/images/bata/bata-hebel-sni-02.png)
 
@@ -62,7 +62,7 @@ Semua tentunya sudah tahu kegunaan utama batu bata mulai digunakan untuk membuat
 
 Sistem mengorder batu bata yang aman dan terpercaya:
 
-1.  Pengerjaan pembayaran dapat anda lakukan secara COD atau dibayar di tempat ketika barang pesanan anda telah datang di tempat
+1.  Pengerjaan pembayaran dapat anda lakukan secara COD atau dibayar di tempat ketika barang pesanan anda telah datang di tempat
 2. Silahkan memilih dan menentukan bahan batu bata yang anda inginkan
 3. Tentukan juga jumlah orderan batu bata yg anda butuhkan dalam bentuk bijian.
 4. Anda bisa menghubungi layanan telepon toko untuk memudahkan proses pemesanan

@@ -17,14 +17,13 @@ draft: false
 
 {{< toc >}}
 
-
 Pagar adalah elemen penting dalam sebuah rumah. Selain fungsi keamanan dan privasi, pagar juga menjadi bagian dari estetika bangunan. Nah, kalau Anda sedang mencari *tukang pagar terdekat* di wilayah Jabodetabek, Anda datang ke tempat yang tepat! Kami, di Sumber Material, tidak hanya menyediakan material bangunan berkualitas, tapi juga bisa menghubungkan Anda dengan tenaga ahli pemasangan pagar yang terpercaya.
 
 ## Memilih Material Pagar yang Tepat: Besi, Kayu, atau Material Lainnya?
 
 Memilih material pagar itu penting, lho. Setiap material punya kelebihan dan kekurangannya masing-masing. Kalau kita bicara soal pagar besi, misalnya, material ini dikenal kuat, tahan lama, dan minim perawatan. Pagar besi juga bisa didesain dengan berbagai model, mulai dari yang klasik sampai modern. Tapi, besi juga rentan berkarat kalau tidak dirawat dengan baik.
 
-Lalu, bagaimana dengan pagar kayu? Pagar kayu memberikan kesan alami dan hangat. Cocok banget buat Anda yang suka desain rumah minimalis tropis. Tapi, pagar kayu butuh perawatan rutin, seperti pengecatan ulang atau pelapisan anti-rayap. 
+Lalu, bagaimana dengan pagar kayu? Pagar kayu memberikan kesan alami dan hangat. Cocok banget buat Anda yang suka desain rumah minimalis tropis. Tapi, pagar kayu butuh perawatan rutin, seperti pengecatan ulang atau pelapisan anti-rayap.
 
 Selain besi dan kayu, ada juga opsi material lain seperti batako, batubata ringan (hebel), atau bahkan pagar beton precast. Masing-masing material ini memiliki karakteristik unik dan harga yang berbeda-beda. Untuk pagar hebel misalnya, Mitra bisa menghemat biaya karena harganya relatif terjangkau, tapi perlu diingat kekuatannya tidak sebanding pagar besi.
 
@@ -33,7 +32,6 @@ Selain besi dan kayu, ada juga opsi material lain seperti batako, batubata ringa
 Biaya pemasangan pagar itu bervariasi, tergantung pada beberapa faktor. Yang pertama, tentu saja, adalah jenis material yang Anda pilih. Pagar besi biasanya lebih mahal daripada pagar kayu atau batako. Kemudian, ada juga faktor desain pagar. Pagar dengan desain yang rumit tentu akan lebih mahal daripada pagar sederhana.
 
 Selain itu, panjang pagar juga berpengaruh. Semakin panjang pagar yang akan dipasang, semakin besar biayanya. Nah, untuk memberikan gambaran, berikut ini perkiraan kasar biaya pemasangan pagar per meter persegi (per Mei 2026, harga bisa berubah):
-
 
 <table class="table">
   <caption>Estimasi Biaya Pemasangan Pagar Per Meter Persegi (Mei 2026)</caption>
@@ -49,7 +47,6 @@ Selain itu, panjang pagar juga berpengaruh. Semakin panjang pagar yang akan dipa
   </tbody>
 </table>
 
-
 Harga ini bersifat estimasi dan dapat berubah sewaktu-waktu — hubungi Kami untuk penawaran terbaru dan paling akurat sesuai kebutuhan proyek Mitra.
 
 ## Mencari Tukang Pagar Terdekat: Tips Memilih yang Terpercaya
@@ -62,7 +59,7 @@ Selain itu, jangan ragu untuk meminta contoh hasil pekerjaan mereka. Perhatikan 
 
 ## Sumber Material: Solusi Lengkap Kebutuhan Pagar Anda
 
-Di Sumber Material, kami menyediakan berbagai macam material bangunan yang Anda butuhkan untuk membangun pagar impian Anda. Mulai dari besi hollow, besi tempa, kayu, batako, hingga batubata ringan (hebel) tersedia lengkap di sini. Kami juga menyediakan jasa sewa alat berat yang dapat membantu mempercepat proses pembangunan pagar Anda. 
+Di Sumber Material, kami menyediakan berbagai macam material bangunan yang Anda butuhkan untuk membangun pagar impian Anda. Mulai dari besi hollow, besi tempa, kayu, batako, hingga batubata ringan (hebel) tersedia lengkap di sini. Kami juga menyediakan jasa sewa alat berat yang dapat membantu mempercepat proses pembangunan pagar Anda.
 
 Kami melayani wilayah Jabodetabek dan sekitarnya. Jadi, tunggu apa lagi? Yuk, wujudkan pagar rumah impian Anda sekarang juga!
 

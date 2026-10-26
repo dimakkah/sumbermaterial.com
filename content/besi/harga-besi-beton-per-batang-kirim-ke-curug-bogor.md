@@ -18,19 +18,19 @@ Dengan tidak adanya besi karenanya sebuah bangunan akan mudah retak ketika ada g
 
 ## Mengetahui Macam-macam Besi Di Curug Bogor
 
-### 1\. Besi Polos Full 4mm, 6mm, 8mm, 10mm, 12mm, 16mm, 18mm, 19mm Di Curug Bogor
+### 1. Besi Polos Full 4mm, 6mm, 8mm, 10mm, 12mm, 16mm, 18mm, 19mm Di Curug Bogor
 
 Besi polos mempunyai ukuran mulai dari 8 mm sampai 25 mm dan mempunyai 6 meter panjang tekuk dan 12 meter panjang lurus. Besi beton ini telah mulai diterapkan sebagai bahan utama di Indonesia pada tahun 1950. Besi ini kerap kali diaplikasikan untuk membangun rumah. Bahan yang gampang dipakai sehingga selain digunakan untuk membangun sebuah gedung juga dipakai untuk membangun trowongan, bendungan, dan lainnya. Saat diterapkan untuk membangun rumah bertingkat maka biasanya besi polos ini diterapkan untuk struktur tulangan balok, dinding, dan sloof. Besi beton polos ini memiliki kelebihan besi polos ini tegangannya lebih tinggi dari pada besi lainnya. Sehingga besi ini terkesan lebih kokoh dan tahan beban. Sehingga pengaplikasian besi polos ini sangat cocok untuk membangun gedung, jembatan, dan bangunan lainnya. Besi polos ini terbuat dari bahan seperti billet dan skrap. Billet yakni baja batangan yang proses pembuatannya dengan mengecor biji besi. Apabila skrap yakni besi bekas yang dileburkan dengan temperature tertentu. Selain itu apabila anda menerapkan besi polos ini tidak membutuhkan anggaran pemeliharaan. Semakin lama digunakan maka besi ini akan kian kokoh.
 
-### 2\. Besi Ulir KS 4mm, 6mm, 8mm, 10mm, 12mm, 16mm, 18mm, 19mm Di Curug Bogor
+### 2. Besi Ulir KS 4mm, 6mm, 8mm, 10mm, 12mm, 16mm, 18mm, 19mm Di Curug Bogor
 
 Cocok dengan namanya besi beton ulir ini yaitu besi yang tampilannya mengulir. Pada permukaannya bercorak spiral yang memiliki tujuan untuk menyatukan gerigi besi dengan elemen material bangunan yang dibentuk oleh besi beton. Besi ulir ini mulai populer diaplikasikan pada abad ke-20 di Amerika dan mulai populer di Indonesia pada tahun1950. Mengingat ketika mengaplikasikan besi ulir ini mempunyai banyak kelebihan mulai dari ketahanan bangunan serta lebih ekonomis dan efisien. Produk besi ulir ini menjadi andalan pasar karena memiliki kwalitas yang terbaik di Indonesia dan mempunyai harga yang tinggi sekiranya dibandingi dengan produk lainnya.
 
-### 3\. Besi WF dan H-Beam Krakatau Steel Di Curug Bogor
+### 3. Besi WF dan H-Beam Krakatau Steel Di Curug Bogor
 
 Besi Wide Flange (WF) ini yakni salah satu baja dengan struktural yang paling populer diterapkan untuk kontruksi baja. Jika anda memerlukan besi baja Wide Flage dalam jumlah yang banyak atau sedikit karenanya silahkan cari toko besi yang terpercaya. Besi WF ini memiliki kekokohan yang kokoh dan kokoh pada kekuatan tarik atau tekan. Maka dari itu besi ini menjadi unsur struktur yang mempunyai batasan yang sempurna untuk menopang bobot tekan aksial, tarik aksial, dan lentur dengan fasilitas pembangunan strukturnya. Baja Wide Flange (WF) ini mempunyai kepadatan yang tinggi tapi rasio berat antara ketahanan bagian Baja WF yang tinggi tetapi tidak begitu berat yang berhubungan dengan kapasitas muatan. Selain itu menentukan seandainya kontruksi yang diterapkan secara efisien. Metode kontruksi baja WF ini kombinasi dari unsur struktur yang rumit. Pada struktur ini mempunyai tujuan membawa beban yang aman dan efektif yang bekerja pada sebuah bangunan dan dikirim pada pondasinya. Gaya dan bobot yang bekerja ini termasuk bobot pertikal, perbedaan temperatur, horizontal, getaran dan lainnya. Pada sebuah bangunan baja, karenanya ada unsure yang berfungsi menopang gaya lateral dan gravitasi.
 
-### 4\. Besi Holo Di Curug Bogor
+### 4. Besi Holo Di Curug Bogor
 
 Besi hollow merupakan besi yang diaplikasikan sebagai pembuatan kanopi, pagar, pintu besi dan lainnya. Bahan baku pembuatan besi Hollow ini umumnya terbuat dari stainless, galvanis, dan besi baja. Namun yang paling kerap kali diterapkan sebagai bahan baku merupakan galvanis. Terdapat kelebihan yang anda peroleh ketika memasang kanopi, memasang pagar, teralis menggunakan besi hollow:
 

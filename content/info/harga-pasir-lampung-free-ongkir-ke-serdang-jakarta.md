@@ -25,7 +25,7 @@ Berdasarkan Standar Nasional Indonesia ( SK SNI - S - 04 - 1989 - F ; 28) di tut
 
 Syarat-Syarat Pasir yang Bagus tuk Konstruksi Bangunan
 
-1.  Agregat Halus semestinya terdiri dari butiran yang tajam dan keras dengan indeks kekerasan <2.2
+1.  Agregat Halus semestinya terdiri dari butiran yang tajam dan keras dengan indeks kekerasan <2.2
 2. Seandainya digunakan Natrium Sulfat komponen hancur maksimal dua belas persen
 3. seandainya dipakai Magnesium Sulfat komponen halus maksimal sepuluh persen
 4. Tak boleh mengandung tanah lebih dari lima persen
@@ -41,7 +41,6 @@ Syarat-Syarat Pasir yang Bagus tuk Konstruksi Bangunan
 sesudah mengetahui prasyarat pasir untuk suatu Bangunan, sekarang ini kita bahas Tipe - Jenis Pasir Untuk Konstruksi penjelasan nya sebagai berikut:
 
 - ### Pasir Cor Di Serdang Jakarta
-    
 
 Pasir ini biasa nya berwarna hitam gelap dan tingkat kekasaran butiran nya cukup tinggi. Namun jikalau anda mengepal nya dengan tangan tak akan lengket dan akan buyar kembali. model pasir ini betul-betul lah baik tuk Pengecoran, Plesteran Dinding, Adukan Pondasi dan Adukan Pasangan Bata Pasir ini yaitu pasir untuk Beton yakni butiran-butiran mineral keras dan tajam berukuran antara 0,075 – 5 mm, seandainya terdapat butiran berukuran lebih kecil dari 0,063 mm tidak lebih dari 5% berat. Pasir ini yaitu pasir untuk Rigid hampir kerap digunakan untuk profesi cor-coran struktur seperti kolom, balok dan pelat lantai.
 
@@ -52,9 +51,9 @@ Harga Pasir Lampung Free Ongkir Ke Serdang Jakarta Seandainya anda sebagai konsu
 Pasir paling unggul dari kp. jebrod cianjur jawa barat yang diterapkan oleh indocement serta perusahaan batching plant lainnya sebagai bahan dasar produksi readymix concrete. Pasir ini paling dianjurkan untuk cor sebab irit semen juga mempunyai kandungan lumpur yang benar-benar rendah dibawah delapan %. warnanya Hitam abu tua atau hitam seperti hitamnya batu kali, ada juga yang hitam kemerahan atau hitam terasi
 
 3. **Pasir Hitam Beton Cimangkok.** Pasir asli Lokasi penambangannya di cimangkok sukabumi jabar yang masih masuk pada kategori pasir hitam nomor satu di jawa barat, warnanya hitam kecoklatan pantas untuk cor, pasang pondasi dan bata
-    
+
     ![Harga Pasir Lampung Free Ongkir Ke Serdang Jakarta](/images/info/jual-pasir-cor-hitam.jpg)
-    
+
 4. **Pasir Hitam Beton Cimalaka Subang Bandung.**
 
 Pasir nomor satu yang berwarna hitam kebauan ada juga yang berwarna hitam abu tua. Banyak di aplikasikan untuk Cor, pasang dan keperluan lainnya. Ditambang di kampung cimalaka
@@ -90,9 +89,9 @@ Kecuali Rangkasbitung, Banten juga mempunyai lokasi pnembangan pasir lain sepert
 Masih dari kawasan di banten, pasir kelas tiga ini yakni pasir yang banyak diaplikasikan di proyek proyek perumahan atau cluster sebab harganya yang murah juga mutu yang bagus. Warna pasir ini hitam kecoklatan dan keabuan sungguh-sungguh dianjurkan untuk pasang pondasi, bata, batu dan lain-lain
 
 27. **Pasir Hitam Beton Bohlam Sukabumi.** Pasir dari Lokasi kp. bohlam di sukabumi berwarna hitam kecoklatan, sungguh-sungguh bagus untuk pasang bata, pondasi dan lain-lain sebagai opsi pasir mutu unggul dan murah
-    
+
     ![Harga Pasir Lampung Free Ongkir Ke Serdang Jakarta](/images/info/pasir-hitam-9.jpg)
-    
+
 28. **Pasir Rigid Galunggung.**
 
 Pasir ini ialah pasir hitam mutu paling unggul dikelasnya lazim diterapkan oleh pabrik pengolahan beton readymix juga perusahan pembuatan precast dan kerap kali juga digunakan untuk bahan pembuatan batako press hitam, paving block dan sebagainya. Pasir ini ditambang dari Tasikmalaya jawa barat.
@@ -100,21 +99,18 @@ Pasir ini ialah pasir hitam mutu paling unggul dikelasnya lazim diterapkan oleh 
 ![Harga Pasir Lampung Free Ongkir Ke Serdang Jakarta](/images/info/pasir-hitam-1.jpg)
 
 - ### Pasir Biasa Di Serdang Jakarta
-    
 
 ![Harga Pasir Lampung Free Ongkir Ke Serdang Jakarta](/images/info/jual-pasir-mundu.jpg)
 
 Pasir ini lebih halus lagi dibandingkan oleh pasir beton. sekiranya anda mengepal pasir ini karenanya akan menggumpal dan tak akan buyar kembali. pasir pasang lazim nya di gunakan untuk adukan pasir beton supaya tak terlampau kasar dan dapat di gunakan untuk plesteran dinding.
 
 - ### Pasir Elod Untuk pengurugan lantai Di Serdang Jakarta
-    
 
 Di Antara ke dua pasir diatas pasir ragam ini lebih halus lagi, seandainya anda mengepal nya akan menggumpal dan tidak akan buyar lagi. tetapi pasir ragam tidak baik untuk di buat sebagai bahan bangunan. pasir ragam ini pada lazim nya di manfaatkan tuk Bahan Pembuatan Batako
 
 Pada lazim nya pasir ini nyaris sama dgn pasir beton akan namun pasir ini memiliki tingkat kekasaran yang tinggi, butiran - butiran nya lumayan besar dan agak banyak batuan nya. pada umumnya pasir jenis ini baik tuk bahan dasaran pemasangan keramik
 
 - ### Pasir Putih Tanpa Batu Untuk Pelester Di Serdang Jakarta
-    
 
 1. **Pasir Putih Bangka**
 

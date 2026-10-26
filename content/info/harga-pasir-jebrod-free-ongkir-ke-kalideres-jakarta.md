@@ -25,7 +25,7 @@ berdasarkan Standar Nasional Indonesia ( SK SNI - S - 04 - 1989 - F ; 28) di seb
 
 Prasyarat Pasir yang Bagus buat Konstruksi Bangunan
 
-1.  Agregat Halus wajib terdiri dari butiran yang tajam dan keras dengan indeks kekerasan <2.2
+1.  Agregat Halus wajib terdiri dari butiran yang tajam dan keras dengan indeks kekerasan <2.2
 2. Kalau dimanfaatkan Natrium Sulfat bagian hancur maksimal dua belas %
 3. Jikalau dipakai Magnesium Sulfat bagian halus maksimal 10%
 4. Tak boleh mengandung tanah lebih dari 5 persen
@@ -41,7 +41,6 @@ Prasyarat Pasir yang Bagus buat Konstruksi Bangunan
 setelah mengetahui persyaratan pasir untuk sebuah Bangunan, sekarang ini kita bahas Ragam - Jenis Pasir Untuk Konstruksi Bangunan penjelasan nya sebagai berikut:
 
 - ### Pasir Tipe Rigid dan Lokasi Pengambilannya Di Kalideres Jakarta
-    
 
 Pasir ini lazim nya berwarna hitam gelap dan tingkat pecahan butiran nya lumayan tinggi. Tapi kalau anda mengepal nya dengan tangan tidak akan menggumpal dan akan hancur kembali. jenis pasir ini betul-betul lah baik buat Pengecoran, Plesteran Dinding, Adukan Pondasi dan Adukan Pasangan Bata Pasir ini yaitu pasir untuk Beton merupakan butiran-butiran mineral keras dan tajam berukuran antara 0,075 – 5 mm, jika terdapat butiran berukuran lebih kecil dari 0,063 mm tidak lebih dari 5% berat. Pasir ini yaitu pasir untuk Rigid sering kali digunakan untuk pekerjaan cor-coran struktur seperti kolom, balok dan pelat lantai.
 
@@ -59,21 +58,18 @@ Untuk menerima kekuatan Beton yang maksimal karenanya pasir mesti mampu memenuhi
 ![Harga Pasir Jebrod Free Ongkir Ke Kalideres Jakarta](/images/info/pasir-hitam-7.jpg)
 
 - ### Pasir Untuk Pasang Batu, Pondasi, Bata, Ubin, Plester Di Kalideres Jakarta
-    
 
 ![Harga Pasir Jebrod Free Ongkir Ke Kalideres Jakarta](/images/info/pasir-hitam-4.jpg)
 
 Pasir ini ekstra halus lagi diperbandingkan oleh pasir beton. sekiranya kamu mengepal pasir ini karenanya akan menggumpal dan tak akan buyar kembali. pasir pasang biasa nya di gunakan untuk campuran pasir beton supaya tak kelewat kasar dan dapat di manfaatkan untuk plesteran dinding.
 
 - ### Pasir Elod Untuk Dasaran Pemasangan Granit Di Kalideres Jakarta
-    
 
 Di Antara ke dua pasir diatas pasir model ini lebih halus lagi, apabila anda mengepal nya karenanya akan menggumpal dan tidak akan hancur lagi. namun pasir jenis
 
 Pada lazim nya pasir ini nyaris sama dengan pasir beton akan tapi pasir ini mempunyai tingkat kekasaran yg tinggi, butiran - butiran nya lumayan besar dan agak banyak batuan nya. pada biasanya pasir tipe ini bagus untuk bahan Pembuatan Batako
 
 - ### Pasir Putih Tanpa Batu Untuk Lapangan Voly Di Kalideres Jakarta
-    
 
 1. **Pasir Putih Bangka**
 

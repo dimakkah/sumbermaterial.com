@@ -21,13 +21,13 @@ Memasang baja ringan untuk bangunan Anda sebenarnya cukup mudah, tak perlu repot
 
 Berikut adalah beberapa alasan kuat yang perlu Anda ketahui sebelum menghubungi kami:
 
- **Ramah Lingkungan:** Baja ringan lebih ramah lingkungan karena tidak memerlukan kayu, yang berarti tidak ada penebangan pohon. Dengan memilih baja ringan sebagai kerangka atap dan kanopi, Anda turut berkontribusi dalam pelestarian alam.
- **Lebih Terjangkau:** Menggunakan kerangka kayu seringkali lebih mahal. Untuk mendapatkan kayu berkualitas tinggi, Anda perlu membayar lebih mahal. Memilih baja ringan dapat membantu Anda menekan biaya pembangunan.
- **Ringan dan Kuat:** Baja ringan berbeda dengan baja/besi yang lebih berat. Dengan ketebalan yang tipis dan ringan, baja ringan tetap sangat kuat untuk kerangka atap dan kanopi rumah Anda.
- **Perawatan Minimal:** Anda tidak perlu khawatir dengan perawatan rutin. Kami yakin baja ringan akan membebaskan Anda dari pekerjaan perawatan tahunan yang merepotkan.
- **Pemasangan Cepat:** Pemasangan kerangka atap baja ringan lebih cepat dibandingkan dengan material kayu atau material lainnya yang memakan waktu lebih lama.
- **Bahan Berkualitas:** Baja ringan yang kami gunakan bukanlah bahan sembarangan. Bahan utamanya adalah zinc dan aluminium dengan sertifikasi dan standar keamanan 4 kali lebih baik daripada baja biasa. Bahkan, kekuatannya mampu menahan beban berkilo-kilo.
- **Tahan Rayap:** Kami jamin kerangka atap dan kanopi dari baja ringan ini tahan terhadap serangan rayap.
+- **Ramah Lingkungan:** Baja ringan lebih ramah lingkungan karena tidak memerlukan kayu, yang berarti tidak ada penebangan pohon. Dengan memilih baja ringan sebagai kerangka atap dan kanopi, Anda turut berkontribusi dalam pelestarian alam.
+- **Lebih Terjangkau:** Menggunakan kerangka kayu seringkali lebih mahal. Untuk mendapatkan kayu berkualitas tinggi, Anda perlu membayar lebih mahal. Memilih baja ringan dapat membantu Anda menekan biaya pembangunan.
+- **Ringan dan Kuat:** Baja ringan berbeda dengan baja/besi yang lebih berat. Dengan ketebalan yang tipis dan ringan, baja ringan tetap sangat kuat untuk kerangka atap dan kanopi rumah Anda.
+- **Perawatan Minimal:** Anda tidak perlu khawatir dengan perawatan rutin. Kami yakin baja ringan akan membebaskan Anda dari pekerjaan perawatan tahunan yang merepotkan.
+- **Pemasangan Cepat:** Pemasangan kerangka atap baja ringan lebih cepat dibandingkan dengan material kayu atau material lainnya yang memakan waktu lebih lama.
+- **Bahan Berkualitas:** Baja ringan yang kami gunakan bukanlah bahan sembarangan. Bahan utamanya adalah zinc dan aluminium dengan sertifikasi dan standar keamanan 4 kali lebih baik daripada baja biasa. Bahkan, kekuatannya mampu menahan beban berkilo-kilo.
+- **Tahan Rayap:** Kami jamin kerangka atap dan kanopi dari baja ringan ini tahan terhadap serangan rayap.
 
 ## Metode Hitung Luas Rangka Baja Ringan Di Serang Baru Bekasi
 
@@ -57,10 +57,10 @@ Membahas harga jasa pasang baja ringan, banyak informasi tersedia secara online.
 
 (Catatan: biaya dapat disesuaikan) Berikut beberapa perkiraan biaya jasa pasang baja ringan berdasarkan variasi pemasangan, baik kanopi maupun kerangka atap:
 
-*   Kanopi untuk rangka baja ringan “Polikarbonat x Lite Rp. 285.000 / m
-*   Kanopi untuk rangka baja ringan “Spandek Rp. 225.000 / m
-*   Kanopi untuk rangka baja ringan “Gogreen Rp. 200.000 /m
-*   Untuk perhitungan lainnya, segera hubungi kami melalui kontak yang tertera di website kami.
+- Kanopi untuk rangka baja ringan “Polikarbonat x Lite Rp. 285.000 / m
+- Kanopi untuk rangka baja ringan “Spandek Rp. 225.000 / m
+- Kanopi untuk rangka baja ringan “Gogreen Rp. 200.000 /m
+- Untuk perhitungan lainnya, segera hubungi kami melalui kontak yang tertera di website kami.
 
 Berikut adalah parameter penting yang memengaruhi besaran biaya jasa pasang baja ringan:
 
@@ -80,10 +80,10 @@ Setelah pembuatan sketsa dan perhitungan rangka selesai, Anda dapat mendiskusika
 
 Berikut adalah detail harga jasa pasang baja ringan yang perlu Anda ketahui:
 
-*   Harga kami sudah termasuk harga pemasangan, yang biasanya lebih murah dan seringkali memberikan diskon untuk konsumen.
-*   Harga yang kami berikan sesuai dengan layanan pemasangan, perhitungan, dan material yang terpasang.
-*   Kami selalu mengutamakan harga terbaik untuk Anda.
-*   Harga layanan pasang baja ringan dapat berubah sewaktu-waktu karena fluktuasi harga material.
-*   Pembayaran bisa dilakukan dengan uang muka dan sisanya setelah pemasangan selesai.
+- Harga kami sudah termasuk harga pemasangan, yang biasanya lebih murah dan seringkali memberikan diskon untuk konsumen.
+- Harga yang kami berikan sesuai dengan layanan pemasangan, perhitungan, dan material yang terpasang.
+- Kami selalu mengutamakan harga terbaik untuk Anda.
+- Harga layanan pasang baja ringan dapat berubah sewaktu-waktu karena fluktuasi harga material.
+- Pembayaran bisa dilakukan dengan uang muka dan sisanya setelah pemasangan selesai.
 
 Anda dapat mempercayakan semuanya kepada kami. Kami, sebagai Harga Pasang Atap Baja Ringan Di Serang Baru Bekasi, siap membantu Anda dalam mempertimbangkan ukuran, kualitas, dan pemasangan yang paling sesuai dengan kebutuhan Anda. Terima kasih.

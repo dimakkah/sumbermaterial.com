@@ -50,13 +50,13 @@ d. tdk bisa menjangkau tempat yang sempit. Mengingat Besi WF ini berukuran panja
 
 ### Kelebihan Dari Besi WF Di Bondongan Bogor
 
-1\. Dapat memaksimalkan waktu dalam pembangunan sebuah konstruksi bangunan, menghemat waktu dan juga menghemat biaya dan tenaga tukang.
+1. Dapat memaksimalkan waktu dalam pembangunan sebuah konstruksi bangunan, menghemat waktu dan juga menghemat biaya dan tenaga tukang.
 
-2\. Bisa menyangga bobot yang sungguh-sungguh berat, tdk gampang memuai dan lebih simple pemakaiannya dibanding dengan material struktural lainnya.
+2. Bisa menyangga bobot yang sungguh-sungguh berat, tdk gampang memuai dan lebih simple pemakaiannya dibanding dengan material struktural lainnya.
 
-3\. Memiliki fleksibilitas yang tinggi. Sehingga struktur bangunan yang diciptakan dari Besi WF ini menjadi lebih kuat tidak mudah bergeser, tdk mudah roboh maupun goyang. Amat cocok untuk variasi bangunan diatas tanah yang labil atau sering kali terjadi longsor.
+3. Memiliki fleksibilitas yang tinggi. Sehingga struktur bangunan yang diciptakan dari Besi WF ini menjadi lebih kuat tidak mudah bergeser, tdk mudah roboh maupun goyang. Amat cocok untuk variasi bangunan diatas tanah yang labil atau sering kali terjadi longsor.
 
-4\. Lebih hemat sebab struktur bangunan yang menggunakan Besi WF akan memiliki kekokohan yang cukup lama malah sampai ratusan tahun. Tentunya ini ialah investasi yang amat murah jika kita bandingkan dengan waktu pakai. Malahan bangunan yang dibangun dengan tulangan Besi WF dapat kita wariskan kepada buah hati cucu kita.
+4. Lebih hemat sebab struktur bangunan yang menggunakan Besi WF akan memiliki kekokohan yang cukup lama malah sampai ratusan tahun. Tentunya ini ialah investasi yang amat murah jika kita bandingkan dengan waktu pakai. Malahan bangunan yang dibangun dengan tulangan Besi WF dapat kita wariskan kepada buah hati cucu kita.
 
 ## Mengenal Besi H Beam Di Bondongan Bogor
 
@@ -72,15 +72,15 @@ Sama seperti besi yang kami paparkan sebelumnya merupakan Besi WF, besi H-Beam p
 
 ### Keunggulan Besi H Beam Di Bondongan Bogor
 
-1\. Gampang untuk didapat. Banyak supplier besi yang menyediakan stok besi H-Beam beragam ukuran. Sehingga besi H-Beam ini sungguh-sungguh mudah untuk didapatkan, tidak sulit untuk menemukan toko besi yang menjual besi H Beam.
+1. Gampang untuk didapat. Banyak supplier besi yang menyediakan stok besi H-Beam beragam ukuran. Sehingga besi H-Beam ini sungguh-sungguh mudah untuk didapatkan, tidak sulit untuk menemukan toko besi yang menjual besi H Beam.
 
-2\. Mudah Dalam Pemasangan. Banyak tukang pakar dalam pemasangan besi H Beam. Meski besi H-Beam ini harus dipasang oleh tukang yang ahli akan tetapi tukang yang profesional dalam memasang besi H Beam ini benar-benar banyak kita temui hari ini. Sehingga tidak perlu dikhawatirkan lagi pelaksanaan pemasangannya.
+2. Mudah Dalam Pemasangan. Banyak tukang pakar dalam pemasangan besi H Beam. Meski besi H-Beam ini harus dipasang oleh tukang yang ahli akan tetapi tukang yang profesional dalam memasang besi H Beam ini benar-benar banyak kita temui hari ini. Sehingga tidak perlu dikhawatirkan lagi pelaksanaan pemasangannya.
 
-3\. Memiliki ketahanan yang tidak diragukan lagi. Besi H Beam sudah teruji selama bertahun-tahun dalam kontruksi bangunan. Baik skala kecil ataupun skala besar dan terbilang benar-benar kuat jika dibandingkan dengan material lainnya. Bisa bertahan hingga puluhan sampai ratusan tahun.
+3. Memiliki ketahanan yang tidak diragukan lagi. Besi H Beam sudah teruji selama bertahun-tahun dalam kontruksi bangunan. Baik skala kecil ataupun skala besar dan terbilang benar-benar kuat jika dibandingkan dengan material lainnya. Bisa bertahan hingga puluhan sampai ratusan tahun.
 
-4\. Mudah dalam pemeliharaannya. Bangunan yang menerapkan besi H Beam sebagai struktur rangka bangunannya akan betul-betul mudah dalam melaksanakan pemeliharaannya. tdk perlu pengecatan dengan cat khusus ataupun pembersihan tiap waktu.
+4. Mudah dalam pemeliharaannya. Bangunan yang menerapkan besi H Beam sebagai struktur rangka bangunannya akan betul-betul mudah dalam melaksanakan pemeliharaannya. tdk perlu pengecatan dengan cat khusus ataupun pembersihan tiap waktu.
 
-5\. Menghemat pengaplikasian material lainnya, seperti penggunaan bekisting, pengaplikasian tiang penyangga atau steger dan juga material pasir. Besi H Beam Tdk memerlukan material pasir dalam pengaplikasiannya.
+5. Menghemat pengaplikasian material lainnya, seperti penggunaan bekisting, pengaplikasian tiang penyangga atau steger dan juga material pasir. Besi H Beam Tdk memerlukan material pasir dalam pengaplikasiannya.
 
 ### Kekurangan Dari Besi H Beam Di Bondongan Bogor
 

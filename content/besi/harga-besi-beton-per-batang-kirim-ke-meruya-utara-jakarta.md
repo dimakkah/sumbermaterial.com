@@ -18,19 +18,19 @@ Dengan tidak adanya besi karenanya sebuah bangunan akan gampang retak saat ada g
 
 ## Seperti Ini Jenis-jenis Besi Di Meruya Utara Jakarta
 
-### 1\. Besi Polos KS 4mm, 6mm, 8mm, 10mm, 12mm, 16mm, 18mm, 19mm Di Meruya Utara Jakarta
+### 1. Besi Polos KS 4mm, 6mm, 8mm, 10mm, 12mm, 16mm, 18mm, 19mm Di Meruya Utara Jakarta
 
 Besi polos mempunyai ukuran mulai dari 8 mm sampai dengan 25 mm dan memiliki 6 meter panjang tekuk dan 12 meter panjang lurus. Besi beton ini mulai dipakai sebagai bahan utama di Indonesia pada tahun 1950. Besi ini sering kali diaplikasikan untuk membangun rumah. Bahan yang mudah diterapkan sehingga selain diterapkan untuk membangun sebuah gedung juga dipakai untuk membangun trowongan, bendungan, dan lainnya. Ketika dipakai untuk membangun sebuah gedung bertingkat maka biasanya besi polos ini diaplikasikan untuk struktur tulangan balok, dinding, dan sloof. Besi beton polos ini memiliki kelebihan besi polos ini tegangannya lebih tinggi dari pada besi lainnya. Jadi besi ini terkesan lebih kokoh dan tahan beban. Oleh karena itu pengaplikasian besi polos ini benar-benar cocok untuk membangun gedung, jembatan, dan bangunan lainnya. Besi polos ini terbuat dari bahan seperti billet dan skrap. Billet yakni baja batangan yang proses pembuatannya dengan melebur biji besi. Apabila skrap yaitu besi bekas yang dihancurkan dengan temperature tertentu. Selain itu sekiranya anda mengaplikasikan besi polos ini tidak memerlukan budget pemeliharaan. Semakin lama diaplikasikan maka besi ini akan kian kokoh.
 
-### 2\. Besi Ulir Banci 4mm, 6mm, 8mm, 10mm, 12mm, 16mm, 18mm, 19mm Di Meruya Utara Jakarta
+### 2. Besi Ulir Banci 4mm, 6mm, 8mm, 10mm, 12mm, 16mm, 18mm, 19mm Di Meruya Utara Jakarta
 
 Selaras dengan namanya besi beton ulir ini yaitu besi yang karakternya mengulir. Pada permukaannya bercorak spiral yang mempunyai tujuan untuk menyatukan tulangan dengan elemen bahan bangunan yang dibangun oleh besi beton. Besi ulir ini mulai populer dipakai pada abad ke-20 di Amerika dan mulai populer di Indonesia pada tahun1950. Mengingat saat mengaplikasikan besi ulir ini memiliki banyak keunggulan mulai dari kekokohan bangunan serta lebih ekonomis dan efisien. Produk besi ulir ini menjadi andalan pasar sebab mempunyai kualitas yang terbaik di Indonesia dan memiliki harga yang tinggi bila dibandingi dengan produk lainnya.
 
-### 3\. Besi WF dan H-Beam Full Di Meruya Utara Jakarta
+### 3. Besi WF dan H-Beam Full Di Meruya Utara Jakarta
 
 Besi Wide Flange (WF) ini merupakan salah satu baja dengan struktural yang paling sering diaplikasikan untuk kontruksi baja. Bila anda membutuhkan besi baja Wide Flage dalam quantitas yang banyak atau sedikit karenanya silahkan cari penjual besi yang terpercaya. Besi WF ini mempunyai kekokohan yang kokoh dan kokoh pada kekuatan tarik atau tekan. Maka dari itu besi ini menjadi elemen struktur yang memiliki batasan yang sempurna untuk menopang bobot tekan aksial, tarik aksial, dan lentur dengan fasilitas pembangunan strukturnya. Baja Wide Flange (WF) ini memiliki kepadatan yang tinggi tapi rasio berat antara kekokohan komponen Baja WF yang tinggi namun tidak begitu berat yang berkaitan dengan kapasitas muatan. Selain dari itu menetapkan kalau kontruksi yang dipakai secara efisien. Sistem kontruksi baja WF ini kombinasi dari elemen struktur yang kompleks. Pada struktur ini memiliki tujuan membawa beban yang aman dan efektif yang berefek pada sebuah bangunan dan dikirim pada pondasinya. Gaya dan muatan yang berefek ini termasuk muatan pertikal, perbedaan suhu, horizontal, getaran dan lainnya. Pada sebuah bangunan baja, karenanya ada unsure yang berfungsi menahan gaya lateral dan gravitasi.
 
-### 4\. Besi Holow Di Meruya Utara Jakarta
+### 4. Besi Holow Di Meruya Utara Jakarta
 
 Besi hollow adalah besi yang digunakan sebagai pembuatan kanopi, pagar, pintu besi dan lainnya. Bahan baku pembuatan besi Hollow ini biasanya terbuat dari stainless, galvanis, dan besi baja. Tapi yang paling sering diterapkan sebagai bahan baku adalah galvanis. Terdapat kelebihan yang anda peroleh dikala memasang kanopi, memasang pagar, teralis memakai besi hollow:
 

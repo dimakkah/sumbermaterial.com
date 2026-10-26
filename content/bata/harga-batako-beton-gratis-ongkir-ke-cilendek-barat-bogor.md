@@ -16,7 +16,7 @@ sekarang ini bahan yang dipakai untuk mengisi tembok bangunan, telah terdapat be
 
 ## Mengenal Macam-macam Bata
 
-### 1\. Bata Merah Standar & Jumbo Di Cilendek Barat Bogor
+### 1. Bata Merah Standar & Jumbo Di Cilendek Barat Bogor
 
 ![Harga Batako Beton Gratis Ongkir Ke Cilendek Barat Bogor](/images/bata/bata-merah-oven-15.png)
 
@@ -26,7 +26,7 @@ Bata merah ini dihasilkan dari material tanah yg kemudian di press dan dibakar d
 
 Bahan bangunan ini benar-benar kuat kepada panas dan cocok dijadikan perlindungan dari panas api. Bata merah ini pada umumnya memiliki ukuran panjang antara 17-23 cm dan lebar sekitar 7-11 cm, serta tebalnya 3-5 cm. mempunyai ukuran yg lebih kecil akan memberi kemudahan dalam pengerjaan pengangkutan dan dapat digunakan untuk menyusun bidang kecil.
 
-### 2\. Batako Hitam dan Putih Di Cilendek Barat Bogor
+### 2. Batako Hitam dan Putih Di Cilendek Barat Bogor
 
 ![Harga Batako Beton Gratis Ongkir Ke Cilendek Barat Bogor](/images/bata/batako-hitam-press-27.png)
 
@@ -34,7 +34,7 @@ Bahan bangunan dinding dari batako trus ini secara umum terbuat dari material ca
 
 Batako press seperti ini memiliki kekurangan seperti mudah retak, lebih panas dan pengap. Berbeda dg bata merah yg terbuat dari material tanah. Tapi batako trus ini cenderung lebih ringan ketimbang bata merah. Alhasil akan menonjol lebih halus dan ukurannya lebih presisi bila dibandingi dengan bata merah. Batako trus Hitam ini memiliki ukuran panjang sekitar 36-40 cm, tinggi 18-20 cm dan tebal 8-10 cm. bahan ini acap kali dipilih karena untuk memperingan beban struktur bangunan, meminimalisir sisa bahan dan mempermudah pembangunan.
 
-### 3\. Bata Ringan Di Cilendek Barat Bogor
+### 3. Bata Ringan Di Cilendek Barat Bogor
 
 ![Harga Batako Beton Gratis Ongkir Ke Cilendek Barat Bogor](/images/bata/bata-hebel-sni-06.png)
 
@@ -62,7 +62,7 @@ Semua tentunya telah tahu fungsi utama batu bata mulai digunakan untuk membuat t
 
 Sistem memesan batu bata yang aman dan terpercaya:
 
-1.  Pengerjaan pembayaran bisa anda lakukan secara COD atau dibayar di daerah ketika barang orderan anda telah datang di daerah
+1.  Pengerjaan pembayaran bisa anda lakukan secara COD atau dibayar di daerah ketika barang orderan anda telah datang di daerah
 2. Silahkan memilih dan memastikan bahan batu bata yg anda inginkan
 3. Tentukan juga jumlah pesanan batu bata yang anda butuhkan dalam bentuk bijian.
 4. Anda bisa menghubungi layanan telepon warung untuk memudahkan proses pemesanan

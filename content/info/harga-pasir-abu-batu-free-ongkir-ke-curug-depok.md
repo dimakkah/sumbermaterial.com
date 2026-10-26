@@ -25,7 +25,7 @@ Menurut Standar Nasional Indonesia ( SK SNI - S - 04 - 1989 - F ; 28) di sebutka
 
 Prasyarat Pasir yg Baik Untuk Bangunan
 
-1.  Agregat Halus wajib terdiri dari butiran yang tajam dan keras dengan indeks kekerasan <2.2
+1.  Agregat Halus wajib terdiri dari butiran yang tajam dan keras dengan indeks kekerasan <2.2
 2. kalau dipakai Natrium Sulfat bagian hancur optimal 12%
 3. Jikalau diterapkan Magnesium Sulfat bagian halus optimal sepuluh %
 4. Tidak boleh memuat lumpur lebih dari lima %
@@ -41,7 +41,6 @@ Prasyarat Pasir yg Baik Untuk Bangunan
 Sesudah mengenal persyaratan pasir tuk suatu Bangunan, sekarang ini kita bahas model - Tipe Pasir Untuk Bangunan penjelasan nya berikut ini:
 
 - ### Pasir Untuk Pengecoran Di Curug Depok
-    
 
 Pasir ini umum nya berwarna hitam pekat dan tingkat kekerasan butiran nya lumayan tinggi. Namun bila anda mengepal nya dengan tangan tidak akan lengket dan akan buyar kembali. ragam pasir ini sangat lah bagus tuk Pengecoran, Plesteran Dinding, Adukan Pondasi dan Adukan Pasangan Bata Pasir ini yaitu pasir untuk Beton yaitu butiran-butiran mineral keras dan tajam berukuran antara 0,075 – 5 mm, bila terdapat butiran berukuran lebih kecil dari 0,063 mm tidak lebih dari 5% berat. Pasir ini yaitu pasir untuk Rigid hampir kerap kali diaplikasikan untuk pekerjaan cor-coran struktur seperti kolom, balok dan pelat lantai.
 
@@ -59,21 +58,18 @@ Untuk mendapatkan kualitas Beton yang maksimal karenanya pasir harus sanggup mem
 ![Harga Pasir Abu Batu Free Ongkir Ke Curug Depok](/images/info/pasir-hitam-8.jpg)
 
 - ### Pasir Untuk Adukan Pasang Batu, Pondasi, Bata, Ubin, Plester Di Curug Depok
-    
 
 ![Harga Pasir Abu Batu Free Ongkir Ke Curug Depok](/images/info/jual-pasir-mundu-2.jpg)
 
 Pasir ini lebih halus lagi dibandingi oleh pasir beton. apabila anda mengepal pasir ini karenanya akan menggumpal dan tidak akan hancur kembali. pasir pasang umum nya di manfaatkan buat campuran pasir beton agar tak kelewat kasar dan dapat di gunakan untuk plesteran dinding.
 
 - ### Pasir Kualitas rendah Untuk pemadatan lantai Di Curug Depok
-    
 
 Di Antara ke dua pasir diatas pasir jenis ini lebih halus lagi, jikalau kalian mengepal nya akan menggumpal dan tak akan buyar lagi. melainkan pasir tipe
 
 Pada umum nya pasir ini nyaris sama dengan pasir beton akan melainkan pasir ini memiliki tingkat kekasaran yang tinggi, butiran - butiran nya cukup besar dan agak banyak batuan nya. pada lazimnya pasir ragam ini bagus untuk bahan pemadatan lantai
 
 - ### Pasir Putih Kadar Lumpur Rendah Untuk Taman Bermain Di Curug Depok
-    
 
 1. **Pasir Putih Bangka**
 

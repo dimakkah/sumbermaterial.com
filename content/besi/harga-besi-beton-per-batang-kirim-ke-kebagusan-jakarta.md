@@ -18,19 +18,19 @@ Tanpa adanya besi karenanya sebuah bangunan akan gampang retak saat ada guncanga
 
 ## Megenal Variasi-tipe Besi Di Kebagusan Jakarta
 
-### 1\. Besi Polos SNI 4mm, 6mm, 8mm, 10mm, 12mm, 16mm, 18mm, 19mm Di Kebagusan Jakarta
+### 1. Besi Polos SNI 4mm, 6mm, 8mm, 10mm, 12mm, 16mm, 18mm, 19mm Di Kebagusan Jakarta
 
 Besi polos memiliki ukuran mulai dari 8 mm hingga 25 mm dan mempunyai 6 meter panjang tekuk dan 12 meter panjang lurus. Besi beton ini sudah mulai dipakai sebagai bahan utama di Indonesia pada tahun 1950. Besi ini sering kali kali digunakan untuk membangun bangunan beton. Bahan yang gampang diaplikasikan sehingga selain diaplikasikan untuk membangun sebuah gedung juga digunakan untuk membangun trowongan, bendungan, dan lainnya. Saat diaplikasikan untuk membangun rumah bertingkat maka biasanya besi polos ini diterapkan untuk struktur rangkaian besi balok, dinding, dan sloof. Besi beton polos ini memiliki keunggulan besi polos ini tegangannya lebih tinggi dari pada besi lainnya. Oleh karena itu besi ini terkesan lebih kuat dan tahan beban. Sehingga penerapan besi polos ini benar-benar sesuai untuk membangun gedung, jembatan, dan bangunan lainnya. Besi polos ini terbuat dari bahan seperti billet dan skrap. Billet yaitu baja batangan yang pelaksanaan pembuatannya dengan melebur biji besi. Seandainya skrap adalah besi bekas yang dileburkan dengan temperature tertentu. Selain dari itu sekiranya anda memakai besi polos ini tdk membutuhkan anggaran pemeliharaan. Kian lama digunakan maka besi ini akan semakin kokoh.
 
-### 2\. Besi Ulir 4mm, 6mm, 8mm, 10mm, 12mm, 16mm, 18mm, 19mm Di Kebagusan Jakarta
+### 2. Besi Ulir 4mm, 6mm, 8mm, 10mm, 12mm, 16mm, 18mm, 19mm Di Kebagusan Jakarta
 
 Sesuai dengan namanya besi beton ulir ini merupakan besi yang bentuknya mengulir. Pada permukaannya bercorak spiral yang mempunyai tujuan untuk menyatukan tulangan dengan unsur material bangunan yang dibentuk oleh besi beton. Besi ulir ini mulai populer digunakan pada abad ke-20 di Amerika dan mulai populer di Indonesia pada tahun1950. Mengingat saat menggunakan besi ulir ini memiliki banyak kelebihan mulai dari kekuatan bangunan serta lebih murah dan efisien. Produk besi ulir ini menjadi paling laris di pasar sebab memiliki kwalitas yang terbaik di Indonesia dan mempunyai harga yang tinggi jikalau diperbandingkan dengan produk lainnya.
 
-### 3\. Besi WF dan H-Beam Toleransi Di Kebagusan Jakarta
+### 3. Besi WF dan H-Beam Toleransi Di Kebagusan Jakarta
 
 Besi Wide Flange (WF) ini yakni salah satu baja dengan struktural yang paling sering diterapkan untuk kontruksi baja. Jika anda memerlukan besi baja Wide Flage dalam quantitas yang banyak atau sedikit karenanya silahkan cari jual besi yang terpercaya. Besi WF ini memiliki kekuatan yang kokoh dan kokoh pada kekuatan tarik atau tekan. Maka dari itu besi ini menjadi unsur struktur yang memiliki batasan yang paripurna untuk menopang bobot tekan aksial, tarik aksial, dan lentur dengan fasilitas pembangunan strukturnya. Baja Wide Flange (WF) ini mempunyai kepadatan yang tinggi namun rasio berat antara kekokohan komponen Baja WF yang tinggi namun tdk begitu berat yang berkaitan dengan kapasitas beban. Selain itu menentukan sekiranya kontruksi yang digunakan secara efisien. Cara kontruksi baja WF ini kombinasi dari unsur struktur yang rumit. Pada struktur ini memiliki tujuan membawa muatan yang aman dan efektif yang bekerja pada sebuah bangunan dan dikirim pada pondasinya. Gaya dan beban yang bekerja ini termasuk beban pertikal, perbedaan temperatur, horizontal, getaran dan lainnya. Pada sebuah bangunan baja, karenanya ada unsure yang bermanfaat menopang gaya lateral dan gravitasi.
 
-### 4\. Besi Holo Di Kebagusan Jakarta
+### 4. Besi Holo Di Kebagusan Jakarta
 
 Besi hollow adalah besi yang digunakan sebagai pembuatan kanopi, pagar, pintu besi dan lainnya. Bahan baku pembuatan besi Hollow ini biasanya terbuat dari stainless, galvanis, dan besi baja. Tapi yang paling sering kali digunakan sebagai bahan baku ialah galvanis. Terdapat kelebihan yang anda temukan dikala memasang kanopi, menerapkan pagar, teralis mengaplikasikan besi hollow:
 

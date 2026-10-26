@@ -18,19 +18,19 @@ Dengan tidak adanya besi karenanya sebuah bangunan akan mudah retak saat ada get
 
 ## Megenal Macam-macam Besi Di Sunter Jaya Jakarta
 
-### 1\. Besi Polos KS 4mm, 6mm, 8mm, 10mm, 12mm, 16mm, 18mm, 19mm Di Sunter Jaya Jakarta
+### 1. Besi Polos KS 4mm, 6mm, 8mm, 10mm, 12mm, 16mm, 18mm, 19mm Di Sunter Jaya Jakarta
 
 Besi polos mempunyai ukuran mulai dari 8 mm hingga 25 mm dan memiliki 6 meter panjang tekuk dan 12 meter panjang lurus. Besi beton ini sudah mulai diterapkan sebagai bahan utama di Indonesia pada tahun 1950. Besi ini kerap kali diterapkan untuk membangun bangunan beton. Bahan yang mudah digunakan sehingga selain dari dipakai untuk membangun rumah juga diterapkan untuk membangun trowongan, bendungan, dan lainnya. Dikala diterapkan untuk membangun rumah bertingkat karenanya biasa besi polos ini diaplikasikan untuk struktur tulangan balok, dinding, dan sloof. Besi beton polos ini mempunyai keunggulan besi polos ini tegangannya lebih tinggi dari pada besi lainnya. Oleh karena itu besi ini terkesan lebih kuat dan tahan beban. Sehingga penggunaan besi polos ini betul-betul layak untuk membangun gedung, jembatan, dan bangunan lainnya. Besi polos ini terbuat dari bahan seperti billet dan skrap. Billet yaitu baja batangan yang proses pembuatannya dengan melebur biji besi. Seandainya skrap ialah besi bekas yang dihancurkan dengan temperature tertentu. Selain itu apabila anda memakai besi polos ini tidak memerlukan biaya pemeliharaan. Kian lama diterapkan maka besi ini akan kian kokoh.
 
-### 2\. Besi Ulir Toleransi 4mm, 6mm, 8mm, 10mm, 12mm, 16mm, 18mm, 19mm Di Sunter Jaya Jakarta
+### 2. Besi Ulir Toleransi 4mm, 6mm, 8mm, 10mm, 12mm, 16mm, 18mm, 19mm Di Sunter Jaya Jakarta
 
 Sesuai dengan namanya besi beton ulir ini ialah besi yang bentuknya mengulir. Pada permukaannya bercorak spiral yang mempunyai tujuan untuk menyatukan gerigi besi dengan elemen material bangunan yang dibentuk oleh besi beton. Besi ulir ini mulai populer dipakai pada abad ke-20 di Amerika dan mulai populer di Indonesia pada tahun1950. Mengingat saat menggunakan besi ulir ini mempunyai banyak kelebihan mulai dari ketahanan bangunan serta lebih murah dan efisien. Produk besi ulir ini menjadi paling laris di pasar sebab mempunyai kwalitas yang terbaik di Indonesia dan mempunyai harga yang tinggi apabila diperbandingkan dengan produk lainnya.
 
-### 3\. Besi WF dan H-Beam SNI Di Sunter Jaya Jakarta
+### 3. Besi WF dan H-Beam SNI Di Sunter Jaya Jakarta
 
 Besi Wide Flange (WF) ini yaitu salah satu baja dengan struktural yang paling banyak digunakan untuk kontruksi baja. Apabila anda membutuhkan besi baja Wide Flage dalam quantitas yang banyak atau sedikit karenanya silahkan cari penjual besi yang terpercaya. Besi WF ini mempunyai kekokohan yang kokoh dan kuat pada kekokohan tarik atau tekan. Maka dari itu besi ini menjadi unsur struktur yang mempunyai batasan yang sempurna untuk menahan bobot tekan aksial, tarik aksial, dan lentur dengan fasilitas pembangunan strukturnya. Baja Wide Flange (WF) ini mempunyai kepadatan yang tinggi tetapi rasio berat antara kekokohan bagian Baja WF yang tinggi namun tidak begitu berat yang berkaitan dengan kapasitas muatan. Selain itu memastikan apabila kontruksi yang digunakan secara efisien. Sistem kontruksi baja WF ini kombinasi dari unsur struktur yang rumit. Pada struktur ini memiliki tujuan membawa beban yang aman dan tepat sasaran yang berefek pada sebuah bangunan dan dikirim pada pondasinya. Gaya dan muatan yang bekerja ini termasuk bobot pertikal, perbedaan suhu, horizontal, getaran dan lainnya. Pada sebuah bangunan baja, karenanya ada unsure yang bermanfaat menopang gaya lateral dan gravitasi.
 
-### 4\. Besi Holo Di Sunter Jaya Jakarta
+### 4. Besi Holo Di Sunter Jaya Jakarta
 
 Besi hollow yakni besi yang diterapkan sebagai pembuatan kanopi, pagar, pintu besi dan lainnya. Bahan baku pembuatan besi Hollow ini lazimnya terbuat dari stainless, galvanis, dan besi baja. Namun yang paling kerap digunakan sebagai bahan baku adalah galvanis. Terdapat kelebihan yang anda peroleh dikala memasang kanopi, menerapkan pagar, teralis mengaplikasikan besi hollow:
 

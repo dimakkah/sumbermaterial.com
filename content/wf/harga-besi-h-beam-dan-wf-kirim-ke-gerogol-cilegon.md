@@ -50,13 +50,13 @@ d. tidak dapat menjangkau area yang sempit. Mengingat Besi WF ini berukuran panj
 
 ### Keunggulan Dari Besi WF Di Gerogol Cilegon
 
-1\. Bisa mengurangi waktu dalam pembangunan sebuah konstruksi bangunan, memaksimalkan waktu dan juga menghemat biaya dan pemasang.
+1. Bisa mengurangi waktu dalam pembangunan sebuah konstruksi bangunan, memaksimalkan waktu dan juga menghemat biaya dan pemasang.
 
-2\. Bisa menopang bobot yang sangat berat, tdk mudah memuai dan lebih simple pengaplikasiannya dibanding dengan material struktural lainnya.
+2. Bisa menopang bobot yang sangat berat, tdk mudah memuai dan lebih simple pengaplikasiannya dibanding dengan material struktural lainnya.
 
-3\. Memiliki fleksibilitas yang tinggi. Sehingga struktur bangunan yang diciptakan dari Besi WF ini menjadi lebih kuat tdk gampang bergeser, tidak gampang ambruk ataupun goyang. Amat pantas untuk jenis bangunan diatas tanah yang labil atau sering terjadi gempa.
+3. Memiliki fleksibilitas yang tinggi. Sehingga struktur bangunan yang diciptakan dari Besi WF ini menjadi lebih kuat tdk gampang bergeser, tidak gampang ambruk ataupun goyang. Amat pantas untuk jenis bangunan diatas tanah yang labil atau sering terjadi gempa.
 
-4\. Lebih hemat karena struktur bangunan yang menerapkan Besi WF akan mempunyai kekokohan yang cukup lama bahkan sampai ratusan tahun. Tentunya ini merupakan investasi yang sungguh-sungguh murah seandainya kita bandingkan dengan waktu gunakan. Bahkan bangunan yang dibangun dengan tulangan Besi WF dapat kita wariskan kepada si kecil cucu kita.
+4. Lebih hemat karena struktur bangunan yang menerapkan Besi WF akan mempunyai kekokohan yang cukup lama bahkan sampai ratusan tahun. Tentunya ini merupakan investasi yang sungguh-sungguh murah seandainya kita bandingkan dengan waktu gunakan. Bahkan bangunan yang dibangun dengan tulangan Besi WF dapat kita wariskan kepada si kecil cucu kita.
 
 ## Mengenal Besi H Beam Di Gerogol Cilegon
 
@@ -72,15 +72,15 @@ Sama seperti besi yang kami paparkan sebelumnya yakni Besi WF, besi H-Beam malah
 
 ### Kelebihan Besi H Beam Di Gerogol Cilegon
 
-1\. Mudah untuk didapatkan. Banyak distributor besi yang menyediakan stok besi H-Beam berbagai ukuran. Sehingga besi H-Beam ini amat mudah untuk didapatkan, tdk sulit untuk menemukan toko besi yang menjual besi H Beam.
+1. Mudah untuk didapatkan. Banyak distributor besi yang menyediakan stok besi H-Beam berbagai ukuran. Sehingga besi H-Beam ini amat mudah untuk didapatkan, tdk sulit untuk menemukan toko besi yang menjual besi H Beam.
 
-2\. Mudah Dalam Pemasangan. Banyak tukang ahli dalam pemasangan besi H Beam. Meski besi H-Beam ini mesti dipasang oleh tukang yang profesional tapi tukang yang berpengalaman dalam memasang besi H Beam ini betul-betul banyak kita temui hari ini. Sehingga tidak perlu dikhawatirkan lagi progres pemasangannya.
+2. Mudah Dalam Pemasangan. Banyak tukang ahli dalam pemasangan besi H Beam. Meski besi H-Beam ini mesti dipasang oleh tukang yang profesional tapi tukang yang berpengalaman dalam memasang besi H Beam ini betul-betul banyak kita temui hari ini. Sehingga tidak perlu dikhawatirkan lagi progres pemasangannya.
 
-3\. Memiliki ketahanan yang tidak diragukan lagi. Besi H Beam telah teruji selama bertahun-tahun dalam kontruksi bangunan. Baik skala kecil maupun skala besar dan terbilang sungguh-sungguh kuat bila dibandingi dengan material lainnya. Bisa bertahan hingga puluhan sampai ratusan tahun.
+3. Memiliki ketahanan yang tidak diragukan lagi. Besi H Beam telah teruji selama bertahun-tahun dalam kontruksi bangunan. Baik skala kecil maupun skala besar dan terbilang sungguh-sungguh kuat bila dibandingi dengan material lainnya. Bisa bertahan hingga puluhan sampai ratusan tahun.
 
-4\. Gampang dalam pemeliharaannya. Bangunan yang menggunakan besi H Beam sebagai struktur rangka bangunannya akan sungguh-sungguh mudah dalam melakukan pemeliharaannya. tdk perlu pengecatan dengan cat khusus maupun pembersihan tiap saat.
+4. Gampang dalam pemeliharaannya. Bangunan yang menggunakan besi H Beam sebagai struktur rangka bangunannya akan sungguh-sungguh mudah dalam melakukan pemeliharaannya. tdk perlu pengecatan dengan cat khusus maupun pembersihan tiap saat.
 
-5\. Menghemat pemakaian material lainnya, seperti penggunaan bekisting, pemakaian perancah atau steger dan juga material pasir. Besi H Beam Tdk membutuhkan material pasir dalam penggunaannya.
+5. Menghemat pemakaian material lainnya, seperti penggunaan bekisting, pemakaian perancah atau steger dan juga material pasir. Besi H Beam Tdk membutuhkan material pasir dalam penggunaannya.
 
 ### Kekurangan Dari Besi H Beam Di Gerogol Cilegon
 

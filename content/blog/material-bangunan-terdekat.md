@@ -17,10 +17,9 @@ draft: false
 
 {{< toc >}}
 
+## Kenapa Penting Memilih Material Bangunan Terdekat?
 
-### Kenapa Penting Memilih Material Bangunan Terdekat?
-
-Mitra, ada beberapa alasan kenapa memilih supplier material bangunan terdekat itu penting banget. Pertama, tentu saja soal efisiensi waktu dan biaya transportasi. Semakin dekat lokasinya, semakin cepat material sampai di lokasi proyek Anda, dan biaya angkutnya juga pasti lebih murah. Ini sangat krusial, apalagi kalau proyek Anda punya timeline yang ketat. 
+Mitra, ada beberapa alasan kenapa memilih supplier material bangunan terdekat itu penting banget. Pertama, tentu saja soal efisiensi waktu dan biaya transportasi. Semakin dekat lokasinya, semakin cepat material sampai di lokasi proyek Anda, dan biaya angkutnya juga pasti lebih murah. Ini sangat krusial, apalagi kalau proyek Anda punya timeline yang ketat.
 
 Kedua, memilih supplier lokal memungkinkan Anda untuk melakukan inspeksi langsung terhadap kualitas material. Anda bisa melihat sendiri kondisi barangnya, memastikan sesuai dengan spesifikasi yang dibutuhkan, dan menghindari potensi masalah di kemudian hari. Ketiga, dengan membeli dari supplier lokal, Anda juga ikut mendukung perekonomian daerah dan membangun hubungan baik dengan pelaku usaha di sekitar Anda.
 
@@ -28,11 +27,11 @@ Kedua, memilih supplier lokal memungkinkan Anda untuk melakukan inspeksi langsun
 
 Apa saja sih material bangunan yang paling sering dicari orang? Nah, biasanya yang paling banyak dicari antara lain:
 
-*   **Pasir:** Pasir urug, pasir cor, pasir pasang, dan lain-lain. Harga pasir bervariasi tergantung jenis dan lokasi. Di Jabodetabek, harga pasir urug per truk sekitar Rp 350.000 - Rp 500.000 (harga ini bersifat estimasi dan dapat berubah sewaktu-waktu — hubungi Kami untuk penawaran terbaru dan paling akurat sesuai kebutuhan proyek Mitra).
-*   **Batu:** Batu split, batu kali, sirtu, dan lain-lain. Harga batu juga bervariasi tergantung jenis dan ukuran.
-*   **Semacam Bata & Blok:** Bata merah, batako, hebel/AAC. Bata merah biasanya dihargai sekitar Rp 500 - Rp 800 per buah, sementara hebel ukuran standar sekitar Rp 8.000 - Rp 12.000 per lembar (harga ini bersifat estimasi dan dapat berubah sewaktu-waktu — hubungi Kami untuk penawaran terbaru dan paling akurat sesuai kebutuhan proyek Mitra).
-*   **Besi & Baja:** Besi beton, baja ringan, wiremesh. Harga besi beton per kg berkisar antara Rp 15.000 - Rp 20.000 tergantung diameter dan mutu.
-*   **Material Tambahan:** Semen, keramik, genteng, kayu, dan material finishing lainnya.
+- **Pasir:** Pasir urug, pasir cor, pasir pasang, dan lain-lain. Harga pasir bervariasi tergantung jenis dan lokasi. Di Jabodetabek, harga pasir urug per truk sekitar Rp 350.000 - Rp 500.000 (harga ini bersifat estimasi dan dapat berubah sewaktu-waktu — hubungi Kami untuk penawaran terbaru dan paling akurat sesuai kebutuhan proyek Mitra).
+- **Batu:** Batu split, batu kali, sirtu, dan lain-lain. Harga batu juga bervariasi tergantung jenis dan ukuran.
+- **Semacam Bata & Blok:** Bata merah, batako, hebel/AAC. Bata merah biasanya dihargai sekitar Rp 500 - Rp 800 per buah, sementara hebel ukuran standar sekitar Rp 8.000 - Rp 12.000 per lembar (harga ini bersifat estimasi dan dapat berubah sewaktu-waktu — hubungi Kami untuk penawaran terbaru dan paling akurat sesuai kebutuhan proyek Mitra).
+- **Besi & Baja:** Besi beton, baja ringan, wiremesh. Harga besi beton per kg berkisar antara Rp 15.000 - Rp 20.000 tergantung diameter dan mutu.
+- **Material Tambahan:** Semen, keramik, genteng, kayu, dan material finishing lainnya.
 
 ![Tumpukan material bangunan pasir, batu, dan semen di area penyimpanan](/images/blog/material-bangunan-terdekat.jpg)
 

@@ -25,7 +25,7 @@ berdasarkan Standar Nasional Indonesia ( SK SNI - S - 04 - 1989 - F ; 28) di tut
 
 Syarat-Syarat Pasir yang Bagus buat Konstruksi
 
-1.  Agregat Halus mesti terdiri dari butiran yang tajam dan keras dengan indeks kekerasan <2.2
+1.  Agregat Halus mesti terdiri dari butiran yang tajam dan keras dengan indeks kekerasan <2.2
 2. bilamana dipakai Natrium Sulfat bagian hancur optimal dua belas %
 3. kalau dipakai Magnesium Sulfat bagian halus optimal sepuluh persen
 4. Tidak boleh memuat lumpur lebih dari 5%
@@ -41,7 +41,6 @@ Syarat-Syarat Pasir yang Bagus buat Konstruksi
 setelah memahami prasyarat pasir buat suatu Bangunan, pada saat ini kita bahas Ragam - Jenis Pasir Untuk Konstruksi penjelasan nya sbb:
 
 - ### Pasir Rigid Di Kemayoran Jakarta
-    
 
 Pasir ini biasa nya berwarna keabu-abuan dan tingkat kekasaran butiran nya cukup tinggi. Tapi jika anda mengepal nya dengan tangan tidak akan lengket dan akan buyar kembali. tipe pasir ini benar-benar lah bagus buat Pengecoran, Plesteran Dinding, Adukan Pondasi dan Adukan Pasangan Bata Pasir ini yaitu pasir untuk Beton ialah butiran-butiran mineral keras dan tajam berukuran antara 0,075 – 5 mm, sekiranya terdapat butiran berukuran lebih kecil dari 0,063 mm tak lebih dari 5% berat. Pasir ini yaitu pasir untuk Beton hampir tak jarang dimanfaatkan untuk profesi cor-coran struktur seperti kolom, balok dan pelat lantai.
 
@@ -59,21 +58,18 @@ Untuk mendapatkan kekokohan Rigid yang maksimal karenanya pasir seharusnya bisa 
 ![Harga Pasir Pasang Free Ongkir Ke Kemayoran Jakarta](/images/info/pasir-hitam-1.jpg)
 
 - ### Pasir Standar Di Kemayoran Jakarta
-    
 
 ![Harga Pasir Pasang Free Ongkir Ke Kemayoran Jakarta](/images/info/jual-pasir-mundu-2.jpg)
 
 Pasir ini lebih halus lagi dibandingkan oleh pasir beton. seandainya anda mengepal pasir ini karenanya akan menggumpal dan tidak akan buyar kembali. pasir pasang umum nya di gunakan buat adukan pasir beton supaya tidak terlalu kasar dan dapat di manfaatkan untuk plesteran dinding.
 
 - ### Pasir Elod Untuk Pembuatan Batako Di Kemayoran Jakarta
-    
 
 Di Antara ke dua pasir diatas pasir macam ini lebih halus lagi, jikalau kamu mengepal nya maka akan menggumpal dan tak akan buyar lagi. melainkan pasir tipe
 
 Pada nya pasir ini nyaris sama dengan pasir beton akan tetapi pasir ini mempunyai tingkat kekasaran yg tinggi, butiran - butiran nya lumayan besar dan agak banyak batuan nya. pada lazimnya pasir jenis ini bagus untuk bahan pemadatan lantai
 
 - ### Pasir Putih Kadar Lumpur Rendah Untuk Lapangan Voly Di Kemayoran Jakarta
-    
 
 1. **Pasir Putih Bangka**
 

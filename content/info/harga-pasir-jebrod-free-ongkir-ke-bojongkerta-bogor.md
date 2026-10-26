@@ -25,7 +25,7 @@ menurut Standar Nasional Indonesia ( SK SNI - S - 04 - 1989 - F ; 28) di sebutka
 
 Persyaratan Pasir yang Baik buat Konstruksi
 
-1.  Agregat Halus sepatutnya terdiri dari butiran yg tajam dan keras dengan indeks kekerasan <2.2
+1.  Agregat Halus sepatutnya terdiri dari butiran yg tajam dan keras dengan indeks kekerasan <2.2
 2. jika dipakai Natrium Sulfat komponen hancur optimal dua belas persen
 3. seandainya diterapkan Magnesium Sulfat komponen halus optimal sepuluh persen
 4. Tidak boleh mengandung tanah lebih dari lima %
@@ -41,7 +41,6 @@ Persyaratan Pasir yang Baik buat Konstruksi
 sesudah tahu persis prasyarat pasir tuk sebuah Konstruksi, saat ini kita bahas Tipe - Macam Pasir Untuk Konstruksi penjelasan nya sbb:
 
 - ### Pasir Untuk Pengecoran Di Bojongkerta Bogor
-    
 
 Pasir ini lazim nya berwarna hitam kemerahan dan tingkat pecahan butiran nya cukup tinggi. Tapi kalau anda mengepal nya dengan tangan tidak akan menggumpal dan akan hancur kembali. ragam pasir ini sangat lah baik tuk Pengecoran, Plesteran Dinding, Adukan Pondasi dan Adukan Pasangan Bata Pasir ini yaitu pasir untuk Beton yaitu butiran-butiran mineral keras dan tajam berukuran antara 0,075 – 5 mm, sekiranya terdapat butiran berukuran lebih kecil dari 0,063 mm tidak lebih dari 5% berat. Pasir ini yaitu pasir untuk Beton hampir acap kali digunakan untuk profesi cor-coran struktur seperti kolom, balok dan pelat lantai.
 
@@ -59,21 +58,18 @@ Untuk menerima kekuatan Rigid yang maksimal karenanya pasir wajib dapat memenuhi
 ![Harga Pasir Jebrod Free Ongkir Ke Bojongkerta Bogor](/images/info/pasir-hitam-5.jpg)
 
 - ### Pasir Untuk Adukan Pasang Batu, Pondasi, Bata, Ubin, Plester Di Bojongkerta Bogor
-    
 
 ![Harga Pasir Jebrod Free Ongkir Ke Bojongkerta Bogor](/images/info/pasir-putih3.jpg)
 
 Pasir ini lebih halus lagi dibandingkan oleh pasir beton. jikalau anda mengepal pasir ini karenanya akan menggumpal dan tak akan buyar kembali. pasir pasang biasa nya di manfaatkan untuk adukan pasir beton agar tak terlalu kasar dan bisa di pakai untuk plesteran dinding.
 
 - ### Pasir Elod Untuk pemadatan lantai Di Bojongkerta Bogor
-    
 
 Di Antara ke dua pasir diatas pasir jenis ini lebih halus lagi, apabila anda mengepal nya akan menggumpal dan tidak akan hancur lagi. tetapi pasir tipe
 
 Pada umum nya pasir ini nyaris sama dengan pasir beton akan tapi pasir ini memiliki tingkat kekasaran yg tinggi, butiran - butiran nya lumayan besar dan agak banyak batuan nya. pada umumnya pasir macam ini bagus tuk bahan dasaran pemasangan keramik
 
 - ### Pasir Putih Bebas Lumpur Untuk Pasang Bata Di Bojongkerta Bogor
-    
 
 1. **Pasir Putih Bangka**
 

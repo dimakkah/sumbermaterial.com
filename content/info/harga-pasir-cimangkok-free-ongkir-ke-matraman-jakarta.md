@@ -25,7 +25,7 @@ berdasarkan Standar Nasional Indonesia ( SK SNI - S - 04 - 1989 - F ; 28) di tut
 
 Prasyarat Pasir yang Bagus buat Konstruksi
 
-1.  Agregat Halus seharusnya terdiri dari butiran yang tajam dan keras dengan indeks kekerasan <2.2
+1.  Agregat Halus seharusnya terdiri dari butiran yang tajam dan keras dengan indeks kekerasan <2.2
 2. seandainya dipakai Natrium Sulfat bagian hancur maksimal 12 persen
 3. Sekiranya digunakan Magnesium Sulfat bagian halus maksimal sepuluh persen
 4. Tak boleh memuat tanah lebih dari 5 persen
@@ -41,7 +41,6 @@ Prasyarat Pasir yang Bagus buat Konstruksi
 Sesudah tahu persis persyaratan pasir untuk suatu Bangunan, sekarang ini kita bahas model - model Pasir Untuk Konstruksi Bangunan penjelasan nya sebagai berikut:
 
 - ### Pasir untuk Cor Rigid Di Matraman Jakarta
-    
 
 Pasir ini biasa nya berwarna hitam kemerahan dan tingkat pecahan butiran nya cukup tinggi. Melainkan seandainya anda mengepal nya dengan tangan tak akan menggumpal dan akan hancur kembali. macam pasir ini betul-betul lah baik buat Pengecoran, Plesteran Dinding, Adukan Pondasi dan Adukan Pasangan Bata Pasir ini yaitu pasir untuk Beton merupakan butiran-butiran mineral keras dan tajam berukuran antara 0,075 – 5 mm, jikalau terdapat butiran berukuran lebih kecil dari 0,063 mm tak lebih dari 5% berat. Pasir ini yaitu pasir untuk Cor hampir sering kali dimanfaatkan untuk pekerjaan cor-coran struktur seperti kolom, balok dan pelat lantai.
 
@@ -52,9 +51,9 @@ Harga Pasir Cimangkok Free Ongkir Ke Matraman Jakarta Kalau anda sebagai konsume
 Pasir terbaik diambil dari kp. jebrod cianjur jawa barat yang diaplikasikan oleh indocement serta perusahaan batching plant lainnya sebagai bahan dasar produksi readymix concrete. Pasir ini paling dianjurkan untuk cor sebab irit semen juga mempunyai kandungan lumpur yang sungguh-sungguh rendah dibawah 8%. warnanya Hitam abu tua atau hitam seperti hitamnya batu kali, ada juga yang hitam kemerahan atau hitam terasi
 
 3. **Pasir Hitam Cor Cimangkok.** Pasir asal Daerah penambangannya di cimangkok sukabumi jawa barat yang masih masuk pada kategori pasir hitam nomor satu di jabar, warnanya hitam kecoklatan pantas untuk cor, pasang pondasi dan bata
-    
+
     ![Harga Pasir Cimangkok Free Ongkir Ke Matraman Jakarta](/images/info/pasir-hitam-9.jpg)
-    
+
 4. **Pasir Hitam Rigid Cimalaka Subang Bandung.**
 
 Pasir No. 1 yang berwarna hitam kebauan ada juga yang berwarna hitam abu tua. Banyak di gunakan untuk Rigid, pasang dan keperluan lainnya. Ditambang di Desa cimalaka
@@ -90,9 +89,9 @@ Kecuali Rangkasbitung, Banten juga mempunyai lokasi pnembangan pasir lain sepert
 Masih dari kawasan di banten, pasir kelas tiga ini merupakan pasir yang banyak diterapkan di proyek proyek perumahan atau cluster sebab harganya yang murah juga kwalitas yang bagus. Warna pasir ini hitam kecoklatan dan keabuan betul-betul disarankan untuk pasang pondasi, bata, batu dsb
 
 27. **Pasir Hitam Rigid Bohlam Sukabumi.** Pasir dari Lokasi kp. bohlam di sukabumi berwarna hitam kecoklatan, betul-betul bagus untuk pasang bata, pondasi dan sebagainya sebagai opsi pasir kwalitas tidak diragukan dan tidak mahal
-    
+
     ![Harga Pasir Cimangkok Free Ongkir Ke Matraman Jakarta](/images/info/pasir-hitam-8.jpg)
-    
+
 28. **Pasir Rigid Galunggung.**
 
 Pasir ini yakni pasir hitam kwalitas paling unggul dikelasnya umum diterapkan oleh pabrik pengolahan beton readymix juga perusahan pembuatan precast dan sering kali juga digunakan untuk bahan pembuatan batako press hitam, paving block dan lain-lain. Pasir ini ditambang dari Tasikmalaya jawa barat.
@@ -100,21 +99,18 @@ Pasir ini yakni pasir hitam kwalitas paling unggul dikelasnya umum diterapkan ol
 ![Harga Pasir Cimangkok Free Ongkir Ke Matraman Jakarta](/images/info/jual-pasir-cor-hitam.jpg)
 
 - ### Pasir Pasang Di Matraman Jakarta
-    
 
 ![Harga Pasir Cimangkok Free Ongkir Ke Matraman Jakarta](/images/info/pasir-putih12.jpg)
 
 Pasir ini lebih halus lagi dibandingkan oleh pasir beton. apabila anda mengepal pasir ini karenanya akan menggumpal dan tidak akan buyar kembali. pasir pasang biasa nya di manfaatkan tuk adukan pasir beton supaya tidak terlalu kasar dan dapat di manfaatkan untuk plesteran dinding.
 
 - ### Pasir Kualitas rendah Untuk pengurugan lantai Di Matraman Jakarta
-    
 
 Di Antara ke dua pasir diatas pasir tipe ini lebih halus lagi, bila kamu mengepal nya akan menggumpal dan tak akan buyar lagi. namun pasir macam
 
 Pada nya pasir ini nyaris sama dgn pasir beton akan namun pasir ini memiliki tingkat kekasaran yang tinggi, butiran - butiran nya cukup besar dan agak banyak batuan nya. pada umumnya pasir tipe ini bagus untuk bahan Pembuatan Batako
 
 - ### Pasir Putih Tanpa Ayak Untuk Pasang Lantai Marmer Di Matraman Jakarta
-    
 
 1. **Pasir Putih Bangka**
 

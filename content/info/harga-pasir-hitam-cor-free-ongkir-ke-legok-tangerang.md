@@ -25,7 +25,7 @@ Menurut Standar Nasional Indonesia ( SK SNI - S - 04 - 1989 - F ; 28) di sebutka
 
 Prasyarat Pasir yang Bagus buat Konstruksi Bangunan
 
-1.  Agregat Halus wajib terdiri dari butiran yg tajam dan keras dengan indeks kekerasan <2.2
+1.  Agregat Halus wajib terdiri dari butiran yg tajam dan keras dengan indeks kekerasan <2.2
 2. bila diaplikasikan Natrium Sulfat bagian hancur optimal 12%
 3. kalau digunakan Magnesium Sulfat komponen halus optimal 5 persen
 4. Tak boleh memuat clay lebih dari lima persen
@@ -41,7 +41,6 @@ Prasyarat Pasir yang Bagus buat Konstruksi Bangunan
 setelah tahu persis persyaratan pasir untuk sebuah Konstruksi Bangunan, pada saat ini kita bahas model - Macam Pasir Untuk Konstruksi Bangunan penjelasan nya berikut ini:
 
 - ### Pasir Untuk Pengecoran Di Legok Tangerang
-    
 
 Pasir ini lazim nya berwarna coklat tua dan tingkat kekerasan butiran nya cukup tinggi. Tetapi sekiranya anda mengepal nya dengan tangan tak akan lengket dan akan hancur kembali. ragam pasir ini sungguh-sungguh lah bagus buat Pengecoran, Plesteran Dinding, Adukan Pondasi dan Adukan Pasangan Bata Pasir ini yaitu pasir untuk Beton ialah butiran-butiran mineral keras dan tajam berukuran antara 0,075 – 5 mm, kalau terdapat butiran berukuran lebih kecil dari 0,063 mm tidak lebih dari 5% berat. Pasir ini yaitu pasir untuk Beton sering diterapkan untuk pekerjaan cor-coran struktur seperti kolom, balok dan pelat lantai.
 
@@ -59,21 +58,18 @@ Untuk memperoleh kualitas Cor yang optimal maka pasir harus dapat memenuhi persy
 ![Harga Pasir Hitam Cor Free Ongkir Ke Legok Tangerang](/images/info/pasir-hitam-2.jpg)
 
 - ### Pasir Untuk Pasang Batu, Pondasi, Bata, Ubin, Plester Di Legok Tangerang
-    
 
 ![Harga Pasir Hitam Cor Free Ongkir Ke Legok Tangerang](/images/info/jual-pasir-mundu.jpg)
 
 Pasir ini ekstra halus lagi dibandingi oleh pasir beton. seandainya kamu mengepal pasir ini karenanya akan menggumpal dan tidak akan hancur kembali. pasir pasang lazim nya di gunakan tuk campuran pasir beton agar tidak terlampau kasar dan dapat di manfaatkan untuk plesteran dinding.
 
 - ### Pasir Elod Untuk Pembuatan Batako Di Legok Tangerang
-    
 
 Di Antara ke dua pasir diatas pasir tipe ini lebih halus lagi, sekiranya anda mengepal nya akan menggumpal dan tak akan buyar lagi. tetapi pasir tipe
 
 Pada lazim nya pasir ini nyaris sama dgn pasir beton akan tapi pasir ini memiliki tingkat kekasaran yang tinggi, butiran - butiran nya lumayan besar dan agak banyak batuan nya. pada umumnya pasir macam ini baik untuk bahan dasaran pemasangan keramik
 
 - ### Pasir Putih Tanpa Ayak Untuk Pengecoran Di Legok Tangerang
-    
 
 1. **Pasir Putih Bangka**
 

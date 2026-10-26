@@ -21,13 +21,13 @@ Memasang baja ringan untuk bangunan Anda tidak sesulit yang dibayangkan. Anda ta
 
 Mari kita simak beberapa alasan utama mengapa Anda sebaiknya memilih baja ringan sebagai material atap dan kanopi:
 
- **Ramah Lingkungan:** Baja ringan mengurangi kebutuhan akan kayu, sehingga berkontribusi pada pelestarian alam. Anda turut serta menjaga kelestarian lingkungan dengan memilih material ini.
- **Lebih Ekonomis:** Dibandingkan kerangka kayu, baja ringan menawarkan harga yang lebih bersahabat. Ini membantu Anda menekan biaya pembangunan secara keseluruhan, terutama untuk komponen kerangka yang krusial.
- **Ringan dan Kuat:** Baja ringan memiliki ketebalan yang tipis dan ringan, namun tetap memberikan kekuatan optimal untuk kerangka atap dan kanopi rumah Anda. Perbedaannya signifikan dibandingkan baja atau besi yang lebih berat.
- **Perawatan Minimal:** Anda tidak perlu khawatir tentang perawatan tahunan yang menyusahkan. Baja ringan relatif bebas perawatan, menghemat waktu dan biaya Anda.
- **Pemasangan Cepat:** Proses pemasangan baja ringan jauh lebih cepat dibandingkan material lain seperti kayu. Ini mempercepat penyelesaian proyek Anda.
- **Kualitas Terjamin:** Baja ringan yang kami gunakan adalah material pilihan, terbuat dari zinc dan aluminium bersertifikasi yang 4 kali lebih unggul dari baja biasa. Kekuatannya mampu menopang beban berkilo-kilo.
- **Tahan Rayap:** Anda tak perlu khawatir dengan serangan rayap yang dapat merusak struktur atap. Baja ringan sepenuhnya tahan terhadap rayap.
+- **Ramah Lingkungan:** Baja ringan mengurangi kebutuhan akan kayu, sehingga berkontribusi pada pelestarian alam. Anda turut serta menjaga kelestarian lingkungan dengan memilih material ini.
+- **Lebih Ekonomis:** Dibandingkan kerangka kayu, baja ringan menawarkan harga yang lebih bersahabat. Ini membantu Anda menekan biaya pembangunan secara keseluruhan, terutama untuk komponen kerangka yang krusial.
+- **Ringan dan Kuat:** Baja ringan memiliki ketebalan yang tipis dan ringan, namun tetap memberikan kekuatan optimal untuk kerangka atap dan kanopi rumah Anda. Perbedaannya signifikan dibandingkan baja atau besi yang lebih berat.
+- **Perawatan Minimal:** Anda tidak perlu khawatir tentang perawatan tahunan yang menyusahkan. Baja ringan relatif bebas perawatan, menghemat waktu dan biaya Anda.
+- **Pemasangan Cepat:** Proses pemasangan baja ringan jauh lebih cepat dibandingkan material lain seperti kayu. Ini mempercepat penyelesaian proyek Anda.
+- **Kualitas Terjamin:** Baja ringan yang kami gunakan adalah material pilihan, terbuat dari zinc dan aluminium bersertifikasi yang 4 kali lebih unggul dari baja biasa. Kekuatannya mampu menopang beban berkilo-kilo.
+- **Tahan Rayap:** Anda tak perlu khawatir dengan serangan rayap yang dapat merusak struktur atap. Baja ringan sepenuhnya tahan terhadap rayap.
 
 ## Sistem Perhitungan Luas Rangka Baja Ringan Di Sukamulya Tangerang
 
@@ -76,7 +76,7 @@ Setelah sketsa dan perhitungan rangka selesai, Anda dapat membahas perkiraan bia
 
 Berikut rincian biaya layanan pasang baja ringan yang perlu Anda ketahui:
 
-\- Harga jasa kami sudah termasuk biaya pemasangan, yang seringkali lebih murah dengan diskon menarik bagi konsumen.
+- Harga jasa kami sudah termasuk biaya pemasangan, yang seringkali lebih murah dengan diskon menarik bagi konsumen.
 - Harga yang kami tawarkan sepadan dengan kualitas layanan, perhitungan, dan material yang terpasang.
 - Kami selalu mengutamakan harga terbaik bagi pelanggan kami.
 - Harga jasa pasang baja ringan dapat berubah sewaktu-waktu karena fluktuasi harga material.

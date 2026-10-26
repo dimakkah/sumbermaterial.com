@@ -25,7 +25,7 @@ Berdasarkan Standar Nasional Indonesia ( SK SNI - S - 04 - 1989 - F ; 28) di seb
 
 Syarat Pasir yang Baik buat Bangunan
 
-1.  Agregat Halus wajib terdiri dari butiran yg tajam dan keras dengan indeks kekerasan <2.2
+1.  Agregat Halus wajib terdiri dari butiran yg tajam dan keras dengan indeks kekerasan <2.2
 2. bilamana dipakai Natrium Sulfat bagian hancur maksimal 12%
 3. bila diaplikasikan Magnesium Sulfat komponen halus maksimal 10%
 4. Tak boleh mengandung clay lebih dari lima %
@@ -41,7 +41,6 @@ Syarat Pasir yang Baik buat Bangunan
 sesudah tahu persis prasyarat pasir untuk sebuah Konstruksi Bangunan, sekarang ini kita bahas Ragam - model Pasir Untuk Konstruksi penjelasan nya sbb:
 
 - ### Pasir Beton Di Tugu Utara Jakarta
-    
 
 Pasir ini biasa nya berwarna hitam kemerahan dan tingkat kekasaran butiran nya cukup tinggi. Namun apabila anda mengepal nya dengan tangan tak akan lengket dan akan buyar kembali. macam pasir ini sangat lah baik tuk Pengecoran, Plesteran Dinding, Adukan Pondasi dan Adukan Pasangan Bata Pasir ini yaitu pasir untuk Rigid merupakan butiran-butiran mineral keras dan tajam berukuran antara 0,075 – 5 mm, sekiranya terdapat butiran berukuran lebih kecil dari 0,063 mm tidak lebih dari 5% berat. Pasir ini yaitu pasir untuk Cor kerap kali digunakan untuk pekerjaan cor-coran struktur seperti kolom, balok dan pelat lantai.
 
@@ -59,21 +58,18 @@ Untuk memperoleh kekokohan Cor yang optimal karenanya pasir semestinya bisa meme
 ![Harga Pasir Putih Bangka Free Ongkir Ke Tugu Utara Jakarta](/images/info/pasir-hitam-2.jpg)
 
 - ### Pasir Biasa Di Tugu Utara Jakarta
-    
 
 ![Harga Pasir Putih Bangka Free Ongkir Ke Tugu Utara Jakarta](/images/info/pasir-hitam-4.jpg)
 
 Pasir ini lebih halus lagi diperbandingkan oleh pasir beton. jikalau kalian mengepal pasir ini karenanya akan menggumpal dan tak akan hancur kembali. pasir pasang lazim nya di gunakan tuk adukan pasir beton agar tak terlampau kasar dan bisa di manfaatkan untuk plesteran dinding.
 
 - ### Pasir Elod Untuk pemadatan lantai Di Tugu Utara Jakarta
-    
 
 Di Antara ke dua pasir diatas pasir ragam ini lebih halus lagi, sekiranya anda mengepal nya akan menggumpal dan tak akan buyar lagi. tetapi pasir ragam tidak baik tuk di buat sebagai bahan bangunan. pasir tipe ini pada lazim nya di pakai untuk Bahan Pembuatan Batako
 
 Pada umum nya pasir ini nyaris sama dgn pasir beton akan tapi pasir ini mempunyai tingkat kekasaran yg tinggi, butiran - butiran nya lumayan besar dan agak banyak batuan nya. pada lazimnya pasir jenis ini bagus untuk bahan Pembuatan Batako
 
 - ### Pasir Putih Tanpa Batu Untuk Hiasan Di Tugu Utara Jakarta
-    
 
 1. **Pasir Putih Bangka**
 

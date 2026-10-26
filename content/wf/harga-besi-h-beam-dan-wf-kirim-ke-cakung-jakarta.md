@@ -50,13 +50,13 @@ d. tidak bisa menjangkau area yang sempit. Mengingat Besi WF ini berukuran panja
 
 ### Keunggulan Dari Besi WF Di Cakung Jakarta
 
-1\. Bisa memaksimalkan waktu dalam pembangunan sebuah konstruksi bangunan, memaksimalkan waktu dan juga mengurangi biaya dan tukang pasang.
+1. Bisa memaksimalkan waktu dalam pembangunan sebuah konstruksi bangunan, memaksimalkan waktu dan juga mengurangi biaya dan tukang pasang.
 
-2\. Dapat menyangga bobot yang amat berat, tdk gampang memuai dan lebih simple penerapannya dibanding dengan material struktural lainnya.
+2. Dapat menyangga bobot yang amat berat, tdk gampang memuai dan lebih simple penerapannya dibanding dengan material struktural lainnya.
 
-3\. Mempunyai fleksibilitas yang tinggi. Sehingga struktur bangunan yang dihasilkan dari Besi WF ini menjadi lebih kuat tdk gampang bergeser, tidak gampang ambruk ataupun goyang. Amat cocok untuk variasi bangunan diatas tanah yang labil atau kerap kali terjadi goncangan.
+3. Mempunyai fleksibilitas yang tinggi. Sehingga struktur bangunan yang dihasilkan dari Besi WF ini menjadi lebih kuat tdk gampang bergeser, tidak gampang ambruk ataupun goyang. Amat cocok untuk variasi bangunan diatas tanah yang labil atau kerap kali terjadi goncangan.
 
-4\. Lebih hemat sebab struktur bangunan yang menggunakan Besi WF akan memiliki ketahanan yang cukup lama malah sampai ratusan tahun. Tentunya ini merupakan investasi yang amat murah jika kita bandingkan dengan waktu gunakan. Malahan bangunan yang dibangun dengan rangka Besi WF bisa kita wariskan kepada buah hati cucu kita.
+4. Lebih hemat sebab struktur bangunan yang menggunakan Besi WF akan memiliki ketahanan yang cukup lama malah sampai ratusan tahun. Tentunya ini merupakan investasi yang amat murah jika kita bandingkan dengan waktu gunakan. Malahan bangunan yang dibangun dengan rangka Besi WF bisa kita wariskan kepada buah hati cucu kita.
 
 ## Mengenal Besi H Beam Di Cakung Jakarta
 
@@ -72,15 +72,15 @@ Sama seperti besi yang kami jelaskan sebelumnya yaitu Besi WF, besi H-Beam malah
 
 ### Kelebihan Besi H Beam Di Cakung Jakarta
 
-1\. Gampang untuk didapatkan. Banyak toko besi yang menyediakan stok besi H-Beam bermacam jenis ukuran. Sehingga besi H-Beam ini sungguh-sungguh mudah untuk didapatkan, tdk sulit untuk mendapatkan distributor besi yang menjual besi H Beam.
+1. Gampang untuk didapatkan. Banyak toko besi yang menyediakan stok besi H-Beam bermacam jenis ukuran. Sehingga besi H-Beam ini sungguh-sungguh mudah untuk didapatkan, tdk sulit untuk mendapatkan distributor besi yang menjual besi H Beam.
 
-2\. Mudah Dalam Pemasangan. Banyak tukang spesialis dalam pemasangan besi H Beam. Walaupun besi H-Beam ini wajib dipasang oleh tukang yang ahli akan tetapi tukang yang berpengalaman dalam memasang besi H Beam ini sungguh-sungguh banyak kita temui hari ini. Sehingga tidak perlu dikhawatirkan lagi pengerjaan pemasangannya.
+2. Mudah Dalam Pemasangan. Banyak tukang spesialis dalam pemasangan besi H Beam. Walaupun besi H-Beam ini wajib dipasang oleh tukang yang ahli akan tetapi tukang yang berpengalaman dalam memasang besi H Beam ini sungguh-sungguh banyak kita temui hari ini. Sehingga tidak perlu dikhawatirkan lagi pengerjaan pemasangannya.
 
-3\. Mempunyai ketahanan yang tidak diragukan lagi. Besi H Beam telah teruji selama bertahun-tahun dalam kontruksi bangunan. Baik skala kecil ataupun skala besar dan terbilang sangat tahan lama jika diperbandingkan dengan material lainnya. Bisa bertahan hingga puluhan hingga ratusan tahun.
+3. Mempunyai ketahanan yang tidak diragukan lagi. Besi H Beam telah teruji selama bertahun-tahun dalam kontruksi bangunan. Baik skala kecil ataupun skala besar dan terbilang sangat tahan lama jika diperbandingkan dengan material lainnya. Bisa bertahan hingga puluhan hingga ratusan tahun.
 
-4\. Mudah dalam perawatannya. Bangunan yang menggunakan besi H Beam sebagai struktur tulangan bangunannya akan sungguh-sungguh gampang dalam melaksanakan pemeliharaannya. tdk perlu pengecatan dengan cat khusus ataupun pembersihan tiap saat.
+4. Mudah dalam perawatannya. Bangunan yang menggunakan besi H Beam sebagai struktur tulangan bangunannya akan sungguh-sungguh gampang dalam melaksanakan pemeliharaannya. tdk perlu pengecatan dengan cat khusus ataupun pembersihan tiap saat.
 
-5\. Menghemat pemakaian material lainnya, seperti pengaplikasian bekisting, penggunaan perancah atau tiang penyangga dan juga material pasir. Besi H Beam tidak membutuhkan material pasir dalam penggunaannya.
+5. Menghemat pemakaian material lainnya, seperti pengaplikasian bekisting, penggunaan perancah atau tiang penyangga dan juga material pasir. Besi H Beam tidak membutuhkan material pasir dalam penggunaannya.
 
 ### Kekurangan Dari Besi H Beam Di Cakung Jakarta
 

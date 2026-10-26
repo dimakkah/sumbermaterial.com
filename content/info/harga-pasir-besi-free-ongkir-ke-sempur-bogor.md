@@ -25,7 +25,7 @@ Berdasarkan Standar Nasional Indonesia ( SK SNI - S - 04 - 1989 - F ; 28) di seb
 
 Syarat Pasir yang Baik tuk Bangunan
 
-1.  Agregat Halus seharusnya terdiri dari butiran yg tajam dan keras dengan indeks kekerasan <2.2
+1.  Agregat Halus seharusnya terdiri dari butiran yg tajam dan keras dengan indeks kekerasan <2.2
 2. jika diaplikasikan Natrium Sulfat komponen hancur optimal dua belas persen
 3. kalau dipakai Magnesium Sulfat komponen halus optimal 5 persen
 4. Tidak boleh berisi clay lebih dari 5%
@@ -41,7 +41,6 @@ Syarat Pasir yang Baik tuk Bangunan
 setelah mengenal syarat pasir buat suatu Bangunan, saat ini kita bahas Macam - Jenis Pasir Untuk Konstruksi Bangunan penjelasan nya sebagai berikut:
 
 - ### Pasir Rigid Di Sempur Bogor
-    
 
 Pasir ini lazim nya berwarna hitam gelap dan tingkat pecahan butiran nya cukup tinggi. Tetapi bila anda mengepal nya dengan tangan tidak akan menggumpal dan akan hancur kembali. model pasir ini sungguh-sungguh lah baik tuk Pengecoran, Plesteran Dinding, Adukan Pondasi dan Adukan Pasangan Bata Pasir ini yaitu pasir untuk Cor yaitu butiran-butiran mineral keras dan tajam berukuran antara 0,075 – 5 mm, jika terdapat butiran berukuran lebih kecil dari 0,063 mm tidak lebih dari 5% berat. Pasir ini yaitu pasir untuk Cor sering kali diaplikasikan untuk profesi cor-coran struktur seperti kolom, balok dan pelat lantai.
 
@@ -52,9 +51,9 @@ Harga Pasir Besi Free Ongkir Ke Sempur Bogor Seandainya anda sebagai konsumen /p
 Pasir paling unggul diambil dari kp. jebrod cianjur jawa barat yang dipakai oleh indocement serta perusahaan batching plant lainnya sebagai bahan dasar produksi readymix concrete. Pasir ini paling dianjurkan untuk cor sebab irit semen juga mempunyai kandungan lumpur yang amat rendah dibawah 8%. warnanya Hitam abu tua atau hitam seperti hitamnya batu kali, ada juga yang hitam kemerahan atau hitam terasi
 
 3. **Pasir Hitam Cor Cimangkok.** Pasir asal Daerah penambangannya di cimangkok sukabumi jawa barat yang masih masuk terhadap golongan pasir hitam kelas satu di jabar, warnanya hitam kecoklatan pantas untuk cor, pasang pondasi dan bata
-    
+
     ![Harga Pasir Besi Free Ongkir Ke Sempur Bogor](/images/info/pasir-hitam-8.jpg)
-    
+
 4. **Pasir Hitam Rigid Cimalaka Subang Bandung.**
 
 Pasir paling unggul yang berwarna hitam kebauan ada juga yang berwarna hitam abu tua. Banyak di pakai untuk Cor, pasang dan keperluan lainnya. Ditambang di Desa cimalaka
@@ -90,9 +89,9 @@ Kecuali Rangkasbitung, Banten juga mempunyai lokasi pnembangan pasir lain sepert
 Masih dari Daerah di banten, pasir kelas tiga ini merupakan pasir yang banyak digunakan di proyek proyek perumahan atau cluster sebab harganya yang murah juga mutu yang bagus. Warna pasir ini hitam kecoklatan dan keabuan betul-betul dianjurkan untuk pasang pondasi, bata, batu dsb
 
 27. **Pasir Hitam Cor Bohlam Sukabumi.** Pasir dari Kawasan kp. bohlam di sukabumi berwarna hitam kecoklatan, betul-betul bagus untuk pasang bata, pondasi dan sebagainya sebagai opsi pasir kwalitas baik dan tidak mahal
-    
+
     ![Harga Pasir Besi Free Ongkir Ke Sempur Bogor](/images/info/pasir-hitam-8.jpg)
-    
+
 28. **Pasir Beton Galunggung.**
 
 Pasir ini yaitu pasir hitam mutu paling unggul dikelasnya lazim diterapkan oleh pabrik pengolahan beton readymix juga perusahan pembuatan precast dan sering kali juga diaplikasikan untuk bahan pembuatan batako press hitam, paving block dan lain-lain. Pasir ini ditambang dari Tasikmalaya jawa barat.
@@ -100,21 +99,18 @@ Pasir ini yaitu pasir hitam mutu paling unggul dikelasnya lazim diterapkan oleh 
 ![Harga Pasir Besi Free Ongkir Ke Sempur Bogor](/images/info/pasir-hitam-1.jpg)
 
 - ### Pasir Pasang Di Sempur Bogor
-    
 
 ![Harga Pasir Besi Free Ongkir Ke Sempur Bogor](/images/info/jual-pasir-mundu.jpg)
 
 Pasir ini ekstra halus lagi dibandingkan oleh pasir beton. apabila kamu mengepal pasir ini maka akan menggumpal dan tidak akan buyar kembali. pasir pasang lazim nya di gunakan untuk campuran pasir beton agar tak terlampau kasar dan dapat di gunakan untuk plesteran dinding.
 
 - ### Pasir Urug Untuk Dasaran Pemasangan Keramik Di Sempur Bogor
-    
 
 Di Antara ke dua pasir diatas pasir tipe ini lebih halus lagi, sekiranya kamu mengepal nya akan menggumpal dan tak akan hancur lagi. melainkan pasir macam
 
 Pada nya pasir ini nyaris sama dgn pasir beton akan namun pasir ini memiliki tingkat kekasaran yang tinggi, butiran - butiran nya cukup besar dan agak banyak batuan nya. pada biasanya pasir macam ini bagus untuk bahan pemadatan lantai
 
 - ### Pasir Putih Bebas Lumpur Untuk Taman Bermain Di Sempur Bogor
-    
 
 1. **Pasir Putih Bangka**
 

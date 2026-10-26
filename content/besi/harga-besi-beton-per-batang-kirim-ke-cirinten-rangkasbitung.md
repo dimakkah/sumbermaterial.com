@@ -18,19 +18,19 @@ Tanpa adanya besi karenanya sebuah bangunan akan mudah retak saat ada getaran ke
 
 ## Inilah Macam-macam Besi Di Cirinten Rangkasbitung
 
-### 1\. Besi Polos Toleransi 4mm, 6mm, 8mm, 10mm, 12mm, 16mm, 18mm, 19mm Di Cirinten Rangkasbitung
+### 1. Besi Polos Toleransi 4mm, 6mm, 8mm, 10mm, 12mm, 16mm, 18mm, 19mm Di Cirinten Rangkasbitung
 
 Besi polos memiliki ukuran mulai dari 8 mm sampai 25 mm dan memiliki 6 meter panjang tekuk dan 12 meter panjang lurus. Besi beton ini sudah mulai diterapkan sebagai bahan utama di Indonesia pada tahun 1950. Besi ini tak jarang kali digunakan untuk membangun bangunan beton. Bahan yang gampang diaplikasikan sehingga selain diaplikasikan untuk membangun bangunan beton juga dipakai untuk membangun trowongan, bendungan, dan lainnya. Saat diaplikasikan untuk membangun bangunan beton bertingkat maka biasanya besi polos ini digunakan untuk struktur rangkaian besi balok, dinding, dan sloof. Besi beton polos ini mempunyai keunggulan besi polos ini tegangannya lebih tinggi dari pada besi lainnya. Jadi besi ini terkesan lebih kokoh dan tahan beban. Sehingga pengaplikasian besi polos ini sungguh-sungguh pantas untuk membangun gedung, jembatan, dan bangunan lainnya. Besi polos ini terbuat dari bahan seperti billet dan skrap. Billet merupakan baja batangan yang pelaksanaan pembuatannya dengan mengecor biji besi. Sekiranya skrap yakni besi bekas yang dileburkan dengan temperature tertentu. Selain dari itu jikalau anda menggunakan besi polos ini tidak membutuhkan biaya pemeliharaan. Kian lama diaplikasikan karenanya besi ini akan semakin kokoh.
 
-### 2\. Besi Ulir 4mm, 6mm, 8mm, 10mm, 12mm, 16mm, 18mm, 19mm Di Cirinten Rangkasbitung
+### 2. Besi Ulir 4mm, 6mm, 8mm, 10mm, 12mm, 16mm, 18mm, 19mm Di Cirinten Rangkasbitung
 
 Selaras dengan namanya besi beton ulir ini ialah besi yang tampilannya mengulir. Pada permukaannya bercorak spiral yang mempunyai tujuan untuk menyatukan tulangan dengan unsur bahan bangunan yang dibentuk oleh besi beton. Besi ulir ini mulai populer dipakai pada abad ke-20 di Amerika dan mulai populer di Indonesia pada tahun1950. Mengingat dikala memakai besi ulir ini memiliki banyak keunggulan mulai dari ketahanan bangunan serta lebih hemat biaya dan efisien. Produk besi ulir ini menjadi paling laris di pasar sebab mempunyai kualitas yang terbaik di Indonesia dan memiliki harga yang tinggi kalau diperbandingkan dengan produk lainnya.
 
-### 3\. Besi WF dan H-Beam Banci Di Cirinten Rangkasbitung
+### 3. Besi WF dan H-Beam Banci Di Cirinten Rangkasbitung
 
 Besi Wide Flange (WF) ini ialah salah satu baja dengan struktural yang paling banyak dipakai untuk kontruksi baja. Jika anda membutuhkan besi baja Wide Flage dalam jumlah yang banyak atau sedikit maka silahkan cari toko besi yang terpercaya. Besi WF ini memiliki kekokohan yang kokoh dan kokoh pada ketahanan tarik atau tekan. Maka dari itu besi ini menjadi unsur struktur yang mempunyai batasan yang paripurna untuk menahan bobot tekan aksial, tarik aksial, dan lentur dengan fasilitas pembangunan strukturnya. Baja Wide Flange (WF) ini mempunyai kepadatan yang tinggi tetapi rasio berat antara kekokohan bagian Baja WF yang tinggi tetapi tidak terlalu berat yang berhubungan dengan kapasitas muatan. Selain itu menentukan jikalau kontruksi yang digunakan secara efisien. Sistem kontruksi baja WF ini kombinasi dari elemen struktur yang rumit. Pada struktur ini mempunyai tujuan membawa beban yang aman dan tepat sasaran yang berefek pada sebuah bangunan dan dikirim pada pondasinya. Gaya dan muatan yang bekerja ini termasuk beban pertikal, perbedaan temperatur, horizontal, getaran dan lainnya. Pada sebuah bangunan baja, maka ada unsure yang berguna menahan gaya lateral dan gravitasi.
 
-### 4\. Besi Holo Di Cirinten Rangkasbitung
+### 4. Besi Holo Di Cirinten Rangkasbitung
 
 Besi hollow ialah besi yang digunakan sebagai pembuatan kanopi, pagar, pintu besi dan lainnya. Bahan baku pembuatan besi Hollow ini biasanya terbuat dari stainless, galvanis, dan besi baja. Tetapi yang paling sering dipakai sebagai bahan baku ialah galvanis. Terdapat kelebihan yang anda temukan dikala memasang kanopi, mengaplikasikan pagar, teralis menggunakan besi hollow:
 

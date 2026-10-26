@@ -50,13 +50,13 @@ d. tidak dapat menjangkau lokasi yang sempit. Mengingat Besi WF ini berukuran pa
 
 ### Keunggulan Dari Besi WF Di Tamansari Jakarta
 
-1\. Dapat memaksimalkan waktu dalam pembangunan sebuah konstruksi bangunan, mengurangi waktu dan juga mengurangi biaya dan tukang pasang.
+1. Dapat memaksimalkan waktu dalam pembangunan sebuah konstruksi bangunan, mengurangi waktu dan juga mengurangi biaya dan tukang pasang.
 
-2\. Dapat menyangga muatan yang betul-betul berat, tidak gampang memuai dan lebih simple penggunaannya dibanding dengan material struktural lainnya.
+2. Dapat menyangga muatan yang betul-betul berat, tidak gampang memuai dan lebih simple penggunaannya dibanding dengan material struktural lainnya.
 
-3\. Memiliki fleksibilitas yang tinggi. Sehingga struktur bangunan yang dibuat dari Besi WF ini menjadi lebih kuat tdk mudah bergeser, tdk mudah ambruk maupun goyang. Sangat cocok untuk tipe bangunan diatas tanah yang labil atau kerap kali terjadi gempa.
+3. Memiliki fleksibilitas yang tinggi. Sehingga struktur bangunan yang dibuat dari Besi WF ini menjadi lebih kuat tdk mudah bergeser, tdk mudah ambruk maupun goyang. Sangat cocok untuk tipe bangunan diatas tanah yang labil atau kerap kali terjadi gempa.
 
-4\. Lebih hemat sebab struktur bangunan yang menerapkan Besi WF akan mempunyai kekuatan yang cukup lama malahan sampai ratusan tahun. Tentunya ini merupakan investasi yang sungguh-sungguh murah bila kita bandingkan dengan waktu pakai. Malah bangunan yang dibangun dengan rangka Besi WF dapat kita wariskan terhadap buah hati cucu kita.
+4. Lebih hemat sebab struktur bangunan yang menerapkan Besi WF akan mempunyai kekuatan yang cukup lama malahan sampai ratusan tahun. Tentunya ini merupakan investasi yang sungguh-sungguh murah bila kita bandingkan dengan waktu pakai. Malah bangunan yang dibangun dengan rangka Besi WF dapat kita wariskan terhadap buah hati cucu kita.
 
 ## Mengenal Besi H Beam Di Tamansari Jakarta
 
@@ -72,15 +72,15 @@ Sama seperti besi yang kami terangkan sebelumnya adalah Besi WF, besi H-Beam mal
 
 ### Keunggulan Besi H Beam Di Tamansari Jakarta
 
-1\. Gampang untuk didapat. Banyak toko besi yang menyediakan stok besi H-Beam beragam ukuran. Sehingga besi H-Beam ini sungguh-sungguh mudah untuk didapatkan, tidak sulit untuk menemukan supplier besi yang memasarkan besi H Beam.
+1. Gampang untuk didapat. Banyak toko besi yang menyediakan stok besi H-Beam beragam ukuran. Sehingga besi H-Beam ini sungguh-sungguh mudah untuk didapatkan, tidak sulit untuk menemukan supplier besi yang memasarkan besi H Beam.
 
-2\. Mudah Dalam Pemasangan. Banyak tukang pakar dalam pemasangan besi H Beam. Meski besi H-Beam ini wajib dipasang oleh tukang yang profesional tapi tukang yang ahli dalam memasang besi H Beam ini benar-benar banyak kita temui hari ini. Sehingga tdk perlu dikhawatirkan lagi pelaksanaan pemasangannya.
+2. Mudah Dalam Pemasangan. Banyak tukang pakar dalam pemasangan besi H Beam. Meski besi H-Beam ini wajib dipasang oleh tukang yang profesional tapi tukang yang ahli dalam memasang besi H Beam ini benar-benar banyak kita temui hari ini. Sehingga tdk perlu dikhawatirkan lagi pelaksanaan pemasangannya.
 
-3\. Mempunyai daya tahan yang tdk diragukan lagi. Besi H Beam telah teruji selama bertahun-tahun dalam kontruksi bangunan. Baik skala kecil maupun skala besar dan terbilang betul-betul kuat apabila dibandingi dengan material lainnya. Dapat bertahan sampai puluhan sampai ratusan tahun.
+3. Mempunyai daya tahan yang tdk diragukan lagi. Besi H Beam telah teruji selama bertahun-tahun dalam kontruksi bangunan. Baik skala kecil maupun skala besar dan terbilang betul-betul kuat apabila dibandingi dengan material lainnya. Dapat bertahan sampai puluhan sampai ratusan tahun.
 
-4\. Gampang dalam pemeliharaannya. Bangunan yang menerapkan besi H Beam sebagai struktur rangka bangunannya akan betul-betul mudah dalam melakukan perawatannya. tidak perlu pengecatan dengan cat khusus maupun pembersihan setiap waktu.
+4. Gampang dalam pemeliharaannya. Bangunan yang menerapkan besi H Beam sebagai struktur rangka bangunannya akan betul-betul mudah dalam melakukan perawatannya. tidak perlu pengecatan dengan cat khusus maupun pembersihan setiap waktu.
 
-5\. Menghemat pengaplikasian material lainnya, seperti penggunaan bekisting, penerapan tiang penyangga atau steger dan juga material pasir. Besi H Beam Tdk membutuhkan material pasir dalam pemakaiannya.
+5. Menghemat pengaplikasian material lainnya, seperti penggunaan bekisting, penerapan tiang penyangga atau steger dan juga material pasir. Besi H Beam Tdk membutuhkan material pasir dalam pemakaiannya.
 
 ### Kekurangan Dari Besi H Beam Di Tamansari Jakarta
 

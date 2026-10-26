@@ -50,13 +50,13 @@ d. tidak dapat menjangkau lokasi yang sempit. Mengingat Besi WF ini berukuran pa
 
 ### Kelebihan Dari Besi WF Di Mancak Serang
 
-1\. Dapat menghemat waktu dalam pembangunan sebuah konstruksi bangunan, menghemat waktu dan juga mengurangi biaya dan tukang pasang.
+1. Dapat menghemat waktu dalam pembangunan sebuah konstruksi bangunan, menghemat waktu dan juga mengurangi biaya dan tukang pasang.
 
-2\. Dapat menopang muatan yang betul-betul berat, tdk mudah memuai dan lebih simple penerapannya dibanding dengan material struktural lainnya.
+2. Dapat menopang muatan yang betul-betul berat, tdk mudah memuai dan lebih simple penerapannya dibanding dengan material struktural lainnya.
 
-3\. Memiliki fleksibilitas yang tinggi. Sehingga struktur bangunan yang dihasilkan dari Besi WF ini menjadi lebih kuat tidak gampang bergeser, tdk mudah ambruk ataupun goyang. Amat sesuai untuk variasi bangunan diatas tanah yang labil atau sering terjadi gempa.
+3. Memiliki fleksibilitas yang tinggi. Sehingga struktur bangunan yang dihasilkan dari Besi WF ini menjadi lebih kuat tidak gampang bergeser, tdk mudah ambruk ataupun goyang. Amat sesuai untuk variasi bangunan diatas tanah yang labil atau sering terjadi gempa.
 
-4\. Lebih hemat sebab struktur bangunan yang memakai Besi WF akan mempunyai ketahanan yang cukup lama malahan hingga ratusan tahun. Tentunya ini ialah investasi yang betul-betul murah jikalau kita bandingkan dengan waktu pakai. Malahan bangunan yang dibangun dengan tulangan Besi WF bisa kita wariskan kepada buah hati cucu kita.
+4. Lebih hemat sebab struktur bangunan yang memakai Besi WF akan mempunyai ketahanan yang cukup lama malahan hingga ratusan tahun. Tentunya ini ialah investasi yang betul-betul murah jikalau kita bandingkan dengan waktu pakai. Malahan bangunan yang dibangun dengan tulangan Besi WF bisa kita wariskan kepada buah hati cucu kita.
 
 ## Mengetahui Besi H Beam Di Mancak Serang
 
@@ -72,15 +72,15 @@ Sama seperti besi yang kami jelaskan sebelumnya ialah Besi WF, besi H-Beam bahka
 
 ### Keunggulan Besi H Beam Di Mancak Serang
 
-1\. Mudah untuk didapat. Banyak distributor besi yang menyediakan stok besi H-Beam bermacam-macam ukuran. Sehingga besi H-Beam ini sangat gampang untuk diperoleh, tidak susah untuk mendapatkan supplier besi yang memasarkan besi H Beam.
+1. Mudah untuk didapat. Banyak distributor besi yang menyediakan stok besi H-Beam bermacam-macam ukuran. Sehingga besi H-Beam ini sangat gampang untuk diperoleh, tidak susah untuk mendapatkan supplier besi yang memasarkan besi H Beam.
 
-2\. Gampang Dalam Pemasangan. Banyak tukang pakar dalam pemasangan besi H Beam. Walaupun besi H-Beam ini seharusnya dipasang oleh tukang yang berpengalaman tapi tukang yang berpengalaman dalam memasang besi H Beam ini benar-benar banyak kita temui hari ini. Sehingga tdk perlu dikhawatirkan lagi progres pemasangannya.
+2. Gampang Dalam Pemasangan. Banyak tukang pakar dalam pemasangan besi H Beam. Walaupun besi H-Beam ini seharusnya dipasang oleh tukang yang berpengalaman tapi tukang yang berpengalaman dalam memasang besi H Beam ini benar-benar banyak kita temui hari ini. Sehingga tdk perlu dikhawatirkan lagi progres pemasangannya.
 
-3\. Memiliki kekuatan yang tidak diragukan lagi. Besi H Beam telah teruji selama bertahun-tahun dalam kontruksi bangunan. Baik skala kecil maupun skala besar dan terbilang sungguh-sungguh awet jikalau diperbandingkan dengan material lainnya. Dapat bertahan hingga puluhan sampai ratusan tahun.
+3. Memiliki kekuatan yang tidak diragukan lagi. Besi H Beam telah teruji selama bertahun-tahun dalam kontruksi bangunan. Baik skala kecil maupun skala besar dan terbilang sungguh-sungguh awet jikalau diperbandingkan dengan material lainnya. Dapat bertahan hingga puluhan sampai ratusan tahun.
 
-4\. Gampang dalam perawatannya. Bangunan yang menggunakan besi H Beam sebagai struktur rangka bangunannya akan sungguh-sungguh mudah dalam mengerjakan perawatannya. tdk perlu pengecatan dengan cat khusus maupun pembersihan tiap saat.
+4. Gampang dalam perawatannya. Bangunan yang menggunakan besi H Beam sebagai struktur rangka bangunannya akan sungguh-sungguh mudah dalam mengerjakan perawatannya. tdk perlu pengecatan dengan cat khusus maupun pembersihan tiap saat.
 
-5\. Menghemat penggunaan material lainnya, seperti pemakaian bekisting, pengaplikasian perancah atau steger dan juga material pasir. Besi H Beam Tdk membutuhkan material pasir dalam penggunaannya.
+5. Menghemat penggunaan material lainnya, seperti pemakaian bekisting, pengaplikasian perancah atau steger dan juga material pasir. Besi H Beam Tdk membutuhkan material pasir dalam penggunaannya.
 
 ### Kekurangan Dari Besi H Beam Di Mancak Serang
 

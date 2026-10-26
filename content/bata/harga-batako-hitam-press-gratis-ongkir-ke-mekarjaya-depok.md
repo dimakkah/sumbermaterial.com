@@ -16,7 +16,7 @@ sekarang ini bahan yang diaplikasikan untuk mengisi tembok bangunan, telah terda
 
 ## Mengetahui Ragam Variasi Bata
 
-### 1\. Bata Merah Standar & Jumbo Di Mekarjaya Depok
+### 1. Bata Merah Standar & Jumbo Di Mekarjaya Depok
 
 ![Harga Batako Hitam Press Gratis Ongkir Ke Mekarjaya Depok](/images/bata/bata-merah-oven-20.png)
 
@@ -26,7 +26,7 @@ Bata merah ini dibuat dari bahan tanah yang kemudian di bentuk dan dibakar denga
 
 Material bangunan ini benar-benar tahan terhadap panas dan sesuai dibuat proteksi dari panas api. Bata merah ini pada umumnya mempunyai ukuran panjang antara 17-23 cm dan lebar sekitar 7-11 cm, serta tebalnya 3-5 cm. mempunyai ukuran yg lebih kecil akan memberi kemudahan dalam proses pengangkutan dan bisa diterapkan untuk menyusun bidang kecil.
 
-### 2\. Batako Hitam dan Putih Di Mekarjaya Depok
+### 2. Batako Hitam dan Putih Di Mekarjaya Depok
 
 ![Harga Batako Hitam Press Gratis Ongkir Ke Mekarjaya Depok](/images/bata/batako-hitam-press-07.png)
 
@@ -34,7 +34,7 @@ Bahan bangunan tembok dari batako press ini secara umum terbuat dari material ca
 
 Batako press seperti ini mempunyai kekurangan seperti gampang pecah, lebih panas dan pengap. Berbeda dg bata merah yang terbuat dari bahan tanah. Namun batako press ini cenderung lebih ringan ketimbang bata merah. Walhasil akan menonjol lebih halus dan ukurannya lebih presisi kalau diperbandingkan dengan bata merah. Batako trus Hitam ini mempunyai ukuran panjang sekitar 36-40 cm, tinggi 18-20 cm dan tebal 8-10 cm. bahan ini sering kali dipilih sebab untuk memperingan bobot struktur bangunan, meminimalisir sisa material dan mempermudah pembangunan.
 
-### 3\. Bata Ringan Di Mekarjaya Depok
+### 3. Bata Ringan Di Mekarjaya Depok
 
 ![Harga Batako Hitam Press Gratis Ongkir Ke Mekarjaya Depok](/images/bata/bata-hebel-sni-13.png)
 
@@ -62,7 +62,7 @@ Segalanya tentu telah tahu kegunaan utama batu bata mulai digunakan untuk membik
 
 Sistem mengorder batu bata yg aman dan terpercaya:
 
-1.  Progres pembayaran dapat anda lakukan secara COD atau dibayar di daerah dikala barang pesanan anda telah datang di daerah
+1.  Progres pembayaran dapat anda lakukan secara COD atau dibayar di daerah dikala barang pesanan anda telah datang di daerah
 2. Silahkan memilih dan memastikan material batu bata yg anda inginkan
 3. Tentukan juga jumlah pesanan batu bata yg anda butuhkan dalam format bijian.
 4. Anda bisa menghubungi layanan telepon kios untuk mempermudah pelaksanaan pengorderan

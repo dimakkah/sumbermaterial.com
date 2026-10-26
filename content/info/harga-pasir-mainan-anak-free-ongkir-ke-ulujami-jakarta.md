@@ -25,7 +25,7 @@ menurut Standar Nasional Indonesia ( SK SNI - S - 04 - 1989 - F ; 28) di tuturka
 
 Persyaratan Pasir yg Baik Untuk Bangunan
 
-1.  Agregat Halus wajib terdiri dari butiran yg tajam dan keras dengan indeks kekerasan <2.2
+1.  Agregat Halus wajib terdiri dari butiran yg tajam dan keras dengan indeks kekerasan <2.2
 2. jika dimanfaatkan Natrium Sulfat komponen hancur maksimal dua belas %
 3. kalau diterapkan Magnesium Sulfat bagian halus optimal 5 persen
 4. Tidak boleh memuat lumpur lebih dari 5 persen
@@ -41,7 +41,6 @@ Persyaratan Pasir yg Baik Untuk Bangunan
 sesudah memahami prasyarat pasir buat suatu Bangunan, pada saat ini kita bahas Macam - Tipe Pasir Untuk Konstruksi penjelasan nya berikut ini:
 
 - ### Pasir untuk Cor Rigid Di Ulujami Jakarta
-    
 
 Pasir ini biasa nya berwarna hitam pekat dan tingkat pecahan butiran nya lumayan tinggi. Tapi kalau anda mengepal nya dengan tangan tak akan menggumpal dan akan buyar kembali. ragam pasir ini benar-benar lah baik tuk Pengecoran, Plesteran Dinding, Adukan Pondasi dan Adukan Pasangan Bata Pasir ini yaitu pasir untuk Cor yakni butiran-butiran mineral keras dan tajam berukuran antara 0,075 – 5 mm, jikalau terdapat butiran berukuran lebih kecil dari 0,063 mm tak lebih dari 5% berat. Pasir ini yaitu pasir untuk Beton sering dipakai untuk profesi cor-coran struktur seperti kolom, balok dan pelat lantai.
 
@@ -52,9 +51,9 @@ Harga Pasir Mainan Anak Free Ongkir Ke Ulujami Jakarta Jikalau anda sebagai kons
 Pasir nomor satu asli kp. jebrod cianjur jawa barat yang digunakan oleh indocement serta perusahaan batching plant lainnya sebagai bahan dasar produksi readymix concrete. Pasir ini paling disarankan untuk cor sebab irit semen juga mempunyai kandungan lumpur yang sungguh-sungguh rendah dibawah delapan %. warnanya Hitam abu tua atau hitam seperti hitamnya batu kali, ada juga yang hitam kemerahan atau hitam terasi
 
 3. **Pasir Hitam Cor Cimangkok.** Pasir asli Daerah penambangannya di cimangkok sukabumi jabar yang masih masuk terhadap golongan pasir hitam paling unggul di jawa barat, warnanya hitam kecoklatan sesuai untuk cor, pasang pondasi dan bata
-    
+
     ![Harga Pasir Mainan Anak Free Ongkir Ke Ulujami Jakarta](/images/info/pasir-hitam-5.jpg)
-    
+
 4. **Pasir Hitam Beton Cimalaka Subang Bandung.**
 
 Pasir paling unggul yang berwarna hitam kebauan ada juga yang berwarna hitam abu tua. Banyak di pakai untuk Cor, pasang dan keperluan lainnya. Ditambang di Desa cimalaka
@@ -90,9 +89,9 @@ Kecuali Rangkasbitung, Banten juga mempunyai lokasi pnembangan pasir lain sepert
 Masih dari kawasan di banten, pasir kelas tiga ini merupakan pasir yang banyak diaplikasikan di proyek proyek perumahan atau cluster sebab harganya yang murah juga mutu yang tidak diragukan. Warna pasir ini hitam kecoklatan dan keabuan benar-benar disarankan untuk pasang pondasi, bata, batu dan sebagainya
 
 27. **Pasir Hitam Beton Bohlam Sukabumi.** Pasir dari Kawasan kp. bohlam di sukabumi berwarna hitam kecoklatan, benar-benar bagus untuk pasang bata, pondasi dan sebagainya sebagai pilihan pasir mutu bagus dan ekonomis
-    
+
     ![Harga Pasir Mainan Anak Free Ongkir Ke Ulujami Jakarta](/images/info/pasir-hitam-5.jpg)
-    
+
 28. **Pasir Beton Galunggung.**
 
 Pasir ini yakni pasir hitam mutu paling unggul dikelasnya umum diterapkan oleh pabrik pengolahan beton readymix juga perusahan pembuatan precast dan acap kali juga diterapkan untuk bahan pembuatan batako press hitam, paving block dsb. Pasir ini ditambang dari Tasikmalaya jabar.
@@ -100,21 +99,18 @@ Pasir ini yakni pasir hitam mutu paling unggul dikelasnya umum diterapkan oleh p
 ![Harga Pasir Mainan Anak Free Ongkir Ke Ulujami Jakarta](/images/info/pasir-hitam-2.jpg)
 
 - ### Pasir Biasa Di Ulujami Jakarta
-    
 
 ![Harga Pasir Mainan Anak Free Ongkir Ke Ulujami Jakarta](/images/info/jual-pasir-mundu-2.jpg)
 
 Pasir ini lebih halus lagi dibandingkan oleh pasir beton. seandainya kamu mengepal pasir ini maka akan menggumpal dan tak akan hancur kembali. pasir pasang lazim nya di manfaatkan tuk campuran pasir beton supaya tidak terlalu kasar dan bisa di gunakan untuk plesteran dinding.
 
 - ### Pasir Elod Untuk pengurugan lantai Di Ulujami Jakarta
-    
 
 Di Antara ke dua pasir diatas pasir ragam ini lebih halus lagi, jika kalian mengepal nya karenanya akan menggumpal dan tak akan hancur lagi. namun pasir jenis
 
 Pada biasa nya pasir ini nyaris sama dgn pasir beton melainkan pasir ini mempunyai tingkat kekasaran yang tinggi, butiran - butiran nya lumayan besar dan agak banyak batuan nya. pada lazimnya pasir jenis ini baik tuk bahan pemadatan lantai
 
 - ### Pasir Putih Bebas Lumpur Untuk Taman Bermain Di Ulujami Jakarta
-    
 
 1. **Pasir Putih Bangka**
 

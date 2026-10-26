@@ -18,19 +18,19 @@ Dengan tidak adanya besi maka sebuah bangunan akan gampang retak ketika ada geta
 
 ## Inilah Variasi-tipe Besi Di Ciwandan Cilegon
 
-### 1\. Besi Polos 4mm, 6mm, 8mm, 10mm, 12mm, 16mm, 18mm, 19mm Di Ciwandan Cilegon
+### 1. Besi Polos 4mm, 6mm, 8mm, 10mm, 12mm, 16mm, 18mm, 19mm Di Ciwandan Cilegon
 
 Besi polos memiliki ukuran mulai dari 8 mm sampai 25 mm dan mempunyai 6 meter panjang tekuk dan 12 meter panjang lurus. Besi beton ini sudah mulai digunakan sebagai bahan utama di Indonesia pada tahun 1950. Besi ini acap kali kali dipakai untuk membangun rumah. Bahan yang mudah diaplikasikan sehingga selain dari diterapkan untuk membangun rumah juga dipakai untuk membangun trowongan, bendungan, dan lainnya. Saat digunakan untuk membangun sebuah gedung bertingkat maka biasanya besi polos ini digunakan untuk struktur tulangan balok, dinding, dan sloof. Besi beton polos ini memiliki kelebihan besi polos ini tegangannya lebih tinggi dari pada besi lainnya. Jadi besi ini terkesan lebih kuat dan tahan beban. Sehingga penggunaan besi polos ini amat layak untuk membangun gedung, jembatan, dan bangunan lainnya. Besi polos ini terbuat dari bahan seperti billet dan skrap. Billet adalah baja batangan yang pengerjaan pembuatannya dengan melebur biji besi. Seandainya skrap ialah besi bekas yang dileburkan dengan temperature tertentu. Selain itu jika anda menerapkan besi polos ini tdk memerlukan budget pemeliharaan. Kian lama diterapkan maka besi ini akan semakin kokoh.
 
-### 2\. Besi Ulir 4mm, 6mm, 8mm, 10mm, 12mm, 16mm, 18mm, 19mm Di Ciwandan Cilegon
+### 2. Besi Ulir 4mm, 6mm, 8mm, 10mm, 12mm, 16mm, 18mm, 19mm Di Ciwandan Cilegon
 
 Sesuai dengan namanya besi beton ulir ini yaitu besi yang bentuknya mengulir. Pada permukaannya bercorak spiral yang memiliki tujuan untuk menyatukan gerigi besi dengan elemen material bangunan yang dibentuk oleh besi beton. Besi ulir ini mulai populer digunakan pada abad ke-20 di Amerika dan mulai populer di Indonesia pada tahun1950. Mengingat saat menggunakan besi ulir ini mempunyai banyak keunggulan mulai dari kekuatan bangunan serta lebih hemat biaya dan efisien. Produk besi ulir ini menjadi paling laris di pasar sebab mempunyai kwalitas yang terbaik di Indonesia dan memiliki harga yang tinggi apabila dibandingkan dengan produk lainnya.
 
-### 3\. Besi WF dan H-Beam Full Di Ciwandan Cilegon
+### 3. Besi WF dan H-Beam Full Di Ciwandan Cilegon
 
 Besi Wide Flange (WF) ini adalah salah satu baja dengan struktural yang paling sering digunakan untuk kontruksi baja. Bila anda membutuhkan besi baja Wide Flage dalam jumlah yang banyak atau sedikit karenanya silahkan cari toko besi yang terpercaya. Besi WF ini memiliki kekokohan yang kokoh dan kuat pada kekokohan tarik atau tekan. Maka dari itu besi ini menjadi faktor struktur yang mempunyai batasan yang sempurna untuk menopang bobot tekan aksial, tarik aksial, dan lentur dengan fasilitas pembangunan strukturnya. Baja Wide Flange (WF) ini mempunyai kepadatan yang tinggi namun rasio berat antara kekuatan bagian Baja WF yang tinggi tetapi tdk terlalu berat yang berkaitan dengan kapasitas bobot. Selain dari itu memastikan sekiranya kontruksi yang diterapkan secara efisien. Sistem kontruksi baja WF ini kombinasi dari elemen struktur yang rumit. Pada struktur ini memiliki tujuan membawa muatan yang aman dan efektif yang bekerja pada sebuah bangunan dan dikirim pada pondasinya. Gaya dan beban yang berefek ini termasuk muatan pertikal, perbedaan suhu, horizontal, getaran dan lainnya. Pada sebuah bangunan baja, karenanya ada unsure yang berfungsi menahan gaya lateral dan gravitasi.
 
-### 4\. Besi Holo Di Ciwandan Cilegon
+### 4. Besi Holo Di Ciwandan Cilegon
 
 Besi hollow yakni besi yang dipakai sebagai pembuatan kanopi, pagar, pintu besi dan lainnya. Bahan baku pembuatan besi Hollow ini biasanya terbuat dari stainless, galvanis, dan besi baja. Tetapi yang paling kerap digunakan sebagai bahan baku yakni galvanis. Terdapat kelebihan yang anda peroleh ketika mengaplikasikan kanopi, memasang pagar, teralis mengaplikasikan besi hollow:
 

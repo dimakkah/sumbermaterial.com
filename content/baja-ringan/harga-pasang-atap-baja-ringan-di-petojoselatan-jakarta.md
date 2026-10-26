@@ -21,13 +21,13 @@ Pemasangan baja ringan untuk kebutuhan bangunan Anda di PetojoSelatan Jakarta re
 
 Sebelum Anda menghubungi kami, ada beberapa alasan penting yang perlu Anda ketahui mengapa baja ringan menjadi pilihan tepat untuk konstruksi atap dan kanopi di PetojoSelatan Jakarta:
 
- **Ramah Lingkungan:** Penggunaan baja ringan mengurangi kebutuhan akan kayu, sehingga membantu melestarikan alam dan mengurangi deforestasi.
- **Ekonomis:** Biaya baja ringan umumnya lebih terjangkau dibandingkan material kayu berkualitas tinggi, sehingga membantu menekan anggaran pembangunan Anda.
- **Ringan dan Kuat:** Baja ringan memiliki kekuatan yang luar biasa meskipun ringan, menjadikannya ideal untuk konstruksi atap yang tahan lama.
- **Perawatan Minimal:** Anda tidak perlu khawatir dengan perawatan rutin yang memakan waktu dan biaya. Baja ringan sangat tahan terhadap cuaca dan hama.
- **Pemasangan Cepat:** Proses pemasangan baja ringan jauh lebih cepat dibandingkan material tradisional, menghemat waktu dan biaya tenaga kerja.
- **Kualitas Terjamin:** Baja ringan yang kami gunakan memiliki mutu terjamin, terbuat dari zinc dan alumunium dengan sertifikasi dan standar keamanan 4 kali lebih baik dibandingkan baja biasa.
- **Tahan Rayap:** Baja ringan kebal terhadap serangan rayap, memastikan konstruksi atap Anda tetap kokoh dan awet.
+- **Ramah Lingkungan:** Penggunaan baja ringan mengurangi kebutuhan akan kayu, sehingga membantu melestarikan alam dan mengurangi deforestasi.
+- **Ekonomis:** Biaya baja ringan umumnya lebih terjangkau dibandingkan material kayu berkualitas tinggi, sehingga membantu menekan anggaran pembangunan Anda.
+- **Ringan dan Kuat:** Baja ringan memiliki kekuatan yang luar biasa meskipun ringan, menjadikannya ideal untuk konstruksi atap yang tahan lama.
+- **Perawatan Minimal:** Anda tidak perlu khawatir dengan perawatan rutin yang memakan waktu dan biaya. Baja ringan sangat tahan terhadap cuaca dan hama.
+- **Pemasangan Cepat:** Proses pemasangan baja ringan jauh lebih cepat dibandingkan material tradisional, menghemat waktu dan biaya tenaga kerja.
+- **Kualitas Terjamin:** Baja ringan yang kami gunakan memiliki mutu terjamin, terbuat dari zinc dan alumunium dengan sertifikasi dan standar keamanan 4 kali lebih baik dibandingkan baja biasa.
+- **Tahan Rayap:** Baja ringan kebal terhadap serangan rayap, memastikan konstruksi atap Anda tetap kokoh dan awet.
 
 ## Cara Menghitung Luas Rangka Baja Ringan Di PetojoSelatan Jakarta
 
@@ -60,7 +60,6 @@ Berbicara tentang harga jasa pemasangan baja ringan di PetojoSelatan Jakarta, ad
 - Kanopi dengan rangka baja ringan “Gogreen Rp. 200.000 /m
 - Untuk perhitungan lainnya, silakan hubungi kami melalui kontak yang telah kami sediakan di website kami.
 
-
 <table class="table">
   <caption>Detail Biaya Pemasangan Baja Ringan</caption>
   <thead>
@@ -72,7 +71,6 @@ Berbicara tentang harga jasa pemasangan baja ringan di PetojoSelatan Jakarta, ad
     <tr><td>Kanopi Gogreen</td><td>Pemasangan kanopi dengan rangka baja ringan dan atap Gogreen</td><td>Rp. 200.000 /m</td></tr>
   </tbody>
 </table>
-
 
 ### Parameter Besaran Harga Jasa Pasang Baja Ringan
 

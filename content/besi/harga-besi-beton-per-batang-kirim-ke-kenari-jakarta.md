@@ -18,19 +18,19 @@ Dengan tidak adanya besi karenanya sebuah bangunan akan gampang retak ketika ada
 
 ## Inilah Variasi-tipe Besi Di Kenari Jakarta
 
-### 1\. Besi Polos Full 4mm, 6mm, 8mm, 10mm, 12mm, 16mm, 18mm, 19mm Di Kenari Jakarta
+### 1. Besi Polos Full 4mm, 6mm, 8mm, 10mm, 12mm, 16mm, 18mm, 19mm Di Kenari Jakarta
 
 Besi polos mempunyai ukuran mulai dari 8 mm sampai dengan 25 mm dan memiliki 6 meter panjang tekuk dan 12 meter panjang lurus. Besi beton ini telah mulai diterapkan sebagai bahan utama di Indonesia pada tahun 1950. Besi ini acap kali kali digunakan untuk membangun rumah. Bahan yang gampang diaplikasikan sehingga selain diterapkan untuk membangun bangunan beton juga diterapkan untuk membangun trowongan, bendungan, dan lainnya. Saat digunakan untuk membangun bangunan beton bertingkat maka biasanya besi polos ini diterapkan untuk struktur rangkaian besi balok, dinding, dan sloof. Besi beton polos ini memiliki kelebihan besi polos ini tegangannya lebih tinggi dari pada besi lainnya. Jadi besi ini terkesan lebih kuat dan tahan beban. Oleh karena itu pemakaian besi polos ini betul-betul pantas untuk membangun gedung, jembatan, dan bangunan lainnya. Besi polos ini terbuat dari bahan seperti billet dan skrap. Billet yakni baja batangan yang pengerjaan pembuatannya dengan mengecor biji besi. Kalau skrap adalah besi bekas yang dihancurkan dengan temperature tertentu. Selain itu apabila anda menerapkan besi polos ini tidak memerlukan biaya pemeliharaan. Semakin lama digunakan maka besi ini akan kian kokoh.
 
-### 2\. Besi Ulir Banci 4mm, 6mm, 8mm, 10mm, 12mm, 16mm, 18mm, 19mm Di Kenari Jakarta
+### 2. Besi Ulir Banci 4mm, 6mm, 8mm, 10mm, 12mm, 16mm, 18mm, 19mm Di Kenari Jakarta
 
 Selaras dengan namanya besi beton ulir ini yakni besi yang bentuknya mengulir. Pada permukaannya bercorak spiral yang mempunyai tujuan untuk menyatukan tulangan dengan elemen bahan bangunan yang dibentuk oleh besi beton. Besi ulir ini mulai populer diaplikasikan pada abad ke-20 di Amerika dan mulai populer di Indonesia pada tahun1950. Mengingat saat menggunakan besi ulir ini memiliki banyak keunggulan mulai dari kekokohan bangunan serta lebih murah dan efisien. Produk besi ulir ini menjadi primadona pasar sebab memiliki kwalitas yang terbaik di Indonesia dan memiliki harga yang tinggi bila diperbandingkan dengan produk lainnya.
 
-### 3\. Besi WF dan H-Beam Toleransi Di Kenari Jakarta
+### 3. Besi WF dan H-Beam Toleransi Di Kenari Jakarta
 
 Besi Wide Flange (WF) ini merupakan salah satu baja dengan struktural yang paling sering digunakan untuk kontruksi baja. Jika anda membutuhkan besi baja Wide Flage dalam quantitas yang banyak atau sedikit karenanya silahkan cari distributor besi yang terpercaya. Besi WF ini mempunyai kekokohan yang kokoh dan kokoh pada kekuatan tarik atau tekan. Maka dari itu besi ini menjadi faktor struktur yang mempunyai batasan yang sempurna untuk menopang beban tekan aksial, tarik aksial, dan lentur dengan fasilitas pembangunan strukturnya. Baja Wide Flange (WF) ini mempunyai kepadatan yang tinggi tapi rasio berat antara kekuatan komponen Baja WF yang tinggi tetapi tdk begitu berat yang berkaitan dengan kapasitas bobot. Selain itu memastikan sekiranya kontruksi yang diaplikasikan secara efisien. Sistem kontruksi baja WF ini kombinasi dari elemen struktur yang rumit. Pada struktur ini memiliki tujuan membawa bobot yang aman dan efektif yang berefek pada sebuah bangunan dan dikirim pada pondasinya. Gaya dan bobot yang berefek ini termasuk muatan pertikal, perbedaan suhu, horizontal, getaran dan lainnya. Pada sebuah bangunan baja, maka ada unsure yang bermanfaat menopang gaya lateral dan gravitasi.
 
-### 4\. Besi Holow Di Kenari Jakarta
+### 4. Besi Holow Di Kenari Jakarta
 
 Besi hollow ialah besi yang dipakai sebagai pembuatan kanopi, pagar, pintu besi dan lainnya. Bahan baku pembuatan besi Hollow ini lazimnya terbuat dari stainless, galvanis, dan besi baja. Tapi yang paling kerap diterapkan sebagai bahan baku adalah galvanis. Terdapat kelebihan yang anda peroleh saat mengaplikasikan kanopi, menerapkan pagar, teralis mengaplikasikan besi hollow:
 

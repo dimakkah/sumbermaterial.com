@@ -21,13 +21,13 @@ Pemasangan baja ringan untuk bangunan relatif mudah, namun tetap membutuhkan kea
 
 Apa saja alasan yang membuat baja ringan menjadi pilihan tepat? Berikut beberapa pertimbangan penting sebelum menghubungi kami:
 
- Lebih ramah lingkungan karena tidak membutuhkan kayu, yang berarti turut serta dalam melestarikan alam.
- Lebih ekonomis dibandingkan dengan kerangka kayu, karena biaya mendapatkan kayu berkualitas tinggi lebih mahal. Ini adalah pertimbangan penting untuk menekan biaya pembangunan.
- Ringan namun kuat. Baja ringan berbeda dengan baja atau besi yang memiliki berat dua kali lipat. Tipis dan ringan, namun tetap kokoh untuk kerangka atap dan *canopy* rumah Anda.
- Bebas perawatan. Anda tidak perlu khawatir dengan kerusakan kerangka atap, sehingga terbebas dari biaya perawatan tahunan.
- Proses pemasangan cepat. Berbeda dengan kerangka kayu atau material lain yang memakan waktu lama, pemasangan baja ringan relatif lebih cepat.
- Bahan berkualitas tinggi. Baja ringan yang kami gunakan terbuat dari zinc dan aluminium yang sudah memiliki sertifikasi dan standar keamanan 4 kali lebih baik dibandingkan baja biasa. Kuat menahan beban berkilo-kilo.
- Tahan rayap. Kami menjamin kerangka atap dan *canopy* dari baja ringan ini tahan terhadap serangan rayap.
+- Lebih ramah lingkungan karena tidak membutuhkan kayu, yang berarti turut serta dalam melestarikan alam.
+- Lebih ekonomis dibandingkan dengan kerangka kayu, karena biaya mendapatkan kayu berkualitas tinggi lebih mahal. Ini adalah pertimbangan penting untuk menekan biaya pembangunan.
+- Ringan namun kuat. Baja ringan berbeda dengan baja atau besi yang memiliki berat dua kali lipat. Tipis dan ringan, namun tetap kokoh untuk kerangka atap dan *canopy* rumah Anda.
+- Bebas perawatan. Anda tidak perlu khawatir dengan kerusakan kerangka atap, sehingga terbebas dari biaya perawatan tahunan.
+- Proses pemasangan cepat. Berbeda dengan kerangka kayu atau material lain yang memakan waktu lama, pemasangan baja ringan relatif lebih cepat.
+- Bahan berkualitas tinggi. Baja ringan yang kami gunakan terbuat dari zinc dan aluminium yang sudah memiliki sertifikasi dan standar keamanan 4 kali lebih baik dibandingkan baja biasa. Kuat menahan beban berkilo-kilo.
+- Tahan rayap. Kami menjamin kerangka atap dan *canopy* dari baja ringan ini tahan terhadap serangan rayap.
 
 ## Sistem Hitung Luas Rangka Baja Ringan Di Beji Depok
 
@@ -57,10 +57,10 @@ Membahas biaya jasa pasang baja ringan, banyak informasi tersedia di internet. N
 
 (Catatan: harga bisa bervariasi, silakan hubungi kami untuk penawaran terbaru) Berikut perkiraan harga jasa pasang baja ringan berdasarkan jenis pemasangannya:
 
-*   *Canopy* rangka baja ringan “Polikarbonat x Lite: Rp. 285.000 / m²
-*   *Canopy* rangka baja ringan “Spandek: Rp. 225.000 / m²
-*   *Canopy* rangka baja ringan “Gogreen: Rp. 200.000 / m²
-*   Untuk perhitungan lainnya, segera hubungi kami melalui kontak yang tertera di *website* kami.
+- *Canopy* rangka baja ringan “Polikarbonat x Lite: Rp. 285.000 / m²
+- *Canopy* rangka baja ringan “Spandek: Rp. 225.000 / m²
+- *Canopy* rangka baja ringan “Gogreen: Rp. 200.000 / m²
+- Untuk perhitungan lainnya, segera hubungi kami melalui kontak yang tertera di *website* kami.
 
 ### Parameter Besaran Biaya Jasa Pasang Baja Ringan
 
@@ -80,10 +80,10 @@ Setelah sketsa dan perhitungan rangka selesai, Anda dapat mendiskusikan biaya to
 
 Berikut detail harga jasa pasang baja ringan yang perlu Anda ketahui:
 
-*   Harga kami sudah termasuk biaya pemasangan, yang relatif terjangkau dengan banyak penawaran diskon.
-*   Harga yang kami berikan sesuai dengan layanan pemasangan, perhitungan, dan material yang digunakan.
-*   Kami selalu mengutamakan harga terbaik untuk pelanggan.
-*   Biaya jasa pasang baja ringan dapat berubah sewaktu-waktu karena fluktuasi harga material.
-*   Pembayaran dapat dilakukan dengan *down payment* (DP) dan sisanya setelah pemasangan selesai.
+- Harga kami sudah termasuk biaya pemasangan, yang relatif terjangkau dengan banyak penawaran diskon.
+- Harga yang kami berikan sesuai dengan layanan pemasangan, perhitungan, dan material yang digunakan.
+- Kami selalu mengutamakan harga terbaik untuk pelanggan.
+- Biaya jasa pasang baja ringan dapat berubah sewaktu-waktu karena fluktuasi harga material.
+- Pembayaran dapat dilakukan dengan *down payment* (DP) dan sisanya setelah pemasangan selesai.
 
 Sekian informasi mengenai Harga Pasang Atap Baja Ringan Di Beji Depok. Jangan ragu untuk menghubungi Kami untuk konsultasi dan penawaran terbaik! Informasi untuk wilayah lain bisa dilihat pada halaman [pasang atap baja ringan di Abadijaya Depok](/baja-ringan/harga-pasang-atap-baja-ringan-di-abadijaya-depok/).

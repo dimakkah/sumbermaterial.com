@@ -18,19 +18,19 @@ Dengan tidak adanya besi karenanya sebuah bangunan akan mudah retak dikala ada g
 
 ## Megenal Jenis-jenis Besi Di Cikeusal Serang
 
-### 1\. Besi Polos Full 4mm, 6mm, 8mm, 10mm, 12mm, 16mm, 18mm, 19mm Di Cikeusal Serang
+### 1. Besi Polos Full 4mm, 6mm, 8mm, 10mm, 12mm, 16mm, 18mm, 19mm Di Cikeusal Serang
 
 Besi polos memiliki ukuran mulai dari 8 mm sampai 25 mm dan memiliki 6 meter panjang tekuk dan 12 meter panjang lurus. Besi beton ini telah mulai diterapkan sebagai bahan utama di Indonesia pada tahun 1950. Besi ini acap kali kali dipakai untuk membangun rumah. Bahan yang mudah dipakai sehingga selain dari dipakai untuk membangun tempat tinggal juga diaplikasikan untuk membangun trowongan, bendungan, dan lainnya. Saat digunakan untuk membangun bangunan beton bertingkat maka biasanya besi polos ini digunakan untuk struktur tulangan balok, dinding, dan sloof. Besi beton polos ini mempunyai keunggulan besi polos ini tegangannya lebih tinggi dari pada besi lainnya. Jadi besi ini terkesan lebih kokoh dan tahan beban. Sehingga penerapan besi polos ini sungguh-sungguh cocok untuk membangun gedung, jembatan, dan bangunan lainnya. Besi polos ini terbuat dari bahan seperti billet dan skrap. Billet merupakan baja batangan yang proses pembuatannya dengan mengecor biji besi. Bila skrap yaitu besi bekas yang dihancurkan dengan temperature tertentu. Selain dari itu kalau anda mengaplikasikan besi polos ini tdk membutuhkan biaya pemeliharaan. Semakin lama diterapkan maka besi ini akan semakin kokoh.
 
-### 2\. Besi Ulir 4mm, 6mm, 8mm, 10mm, 12mm, 16mm, 18mm, 19mm Di Cikeusal Serang
+### 2. Besi Ulir 4mm, 6mm, 8mm, 10mm, 12mm, 16mm, 18mm, 19mm Di Cikeusal Serang
 
 Cocok dengan namanya besi beton ulir ini ialah besi yang tampilannya mengulir. Pada permukaannya bercorak spiral yang memiliki tujuan untuk menyatukan tulangan dengan unsur bahan bangunan yang dibentuk oleh besi beton. Besi ulir ini mulai populer digunakan pada abad ke-20 di Amerika dan mulai populer di Indonesia pada tahun1950. Mengingat saat mengaplikasikan besi ulir ini mempunyai banyak kelebihan mulai dari kekuatan bangunan serta lebih murah dan efisien. Produk besi ulir ini menjadi paling laris di pasar sebab mempunyai kwalitas yang terbaik di Indonesia dan mempunyai harga yang tinggi sekiranya dibandingi dengan produk lainnya.
 
-### 3\. Besi WF dan H-Beam Banci Di Cikeusal Serang
+### 3. Besi WF dan H-Beam Banci Di Cikeusal Serang
 
 Besi Wide Flange (WF) ini ialah salah satu baja dengan struktural yang paling sering diterapkan untuk kontruksi baja. Apabila anda membutuhkan besi baja Wide Flage dalam jumlah yang banyak atau sedikit maka silahkan cari jual besi yang terpercaya. Besi WF ini memiliki ketahanan yang kokoh dan kuat pada ketahanan tarik atau tekan. Maka dari itu besi ini menjadi unsur struktur yang mempunyai batasan yang sempurna untuk menopang beban tekan aksial, tarik aksial, dan lentur dengan fasilitas pembangunan strukturnya. Baja Wide Flange (WF) ini memiliki kepadatan yang tinggi tetapi rasio berat antara ketahanan komponen Baja WF yang tinggi tapi tidak begitu berat yang terkait dengan kapasitas bobot. Selain dari itu memastikan seandainya kontruksi yang diterapkan secara efisien. Sistem kontruksi baja WF ini kombinasi dari faktor struktur yang rumit. Pada struktur ini mempunyai tujuan membawa beban yang aman dan tepat sasaran yang berefek pada sebuah bangunan dan dikirim pada pondasinya. Gaya dan beban yang bekerja ini termasuk bobot pertikal, perbedaan temperatur, horizontal, getaran dan lainnya. Pada sebuah bangunan baja, maka ada unsure yang berguna menopang gaya lateral dan gravitasi.
 
-### 4\. Besi Holo Di Cikeusal Serang
+### 4. Besi Holo Di Cikeusal Serang
 
 Besi hollow merupakan besi yang dipakai sebagai pembuatan kanopi, pagar, pintu besi dan lainnya. Bahan baku pembuatan besi Hollow ini biasanya terbuat dari stainless, galvanis, dan besi baja. Tapi yang paling kerap diterapkan sebagai bahan baku yakni galvanis. Terdapat kelebihan yang anda dapatkan saat mengaplikasikan kanopi, mengaplikasikan pagar, teralis memakai besi hollow:
 

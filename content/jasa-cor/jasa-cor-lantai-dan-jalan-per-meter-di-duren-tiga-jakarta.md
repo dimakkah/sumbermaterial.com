@@ -22,31 +22,31 @@ Metode pengecoran sendiri terbagi menjadi dua bagian, yaitu metode konvesional d
 
 **• metode traditional terdiri atas beberapa macam:**
 
-1\. Dry-Sand Casting
+1. Dry-Sand Casting
 
-2\. Full-Mold Casting
+2. Full-Mold Casting
 
-3\. Sand-Mold Casting
+3. Sand-Mold Casting
 
-4\. Vacuum-Mold Casting
+4. Vacuum-Mold Casting
 
-5\. Shell-Mold Casting
+5. Shell-Mold Casting
 
-6\. Cement-Mold Casting
+6. Cement-Mold Casting
 
 **• metode non traditional terdiri dari:**
 
-1\. Centrifugal Casting
+1. Centrifugal Casting
 
-2\. Investment Casting
+2. Investment Casting
 
-3\. Permanent-Mold Casting
+3. Permanent-Mold Casting
 
-4\. High-Pressure Die Casting
+4. High-Pressure Die Casting
 
-5\. Plaster-Mold Casting
+5. Plaster-Mold Casting
 
-6\. Solid-Ceramic Casting
+6. Solid-Ceramic Casting
 
 Sebenarnya, baik teknik konvesional ataupun non konvesional sama – sama mempunyai kwalitas yang bagus untuk sistem pengecoran. Secara mendasar perbedaan antara teknik traditional dan non konvesional terdapat pada sebuah contemporary casting yang tidak bergantung pada pasir dalam pembuatan cetakannya. Selain itu, temporary yang terdapat pada pengecoran akan di gunakan utk mendapatkan suatu produk berdasarkan geometriyang kecil. hingga, cukup relatif dibandingkan jika menggunakan traditional casting. Dimana, Hasil coran non konvesional casting tidak perlu memerlukan cara tambahan dalam menyelesaikan sebuah permukaan. Sebagaimana di ketahui, jika jenis logam yang akan di lakukan pengecoran kebanyakan mempergunakan logam besi secara bersama-sama. Hal ini di lakukan dengan memanfaatkan aluminium, kuningan, perak, dan beberapa material non logam lainnya. Sistem pengecoran sudah mempunyai mekanisme yg lumayan sederhana. Inilah kenapa banyak yang menawarkan jasa pengecoran. Jasa pengecoran memang sangat mudah di temukan. Di setiap sosial media Anda bisa melihat banyak iklan yang menawarkan jasa penyecoran. Hal ini tentu saja akan membuat Anda mudah memperoleh jasa pengecoran. Semakin banyaknya yang menawarkan, maka sebaiknya anda teliti dalam memakai jasa pengecoran. Dengan keahilan yg di milikinya, maka para jasa pengecoran mampu lebih mudah dalam melakukan tahapan pengecoran secara sempurna. Hakikatnya, ada banyak jenis pengecoran yang di tawarkan oleh jasa pengecoran. Inilah beberapa jenis pengecoran dari Jasa Cor Lantai dan Jalan Per Meter Di Duren Tiga Jakarta:
 
@@ -54,17 +54,17 @@ Sebenarnya, baik teknik konvesional ataupun non konvesional sama – sama mempun
 
 Jikalau anda berencana hendak menjalankan pengecoran dak rumah atau ruko bangunan anda atau juga hendak menambah lantai bangunan anda, sudah tepat anda berkunjung ke laman kami. Sebab kami ialah jasanya yang sudah berpengalaman bertahun tahun. Kami siap melayani pelaksanaan mulai dari nol sampai tuntas dengan harga yang pasti ideal sesuai dengan budget dana anda. Adapun pengerjaan atau tahapan pengecoran yang kami lakukan ialah.
 
-1\. Kuesioner dan Pengevaluasian lahan untuk menetapkan kebutuhan biayanya
+1. Kuesioner dan Pengevaluasian lahan untuk menetapkan kebutuhan biayanya
 
-2\. Membuat design dan perencanaan
+2. Membuat design dan perencanaan
 
-3\. Perhitungan biaya pengecoran
+3. Perhitungan biaya pengecoran
 
-4\. Eksekusi mulai dengan pemasangan bekisting, pembesian dan pemasangan pelastik cor
+4. Eksekusi mulai dengan pemasangan bekisting, pembesian dan pemasangan pelastik cor
 
-5\. Tingkatan penuangan cor
+5. Tingkatan penuangan cor
 
-6\. Pembongkaran coran yang telah kering dan selesai
+6. Pembongkaran coran yang telah kering dan selesai
 
 ## Jasa Pengecoran Investment Casting Beton Dari Jasa Cor Lantai dan Jalan Per Meter Di Duren Tiga Jakarta
 

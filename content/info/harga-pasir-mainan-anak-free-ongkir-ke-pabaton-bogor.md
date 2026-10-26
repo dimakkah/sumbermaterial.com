@@ -25,7 +25,7 @@ Berdasarkan Standar Nasional Indonesia ( SK SNI - S - 04 - 1989 - F ; 28) di tut
 
 Prasyarat Pasir yg Baik tuk Bangunan
 
-1.  Agregat Halus patut terdiri dari butiran yang tajam dan keras dengan indeks kekerasan <2.2
+1.  Agregat Halus patut terdiri dari butiran yang tajam dan keras dengan indeks kekerasan <2.2
 2. bilamana dimanfaatkan Natrium Sulfat bagian hancur maksimal dua belas persen
 3. bila dipakai Magnesium Sulfat komponen halus maksimal 10%
 4. Tidak boleh mengandung tanah lebih dari 5 persen
@@ -41,7 +41,6 @@ Prasyarat Pasir yg Baik tuk Bangunan
 Setelah memahami prasyarat pasir buat suatu Bangunan, pada saat ini kita bahas Macam - Jenis Pasir Untuk Konstruksi Bangunan penjelasan nya berikut ini:
 
 - ### Pasir Untuk Beton Di Pabaton Bogor
-    
 
 Pasir ini umum nya berwarna hitam pekat dan tingkat pecahan butiran nya cukup tinggi. Tapi apabila anda mengepal nya dengan tangan tidak akan lengket dan akan hancur kembali. macam pasir ini benar-benar lah bagus tuk Pengecoran, Plesteran Dinding, Adukan Pondasi dan Adukan Pasangan Bata Pasir ini yaitu pasir untuk Cor merupakan butiran-butiran mineral keras dan tajam berukuran antara 0,075 – 5 mm, bila terdapat butiran berukuran lebih kecil dari 0,063 mm tak lebih dari 5% berat. Pasir ini yaitu pasir untuk Beton kerap diaplikasikan untuk pekerjaan cor-coran struktur seperti kolom, balok dan pelat lantai.
 
@@ -59,21 +58,18 @@ Untuk memperoleh kualitas Rigid yang maksimal karenanya pasir patut dapat memenu
 ![Harga Pasir Mainan Anak Free Ongkir Ke Pabaton Bogor](/images/info/pasir-hitam-8.jpg)
 
 - ### Pasir Untuk Pemasangan Batu, Pondasi, Bata, Ubin, Plester Di Pabaton Bogor
-    
 
 ![Harga Pasir Mainan Anak Free Ongkir Ke Pabaton Bogor](/images/info/pasir-putih3.jpg)
 
 Pasir ini lebih halus lagi diperbandingkan oleh pasir beton. jika anda mengepal pasir ini maka akan menggumpal dan tak akan hancur kembali. pasir pasang lazim nya di gunakan tuk adukan pasir beton supaya tak terlalu kasar dan bisa di pakai untuk plesteran dinding.
 
 - ### Pasir Urug Untuk Pembuatan Batako Di Pabaton Bogor
-    
 
 Di Antara ke dua pasir diatas pasir jenis ini lebih halus lagi, apabila anda mengepal nya akan menggumpal dan tidak akan hancur lagi. melainkan pasir macam
 
 Pada lazim nya pasir ini nyaris sama dgn pasir beton akan tetapi pasir ini memiliki tingkat kekasaran yang tinggi, butiran - butiran nya cukup besar dan agak banyak batuan nya. pada biasanya pasir model ini baik tuk bahan Pembuatan Batako
 
 - ### Pasir Putih Bebas Lumpur Untuk Taman Bermain Di Pabaton Bogor
-    
 
 1. **Pasir Putih Bangka**
 

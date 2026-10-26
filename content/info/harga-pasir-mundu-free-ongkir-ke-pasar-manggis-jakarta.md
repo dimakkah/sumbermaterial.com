@@ -25,7 +25,7 @@ Menurut Standar Nasional Indonesia ( SK SNI - S - 04 - 1989 - F ; 28) di tuturka
 
 Syarat-Syarat Pasir yg Baik tuk Konstruksi Bangunan
 
-1.  Agregat Halus wajib terdiri dari butiran yang tajam dan keras dengan indeks kekerasan <2.2
+1.  Agregat Halus wajib terdiri dari butiran yang tajam dan keras dengan indeks kekerasan <2.2
 2. kalau dimanfaatkan Natrium Sulfat bagian hancur maksimal dua belas persen
 3. kalau diterapkan Magnesium Sulfat bagian halus optimal 5 persen
 4. Tak boleh mengandung tanah lebih dari 5%
@@ -41,7 +41,6 @@ Syarat-Syarat Pasir yg Baik tuk Konstruksi Bangunan
 Sesudah tahu persis prasyarat pasir untuk sebuah Konstruksi, sekarang ini kita bahas model - Tipe Pasir Untuk Konstruksi Bangunan penjelasan nya sbb:
 
 - ### Pasir Jenis Rigid dan Tempat Pengambilannya Di Pasar Manggis Jakarta
-    
 
 Pasir ini umum nya berwarna hitam kemerahan dan tingkat kekerasan butiran nya lumayan tinggi. Tapi kalau anda mengepal nya dengan tangan tidak akan menggumpal dan akan buyar kembali. model pasir ini amat lah baik buat Pengecoran, Plesteran Dinding, Adukan Pondasi dan Adukan Pasangan Bata Pasir ini yaitu pasir untuk Beton adalah butiran-butiran mineral keras dan tajam berukuran antara 0,075 – 5 mm, jika terdapat butiran berukuran lebih kecil dari 0,063 mm tak lebih dari 5% berat. Pasir ini yaitu pasir untuk Beton hampir kerap diaplikasikan untuk profesi cor-coran struktur seperti kolom, balok dan pelat lantai.
 
@@ -59,21 +58,18 @@ Untuk mendapat kualitas Cor yang optimal maka pasir seharusnya bisa memenuhi pra
 ![Harga Pasir Mundu Free Ongkir Ke Pasar Manggis Jakarta](/images/info/jual-pasir-cor-hitam.jpg)
 
 - ### Pasir Untuk Pemasangan Batu, Pondasi, Bata, Ubin, Plester Di Pasar Manggis Jakarta
-    
 
 ![Harga Pasir Mundu Free Ongkir Ke Pasar Manggis Jakarta](/images/info/jual-pasir-mundu-2.jpg)
 
 Pasir ini lebih halus lagi dibandingi oleh pasir beton. apabila kalian mengepal pasir ini karenanya akan menggumpal dan tidak akan hancur kembali. pasir pasang lazim nya di gunakan tuk campuran pasir beton agar tak kelewat kasar dan bisa di manfaatkan untuk plesteran dinding.
 
 - ### Pasir Urug Untuk Pembuatan Batako Di Pasar Manggis Jakarta
-    
 
 Di Antara ke dua pasir diatas pasir macam ini lebih halus lagi, apabila anda mengepal nya akan menggumpal dan tak akan hancur lagi. tapi pasir jenis
 
 Pada lazim nya pasir ini nyaris sama dgn pasir beton melainkan pasir ini mempunyai tingkat kekasaran yang tinggi, butiran - butiran nya cukup besar dan agak banyak batuan nya. pada lazimnya pasir macam ini bagus untuk bahan pengurugan lantai
 
 - ### Pasir Putih Tanpa Batu Untuk Pasang Keramik Di Pasar Manggis Jakarta
-    
 
 1. **Pasir Putih Bangka**
 

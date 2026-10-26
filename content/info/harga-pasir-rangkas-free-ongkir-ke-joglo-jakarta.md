@@ -25,7 +25,7 @@ Menurut Standar Nasional Indonesia ( SK SNI - S - 04 - 1989 - F ; 28) di sebutka
 
 Syarat-Syarat Pasir yang Baik buat Konstruksi
 
-1.  Agregat Halus mesti terdiri dari butiran yg tajam dan keras dengan indeks kekerasan <2.2
+1.  Agregat Halus mesti terdiri dari butiran yg tajam dan keras dengan indeks kekerasan <2.2
 2. bilamana diaplikasikan Natrium Sulfat komponen hancur maksimal 12%
 3. jika dipakai Magnesium Sulfat komponen halus optimal sepuluh %
 4. Tak boleh mengandung clay lebih dari lima persen
@@ -41,7 +41,6 @@ Syarat-Syarat Pasir yang Baik buat Konstruksi
 Sesudah memahami syarat pasir untuk sebuah Konstruksi, saat ini kita bahas Ragam - Tipe Pasir Untuk Bangunan penjelasan nya sebagai berikut:
 
 - ### Pasir untuk Cor Rigid Di Joglo Jakarta
-    
 
 Pasir ini biasa nya berwarna keabu-abuan dan tingkat kekerasan butiran nya cukup tinggi. Namun sekiranya anda mengepal nya dengan tangan tidak akan menggumpal dan akan hancur kembali. jenis pasir ini benar-benar lah bagus untuk Pengecoran, Plesteran Dinding, Adukan Pondasi dan Adukan Pasangan Bata Pasir ini yaitu pasir untuk Rigid merupakan butiran-butiran mineral keras dan tajam berukuran antara 0,075 – 5 mm, bila terdapat butiran berukuran lebih kecil dari 0,063 mm tidak lebih dari 5% berat. Pasir ini yaitu pasir untuk Rigid hampir sering kali dipakai untuk profesi cor-coran struktur seperti kolom, balok dan pelat lantai.
 
@@ -59,21 +58,18 @@ Untuk mendapatkan kekokohan Rigid yang maksimal maka pasir semestinya mampu meme
 ![Harga Pasir Rangkas Free Ongkir Ke Joglo Jakarta](/images/info/pasir-hitam-7.jpg)
 
 - ### Pasir Standar Di Joglo Jakarta
-    
 
 ![Harga Pasir Rangkas Free Ongkir Ke Joglo Jakarta](/images/info/pasir-hitam-4.jpg)
 
 Pasir ini lebih halus lagi dibandingkan oleh pasir beton. seandainya anda mengepal pasir ini karenanya akan menggumpal dan tidak akan buyar kembali. pasir pasang umum nya di manfaatkan tuk campuran pasir beton agar tak terlalu kasar dan dapat di manfaatkan untuk plesteran dinding.
 
 - ### Pasir Elod Untuk Dasaran Pemasangan Granit Di Joglo Jakarta
-    
 
 Di Antara ke dua pasir diatas pasir jenis ini lebih halus lagi, apabila kamu mengepal nya akan menggumpal dan tak akan hancur lagi. tapi pasir macam
 
 Pada nya pasir ini nyaris sama dgn pasir beton tetapi pasir ini mempunyai tingkat kekasaran yg tinggi, butiran - butiran nya lumayan besar dan agak banyak batuan nya. pada biasanya pasir jenis ini bagus untuk bahan Pembuatan Batako
 
 - ### Pasir Putih Halus Untuk Lapangan Voly Di Joglo Jakarta
-    
 
 1. **Pasir Putih Bangka**
 

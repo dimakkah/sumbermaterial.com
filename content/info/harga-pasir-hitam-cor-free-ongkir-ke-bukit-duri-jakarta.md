@@ -25,7 +25,7 @@ Menurut Standar Nasional Indonesia ( SK SNI - S - 04 - 1989 - F ; 28) di sebutka
 
 Persyaratan Pasir yang Baik Untuk Bangunan
 
-1.  Agregat Halus seharusnya terdiri dari butiran yg tajam dan keras dengan indeks kekerasan <2.2
+1.  Agregat Halus seharusnya terdiri dari butiran yg tajam dan keras dengan indeks kekerasan <2.2
 2. Apabila digunakan Natrium Sulfat bagian hancur optimal dua belas persen
 3. jikalau digunakan Magnesium Sulfat bagian halus optimal sepuluh %
 4. Tidak boleh memuat lumpur lebih dari 5%
@@ -41,7 +41,6 @@ Persyaratan Pasir yang Baik Untuk Bangunan
 setelah mengenal prasyarat pasir tuk suatu Bangunan, sekarang ini kita bahas Jenis - Tipe Pasir Untuk Konstruksi penjelasan nya sbb:
 
 - ### Pasir Untuk Beton Di Bukit Duri Jakarta
-    
 
 Pasir ini lazim nya berwarna coklat tua dan tingkat kekerasan butiran nya cukup tinggi. Tapi jikalau anda mengepal nya dengan tangan tak akan menggumpal dan akan buyar kembali. model pasir ini benar-benar lah baik buat Pengecoran, Plesteran Dinding, Adukan Pondasi dan Adukan Pasangan Bata Pasir ini yaitu pasir untuk Rigid merupakan butiran-butiran mineral keras dan tajam berukuran antara 0,075 – 5 mm, apabila terdapat butiran berukuran lebih kecil dari 0,063 mm tak lebih dari 5% berat. Pasir ini yaitu pasir untuk Beton hampir tak jarang diaplikasikan untuk pekerjaan cor-coran struktur seperti kolom, balok dan pelat lantai.
 
@@ -59,21 +58,18 @@ Untuk menerima kualitas Beton yang maksimal maka pasir semestinya dapat memenuhi
 ![Harga Pasir Hitam Cor Free Ongkir Ke Bukit Duri Jakarta](/images/info/pasir-hitam-1.jpg)
 
 - ### Pasir Biasa Di Bukit Duri Jakarta
-    
 
 ![Harga Pasir Hitam Cor Free Ongkir Ke Bukit Duri Jakarta](/images/info/jual-pasir-mundu.jpg)
 
 Pasir ini ekstra halus lagi dibandingkan oleh pasir beton. jikalau kalian mengepal pasir ini maka akan menggumpal dan tak akan buyar kembali. pasir pasang lazim nya di manfaatkan buat adukan pasir beton supaya tak terlampau kasar dan dapat di manfaatkan untuk plesteran dinding.
 
 - ### Pasir Elod Untuk pengurugan lantai Di Bukit Duri Jakarta
-    
 
 Di Antara ke dua pasir diatas pasir jenis ini lebih halus lagi, sekiranya anda mengepal nya maka akan menggumpal dan tak akan buyar lagi. namun pasir ragam tak baik tuk di buat sebagai bahan bangunan. pasir ragam ini pada nya di pergunakan tuk Bahan Pembuatan Batako
 
 Pada nya pasir ini nyaris sama dgn pasir beton namun pasir ini memiliki tingkat kekasaran yg tinggi, butiran - butiran nya cukup besar dan agak banyak batuan nya. pada biasanya pasir model ini baik untuk bahan pemadatan lantai
 
 - ### Pasir Putih Tanpa Ayak Untuk Pasang Lantai Marmer Di Bukit Duri Jakarta
-    
 
 1. **Pasir Putih Bangka**
 

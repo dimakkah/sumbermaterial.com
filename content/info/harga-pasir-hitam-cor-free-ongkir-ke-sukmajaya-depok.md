@@ -25,7 +25,7 @@ menurut Standar Nasional Indonesia ( SK SNI - S - 04 - 1989 - F ; 28) di sebutka
 
 Syarat-Syarat Pasir yg Baik tuk Konstruksi
 
-1.  Agregat Halus sepatutnya terdiri dari butiran yang tajam dan keras dengan indeks kekerasan <2.2
+1.  Agregat Halus sepatutnya terdiri dari butiran yang tajam dan keras dengan indeks kekerasan <2.2
 2. bilamana dipakai Natrium Sulfat komponen hancur optimal dua belas persen
 3. kalau diterapkan Magnesium Sulfat komponen halus optimal sepuluh persen
 4. Tak boleh berisi tanah lebih dari 5%
@@ -41,7 +41,6 @@ Syarat-Syarat Pasir yg Baik tuk Konstruksi
 setelah memahami syarat pasir tuk sebuah Konstruksi, sekarang ini kita bahas model - model Pasir Untuk Konstruksi Bangunan penjelasan nya sbb:
 
 - ### Pasir Tipe Rigid dan Tempat Sumbernya Di Sukmajaya Depok
-    
 
 Pasir ini biasa nya berwarna hitam gelap dan tingkat kekerasan butiran nya cukup tinggi. Namun apabila anda mengepal nya dengan tangan tidak akan lengket dan akan hancur kembali. ragam pasir ini sungguh-sungguh lah baik untuk Pengecoran, Plesteran Dinding, Adukan Pondasi dan Adukan Pasangan Bata Pasir ini yaitu pasir untuk Rigid merupakan butiran-butiran mineral keras dan tajam berukuran antara 0,075 – 5 mm, jikalau terdapat butiran berukuran lebih kecil dari 0,063 mm tak lebih dari 5% berat. Pasir ini yaitu pasir untuk Beton acap kali diaplikasikan untuk profesi cor-coran struktur seperti kolom, balok dan pelat lantai.
 
@@ -59,21 +58,18 @@ Untuk mendapat ketahanan Rigid yang maksimal maka pasir semestinya mampu memenuh
 ![Harga Pasir Hitam Cor Free Ongkir Ke Sukmajaya Depok](/images/info/pasir-hitam-8.jpg)
 
 - ### Pasir Untuk Pemasangan Batu, Pondasi, Bata, Ubin, Plester Di Sukmajaya Depok
-    
 
 ![Harga Pasir Hitam Cor Free Ongkir Ke Sukmajaya Depok](/images/info/jual-pasir-mundu.jpg)
 
 Pasir ini lebih halus lagi dibandingkan oleh pasir beton. bila anda mengepal pasir ini karenanya akan menggumpal dan tak akan buyar kembali. pasir pasang biasa nya di manfaatkan tuk campuran pasir beton agar tak terlalu kasar dan bisa di gunakan untuk plesteran dinding.
 
 - ### Pasir Urug Untuk pengurugan lantai Di Sukmajaya Depok
-    
 
 Di Antara ke dua pasir diatas pasir macam ini lebih halus lagi, jika kalian mengepal nya maka akan menggumpal dan tak akan hancur lagi. melainkan pasir jenis
 
 Pada biasa nya pasir ini nyaris sama dgn pasir beton melainkan pasir ini mempunyai tingkat kekasaran yang tinggi, butiran - butiran nya cukup besar dan agak banyak batuan nya. pada umumnya pasir model ini baik tuk bahan pemadatan lantai
 
 - ### Pasir Putih Halus Untuk Taman Bermain Di Sukmajaya Depok
-    
 
 1. **Pasir Putih Bangka**
 

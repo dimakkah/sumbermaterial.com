@@ -25,7 +25,7 @@ menurut Standar Nasional Indonesia ( SK SNI - S - 04 - 1989 - F ; 28) di tuturka
 
 Persyaratan Pasir yg Bagus buat Bangunan
 
-1.  Agregat Halus wajib terdiri dari butiran yg tajam dan keras dengan indeks kekerasan <2.2
+1.  Agregat Halus wajib terdiri dari butiran yg tajam dan keras dengan indeks kekerasan <2.2
 2. bilamana dipakai Natrium Sulfat bagian hancur maksimal 12%
 3. Seandainya diaplikasikan Magnesium Sulfat komponen halus maksimal sepuluh persen
 4. Tidak boleh memuat lumpur lebih dari lima persen
@@ -41,7 +41,6 @@ Persyaratan Pasir yg Bagus buat Bangunan
 Sesudah memahami syarat pasir tuk suatu Konstruksi Bangunan, saat ini kita bahas Tipe - Macam Pasir Untuk Konstruksi Bangunan penjelasan nya sebagai berikut:
 
 - ### Pasir Rigid Di Sukadamai Bogor
-    
 
 Pasir ini lazim nya berwarna hitam pekat dan tingkat kekerasan butiran nya lumayan tinggi. Melainkan sekiranya anda mengepal nya dengan tangan tak akan lengket dan akan buyar kembali. ragam pasir ini benar-benar lah baik tuk Pengecoran, Plesteran Dinding, Adukan Pondasi dan Adukan Pasangan Bata Pasir ini yaitu pasir untuk Cor yaitu butiran-butiran mineral keras dan tajam berukuran antara 0,075 – 5 mm, kalau terdapat butiran berukuran lebih kecil dari 0,063 mm tidak lebih dari 5% berat. Pasir ini yaitu pasir untuk Rigid kerap dipakai untuk pekerjaan cor-coran struktur seperti kolom, balok dan pelat lantai.
 
@@ -52,9 +51,9 @@ Harga Pasir Rangkas Free Ongkir Ke Sukadamai Bogor Bila anda sebagai konsumen /p
 Pasir nomor satu diambil dari kp. jebrod cianjur jawa barat yang diaplikasikan oleh indocement serta perusahaan batching plant lainnya sebagai bahan dasar produksi readymix concrete. Pasir ini paling dianjurkan untuk cor sebab irit semen juga mempunyai kandungan lumpur yang sungguh-sungguh rendah dibawah delapan persen. warnanya Hitam abu tua atau hitam seperti hitamnya batu kali, ada juga yang hitam kemerahan atau hitam terasi
 
 3. **Pasir Hitam Rigid Cimangkok.** Pasir dari Lokasi penambangannya di cimangkok sukabumi jabar yang masih masuk terhadap kategori pasir hitam No. 1 di jabar, warnanya hitam kecoklatan sesuai untuk cor, pasang pondasi dan bata
-    
+
     ![Harga Pasir Rangkas Free Ongkir Ke Sukadamai Bogor](/images/info/pasir-hitam-2.jpg)
-    
+
 4. **Pasir Hitam Cor Cimalaka Subang Bandung.**
 
 Pasir kelas satu yang berwarna hitam kebauan ada juga yang berwarna hitam abu tua. Banyak di pakai untuk Cor, pasang dan keperluan lainnya. Ditambang di kampung cimalaka
@@ -90,9 +89,9 @@ Kecuali Rangkasbitung, Banten juga mempunyai lokasi pnembangan pasir lain sepert
 Masih dari Daerah di banten, pasir kelas tiga ini yaitu pasir yang banyak diterapkan di proyek proyek perumahan atau cluster sebab harganya yang murah juga kwalitas yang bagus. Warna pasir ini hitam kecoklatan dan keabuan benar-benar disarankan untuk pasang pondasi, bata, batu dan lainnya
 
 27. **Pasir Hitam Beton Bohlam Sukabumi.** Pasir dari Lokasi kp. bohlam di sukabumi berwarna hitam kecoklatan, betul-betul bagus untuk pasang bata, pondasi dan sebagainya sebagai pilihan pasir mutu bagus dan ekonomis
-    
+
     ![Harga Pasir Rangkas Free Ongkir Ke Sukadamai Bogor](/images/info/pasir-hitam-8.jpg)
-    
+
 28. **Pasir Rigid Galunggung.**
 
 Pasir ini yakni pasir hitam kwalitas paling unggul dikelasnya umum digunakan oleh pabrik pengolahan beton readymix juga perusahan pembuatan precast dan tak jarang juga diterapkan untuk bahan pembuatan batako press hitam, paving block dan sebagainya. Pasir ini ditambang dari Tasikmalaya jabar.
@@ -100,21 +99,18 @@ Pasir ini yakni pasir hitam kwalitas paling unggul dikelasnya umum digunakan ole
 ![Harga Pasir Rangkas Free Ongkir Ke Sukadamai Bogor](/images/info/pasir-hitam-8.jpg)
 
 - ### Pasir Untuk Pemasangan Batu, Pondasi, Bata, Ubin, Plester Di Sukadamai Bogor
-    
 
 ![Harga Pasir Rangkas Free Ongkir Ke Sukadamai Bogor](/images/info/pasir-hitam-11.jpg)
 
 Pasir ini ekstra halus lagi dibandingkan oleh pasir beton. jikalau anda mengepal pasir ini maka akan menggumpal dan tak akan buyar kembali. pasir pasang biasa nya di pakai untuk adukan pasir beton agar tak terlalu kasar dan dapat di manfaatkan untuk plesteran dinding.
 
 - ### Pasir Urug Untuk pengurugan lantai Di Sukadamai Bogor
-    
 
 Di Antara ke dua pasir diatas pasir macam ini lebih halus lagi, jikalau anda mengepal nya akan menggumpal dan tidak akan hancur lagi. melainkan pasir ragam tak baik untuk di buat sebagai bahan bangunan. pasir model ini pada umum nya di pergunakan untuk Bahan Pembuatan Batako
 
 Pada lazim nya pasir ini nyaris sama dengan pasir beton melainkan pasir ini memiliki tingkat kekasaran yg tinggi, butiran - butiran nya cukup besar dan agak banyak batuan nya. pada umumnya pasir ragam ini baik tuk bahan pemadatan lantai
 
 - ### Pasir Putih Kadar Lumpur Rendah Untuk Lapangan Voly Di Sukadamai Bogor
-    
 
 1. **Pasir Putih Bangka**
 

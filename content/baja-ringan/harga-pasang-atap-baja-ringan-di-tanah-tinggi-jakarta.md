@@ -21,13 +21,13 @@ Pemasangan baja ringan tidak sesulit yang dibayangkan. Anda tidak perlu repot me
 
 Berikut adalah beberapa alasan kuat mengapa Anda wajib memilih baja ringan sebagai kerangka atap dan kanopi bangunan Anda:
 
- **Ramah Lingkungan:** Anda tidak perlu menebang pohon untuk mendapatkan kayu. Dengan memilih baja ringan, Anda turut berkontribusi dalam melestarikan alam.
- **Lebih Ekonomis:** Dibandingkan dengan kerangka kayu, baja ringan jauh lebih terjangkau, terutama untuk komponen utama kerangka. Ini penting untuk menekan biaya pembangunan secara keseluruhan.
- **Ringan & Kuat:** Baja ringan berbeda dengan baja atau besi konvensional yang beratnya dua kali lipat. Ketebalannya yang tipis membuatnya ringan, namun tetap sangat kuat untuk menopang atap dan kanopi rumah Anda.
- **Perawatan Minimal:** Anda tidak perlu khawatir tentang perawatan rutin. Baja ringan tahan terhadap hama dan cuaca ekstrem, sehingga bebas dari masalah perawatan tahunan.
- **Pemasangan Cepat:** Proses pemasangan baja ringan jauh lebih cepat dibandingkan bahan lain seperti kayu. Anda bisa menghemat waktu dan tenaga.
- **Kualitas Terjamin:** Baja ringan yang kami gunakan adalah produk bersertifikasi dengan standar keamanan 4 kali lebih baik dari baja biasa. Material ini memiliki daya tahan tinggi, mampu menopang beban berat tanpa masalah.
- **Tahan Rayap:** Baja ringan 100% tahan terhadap serangan rayap, menjamin keamanan dan keawetan bangunan Anda.
+- **Ramah Lingkungan:** Anda tidak perlu menebang pohon untuk mendapatkan kayu. Dengan memilih baja ringan, Anda turut berkontribusi dalam melestarikan alam.
+- **Lebih Ekonomis:** Dibandingkan dengan kerangka kayu, baja ringan jauh lebih terjangkau, terutama untuk komponen utama kerangka. Ini penting untuk menekan biaya pembangunan secara keseluruhan.
+- **Ringan & Kuat:** Baja ringan berbeda dengan baja atau besi konvensional yang beratnya dua kali lipat. Ketebalannya yang tipis membuatnya ringan, namun tetap sangat kuat untuk menopang atap dan kanopi rumah Anda.
+- **Perawatan Minimal:** Anda tidak perlu khawatir tentang perawatan rutin. Baja ringan tahan terhadap hama dan cuaca ekstrem, sehingga bebas dari masalah perawatan tahunan.
+- **Pemasangan Cepat:** Proses pemasangan baja ringan jauh lebih cepat dibandingkan bahan lain seperti kayu. Anda bisa menghemat waktu dan tenaga.
+- **Kualitas Terjamin:** Baja ringan yang kami gunakan adalah produk bersertifikasi dengan standar keamanan 4 kali lebih baik dari baja biasa. Material ini memiliki daya tahan tinggi, mampu menopang beban berat tanpa masalah.
+- **Tahan Rayap:** Baja ringan 100% tahan terhadap serangan rayap, menjamin keamanan dan keawetan bangunan Anda.
 
 ## Metode Hitung Luas Rangka Baja Ringan Di Tanah Tinggi Jakarta
 
@@ -60,15 +60,15 @@ Membahas harga jasa pasang baja ringan, informasi di internet memang banyak. Nam
 
 ### Parameter Penting dalam Menentukan Biaya Jasa Pasang Baja Ringan
 
-### 1. Pembuatan Sketsa Desain
+#### 1. Pembuatan Sketsa Desain
 
 Harga juga dipengaruhi oleh desain bangunan Anda. Tim teknisi kami akan membuat sketsa desain di lokasi Anda untuk memastikan kebutuhan material yang tepat dan menghindari pemborosan. Pembuatan sketsa juga termasuk dalam perhitungan harga yang kami berikan.
 
-### 2. Perhitungan Kebutuhan Rangka
+#### 2. Perhitungan Kebutuhan Rangka
 
 Setelah Anda memiliki sketsa pemasangan, kami akan menghitung kebutuhan rangka untuk memperkirakan volume baja ringan yang diperlukan. Jangan ragu untuk berkonsultasi dengan tim kami mengenai waktu pengerjaan dan kualitas material yang sesuai dengan kebutuhan Anda.
 
-### 3. Perhitungan Budget yang Dibutuhkan
+#### 3. Perhitungan Budget yang Dibutuhkan
 
 Setelah sketsa dan perhitungan rangka selesai, kami akan memberikan perhitungan budget total untuk pemasangan baja ringan. Budget ini akan didasarkan pada jumlah rangka, luas area atap, material tambahan, biaya tenaga kerja, dan pengiriman. Mintalah rincian harga yang jelas agar Anda dapat mempersiapkan budget dengan baik. Anda juga dapat memilih jenis baja ringan, mulai dari yang standar hingga yang berkualitas tinggi, sesuai dengan anggaran Anda.
 

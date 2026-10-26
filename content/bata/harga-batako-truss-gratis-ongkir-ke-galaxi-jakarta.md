@@ -16,7 +16,7 @@ sekarang ini material yg diaplikasikan untuk mengisi tembok bangunan, telah terd
 
 ## Mengetahui Tipe-tipe Bata
 
-### 1\. Bata Merah Standar & Jumbo Di Galaxi Jakarta
+### 1. Bata Merah Standar & Jumbo Di Galaxi Jakarta
 
 ![Harga Batako Truss Gratis Ongkir Ke Galaxi Jakarta](/images/bata/bata-merah-oven-35.png)
 
@@ -26,7 +26,7 @@ Bata merah ini diciptakan dari material tanah yang kemudian di cetak dan dioven 
 
 Bahan bangunan ini betul-betul kuat terhadap panas dan pantas dibuat proteksi dari panas api. Bata merah ini pada umumnya memiliki ukuran panjang antara 17-23 cm dan lebar sekitar 7-11 cm, serta tebalnya 3-5 cm. mempunyai ukuran yang lebih kecil akan memberi kemudahan dalam progres pengangkutan dan bisa digunakan untuk membentuk bidang kecil.
 
-### 2\. Batako Hitam dan Putih Di Galaxi Jakarta
+### 2. Batako Hitam dan Putih Di Galaxi Jakarta
 
 ![Harga Batako Truss Gratis Ongkir Ke Galaxi Jakarta](/images/bata/batako-hitam-press-27.png)
 
@@ -34,7 +34,7 @@ Material bangunan tembok dari batako ini secara lazimnya terbuat dari material c
 
 Batako seperti ini memiliki kekurangan seperti mudah pecah, lebih panas dan pengap. Berbeda dg bata merah yang terbuat dari bahan tanah. Tetapi batako trus ini cenderung lebih ringan daripada bata merah. Alhasil akan kelihatan lebih halus dan ukurannya lebih presisi jika diperbandingkan dengan bata merah. Batako Hitam ini memiliki ukuran panjang sekitar 36-40 cm, tinggi 18-20 cm dan tebal 8-10 cm. bahan ini acap kali dipilih karena untuk memperingan muatan struktur bangunan, meminimalisir sisa bahan dan mempercepat pembangunan.
 
-### 3\. Bata Hebel Di Galaxi Jakarta
+### 3. Bata Hebel Di Galaxi Jakarta
 
 ![Harga Batako Truss Gratis Ongkir Ke Galaxi Jakarta](/images/bata/bata-hebel-sni-05.png)
 
@@ -62,7 +62,7 @@ Semua tentunya sudah tahu fungsi utama batu bata mulai dipakai untuk membikin te
 
 Cara memesan batu bata yg aman dan terpercaya:
 
-1.  Pengerjaan pembayaran dapat anda lakukan secara COD atau dibayar di tempat saat barang pesanan anda telah datang di daerah
+1.  Pengerjaan pembayaran dapat anda lakukan secara COD atau dibayar di tempat saat barang pesanan anda telah datang di daerah
 2. Silahkan memilih dan menetapkan bahan batu bata yang anda inginkan
 3. Tentukan juga jumlah pesanan batu bata yg anda butuhkan dalam wujud bijian.
 4. Anda dapat menghubungi layanan telepon warung untuk memudahkan progres pemesanan

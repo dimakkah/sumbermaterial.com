@@ -17,7 +17,6 @@ draft: false
 
 {{< toc >}}
 
-
 Mencari besi bangunan yang tepat memang krusial untuk kelancaran proyek. Terutama di Bali yang dinamis, ketersediaan material yang stabil dan harga yang kompetitif jadi prioritas utama. Nah, sebelum Anda memutuskan, yuk kita bahas beberapa hal yang perlu diperhatikan.
 
 ## Memilih Besi 6 yang Tepat: Pertimbangan Penting
@@ -30,10 +29,10 @@ Untuk kebutuhan proyek yang mendesak, jangan tunda lagi. Kami sediakan berbagai 
 
 Mitra, Kami menyediakan besi 6 dalam berbagai ukuran dan spesifikasi. Berikut beberapa jenis yang paling sering dicari:
 
-*   **Besi Beton Polos:** Ideal untuk tulangan beton pada pondasi, kolom, atau balok. Tersedia dalam panjang standar 8 meter atau sesuai permintaan.
-*   **Besi Beton Ulir:** Lebih kuat dan memiliki daya rekat yang lebih baik dengan beton. Cocok untuk struktur yang membutuhkan kekuatan ekstra.
-*   **Besi Wiremesh:** Jaring besi yang sering digunakan untuk lantai beton atau dinding penahan tanah. Kami menyediakan berbagai ukuran mesh sesuai kebutuhan Anda.
-*   **Besi Hollow:** Untuk kebutuhan rangka ringan seperti kanopi atau pagar.
+- **Besi Beton Polos:** Ideal untuk tulangan beton pada pondasi, kolom, atau balok. Tersedia dalam panjang standar 8 meter atau sesuai permintaan.
+- **Besi Beton Ulir:** Lebih kuat dan memiliki daya rekat yang lebih baik dengan beton. Cocok untuk struktur yang membutuhkan kekuatan ekstra.
+- **Besi Wiremesh:** Jaring besi yang sering digunakan untuk lantai beton atau dinding penahan tanah. Kami menyediakan berbagai ukuran mesh sesuai kebutuhan Anda.
+- **Besi Hollow:** Untuk kebutuhan rangka ringan seperti kanopi atau pagar.
 
 Selain besi 6, Kami juga menyediakan besi dengan diameter lain, mulai dari 8 mm hingga 16 mm. Anda juga bisa mendapatkan wiremesh, baja ringan, dan material konstruksi lainnya dari Kami.
 
@@ -43,7 +42,7 @@ Selain besi 6, Kami juga menyediakan besi dengan diameter lain, mulai dari 8 mm 
 
 Mitra Sumber Material, kenapa Anda harus memilih Kami? Pertama, Kami mengutamakan kualitas. Semua material yang Kami jual sudah teruji dan memenuhi standar SNI. Kedua, Kami punya stok yang cukup untuk memenuhi kebutuhan proyek besar maupun kecil. Ketiga, Kami melayani pengiriman ke seluruh wilayah Jabodetabek dan sekitarnya – termasuk Bali. Keempat, Kami selalu berusaha memberikan harga yang kompetitif.
 
-Yang terpenting, Kami mengerti betul kebutuhan Anda akan kecepatan. Kami siap memproses pesanan Anda dengan cepat dan mengirimkan material tepat waktu. Ini sangat penting, terutama jika Anda sedang mengejar *deadline* proyek. 
+Yang terpenting, Kami mengerti betul kebutuhan Anda akan kecepatan. Kami siap memproses pesanan Anda dengan cepat dan mengirimkan material tepat waktu. Ini sangat penting, terutama jika Anda sedang mengejar *deadline* proyek.
 
 ## Pesan Besi 6 Sekarang Juga!
 

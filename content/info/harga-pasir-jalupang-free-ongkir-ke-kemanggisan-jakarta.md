@@ -25,7 +25,7 @@ Menurut Standar Nasional Indonesia ( SK SNI - S - 04 - 1989 - F ; 28) di sebutka
 
 Prasyarat Pasir yang Bagus Untuk Bangunan
 
-1.  Agregat Halus semestinya terdiri dari butiran yang tajam dan keras dengan indeks kekerasan <2.2
+1.  Agregat Halus semestinya terdiri dari butiran yang tajam dan keras dengan indeks kekerasan <2.2
 2. sekiranya dimanfaatkan Natrium Sulfat bagian hancur maksimal dua belas persen
 3. kalau diterapkan Magnesium Sulfat bagian halus optimal 5 persen
 4. Tidak boleh memuat clay lebih dari 5%
@@ -41,7 +41,6 @@ Prasyarat Pasir yang Bagus Untuk Bangunan
 Sesudah mengetahui prasyarat pasir tuk suatu Konstruksi, saat ini kita bahas Ragam - Macam Pasir Untuk Konstruksi penjelasan nya berikut ini:
 
 - ### Pasir Untuk Beton Di Kemanggisan Jakarta
-    
 
 Pasir ini lazim nya berwarna hitam pekat dan tingkat kekasaran butiran nya cukup tinggi. Namun bila anda mengepal nya dengan tangan tidak akan lengket dan akan buyar kembali. jenis pasir ini sungguh-sungguh lah baik tuk Pengecoran, Plesteran Dinding, Adukan Pondasi dan Adukan Pasangan Bata Pasir ini yaitu pasir untuk Cor adalah butiran-butiran mineral keras dan tajam berukuran antara 0,075 – 5 mm, kalau terdapat butiran berukuran lebih kecil dari 0,063 mm tidak lebih dari 5% berat. Pasir ini yaitu pasir untuk Cor kerap diaplikasikan untuk profesi cor-coran struktur seperti kolom, balok dan pelat lantai.
 
@@ -59,21 +58,18 @@ Untuk menerima kekuatan Beton yang maksimal maka pasir seharusnya bisa memenuhi 
 ![Harga Pasir Jalupang Free Ongkir Ke Kemanggisan Jakarta](/images/info/pasir-hitam-9.jpg)
 
 - ### Pasir Standar Di Kemanggisan Jakarta
-    
 
 ![Harga Pasir Jalupang Free Ongkir Ke Kemanggisan Jakarta](/images/info/pasir-putih3.jpg)
 
 Pasir ini lebih halus lagi dibandingkan oleh pasir beton. bila kamu mengepal pasir ini maka akan menggumpal dan tidak akan buyar kembali. pasir pasang biasa nya di manfaatkan buat campuran pasir beton supaya tidak kelewat kasar dan dapat di manfaatkan untuk plesteran dinding.
 
 - ### Pasir Elod Untuk pengurugan lantai Di Kemanggisan Jakarta
-    
 
 Di Antara ke dua pasir diatas pasir jenis ini lebih halus lagi, seandainya kalian mengepal nya karenanya akan menggumpal dan tak akan hancur lagi. tapi pasir tipe
 
 Pada lazim nya pasir ini nyaris sama dengan pasir beton tapi pasir ini mempunyai tingkat kekasaran yg tinggi, butiran - butiran nya lumayan besar dan agak banyak batuan nya. pada lazimnya pasir ragam ini bagus tuk bahan pemadatan lantai
 
 - ### Pasir Putih Tanpa Batu Untuk Pengecoran Di Kemanggisan Jakarta
-    
 
 1. **Pasir Putih Bangka**
 

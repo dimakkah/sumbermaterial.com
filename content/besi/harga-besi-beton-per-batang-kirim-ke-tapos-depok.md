@@ -18,19 +18,19 @@ Tanpa adanya besi karenanya sebuah bangunan akan mudah retak saat ada guncangan 
 
 ## Megenal Macam-macam Besi Di Tapos Depok
 
-### 1\. Besi Polos Toleransi 4mm, 6mm, 8mm, 10mm, 12mm, 16mm, 18mm, 19mm Di Tapos Depok
+### 1. Besi Polos Toleransi 4mm, 6mm, 8mm, 10mm, 12mm, 16mm, 18mm, 19mm Di Tapos Depok
 
 Besi polos memiliki ukuran mulai dari 8 mm sampai 25 mm dan mempunyai 6 meter panjang tekuk dan 12 meter panjang lurus. Besi beton ini mulai digunakan sebagai bahan utama di Indonesia pada tahun 1950. Besi ini tak jarang kali digunakan untuk membangun tempat tinggal. Bahan yang gampang digunakan sehingga selain dari diterapkan untuk membangun bangunan beton juga dipakai untuk membangun trowongan, bendungan, dan lainnya. Dikala diaplikasikan untuk membangun sebuah gedung bertingkat maka biasanya besi polos ini digunakan untuk struktur tulangan balok, dinding, dan sloof. Besi beton polos ini mempunyai kelebihan besi polos ini tegangannya lebih tinggi dari pada besi lainnya. Jadi besi ini terkesan lebih kuat dan tahan beban. Sehingga pengaplikasian besi polos ini amat sesuai untuk membangun gedung, jembatan, dan bangunan lainnya. Besi polos ini terbuat dari bahan seperti billet dan skrap. Billet yakni baja batangan yang proses pembuatannya dengan mengecor biji besi. Bila skrap yaitu besi bekas yang dihancurkan dengan temperature tertentu. Selain itu kalau anda menerapkan besi polos ini tidak membutuhkan biaya pemeliharaan. Semakin lama diterapkan karenanya besi ini akan kian kokoh.
 
-### 2\. Besi Ulir Banci 4mm, 6mm, 8mm, 10mm, 12mm, 16mm, 18mm, 19mm Di Tapos Depok
+### 2. Besi Ulir Banci 4mm, 6mm, 8mm, 10mm, 12mm, 16mm, 18mm, 19mm Di Tapos Depok
 
 Selaras dengan namanya besi beton ulir ini yakni besi yang karakternya mengulir. Pada permukaannya bercorak spiral yang mempunyai tujuan untuk menyatukan gerigi besi dengan faktor bahan bangunan yang dibangun oleh besi beton. Besi ulir ini mulai populer diterapkan pada abad ke-20 di Amerika dan mulai populer di Indonesia pada tahun1950. Mengingat ketika mengaplikasikan besi ulir ini memiliki banyak kelebihan mulai dari kekuatan bangunan serta lebih ekonomis dan efisien. Produk besi ulir ini menjadi paling laris di pasar sebab memiliki mutu yang terbaik di Indonesia dan memiliki harga yang tinggi kalau dibandingi dengan produk lainnya.
 
-### 3\. Besi WF dan H-Beam Di Tapos Depok
+### 3. Besi WF dan H-Beam Di Tapos Depok
 
 Besi Wide Flange (WF) ini yakni salah satu baja dengan struktural yang paling banyak diterapkan untuk kontruksi baja. Jika anda memerlukan besi baja Wide Flage dalam jumlah yang banyak atau sedikit maka silahkan cari distributor besi yang terpercaya. Besi WF ini mempunyai kekokohan yang kokoh dan kuat pada kekuatan tarik atau tekan. Maka dari itu besi ini menjadi elemen struktur yang memiliki batasan yang paripurna untuk menahan bobot tekan aksial, tarik aksial, dan lentur dengan fasilitas pembangunan strukturnya. Baja Wide Flange (WF) ini memiliki kepadatan yang tinggi tetapi rasio berat antara kekokohan komponen Baja WF yang tinggi tetapi tidak begitu berat yang berhubungan dengan kapasitas beban. Selain dari itu menentukan jikalau kontruksi yang diterapkan secara efisien. Cara kontruksi baja WF ini kombinasi dari unsur struktur yang kompleks. Pada struktur ini mempunyai tujuan membawa beban yang aman dan efektif yang bekerja pada sebuah bangunan dan dikirim pada pondasinya. Gaya dan bobot yang bekerja ini termasuk beban pertikal, perbedaan temperatur, horizontal, getaran dan lainnya. Pada sebuah bangunan baja, maka ada unsure yang bermanfaat menahan gaya lateral dan gravitasi.
 
-### 4\. Besi Holo Di Tapos Depok
+### 4. Besi Holo Di Tapos Depok
 
 Besi hollow ialah besi yang dipakai sebagai pembuatan kanopi, pagar, pintu besi dan lainnya. Bahan baku pembuatan besi Hollow ini umumnya terbuat dari stainless, galvanis, dan besi baja. Tapi yang paling sering kali diterapkan sebagai bahan baku yakni galvanis. Terdapat kelebihan yang anda peroleh saat menerapkan kanopi, mengaplikasikan pagar, teralis memakai besi hollow:
 

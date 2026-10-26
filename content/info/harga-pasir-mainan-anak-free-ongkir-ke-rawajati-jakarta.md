@@ -25,7 +25,7 @@ berdasarkan Standar Nasional Indonesia ( SK SNI - S - 04 - 1989 - F ; 28) di tut
 
 Syarat-Syarat Pasir yang Bagus tuk Bangunan
 
-1.  Agregat Halus seharusnya terdiri dari butiran yang tajam dan keras dengan indeks kekerasan <2.2
+1.  Agregat Halus seharusnya terdiri dari butiran yang tajam dan keras dengan indeks kekerasan <2.2
 2. Kalau digunakan Natrium Sulfat komponen hancur optimal dua belas %
 3. bila diterapkan Magnesium Sulfat bagian halus maksimal sepuluh persen
 4. Tidak boleh memuat clay lebih dari 5 persen
@@ -41,7 +41,6 @@ Syarat-Syarat Pasir yang Bagus tuk Bangunan
 Sesudah tahu persis syarat pasir untuk suatu Konstruksi, saat ini kita bahas Jenis - Jenis Pasir Untuk Konstruksi Bangunan penjelasan nya sebagai berikut:
 
 - ### Pasir Model Rigid dan Daerah Penambangannya Di Rawajati Jakarta
-    
 
 Pasir ini umum nya berwarna keabu-abuan dan tingkat kekerasan butiran nya lumayan tinggi. Tapi bila anda mengepal nya dengan tangan tidak akan menggumpal dan akan buyar kembali. macam pasir ini sungguh-sungguh lah bagus buat Pengecoran, Plesteran Dinding, Adukan Pondasi dan Adukan Pasangan Bata Pasir ini yaitu pasir untuk Cor yaitu butiran-butiran mineral keras dan tajam berukuran antara 0,075 – 5 mm, sekiranya terdapat butiran berukuran lebih kecil dari 0,063 mm tidak lebih dari 5% berat. Pasir ini yaitu pasir untuk Beton sering kali dimanfaatkan untuk pekerjaan cor-coran struktur seperti kolom, balok dan pelat lantai.
 
@@ -52,9 +51,9 @@ Harga Pasir Mainan Anak Free Ongkir Ke Rawajati Jakarta Jika anda sebagai konsum
 Pasir nomor satu asli kp. jebrod cianjur jawa barat yang diaplikasikan oleh indocement serta perusahaan batching plant lainnya sebagai bahan dasar produksi readymix concrete. Pasir ini paling disarankan untuk cor sebab irit semen juga mempunyai kandungan lumpur yang amat rendah dibawah 8%. warnanya Hitam abu tua atau hitam seperti hitamnya batu kali, ada juga yang hitam kemerahan atau hitam terasi
 
 3. **Pasir Hitam Cor Cimangkok.** Pasir diambil dari Lokasi penambangannya di cimangkok sukabumi jawa barat yang masih masuk terhadap kategori pasir hitam kelas satu di jabar, warnanya hitam kecoklatan layak untuk cor, pasang pondasi dan bata
-    
+
     ![Harga Pasir Mainan Anak Free Ongkir Ke Rawajati Jakarta](/images/info/jual-pasir-cor-hitam.jpg)
-    
+
 4. **Pasir Hitam Rigid Cimalaka Subang Bandung.**
 
 Pasir No. 1 yang berwarna hitam kebauan ada juga yang berwarna hitam abu tua. Banyak di gunakan untuk Cor, pasang dan keperluan lainnya. Ditambang di Desa cimalaka
@@ -90,9 +89,9 @@ Kecuali Rangkasbitung, Banten juga mempunyai lokasi pnembangan pasir lain sepert
 Masih dari Tempat di banten, pasir kelas tiga ini merupakan pasir yang banyak diterapkan di proyek proyek perumahan atau cluster sebab harganya yang murah juga mutu yang unggul. Warna pasir ini hitam kecoklatan dan keabuan betul-betul disarankan untuk pasang pondasi, bata, batu dan sebagainya
 
 27. **Pasir Hitam Cor Bohlam Sukabumi.** Pasir dari Kawasan kp. bohlam di sukabumi berwarna hitam kecoklatan, benar-benar bagus untuk pasang bata, pondasi dan lain-lain sebagai pilihan pasir mutu baik dan ekonomis
-    
+
     ![Harga Pasir Mainan Anak Free Ongkir Ke Rawajati Jakarta](/images/info/pasir-hitam-5.jpg)
-    
+
 28. **Pasir Beton Galunggung.**
 
 Pasir ini merupakan pasir hitam kwalitas paling unggul dikelasnya awam digunakan oleh pabrik pengolahan beton readymix juga perusahan pembuatan precast dan sering kali juga diaplikasikan untuk bahan pembuatan batako press hitam, paving block dan lain-lain. Pasir ini ditambang dari Tasikmalaya jawa barat.
@@ -100,21 +99,18 @@ Pasir ini merupakan pasir hitam kwalitas paling unggul dikelasnya awam digunakan
 ![Harga Pasir Mainan Anak Free Ongkir Ke Rawajati Jakarta](/images/info/pasir-hitam-8.jpg)
 
 - ### Pasir Untuk Adukan Pasang Batu, Pondasi, Bata, Ubin, Plester Di Rawajati Jakarta
-    
 
 ![Harga Pasir Mainan Anak Free Ongkir Ke Rawajati Jakarta](/images/info/pasir-hitam-4.jpg)
 
 Pasir ini lebih halus lagi diperbandingkan oleh pasir beton. bila anda mengepal pasir ini maka akan menggumpal dan tak akan hancur kembali. pasir pasang biasa nya di manfaatkan untuk campuran pasir beton supaya tak kelewat kasar dan dapat di gunakan untuk plesteran dinding.
 
 - ### Pasir Elod Untuk pengurugan lantai Di Rawajati Jakarta
-    
 
 Di Antara ke dua pasir diatas pasir tipe ini lebih halus lagi, bila anda mengepal nya akan menggumpal dan tak akan buyar lagi. melainkan pasir tipe
 
 Pada biasa nya pasir ini nyaris sama dgn pasir beton namun pasir ini mempunyai tingkat kekasaran yang tinggi, butiran - butiran nya lumayan besar dan agak banyak batuan nya. pada biasanya pasir model ini baik tuk bahan dasaran pemasangan keramik
 
 - ### Pasir Putih Tanpa Batu Untuk Lapangan Voly Di Rawajati Jakarta
-    
 
 1. **Pasir Putih Bangka**
 

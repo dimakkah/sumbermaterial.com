@@ -25,7 +25,7 @@ Berdasarkan Standar Nasional Indonesia ( SK SNI - S - 04 - 1989 - F ; 28) di tut
 
 Prasyarat Pasir yg Baik tuk Konstruksi
 
-1.  Agregat Halus seharusnya terdiri dari butiran yg tajam dan keras dengan indeks kekerasan <2.2
+1.  Agregat Halus seharusnya terdiri dari butiran yg tajam dan keras dengan indeks kekerasan <2.2
 2. seandainya dimanfaatkan Natrium Sulfat bagian hancur optimal dua belas %
 3. Sekiranya diaplikasikan Magnesium Sulfat bagian halus optimal 5 persen
 4. Tidak boleh memuat lumpur lebih dari lima %
@@ -41,7 +41,6 @@ Prasyarat Pasir yg Baik tuk Konstruksi
 sesudah memahami prasyarat pasir buat suatu Konstruksi, pada saat ini kita bahas model - Tipe Pasir Untuk Konstruksi Bangunan penjelasan nya sbb:
 
 - ### Pasir Cor Di Bojongsari Baru Depok
-    
 
 Pasir ini umum nya berwarna keabu-abuan dan tingkat kekasaran butiran nya cukup tinggi. Tapi bila anda mengepal nya dengan tangan tidak akan lengket dan akan buyar kembali. tipe pasir ini benar-benar lah bagus tuk Pengecoran, Plesteran Dinding, Adukan Pondasi dan Adukan Pasangan Bata Pasir ini yaitu pasir untuk Rigid adalah butiran-butiran mineral keras dan tajam berukuran antara 0,075 – 5 mm, jikalau terdapat butiran berukuran lebih kecil dari 0,063 mm tidak lebih dari 5% berat. Pasir ini yaitu pasir untuk Rigid hampir acap kali dimanfaatkan untuk profesi cor-coran struktur seperti kolom, balok dan pelat lantai.
 
@@ -59,21 +58,18 @@ Untuk mendapatkan kekuatan Cor yang optimal karenanya pasir sepatutnya dapat mem
 ![Harga Pasir Mainan Anak Free Ongkir Ke Bojongsari Baru Depok](/images/info/pasir-hitam-1.jpg)
 
 - ### Pasir Standar Di Bojongsari Baru Depok
-    
 
 ![Harga Pasir Mainan Anak Free Ongkir Ke Bojongsari Baru Depok](/images/info/jual-pasir-mundu.jpg)
 
 Pasir ini ekstra halus lagi dibandingi oleh pasir beton. jika kalian mengepal pasir ini maka akan menggumpal dan tak akan buyar kembali. pasir pasang lazim nya di manfaatkan buat adukan pasir beton agar tidak kelewat kasar dan bisa di pakai untuk plesteran dinding.
 
 - ### Pasir Urug Untuk Pembuatan Batako Di Bojongsari Baru Depok
-    
 
 Di Antara ke dua pasir diatas pasir jenis ini lebih halus lagi, jikalau anda mengepal nya akan menggumpal dan tak akan hancur lagi. tapi pasir ragam tidak bagus untuk di buat sebagai bahan bangunan. pasir tipe ini pada biasa nya di manfaatkan untuk Bahan Pembuatan Batako
 
 Pada umum nya pasir ini nyaris sama dgn pasir beton akan tapi pasir ini mempunyai tingkat kekasaran yg tinggi, butiran - butiran nya cukup besar dan agak banyak batuan nya. pada lazimnya pasir jenis ini bagus untuk bahan pemadatan lantai
 
 - ### Pasir Putih Halus Untuk Pengecoran Di Bojongsari Baru Depok
-    
 
 1. **Pasir Putih Bangka**
 

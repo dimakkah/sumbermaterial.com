@@ -25,7 +25,7 @@ Menurut Standar Nasional Indonesia ( SK SNI - S - 04 - 1989 - F ; 28) di tuturka
 
 Syarat-Syarat Pasir yang Bagus Untuk Konstruksi Bangunan
 
-1.  Agregat Halus sepatutnya terdiri dari butiran yg tajam dan keras dengan indeks kekerasan <2.2
+1.  Agregat Halus sepatutnya terdiri dari butiran yg tajam dan keras dengan indeks kekerasan <2.2
 2. bilamana digunakan Natrium Sulfat komponen hancur maksimal 12 persen
 3. bila digunakan Magnesium Sulfat bagian halus maksimal 5 persen
 4. Tak boleh memuat clay lebih dari 5%
@@ -41,7 +41,6 @@ Syarat-Syarat Pasir yang Bagus Untuk Konstruksi Bangunan
 setelah mengetahui prasyarat pasir buat sebuah Konstruksi, pada saat ini kita bahas Jenis - Ragam Pasir Untuk Konstruksi Bangunan penjelasan nya berikut ini:
 
 - ### Pasir untuk Cor Rigid Di Cilebar Karawang
-    
 
 Pasir ini lazim nya berwarna coklat tua dan tingkat kekerasan butiran nya cukup tinggi. Tapi bila anda mengepal nya dengan tangan tidak akan lengket dan akan hancur kembali. model pasir ini benar-benar lah bagus untuk Pengecoran, Plesteran Dinding, Adukan Pondasi dan Adukan Pasangan Bata Pasir ini yaitu pasir untuk Rigid ialah butiran-butiran mineral keras dan tajam berukuran antara 0,075 – 5 mm, jikalau terdapat butiran berukuran lebih kecil dari 0,063 mm tidak lebih dari 5% berat. Pasir ini yaitu pasir untuk Rigid hampir tak jarang digunakan untuk pekerjaan cor-coran struktur seperti kolom, balok dan pelat lantai.
 
@@ -59,21 +58,18 @@ Untuk mendapatkan kualitas Cor yang optimal karenanya pasir seharusnya sanggup m
 ![Harga Pasir Hitam Cor Free Ongkir Ke Cilebar Karawang](/images/info/jual-pasir-cor-hitam.jpg)
 
 - ### Pasir Standar Di Cilebar Karawang
-    
 
 ![Harga Pasir Hitam Cor Free Ongkir Ke Cilebar Karawang](/images/info/pasir-hitam-4.jpg)
 
 Pasir ini lebih halus lagi dibandingi oleh pasir beton. jikalau anda mengepal pasir ini maka akan menggumpal dan tidak akan hancur kembali. pasir pasang biasa nya di pakai untuk campuran pasir beton agar tak terlalu kasar dan bisa di manfaatkan untuk plesteran dinding.
 
 - ### Pasir Kualitas rendah Untuk pemadatan lantai Di Cilebar Karawang
-    
 
 Di Antara ke dua pasir diatas pasir model ini lebih halus lagi, sekiranya anda mengepal nya karenanya akan menggumpal dan tidak akan hancur lagi. tetapi pasir tipe
 
 Pada umum nya pasir ini nyaris sama dgn pasir beton melainkan pasir ini mempunyai tingkat kekasaran yang tinggi, butiran - butiran nya cukup besar dan agak banyak batuan nya. pada umumnya pasir jenis ini baik untuk bahan dasaran pemasangan keramik
 
 - ### Pasir Putih Tanpa Ayak Untuk Hiasan Di Cilebar Karawang
-    
 
 1. **Pasir Putih Bangka**
 

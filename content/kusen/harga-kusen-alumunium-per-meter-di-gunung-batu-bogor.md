@@ -44,13 +44,13 @@ Secara biasa pembuatan Kusen Pintu/Jendela Almunium ini banyak dicari orang utk 
 
 Alasan Anda Memilih Jasa Pembikinan Kusen Aluminium dari Kami.
 
-1\. Kami melakukan orderan pantas dg tanggal yang disepakati sehingga anda sebagai pelanggan juga mendapatkan hasil yang layak dengan estimasi.
+1. Kami melakukan orderan pantas dg tanggal yang disepakati sehingga anda sebagai pelanggan juga mendapatkan hasil yang layak dengan estimasi.
 
-2\. Kami juga melayani banyak pelaksanaan lain seperti pembuatan kerangka atas, wood parisi, instalisasi listrik dan masih banyak lagi Layanan lain yg kami miliki.
+2. Kami juga melayani banyak pelaksanaan lain seperti pembuatan kerangka atas, wood parisi, instalisasi listrik dan masih banyak lagi Layanan lain yg kami miliki.
 
-3\. Pembayaran menjadi solusi untuk anda, kami memberikan pembayaran dengan sistem DP sehingga anda tidak perlu ragu denga Layanan yang kami tawarkan.
+3. Pembayaran menjadi solusi untuk anda, kami memberikan pembayaran dengan sistem DP sehingga anda tidak perlu ragu denga Layanan yang kami tawarkan.
 
-4\. Regu kami akan datang ke tempat anda utk memandang dan menilai ukuran Kusen Pintu/Jendela Alumunium yang anda pesan.
+4. Regu kami akan datang ke tempat anda utk memandang dan menilai ukuran Kusen Pintu/Jendela Alumunium yang anda pesan.
 
 ## Tipe dan Merk Alumium Yang kami Sediakan Di Gunung Batu Bogor
 

@@ -50,13 +50,13 @@ d. tdk dapat menjangkau lokasi yang sempit. Mengingat Besi WF ini berukuran panj
 
 ### Kelebihan Dari Besi WF Di Tanara Serang
 
-1\. Dapat menghemat waktu dalam pembangunan sebuah konstruksi bangunan, mengurangi waktu dan juga mengurangi biaya dan tukang pasang.
+1. Dapat menghemat waktu dalam pembangunan sebuah konstruksi bangunan, mengurangi waktu dan juga mengurangi biaya dan tukang pasang.
 
-2\. Bisa menopang muatan yang benar-benar berat, tidak gampang memuai dan lebih simple penggunaannya dibanding dengan material struktural lainnya.
+2. Bisa menopang muatan yang benar-benar berat, tidak gampang memuai dan lebih simple penggunaannya dibanding dengan material struktural lainnya.
 
-3\. Memiliki fleksibilitas yang tinggi. Sehingga struktur bangunan yang dibuat dari Besi WF ini menjadi lebih kuat tidak gampang bergeser, tidak mudah ambrol maupun goyang. Sangat layak untuk variasi bangunan diatas tanah yang labil atau sering terjadi gempa.
+3. Memiliki fleksibilitas yang tinggi. Sehingga struktur bangunan yang dibuat dari Besi WF ini menjadi lebih kuat tidak gampang bergeser, tidak mudah ambrol maupun goyang. Sangat layak untuk variasi bangunan diatas tanah yang labil atau sering terjadi gempa.
 
-4\. Lebih hemat karena struktur bangunan yang menggunakan Besi WF akan mempunyai kekuatan yang cukup lama bahkan sampai ratusan tahun. Tentunya ini yakni investasi yang sangat murah jika kita bandingkan dengan waktu pakai. Bahkan bangunan yang dibangun dengan tulangan Besi WF dapat kita wariskan terhadap anak cucu kita.
+4. Lebih hemat karena struktur bangunan yang menggunakan Besi WF akan mempunyai kekuatan yang cukup lama bahkan sampai ratusan tahun. Tentunya ini yakni investasi yang sangat murah jika kita bandingkan dengan waktu pakai. Bahkan bangunan yang dibangun dengan tulangan Besi WF dapat kita wariskan terhadap anak cucu kita.
 
 ## Mengetahui Besi H Beam Di Tanara Serang
 
@@ -72,15 +72,15 @@ Sama seperti besi yang kami terangkan sebelumnya yaitu Besi WF, besi H-Beam bahk
 
 ### Keunggulan Besi H Beam Di Tanara Serang
 
-1\. Gampang untuk diperoleh. Banyak supplier besi yang menyediakan stok besi H-Beam bermacam-macam ukuran. Sehingga besi H-Beam ini benar-benar mudah untuk didapatkan, tdk sulit untuk memperoleh supplier besi yang memasarkan besi H Beam.
+1. Gampang untuk diperoleh. Banyak supplier besi yang menyediakan stok besi H-Beam bermacam-macam ukuran. Sehingga besi H-Beam ini benar-benar mudah untuk didapatkan, tdk sulit untuk memperoleh supplier besi yang memasarkan besi H Beam.
 
-2\. Gampang Dalam Pemasangan. Banyak tukang ahli dalam pemasangan besi H Beam. Meskipun besi H-Beam ini semestinya dipasang oleh tukang yang ahli tapi tukang yang profesional dalam memasang besi H Beam ini amat banyak kita temui hari ini. Sehingga tdk perlu dikhawatirkan lagi pelaksanaan pemasangannya.
+2. Gampang Dalam Pemasangan. Banyak tukang ahli dalam pemasangan besi H Beam. Meskipun besi H-Beam ini semestinya dipasang oleh tukang yang ahli tapi tukang yang profesional dalam memasang besi H Beam ini amat banyak kita temui hari ini. Sehingga tdk perlu dikhawatirkan lagi pelaksanaan pemasangannya.
 
-3\. Mempunyai kekuatan yang tdk diragukan lagi. Besi H Beam sudah teruji selama bertahun-tahun dalam kontruksi bangunan. Baik skala kecil ataupun skala besar dan terbilang sungguh-sungguh kuat jika dibandingi dengan material lainnya. Bisa bertahan sampai puluhan hingga ratusan tahun.
+3. Mempunyai kekuatan yang tdk diragukan lagi. Besi H Beam sudah teruji selama bertahun-tahun dalam kontruksi bangunan. Baik skala kecil ataupun skala besar dan terbilang sungguh-sungguh kuat jika dibandingi dengan material lainnya. Bisa bertahan sampai puluhan hingga ratusan tahun.
 
-4\. Gampang dalam pemeliharaannya. Bangunan yang memakai besi H Beam sebagai struktur rangka bangunannya akan betul-betul mudah dalam menjalankan pemeliharaannya. tidak perlu pengecatan dengan cat khusus ataupun pembersihan setiap waktu.
+4. Gampang dalam pemeliharaannya. Bangunan yang memakai besi H Beam sebagai struktur rangka bangunannya akan betul-betul mudah dalam menjalankan pemeliharaannya. tidak perlu pengecatan dengan cat khusus ataupun pembersihan setiap waktu.
 
-5\. Memaksimalkan pengaplikasian material lainnya, seperti pengaplikasian bekisting, penggunaan perancah atau steger dan juga material pasir. Besi H Beam tidak memerlukan material pasir dalam pemakaiannya.
+5. Memaksimalkan pengaplikasian material lainnya, seperti pengaplikasian bekisting, penggunaan perancah atau steger dan juga material pasir. Besi H Beam tidak memerlukan material pasir dalam pemakaiannya.
 
 ### Kekurangan Dari Besi H Beam Di Tanara Serang
 

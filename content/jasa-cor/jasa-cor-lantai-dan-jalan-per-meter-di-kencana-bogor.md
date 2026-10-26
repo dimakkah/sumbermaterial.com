@@ -22,31 +22,31 @@ Teknik pengecoran sendiri terbagi menjadi dua bagian, yaitu metode traditional d
 
 **• Teknik traditional terdiri dari beberapa bagian:**
 
-1\. Dry-Sand Casting
+1. Dry-Sand Casting
 
-2\. Full-Mold Casting
+2. Full-Mold Casting
 
-3\. Sand-Mold Casting
+3. Sand-Mold Casting
 
-4\. Vacuum-Mold Casting
+4. Vacuum-Mold Casting
 
-5\. Shell-Mold Casting
+5. Shell-Mold Casting
 
-6\. Cement-Mold Casting
+6. Cement-Mold Casting
 
 **• Teknik modern terdiri atas:**
 
-1\. Centrifugal Casting
+1. Centrifugal Casting
 
-2\. Investment Casting
+2. Investment Casting
 
-3\. Permanent-Mold Casting
+3. Permanent-Mold Casting
 
-4\. High-Pressure Die Casting
+4. High-Pressure Die Casting
 
-5\. Plaster-Mold Casting
+5. Plaster-Mold Casting
 
-6\. Solid-Ceramic Casting
+6. Solid-Ceramic Casting
 
 Sebenarnya, baik metode konvesional ataupun non konvesional sama – sama memiliki kualitas yang baik untuk sistem pengecoran. Pada intinya perbedaan antara metode traditional dan non konvesional terdapat pada sebuah contemporary casting yang tidak bergantung pada pasir dalam pembuatan cetakannya. Selain itu, temporary yang terdapat pada pengecoran akan di manfaatkan untuk menghasilkan suatu produk berdasarkan geometriyang kecil. hingga, cukup relatif dibandingkan jika menggunakan traditional casting. Dimana, Hasil coran non traditional casting tidak perlu memerlukan proses tambahan dalam menyelesaikan sebuah permukaan. Seperti di ketahui, jika jenis logam yg akan di lakukan pengecoran kebanyakan menggunakan logam besi secara bersama-sama. Hal ini di lakukan dgn menggunakan aluminium, kuningan, perak, dan beberapa material non logam lainnya. Sistem pengecoran sudah mempunyai mekanisme yang lumayan sederhana. Inilah mengapa banyak yg menawarkan jasa pengecoran. Jasa pengecoran memang sangat mudah di temukan. Di setiap sosial media Anda bisa melihat banyak iklan yang menawarkan jasa penyecoran. Hal ini tentu akan membuat Anda mudah mendapatkan jasa pengecoran. Semakin banyaknya yang menawarkan, maka sebaiknya anda berhati- hati dalam memilih jasa pengecoran. Dengan keahilan yg di milikinya, maka para jasa pengecoran mampu lebih mudah dalam melakukan proses pengecoran secara sempurna. Kenyataannya, ada banyak jenis pengecoran yang di tawarkan oleh jasa pengecoran. Inilah beberapa jenis pengecoran dari Jasa Cor Lantai dan Jalan Per Meter Di Kencana Bogor:
 
@@ -54,17 +54,17 @@ Sebenarnya, baik metode konvesional ataupun non konvesional sama – sama memili
 
 Seandainya anda berencana hendak mengerjakan pengecoran dak rumah atau ruko bangunan anda atau juga hendak menambah lantai bangunan anda, telah tepat anda berkunjung ke situs kami. Sebab kami adalah jasanya yang sudah berpengalaman bertahun tahun. Kami siap melayani progres mulai dari nol sampai tuntas dengan harga yang pasti ideal layak dengan budget dana anda. Adapun pengerjaan atau tahapan pengecoran yang kami lakukan ialah.
 
-1\. Lapangan dan Penilaian lahan untuk menentukan keperluan biayanya
+1. Lapangan dan Penilaian lahan untuk menentukan keperluan biayanya
 
-2\. Membuat design dan perencanaan
+2. Membuat design dan perencanaan
 
-3\. Perhitungan anggaran pengecoran
+3. Perhitungan anggaran pengecoran
 
-4\. Eksekusi mulai dengan pemasangan bekisting, pembesian dan pemasangan pelastik cor
+4. Eksekusi mulai dengan pemasangan bekisting, pembesian dan pemasangan pelastik cor
 
-5\. Tahapan penuangan cor
+5. Tahapan penuangan cor
 
-6\. Pembongkaran coran yang sudah kering dan finish
+6. Pembongkaran coran yang sudah kering dan finish
 
 ## Harga Jasa Cor Investment Casting Concrete Dari Jasa Cor Lantai dan Jalan Per Meter Di Kencana Bogor
 
@@ -76,21 +76,21 @@ Untuk investment casting memakai sitem pola tanam dengan rangka yg di gunakan un
 
 Pembuatan beton dilaksanakan layak dengan ketentuan dan hukum yang berlaku (SNI03 NO 2847 Tahun 2002) dengan tipe kwalitas beton yang akan di pakai cocok dengan Rencana Anggaran dan Biaya (RAB). Adapun dalam pelaksanaan pengecoran parkiran atau zona parkir gedung atau gudang pabrik, maka sudah sepatutnya mengikuti tata tertib standar kualitas supaya tidak terjadi hal hal yang tidak di inginkan oleh anda sekalian. Sebab boleh jadi ketika anda mencari harga murah kualitaspun anda abaikan dan ini amat berbahaya selain boros anggaran juga lebih pendek umurnya. Berikut yakni sebagian prasyarat yang kami utamakan dalam progres pelaksaan kerja pengecoran lahan parkir atau zona parkir dan gudang.
 
-1\. Beton ready mix pantas dengan kualitas yang sudah disetujui
+1. Beton ready mix pantas dengan kualitas yang sudah disetujui
 
-2\. Calbond (Super Bonding Agent) /cairan lem antara beton lama dengan baru disebut juga perekat beton
+2. Calbond (Super Bonding Agent) /cairan lem antara beton lama dengan baru disebut juga perekat beton
 
-3\. Curing compound/bahan perawatan dan perlindungan beton yang menghalangi pelaksanaan penguapan air pada beton berair
+3. Curing compound/bahan perawatan dan perlindungan beton yang menghalangi pelaksanaan penguapan air pada beton berair
 
-5\. Tukang cor pintar yang tahu lingkup kerja pengecoran.
+5. Tukang cor pintar yang tahu lingkup kerja pengecoran.
 
-6\. Mandor dan pelaksana yang bisa membaca shop drawing/for constrution dengan benar.
+6. Mandor dan pelaksana yang bisa membaca shop drawing/for constrution dengan benar.
 
-7\. Pengecekan elevasi balok dilaksanakan dengan menempatkan alat waterpass dimana tinggi alat ialah setinggi marking pada kolom (1,00 m dari permukaan pelat lantai di bawahnya).
+7. Pengecekan elevasi balok dilaksanakan dengan menempatkan alat waterpass dimana tinggi alat ialah setinggi marking pada kolom (1,00 m dari permukaan pelat lantai di bawahnya).
 
-8\. Bak ukur ditempatkan pada komponen bawah bekisting balok (bottom) Oleh pelaksana pengevaluasian akurasi elevasi bottom dicek dengan alatwaterpass.
+8. Bak ukur ditempatkan pada komponen bawah bekisting balok (bottom) Oleh pelaksana pengevaluasian akurasi elevasi bottom dicek dengan alatwaterpass.
 
-9\. Seandainya pembacaan alat waterpass belum memperlihatkan elevasi yang layak dengan gambar agenda, maka screwjack diputar untuk menaikkan atau menurunkan posisi bottom balok
+9. Seandainya pembacaan alat waterpass belum memperlihatkan elevasi yang layak dengan gambar agenda, maka screwjack diputar untuk menaikkan atau menurunkan posisi bottom balok
 
 .
 

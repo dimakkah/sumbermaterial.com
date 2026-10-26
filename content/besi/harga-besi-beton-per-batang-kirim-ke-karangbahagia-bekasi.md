@@ -18,19 +18,19 @@ Tanpa adanya besi karenanya sebuah bangunan akan mudah retak ketika ada getaran 
 
 ## Megenal Macam-macam Besi Di Karangbahagia Bekasi
 
-### 1\. Besi Polos Banci 4mm, 6mm, 8mm, 10mm, 12mm, 16mm, 18mm, 19mm Di Karangbahagia Bekasi
+### 1. Besi Polos Banci 4mm, 6mm, 8mm, 10mm, 12mm, 16mm, 18mm, 19mm Di Karangbahagia Bekasi
 
 Besi polos mempunyai ukuran mulai dari 8 mm hingga 25 mm dan mempunyai 6 meter panjang tekuk dan 12 meter panjang lurus. Besi beton ini sudah mulai digunakan sebagai bahan utama di Indonesia pada tahun 1950. Besi ini tak jarang kali dipakai untuk membangun bangunan beton. Bahan yang gampang diaplikasikan sehingga selain diaplikasikan untuk membangun sebuah gedung juga diaplikasikan untuk membangun trowongan, bendungan, dan lainnya. Dikala dipakai untuk membangun rumah bertingkat karenanya biasa besi polos ini digunakan untuk struktur rangkaian besi balok, dinding, dan sloof. Besi beton polos ini mempunyai keunggulan besi polos ini tegangannya lebih tinggi dari pada besi lainnya. Oleh karena itu besi ini terkesan lebih kuat dan tahan beban. Oleh karena itu pengaplikasian besi polos ini sungguh-sungguh sesuai untuk membangun gedung, jembatan, dan bangunan lainnya. Besi polos ini terbuat dari bahan seperti billet dan skrap. Billet yakni baja batangan yang pelaksanaan pembuatannya dengan mengecor biji besi. Apabila skrap adalah besi bekas yang dihancurkan dengan temperature tertentu. Selain itu kalau anda menerapkan besi polos ini tdk membutuhkan budget pemeliharaan. Semakin lama dipakai maka besi ini akan kian kokoh.
 
-### 2\. Besi Ulir Full 4mm, 6mm, 8mm, 10mm, 12mm, 16mm, 18mm, 19mm Di Karangbahagia Bekasi
+### 2. Besi Ulir Full 4mm, 6mm, 8mm, 10mm, 12mm, 16mm, 18mm, 19mm Di Karangbahagia Bekasi
 
 Sesuai dengan namanya besi beton ulir ini yakni besi yang karakternya mengulir. Pada permukaannya bercorak spiral yang memiliki tujuan untuk menyatukan tulangan dengan unsur material bangunan yang dibentuk oleh besi beton. Besi ulir ini mulai populer diterapkan pada abad ke-20 di Amerika dan mulai populer di Indonesia pada tahun1950. Mengingat dikala menggunakan besi ulir ini memiliki banyak kelebihan mulai dari ketahanan bangunan serta lebih murah dan efisien. Produk besi ulir ini menjadi andalan pasar sebab memiliki mutu yang terbaik di Indonesia dan mempunyai harga yang tinggi apabila dibandingi dengan produk lainnya.
 
-### 3\. Besi WF dan H-Beam SNI Di Karangbahagia Bekasi
+### 3. Besi WF dan H-Beam SNI Di Karangbahagia Bekasi
 
 Besi Wide Flange (WF) ini adalah salah satu baja dengan struktural yang paling sering dipakai untuk kontruksi baja. Kalau anda membutuhkan besi baja Wide Flage dalam quantitas yang banyak atau sedikit maka silahkan cari penjual besi yang terpercaya. Besi WF ini memiliki kekokohan yang kokoh dan kokoh pada kekuatan tarik atau tekan. Karenanya dari itu besi ini menjadi unsur struktur yang mempunyai batasan yang paripurna untuk menahan bobot tekan aksial, tarik aksial, dan lentur dengan fasilitas pembangunan strukturnya. Baja Wide Flange (WF) ini mempunyai kepadatan yang tinggi tetapi rasio berat antara kekuatan bagian Baja WF yang tinggi namun tidak terlalu berat yang terkait dengan kapasitas muatan. Selain itu menentukan sekiranya kontruksi yang diterapkan secara efisien. Cara kontruksi baja WF ini kombinasi dari faktor struktur yang kompleks. Pada struktur ini memiliki tujuan membawa muatan yang aman dan efektif yang berefek pada sebuah bangunan dan dikirim pada pondasinya. Gaya dan bobot yang berefek ini termasuk bobot pertikal, perbedaan temperatur, horizontal, getaran dan lainnya. Pada sebuah bangunan baja, maka ada unsure yang berguna menahan gaya lateral dan gravitasi.
 
-### 4\. Besi Hollow Di Karangbahagia Bekasi
+### 4. Besi Hollow Di Karangbahagia Bekasi
 
 Besi hollow merupakan besi yang diaplikasikan sebagai pembuatan kanopi, pagar, pintu besi dan lainnya. Bahan baku pembuatan besi Hollow ini lazimnya terbuat dari stainless, galvanis, dan besi baja. Tetapi yang paling sering kali diterapkan sebagai bahan baku merupakan galvanis. Terdapat kelebihan yang anda peroleh ketika mengaplikasikan kanopi, mengaplikasikan pagar, teralis memakai besi hollow:
 

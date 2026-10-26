@@ -25,7 +25,7 @@ Berdasarkan Standar Nasional Indonesia ( SK SNI - S - 04 - 1989 - F ; 28) di seb
 
 Syarat Pasir yang Bagus buat Konstruksi
 
-1.  Agregat Halus semestinya terdiri dari butiran yg tajam dan keras dengan indeks kekerasan <2.2
+1.  Agregat Halus semestinya terdiri dari butiran yg tajam dan keras dengan indeks kekerasan <2.2
 2. sekiranya dimanfaatkan Natrium Sulfat bagian hancur optimal 12 persen
 3. Jikalau diterapkan Magnesium Sulfat komponen halus maksimal 5 persen
 4. Tak boleh mengandung lumpur lebih dari 5 persen
@@ -41,7 +41,6 @@ Syarat Pasir yang Bagus buat Konstruksi
 Setelah tahu persis prasyarat pasir tuk sebuah Bangunan, pada saat ini kita bahas model - model Pasir Untuk Konstruksi penjelasan nya sbb:
 
 - ### Pasir Model Beton dan Daerah Sumbernya Di Pinang Tangerang
-    
 
 Pasir ini umum nya berwarna coklat tua dan tingkat pecahan butiran nya lumayan tinggi. Melainkan apabila anda mengepal nya dengan tangan tak akan lengket dan akan buyar kembali. model pasir ini betul-betul lah baik tuk Pengecoran, Plesteran Dinding, Adukan Pondasi dan Adukan Pasangan Bata Pasir ini yaitu pasir untuk Cor yakni butiran-butiran mineral keras dan tajam berukuran antara 0,075 – 5 mm, kalau terdapat butiran berukuran lebih kecil dari 0,063 mm tidak lebih dari 5% berat. Pasir ini yaitu pasir untuk Rigid tak jarang digunakan untuk profesi cor-coran struktur seperti kolom, balok dan pelat lantai.
 
@@ -52,9 +51,9 @@ Harga Pasir Rangkas Free Ongkir Ke Pinang Tangerang Bila anda sebagai konsumen /
 Pasir paling unggul asal kp. jebrod cianjur jawa barat yang digunakan oleh indocement serta perusahaan batching plant lainnya sebagai bahan dasar produksi readymix concrete. Pasir ini paling disarankan untuk cor sebab irit semen juga mempunyai kandungan lumpur yang amat rendah dibawah delapan %. warnanya Hitam abu tua atau hitam seperti hitamnya batu kali, ada juga yang hitam kemerahan atau hitam terasi
 
 3. **Pasir Hitam Rigid Cimangkok.** Pasir diambil dari Daerah penambangannya di cimangkok sukabumi jabar yang masih masuk pada klasifikasi pasir hitam kelas satu di jawa barat, warnanya hitam kecoklatan sesuai untuk cor, pasang pondasi dan bata
-    
+
     ![Harga Pasir Rangkas Free Ongkir Ke Pinang Tangerang](/images/info/pasir-hitam-8.jpg)
-    
+
 4. **Pasir Hitam Beton Cimalaka Subang Bandung.**
 
 Pasir terbaik yang berwarna hitam kebauan ada juga yang berwarna hitam abu tua. Banyak di gunakan untuk Beton, pasang dan keperluan lainnya. Ditambang di kampung cimalaka
@@ -90,9 +89,9 @@ Kecuali Rangkasbitung, Banten juga mempunyai lokasi pnembangan pasir lain sepert
 Masih dari kawasan di banten, pasir kelas tiga ini yakni pasir yang banyak digunakan di proyek proyek perumahan atau cluster sebab harganya yang murah juga kwalitas yang bagus. Warna pasir ini hitam kecoklatan dan keabuan sungguh-sungguh disarankan untuk pasang pondasi, bata, batu dan sebagainya
 
 27. **Pasir Hitam Rigid Bohlam Sukabumi.** Pasir dari Daerah kp. bohlam di sukabumi berwarna hitam kecoklatan, sungguh-sungguh bagus untuk pasang bata, pondasi dan lain-lain sebagai opsi pasir kwalitas bagus dan ekonomis
-    
+
     ![Harga Pasir Rangkas Free Ongkir Ke Pinang Tangerang](/images/info/jual-pasir-cor-hitam.jpg)
-    
+
 28. **Pasir Rigid Galunggung.**
 
 Pasir ini yakni pasir hitam kwalitas paling unggul dikelasnya umum diaplikasikan oleh pabrik pengolahan beton readymix juga perusahan pembuatan precast dan kerap kali juga diterapkan untuk bahan pembuatan batako press hitam, paving block dsb. Pasir ini ditambang dari Tasikmalaya jawa barat.
@@ -100,21 +99,18 @@ Pasir ini yakni pasir hitam kwalitas paling unggul dikelasnya umum diaplikasikan
 ![Harga Pasir Rangkas Free Ongkir Ke Pinang Tangerang](/images/info/pasir-hitam-8.jpg)
 
 - ### Pasir Pasang Di Pinang Tangerang
-    
 
 ![Harga Pasir Rangkas Free Ongkir Ke Pinang Tangerang](/images/info/pasir-putih12.jpg)
 
 Pasir ini ekstra halus lagi diperbandingkan oleh pasir beton. sekiranya anda mengepal pasir ini maka akan menggumpal dan tidak akan hancur kembali. pasir pasang biasa nya di pakai tuk campuran pasir beton agar tak terlalu kasar dan bisa di pakai untuk plesteran dinding.
 
 - ### Pasir Elod Untuk pengurugan lantai Di Pinang Tangerang
-    
 
 Di Antara ke dua pasir diatas pasir tipe ini lebih halus lagi, bila kamu mengepal nya akan menggumpal dan tak akan buyar lagi. tapi pasir jenis
 
 Pada biasa nya pasir ini nyaris sama dengan pasir beton tetapi pasir ini memiliki tingkat kekasaran yg tinggi, butiran - butiran nya lumayan besar dan agak banyak batuan nya. pada umumnya pasir ragam ini baik tuk bahan dasaran pemasangan keramik
 
 - ### Pasir Putih Kadar Lumpur Rendah Untuk Pasang Bata Di Pinang Tangerang
-    
 
 1. **Pasir Putih Bangka**
 

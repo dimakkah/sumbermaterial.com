@@ -25,7 +25,7 @@ Menurut Standar Nasional Indonesia ( SK SNI - S - 04 - 1989 - F ; 28) di tuturka
 
 Persyaratan Pasir yg Baik tuk Konstruksi
 
-1.  Agregat Halus semestinya terdiri dari butiran yg tajam dan keras dengan indeks kekerasan <2.2
+1.  Agregat Halus semestinya terdiri dari butiran yg tajam dan keras dengan indeks kekerasan <2.2
 2. Sekiranya diaplikasikan Natrium Sulfat komponen hancur optimal 12%
 3. seandainya digunakan Magnesium Sulfat komponen halus maksimal sepuluh %
 4. Tidak boleh berisi lumpur lebih dari lima %
@@ -41,7 +41,6 @@ Persyaratan Pasir yg Baik tuk Konstruksi
 sesudah tahu persis persyaratan pasir untuk sebuah Konstruksi Bangunan, sekarang ini kita bahas Ragam - Jenis Pasir Untuk Bangunan penjelasan nya berikut ini:
 
 - ### Pasir Tipe Beton dan Lokasi Sumbernya Di Ratu Jaya Depok
-    
 
 Pasir ini umum nya berwarna coklat tua dan tingkat pecahan butiran nya lumayan tinggi. Tetapi bila anda mengepal nya dengan tangan tidak akan lengket dan akan hancur kembali. ragam pasir ini sungguh-sungguh lah bagus tuk Pengecoran, Plesteran Dinding, Adukan Pondasi dan Adukan Pasangan Bata Pasir ini yaitu pasir untuk Rigid adalah butiran-butiran mineral keras dan tajam berukuran antara 0,075 – 5 mm, bila terdapat butiran berukuran lebih kecil dari 0,063 mm tidak lebih dari 5% berat. Pasir ini yaitu pasir untuk Cor hampir sering dipakai untuk pekerjaan cor-coran struktur seperti kolom, balok dan pelat lantai.
 
@@ -59,21 +58,18 @@ Untuk mendapatkan ketahanan Rigid yang optimal karenanya pasir sepatutnya mampu 
 ![Harga Pasir Putih Bangka Free Ongkir Ke Ratu Jaya Depok](/images/info/pasir-hitam-2.jpg)
 
 - ### Pasir Untuk Pasang Batu, Pondasi, Bata, Ubin, Plester Di Ratu Jaya Depok
-    
 
 ![Harga Pasir Putih Bangka Free Ongkir Ke Ratu Jaya Depok](/images/info/pasir-putih3.jpg)
 
 Pasir ini lebih halus lagi diperbandingkan oleh pasir beton. apabila anda mengepal pasir ini karenanya akan menggumpal dan tidak akan buyar kembali. pasir pasang umum nya di pakai tuk adukan pasir beton supaya tidak kelewat kasar dan dapat di gunakan untuk plesteran dinding.
 
 - ### Pasir Elod Untuk Pembuatan Batako Di Ratu Jaya Depok
-    
 
 Di Antara ke dua pasir diatas pasir jenis ini lebih halus lagi, kalau kalian mengepal nya akan menggumpal dan tak akan hancur lagi. namun pasir jenis
 
 Pada biasa nya pasir ini nyaris sama dengan pasir beton akan tapi pasir ini memiliki tingkat kekasaran yg tinggi, butiran - butiran nya cukup besar dan agak banyak batuan nya. pada biasanya pasir tipe ini baik tuk bahan dasaran pemasangan keramik
 
 - ### Pasir Putih Kadar Lumpur Rendah Untuk Pengecoran Di Ratu Jaya Depok
-    
 
 1. **Pasir Putih Bangka**
 

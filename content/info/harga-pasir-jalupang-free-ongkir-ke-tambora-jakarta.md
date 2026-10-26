@@ -25,7 +25,7 @@ berdasarkan Standar Nasional Indonesia ( SK SNI - S - 04 - 1989 - F ; 28) di seb
 
 Persyaratan Pasir yang Baik Untuk Bangunan
 
-1.  Agregat Halus harus terdiri dari butiran yang tajam dan keras dengan indeks kekerasan <2.2
+1.  Agregat Halus harus terdiri dari butiran yang tajam dan keras dengan indeks kekerasan <2.2
 2. bilamana diaplikasikan Natrium Sulfat bagian hancur optimal dua belas persen
 3. jika diaplikasikan Magnesium Sulfat bagian halus maksimal sepuluh persen
 4. Tak boleh mengandung tanah lebih dari 5%
@@ -41,7 +41,6 @@ Persyaratan Pasir yang Baik Untuk Bangunan
 Setelah memahami prasyarat pasir tuk sebuah Konstruksi Bangunan, pada saat ini kita bahas Macam - Tipe Pasir Untuk Konstruksi Bangunan penjelasan nya sbb:
 
 - ### Pasir Untuk Beton Di Tambora Jakarta
-    
 
 Pasir ini lazim nya berwarna coklat tua dan tingkat kekerasan butiran nya cukup tinggi. Namun kalau anda mengepal nya dengan tangan tak akan menggumpal dan akan buyar kembali. ragam pasir ini amat lah baik untuk Pengecoran, Plesteran Dinding, Adukan Pondasi dan Adukan Pasangan Bata Pasir ini yaitu pasir untuk Cor yaitu butiran-butiran mineral keras dan tajam berukuran antara 0,075 – 5 mm, jikalau terdapat butiran berukuran lebih kecil dari 0,063 mm tak lebih dari 5% berat. Pasir ini yaitu pasir untuk Rigid hampir kerap kali dimanfaatkan untuk pekerjaan cor-coran struktur seperti kolom, balok dan pelat lantai.
 
@@ -59,21 +58,18 @@ Untuk menerima ketahanan Beton yang optimal karenanya pasir sepatutnya dapat mem
 ![Harga Pasir Jalupang Free Ongkir Ke Tambora Jakarta](/images/info/jual-pasir-cor-hitam.jpg)
 
 - ### Pasir Untuk Adukan Pasang Batu, Pondasi, Bata, Ubin, Plester Di Tambora Jakarta
-    
 
 ![Harga Pasir Jalupang Free Ongkir Ke Tambora Jakarta](/images/info/jual-pasir-mundu.jpg)
 
 Pasir ini ekstra halus lagi dibandingi oleh pasir beton. jika kamu mengepal pasir ini maka akan menggumpal dan tidak akan buyar kembali. pasir pasang lazim nya di manfaatkan buat adukan pasir beton agar tak terlalu kasar dan dapat di pakai untuk plesteran dinding.
 
 - ### Pasir Urug Untuk Pembuatan Batako Di Tambora Jakarta
-    
 
 Di Antara ke dua pasir diatas pasir ragam ini lebih halus lagi, apabila anda mengepal nya maka akan menggumpal dan tak akan hancur lagi. melainkan pasir ragam tidak baik untuk di buat sebagai bahan bangunan. pasir ragam ini pada nya di pergunakan tuk Bahan Pembuatan Batako
 
 Pada biasa nya pasir ini nyaris sama dgn pasir beton akan melainkan pasir ini memiliki tingkat kekasaran yang tinggi, butiran - butiran nya cukup besar dan agak banyak batuan nya. pada umumnya pasir ragam ini baik untuk bahan pemadatan lantai
 
 - ### Pasir Putih Tanpa Ayak Untuk Pengecoran Di Tambora Jakarta
-    
 
 1. **Pasir Putih Bangka**
 

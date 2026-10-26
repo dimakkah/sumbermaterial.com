@@ -25,7 +25,7 @@ berdasarkan Standar Nasional Indonesia ( SK SNI - S - 04 - 1989 - F ; 28) di tut
 
 Syarat-Syarat Pasir yang Baik Untuk Konstruksi Bangunan
 
-1.  Agregat Halus mesti terdiri dari butiran yang tajam dan keras dengan indeks kekerasan <2.2
+1.  Agregat Halus mesti terdiri dari butiran yang tajam dan keras dengan indeks kekerasan <2.2
 2. kalau dimanfaatkan Natrium Sulfat komponen hancur maksimal 12 persen
 3. Sekiranya diterapkan Magnesium Sulfat komponen halus maksimal 10%
 4. Tidak boleh berisi lumpur lebih dari lima persen
@@ -41,7 +41,6 @@ Syarat-Syarat Pasir yang Baik Untuk Konstruksi Bangunan
 sesudah memahami syarat pasir untuk suatu Bangunan, pada saat ini kita bahas Jenis - model Pasir Untuk Bangunan penjelasan nya sebagai berikut:
 
 - ### Pasir Beton Di Klari Karawang
-    
 
 Pasir ini umum nya berwarna coklat tua dan tingkat kekerasan butiran nya cukup tinggi. Tapi apabila anda mengepal nya dengan tangan tak akan lengket dan akan hancur kembali. jenis pasir ini sungguh-sungguh lah bagus tuk Pengecoran, Plesteran Dinding, Adukan Pondasi dan Adukan Pasangan Bata Pasir ini yaitu pasir untuk Beton yaitu butiran-butiran mineral keras dan tajam berukuran antara 0,075 – 5 mm, kalau terdapat butiran berukuran lebih kecil dari 0,063 mm tak lebih dari 5% berat. Pasir ini yaitu pasir untuk Beton acap kali dipakai untuk profesi cor-coran struktur seperti kolom, balok dan pelat lantai.
 
@@ -52,9 +51,9 @@ Harga Pasir Urug Free Ongkir Ke Klari Karawang Sekiranya anda sebagai konsumen /
 Pasir kelas satu asal kp. jebrod cianjur jawa barat yang dipakai oleh indocement serta perusahaan batching plant lainnya sebagai bahan dasar produksi readymix concrete. Pasir ini paling disarankan untuk cor sebab irit semen juga mempunyai kandungan lumpur yang benar-benar rendah dibawah delapan %. warnanya Hitam abu tua atau hitam seperti hitamnya batu kali, ada juga yang hitam kemerahan atau hitam terasi
 
 3. **Pasir Hitam Rigid Cimangkok.** Pasir asal Lokasi penambangannya di cimangkok sukabumi jabar yang masih masuk pada golongan pasir hitam No. 1 di jabar, warnanya hitam kecoklatan pantas untuk cor, pasang pondasi dan bata
-    
+
     ![Harga Pasir Urug Free Ongkir Ke Klari Karawang](/images/info/pasir-hitam-2.jpg)
-    
+
 4. **Pasir Hitam Rigid Cimalaka Subang Bandung.**
 
 Pasir kelas satu yang berwarna hitam kebauan ada juga yang berwarna hitam abu tua. Banyak di aplikasikan untuk Beton, pasang dan keperluan lainnya. Ditambang di kampung cimalaka
@@ -90,9 +89,9 @@ Kecuali Rangkasbitung, Banten juga mempunyai lokasi pnembangan pasir lain sepert
 Masih dari kawasan di banten, pasir kelas tiga ini merupakan pasir yang banyak digunakan di proyek proyek perumahan atau cluster sebab harganya yang murah juga mutu yang tidak diragukan. Warna pasir ini hitam kecoklatan dan keabuan benar-benar dianjurkan untuk pasang pondasi, bata, batu dan sebagainya
 
 27. **Pasir Hitam Cor Bohlam Sukabumi.** Pasir dari Kawasan kp. bohlam di sukabumi berwarna hitam kecoklatan, betul-betul bagus untuk pasang bata, pondasi dan lainnya sebagai opsi pasir kwalitas unggul dan murah
-    
+
     ![Harga Pasir Urug Free Ongkir Ke Klari Karawang](/images/info/pasir-hitam-2.jpg)
-    
+
 28. **Pasir Rigid Galunggung.**
 
 Pasir ini ialah pasir hitam mutu paling unggul dikelasnya awam diterapkan oleh pabrik pengolahan beton readymix juga perusahan pembuatan precast dan kerap kali juga diaplikasikan untuk bahan pembuatan batako press hitam, paving block dan sebagainya. Pasir ini ditambang dari Tasikmalaya jabar.
@@ -100,21 +99,18 @@ Pasir ini ialah pasir hitam mutu paling unggul dikelasnya awam diterapkan oleh p
 ![Harga Pasir Urug Free Ongkir Ke Klari Karawang](/images/info/pasir-hitam-7.jpg)
 
 - ### Pasir Standar Di Klari Karawang
-    
 
 ![Harga Pasir Urug Free Ongkir Ke Klari Karawang](/images/info/pasir-putih12.jpg)
 
 Pasir ini lebih halus lagi dibandingi oleh pasir beton. seandainya anda mengepal pasir ini maka akan menggumpal dan tidak akan hancur kembali. pasir pasang biasa nya di manfaatkan untuk campuran pasir beton supaya tidak kelewat kasar dan dapat di manfaatkan untuk plesteran dinding.
 
 - ### Pasir Elod Untuk pemadatan lantai Di Klari Karawang
-    
 
 Di Antara ke dua pasir diatas pasir ragam ini lebih halus lagi, apabila anda mengepal nya maka akan menggumpal dan tidak akan hancur lagi. melainkan pasir macam
 
 Pada nya pasir ini nyaris sama dengan pasir beton akan namun pasir ini mempunyai tingkat kekasaran yg tinggi, butiran - butiran nya lumayan besar dan agak banyak batuan nya. pada lazimnya pasir jenis ini baik untuk bahan Pembuatan Batako
 
 - ### Pasir Putih Halus Untuk Lapangan Voly Di Klari Karawang
-    
 
 1. **Pasir Putih Bangka**
 

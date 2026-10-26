@@ -25,7 +25,7 @@ berdasarkan Standar Nasional Indonesia ( SK SNI - S - 04 - 1989 - F ; 28) di tut
 
 Prasyarat Pasir yang Baik Untuk Konstruksi Bangunan
 
-1.  Agregat Halus seharusnya terdiri dari butiran yang tajam dan keras dengan indeks kekerasan <2.2
+1.  Agregat Halus seharusnya terdiri dari butiran yang tajam dan keras dengan indeks kekerasan <2.2
 2. bilamana digunakan Natrium Sulfat bagian hancur optimal dua belas persen
 3. sekiranya diterapkan Magnesium Sulfat bagian halus maksimal 10%
 4. Tak boleh mengandung clay lebih dari 5%
@@ -41,7 +41,6 @@ Prasyarat Pasir yang Baik Untuk Konstruksi Bangunan
 setelah tahu persis prasyarat pasir tuk sebuah Konstruksi, pada saat ini kita bahas model - Jenis Pasir Untuk Konstruksi penjelasan nya berikut ini:
 
 - ### Pasir Untuk Beton Di Cilendek Barat Bogor
-    
 
 Pasir ini biasa nya berwarna coklat tua dan tingkat pecahan butiran nya cukup tinggi. Tapi seandainya anda mengepal nya dengan tangan tak akan menggumpal dan akan hancur kembali. jenis pasir ini amat lah bagus buat Pengecoran, Plesteran Dinding, Adukan Pondasi dan Adukan Pasangan Bata Pasir ini yaitu pasir untuk Beton merupakan butiran-butiran mineral keras dan tajam berukuran antara 0,075 – 5 mm, kalau terdapat butiran berukuran lebih kecil dari 0,063 mm tidak lebih dari 5% berat. Pasir ini yaitu pasir untuk Cor hampir kerap kali dimanfaatkan untuk profesi cor-coran struktur seperti kolom, balok dan pelat lantai.
 
@@ -59,21 +58,18 @@ Untuk mendapatkan ketahanan Cor yang maksimal maka pasir wajib sanggup memenuhi 
 ![Harga Pasir Rangkas Free Ongkir Ke Cilendek Barat Bogor](/images/info/jual-pasir-cor-hitam.jpg)
 
 - ### Pasir Standar Di Cilendek Barat Bogor
-    
 
 ![Harga Pasir Rangkas Free Ongkir Ke Cilendek Barat Bogor](/images/info/jual-pasir-mundu.jpg)
 
 Pasir ini ekstra halus lagi dibandingkan oleh pasir beton. seandainya anda mengepal pasir ini karenanya akan menggumpal dan tidak akan buyar kembali. pasir pasang umum nya di gunakan untuk campuran pasir beton agar tidak kelewat kasar dan bisa di manfaatkan untuk plesteran dinding.
 
 - ### Pasir Kualitas rendah Untuk pemadatan lantai Di Cilendek Barat Bogor
-    
 
 Di Antara ke dua pasir diatas pasir jenis ini lebih halus lagi, jikalau anda mengepal nya karenanya akan menggumpal dan tidak akan hancur lagi. tapi pasir ragam tak baik untuk di buat sebagai bahan bangunan. pasir tipe ini pada lazim nya di manfaatkan untuk Bahan Pembuatan Batako
 
 Pada lazim nya pasir ini nyaris sama dgn pasir beton akan tapi pasir ini mempunyai tingkat kekasaran yang tinggi, butiran - butiran nya lumayan besar dan agak banyak batuan nya. pada lazimnya pasir ragam ini bagus untuk bahan pemadatan lantai
 
 - ### Pasir Putih Tanpa Batu Untuk Lapangan Voly Di Cilendek Barat Bogor
-    
 
 1. **Pasir Putih Bangka**
 

@@ -50,13 +50,13 @@ d. tdk bisa menjangkau area yang sempit. Mengingat Besi WF ini berukuran panjang
 
 ### Kelebihan Dari Besi WF Di Bungur Jakarta
 
-1\. Bisa memaksimalkan waktu dalam pembangunan sebuah konstruksi bangunan, menghemat waktu dan juga mengurangi biaya dan tenaga tukang.
+1. Bisa memaksimalkan waktu dalam pembangunan sebuah konstruksi bangunan, menghemat waktu dan juga mengurangi biaya dan tenaga tukang.
 
-2\. Dapat menyangga bobot yang amat berat, tdk mudah memuai dan lebih simple penggunaannya dibanding dengan material struktural lainnya.
+2. Dapat menyangga bobot yang amat berat, tdk mudah memuai dan lebih simple penggunaannya dibanding dengan material struktural lainnya.
 
-3\. Mempunyai fleksibilitas yang tinggi. Sehingga struktur bangunan yang diwujudkan dari Besi WF ini menjadi lebih kuat tidak mudah bergeser, tidak mudah ambruk ataupun goyang. Amat sesuai untuk macam bangunan diatas tanah yang labil atau kerap kali terjadi gempa.
+3. Mempunyai fleksibilitas yang tinggi. Sehingga struktur bangunan yang diwujudkan dari Besi WF ini menjadi lebih kuat tidak mudah bergeser, tidak mudah ambruk ataupun goyang. Amat sesuai untuk macam bangunan diatas tanah yang labil atau kerap kali terjadi gempa.
 
-4\. Lebih hemat karena struktur bangunan yang menggunakan Besi WF akan mempunyai kekuatan yang cukup lama malah sampai ratusan tahun. Tentunya ini merupakan investasi yang benar-benar murah kalau kita bandingkan dengan waktu pakai. Malah bangunan yang dibangun dengan tulangan Besi WF dapat kita wariskan kepada si kecil cucu kita.
+4. Lebih hemat karena struktur bangunan yang menggunakan Besi WF akan mempunyai kekuatan yang cukup lama malah sampai ratusan tahun. Tentunya ini merupakan investasi yang benar-benar murah kalau kita bandingkan dengan waktu pakai. Malah bangunan yang dibangun dengan tulangan Besi WF dapat kita wariskan kepada si kecil cucu kita.
 
 ## Mengetahui Besi H Beam Di Bungur Jakarta
 
@@ -72,15 +72,15 @@ Sama seperti besi yang kami paparkan sebelumnya ialah Besi WF, besi H-Beam pun m
 
 ### Keunggulan Besi H Beam Di Bungur Jakarta
 
-1\. Mudah untuk diperoleh. Banyak toko besi yang menyediakan stok besi H-Beam beragam ukuran. Sehingga besi H-Beam ini benar-benar mudah untuk diperoleh, tidak sulit untuk memperoleh supplier besi yang menjual besi H Beam.
+1. Mudah untuk diperoleh. Banyak toko besi yang menyediakan stok besi H-Beam beragam ukuran. Sehingga besi H-Beam ini benar-benar mudah untuk diperoleh, tidak sulit untuk memperoleh supplier besi yang menjual besi H Beam.
 
-2\. Mudah Dalam Pemasangan. Banyak tukang spesialis dalam pemasangan besi H Beam. Meski besi H-Beam ini seharusnya dipasang oleh tukang yang ahli namun tukang yang ahli dalam memasang besi H Beam ini benar-benar banyak kita temui hari ini. Sehingga tidak perlu dikhawatirkan lagi pengerjaan pemasangannya.
+2. Mudah Dalam Pemasangan. Banyak tukang spesialis dalam pemasangan besi H Beam. Meski besi H-Beam ini seharusnya dipasang oleh tukang yang ahli namun tukang yang ahli dalam memasang besi H Beam ini benar-benar banyak kita temui hari ini. Sehingga tidak perlu dikhawatirkan lagi pengerjaan pemasangannya.
 
-3\. Memiliki kekuatan yang tdk diragukan lagi. Besi H Beam telah teruji selama bertahun-tahun dalam kontruksi bangunan. Apakah skala kecil ataupun skala besar dan terbilang amat awet seandainya dibandingkan dengan material lainnya. Dapat bertahan hingga puluhan hingga ratusan tahun.
+3. Memiliki kekuatan yang tdk diragukan lagi. Besi H Beam telah teruji selama bertahun-tahun dalam kontruksi bangunan. Apakah skala kecil ataupun skala besar dan terbilang amat awet seandainya dibandingkan dengan material lainnya. Dapat bertahan hingga puluhan hingga ratusan tahun.
 
-4\. Gampang dalam pemeliharaannya. Bangunan yang mengaplikasikan besi H Beam sebagai struktur tulangan bangunannya akan sungguh-sungguh gampang dalam melaksanakan perawatannya. tidak perlu pengecatan dengan cat khusus maupun pembersihan tiap-tiap waktu.
+4. Gampang dalam pemeliharaannya. Bangunan yang mengaplikasikan besi H Beam sebagai struktur tulangan bangunannya akan sungguh-sungguh gampang dalam melaksanakan perawatannya. tidak perlu pengecatan dengan cat khusus maupun pembersihan tiap-tiap waktu.
 
-5\. Memaksimalkan penerapan material lainnya, seperti penerapan bekisting, penggunaan tiang penyangga atau perancah dan juga material pasir. Besi H Beam Tdk membutuhkan material pasir dalam penerapannya.
+5. Memaksimalkan penerapan material lainnya, seperti penerapan bekisting, penggunaan tiang penyangga atau perancah dan juga material pasir. Besi H Beam Tdk membutuhkan material pasir dalam penerapannya.
 
 ### Kekurangan Dari Besi H Beam Di Bungur Jakarta
 

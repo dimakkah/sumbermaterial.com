@@ -25,7 +25,7 @@ berdasarkan Standar Nasional Indonesia ( SK SNI - S - 04 - 1989 - F ; 28) di seb
 
 Persyaratan Pasir yg Baik buat Bangunan
 
-1.  Agregat Halus semestinya terdiri dari butiran yg tajam dan keras dengan indeks kekerasan <2.2
+1.  Agregat Halus semestinya terdiri dari butiran yg tajam dan keras dengan indeks kekerasan <2.2
 2. Jikalau diterapkan Natrium Sulfat bagian hancur maksimal 12 persen
 3. sekiranya diaplikasikan Magnesium Sulfat komponen halus optimal 5 persen
 4. Tidak boleh memuat clay lebih dari lima %
@@ -41,7 +41,6 @@ Persyaratan Pasir yg Baik buat Bangunan
 Sesudah tahu persis persyaratan pasir tuk sebuah Konstruksi, sekarang ini kita bahas Jenis - Macam Pasir Untuk Konstruksi Bangunan penjelasan nya sebagai berikut:
 
 - ### Pasir Rigid Di Tanah Baru Depok
-    
 
 Pasir ini umum nya berwarna coklat tua dan tingkat kekasaran butiran nya cukup tinggi. Tetapi seandainya anda mengepal nya dengan tangan tak akan lengket dan akan buyar kembali. tipe pasir ini amat lah bagus buat Pengecoran, Plesteran Dinding, Adukan Pondasi dan Adukan Pasangan Bata Pasir ini yaitu pasir untuk Cor adalah butiran-butiran mineral keras dan tajam berukuran antara 0,075 – 5 mm, apabila terdapat butiran berukuran lebih kecil dari 0,063 mm tidak lebih dari 5% berat. Pasir ini yaitu pasir untuk Beton sering diterapkan untuk pekerjaan cor-coran struktur seperti kolom, balok dan pelat lantai.
 
@@ -59,21 +58,18 @@ Untuk menerima kualitas Beton yang optimal maka pasir wajib dapat memenuhi syara
 ![Harga Pasir Jalupang Free Ongkir Ke Tanah Baru Depok](/images/info/pasir-hitam-1.jpg)
 
 - ### Pasir Pasang Di Tanah Baru Depok
-    
 
 ![Harga Pasir Jalupang Free Ongkir Ke Tanah Baru Depok](/images/info/jual-pasir-mundu.jpg)
 
 Pasir ini ekstra halus lagi dibandingi oleh pasir beton. jika kamu mengepal pasir ini karenanya akan menggumpal dan tak akan hancur kembali. pasir pasang umum nya di pakai buat adukan pasir beton agar tidak terlampau kasar dan bisa di pakai untuk plesteran dinding.
 
 - ### Pasir Elod Untuk Pembuatan Batako Di Tanah Baru Depok
-    
 
 Di Antara ke dua pasir diatas pasir ragam ini lebih halus lagi, apabila anda mengepal nya akan menggumpal dan tidak akan hancur lagi. tapi pasir ragam tidak baik tuk di buat sebagai bahan bangunan. pasir model ini pada lazim nya di manfaatkan tuk Bahan Pembuatan Batako
 
 Pada umum nya pasir ini nyaris sama dgn pasir beton namun pasir ini mempunyai tingkat kekasaran yang tinggi, butiran - butiran nya lumayan besar dan agak banyak batuan nya. pada lazimnya pasir tipe ini bagus untuk bahan pengurugan lantai
 
 - ### Pasir Putih Halus Untuk Hiasan Di Tanah Baru Depok
-    
 
 1. **Pasir Putih Bangka**
 

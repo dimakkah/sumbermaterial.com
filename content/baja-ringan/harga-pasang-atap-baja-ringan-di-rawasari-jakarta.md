@@ -19,15 +19,15 @@ Mungkin Anda bertanya-tanya, bagaimana cara memasang baja ringan untuk bangunan 
 
 ## Mengapa Memilih Kerangka Atap dan Canopy Baja Ringan?
 
-Apa saja keuntungan yang bisa Anda dapatkan dengan memilih baja ringan? Ini kami berikan beberapa alasan dasar yang wajib Anda ketahui sebelum menghubungi kami, tentang mengapa Anda harus memilih baja ringan sebagai kerangka atap dan Kanopi. 
+Apa saja keuntungan yang bisa Anda dapatkan dengan memilih baja ringan? Ini kami berikan beberapa alasan dasar yang wajib Anda ketahui sebelum menghubungi kami, tentang mengapa Anda harus memilih baja ringan sebagai kerangka atap dan Kanopi.
 
-*   Baja ringan dianggap lebih ramah lingkungan karena Anda tidak memerlukan kayu. Mendapatkan kayu seringkali membutuhkan penebangan pohon. Dengan menerapkan kerangka baja ringan sebagai kerangka atap dan Canopy, Anda telah ikut berkontribusi dalam melestarikan alam.
-*   Lebih ekonomis.  Jika Anda menggunakan kerangka dari bahan kayu, kami rasa harganya akan jauh lebih mahal karena untuk mendapatkan kayu dengan mutu terbaik dibutuhkan juga tarif yang lebih besar. Terutama ini untuk komponen kerangka yang pastinya cukup krusial untuk sebuah bangunan. Anda harus memikirkan ini matang-matang untuk menekan biaya pembangunan.
-*   Ringan dan kuat. Baja ringan berbeda dengan “ baja / besi “ yang memiliki berat 2 kali lipat dari berat baja ringan. Baja ringan memiliki ketebalan yang tipis dan ringan, sehingga benar-benar kuat untuk kerangka atap dan pembuatan Canopy rumah Anda.
-*   Minim perawatan. Anda tidak perlu cemas kerangka atap Anda rusak dan lain-lain, kami yakin ini akan membebaskan Anda dari perawatan tahunan yang mahal.
-*   Pengerjaan pemasangan yang cepat. Berbeda dengan kerangka atap yang terbuat dari bahan kayu dan bahan lain, yang memerlukan waktu yang lama dalam pelaksanaannya. Ini tidak berlaku bagi Anda yang menggunakan kerangka atap dari bahan baja ringan.
-*   Bahan berkualitas tinggi. Baja ringan dari kami bukanlah baja ringan sembarangan. Bahan utamanya merupakan zinc dan aluminium yang sudah memiliki sertifikasi dan standar keamanan 4 kali lebih baik dibandingkan baja biasa. Bahkan, kekuatannya dapat menahan berkilo-kilo.
-*   Tahan terhadap rayap, kami pastikan juga bahwa kerangka atap dan Canopy dari baja ringan ini dijamin tahan rayap.
+- Baja ringan dianggap lebih ramah lingkungan karena Anda tidak memerlukan kayu. Mendapatkan kayu seringkali membutuhkan penebangan pohon. Dengan menerapkan kerangka baja ringan sebagai kerangka atap dan Canopy, Anda telah ikut berkontribusi dalam melestarikan alam.
+- Lebih ekonomis.  Jika Anda menggunakan kerangka dari bahan kayu, kami rasa harganya akan jauh lebih mahal karena untuk mendapatkan kayu dengan mutu terbaik dibutuhkan juga tarif yang lebih besar. Terutama ini untuk komponen kerangka yang pastinya cukup krusial untuk sebuah bangunan. Anda harus memikirkan ini matang-matang untuk menekan biaya pembangunan.
+- Ringan dan kuat. Baja ringan berbeda dengan “ baja / besi “ yang memiliki berat 2 kali lipat dari berat baja ringan. Baja ringan memiliki ketebalan yang tipis dan ringan, sehingga benar-benar kuat untuk kerangka atap dan pembuatan Canopy rumah Anda.
+- Minim perawatan. Anda tidak perlu cemas kerangka atap Anda rusak dan lain-lain, kami yakin ini akan membebaskan Anda dari perawatan tahunan yang mahal.
+- Pengerjaan pemasangan yang cepat. Berbeda dengan kerangka atap yang terbuat dari bahan kayu dan bahan lain, yang memerlukan waktu yang lama dalam pelaksanaannya. Ini tidak berlaku bagi Anda yang menggunakan kerangka atap dari bahan baja ringan.
+- Bahan berkualitas tinggi. Baja ringan dari kami bukanlah baja ringan sembarangan. Bahan utamanya merupakan zinc dan aluminium yang sudah memiliki sertifikasi dan standar keamanan 4 kali lebih baik dibandingkan baja biasa. Bahkan, kekuatannya dapat menahan berkilo-kilo.
+- Tahan terhadap rayap, kami pastikan juga bahwa kerangka atap dan Canopy dari baja ringan ini dijamin tahan rayap.
 
 ## Cara Menghitung Luas Rangka Baja Ringan Di Rawasari Jakarta
 
@@ -43,7 +43,7 @@ Perhitungan luas datar adalah ( *overstack* + Panjang ) x ( lebar + *overstack* 
 
 ### Menentukan Luas Miring
 
-Penentuan luas miring perhitungannya adalah Luas miring = Luas datar / Cosinus dengan kemiringan atap. Perhitungannya 181.44/0.8666 menghasilkan 209.52 meter. Jadi untuk luas kemiringan pada rangka atap baja ringan ini adalah 209.52 meter. 
+Penentuan luas miring perhitungannya adalah Luas miring = Luas datar / Cosinus dengan kemiringan atap. Perhitungannya 181.44/0.8666 menghasilkan 209.52 meter. Jadi untuk luas kemiringan pada rangka atap baja ringan ini adalah 209.52 meter.
 
 Dengan perhitungan ini, Anda dapat memperkirakan jumlah dan volume baja ringan yang dibutuhkan. Namun, jika terasa sulit dilakukan, jangan ragu untuk menghubungi tim kami.
 
@@ -57,10 +57,10 @@ Mari kita bahas biaya jasa pasang baja ringan. Sebenarnya sudah banyak informasi
 
 (Catatan: harga dapat berubah sewaktu-waktu) Berikut ini perkiraan biaya jasa pasang baja ringan berdasarkan jenis pemasangannya, baik kanopi maupun kerangka atap:
 
-*   Kanopi dengan rangka baja ringan “ Polikarbonat x Lite Rp. 285.000 / m
-*   Kanopi dengan rangka baja ringan “ Spandek Rp. 225.000 / m
-*   Kanopi dengan rangka baja ringan “ Gogreen Rp. 200.000 /m
-*   Untuk perhitungan lainnya, silakan hubungi kami melalui kontak yang sudah kami sediakan di website kami.
+- Kanopi dengan rangka baja ringan “ Polikarbonat x Lite Rp. 285.000 / m
+- Kanopi dengan rangka baja ringan “ Spandek Rp. 225.000 / m
+- Kanopi dengan rangka baja ringan “ Gogreen Rp. 200.000 /m
+- Untuk perhitungan lainnya, silakan hubungi kami melalui kontak yang sudah kami sediakan di website kami.
 
 ## Faktor yang Mempengaruhi Besaran Harga Jasa Pasang Baja Ringan
 
@@ -80,12 +80,10 @@ Tahap selanjutnya, setelah pembuatan sketsa dan perhitungan rangka telah dilakuk
 
 Berikut informasi detil dari biaya jasa pasang baja ringan yang harus Anda ketahui, ini penting untuk Anda ketahui dalam menentukan besaran budget yang dibutuhkan:
 
-*   Biaya jasa kami sudah termasuk harga pasangan yang tentunya lebih kompetitif dan menawarkan diskon menarik untuk konsumen.
-*   Harga yang kami tawarkan sudah sesuai dengan jasa pemasangan, perhitungan, dan material yang terpasang.
-*   Harga terbaik dari kami selalu kami berikan pada saat berdiskusi dengan Anda.
-*   Biaya jasa pasang baja ringan dapat mengalami perubahan karena fluktuasi harga material.
-*   Pembayaran dapat dilakukan dengan *down payment* dan sisanya setelah pemasangan selesai.
-
-
+- Biaya jasa kami sudah termasuk harga pasangan yang tentunya lebih kompetitif dan menawarkan diskon menarik untuk konsumen.
+- Harga yang kami tawarkan sudah sesuai dengan jasa pemasangan, perhitungan, dan material yang terpasang.
+- Harga terbaik dari kami selalu kami berikan pada saat berdiskusi dengan Anda.
+- Biaya jasa pasang baja ringan dapat mengalami perubahan karena fluktuasi harga material.
+- Pembayaran dapat dilakukan dengan *down payment* dan sisanya setelah pemasangan selesai.
 
 Demikian informasi mengenai Harga Pasang Atap Baja Ringan Di Rawasari Jakarta. Jangan ragu untuk menghubungi kami untuk konsultasi gratis dan penawaran terbaik! Kami siap membantu Anda mewujudkan atap impian Anda dengan baja ringan berkualitas. Hubungi kami sekarang untuk informasi lebih lanjut!

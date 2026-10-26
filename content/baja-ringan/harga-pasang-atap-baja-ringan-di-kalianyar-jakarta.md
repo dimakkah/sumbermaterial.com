@@ -21,13 +21,13 @@ Apakah Anda sedang merencanakan pemasangan baja ringan untuk bangunan Anda di Ka
 
 Mengapa memilih baja ringan sebagai kerangka atap dan kanopi? Berikut beberapa alasan yang perlu Anda pertimbangkan sebelum menghubungi kami:
 
- **Ramah Lingkungan:** Baja ringan lebih ramah lingkungan karena tidak memerlukan kayu, yang berarti Anda turut melestarikan alam dengan menghindari penebangan pohon. 
- **Lebih Ekonomis:** Dibandingkan dengan kerangka kayu, baja ringan umumnya lebih terjangkau. Biaya kayu berkualitas tinggi bisa sangat mahal, terutama untuk bagian kerangka yang krusial bagi kekuatan bangunan. Memilih baja ringan dapat membantu Anda menekan biaya pembangunan.
- **Ringan dan Kuat:** Baja ringan berbeda dengan baja atau besi konvensional yang jauh lebih berat. Dengan ketebalan yang tipis namun tetap ringan, baja ringan menawarkan kekuatan luar biasa untuk kerangka atap dan kanopi rumah Anda.
- **Perawatan Minimal:** Anda tidak perlu khawatir tentang perawatan rutin yang memakan waktu dan biaya. Baja ringan dirancang untuk tahan lama dan minim perawatan.
- **Pemasangan Cepat:** Proses pemasangan baja ringan jauh lebih cepat dibandingkan dengan kerangka atap kayu dan material lainnya. Ini akan menghemat waktu Anda dan mempercepat penyelesaian proyek.
- **Kualitas Terjamin:** Baja ringan yang kami gunakan adalah produk berkualitas tinggi, terbuat dari zinc dan aluminium dengan sertifikasi keamanan 4 kali lebih baik dari baja biasa. Material ini mampu menahan beban berat dengan aman.
- **Tahan Rayap:** Anda tidak perlu khawatir tentang serangan rayap yang dapat merusak kerangka atap dan kanopi. Baja ringan dijamin tahan terhadap rayap.
+- **Ramah Lingkungan:** Baja ringan lebih ramah lingkungan karena tidak memerlukan kayu, yang berarti Anda turut melestarikan alam dengan menghindari penebangan pohon.
+- **Lebih Ekonomis:** Dibandingkan dengan kerangka kayu, baja ringan umumnya lebih terjangkau. Biaya kayu berkualitas tinggi bisa sangat mahal, terutama untuk bagian kerangka yang krusial bagi kekuatan bangunan. Memilih baja ringan dapat membantu Anda menekan biaya pembangunan.
+- **Ringan dan Kuat:** Baja ringan berbeda dengan baja atau besi konvensional yang jauh lebih berat. Dengan ketebalan yang tipis namun tetap ringan, baja ringan menawarkan kekuatan luar biasa untuk kerangka atap dan kanopi rumah Anda.
+- **Perawatan Minimal:** Anda tidak perlu khawatir tentang perawatan rutin yang memakan waktu dan biaya. Baja ringan dirancang untuk tahan lama dan minim perawatan.
+- **Pemasangan Cepat:** Proses pemasangan baja ringan jauh lebih cepat dibandingkan dengan kerangka atap kayu dan material lainnya. Ini akan menghemat waktu Anda dan mempercepat penyelesaian proyek.
+- **Kualitas Terjamin:** Baja ringan yang kami gunakan adalah produk berkualitas tinggi, terbuat dari zinc dan aluminium dengan sertifikasi keamanan 4 kali lebih baik dari baja biasa. Material ini mampu menahan beban berat dengan aman.
+- **Tahan Rayap:** Anda tidak perlu khawatir tentang serangan rayap yang dapat merusak kerangka atap dan kanopi. Baja ringan dijamin tahan terhadap rayap.
 
 ## Sistem Hitung Luas Rangka Baja Ringan Di Kalianyar Jakarta
 
@@ -37,7 +37,7 @@ Anda bisa menghitung sendiri luas rangka baja ringan jika ingin mengetahui perki
 
 **Menentukan Luas Datar:** Perhitungan luas datar adalah (overstack + Panjang) x (lebar + overstack). Jadi, (15 + 0.6 + 0.6) x (10 + 0.6 + 0.6) = 16.2 x 11.2 dengan hasil luas datar: 181.44 meter persegi.
 
-**Mempertimbangkan Luas Miring:** Luas miring dihitung dengan rumus Luas miring = Luas datar / Cosinus dg kemiringan atap. Jadi, 181.44 / 0.8666 menghasilkan 209.52 meter persegi. Dengan demikian, luas kemiringan pada rangka atap baja ringan ini adalah 209.52 m². 
+**Mempertimbangkan Luas Miring:** Luas miring dihitung dengan rumus Luas miring = Luas datar / Cosinus dg kemiringan atap. Jadi, 181.44 / 0.8666 menghasilkan 209.52 meter persegi. Dengan demikian, luas kemiringan pada rangka atap baja ringan ini adalah 209.52 m².
 
 Dengan perhitungan ini, Anda dapat memperkirakan jumlah dan volume baja ringan yang dibutuhkan. Namun, jika terasa rumit, jangan ragu untuk menghubungi kami! Kami siap membantu Anda.
 
@@ -68,7 +68,7 @@ Setelah Anda memiliki sketsa pemasangan, kami akan menghitung kebutuhan rangka y
 
 ### 3. Menghitung Budget yang Diperlukan
 
-Tahap selanjutnya adalah mendiskusikan perkiraan biaya dari seluruh proses pemasangan baja ringan. Budget yang dibutuhkan bergantung pada beberapa faktor seperti jumlah rangka, luas area kerangka, material tambahan, biaya teknisi, dan pengiriman. Mintalah rincian biaya jasa pasang baja ringan dari tim kami untuk membantu Anda menyiapkan budget. Anda juga dapat memilih jenis baja ringan dari yang standar hingga yang berkualitas tinggi, dan berkonsultasilah dengan teknisi kami di lokasi Anda. 
+Tahap selanjutnya adalah mendiskusikan perkiraan biaya dari seluruh proses pemasangan baja ringan. Budget yang dibutuhkan bergantung pada beberapa faktor seperti jumlah rangka, luas area kerangka, material tambahan, biaya teknisi, dan pengiriman. Mintalah rincian biaya jasa pasang baja ringan dari tim kami untuk membantu Anda menyiapkan budget. Anda juga dapat memilih jenis baja ringan dari yang standar hingga yang berkualitas tinggi, dan berkonsultasilah dengan teknisi kami di lokasi Anda.
 
 ## Rincian Harga Layanan Pasang Baja Ringan Di Kalianyar Jakarta
 

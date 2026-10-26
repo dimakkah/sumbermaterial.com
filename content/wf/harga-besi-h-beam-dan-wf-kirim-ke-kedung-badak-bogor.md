@@ -50,13 +50,13 @@ d. tdk bisa menjangkau lokasi yang sempit. Mengingat Besi WF ini berukuran panja
 
 ### Kelebihan Dari Besi WF Di Kedung Badak Bogor
 
-1\. Dapat menghemat waktu dalam pembangunan sebuah konstruksi bangunan, memaksimalkan waktu dan juga menghemat ongkos dan tukang pasang.
+1. Dapat menghemat waktu dalam pembangunan sebuah konstruksi bangunan, memaksimalkan waktu dan juga menghemat ongkos dan tukang pasang.
 
-2\. Dapat menyangga beban yang sangat berat, tidak mudah memuai dan lebih simple penggunaannya dibanding dengan material struktural lainnya.
+2. Dapat menyangga beban yang sangat berat, tidak mudah memuai dan lebih simple penggunaannya dibanding dengan material struktural lainnya.
 
-3\. Memiliki fleksibilitas yang tinggi. Sehingga struktur bangunan yang dihasilkan dari Besi WF ini menjadi lebih kuat tdk mudah bergeser, tdk gampang ambrol ataupun goyang. Amat sesuai untuk tipe bangunan diatas tanah yang labil atau sering kali terjadi gempa.
+3. Memiliki fleksibilitas yang tinggi. Sehingga struktur bangunan yang dihasilkan dari Besi WF ini menjadi lebih kuat tdk mudah bergeser, tdk gampang ambrol ataupun goyang. Amat sesuai untuk tipe bangunan diatas tanah yang labil atau sering kali terjadi gempa.
 
-4\. Lebih hemat sebab struktur bangunan yang mengaplikasikan Besi WF akan mempunyai ketahanan yang cukup lama malah hingga ratusan tahun. Tentunya ini adalah investasi yang amat murah jika kita bandingkan dengan waktu gunakan. Bahkan bangunan yang dibangun dengan tulangan Besi WF bisa kita wariskan kepada buah hati cucu kita.
+4. Lebih hemat sebab struktur bangunan yang mengaplikasikan Besi WF akan mempunyai ketahanan yang cukup lama malah hingga ratusan tahun. Tentunya ini adalah investasi yang amat murah jika kita bandingkan dengan waktu gunakan. Bahkan bangunan yang dibangun dengan tulangan Besi WF bisa kita wariskan kepada buah hati cucu kita.
 
 ## Mengetahui Besi H Beam Di Kedung Badak Bogor
 
@@ -72,15 +72,15 @@ Sama seperti besi yang kami paparkan sebelumnya yakni Besi WF, besi H-Beam malah
 
 ### Keunggulan Besi H Beam Di Kedung Badak Bogor
 
-1\. Mudah untuk didapatkan. Banyak toko besi yang menyediakan stok besi H-Beam bermacam-macam ukuran. Sehingga besi H-Beam ini benar-benar mudah untuk didapatkan, tidak sulit untuk memperoleh supplier besi yang menjual besi H Beam.
+1. Mudah untuk didapatkan. Banyak toko besi yang menyediakan stok besi H-Beam bermacam-macam ukuran. Sehingga besi H-Beam ini benar-benar mudah untuk didapatkan, tidak sulit untuk memperoleh supplier besi yang menjual besi H Beam.
 
-2\. Gampang Dalam Pemasangan. Banyak tukang ahli dalam pemasangan besi H Beam. Meski besi H-Beam ini seharusnya dipasang oleh tukang yang ahli namun tukang yang profesional dalam memasang besi H Beam ini sangat banyak kita temui hari ini. Sehingga tdk perlu dikhawatirkan lagi progres pemasangannya.
+2. Gampang Dalam Pemasangan. Banyak tukang ahli dalam pemasangan besi H Beam. Meski besi H-Beam ini seharusnya dipasang oleh tukang yang ahli namun tukang yang profesional dalam memasang besi H Beam ini sangat banyak kita temui hari ini. Sehingga tdk perlu dikhawatirkan lagi progres pemasangannya.
 
-3\. Memiliki kekuatan yang tidak diragukan lagi. Besi H Beam telah teruji selama bertahun-tahun dalam kontruksi bangunan. Apakah skala kecil maupun skala besar dan terbilang sungguh-sungguh awet sekiranya dibandingkan dengan material lainnya. Dapat bertahan hingga puluhan sampai ratusan tahun.
+3. Memiliki kekuatan yang tidak diragukan lagi. Besi H Beam telah teruji selama bertahun-tahun dalam kontruksi bangunan. Apakah skala kecil maupun skala besar dan terbilang sungguh-sungguh awet sekiranya dibandingkan dengan material lainnya. Dapat bertahan hingga puluhan sampai ratusan tahun.
 
-4\. Mudah dalam perawatannya. Bangunan yang memakai besi H Beam sebagai struktur tulangan bangunannya akan amat gampang dalam mengerjakan pemeliharaannya. tidak perlu pengecatan dengan cat khusus maupun pembersihan setiap waktu.
+4. Mudah dalam perawatannya. Bangunan yang memakai besi H Beam sebagai struktur tulangan bangunannya akan amat gampang dalam mengerjakan pemeliharaannya. tidak perlu pengecatan dengan cat khusus maupun pembersihan setiap waktu.
 
-5\. Mengurangi penggunaan material lainnya, seperti pemakaian bekisting, pemakaian perancah atau tiang penyangga dan juga material pasir. Besi H Beam Tdk memerlukan material pasir dalam penerapannya.
+5. Mengurangi penggunaan material lainnya, seperti pemakaian bekisting, pemakaian perancah atau tiang penyangga dan juga material pasir. Besi H Beam Tdk memerlukan material pasir dalam penerapannya.
 
 ### Kekurangan Dari Besi H Beam Di Kedung Badak Bogor
 

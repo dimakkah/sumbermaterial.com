@@ -25,7 +25,7 @@ menurut Standar Nasional Indonesia ( SK SNI - S - 04 - 1989 - F ; 28) di sebutka
 
 Persyaratan Pasir yg Baik Untuk Bangunan
 
-1.  Agregat Halus sepatutnya terdiri dari butiran yang tajam dan keras dengan indeks kekerasan <2.2
+1.  Agregat Halus sepatutnya terdiri dari butiran yang tajam dan keras dengan indeks kekerasan <2.2
 2. Kalau dimanfaatkan Natrium Sulfat komponen hancur optimal 12%
 3. jika dipakai Magnesium Sulfat komponen halus maksimal sepuluh %
 4. Tidak boleh memuat lumpur lebih dari lima persen
@@ -41,7 +41,6 @@ Persyaratan Pasir yg Baik Untuk Bangunan
 sesudah mengenal prasyarat pasir tuk suatu Bangunan, sekarang ini kita bahas Tipe - Tipe Pasir Untuk Bangunan penjelasan nya sbb:
 
 - ### Pasir Tipe Rigid dan Tempat Pengambilannya Di Katulampa Bogor
-    
 
 Pasir ini biasa nya berwarna hitam gelap dan tingkat pecahan butiran nya lumayan tinggi. Tetapi kalau anda mengepal nya dengan tangan tidak akan lengket dan akan hancur kembali. tipe pasir ini sungguh-sungguh lah bagus tuk Pengecoran, Plesteran Dinding, Adukan Pondasi dan Adukan Pasangan Bata Pasir ini yaitu pasir untuk Beton ialah butiran-butiran mineral keras dan tajam berukuran antara 0,075 – 5 mm, sekiranya terdapat butiran berukuran lebih kecil dari 0,063 mm tak lebih dari 5% berat. Pasir ini yaitu pasir untuk Rigid sering kali dimanfaatkan untuk pekerjaan cor-coran struktur seperti kolom, balok dan pelat lantai.
 
@@ -52,9 +51,9 @@ Harga Pasir Mainan Anak Free Ongkir Ke Katulampa Bogor Sekiranya anda sebagai ko
 Pasir kelas satu asli kp. jebrod cianjur jawa barat yang diterapkan oleh indocement serta perusahaan batching plant lainnya sebagai bahan dasar produksi readymix concrete. Pasir ini paling dianjurkan untuk cor sebab irit semen juga mempunyai kandungan lumpur yang betul-betul rendah dibawah delapan %. warnanya Hitam abu tua atau hitam seperti hitamnya batu kali, ada juga yang hitam kemerahan atau hitam terasi
 
 3. **Pasir Hitam Rigid Cimangkok.** Pasir asli Tempat penambangannya di cimangkok sukabumi jabar yang masih masuk pada klasifikasi pasir hitam kelas satu di jawa barat, warnanya hitam kecoklatan sesuai untuk cor, pasang pondasi dan bata
-    
+
     ![Harga Pasir Mainan Anak Free Ongkir Ke Katulampa Bogor](/images/info/pasir-hitam-9.jpg)
-    
+
 4. **Pasir Hitam Rigid Cimalaka Subang Bandung.**
 
 Pasir terbaik yang berwarna hitam kebauan ada juga yang berwarna hitam abu tua. Banyak di aplikasikan untuk Cor, pasang dan keperluan lainnya. Ditambang di Daerah cimalaka
@@ -90,9 +89,9 @@ Kecuali Rangkasbitung, Banten juga mempunyai lokasi pnembangan pasir lain sepert
 Masih dari Tempat di banten, pasir kelas tiga ini yakni pasir yang banyak diaplikasikan di proyek proyek perumahan atau cluster sebab harganya yang murah juga mutu yang unggul. Warna pasir ini hitam kecoklatan dan keabuan amat disarankan untuk pasang pondasi, bata, batu dan lainnya
 
 27. **Pasir Hitam Rigid Bohlam Sukabumi.** Pasir dari Daerah kp. bohlam di sukabumi berwarna hitam kecoklatan, amat bagus untuk pasang bata, pondasi dan lain-lain sebagai opsi pasir kwalitas tidak diragukan dan murah
-    
+
     ![Harga Pasir Mainan Anak Free Ongkir Ke Katulampa Bogor](/images/info/pasir-hitam-8.jpg)
-    
+
 28. **Pasir Cor Galunggung.**
 
 Pasir ini yakni pasir hitam kwalitas paling unggul dikelasnya lazim diaplikasikan oleh pabrik pengolahan beton readymix juga perusahan pembuatan precast dan tak jarang juga diterapkan untuk bahan pembuatan batako press hitam, paving block dsb. Pasir ini ditambang dari Tasikmalaya jawa barat.
@@ -100,21 +99,18 @@ Pasir ini yakni pasir hitam kwalitas paling unggul dikelasnya lazim diaplikasika
 ![Harga Pasir Mainan Anak Free Ongkir Ke Katulampa Bogor](/images/info/jual-pasir-cor-hitam.jpg)
 
 - ### Pasir Standar Di Katulampa Bogor
-    
 
 ![Harga Pasir Mainan Anak Free Ongkir Ke Katulampa Bogor](/images/info/pasir-putih12.jpg)
 
 Pasir ini ekstra halus lagi dibandingi oleh pasir beton. jikalau kalian mengepal pasir ini maka akan menggumpal dan tidak akan hancur kembali. pasir pasang biasa nya di manfaatkan buat adukan pasir beton supaya tidak terlalu kasar dan dapat di gunakan untuk plesteran dinding.
 
 - ### Pasir Urug Untuk Dasaran Pemasangan Granit Di Katulampa Bogor
-    
 
 Di Antara ke dua pasir diatas pasir tipe ini lebih halus lagi, jikalau kamu mengepal nya karenanya akan menggumpal dan tidak akan buyar lagi. tetapi pasir ragam tidak baik untuk di buat sebagai bahan bangunan. pasir tipe ini pada umum nya di pakai untuk Bahan Pembuatan Batako
 
 Pada umum nya pasir ini nyaris sama dengan pasir beton akan namun pasir ini mempunyai tingkat kekasaran yang tinggi, butiran - butiran nya cukup besar dan agak banyak batuan nya. pada lazimnya pasir ragam ini baik tuk bahan pengurugan lantai
 
 - ### Pasir Putih Tanpa Batu Untuk Pasang Lantai Marmer Di Katulampa Bogor
-    
 
 1. **Pasir Putih Bangka**
 

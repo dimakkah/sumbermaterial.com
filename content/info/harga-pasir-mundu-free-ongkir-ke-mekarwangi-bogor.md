@@ -25,7 +25,7 @@ menurut Standar Nasional Indonesia ( SK SNI - S - 04 - 1989 - F ; 28) di tuturka
 
 Prasyarat Pasir yg Baik Untuk Bangunan
 
-1.  Agregat Halus seharusnya terdiri dari butiran yang tajam dan keras dengan indeks kekerasan <2.2
+1.  Agregat Halus seharusnya terdiri dari butiran yang tajam dan keras dengan indeks kekerasan <2.2
 2. bilamana digunakan Natrium Sulfat komponen hancur maksimal dua belas %
 3. kalau digunakan Magnesium Sulfat komponen halus maksimal sepuluh persen
 4. Tak boleh memuat clay lebih dari lima persen
@@ -41,7 +41,6 @@ Prasyarat Pasir yg Baik Untuk Bangunan
 setelah memahami syarat pasir tuk sebuah Bangunan, sekarang ini kita bahas model - Macam Pasir Untuk Konstruksi Bangunan penjelasan nya sbb:
 
 - ### Pasir Tipe Rigid dan Daerah Sumbernya Di Mekarwangi Bogor
-    
 
 Pasir ini lazim nya berwarna hitam kemerahan dan tingkat kekerasan butiran nya cukup tinggi. Namun kalau anda mengepal nya dengan tangan tak akan lengket dan akan buyar kembali. jenis pasir ini sungguh-sungguh lah bagus tuk Pengecoran, Plesteran Dinding, Adukan Pondasi dan Adukan Pasangan Bata Pasir ini yaitu pasir untuk Beton ialah butiran-butiran mineral keras dan tajam berukuran antara 0,075 – 5 mm, sekiranya terdapat butiran berukuran lebih kecil dari 0,063 mm tidak lebih dari 5% berat. Pasir ini yaitu pasir untuk Beton hampir kerap kali digunakan untuk pekerjaan cor-coran struktur seperti kolom, balok dan pelat lantai.
 
@@ -52,9 +51,9 @@ Harga Pasir Mundu Free Ongkir Ke Mekarwangi Bogor Sekiranya anda sebagai konsume
 Pasir No. 1 dari kp. jebrod cianjur jawa barat yang diaplikasikan oleh indocement serta perusahaan batching plant lainnya sebagai bahan dasar produksi readymix concrete. Pasir ini paling dianjurkan untuk cor sebab irit semen juga mempunyai kandungan lumpur yang amat rendah dibawah 8%. warnanya Hitam abu tua atau hitam seperti hitamnya batu kali, ada juga yang hitam kemerahan atau hitam terasi
 
 3. **Pasir Hitam Rigid Cimangkok.** Pasir dari Lokasi penambangannya di cimangkok sukabumi jabar yang masih masuk terhadap klasifikasi pasir hitam No. 1 di jabar, warnanya hitam kecoklatan layak untuk cor, pasang pondasi dan bata
-    
+
     ![Harga Pasir Mundu Free Ongkir Ke Mekarwangi Bogor](/images/info/pasir-hitam-7.jpg)
-    
+
 4. **Pasir Hitam Cor Cimalaka Subang Bandung.**
 
 Pasir No. 1 yang berwarna hitam kebauan ada juga yang berwarna hitam abu tua. Banyak di aplikasikan untuk Rigid, pasang dan keperluan lainnya. Ditambang di kampung cimalaka
@@ -90,9 +89,9 @@ Kecuali Rangkasbitung, Banten juga mempunyai lokasi pnembangan pasir lain sepert
 Masih dari kawasan di banten, pasir kelas tiga ini merupakan pasir yang banyak diaplikasikan di proyek proyek perumahan atau cluster sebab harganya yang murah juga mutu yang bagus. Warna pasir ini hitam kecoklatan dan keabuan benar-benar dianjurkan untuk pasang pondasi, bata, batu dan lainnya
 
 27. **Pasir Hitam Beton Bohlam Sukabumi.** Pasir dari Kawasan kp. bohlam di sukabumi berwarna hitam kecoklatan, sungguh-sungguh bagus untuk pasang bata, pondasi dan lain-lain sebagai opsi pasir mutu unggul dan tidak mahal
-    
+
     ![Harga Pasir Mundu Free Ongkir Ke Mekarwangi Bogor](/images/info/pasir-hitam-7.jpg)
-    
+
 28. **Pasir Beton Galunggung.**
 
 Pasir ini merupakan pasir hitam mutu paling unggul dikelasnya umum digunakan oleh pabrik pengolahan beton readymix juga perusahan pembuatan precast dan acap kali juga digunakan untuk bahan pembuatan batako press hitam, paving block dsb. Pasir ini ditambang dari Tasikmalaya jawa barat.
@@ -100,21 +99,18 @@ Pasir ini merupakan pasir hitam mutu paling unggul dikelasnya umum digunakan ole
 ![Harga Pasir Mundu Free Ongkir Ke Mekarwangi Bogor](/images/info/pasir-hitam-8.jpg)
 
 - ### Pasir Standar Di Mekarwangi Bogor
-    
 
 ![Harga Pasir Mundu Free Ongkir Ke Mekarwangi Bogor](/images/info/pasir-putih3.jpg)
 
 Pasir ini lebih halus lagi diperbandingkan oleh pasir beton. seandainya anda mengepal pasir ini karenanya akan menggumpal dan tak akan buyar kembali. pasir pasang umum nya di pakai untuk adukan pasir beton supaya tak terlampau kasar dan dapat di pakai untuk plesteran dinding.
 
 - ### Pasir Urug Untuk pemadatan lantai Di Mekarwangi Bogor
-    
 
 Di Antara ke dua pasir diatas pasir model ini lebih halus lagi, bila kalian mengepal nya karenanya akan menggumpal dan tak akan buyar lagi. melainkan pasir ragam tak baik tuk di buat sebagai bahan bangunan. pasir tipe ini pada biasa nya di pergunakan untuk Bahan Pembuatan Batako
 
 Pada nya pasir ini nyaris sama dgn pasir beton tetapi pasir ini memiliki tingkat kekasaran yang tinggi, butiran - butiran nya lumayan besar dan agak banyak batuan nya. pada lazimnya pasir jenis ini baik untuk bahan Pembuatan Batako
 
 - ### Pasir Putih Tanpa Ayak Untuk Hiasan Di Mekarwangi Bogor
-    
 
 1. **Pasir Putih Bangka**
 

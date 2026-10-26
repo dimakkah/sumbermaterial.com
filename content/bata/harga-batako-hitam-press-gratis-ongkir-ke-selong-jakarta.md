@@ -16,7 +16,7 @@ saat ini material yang diaplikasikan untuk mengisi dinding bangunan, sudah terda
 
 ## Mengenal Macam-macam Bata
 
-### 1\. Bata Merah Standar & Jumbo Di Selong Jakarta
+### 1. Bata Merah Standar & Jumbo Di Selong Jakarta
 
 ![Harga Batako Hitam Press Gratis Ongkir Ke Selong Jakarta](/images/bata/bata-merah-oven-35.png)
 
@@ -26,7 +26,7 @@ Bata merah ini diciptakan dari bahan tanah yg kemudian di bentuk dan dibakar den
 
 Bahan bangunan ini benar-benar kuat kepada panas dan layak dibuat perlindungan dari bahaya api. Bata merah ini pada biasanya mempunyai ukuran panjang antara 17-23 cm dan lebar sekitar 7-11 cm, serta tebalnya 3-5 cm. mempunyai ukuran yg lebih kecil akan memberi kemudahan dalam progres pengangkutan dan bisa digunakan untuk membentuk bidang kecil.
 
-### 2\. Batako Hitam dan Putih Di Selong Jakarta
+### 2. Batako Hitam dan Putih Di Selong Jakarta
 
 ![Harga Batako Hitam Press Gratis Ongkir Ke Selong Jakarta](/images/bata/batako-hitam-press-24.png)
 
@@ -34,7 +34,7 @@ Material bangunan dinding dari batako press ini secara umum terbuat dari bahan K
 
 Batako seperti ini memiliki kelemahan seperti gampang retak, lebih panas dan pengap. Berbeda dg bata merah yg terbuat dari bahan tanah. Namun batako press ini cenderung lebih ringan ketimbang bata merah. Akibatnya akan terlihat lebih halus dan ukurannya lebih presisi jikalau dibandingkan dg bata merah. Batako press Hitam ini mempunyai ukuran panjang sekitar 36-40 cm, tinggi 18-20 cm dan tebal 8-10 cm. material ini sering dipilih karena untuk memperingan bobot struktur bangunan, meminimalisir sisa material dan mempermudah pembangunan.
 
-### 3\. Bata Ringan Di Selong Jakarta
+### 3. Bata Ringan Di Selong Jakarta
 
 ![Harga Batako Hitam Press Gratis Ongkir Ke Selong Jakarta](/images/bata/bata-hebel-sni-05.png)
 
@@ -62,7 +62,7 @@ Segalanya tentu sudah tahu kegunaan utama batu bata mulai dipakai untuk membikin
 
 Metode mengorder batu bata yg aman dan terpercaya:
 
-1.  Kerja pembayaran bisa anda lakukan secara COD atau dibayar di tempat dikala barang orderan anda sudah datang di daerah
+1.  Kerja pembayaran bisa anda lakukan secara COD atau dibayar di tempat dikala barang orderan anda sudah datang di daerah
 2. Silahkan memilih dan memastikan bahan batu bata yang anda inginkan
 3. Tentukan juga jumlah pesanan batu bata yg anda butuhkan dalam format bijian.
 4. Anda dapat menghubungi layanan telepon kios untuk mempermudah progres pengorderan

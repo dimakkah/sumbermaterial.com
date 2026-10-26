@@ -25,7 +25,7 @@ menurut Standar Nasional Indonesia ( SK SNI - S - 04 - 1989 - F ; 28) di tuturka
 
 Syarat Pasir yg Bagus Untuk Konstruksi Bangunan
 
-1.  Agregat Halus semestinya terdiri dari butiran yang tajam dan keras dengan indeks kekerasan <2.2
+1.  Agregat Halus semestinya terdiri dari butiran yang tajam dan keras dengan indeks kekerasan <2.2
 2. bilamana diterapkan Natrium Sulfat komponen hancur maksimal 12%
 3. bila dipakai Magnesium Sulfat bagian halus optimal 5 persen
 4. Tak boleh berisi tanah lebih dari lima persen
@@ -41,7 +41,6 @@ Syarat Pasir yg Bagus Untuk Konstruksi Bangunan
 setelah tahu persis persyaratan pasir tuk suatu Konstruksi, saat ini kita bahas Jenis - Macam Pasir Untuk Konstruksi penjelasan nya berikut ini:
 
 - ### Pasir untuk Cor Rigid Di Bojong Pondok Terong Depok
-    
 
 Pasir ini biasa nya berwarna hitam pekat dan tingkat pecahan butiran nya cukup tinggi. Melainkan kalau anda mengepal nya dengan tangan tak akan menggumpal dan akan buyar kembali. ragam pasir ini sungguh-sungguh lah baik tuk Pengecoran, Plesteran Dinding, Adukan Pondasi dan Adukan Pasangan Bata Pasir ini yaitu pasir untuk Rigid merupakan butiran-butiran mineral keras dan tajam berukuran antara 0,075 – 5 mm, seandainya terdapat butiran berukuran lebih kecil dari 0,063 mm tidak lebih dari 5% berat. Pasir ini yaitu pasir untuk Beton hampir tak jarang diaplikasikan untuk pekerjaan cor-coran struktur seperti kolom, balok dan pelat lantai.
 
@@ -59,21 +58,18 @@ Untuk mendapat ketahanan Beton yang optimal karenanya pasir harus dapat memenuhi
 ![Harga Pasir Mainan Anak Free Ongkir Ke Bojong Pondok Terong Depok](/images/info/pasir-hitam-7.jpg)
 
 - ### Pasir Untuk Pasang Batu, Pondasi, Bata, Ubin, Plester Di Bojong Pondok Terong Depok
-    
 
 ![Harga Pasir Mainan Anak Free Ongkir Ke Bojong Pondok Terong Depok](/images/info/jual-pasir-mundu-2.jpg)
 
 Pasir ini ekstra halus lagi diperbandingkan oleh pasir beton. jikalau anda mengepal pasir ini maka akan menggumpal dan tidak akan hancur kembali. pasir pasang biasa nya di manfaatkan tuk campuran pasir beton supaya tidak terlampau kasar dan dapat di manfaatkan untuk plesteran dinding.
 
 - ### Pasir Urug Untuk pemadatan lantai Di Bojong Pondok Terong Depok
-    
 
 Di Antara ke dua pasir diatas pasir jenis ini lebih halus lagi, sekiranya kamu mengepal nya maka akan menggumpal dan tak akan buyar lagi. melainkan pasir ragam tidak baik untuk di buat sebagai bahan bangunan. pasir model ini pada biasa nya di pergunakan tuk Bahan Pembuatan Batako
 
 Pada umum nya pasir ini nyaris sama dengan pasir beton tetapi pasir ini memiliki tingkat kekasaran yg tinggi, butiran - butiran nya cukup besar dan agak banyak batuan nya. pada umumnya pasir macam ini baik tuk bahan pengurugan lantai
 
 - ### Pasir Putih Kadar Lumpur Rendah Untuk Pelester Di Bojong Pondok Terong Depok
-    
 
 1. **Pasir Putih Bangka**
 

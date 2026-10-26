@@ -16,7 +16,7 @@ dikala ini material yang diaplikasikan untuk mengisi dinding rumah, telah terdap
 
 ## Mengetahui Ragam Variasi Bata
 
-### 1\. Bata Merah Standar & Jumbo Di Warakas Jakarta
+### 1. Bata Merah Standar & Jumbo Di Warakas Jakarta
 
 ![Harga Batako Truss Gratis Ongkir Ke Warakas Jakarta](/images/bata/bata-merah-oven-08.png)
 
@@ -26,7 +26,7 @@ Bata merah ini dijadikan dari material tanah yg kemudian di bentuk dan dibakar d
 
 Material bangunan ini sungguh-sungguh tahan terhadap panas dan cocok dibuat perlindungan dari panas api. Bata merah ini pada lazimnya mempunyai ukuran panjang antara 17-23 cm dan lebar sekitar 7-11 cm, serta tebalnya 3-5 cm. memiliki ukuran yg lebih kecil akan memberi kemudahan dalam proses pengangkutan dan dapat dipakai untuk membentuk bidang kecil.
 
-### 2\. Batako Hitam dan Putih Di Warakas Jakarta
+### 2. Batako Hitam dan Putih Di Warakas Jakarta
 
 ![Harga Batako Truss Gratis Ongkir Ke Warakas Jakarta](/images/bata/batako-hitam-press-20.png)
 
@@ -34,7 +34,7 @@ Bahan bangunan tembok dari batako trus ini secara umum terbuat dari material cam
 
 Batako seperti ini mempunyai kelemahan seperti gampang pecah, lebih panas dan pengap. Berbeda dg bata merah yang terbuat dari material tanah. Namun batako press ini cenderung lebih ringan ketimbang bata merah. Walhasil akan menonjol lebih halus dan ukurannya lebih presisi kalau dibandingi dengan bata merah. Batako press Hitam ini mempunyai ukuran panjang sekitar 36-40 cm, tinggi 18-20 cm dan tebal 8-10 cm. bahan ini tak jarang dipilih karena untuk memperingan muatan struktur bangunan, meminimalisir sisa material dan mempercepat pembangunan.
 
-### 3\. Bata Hebel Di Warakas Jakarta
+### 3. Bata Hebel Di Warakas Jakarta
 
 ![Harga Batako Truss Gratis Ongkir Ke Warakas Jakarta](/images/bata/bata-hebel-sni-01.png)
 
@@ -62,7 +62,7 @@ Seluruhnya tentu telah tahu fungsi utama batu bata mulai diaplikasikan untuk mem
 
 Sistem mengorder batu bata yg aman dan terpercaya:
 
-1.  Progres pembayaran bisa anda lakukan secara COD atau dibayar di daerah ketika barang orderan anda sudah datang di tempat
+1.  Progres pembayaran bisa anda lakukan secara COD atau dibayar di daerah ketika barang orderan anda sudah datang di tempat
 2. Silahkan memilih dan menentukan material batu bata yg anda inginkan
 3. Tentukan juga jumlah orderan batu bata yg anda butuhkan dalam wujud bijian.
 4. Anda dapat menghubungi layanan telepon warung untuk memudahkan pengerjaan pemesanan

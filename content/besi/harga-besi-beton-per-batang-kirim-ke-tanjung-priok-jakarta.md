@@ -18,19 +18,19 @@ Dengan tidak adanya besi karenanya sebuah bangunan akan gampang retak saat ada g
 
 ## Mengetahui Variasi-tipe Besi Di Tanjung Priok Jakarta
 
-### 1\. Besi Polos Krakatau Steel 4mm, 6mm, 8mm, 10mm, 12mm, 16mm, 18mm, 19mm Di Tanjung Priok Jakarta
+### 1. Besi Polos Krakatau Steel 4mm, 6mm, 8mm, 10mm, 12mm, 16mm, 18mm, 19mm Di Tanjung Priok Jakarta
 
 Besi polos mempunyai ukuran mulai dari 8 mm sampai dengan 25 mm dan memiliki 6 meter panjang tekuk dan 12 meter panjang lurus. Besi beton ini sudah mulai dipakai sebagai bahan utama di Indonesia pada tahun 1950. Besi ini kerap kali kali digunakan untuk membangun bangunan beton. Bahan yang gampang digunakan sehingga selain diterapkan untuk membangun sebuah gedung juga digunakan untuk membangun trowongan, bendungan, dan lainnya. Dikala diterapkan untuk membangun rumah bertingkat maka biasanya besi polos ini diterapkan untuk struktur rangkaian besi balok, dinding, dan sloof. Besi beton polos ini memiliki kelebihan besi polos ini tegangannya lebih tinggi dari pada besi lainnya. Jadi besi ini terkesan lebih kuat dan tahan beban. Jadi penerapan besi polos ini sangat pantas untuk membangun gedung, jembatan, dan bangunan lainnya. Besi polos ini terbuat dari bahan seperti billet dan skrap. Billet merupakan baja batangan yang pelaksanaan pembuatannya dengan mengecor biji besi. Kalau skrap yakni besi bekas yang dihancurkan dengan temperature tertentu. Selain itu bila anda memakai besi polos ini tdk membutuhkan anggaran pemeliharaan. Semakin lama digunakan karenanya besi ini akan semakin kokoh.
 
-### 2\. Besi Ulir 4mm, 6mm, 8mm, 10mm, 12mm, 16mm, 18mm, 19mm Di Tanjung Priok Jakarta
+### 2. Besi Ulir 4mm, 6mm, 8mm, 10mm, 12mm, 16mm, 18mm, 19mm Di Tanjung Priok Jakarta
 
 Cocok dengan namanya besi beton ulir ini yakni besi yang tampilannya mengulir. Pada permukaannya bercorak spiral yang memiliki tujuan untuk menyatukan tulangan dengan elemen bahan bangunan yang dibangun oleh besi beton. Besi ulir ini mulai populer dipakai pada abad ke-20 di Amerika dan mulai populer di Indonesia pada tahun1950. Mengingat dikala menerapkan besi ulir ini mempunyai banyak keunggulan mulai dari kekuatan bangunan serta lebih murah dan efisien. Produk besi ulir ini menjadi primadona pasar sebab mempunyai kualitas yang terbaik di Indonesia dan memiliki harga yang tinggi seandainya diperbandingkan dengan produk lainnya.
 
-### 3\. Besi WF dan H-Beam Krakatau Steel Di Tanjung Priok Jakarta
+### 3. Besi WF dan H-Beam Krakatau Steel Di Tanjung Priok Jakarta
 
 Besi Wide Flange (WF) ini ialah salah satu baja dengan struktural yang paling populer digunakan untuk kontruksi baja. Seandainya anda membutuhkan besi baja Wide Flage dalam quantitas yang banyak atau sedikit maka silahkan cari penjual besi yang terpercaya. Besi WF ini memiliki ketahanan yang kokoh dan kokoh pada kekokohan tarik atau tekan. Maka dari itu besi ini menjadi elemen struktur yang mempunyai batasan yang sempurna untuk menopang muatan tekan aksial, tarik aksial, dan lentur dengan fasilitas pembangunan strukturnya. Baja Wide Flange (WF) ini mempunyai kepadatan yang tinggi namun rasio berat antara ketahanan bagian Baja WF yang tinggi tetapi tdk begitu berat yang berkaitan dengan kapasitas beban. Selain dari itu menentukan bila kontruksi yang dipakai secara efisien. Sistem kontruksi baja WF ini kombinasi dari elemen struktur yang kompleks. Pada struktur ini mempunyai tujuan membawa bobot yang aman dan efektif yang bekerja pada sebuah bangunan dan dikirim pada pondasinya. Gaya dan beban yang berefek ini termasuk beban pertikal, perbedaan suhu, horizontal, getaran dan lainnya. Pada sebuah bangunan baja, maka ada unsure yang bermanfaat menopang gaya lateral dan gravitasi.
 
-### 4\. Besi Holow Di Tanjung Priok Jakarta
+### 4. Besi Holow Di Tanjung Priok Jakarta
 
 Besi hollow adalah besi yang dipakai sebagai pembuatan kanopi, pagar, pintu besi dan lainnya. Bahan baku pembuatan besi Hollow ini umumnya terbuat dari stainless, galvanis, dan besi baja. Tetapi yang paling tak jarang diterapkan sebagai bahan baku yakni galvanis. Terdapat kelebihan yang anda dapatkan saat menerapkan kanopi, memasang pagar, teralis menerapkan besi hollow:
 

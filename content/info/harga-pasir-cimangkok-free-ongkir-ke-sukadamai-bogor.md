@@ -25,7 +25,7 @@ menurut Standar Nasional Indonesia ( SK SNI - S - 04 - 1989 - F ; 28) di tuturka
 
 Syarat-Syarat Pasir yang Baik Untuk Konstruksi Bangunan
 
-1.  Agregat Halus wajib terdiri dari butiran yg tajam dan keras dengan indeks kekerasan <2.2
+1.  Agregat Halus wajib terdiri dari butiran yg tajam dan keras dengan indeks kekerasan <2.2
 2. Kalau diterapkan Natrium Sulfat bagian hancur maksimal dua belas persen
 3. sekiranya diaplikasikan Magnesium Sulfat komponen halus optimal sepuluh %
 4. Tidak boleh mengandung clay lebih dari lima persen
@@ -41,7 +41,6 @@ Syarat-Syarat Pasir yang Baik Untuk Konstruksi Bangunan
 setelah memahami persyaratan pasir untuk suatu Konstruksi Bangunan, saat ini kita bahas Jenis - Jenis Pasir Untuk Konstruksi penjelasan nya berikut ini:
 
 - ### Pasir Model Cor dan Daerah Penambangannya Di Sukadamai Bogor
-    
 
 Pasir ini biasa nya berwarna hitam gelap dan tingkat kekerasan butiran nya lumayan tinggi. Namun jikalau anda mengepal nya dengan tangan tak akan menggumpal dan akan hancur kembali. model pasir ini sangat lah baik untuk Pengecoran, Plesteran Dinding, Adukan Pondasi dan Adukan Pasangan Bata Pasir ini yaitu pasir untuk Beton ialah butiran-butiran mineral keras dan tajam berukuran antara 0,075 – 5 mm, kalau terdapat butiran berukuran lebih kecil dari 0,063 mm tak lebih dari 5% berat. Pasir ini yaitu pasir untuk Beton hampir sering dimanfaatkan untuk profesi cor-coran struktur seperti kolom, balok dan pelat lantai.
 
@@ -59,21 +58,18 @@ Untuk mendapatkan kualitas Beton yang maksimal karenanya pasir wajib mampu memen
 ![Harga Pasir Cimangkok Free Ongkir Ke Sukadamai Bogor](/images/info/pasir-hitam-1.jpg)
 
 - ### Pasir Biasa Di Sukadamai Bogor
-    
 
 ![Harga Pasir Cimangkok Free Ongkir Ke Sukadamai Bogor](/images/info/jual-pasir-mundu.jpg)
 
 Pasir ini ekstra halus lagi dibandingkan oleh pasir beton. apabila anda mengepal pasir ini maka akan menggumpal dan tidak akan hancur kembali. pasir pasang lazim nya di manfaatkan tuk campuran pasir beton agar tak kelewat kasar dan dapat di manfaatkan untuk plesteran dinding.
 
 - ### Pasir Kualitas rendah Untuk Pembuatan Batako Di Sukadamai Bogor
-    
 
 Di Antara ke dua pasir diatas pasir macam ini lebih halus lagi, jikalau anda mengepal nya akan menggumpal dan tak akan hancur lagi. melainkan pasir tipe
 
 Pada biasa nya pasir ini nyaris sama dgn pasir beton namun pasir ini memiliki tingkat kekasaran yg tinggi, butiran - butiran nya cukup besar dan agak banyak batuan nya. pada lazimnya pasir jenis ini bagus tuk bahan dasaran pemasangan keramik
 
 - ### Pasir Putih Halus Untuk Pengecoran Di Sukadamai Bogor
-    
 
 1. **Pasir Putih Bangka**
 

@@ -44,13 +44,13 @@ Secara umum pembuatan Kusen Pintu/Jendela Almunium ini banyak dicari orang untuk
 
 Alasan Anda Memilih Layanan Profesional Pembuatan Kusen Alumunium dari Kami.
 
-1\. Kami menjalankan orderan pantas dg tanggal yg disepakati sehingga anda sebagai pelanggan juga mendapatkan hasil yg layak dengan estimasi.
+1. Kami menjalankan orderan pantas dg tanggal yg disepakati sehingga anda sebagai pelanggan juga mendapatkan hasil yg layak dengan estimasi.
 
-2\. Kami juga melayani banyak pelaksanaan lain seperti pembuatan kerangka atas, wood parisi, instalisasi listrik dan masih banyak lagi Jasa lain yang kami miliki.
+2. Kami juga melayani banyak pelaksanaan lain seperti pembuatan kerangka atas, wood parisi, instalisasi listrik dan masih banyak lagi Jasa lain yang kami miliki.
 
-3\. Pembayaran menjadi solusi untuk anda, kami memberikan pembayaran dengan sistem DP sehingga anda tidak perlu ragu denga Jasa yang kami tawarkan.
+3. Pembayaran menjadi solusi untuk anda, kami memberikan pembayaran dengan sistem DP sehingga anda tidak perlu ragu denga Jasa yang kami tawarkan.
 
-4\. Regu kami akan datang ke lokasi anda utk memperhatikan dan mengevaluasi ukuran Kusen Pintu/Jendela Alumunium yang anda pesan.
+4. Regu kami akan datang ke lokasi anda utk memperhatikan dan mengevaluasi ukuran Kusen Pintu/Jendela Alumunium yang anda pesan.
 
 ## Variasi dan Merk Alumium Yang kami Sediakan Di Pondok Melati Bekasi
 

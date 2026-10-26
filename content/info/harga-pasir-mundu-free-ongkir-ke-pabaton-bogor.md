@@ -25,7 +25,7 @@ Berdasarkan Standar Nasional Indonesia ( SK SNI - S - 04 - 1989 - F ; 28) di seb
 
 Syarat-Syarat Pasir yang Baik Untuk Bangunan
 
-1.  Agregat Halus mesti terdiri dari butiran yang tajam dan keras dengan indeks kekerasan <2.2
+1.  Agregat Halus mesti terdiri dari butiran yang tajam dan keras dengan indeks kekerasan <2.2
 2. bilamana dipakai Natrium Sulfat bagian hancur optimal 12 persen
 3. Jika dipakai Magnesium Sulfat bagian halus optimal sepuluh %
 4. Tidak boleh berisi tanah lebih dari lima %
@@ -41,7 +41,6 @@ Syarat-Syarat Pasir yang Baik Untuk Bangunan
 setelah tahu persis syarat pasir tuk sebuah Konstruksi, saat ini kita bahas Ragam - Tipe Pasir Untuk Bangunan penjelasan nya sebagai berikut:
 
 - ### Pasir Cor Di Pabaton Bogor
-    
 
 Pasir ini lazim nya berwarna hitam gelap dan tingkat kekasaran butiran nya cukup tinggi. Melainkan seandainya anda mengepal nya dengan tangan tidak akan menggumpal dan akan hancur kembali. tipe pasir ini benar-benar lah bagus tuk Pengecoran, Plesteran Dinding, Adukan Pondasi dan Adukan Pasangan Bata Pasir ini yaitu pasir untuk Beton adalah butiran-butiran mineral keras dan tajam berukuran antara 0,075 – 5 mm, seandainya terdapat butiran berukuran lebih kecil dari 0,063 mm tak lebih dari 5% berat. Pasir ini yaitu pasir untuk Cor hampir tak jarang dimanfaatkan untuk profesi cor-coran struktur seperti kolom, balok dan pelat lantai.
 
@@ -52,9 +51,9 @@ Harga Pasir Mundu Free Ongkir Ke Pabaton Bogor Sekiranya anda sebagai konsumen /
 Pasir paling unggul dari kp. jebrod cianjur jawa barat yang digunakan oleh indocement serta perusahaan batching plant lainnya sebagai bahan dasar produksi readymix concrete. Pasir ini paling disarankan untuk cor sebab irit semen juga mempunyai kandungan lumpur yang sungguh-sungguh rendah dibawah delapan persen. warnanya Hitam abu tua atau hitam seperti hitamnya batu kali, ada juga yang hitam kemerahan atau hitam terasi
 
 3. **Pasir Hitam Rigid Cimangkok.** Pasir asal Daerah penambangannya di cimangkok sukabumi jabar yang masih masuk pada golongan pasir hitam kelas satu di jawa barat, warnanya hitam kecoklatan sesuai untuk cor, pasang pondasi dan bata
-    
+
     ![Harga Pasir Mundu Free Ongkir Ke Pabaton Bogor](/images/info/pasir-hitam-9.jpg)
-    
+
 4. **Pasir Hitam Beton Cimalaka Subang Bandung.**
 
 Pasir nomor satu yang berwarna hitam kebauan ada juga yang berwarna hitam abu tua. Banyak di pakai untuk Beton, pasang dan keperluan lainnya. Ditambang di Desa cimalaka
@@ -90,9 +89,9 @@ Kecuali Rangkasbitung, Banten juga mempunyai lokasi pnembangan pasir lain sepert
 Masih dari kawasan di banten, pasir kelas tiga ini yaitu pasir yang banyak diterapkan di proyek proyek perumahan atau cluster sebab harganya yang murah juga mutu yang unggul. Warna pasir ini hitam kecoklatan dan keabuan amat disarankan untuk pasang pondasi, bata, batu dan sebagainya
 
 27. **Pasir Hitam Cor Bohlam Sukabumi.** Pasir dari Lokasi kp. bohlam di sukabumi berwarna hitam kecoklatan, amat bagus untuk pasang bata, pondasi dan lain-lain sebagai opsi pasir kwalitas baik dan tidak mahal
-    
+
     ![Harga Pasir Mundu Free Ongkir Ke Pabaton Bogor](/images/info/pasir-hitam-8.jpg)
-    
+
 28. **Pasir Beton Galunggung.**
 
 Pasir ini ialah pasir hitam mutu paling unggul dikelasnya awam diterapkan oleh pabrik pengolahan beton readymix juga perusahan pembuatan precast dan acap kali juga diaplikasikan untuk bahan pembuatan batako press hitam, paving block dsb. Pasir ini ditambang dari Tasikmalaya jabar.
@@ -100,21 +99,18 @@ Pasir ini ialah pasir hitam mutu paling unggul dikelasnya awam diterapkan oleh p
 ![Harga Pasir Mundu Free Ongkir Ke Pabaton Bogor](/images/info/pasir-hitam-7.jpg)
 
 - ### Pasir Untuk Pemasangan Batu, Pondasi, Bata, Ubin, Plester Di Pabaton Bogor
-    
 
 ![Harga Pasir Mundu Free Ongkir Ke Pabaton Bogor](/images/info/jual-pasir-mundu-2.jpg)
 
 Pasir ini ekstra halus lagi diperbandingkan oleh pasir beton. kalau anda mengepal pasir ini maka akan menggumpal dan tak akan hancur kembali. pasir pasang lazim nya di gunakan buat campuran pasir beton agar tak kelewat kasar dan bisa di manfaatkan untuk plesteran dinding.
 
 - ### Pasir Urug Untuk Pembuatan Batako Di Pabaton Bogor
-    
 
 Di Antara ke dua pasir diatas pasir model ini lebih halus lagi, jikalau kamu mengepal nya karenanya akan menggumpal dan tak akan hancur lagi. tetapi pasir jenis
 
 Pada lazim nya pasir ini nyaris sama dengan pasir beton akan namun pasir ini memiliki tingkat kekasaran yg tinggi, butiran - butiran nya cukup besar dan agak banyak batuan nya. pada lazimnya pasir jenis ini baik tuk bahan pemadatan lantai
 
 - ### Pasir Putih Halus Untuk Taman Bermain Di Pabaton Bogor
-    
 
 1. **Pasir Putih Bangka**
 

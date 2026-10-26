@@ -18,19 +18,19 @@ Tanpa adanya besi maka sebuah bangunan akan gampang retak saat ada guncangan kec
 
 ## Mengetahui Jenis-jenis Besi Di Petir Serang
 
-### 1\. Besi Polos SNI 4mm, 6mm, 8mm, 10mm, 12mm, 16mm, 18mm, 19mm Di Petir Serang
+### 1. Besi Polos SNI 4mm, 6mm, 8mm, 10mm, 12mm, 16mm, 18mm, 19mm Di Petir Serang
 
 Besi polos mempunyai ukuran mulai dari 8 mm sampai 25 mm dan mempunyai 6 meter panjang tekuk dan 12 meter panjang lurus. Besi beton ini telah mulai diaplikasikan sebagai bahan utama di Indonesia pada tahun 1950. Besi ini tak jarang kali dipakai untuk membangun tempat tinggal. Bahan yang gampang diterapkan sehingga selain diterapkan untuk membangun rumah juga dipakai untuk membangun trowongan, bendungan, dan lainnya. Dikala diaplikasikan untuk membangun sebuah gedung bertingkat karenanya biasa besi polos ini diterapkan untuk struktur tulangan balok, dinding, dan sloof. Besi beton polos ini mempunyai kelebihan besi polos ini tegangannya lebih tinggi dari pada besi lainnya. Sehingga besi ini terkesan lebih kuat dan tahan beban. Sehingga pengaplikasian besi polos ini amat sesuai untuk membangun gedung, jembatan, dan bangunan lainnya. Besi polos ini terbuat dari bahan seperti billet dan skrap. Billet yaitu baja batangan yang pelaksanaan pembuatannya dengan mengecor biji besi. Jikalau skrap yaitu besi bekas yang dileburkan dengan temperature tertentu. Selain dari itu seandainya anda menerapkan besi polos ini tdk membutuhkan anggaran pemeliharaan. Kian lama diterapkan karenanya besi ini akan kian kokoh.
 
-### 2\. Besi Ulir KS 4mm, 6mm, 8mm, 10mm, 12mm, 16mm, 18mm, 19mm Di Petir Serang
+### 2. Besi Ulir KS 4mm, 6mm, 8mm, 10mm, 12mm, 16mm, 18mm, 19mm Di Petir Serang
 
 Selaras dengan namanya besi beton ulir ini ialah besi yang tampilannya mengulir. Pada permukaannya bercorak spiral yang memiliki tujuan untuk menyatukan gerigi besi dengan unsur bahan bangunan yang dibangun oleh besi beton. Besi ulir ini mulai populer diterapkan pada abad ke-20 di Amerika dan mulai populer di Indonesia pada tahun1950. Mengingat saat mengaplikasikan besi ulir ini mempunyai banyak kelebihan mulai dari kekuatan bangunan serta lebih ekonomis dan efisien. Produk besi ulir ini menjadi primadona pasar sebab memiliki mutu yang terbaik di Indonesia dan mempunyai harga yang tinggi apabila diperbandingkan dengan produk lainnya.
 
-### 3\. Besi WF dan H-Beam SNI Di Petir Serang
+### 3. Besi WF dan H-Beam SNI Di Petir Serang
 
 Besi Wide Flange (WF) ini adalah salah satu baja dengan struktural yang paling sering diaplikasikan untuk kontruksi baja. Sekiranya anda memerlukan besi baja Wide Flage dalam quantitas yang banyak atau sedikit maka silahkan cari penjual besi yang terpercaya. Besi WF ini mempunyai kekokohan yang kokoh dan kokoh pada kekokohan tarik atau tekan. Karenanya dari itu besi ini menjadi elemen struktur yang mempunyai batasan yang paripurna untuk menopang muatan tekan aksial, tarik aksial, dan lentur dengan fasilitas pembangunan strukturnya. Baja Wide Flange (WF) ini mempunyai kepadatan yang tinggi tapi rasio berat antara kekokohan komponen Baja WF yang tinggi namun tidak terlalu berat yang terkait dengan kapasitas muatan. Selain itu memastikan bila kontruksi yang digunakan secara efisien. Sistem kontruksi baja WF ini kombinasi dari unsur struktur yang kompleks. Pada struktur ini memiliki tujuan membawa beban yang aman dan tepat sasaran yang berefek pada sebuah bangunan dan dikirim pada pondasinya. Gaya dan bobot yang bekerja ini termasuk muatan pertikal, perbedaan suhu, horizontal, getaran dan lainnya. Pada sebuah bangunan baja, karenanya ada unsure yang bermanfaat menahan gaya lateral dan gravitasi.
 
-### 4\. Besi Holow Di Petir Serang
+### 4. Besi Holow Di Petir Serang
 
 Besi hollow yaitu besi yang diaplikasikan sebagai pembuatan kanopi, pagar, pintu besi dan lainnya. Bahan baku pembuatan besi Hollow ini lazimnya terbuat dari stainless, galvanis, dan besi baja. Tetapi yang paling kerap digunakan sebagai bahan baku adalah galvanis. Terdapat kelebihan yang anda temukan ketika menerapkan kanopi, menerapkan pagar, teralis menggunakan besi hollow:
 

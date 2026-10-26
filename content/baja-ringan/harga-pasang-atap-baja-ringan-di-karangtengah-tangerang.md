@@ -21,19 +21,19 @@ Pemasangan baja ringan untuk bangunan dapat dilakukan dengan mudah, tanpa perlu 
 
 Berikut adalah beberapa alasan utama mengapa Anda sebaiknya mempertimbangkan baja ringan sebagai material atap dan kanopi:
 
- Baja ringan lebih ramah lingkungan karena tidak memerlukan penebangan pohon seperti penggunaan kayu. Dengan memilih baja ringan, Anda turut serta dalam upaya pelestarian alam.
+- Baja ringan lebih ramah lingkungan karena tidak memerlukan penebangan pohon seperti penggunaan kayu. Dengan memilih baja ringan, Anda turut serta dalam upaya pelestarian alam.
 
- Lebih ekonomis dibandingkan kayu. Penggunaan kayu berkualitas tinggi membutuhkan biaya yang lebih besar. Baja ringan menawarkan solusi yang lebih hemat biaya untuk bagian struktur krusial bangunan Anda.
+- Lebih ekonomis dibandingkan kayu. Penggunaan kayu berkualitas tinggi membutuhkan biaya yang lebih besar. Baja ringan menawarkan solusi yang lebih hemat biaya untuk bagian struktur krusial bangunan Anda.
 
- Ringan namun kuat. Baja ringan memiliki berat hanya setengah dari baja atau besi konvensional. Material ini tipis dan ringan, namun tetap sangat kuat untuk menopang kerangka atap dan kanopi rumah Anda.
+- Ringan namun kuat. Baja ringan memiliki berat hanya setengah dari baja atau besi konvensional. Material ini tipis dan ringan, namun tetap sangat kuat untuk menopang kerangka atap dan kanopi rumah Anda.
 
- Minim perawatan. Anda tidak perlu khawatir tentang kerusakan atau perawatan rutin. Baja ringan menawarkan ketenangan pikiran karena perawatannya sangat mudah.
+- Minim perawatan. Anda tidak perlu khawatir tentang kerusakan atau perawatan rutin. Baja ringan menawarkan ketenangan pikiran karena perawatannya sangat mudah.
 
- Proses pemasangan cepat. Pemasangan kerangka atap baja ringan jauh lebih cepat dibandingkan kayu atau material lain. Hal ini menghemat waktu dan biaya tenaga kerja.
+- Proses pemasangan cepat. Pemasangan kerangka atap baja ringan jauh lebih cepat dibandingkan kayu atau material lain. Hal ini menghemat waktu dan biaya tenaga kerja.
 
- Kualitas terjamin. Baja ringan yang kami gunakan adalah bahan utama zinc dan aluminium bersertifikasi, dengan standar keamanan 4 kali lebih baik dari baja biasa. Kekuatannya mampu menahan beban berkilo-kilo.
+- Kualitas terjamin. Baja ringan yang kami gunakan adalah bahan utama zinc dan aluminium bersertifikasi, dengan standar keamanan 4 kali lebih baik dari baja biasa. Kekuatannya mampu menahan beban berkilo-kilo.
 
- Tahan terhadap rayap dan hama lainnya. Kerangka atap dan kanopi baja ringan kami dijamin kuat dan tahan terhadap serangan rayap.
+- Tahan terhadap rayap dan hama lainnya. Kerangka atap dan kanopi baja ringan kami dijamin kuat dan tahan terhadap serangan rayap.
 
 ## Cara Menghitung Luas Rangka Baja Ringan Di Karangtengah Tangerang
 
@@ -59,22 +59,22 @@ Membahas harga layanan pemasangan baja ringan, banyak informasi tersedia secara 
 
 (Catatan: harga dapat bervariasi) Berikut adalah perkiraan biaya jasa pemasangan baja ringan berdasarkan jenis pemasangan:
 
-*   Kanopi dengan rangka baja ringan dan atap Polikarbonat Lite: Rp. 285.000 / m
-*   Kanopi dengan rangka baja ringan dan atap Spandek: Rp. 225.000 / m
-*   Kanopi dengan rangka baja ringan dan atap Gogreen: Rp. 200.000 / m
-*   Untuk perhitungan lainnya, silakan hubungi kami melalui kontak yang tertera di website kami.
+- Kanopi dengan rangka baja ringan dan atap Polikarbonat Lite: Rp. 285.000 / m
+- Kanopi dengan rangka baja ringan dan atap Spandek: Rp. 225.000 / m
+- Kanopi dengan rangka baja ringan dan atap Gogreen: Rp. 200.000 / m
+- Untuk perhitungan lainnya, silakan hubungi kami melalui kontak yang tertera di website kami.
 
 ### Parameter yang Mempengaruhi Biaya Pemasangan Baja Ringan
 
-### 1. Pembuatan Sketsa Desain
+#### 1. Pembuatan Sketsa Desain
 
 Biaya juga dipengaruhi oleh desain atau pola sketsa yang dibuat oleh tim teknisi kami di lokasi Anda. Sketsa ini penting untuk menentukan kebutuhan material baja ringan secara akurat, menghindari sisa material yang tidak perlu. Pembuatan sketsa juga termasuk dalam perhitungan harga pemasangan baja ringan dari kami.
 
-### 2. Perhitungan Kebutuhan Rangka
+#### 2. Perhitungan Kebutuhan Rangka
 
 Setelah memiliki sketsa pemasangan, tim kami akan menghitung kebutuhan rangka yang harus disiapkan. Ini memungkinkan Anda mengetahui jumlah material baja ringan yang dibutuhkan dan berkonsultasi mengenai waktu dan kualitas material.
 
-### 3. Perhitungan Budget
+#### 3. Perhitungan Budget
 
 Setelah sketsa dan perhitungan rangka selesai, Anda dapat mendiskusikan perkiraan biaya dari seluruh proses pemasangan baja ringan. Budget yang dibutuhkan bergantung pada jumlah rangka, luas area, material tambahan, biaya tenaga kerja, dan pengiriman. Mintalah rincian harga jasa pemasangan baja ringan untuk mendapatkan gambaran jelas. Anda juga dapat memilih variasi baja ringan sesuai anggaran dan kebutuhan.
 
@@ -82,10 +82,10 @@ Setelah sketsa dan perhitungan rangka selesai, Anda dapat mendiskusikan perkiraa
 
 Berikut ini rincian biaya yang perlu Anda ketahui saat mempertimbangkan jasa pasang baja ringan:
 
-*   Harga jasa kami sudah termasuk biaya pemasangan dan diskon menarik untuk konsumen.
-*   Harga kami wajar untuk jasa pemasangan, perhitungan, dan material yang digunakan.
-*   Kami selalu mengutamakan harga terbaik bagi pelanggan.
-*   Harga dapat berubah sewaktu-waktu akibat fluktuasi harga material.
-*   Pembayaran dapat dilakukan dengan uang muka dan sisanya setelah pemasangan selesai.
+- Harga jasa kami sudah termasuk biaya pemasangan dan diskon menarik untuk konsumen.
+- Harga kami wajar untuk jasa pemasangan, perhitungan, dan material yang digunakan.
+- Kami selalu mengutamakan harga terbaik bagi pelanggan.
+- Harga dapat berubah sewaktu-waktu akibat fluktuasi harga material.
+- Pembayaran dapat dilakukan dengan uang muka dan sisanya setelah pemasangan selesai.
 
 Kami siap membantu Anda dalam menentukan ukuran, kualitas, dan pemasangan yang tepat sesuai kebutuhan Anda. Percayakan kebutuhan atap baja ringan Anda kepada kami, [Nama Perusahaan] sebagai penyedia Harga Pasang Atap Baja Ringan Di Karangtengah Tangerang. Terima kasih.

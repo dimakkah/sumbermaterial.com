@@ -18,19 +18,19 @@ Tanpa adanya besi karenanya sebuah bangunan akan gampang retak ketika ada guncan
 
 ## Megenal Jenis-jenis Besi Di Kebon Kacang Jakarta
 
-### 1\. Besi Polos 4mm, 6mm, 8mm, 10mm, 12mm, 16mm, 18mm, 19mm Di Kebon Kacang Jakarta
+### 1. Besi Polos 4mm, 6mm, 8mm, 10mm, 12mm, 16mm, 18mm, 19mm Di Kebon Kacang Jakarta
 
 Besi polos mempunyai ukuran mulai dari 8 mm hingga 25 mm dan mempunyai 6 meter panjang tekuk dan 12 meter panjang lurus. Besi beton ini sudah mulai diaplikasikan sebagai bahan utama di Indonesia pada tahun 1950. Besi ini tak jarang kali diterapkan untuk membangun sebuah gedung. Bahan yang mudah dipakai sehingga selain dari dipakai untuk membangun rumah juga digunakan untuk membangun trowongan, bendungan, dan lainnya. Saat diaplikasikan untuk membangun tempat tinggal bertingkat karenanya biasa besi polos ini digunakan untuk struktur tulangan balok, dinding, dan sloof. Besi beton polos ini memiliki keunggulan besi polos ini tegangannya lebih tinggi dari pada besi lainnya. Jadi besi ini terkesan lebih kuat dan tahan beban. Jadi pemakaian besi polos ini amat cocok untuk membangun gedung, jembatan, dan bangunan lainnya. Besi polos ini terbuat dari bahan seperti billet dan skrap. Billet merupakan baja batangan yang pengerjaan pembuatannya dengan melebur biji besi. Jikalau skrap adalah besi bekas yang dileburkan dengan temperature tertentu. Selain itu apabila anda memakai besi polos ini tdk memerlukan biaya pemeliharaan. Semakin lama diterapkan maka besi ini akan kian kokoh.
 
-### 2\. Besi Ulir 4mm, 6mm, 8mm, 10mm, 12mm, 16mm, 18mm, 19mm Di Kebon Kacang Jakarta
+### 2. Besi Ulir 4mm, 6mm, 8mm, 10mm, 12mm, 16mm, 18mm, 19mm Di Kebon Kacang Jakarta
 
 Selaras dengan namanya besi beton ulir ini ialah besi yang karakternya mengulir. Pada permukaannya bercorak spiral yang mempunyai tujuan untuk menyatukan gerigi besi dengan faktor material bangunan yang dibangun oleh besi beton. Besi ulir ini mulai populer diaplikasikan pada abad ke-20 di Amerika dan mulai populer di Indonesia pada tahun1950. Mengingat saat mengaplikasikan besi ulir ini memiliki banyak kelebihan mulai dari kekokohan bangunan serta lebih hemat biaya dan efisien. Produk besi ulir ini menjadi andalan pasar karena memiliki kwalitas yang terbaik di Indonesia dan mempunyai harga yang tinggi jika dibandingi dengan produk lainnya.
 
-### 3\. Besi WF dan H-Beam SNI Di Kebon Kacang Jakarta
+### 3. Besi WF dan H-Beam SNI Di Kebon Kacang Jakarta
 
 Besi Wide Flange (WF) ini yakni salah satu baja dengan struktural yang paling populer diaplikasikan untuk kontruksi baja. Apabila anda memerlukan besi baja Wide Flage dalam quantitas yang banyak atau sedikit maka silahkan cari jual besi yang terpercaya. Besi WF ini mempunyai kekuatan yang kokoh dan kokoh pada ketahanan tarik atau tekan. Maka dari itu besi ini menjadi faktor struktur yang mempunyai batasan yang paripurna untuk menahan muatan tekan aksial, tarik aksial, dan lentur dengan fasilitas pembangunan strukturnya. Baja Wide Flange (WF) ini memiliki kepadatan yang tinggi namun rasio berat antara kekokohan komponen Baja WF yang tinggi tetapi tidak begitu berat yang berhubungan dengan kapasitas bobot. Selain itu menentukan kalau kontruksi yang dipakai secara efisien. Cara kontruksi baja WF ini kombinasi dari faktor struktur yang kompleks. Pada struktur ini mempunyai tujuan membawa muatan yang aman dan efektif yang bekerja pada sebuah bangunan dan dikirim pada pondasinya. Gaya dan muatan yang berefek ini termasuk bobot pertikal, perbedaan suhu, horizontal, getaran dan lainnya. Pada sebuah bangunan baja, maka ada unsure yang berguna menopang gaya lateral dan gravitasi.
 
-### 4\. Besi Holo Di Kebon Kacang Jakarta
+### 4. Besi Holo Di Kebon Kacang Jakarta
 
 Besi hollow yaitu besi yang digunakan sebagai pembuatan kanopi, pagar, pintu besi dan lainnya. Bahan baku pembuatan besi Hollow ini lazimnya terbuat dari stainless, galvanis, dan besi baja. Tapi yang paling kerap dipakai sebagai bahan baku ialah galvanis. Terdapat kelebihan yang anda dapatkan ketika menerapkan kanopi, menerapkan pagar, teralis menerapkan besi hollow:
 

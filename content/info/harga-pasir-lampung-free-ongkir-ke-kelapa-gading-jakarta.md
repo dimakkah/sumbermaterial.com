@@ -25,7 +25,7 @@ Menurut Standar Nasional Indonesia ( SK SNI - S - 04 - 1989 - F ; 28) di sebutka
 
 Syarat Pasir yang Baik Untuk Bangunan
 
-1.  Agregat Halus seharusnya terdiri dari butiran yg tajam dan keras dengan indeks kekerasan <2.2
+1.  Agregat Halus seharusnya terdiri dari butiran yg tajam dan keras dengan indeks kekerasan <2.2
 2. sekiranya diaplikasikan Natrium Sulfat komponen hancur maksimal 12 persen
 3. jika diterapkan Magnesium Sulfat komponen halus optimal sepuluh %
 4. Tak boleh mengandung lumpur lebih dari lima persen
@@ -41,7 +41,6 @@ Syarat Pasir yang Baik Untuk Bangunan
 sesudah tahu persis persyaratan pasir untuk sebuah Konstruksi Bangunan, saat ini kita bahas Ragam - Jenis Pasir Untuk Bangunan penjelasan nya sebagai berikut:
 
 - ### Pasir Tipe Rigid dan Lokasi Sumbernya Di Kelapa Gading Jakarta
-    
 
 Pasir ini umum nya berwarna hitam kemerahan dan tingkat kekasaran butiran nya cukup tinggi. Namun sekiranya anda mengepal nya dengan tangan tak akan lengket dan akan buyar kembali. tipe pasir ini amat lah baik buat Pengecoran, Plesteran Dinding, Adukan Pondasi dan Adukan Pasangan Bata Pasir ini yaitu pasir untuk Beton adalah butiran-butiran mineral keras dan tajam berukuran antara 0,075 – 5 mm, jikalau terdapat butiran berukuran lebih kecil dari 0,063 mm tak lebih dari 5% berat. Pasir ini yaitu pasir untuk Beton hampir kerap digunakan untuk pekerjaan cor-coran struktur seperti kolom, balok dan pelat lantai.
 
@@ -59,21 +58,18 @@ Untuk mendapatkan kekuatan Rigid yang optimal karenanya pasir semestinya dapat m
 ![Harga Pasir Lampung Free Ongkir Ke Kelapa Gading Jakarta](/images/info/pasir-hitam-1.jpg)
 
 - ### Pasir Untuk Adukan Pasang Batu, Pondasi, Bata, Ubin, Plester Di Kelapa Gading Jakarta
-    
 
 ![Harga Pasir Lampung Free Ongkir Ke Kelapa Gading Jakarta](/images/info/jual-pasir-mundu-2.jpg)
 
 Pasir ini lebih halus lagi dibandingi oleh pasir beton. sekiranya kalian mengepal pasir ini maka akan menggumpal dan tak akan hancur kembali. pasir pasang umum nya di pakai untuk campuran pasir beton agar tidak kelewat kasar dan dapat di manfaatkan untuk plesteran dinding.
 
 - ### Pasir Elod Untuk Dasaran Pemasangan Marmer Di Kelapa Gading Jakarta
-    
 
 Di Antara ke dua pasir diatas pasir tipe ini lebih halus lagi, sekiranya anda mengepal nya karenanya akan menggumpal dan tak akan hancur lagi. namun pasir ragam tidak bagus tuk di buat sebagai bahan bangunan. pasir macam ini pada nya di manfaatkan tuk Bahan Pembuatan Batako
 
 Pada nya pasir ini nyaris sama dengan pasir beton akan tapi pasir ini mempunyai tingkat kekasaran yang tinggi, butiran - butiran nya lumayan besar dan agak banyak batuan nya. pada lazimnya pasir ragam ini baik untuk bahan dasaran pemasangan keramik
 
 - ### Pasir Putih Tanpa Batu Untuk Pengecoran Di Kelapa Gading Jakarta
-    
 
 1. **Pasir Putih Bangka**
 

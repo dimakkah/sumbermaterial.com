@@ -25,7 +25,7 @@ Menurut Standar Nasional Indonesia ( SK SNI - S - 04 - 1989 - F ; 28) di tuturka
 
 Prasyarat Pasir yg Baik Untuk Bangunan
 
-1.  Agregat Halus wajib terdiri dari butiran yang tajam dan keras dengan indeks kekerasan <2.2
+1.  Agregat Halus wajib terdiri dari butiran yang tajam dan keras dengan indeks kekerasan <2.2
 2. jikalau dipakai Natrium Sulfat bagian hancur maksimal dua belas %
 3. apabila digunakan Magnesium Sulfat komponen halus optimal 5 persen
 4. Tak boleh memuat lumpur lebih dari lima %
@@ -41,7 +41,6 @@ Prasyarat Pasir yg Baik Untuk Bangunan
 Setelah mengetahui syarat pasir untuk sebuah Konstruksi Bangunan, pada saat ini kita bahas Jenis - Tipe Pasir Untuk Bangunan penjelasan nya berikut ini:
 
 - ### Pasir Model Rigid dan Daerah Sumbernya Di Pamoyanan Bogor
-    
 
 Pasir ini lazim nya berwarna keabu-abuan dan tingkat kekerasan butiran nya cukup tinggi. Tapi jikalau anda mengepal nya dengan tangan tak akan lengket dan akan buyar kembali. macam pasir ini amat lah bagus untuk Pengecoran, Plesteran Dinding, Adukan Pondasi dan Adukan Pasangan Bata Pasir ini yaitu pasir untuk Beton yakni butiran-butiran mineral keras dan tajam berukuran antara 0,075 – 5 mm, jika terdapat butiran berukuran lebih kecil dari 0,063 mm tidak lebih dari 5% berat. Pasir ini yaitu pasir untuk Rigid kerap kali diterapkan untuk profesi cor-coran struktur seperti kolom, balok dan pelat lantai.
 
@@ -59,21 +58,18 @@ Untuk mendapatkan kekokohan Beton yang maksimal karenanya pasir sepatutnya dapat
 ![Harga Pasir Plester Free Ongkir Ke Pamoyanan Bogor](/images/info/pasir-hitam-1.jpg)
 
 - ### Pasir Biasa Di Pamoyanan Bogor
-    
 
 ![Harga Pasir Plester Free Ongkir Ke Pamoyanan Bogor](/images/info/pasir-hitam-11.jpg)
 
 Pasir ini ekstra halus lagi diperbandingkan oleh pasir beton. sekiranya kalian mengepal pasir ini maka akan menggumpal dan tak akan hancur kembali. pasir pasang biasa nya di manfaatkan untuk adukan pasir beton agar tidak terlampau kasar dan bisa di manfaatkan untuk plesteran dinding.
 
 - ### Pasir Kualitas rendah Untuk pengurugan lantai Di Pamoyanan Bogor
-    
 
 Di Antara ke dua pasir diatas pasir macam ini lebih halus lagi, kalau anda mengepal nya akan menggumpal dan tak akan buyar lagi. melainkan pasir jenis
 
 Pada lazim nya pasir ini nyaris sama dengan pasir beton melainkan pasir ini mempunyai tingkat kekasaran yang tinggi, butiran - butiran nya cukup besar dan agak banyak batuan nya. pada umumnya pasir jenis ini baik untuk bahan Pembuatan Batako
 
 - ### Pasir Putih Tanpa Ayak Untuk Taman Bermain Di Pamoyanan Bogor
-    
 
 1. **Pasir Putih Bangka**
 

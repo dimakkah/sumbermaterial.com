@@ -25,7 +25,7 @@ Menurut Standar Nasional Indonesia ( SK SNI - S - 04 - 1989 - F ; 28) di sebutka
 
 Persyaratan Pasir yang Bagus tuk Konstruksi
 
-1.  Agregat Halus seharusnya terdiri dari butiran yang tajam dan keras dengan indeks kekerasan <2.2
+1.  Agregat Halus seharusnya terdiri dari butiran yang tajam dan keras dengan indeks kekerasan <2.2
 2. bilamana dipakai Natrium Sulfat komponen hancur maksimal dua belas persen
 3. sekiranya diterapkan Magnesium Sulfat bagian halus maksimal 10%
 4. Tak boleh memuat clay lebih dari lima %
@@ -41,7 +41,6 @@ Persyaratan Pasir yang Bagus tuk Konstruksi
 setelah memahami prasyarat pasir buat sebuah Bangunan, pada saat ini kita bahas Jenis - Jenis Pasir Untuk Bangunan penjelasan nya sbb:
 
 - ### Pasir Beton Di Duri Utara Jakarta
-    
 
 Pasir ini umum nya berwarna coklat tua dan tingkat pecahan butiran nya cukup tinggi. Tetapi seandainya anda mengepal nya dengan tangan tak akan lengket dan akan buyar kembali. jenis pasir ini betul-betul lah baik untuk Pengecoran, Plesteran Dinding, Adukan Pondasi dan Adukan Pasangan Bata Pasir ini yaitu pasir untuk Rigid adalah butiran-butiran mineral keras dan tajam berukuran antara 0,075 – 5 mm, apabila terdapat butiran berukuran lebih kecil dari 0,063 mm tidak lebih dari 5% berat. Pasir ini yaitu pasir untuk Cor tak jarang dimanfaatkan untuk profesi cor-coran struktur seperti kolom, balok dan pelat lantai.
 
@@ -52,9 +51,9 @@ Harga Pasir Cimangkok Free Ongkir Ke Duri Utara Jakarta Sekiranya anda sebagai k
 Pasir terbaik diambil dari kp. jebrod cianjur jawa barat yang dipakai oleh indocement serta perusahaan batching plant lainnya sebagai bahan dasar produksi readymix concrete. Pasir ini paling dianjurkan untuk cor sebab irit semen juga mempunyai kandungan lumpur yang betul-betul rendah dibawah 8%. warnanya Hitam abu tua atau hitam seperti hitamnya batu kali, ada juga yang hitam kemerahan atau hitam terasi
 
 3. **Pasir Hitam Rigid Cimangkok.** Pasir asal Lokasi penambangannya di cimangkok sukabumi jawa barat yang masih masuk terhadap kategori pasir hitam nomor satu di jawa barat, warnanya hitam kecoklatan layak untuk cor, pasang pondasi dan bata
-    
+
     ![Harga Pasir Cimangkok Free Ongkir Ke Duri Utara Jakarta](/images/info/pasir-hitam-8.jpg)
-    
+
 4. **Pasir Hitam Cor Cimalaka Subang Bandung.**
 
 Pasir No. 1 yang berwarna hitam kebauan ada juga yang berwarna hitam abu tua. Banyak di aplikasikan untuk Cor, pasang dan keperluan lainnya. Ditambang di Desa cimalaka
@@ -90,9 +89,9 @@ Kecuali Rangkasbitung, Banten juga mempunyai lokasi pnembangan pasir lain sepert
 Masih dari Tempat di banten, pasir kelas tiga ini ialah pasir yang banyak diaplikasikan di proyek proyek perumahan atau cluster sebab harganya yang murah juga mutu yang baik. Warna pasir ini hitam kecoklatan dan keabuan benar-benar dianjurkan untuk pasang pondasi, bata, batu dan lain-lain
 
 27. **Pasir Hitam Rigid Bohlam Sukabumi.** Pasir dari Daerah kp. bohlam di sukabumi berwarna hitam kecoklatan, betul-betul bagus untuk pasang bata, pondasi dan lain-lain sebagai opsi pasir kwalitas baik dan murah
-    
+
     ![Harga Pasir Cimangkok Free Ongkir Ke Duri Utara Jakarta](/images/info/pasir-hitam-5.jpg)
-    
+
 28. **Pasir Cor Galunggung.**
 
 Pasir ini merupakan pasir hitam mutu paling unggul dikelasnya umum diaplikasikan oleh pabrik pengolahan beton readymix juga perusahan pembuatan precast dan acap kali juga diaplikasikan untuk bahan pembuatan batako press hitam, paving block dan lain-lain. Pasir ini ditambang dari Tasikmalaya jabar.
@@ -100,21 +99,18 @@ Pasir ini merupakan pasir hitam mutu paling unggul dikelasnya umum diaplikasikan
 ![Harga Pasir Cimangkok Free Ongkir Ke Duri Utara Jakarta](/images/info/pasir-hitam-7.jpg)
 
 - ### Pasir Untuk Pasang Batu, Pondasi, Bata, Ubin, Plester Di Duri Utara Jakarta
-    
 
 ![Harga Pasir Cimangkok Free Ongkir Ke Duri Utara Jakarta](/images/info/pasir-putih3.jpg)
 
 Pasir ini ekstra halus lagi dibandingkan oleh pasir beton. jika kamu mengepal pasir ini karenanya akan menggumpal dan tak akan buyar kembali. pasir pasang biasa nya di pakai untuk adukan pasir beton supaya tak kelewat kasar dan dapat di pakai untuk plesteran dinding.
 
 - ### Pasir Urug Untuk Pembuatan Batako Di Duri Utara Jakarta
-    
 
 Di Antara ke dua pasir diatas pasir model ini lebih halus lagi, apabila anda mengepal nya karenanya akan menggumpal dan tak akan buyar lagi. tapi pasir tipe
 
 Pada umum nya pasir ini nyaris sama dgn pasir beton tapi pasir ini mempunyai tingkat kekasaran yang tinggi, butiran - butiran nya lumayan besar dan agak banyak batuan nya. pada umumnya pasir jenis ini baik untuk bahan Pembuatan Batako
 
 - ### Pasir Putih Bebas Lumpur Untuk Pasang Keramik Di Duri Utara Jakarta
-    
 
 1. **Pasir Putih Bangka**
 

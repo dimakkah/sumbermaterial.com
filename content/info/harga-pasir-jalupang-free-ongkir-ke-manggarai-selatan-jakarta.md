@@ -25,7 +25,7 @@ Berdasarkan Standar Nasional Indonesia ( SK SNI - S - 04 - 1989 - F ; 28) di tut
 
 Prasyarat Pasir yang Bagus tuk Konstruksi
 
-1.  Agregat Halus semestinya terdiri dari butiran yang tajam dan keras dengan indeks kekerasan <2.2
+1.  Agregat Halus semestinya terdiri dari butiran yang tajam dan keras dengan indeks kekerasan <2.2
 2. bilamana digunakan Natrium Sulfat komponen hancur optimal dua belas %
 3. bila digunakan Magnesium Sulfat bagian halus maksimal sepuluh persen
 4. Tidak boleh mengandung tanah lebih dari 5 persen
@@ -41,7 +41,6 @@ Prasyarat Pasir yang Bagus tuk Konstruksi
 sesudah mengenal syarat pasir untuk sebuah Konstruksi Bangunan, sekarang ini kita bahas Ragam - Ragam Pasir Untuk Bangunan penjelasan nya sbb:
 
 - ### Pasir Untuk Beton Di Manggarai Selatan Jakarta
-    
 
 Pasir ini lazim nya berwarna keabu-abuan dan tingkat kekerasan butiran nya cukup tinggi. Tapi jikalau anda mengepal nya dengan tangan tidak akan menggumpal dan akan hancur kembali. ragam pasir ini benar-benar lah bagus buat Pengecoran, Plesteran Dinding, Adukan Pondasi dan Adukan Pasangan Bata Pasir ini yaitu pasir untuk Rigid yaitu butiran-butiran mineral keras dan tajam berukuran antara 0,075 – 5 mm, jikalau terdapat butiran berukuran lebih kecil dari 0,063 mm tak lebih dari 5% berat. Pasir ini yaitu pasir untuk Rigid sering kali dipakai untuk pekerjaan cor-coran struktur seperti kolom, balok dan pelat lantai.
 
@@ -59,21 +58,18 @@ Untuk mendapatkan kualitas Rigid yang optimal maka pasir semestinya dapat memenu
 ![Harga Pasir Jalupang Free Ongkir Ke Manggarai Selatan Jakarta](/images/info/pasir-hitam-8.jpg)
 
 - ### Pasir Untuk Adukan Pasang Batu, Pondasi, Bata, Ubin, Plester Di Manggarai Selatan Jakarta
-    
 
 ![Harga Pasir Jalupang Free Ongkir Ke Manggarai Selatan Jakarta](/images/info/jual-pasir-mundu.jpg)
 
 Pasir ini lebih halus lagi dibandingkan oleh pasir beton. sekiranya kamu mengepal pasir ini maka akan menggumpal dan tidak akan buyar kembali. pasir pasang lazim nya di pakai tuk adukan pasir beton supaya tak terlampau kasar dan dapat di manfaatkan untuk plesteran dinding.
 
 - ### Pasir Kualitas rendah Untuk Pembuatan Batako Di Manggarai Selatan Jakarta
-    
 
 Di Antara ke dua pasir diatas pasir ragam ini lebih halus lagi, jikalau kamu mengepal nya akan menggumpal dan tidak akan buyar lagi. tapi pasir ragam tidak bagus untuk di buat sebagai bahan bangunan. pasir macam ini pada lazim nya di pakai tuk Bahan Pembuatan Batako
 
 Pada umum nya pasir ini nyaris sama dengan pasir beton akan melainkan pasir ini mempunyai tingkat kekasaran yg tinggi, butiran - butiran nya lumayan besar dan agak banyak batuan nya. pada umumnya pasir jenis ini bagus tuk bahan pengurugan lantai
 
 - ### Pasir Putih Halus Untuk Pasang Bata Di Manggarai Selatan Jakarta
-    
 
 1. **Pasir Putih Bangka**
 

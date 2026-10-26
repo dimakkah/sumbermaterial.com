@@ -18,19 +18,19 @@ description: "Jasa Pembuatan Pagar Rumah Di Kenari Jakarta. Tunggu apalagi ? But
 
 Jasa kami sudah lama bergerak dalam bidang ini sehingga sudah teruji kwalitas dan hasil finishing yang kami bedrikan, dikerjaan oleh para teknisi bangunan yg sudah berprofesi belasan tahun, sehingga hasil yang kami kerjakan akan layak dg pesanan maupun kebutuhan anda. Kwalitas dan Kuantitas menjadi hal utama yg dapat kami tawarkan terhadap anda. Selain itu, anda bisa melihat sebagian Nilai plus dari Jasa kami yg dapat menjadi pertimbangan utk anda nantinya. Dibawah ini yakni alasan anda mesti memilih kami sebagai Layanan Profesional Pembuatan pagar Stainless dan besi. Kenapa Anda wajib Memlih Layanan Kami.
 
-### 1\. Free Suvery dan Konsultasi
+### 1. Free Suvery dan Konsultasi
 
 Demi memberikan kepuasan akan hasil yang diterima oleh pelanggan, tim teknisi kami yang telah berpengalaman akan menjalankan survey ke lokasi anda untuk melakukan pengecekan, analisis dan perhitungan dari kebutuhan kerangka besi dan komponen apapun yang berkaitan dg pembuatan pagar ini. Terutamanya, kami memberikan kans terhadap anda untuk berkonsultasi secara gratis tanpa mengeluarkan uang sepeserpun. Kami percaya, dg pelayanan seperti ini dapat memberikan kepuasan sendiri bagi Layanan kami terhadap setiap pelanggan.
 
-### 2\. Pengalaman yang telah matang dan profesional
+### 2. Pengalaman yang telah matang dan profesional
 
 Sekali lagi kami katakan jika Jasa Pembikinan pagar Stainlesss ini telah berpengalaman belasan tahun lamannya dalam pemasangan pagar dari bahan besi ataupun Stainlesss. Anda tak perlu takut atau cemas, orderan tak cocok dg harapan. Kami memberikan jaminan garansi jika terjadi kerusakaan diakibatkan keteledoran kami dalam bekerja, tapi sampai detik ini tak ada pelanggan yg tak puas dg hasil kerja kami. Kini giliran anda untuk mencobanya.
 
-### 3\. Harga Ekonomis dan Berkwalitas
+### 3. Harga Ekonomis dan Berkwalitas
 
 Harga yang kami patok tidaklah mahal, kami sesuaikan dengan hasil kerja teknisi yg sudah berpengalaman dan material yg anda pesan. Tentu ini juga menetapkan banyak hal seperti ukuran, volume, ragam material, lama proses, jumlah dan masih banyak lagi yang lainnya. Cocok lazim, biaya yg kami berikan pantas dg mutu yg akan anda peroleh. Ideal bagi anda yang benar-benar memerlukan bantuan utk pembuatan pagar dari Stainless dan besi.
 
-### 4\. Hemat waktu dan Bergaransi
+### 4. Hemat waktu dan Bergaransi
 
 Layanan Pembuatan pagar Stainlesss dan besi dari kami benar-benar mengerjakan pesanan layak dg tanggal dan waktu yg diatur. Anda jangan ragu utk memesan layanan kami sekarang juga.
 
@@ -46,19 +46,19 @@ Pantas umum, Jasa Pembikinan pagar Stainless dan besi kami telah benar-benar lam
 
 ## Beberapa Alasan Anda Harus Memesan Dari Jasa Kami
 
-#### 1\. Tukang yang profesional di bidangnya
+### 1. Tukang yang profesional di bidangnya
 
 Kami yakin saat ini anda sedang mencari Layanan Pembikinan pagar Stainless dan besi yg benar-benar pakar dibidangnya. Kwalitas tak perlu lagi anda ragu untuk kontak kami. Teknisi kami akan memberikan hasil memuaskan utk anda.
 
-#### 2\. Rapi dan juga modern
+#### 2. Rapi dan juga modern
 
 Layanan kami selalu mengikuti perkembangan zaman dan teknologi terupdate, sehingga akhirnya benar-benar modern, elegan dan sesuai dg keperluan anda.
 
-#### 3\. Pake Material terbaik
+#### 3. Pake Material terbaik
 
 Kami tidak berani memberikan material abal-abal untuk pelanggan kami, sebab itu jelas akan merusak reputasi kami dan merugikan pelanggan. untuk itu, kami berikan material terbaik di kelasnya.
 
-#### 4\. Hemat waktu
+#### 4. Hemat waktu
 
 Mutu dari hasil kerja kami ditetapkan dg lama waktu cara kerja yang kami berikan.
 
@@ -72,15 +72,15 @@ Mengobrol soal harga pembuatan pagar dari bahan besi memang telah cukup banyak d
 
 Kami mematok harga pembuatan menurut keperluan anda, ada beberapa pembuatan menurut keperluan seperti utk rumah, kolam renang, pagar pekarangan dan masih banyak lagi yang lainnya. Anda dapat simak informasinya dibawah ini.
 
-### 1\. Pagar Contoh sederhana utk rumah
+### 1. Pagar Contoh sederhana utk rumah
 
 Contoh sederhana yg kami maksudkan disini tidak banyak menerapkan custom atau ragam yg neko-neko, kami menyediakan design ini untuk anda yang ingin memiliki pagar besi dengan custom macam yg simple tapi juga kelihatan elegan. Mengena harga, kurang lebih per meter dapat mencapai 1 juta keatas, lebih bagus anda konsultasikan secara langsung karena kami akan memberikan sangkaan biaya pasti utk pagar dg Sampel sedergana seperti ini. Tersedia berbagai warna opsi yg dapat disesuaikan dengan warna bangunan rumah anda.
 
-### 2\. Pagar besi dengan Desain klasik modern
+### 2. Pagar besi dengan Desain klasik modern
 
 Selanjutnya harga pembuatan pagar besi dg Sampel atau konsep klasik juga banyak dipesan orang-orang. Konsep seperti ini dapat memberikan makna yang dinamis dan sederhana tetapi tidak kehilangan estektika seninya. Motif dari konsep klasik ini dipadukan dg variasi wujud yg sesuai sehingga pagar tampak lebih menghiasi rumah disamping fungsinya untuk keamanan. Tinggi pagar ini bisa lebih dari 1 meter, layak dengan kebutuhan anda. Pagar simple ini hakekatnya divariasikan dengan perpaduan besi dan batu-batuan sebagai temboknya, sehingga hasil finishing yang nampak akan benar-benar klasik dan elegan. Umumnya para pengguna pagar besi ini akan memakai lampu mungil untuk pencahayaan, sehingga walhasil akan tampak lebih bagus dan elegan. Anda bisa menaruh dua lampu di samping kanan dan kiri tembok. harga pagar besi untuk rumah seperti ini mencapai 1 juta lebih, tergantung dari besar kecilnya pagar yg anda butuhkan.
 
-### 3\. Pagar besi dan stanlis minimalis
+### 3. Pagar besi dan stanlis minimalis
 
 Harga pagar besi stanlis dan modern yang Ini lebih memperlihatkan perpaduan yg lebih elegan melainkan tak meninggalkan kesan minimalis. Walaupun hanya berupa pagar dengan garis lurus saja, banyak orang yang suka dg Desain ini sebab kelihatan elegan dan minimalis. Cocok sekali untuk anda yg memiliki rumah dg Type 36 – 42. utk pembuatan pagar besi minumalis ini tak memerlukan waktu lama, meski mengenai harganya bisa anda diskusikan segera terhadap teknisi sehingga lebih mudah memutuskan biaya, karena semestinya disesuaikan dengan volume pagar dan ukurannya. Masih banyak Sampel dan Design lain yg dapat anda temukan dari Jasa Pembikinan pagar besi kami, silahkan seketika saja hubungi kami melewati kontak yg sudah kami sediakan dibawah ini.
 

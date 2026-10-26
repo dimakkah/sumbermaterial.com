@@ -25,7 +25,7 @@ menurut Standar Nasional Indonesia ( SK SNI - S - 04 - 1989 - F ; 28) di tuturka
 
 Persyaratan Pasir yang Bagus buat Bangunan
 
-1.  Agregat Halus patut terdiri dari butiran yang tajam dan keras dengan indeks kekerasan <2.2
+1.  Agregat Halus patut terdiri dari butiran yang tajam dan keras dengan indeks kekerasan <2.2
 2. Jika dimanfaatkan Natrium Sulfat komponen hancur optimal 12 persen
 3. jika digunakan Magnesium Sulfat komponen halus maksimal 10%
 4. Tak boleh mengandung tanah lebih dari 5%
@@ -41,7 +41,6 @@ Persyaratan Pasir yang Bagus buat Bangunan
 Sesudah mengetahui prasyarat pasir untuk suatu Bangunan, sekarang ini kita bahas Tipe - Jenis Pasir Untuk Bangunan penjelasan nya sebagai berikut:
 
 - ### Pasir Untuk Pengecoran Di Kosambi Tangerang
-    
 
 Pasir ini umum nya berwarna coklat tua dan tingkat pecahan butiran nya cukup tinggi. Namun seandainya anda mengepal nya dengan tangan tidak akan menggumpal dan akan buyar kembali. jenis pasir ini amat lah bagus tuk Pengecoran, Plesteran Dinding, Adukan Pondasi dan Adukan Pasangan Bata Pasir ini yaitu pasir untuk Rigid ialah butiran-butiran mineral keras dan tajam berukuran antara 0,075 – 5 mm, jika terdapat butiran berukuran lebih kecil dari 0,063 mm tak lebih dari 5% berat. Pasir ini yaitu pasir untuk Cor sering kali dipakai untuk pekerjaan cor-coran struktur seperti kolom, balok dan pelat lantai.
 
@@ -59,21 +58,18 @@ Untuk mendapatkan kekuatan Cor yang optimal karenanya pasir sepatutnya bisa meme
 ![Harga Pasir Putih Bangka Free Ongkir Ke Kosambi Tangerang](/images/info/pasir-hitam-7.jpg)
 
 - ### Pasir Biasa Di Kosambi Tangerang
-    
 
 ![Harga Pasir Putih Bangka Free Ongkir Ke Kosambi Tangerang](/images/info/jual-pasir-mundu.jpg)
 
 Pasir ini ekstra halus lagi dibandingkan oleh pasir beton. seandainya kamu mengepal pasir ini karenanya akan menggumpal dan tidak akan hancur kembali. pasir pasang lazim nya di manfaatkan tuk campuran pasir beton agar tidak kelewat kasar dan dapat di manfaatkan untuk plesteran dinding.
 
 - ### Pasir Urug Untuk Dasaran Pemasangan Marmer Di Kosambi Tangerang
-    
 
 Di Antara ke dua pasir diatas pasir model ini lebih halus lagi, bila anda mengepal nya maka akan menggumpal dan tak akan hancur lagi. tapi pasir tipe
 
 Pada biasa nya pasir ini nyaris sama dgn pasir beton akan tapi pasir ini memiliki tingkat kekasaran yg tinggi, butiran - butiran nya lumayan besar dan agak banyak batuan nya. pada biasanya pasir jenis ini baik untuk bahan pengurugan lantai
 
 - ### Pasir Putih Tanpa Ayak Untuk Pasang Bata Di Kosambi Tangerang
-    
 
 1. **Pasir Putih Bangka**
 

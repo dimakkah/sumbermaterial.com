@@ -25,7 +25,7 @@ menurut Standar Nasional Indonesia ( SK SNI - S - 04 - 1989 - F ; 28) di tuturka
 
 Syarat-Syarat Pasir yang Baik Untuk Bangunan
 
-1.  Agregat Halus semestinya terdiri dari butiran yang tajam dan keras dengan indeks kekerasan <2.2
+1.  Agregat Halus semestinya terdiri dari butiran yang tajam dan keras dengan indeks kekerasan <2.2
 2. kalau dimanfaatkan Natrium Sulfat bagian hancur maksimal 12 persen
 3. seandainya digunakan Magnesium Sulfat komponen halus optimal sepuluh persen
 4. Tak boleh memuat tanah lebih dari 5%
@@ -41,7 +41,6 @@ Syarat-Syarat Pasir yang Baik Untuk Bangunan
 setelah memahami prasyarat pasir untuk sebuah Konstruksi, sekarang ini kita bahas Tipe - Tipe Pasir Untuk Bangunan penjelasan nya sbb:
 
 - ### Pasir Beton Di Pabaton Bogor
-    
 
 Pasir ini lazim nya berwarna hitam pekat dan tingkat pecahan butiran nya cukup tinggi. Melainkan kalau anda mengepal nya dengan tangan tak akan lengket dan akan hancur kembali. tipe pasir ini betul-betul lah baik buat Pengecoran, Plesteran Dinding, Adukan Pondasi dan Adukan Pasangan Bata Pasir ini yaitu pasir untuk Rigid adalah butiran-butiran mineral keras dan tajam berukuran antara 0,075 – 5 mm, jikalau terdapat butiran berukuran lebih kecil dari 0,063 mm tak lebih dari 5% berat. Pasir ini yaitu pasir untuk Cor sering diaplikasikan untuk profesi cor-coran struktur seperti kolom, balok dan pelat lantai.
 
@@ -59,21 +58,18 @@ Untuk mendapatkan kekuatan Rigid yang maksimal maka pasir mesti mampu memenuhi p
 ![Harga Pasir Pasang Free Ongkir Ke Pabaton Bogor](/images/info/pasir-hitam-2.jpg)
 
 - ### Pasir Pasang Di Pabaton Bogor
-    
 
 ![Harga Pasir Pasang Free Ongkir Ke Pabaton Bogor](/images/info/jual-pasir-mundu.jpg)
 
 Pasir ini lebih halus lagi dibandingi oleh pasir beton. bila anda mengepal pasir ini maka akan menggumpal dan tidak akan buyar kembali. pasir pasang biasa nya di pakai untuk campuran pasir beton supaya tak terlampau kasar dan bisa di pakai untuk plesteran dinding.
 
 - ### Pasir Urug Untuk pengurugan lantai Di Pabaton Bogor
-    
 
 Di Antara ke dua pasir diatas pasir macam ini lebih halus lagi, bila anda mengepal nya karenanya akan menggumpal dan tak akan buyar lagi. tetapi pasir ragam tak baik tuk di buat sebagai bahan bangunan. pasir macam ini pada biasa nya di pergunakan tuk Bahan Pembuatan Batako
 
 Pada lazim nya pasir ini nyaris sama dengan pasir beton akan melainkan pasir ini memiliki tingkat kekasaran yang tinggi, butiran - butiran nya lumayan besar dan agak banyak batuan nya. pada umumnya pasir model ini bagus tuk bahan dasaran pemasangan keramik
 
 - ### Pasir Putih Tanpa Batu Untuk Pasang Bata Di Pabaton Bogor
-    
 
 1. **Pasir Putih Bangka**
 

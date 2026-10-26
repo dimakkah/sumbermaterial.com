@@ -25,7 +25,7 @@ berdasarkan Standar Nasional Indonesia ( SK SNI - S - 04 - 1989 - F ; 28) di tut
 
 Prasyarat Pasir yang Baik tuk Konstruksi
 
-1.  Agregat Halus patut terdiri dari butiran yang tajam dan keras dengan indeks kekerasan <2.2
+1.  Agregat Halus patut terdiri dari butiran yang tajam dan keras dengan indeks kekerasan <2.2
 2. kalau diterapkan Natrium Sulfat bagian hancur maksimal dua belas %
 3. apabila diaplikasikan Magnesium Sulfat bagian halus optimal sepuluh persen
 4. Tidak boleh mengandung lumpur lebih dari lima persen
@@ -41,7 +41,6 @@ Prasyarat Pasir yang Baik tuk Konstruksi
 setelah mengenal syarat pasir buat suatu Konstruksi, sekarang ini kita bahas Ragam - Macam Pasir Untuk Konstruksi penjelasan nya sebagai berikut:
 
 - ### Pasir Untuk Pengecoran Di Cipondoh Tangerang
-    
 
 Pasir ini biasa nya berwarna keabu-abuan dan tingkat pecahan butiran nya cukup tinggi. Namun jika anda mengepal nya dengan tangan tak akan menggumpal dan akan buyar kembali. tipe pasir ini betul-betul lah baik tuk Pengecoran, Plesteran Dinding, Adukan Pondasi dan Adukan Pasangan Bata Pasir ini yaitu pasir untuk Cor adalah butiran-butiran mineral keras dan tajam berukuran antara 0,075 – 5 mm, jika terdapat butiran berukuran lebih kecil dari 0,063 mm tak lebih dari 5% berat. Pasir ini yaitu pasir untuk Rigid kerap dipakai untuk profesi cor-coran struktur seperti kolom, balok dan pelat lantai.
 
@@ -59,21 +58,18 @@ Untuk memperoleh ketahanan Rigid yang maksimal karenanya pasir harus bisa memenu
 ![Harga Pasir Jalupang Free Ongkir Ke Cipondoh Tangerang](/images/info/pasir-hitam-1.jpg)
 
 - ### Pasir Untuk Adukan Pasang Batu, Pondasi, Bata, Ubin, Plester Di Cipondoh Tangerang
-    
 
 ![Harga Pasir Jalupang Free Ongkir Ke Cipondoh Tangerang](/images/info/pasir-hitam-4.jpg)
 
 Pasir ini ekstra halus lagi diperbandingkan oleh pasir beton. bila kalian mengepal pasir ini karenanya akan menggumpal dan tak akan buyar kembali. pasir pasang biasa nya di manfaatkan buat campuran pasir beton agar tidak terlampau kasar dan dapat di manfaatkan untuk plesteran dinding.
 
 - ### Pasir Kualitas rendah Untuk Dasaran Pemasangan Keramik Di Cipondoh Tangerang
-    
 
 Di Antara ke dua pasir diatas pasir model ini lebih halus lagi, seandainya kalian mengepal nya akan menggumpal dan tak akan buyar lagi. tetapi pasir tipe
 
 Pada lazim nya pasir ini nyaris sama dengan pasir beton akan tetapi pasir ini memiliki tingkat kekasaran yang tinggi, butiran - butiran nya lumayan besar dan agak banyak batuan nya. pada biasanya pasir model ini bagus tuk bahan pemadatan lantai
 
 - ### Pasir Putih Bebas Lumpur Untuk Pengecoran Di Cipondoh Tangerang
-    
 
 1. **Pasir Putih Bangka**
 

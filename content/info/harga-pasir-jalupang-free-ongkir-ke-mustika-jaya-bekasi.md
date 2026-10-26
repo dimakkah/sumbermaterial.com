@@ -25,7 +25,7 @@ menurut Standar Nasional Indonesia ( SK SNI - S - 04 - 1989 - F ; 28) di tuturka
 
 Prasyarat Pasir yang Baik Untuk Konstruksi Bangunan
 
-1.  Agregat Halus seharusnya terdiri dari butiran yg tajam dan keras dengan indeks kekerasan <2.2
+1.  Agregat Halus seharusnya terdiri dari butiran yg tajam dan keras dengan indeks kekerasan <2.2
 2. Seandainya dimanfaatkan Natrium Sulfat komponen hancur optimal dua belas persen
 3. jikalau digunakan Magnesium Sulfat bagian halus maksimal 10%
 4. Tak boleh mengandung tanah lebih dari lima %
@@ -41,7 +41,6 @@ Prasyarat Pasir yang Baik Untuk Konstruksi Bangunan
 Setelah memahami syarat pasir untuk sebuah Konstruksi Bangunan, saat ini kita bahas Macam - Macam Pasir Untuk Konstruksi Bangunan penjelasan nya berikut ini:
 
 - ### Pasir Tipe Beton dan Tempat Sumbernya Di Mustika Jaya Bekasi
-    
 
 Pasir ini umum nya berwarna coklat tua dan tingkat kekerasan butiran nya cukup tinggi. Tetapi sekiranya anda mengepal nya dengan tangan tak akan lengket dan akan hancur kembali. tipe pasir ini benar-benar lah bagus untuk Pengecoran, Plesteran Dinding, Adukan Pondasi dan Adukan Pasangan Bata Pasir ini yaitu pasir untuk Cor yakni butiran-butiran mineral keras dan tajam berukuran antara 0,075 – 5 mm, jika terdapat butiran berukuran lebih kecil dari 0,063 mm tak lebih dari 5% berat. Pasir ini yaitu pasir untuk Cor kerap kali digunakan untuk profesi cor-coran struktur seperti kolom, balok dan pelat lantai.
 
@@ -52,9 +51,9 @@ Harga Pasir Jalupang Free Ongkir Ke Mustika Jaya Bekasi Jikalau anda sebagai kon
 Pasir kelas satu diambil dari kp. jebrod cianjur jawa barat yang dipakai oleh indocement serta perusahaan batching plant lainnya sebagai bahan dasar produksi readymix concrete. Pasir ini paling dianjurkan untuk cor sebab irit semen juga mempunyai kandungan lumpur yang sungguh-sungguh rendah dibawah 8%. warnanya Hitam abu tua atau hitam seperti hitamnya batu kali, ada juga yang hitam kemerahan atau hitam terasi
 
 3. **Pasir Hitam Rigid Cimangkok.** Pasir asal Daerah penambangannya di cimangkok sukabumi jabar yang masih masuk terhadap golongan pasir hitam No. 1 di jawa barat, warnanya hitam kecoklatan sesuai untuk cor, pasang pondasi dan bata
-    
+
     ![Harga Pasir Jalupang Free Ongkir Ke Mustika Jaya Bekasi](/images/info/pasir-hitam-8.jpg)
-    
+
 4. **Pasir Hitam Cor Cimalaka Subang Bandung.**
 
 Pasir paling unggul yang berwarna hitam kebauan ada juga yang berwarna hitam abu tua. Banyak di aplikasikan untuk Cor, pasang dan keperluan lainnya. Ditambang di Daerah cimalaka
@@ -90,9 +89,9 @@ Kecuali Rangkasbitung, Banten juga mempunyai lokasi pnembangan pasir lain sepert
 Masih dari kawasan di banten, pasir kelas tiga ini yakni pasir yang banyak diterapkan di proyek proyek perumahan atau cluster sebab harganya yang murah juga kwalitas yang bagus. Warna pasir ini hitam kecoklatan dan keabuan betul-betul disarankan untuk pasang pondasi, bata, batu dan sebagainya
 
 27. **Pasir Hitam Beton Bohlam Sukabumi.** Pasir dari Lokasi kp. bohlam di sukabumi berwarna hitam kecoklatan, sungguh-sungguh bagus untuk pasang bata, pondasi dsb sebagai pilihan pasir kwalitas tidak diragukan dan ekonomis
-    
+
     ![Harga Pasir Jalupang Free Ongkir Ke Mustika Jaya Bekasi](/images/info/pasir-hitam-9.jpg)
-    
+
 28. **Pasir Cor Galunggung.**
 
 Pasir ini merupakan pasir hitam kwalitas paling unggul dikelasnya awam diaplikasikan oleh pabrik pengolahan beton readymix juga perusahan pembuatan precast dan acap kali juga diterapkan untuk bahan pembuatan batako press hitam, paving block dsb. Pasir ini ditambang dari Tasikmalaya jabar.
@@ -100,21 +99,18 @@ Pasir ini merupakan pasir hitam kwalitas paling unggul dikelasnya awam diaplikas
 ![Harga Pasir Jalupang Free Ongkir Ke Mustika Jaya Bekasi](/images/info/pasir-hitam-7.jpg)
 
 - ### Pasir Standar Di Mustika Jaya Bekasi
-    
 
 ![Harga Pasir Jalupang Free Ongkir Ke Mustika Jaya Bekasi](/images/info/pasir-putih12.jpg)
 
 Pasir ini ekstra halus lagi dibandingkan oleh pasir beton. seandainya anda mengepal pasir ini maka akan menggumpal dan tak akan hancur kembali. pasir pasang biasa nya di gunakan buat adukan pasir beton agar tidak terlampau kasar dan dapat di manfaatkan untuk plesteran dinding.
 
 - ### Pasir Urug Untuk Pembuatan Batako Di Mustika Jaya Bekasi
-    
 
 Di Antara ke dua pasir diatas pasir jenis ini lebih halus lagi, sekiranya kalian mengepal nya akan menggumpal dan tidak akan hancur lagi. tetapi pasir ragam tak bagus tuk di buat sebagai bahan bangunan. pasir tipe ini pada umum nya di pakai tuk Bahan Pembuatan Batako
 
 Pada umum nya pasir ini nyaris sama dgn pasir beton akan tetapi pasir ini mempunyai tingkat kekasaran yg tinggi, butiran - butiran nya lumayan besar dan agak banyak batuan nya. pada biasanya pasir model ini bagus untuk bahan pengurugan lantai
 
 - ### Pasir Putih Kadar Lumpur Rendah Untuk Pelester Di Mustika Jaya Bekasi
-    
 
 1. **Pasir Putih Bangka**
 

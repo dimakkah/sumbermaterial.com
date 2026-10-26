@@ -18,19 +18,19 @@ Tanpa adanya besi maka sebuah bangunan akan mudah retak dikala ada guncangan kec
 
 ## Megenal Variasi-tipe Besi Di Cihara Rangkasbitung
 
-### 1\. Besi Polos Banci 4mm, 6mm, 8mm, 10mm, 12mm, 16mm, 18mm, 19mm Di Cihara Rangkasbitung
+### 1. Besi Polos Banci 4mm, 6mm, 8mm, 10mm, 12mm, 16mm, 18mm, 19mm Di Cihara Rangkasbitung
 
 Besi polos memiliki ukuran mulai dari 8 mm hingga 25 mm dan memiliki 6 meter panjang tekuk dan 12 meter panjang lurus. Besi beton ini mulai diterapkan sebagai bahan utama di Indonesia pada tahun 1950. Besi ini kerap kali digunakan untuk membangun sebuah gedung. Bahan yang gampang dipakai sehingga selain digunakan untuk membangun sebuah gedung juga diaplikasikan untuk membangun trowongan, bendungan, dan lainnya. Saat diaplikasikan untuk membangun rumah bertingkat maka biasanya besi polos ini diterapkan untuk struktur rangkaian besi balok, dinding, dan sloof. Besi beton polos ini memiliki keunggulan besi polos ini tegangannya lebih tinggi dari pada besi lainnya. Jadi besi ini terkesan lebih kokoh dan tahan beban. Sehingga pemakaian besi polos ini amat sesuai untuk membangun gedung, jembatan, dan bangunan lainnya. Besi polos ini terbuat dari bahan seperti billet dan skrap. Billet yaitu baja batangan yang cara kerja pembuatannya dengan mengecor biji besi. Jika skrap yaitu besi bekas yang dileburkan dengan temperature tertentu. Selain itu sekiranya anda memakai besi polos ini tdk memerlukan biaya pemeliharaan. Kian lama diaplikasikan maka besi ini akan semakin kokoh.
 
-### 2\. Besi Ulir SNI 4mm, 6mm, 8mm, 10mm, 12mm, 16mm, 18mm, 19mm Di Cihara Rangkasbitung
+### 2. Besi Ulir SNI 4mm, 6mm, 8mm, 10mm, 12mm, 16mm, 18mm, 19mm Di Cihara Rangkasbitung
 
 Selaras dengan namanya besi beton ulir ini yakni besi yang bentuknya mengulir. Pada permukaannya bercorak spiral yang memiliki tujuan untuk menyatukan gerigi besi dengan unsur material bangunan yang dibentuk oleh besi beton. Besi ulir ini mulai populer dipakai pada abad ke-20 di Amerika dan mulai populer di Indonesia pada tahun1950. Mengingat dikala menerapkan besi ulir ini memiliki banyak kelebihan mulai dari ketahanan bangunan serta lebih murah dan efisien. Produk besi ulir ini menjadi paling laris di pasar karena memiliki mutu yang terbaik di Indonesia dan memiliki harga yang tinggi kalau diperbandingkan dengan produk lainnya.
 
-### 3\. Besi WF dan H-Beam SNI Di Cihara Rangkasbitung
+### 3. Besi WF dan H-Beam SNI Di Cihara Rangkasbitung
 
 Besi Wide Flange (WF) ini adalah salah satu baja dengan struktural yang paling banyak dipakai untuk kontruksi baja. Sekiranya anda membutuhkan besi baja Wide Flage dalam quantitas yang banyak atau sedikit karenanya silahkan cari penjual besi yang terpercaya. Besi WF ini memiliki ketahanan yang kokoh dan kuat pada kekuatan tarik atau tekan. Maka dari itu besi ini menjadi unsur struktur yang mempunyai batasan yang sempurna untuk menopang muatan tekan aksial, tarik aksial, dan lentur dengan fasilitas pembangunan strukturnya. Baja Wide Flange (WF) ini mempunyai kepadatan yang tinggi tapi rasio berat antara kekuatan bagian Baja WF yang tinggi tetapi tdk terlalu berat yang berhubungan dengan kapasitas bobot. Selain dari itu memastikan bila kontruksi yang dipakai secara efisien. Sistem kontruksi baja WF ini kombinasi dari unsur struktur yang kompleks. Pada struktur ini mempunyai tujuan membawa bobot yang aman dan efektif yang berefek pada sebuah bangunan dan dikirim pada pondasinya. Gaya dan beban yang bekerja ini termasuk beban pertikal, perbedaan suhu, horizontal, getaran dan lainnya. Pada sebuah bangunan baja, karenanya ada unsure yang berfungsi menahan gaya lateral dan gravitasi.
 
-### 4\. Besi Holow Di Cihara Rangkasbitung
+### 4. Besi Holow Di Cihara Rangkasbitung
 
 Besi hollow adalah besi yang digunakan sebagai pembuatan kanopi, pagar, pintu besi dan lainnya. Bahan baku pembuatan besi Hollow ini umumnya terbuat dari stainless, galvanis, dan besi baja. Tapi yang paling kerap diterapkan sebagai bahan baku ialah galvanis. Terdapat kelebihan yang anda temukan ketika mengaplikasikan kanopi, menerapkan pagar, teralis mengaplikasikan besi hollow:
 

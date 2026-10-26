@@ -21,13 +21,13 @@ Pemasangan baja ringan untuk kebutuhan bangunan bisa dilakukan dengan cukup muda
 
 Berikut ini beberapa alasan dasar yang perlu Anda ketahui sebelum menghubungi kami. Alasan-alasan ini akan meyakinkan Anda untuk memilih baja ringan sebagai kerangka atap dan kanopi:
 
- Baja ringan lebih ramah lingkungan karena Anda tidak membutuhkan kayu yang berarti Anda tidak perlu menebang pohon. Dengan menggunakan kerangka baja ringan, Anda turut serta dalam melestarikan alam.
- Lebih ekonomis. Jika Anda menggunakan kerangka dari bahan kayu, harganya akan jauh lebih mahal karena kayu berkualitas tinggi membutuhkan tarif yang lebih besar. Ini terutama berlaku untuk komponen kerangka yang sangat penting bagi sebuah bangunan. Anda perlu mempertimbangkan hal ini secara matang untuk menekan biaya pembangunan.
- Ringan dan kuat. Baja ringan berbeda dengan baja atau besi yang memiliki berat dua kali lipat. Baja ringan memiliki ketebalan yang tipis dan ringan, namun tetap kuat untuk kerangka atap dan pembuatan kanopi rumah Anda.
- Bebas perawatan. Anda tidak perlu khawatir kerangka atap Anda rusak dan memerlukan perbaikan rutin. Ini akan membebaskan Anda dari perawatan tahunan yang merepotkan.
- Progres pemasangan yang cepat. Berbeda dengan kerangka atap yang terbuat dari bahan kayu dan bahan lain yang memerlukan waktu lama dalam pengerjaannya, pemasangan baja ringan jauh lebih cepat. 
- Bahan berkualitas tinggi. Baja ringan yang kami gunakan bukanlah baja ringan sembarangan. Bahan utamanya adalah zinc dan aluminium yang telah memiliki sertifikasi dan standar keamanan 4 kali lebih baik dibandingkan baja umum. Kekuatannya juga mampu menopang beban berkilo-kilo.
- Tahan rayap. Kami menjamin bahwa kerangka atap dan kanopi dari baja ringan ini tahan terhadap serangan rayap.
+- Baja ringan lebih ramah lingkungan karena Anda tidak membutuhkan kayu yang berarti Anda tidak perlu menebang pohon. Dengan menggunakan kerangka baja ringan, Anda turut serta dalam melestarikan alam.
+- Lebih ekonomis. Jika Anda menggunakan kerangka dari bahan kayu, harganya akan jauh lebih mahal karena kayu berkualitas tinggi membutuhkan tarif yang lebih besar. Ini terutama berlaku untuk komponen kerangka yang sangat penting bagi sebuah bangunan. Anda perlu mempertimbangkan hal ini secara matang untuk menekan biaya pembangunan.
+- Ringan dan kuat. Baja ringan berbeda dengan baja atau besi yang memiliki berat dua kali lipat. Baja ringan memiliki ketebalan yang tipis dan ringan, namun tetap kuat untuk kerangka atap dan pembuatan kanopi rumah Anda.
+- Bebas perawatan. Anda tidak perlu khawatir kerangka atap Anda rusak dan memerlukan perbaikan rutin. Ini akan membebaskan Anda dari perawatan tahunan yang merepotkan.
+- Progres pemasangan yang cepat. Berbeda dengan kerangka atap yang terbuat dari bahan kayu dan bahan lain yang memerlukan waktu lama dalam pengerjaannya, pemasangan baja ringan jauh lebih cepat.
+- Bahan berkualitas tinggi. Baja ringan yang kami gunakan bukanlah baja ringan sembarangan. Bahan utamanya adalah zinc dan aluminium yang telah memiliki sertifikasi dan standar keamanan 4 kali lebih baik dibandingkan baja umum. Kekuatannya juga mampu menopang beban berkilo-kilo.
+- Tahan rayap. Kami menjamin bahwa kerangka atap dan kanopi dari baja ringan ini tahan terhadap serangan rayap.
 
 ## Cara Hitung Luas Rangka Baja Ringan Di Cinangka Depok
 
@@ -57,10 +57,10 @@ Berbicara mengenai harga jasa pasang baja ringan, sebenarnya sudah banyak inform
 
 (Catatan: harga dapat berubah sewaktu-waktu) Berikut ini beberapa perkiraan biaya jasa pasang baja ringan berdasarkan variasi pemasangannya:
 
-*   Kanopi dengan rangka baja ringan “Polikarbonat x Lite”: Rp. 285.000 / m²
-*   Kanopi dengan rangka baja ringan “Spandek”: Rp. 225.000 / m²
-*   Kanopi dengan rangka baja ringan “Gogreen”: Rp. 200.000 / m²
-*   Untuk perhitungan lainnya, silakan hubungi kami melalui kontak yang telah kami sediakan di *website* kami.
+- Kanopi dengan rangka baja ringan “Polikarbonat x Lite”: Rp. 285.000 / m²
+- Kanopi dengan rangka baja ringan “Spandek”: Rp. 225.000 / m²
+- Kanopi dengan rangka baja ringan “Gogreen”: Rp. 200.000 / m²
+- Untuk perhitungan lainnya, silakan hubungi kami melalui kontak yang telah kami sediakan di *website* kami.
 
 Selain itu, ada beberapa parameter besaran harga jasa pasang baja ringan yang perlu Anda ketahui:
 
@@ -80,10 +80,10 @@ Tahap selanjutnya, jika pembuatan sketsa dan perhitungan rangka sudah dilakukan,
 
 Berikut informasi rinci harga jasa pasang baja ringan yang perlu Anda ketahui, ini penting untuk Anda ketahui dalam menetapkan besaran *budget* yang diperlukan:
 
-*   Biaya jasa kami sudah termasuk biaya pemasangan, yang umumnya lebih murah dan menawarkan diskon menarik bagi pelanggan.
-*   Harga yang kami berikan sudah sesuai dengan layanan pemasangan, perhitungan yang akurat, dan material yang terpasang.
-*   Kami selalu mengutamakan penawaran harga terbaik bagi pelanggan.
-*   Harga jasa pasang baja ringan dapat berubah sewaktu-waktu karena fluktuasi harga material.
-*   Pembayaran dapat dilakukan dengan *down payment* (DP) dan sisanya setelah pemasangan selesai.
+- Biaya jasa kami sudah termasuk biaya pemasangan, yang umumnya lebih murah dan menawarkan diskon menarik bagi pelanggan.
+- Harga yang kami berikan sudah sesuai dengan layanan pemasangan, perhitungan yang akurat, dan material yang terpasang.
+- Kami selalu mengutamakan penawaran harga terbaik bagi pelanggan.
+- Harga jasa pasang baja ringan dapat berubah sewaktu-waktu karena fluktuasi harga material.
+- Pembayaran dapat dilakukan dengan *down payment* (DP) dan sisanya setelah pemasangan selesai.
 
 Anda dapat mempercayakan proyek Anda kepada kami. Kami dari Sumber Material siap membantu Anda dalam menentukan ukuran, kualitas, dan pemasangan yang paling sesuai dengan kebutuhan Anda tanpa meninggalkan sisa material yang tidak perlu. Hubungi kami segera untuk konsultasi gratis dan penawaran terbaik! Dengan senang hati tim kami akan memberikan solusi terbaik untuk proyek Anda di Cinangka Depok.

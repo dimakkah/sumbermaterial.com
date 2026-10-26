@@ -25,7 +25,7 @@ Berdasarkan Standar Nasional Indonesia ( SK SNI - S - 04 - 1989 - F ; 28) di seb
 
 Syarat-Syarat Pasir yg Bagus Untuk Bangunan
 
-1.  Agregat Halus wajib terdiri dari butiran yg tajam dan keras dengan indeks kekerasan <2.2
+1.  Agregat Halus wajib terdiri dari butiran yg tajam dan keras dengan indeks kekerasan <2.2
 2. Jika dimanfaatkan Natrium Sulfat bagian hancur maksimal dua belas persen
 3. jikalau diterapkan Magnesium Sulfat bagian halus maksimal 10%
 4. Tak boleh memuat lumpur lebih dari lima persen
@@ -41,7 +41,6 @@ Syarat-Syarat Pasir yg Bagus Untuk Bangunan
 sesudah tahu persis syarat pasir untuk suatu Bangunan, sekarang ini kita bahas Ragam - Jenis Pasir Untuk Konstruksi penjelasan nya berikut ini:
 
 - ### Pasir Jenis Beton dan Tempat Penambangannya Di Cilodong Depok
-    
 
 Pasir ini umum nya berwarna coklat tua dan tingkat kekerasan butiran nya lumayan tinggi. Namun jika anda mengepal nya dengan tangan tak akan menggumpal dan akan hancur kembali. jenis pasir ini betul-betul lah bagus tuk Pengecoran, Plesteran Dinding, Adukan Pondasi dan Adukan Pasangan Bata Pasir ini yaitu pasir untuk Cor merupakan butiran-butiran mineral keras dan tajam berukuran antara 0,075 – 5 mm, apabila terdapat butiran berukuran lebih kecil dari 0,063 mm tidak lebih dari 5% berat. Pasir ini yaitu pasir untuk Cor hampir kerap dimanfaatkan untuk pekerjaan cor-coran struktur seperti kolom, balok dan pelat lantai.
 
@@ -52,9 +51,9 @@ Harga Pasir Pasang Free Ongkir Ke Cilodong Depok Bila anda sebagai konsumen /pem
 Pasir paling unggul diambil dari kp. jebrod cianjur jawa barat yang dipakai oleh indocement serta perusahaan batching plant lainnya sebagai bahan dasar produksi readymix concrete. Pasir ini paling dianjurkan untuk cor sebab irit semen juga mempunyai kandungan lumpur yang benar-benar rendah dibawah delapan persen. warnanya Hitam abu tua atau hitam seperti hitamnya batu kali, ada juga yang hitam kemerahan atau hitam terasi
 
 3. **Pasir Hitam Cor Cimangkok.** Pasir asli Tempat penambangannya di cimangkok sukabumi jawa barat yang masih masuk pada kategori pasir hitam No. 1 di jabar, warnanya hitam kecoklatan sesuai untuk cor, pasang pondasi dan bata
-    
+
     ![Harga Pasir Pasang Free Ongkir Ke Cilodong Depok](/images/info/pasir-hitam-9.jpg)
-    
+
 4. **Pasir Hitam Beton Cimalaka Subang Bandung.**
 
 Pasir No. 1 yang berwarna hitam kebauan ada juga yang berwarna hitam abu tua. Banyak di pakai untuk Rigid, pasang dan keperluan lainnya. Ditambang di Daerah cimalaka
@@ -90,9 +89,9 @@ Kecuali Rangkasbitung, Banten juga mempunyai lokasi pnembangan pasir lain sepert
 Masih dari kawasan di banten, pasir kelas tiga ini ialah pasir yang banyak diaplikasikan di proyek proyek perumahan atau cluster sebab harganya yang murah juga kwalitas yang unggul. Warna pasir ini hitam kecoklatan dan keabuan benar-benar dianjurkan untuk pasang pondasi, bata, batu dan sebagainya
 
 27. **Pasir Hitam Beton Bohlam Sukabumi.** Pasir dari Kawasan kp. bohlam di sukabumi berwarna hitam kecoklatan, benar-benar bagus untuk pasang bata, pondasi dan sebagainya sebagai opsi pasir mutu tidak diragukan dan tidak mahal
-    
+
     ![Harga Pasir Pasang Free Ongkir Ke Cilodong Depok](/images/info/jual-pasir-cor-hitam.jpg)
-    
+
 28. **Pasir Rigid Galunggung.**
 
 Pasir ini yaitu pasir hitam mutu paling unggul dikelasnya lazim digunakan oleh pabrik pengolahan beton readymix juga perusahan pembuatan precast dan tak jarang juga digunakan untuk bahan pembuatan batako press hitam, paving block dsb. Pasir ini ditambang dari Tasikmalaya jabar.
@@ -100,21 +99,18 @@ Pasir ini yaitu pasir hitam mutu paling unggul dikelasnya lazim digunakan oleh p
 ![Harga Pasir Pasang Free Ongkir Ke Cilodong Depok](/images/info/jual-pasir-cor-hitam.jpg)
 
 - ### Pasir Biasa Di Cilodong Depok
-    
 
 ![Harga Pasir Pasang Free Ongkir Ke Cilodong Depok](/images/info/pasir-hitam-11.jpg)
 
 Pasir ini ekstra halus lagi dibandingi oleh pasir beton. apabila anda mengepal pasir ini karenanya akan menggumpal dan tak akan hancur kembali. pasir pasang lazim nya di manfaatkan tuk campuran pasir beton agar tak terlampau kasar dan dapat di pakai untuk plesteran dinding.
 
 - ### Pasir Kualitas rendah Untuk pemadatan lantai Di Cilodong Depok
-    
 
 Di Antara ke dua pasir diatas pasir ragam ini lebih halus lagi, jika kalian mengepal nya maka akan menggumpal dan tidak akan hancur lagi. melainkan pasir ragam tidak bagus tuk di buat sebagai bahan bangunan. pasir ragam ini pada nya di manfaatkan tuk Bahan Pembuatan Batako
 
 Pada nya pasir ini nyaris sama dgn pasir beton akan tapi pasir ini mempunyai tingkat kekasaran yang tinggi, butiran - butiran nya lumayan besar dan agak banyak batuan nya. pada lazimnya pasir jenis ini baik untuk bahan pemadatan lantai
 
 - ### Pasir Putih Halus Untuk Taman Bermain Di Cilodong Depok
-    
 
 1. **Pasir Putih Bangka**
 

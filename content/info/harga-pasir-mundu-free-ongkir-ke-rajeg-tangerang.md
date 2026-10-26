@@ -25,7 +25,7 @@ Berdasarkan Standar Nasional Indonesia ( SK SNI - S - 04 - 1989 - F ; 28) di seb
 
 Syarat Pasir yang Baik Untuk Bangunan
 
-1.  Agregat Halus sepatutnya terdiri dari butiran yg tajam dan keras dengan indeks kekerasan <2.2
+1.  Agregat Halus sepatutnya terdiri dari butiran yg tajam dan keras dengan indeks kekerasan <2.2
 2. bila dimanfaatkan Natrium Sulfat bagian hancur optimal 12 persen
 3. jikalau digunakan Magnesium Sulfat bagian halus maksimal 5 persen
 4. Tidak boleh mengandung lumpur lebih dari 5%
@@ -41,7 +41,6 @@ Syarat Pasir yang Baik Untuk Bangunan
 sesudah mengetahui prasyarat pasir tuk sebuah Konstruksi, pada saat ini kita bahas Jenis - Jenis Pasir Untuk Konstruksi Bangunan penjelasan nya sbb:
 
 - ### Pasir Rigid Di Rajeg Tangerang
-    
 
 Pasir ini umum nya berwarna coklat tua dan tingkat kekerasan butiran nya cukup tinggi. Melainkan sekiranya anda mengepal nya dengan tangan tidak akan lengket dan akan hancur kembali. jenis pasir ini benar-benar lah baik untuk Pengecoran, Plesteran Dinding, Adukan Pondasi dan Adukan Pasangan Bata Pasir ini yaitu pasir untuk Beton yaitu butiran-butiran mineral keras dan tajam berukuran antara 0,075 – 5 mm, jika terdapat butiran berukuran lebih kecil dari 0,063 mm tidak lebih dari 5% berat. Pasir ini yaitu pasir untuk Rigid sering dimanfaatkan untuk pekerjaan cor-coran struktur seperti kolom, balok dan pelat lantai.
 
@@ -59,21 +58,18 @@ Untuk mendapatkan ketahanan Rigid yang maksimal maka pasir patut dapat memenuhi 
 ![Harga Pasir Mundu Free Ongkir Ke Rajeg Tangerang](/images/info/pasir-hitam-8.jpg)
 
 - ### Pasir Untuk Adukan Pasang Batu, Pondasi, Bata, Ubin, Plester Di Rajeg Tangerang
-    
 
 ![Harga Pasir Mundu Free Ongkir Ke Rajeg Tangerang](/images/info/pasir-hitam-11.jpg)
 
 Pasir ini ekstra halus lagi dibandingi oleh pasir beton. bila anda mengepal pasir ini maka akan menggumpal dan tidak akan buyar kembali. pasir pasang lazim nya di gunakan buat campuran pasir beton agar tak terlampau kasar dan bisa di pakai untuk plesteran dinding.
 
 - ### Pasir Urug Untuk Dasaran Pemasangan Keramik Di Rajeg Tangerang
-    
 
 Di Antara ke dua pasir diatas pasir tipe ini lebih halus lagi, apabila anda mengepal nya maka akan menggumpal dan tidak akan buyar lagi. tapi pasir ragam tidak baik untuk di buat sebagai bahan bangunan. pasir tipe ini pada biasa nya di pergunakan tuk Bahan Pembuatan Batako
 
 Pada biasa nya pasir ini nyaris sama dgn pasir beton namun pasir ini mempunyai tingkat kekasaran yg tinggi, butiran - butiran nya lumayan besar dan agak banyak batuan nya. pada umumnya pasir jenis ini bagus untuk bahan pemadatan lantai
 
 - ### Pasir Putih Tanpa Ayak Untuk Pasang Lantai Marmer Di Rajeg Tangerang
-    
 
 1. **Pasir Putih Bangka**
 

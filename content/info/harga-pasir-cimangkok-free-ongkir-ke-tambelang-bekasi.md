@@ -25,7 +25,7 @@ berdasarkan Standar Nasional Indonesia ( SK SNI - S - 04 - 1989 - F ; 28) di tut
 
 Persyaratan Pasir yang Bagus Untuk Konstruksi Bangunan
 
-1.  Agregat Halus sepatutnya terdiri dari butiran yg tajam dan keras dengan indeks kekerasan <2.2
+1.  Agregat Halus sepatutnya terdiri dari butiran yg tajam dan keras dengan indeks kekerasan <2.2
 2. Apabila diaplikasikan Natrium Sulfat komponen hancur optimal 12%
 3. Apabila digunakan Magnesium Sulfat bagian halus maksimal sepuluh %
 4. Tidak boleh memuat lumpur lebih dari lima persen
@@ -41,7 +41,6 @@ Persyaratan Pasir yang Bagus Untuk Konstruksi Bangunan
 sesudah mengetahui persyaratan pasir buat suatu Konstruksi, sekarang ini kita bahas model - Macam Pasir Untuk Bangunan penjelasan nya berikut ini:
 
 - ### Pasir Jenis Beton dan Lokasi Pengambilannya Di Tambelang Bekasi
-    
 
 Pasir ini umum nya berwarna hitam gelap dan tingkat kekerasan butiran nya cukup tinggi. Tetapi jika anda mengepal nya dengan tangan tak akan menggumpal dan akan buyar kembali. model pasir ini amat lah baik buat Pengecoran, Plesteran Dinding, Adukan Pondasi dan Adukan Pasangan Bata Pasir ini yaitu pasir untuk Beton yakni butiran-butiran mineral keras dan tajam berukuran antara 0,075 – 5 mm, jika terdapat butiran berukuran lebih kecil dari 0,063 mm tak lebih dari 5% berat. Pasir ini yaitu pasir untuk Cor hampir sering kali dipakai untuk pekerjaan cor-coran struktur seperti kolom, balok dan pelat lantai.
 
@@ -52,9 +51,9 @@ Harga Pasir Cimangkok Free Ongkir Ke Tambelang Bekasi Kalau anda sebagai konsume
 Pasir kelas satu asli kp. jebrod cianjur jawa barat yang diterapkan oleh indocement serta perusahaan batching plant lainnya sebagai bahan dasar produksi readymix concrete. Pasir ini paling disarankan untuk cor sebab irit semen juga mempunyai kandungan lumpur yang sungguh-sungguh rendah dibawah 8%. warnanya Hitam abu tua atau hitam seperti hitamnya batu kali, ada juga yang hitam kemerahan atau hitam terasi
 
 3. **Pasir Hitam Rigid Cimangkok.** Pasir dari Lokasi penambangannya di cimangkok sukabumi jabar yang masih masuk terhadap golongan pasir hitam No. 1 di jabar, warnanya hitam kecoklatan pantas untuk cor, pasang pondasi dan bata
-    
+
     ![Harga Pasir Cimangkok Free Ongkir Ke Tambelang Bekasi](/images/info/pasir-hitam-2.jpg)
-    
+
 4. **Pasir Hitam Beton Cimalaka Subang Bandung.**
 
 Pasir nomor satu yang berwarna hitam kebauan ada juga yang berwarna hitam abu tua. Banyak di gunakan untuk Cor, pasang dan keperluan lainnya. Ditambang di Daerah cimalaka
@@ -90,9 +89,9 @@ Kecuali Rangkasbitung, Banten juga mempunyai lokasi pnembangan pasir lain sepert
 Masih dari Lokasi di banten, pasir kelas tiga ini yakni pasir yang banyak digunakan di proyek proyek perumahan atau cluster sebab harganya yang murah juga mutu yang unggul. Warna pasir ini hitam kecoklatan dan keabuan benar-benar dianjurkan untuk pasang pondasi, bata, batu dan lainnya
 
 27. **Pasir Hitam Rigid Bohlam Sukabumi.** Pasir dari Lokasi kp. bohlam di sukabumi berwarna hitam kecoklatan, sungguh-sungguh bagus untuk pasang bata, pondasi dan sebagainya sebagai opsi pasir mutu bagus dan tidak mahal
-    
+
     ![Harga Pasir Cimangkok Free Ongkir Ke Tambelang Bekasi](/images/info/pasir-hitam-5.jpg)
-    
+
 28. **Pasir Beton Galunggung.**
 
 Pasir ini ialah pasir hitam kwalitas paling unggul dikelasnya lazim diterapkan oleh pabrik pengolahan beton readymix juga perusahan pembuatan precast dan kerap kali juga digunakan untuk bahan pembuatan batako press hitam, paving block dan lain-lain. Pasir ini ditambang dari Tasikmalaya jabar.
@@ -100,21 +99,18 @@ Pasir ini ialah pasir hitam kwalitas paling unggul dikelasnya lazim diterapkan o
 ![Harga Pasir Cimangkok Free Ongkir Ke Tambelang Bekasi](/images/info/jual-pasir-cor-hitam.jpg)
 
 - ### Pasir Standar Di Tambelang Bekasi
-    
 
 ![Harga Pasir Cimangkok Free Ongkir Ke Tambelang Bekasi](/images/info/jual-pasir-mundu.jpg)
 
 Pasir ini lebih halus lagi diperbandingkan oleh pasir beton. kalau kamu mengepal pasir ini maka akan menggumpal dan tidak akan hancur kembali. pasir pasang lazim nya di pakai untuk campuran pasir beton agar tak kelewat kasar dan dapat di manfaatkan untuk plesteran dinding.
 
 - ### Pasir Elod Untuk Dasaran Pemasangan Granit Di Tambelang Bekasi
-    
 
 Di Antara ke dua pasir diatas pasir macam ini lebih halus lagi, kalau kamu mengepal nya akan menggumpal dan tidak akan hancur lagi. melainkan pasir jenis
 
 Pada nya pasir ini nyaris sama dgn pasir beton melainkan pasir ini mempunyai tingkat kekasaran yang tinggi, butiran - butiran nya lumayan besar dan agak banyak batuan nya. pada lazimnya pasir jenis ini bagus untuk bahan Pembuatan Batako
 
 - ### Pasir Putih Tanpa Batu Untuk Hiasan Di Tambelang Bekasi
-    
 
 1. **Pasir Putih Bangka**
 

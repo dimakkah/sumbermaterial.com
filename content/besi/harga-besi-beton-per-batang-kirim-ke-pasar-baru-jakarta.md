@@ -18,19 +18,19 @@ Dengan tidak adanya besi karenanya sebuah bangunan akan mudah retak ketika ada g
 
 ## Mengetahui Jenis-jenis Besi Di Pasar Baru Jakarta
 
-### 1\. Besi Polos SNI 4mm, 6mm, 8mm, 10mm, 12mm, 16mm, 18mm, 19mm Di Pasar Baru Jakarta
+### 1. Besi Polos SNI 4mm, 6mm, 8mm, 10mm, 12mm, 16mm, 18mm, 19mm Di Pasar Baru Jakarta
 
 Besi polos mempunyai ukuran mulai dari 8 mm sampai dengan 25 mm dan memiliki 6 meter panjang tekuk dan 12 meter panjang lurus. Besi beton ini mulai diaplikasikan sebagai bahan utama di Indonesia pada tahun 1950. Besi ini tak jarang kali dipakai untuk membangun sebuah gedung. Bahan yang mudah dipakai sehingga selain dari dipakai untuk membangun bangunan beton juga dipakai untuk membangun trowongan, bendungan, dan lainnya. Ketika diterapkan untuk membangun bangunan beton bertingkat maka biasanya besi polos ini digunakan untuk struktur rangkaian besi balok, dinding, dan sloof. Besi beton polos ini memiliki kelebihan besi polos ini tegangannya lebih tinggi dari pada besi lainnya. Jadi besi ini terkesan lebih kuat dan tahan beban. Oleh karena itu pemakaian besi polos ini sangat pantas untuk membangun gedung, jembatan, dan bangunan lainnya. Besi polos ini terbuat dari bahan seperti billet dan skrap. Billet yakni baja batangan yang proses pembuatannya dengan mengecor biji besi. Bila skrap ialah besi bekas yang dileburkan dengan temperature tertentu. Selain itu jika anda menggunakan besi polos ini tdk memerlukan biaya pemeliharaan. Kian lama digunakan maka besi ini akan semakin kokoh.
 
-### 2\. Besi Ulir SNI 4mm, 6mm, 8mm, 10mm, 12mm, 16mm, 18mm, 19mm Di Pasar Baru Jakarta
+### 2. Besi Ulir SNI 4mm, 6mm, 8mm, 10mm, 12mm, 16mm, 18mm, 19mm Di Pasar Baru Jakarta
 
 Cocok dengan namanya besi beton ulir ini merupakan besi yang karakternya mengulir. Pada permukaannya bercorak spiral yang memiliki tujuan untuk menyatukan tulangan dengan faktor material bangunan yang dibentuk oleh besi beton. Besi ulir ini mulai populer dipakai pada abad ke-20 di Amerika dan mulai populer di Indonesia pada tahun1950. Mengingat saat menerapkan besi ulir ini mempunyai banyak keunggulan mulai dari kekuatan bangunan serta lebih hemat biaya dan efisien. Produk besi ulir ini menjadi paling laris di pasar karena memiliki kualitas yang terbaik di Indonesia dan memiliki harga yang tinggi seandainya diperbandingkan dengan produk lainnya.
 
-### 3\. Besi WF dan H-Beam Krakatau Steel Di Pasar Baru Jakarta
+### 3. Besi WF dan H-Beam Krakatau Steel Di Pasar Baru Jakarta
 
 Besi Wide Flange (WF) ini adalah salah satu baja dengan struktural yang paling sering diterapkan untuk kontruksi baja. Apabila anda membutuhkan besi baja Wide Flage dalam jumlah yang banyak atau sedikit maka silahkan cari jual besi yang terpercaya. Besi WF ini memiliki kekuatan yang kokoh dan kuat pada kekuatan tarik atau tekan. Karenanya dari itu besi ini menjadi faktor struktur yang memiliki batasan yang sempurna untuk menopang bobot tekan aksial, tarik aksial, dan lentur dengan fasilitas pembangunan strukturnya. Baja Wide Flange (WF) ini memiliki kepadatan yang tinggi tapi rasio berat antara ketahanan komponen Baja WF yang tinggi tetapi tdk begitu berat yang berkaitan dengan kapasitas muatan. Selain itu memastikan jika kontruksi yang diterapkan secara efisien. Sistem kontruksi baja WF ini kombinasi dari elemen struktur yang kompleks. Pada struktur ini memiliki tujuan membawa muatan yang aman dan efektif yang bekerja pada sebuah bangunan dan dikirim pada pondasinya. Gaya dan beban yang bekerja ini termasuk beban pertikal, perbedaan temperatur, horizontal, getaran dan lainnya. Pada sebuah bangunan baja, maka ada unsure yang berguna menahan gaya lateral dan gravitasi.
 
-### 4\. Besi Hollow Di Pasar Baru Jakarta
+### 4. Besi Hollow Di Pasar Baru Jakarta
 
 Besi hollow merupakan besi yang diterapkan sebagai pembuatan kanopi, pagar, pintu besi dan lainnya. Bahan baku pembuatan besi Hollow ini lazimnya terbuat dari stainless, galvanis, dan besi baja. Tetapi yang paling sering digunakan sebagai bahan baku yaitu galvanis. Terdapat kelebihan yang anda temukan ketika menerapkan kanopi, menerapkan pagar, teralis menerapkan besi hollow:
 

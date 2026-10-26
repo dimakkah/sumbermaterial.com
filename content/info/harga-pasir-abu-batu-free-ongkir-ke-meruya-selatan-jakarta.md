@@ -25,7 +25,7 @@ Menurut Standar Nasional Indonesia ( SK SNI - S - 04 - 1989 - F ; 28) di tuturka
 
 Persyaratan Pasir yg Bagus buat Konstruksi
 
-1.  Agregat Halus mesti terdiri dari butiran yang tajam dan keras dengan indeks kekerasan <2.2
+1.  Agregat Halus mesti terdiri dari butiran yang tajam dan keras dengan indeks kekerasan <2.2
 2. kalau diaplikasikan Natrium Sulfat komponen hancur maksimal 12%
 3. bila diaplikasikan Magnesium Sulfat bagian halus optimal sepuluh %
 4. Tidak boleh memuat tanah lebih dari 5%
@@ -41,7 +41,6 @@ Persyaratan Pasir yg Bagus buat Konstruksi
 Sesudah tahu persis syarat pasir buat sebuah Konstruksi, saat ini kita bahas Ragam - Macam Pasir Untuk Konstruksi Bangunan penjelasan nya sbb:
 
 - ### Pasir Untuk Pengecoran Di Meruya Selatan Jakarta
-    
 
 Pasir ini umum nya berwarna hitam pekat dan tingkat kekerasan butiran nya lumayan tinggi. Tetapi jikalau anda mengepal nya dengan tangan tak akan lengket dan akan buyar kembali. model pasir ini amat lah baik buat Pengecoran, Plesteran Dinding, Adukan Pondasi dan Adukan Pasangan Bata Pasir ini yaitu pasir untuk Cor merupakan butiran-butiran mineral keras dan tajam berukuran antara 0,075 – 5 mm, jikalau terdapat butiran berukuran lebih kecil dari 0,063 mm tak lebih dari 5% berat. Pasir ini yaitu pasir untuk Cor hampir kerap kali diaplikasikan untuk pekerjaan cor-coran struktur seperti kolom, balok dan pelat lantai.
 
@@ -52,9 +51,9 @@ Harga Pasir Abu Batu Free Ongkir Ke Meruya Selatan Jakarta Sekiranya anda sebaga
 Pasir terbaik dari kp. jebrod cianjur jawa barat yang digunakan oleh indocement serta perusahaan batching plant lainnya sebagai bahan dasar produksi readymix concrete. Pasir ini paling dianjurkan untuk cor sebab irit semen juga mempunyai kandungan lumpur yang sungguh-sungguh rendah dibawah 8%. warnanya Hitam abu tua atau hitam seperti hitamnya batu kali, ada juga yang hitam kemerahan atau hitam terasi
 
 3. **Pasir Hitam Rigid Cimangkok.** Pasir dari Daerah penambangannya di cimangkok sukabumi jabar yang masih masuk pada klasifikasi pasir hitam paling unggul di jawa barat, warnanya hitam kecoklatan layak untuk cor, pasang pondasi dan bata
-    
+
     ![Harga Pasir Abu Batu Free Ongkir Ke Meruya Selatan Jakarta](/images/info/pasir-hitam-5.jpg)
-    
+
 4. **Pasir Hitam Rigid Cimalaka Subang Bandung.**
 
 Pasir kelas satu yang berwarna hitam kebauan ada juga yang berwarna hitam abu tua. Banyak di aplikasikan untuk Cor, pasang dan keperluan lainnya. Ditambang di Daerah cimalaka
@@ -90,9 +89,9 @@ Kecuali Rangkasbitung, Banten juga mempunyai lokasi pnembangan pasir lain sepert
 Masih dari Lokasi di banten, pasir kelas tiga ini ialah pasir yang banyak diaplikasikan di proyek proyek perumahan atau cluster sebab harganya yang murah juga mutu yang unggul. Warna pasir ini hitam kecoklatan dan keabuan sungguh-sungguh dianjurkan untuk pasang pondasi, bata, batu dsb
 
 27. **Pasir Hitam Rigid Bohlam Sukabumi.** Pasir dari Lokasi kp. bohlam di sukabumi berwarna hitam kecoklatan, betul-betul bagus untuk pasang bata, pondasi dan lainnya sebagai pilihan pasir kwalitas tidak diragukan dan ekonomis
-    
+
     ![Harga Pasir Abu Batu Free Ongkir Ke Meruya Selatan Jakarta](/images/info/pasir-hitam-2.jpg)
-    
+
 28. **Pasir Beton Galunggung.**
 
 Pasir ini ialah pasir hitam mutu paling unggul dikelasnya umum diterapkan oleh pabrik pengolahan beton readymix juga perusahan pembuatan precast dan tak jarang juga digunakan untuk bahan pembuatan batako press hitam, paving block dan lainnya. Pasir ini ditambang dari Tasikmalaya jabar.
@@ -100,21 +99,18 @@ Pasir ini ialah pasir hitam mutu paling unggul dikelasnya umum diterapkan oleh p
 ![Harga Pasir Abu Batu Free Ongkir Ke Meruya Selatan Jakarta](/images/info/pasir-hitam-1.jpg)
 
 - ### Pasir Pasang Di Meruya Selatan Jakarta
-    
 
 ![Harga Pasir Abu Batu Free Ongkir Ke Meruya Selatan Jakarta](/images/info/jual-pasir-mundu.jpg)
 
 Pasir ini ekstra halus lagi dibandingkan oleh pasir beton. jikalau kalian mengepal pasir ini karenanya akan menggumpal dan tidak akan hancur kembali. pasir pasang umum nya di pakai tuk adukan pasir beton supaya tidak terlalu kasar dan bisa di pakai untuk plesteran dinding.
 
 - ### Pasir Kualitas rendah Untuk pengurugan lantai Di Meruya Selatan Jakarta
-    
 
 Di Antara ke dua pasir diatas pasir ragam ini lebih halus lagi, bila kalian mengepal nya maka akan menggumpal dan tidak akan hancur lagi. namun pasir jenis
 
 Pada umum nya pasir ini nyaris sama dengan pasir beton tetapi pasir ini memiliki tingkat kekasaran yg tinggi, butiran - butiran nya lumayan besar dan agak banyak batuan nya. pada umumnya pasir macam ini bagus untuk bahan pemadatan lantai
 
 - ### Pasir Putih Bebas Lumpur Untuk Pelester Di Meruya Selatan Jakarta
-    
 
 1. **Pasir Putih Bangka**
 

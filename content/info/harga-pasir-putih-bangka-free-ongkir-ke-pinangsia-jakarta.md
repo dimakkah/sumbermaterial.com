@@ -25,7 +25,7 @@ Berdasarkan Standar Nasional Indonesia ( SK SNI - S - 04 - 1989 - F ; 28) di tut
 
 Syarat Pasir yang Bagus Untuk Konstruksi
 
-1.  Agregat Halus wajib terdiri dari butiran yg tajam dan keras dengan indeks kekerasan <2.2
+1.  Agregat Halus wajib terdiri dari butiran yg tajam dan keras dengan indeks kekerasan <2.2
 2. apabila dimanfaatkan Natrium Sulfat komponen hancur maksimal 12%
 3. kalau dipakai Magnesium Sulfat bagian halus optimal 10%
 4. Tak boleh memuat tanah lebih dari 5 persen
@@ -41,7 +41,6 @@ Syarat Pasir yang Bagus Untuk Konstruksi
 sesudah memahami persyaratan pasir buat sebuah Konstruksi Bangunan, saat ini kita bahas model - Tipe Pasir Untuk Konstruksi penjelasan nya berikut ini:
 
 - ### Pasir untuk Cor Rigid Di Pinangsia Jakarta
-    
 
 Pasir ini biasa nya berwarna hitam gelap dan tingkat pecahan butiran nya lumayan tinggi. Melainkan apabila anda mengepal nya dengan tangan tidak akan menggumpal dan akan buyar kembali. jenis pasir ini benar-benar lah bagus buat Pengecoran, Plesteran Dinding, Adukan Pondasi dan Adukan Pasangan Bata Pasir ini yaitu pasir untuk Rigid adalah butiran-butiran mineral keras dan tajam berukuran antara 0,075 – 5 mm, sekiranya terdapat butiran berukuran lebih kecil dari 0,063 mm tak lebih dari 5% berat. Pasir ini yaitu pasir untuk Beton sering kali dimanfaatkan untuk pekerjaan cor-coran struktur seperti kolom, balok dan pelat lantai.
 
@@ -59,21 +58,18 @@ Untuk memperoleh kualitas Cor yang optimal karenanya pasir wajib mampu memenuhi 
 ![Harga Pasir Putih Bangka Free Ongkir Ke Pinangsia Jakarta](/images/info/pasir-hitam-7.jpg)
 
 - ### Pasir Pasang Di Pinangsia Jakarta
-    
 
 ![Harga Pasir Putih Bangka Free Ongkir Ke Pinangsia Jakarta](/images/info/pasir-putih12.jpg)
 
 Pasir ini lebih halus lagi dibandingkan oleh pasir beton. bila anda mengepal pasir ini maka akan menggumpal dan tak akan hancur kembali. pasir pasang umum nya di manfaatkan tuk campuran pasir beton supaya tidak terlampau kasar dan dapat di manfaatkan untuk plesteran dinding.
 
 - ### Pasir Kualitas rendah Untuk pemadatan lantai Di Pinangsia Jakarta
-    
 
 Di Antara ke dua pasir diatas pasir tipe ini lebih halus lagi, bila anda mengepal nya maka akan menggumpal dan tak akan hancur lagi. melainkan pasir jenis
 
 Pada umum nya pasir ini nyaris sama dengan pasir beton tetapi pasir ini mempunyai tingkat kekasaran yang tinggi, butiran - butiran nya lumayan besar dan agak banyak batuan nya. pada biasanya pasir model ini bagus untuk bahan Pembuatan Batako
 
 - ### Pasir Putih Tanpa Batu Untuk Lapangan Voly Di Pinangsia Jakarta
-    
 
 1. **Pasir Putih Bangka**
 

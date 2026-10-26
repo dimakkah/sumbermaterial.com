@@ -25,7 +25,7 @@ Menurut Standar Nasional Indonesia ( SK SNI - S - 04 - 1989 - F ; 28) di sebutka
 
 Syarat Pasir yg Baik buat Bangunan
 
-1.  Agregat Halus mesti terdiri dari butiran yang tajam dan keras dengan indeks kekerasan <2.2
+1.  Agregat Halus mesti terdiri dari butiran yang tajam dan keras dengan indeks kekerasan <2.2
 2. Bila diaplikasikan Natrium Sulfat bagian hancur maksimal dua belas persen
 3. Apabila diterapkan Magnesium Sulfat bagian halus maksimal 10%
 4. Tak boleh mengandung tanah lebih dari lima persen
@@ -41,7 +41,6 @@ Syarat Pasir yg Baik buat Bangunan
 Setelah memahami persyaratan pasir untuk sebuah Bangunan, saat ini kita bahas Jenis - Ragam Pasir Untuk Bangunan penjelasan nya sebagai berikut:
 
 - ### Pasir Jenis Rigid dan Daerah Sumbernya Di Roa Malaka Jakarta
-    
 
 Pasir ini lazim nya berwarna hitam pekat dan tingkat kekasaran butiran nya lumayan tinggi. Melainkan apabila anda mengepal nya dengan tangan tidak akan menggumpal dan akan hancur kembali. model pasir ini sungguh-sungguh lah bagus tuk Pengecoran, Plesteran Dinding, Adukan Pondasi dan Adukan Pasangan Bata Pasir ini yaitu pasir untuk Rigid yaitu butiran-butiran mineral keras dan tajam berukuran antara 0,075 – 5 mm, sekiranya terdapat butiran berukuran lebih kecil dari 0,063 mm tidak lebih dari 5% berat. Pasir ini yaitu pasir untuk Cor hampir kerap dipakai untuk profesi cor-coran struktur seperti kolom, balok dan pelat lantai.
 
@@ -59,21 +58,18 @@ Untuk mendapat ketahanan Cor yang optimal karenanya pasir harus bisa memenuhi sy
 ![Harga Pasir Mainan Anak Free Ongkir Ke Roa Malaka Jakarta](/images/info/jual-pasir-cor-hitam.jpg)
 
 - ### Pasir Untuk Pemasangan Batu, Pondasi, Bata, Ubin, Plester Di Roa Malaka Jakarta
-    
 
 ![Harga Pasir Mainan Anak Free Ongkir Ke Roa Malaka Jakarta](/images/info/jual-pasir-mundu-2.jpg)
 
 Pasir ini ekstra halus lagi dibandingi oleh pasir beton. sekiranya kamu mengepal pasir ini karenanya akan menggumpal dan tidak akan hancur kembali. pasir pasang biasa nya di manfaatkan tuk adukan pasir beton supaya tidak kelewat kasar dan bisa di gunakan untuk plesteran dinding.
 
 - ### Pasir Urug Untuk Pembuatan Batako Di Roa Malaka Jakarta
-    
 
 Di Antara ke dua pasir diatas pasir macam ini lebih halus lagi, jika kalian mengepal nya akan menggumpal dan tidak akan hancur lagi. tetapi pasir ragam tak bagus untuk di buat sebagai bahan bangunan. pasir macam ini pada umum nya di pakai tuk Bahan Pembuatan Batako
 
 Pada nya pasir ini nyaris sama dengan pasir beton akan tetapi pasir ini memiliki tingkat kekasaran yang tinggi, butiran - butiran nya lumayan besar dan agak banyak batuan nya. pada lazimnya pasir model ini baik untuk bahan pengurugan lantai
 
 - ### Pasir Putih Tanpa Ayak Untuk Pasang Bata Di Roa Malaka Jakarta
-    
 
 1. **Pasir Putih Bangka**
 

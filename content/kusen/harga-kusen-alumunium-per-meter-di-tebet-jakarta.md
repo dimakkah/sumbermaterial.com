@@ -44,13 +44,13 @@ Secara biasa pembuatan Kusen Pintu/Jendela Alumunium ini banyak dicari orang unt
 
 Alasan Anda Memilih Jasa Pembikinan Kusen Almunium dari Kami.
 
-1\. Kami mengerjakan pesanan cocok dg tanggal yang disepakati sehingga anda sebagai pelanggan juga menerima hasil yg layak dengan estimasi.
+1. Kami mengerjakan pesanan cocok dg tanggal yang disepakati sehingga anda sebagai pelanggan juga menerima hasil yg layak dengan estimasi.
 
-2\. Kami juga melayani banyak pelaksanaan lain seperti pembuatan kerangka atas, wood parisi, instalisasi listrik dan masih banyak lagi Layanan lain yg kami miliki.
+2. Kami juga melayani banyak pelaksanaan lain seperti pembuatan kerangka atas, wood parisi, instalisasi listrik dan masih banyak lagi Layanan lain yg kami miliki.
 
-3\. Pembayaran menjadi solusi utk anda, kami memberikan pembayaran dengan sistem DP sehingga anda tidak perlu ragu denga Jasa yang kami tawarkan.
+3. Pembayaran menjadi solusi utk anda, kami memberikan pembayaran dengan sistem DP sehingga anda tidak perlu ragu denga Jasa yang kami tawarkan.
 
-4\. Tim kami akan datang ke lokasi anda untuk memandang dan mengevaluasi ukuran Kusen Pintu/Jendela Alumunium yang anda pesan.
+4. Tim kami akan datang ke lokasi anda untuk memandang dan mengevaluasi ukuran Kusen Pintu/Jendela Alumunium yang anda pesan.
 
 ## Tipe dan Merk Alumium Yang kami Sediakan Di Tebet Jakarta
 

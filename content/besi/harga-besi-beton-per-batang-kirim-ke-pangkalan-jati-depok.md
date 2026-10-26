@@ -18,19 +18,19 @@ Dengan tidak adanya besi karenanya sebuah bangunan akan mudah retak dikala ada g
 
 ## Mengetahui Macam-macam Besi Di Pangkalan Jati Depok
 
-### 1\. Besi Polos 4mm, 6mm, 8mm, 10mm, 12mm, 16mm, 18mm, 19mm Di Pangkalan Jati Depok
+### 1. Besi Polos 4mm, 6mm, 8mm, 10mm, 12mm, 16mm, 18mm, 19mm Di Pangkalan Jati Depok
 
 Besi polos mempunyai ukuran mulai dari 8 mm sampai 25 mm dan memiliki 6 meter panjang tekuk dan 12 meter panjang lurus. Besi beton ini telah mulai dipakai sebagai bahan utama di Indonesia pada tahun 1950. Besi ini kerap kali diaplikasikan untuk membangun sebuah gedung. Bahan yang gampang diterapkan sehingga selain dari diterapkan untuk membangun sebuah gedung juga diterapkan untuk membangun trowongan, bendungan, dan lainnya. Ketika diterapkan untuk membangun sebuah gedung bertingkat maka biasanya besi polos ini diterapkan untuk struktur rangkaian besi balok, dinding, dan sloof. Besi beton polos ini mempunyai kelebihan besi polos ini tegangannya lebih tinggi dari pada besi lainnya. Jadi besi ini terkesan lebih kuat dan tahan beban. Jadi penggunaan besi polos ini benar-benar sesuai untuk membangun gedung, jembatan, dan bangunan lainnya. Besi polos ini terbuat dari bahan seperti billet dan skrap. Billet merupakan baja batangan yang cara kerja pembuatannya dengan melebur biji besi. Sekiranya skrap merupakan besi bekas yang dileburkan dengan temperature tertentu. Selain itu bila anda memakai besi polos ini tdk memerlukan biaya pemeliharaan. Kian lama dipakai maka besi ini akan semakin kokoh.
 
-### 2\. Besi Ulir KS 4mm, 6mm, 8mm, 10mm, 12mm, 16mm, 18mm, 19mm Di Pangkalan Jati Depok
+### 2. Besi Ulir KS 4mm, 6mm, 8mm, 10mm, 12mm, 16mm, 18mm, 19mm Di Pangkalan Jati Depok
 
 Selaras dengan namanya besi beton ulir ini yakni besi yang karakternya mengulir. Pada permukaannya bercorak spiral yang memiliki tujuan untuk menyatukan gerigi besi dengan faktor bahan bangunan yang dibentuk oleh besi beton. Besi ulir ini mulai populer diterapkan pada abad ke-20 di Amerika dan mulai populer di Indonesia pada tahun1950. Mengingat saat menggunakan besi ulir ini memiliki banyak keunggulan mulai dari kekokohan bangunan serta lebih hemat biaya dan efisien. Produk besi ulir ini menjadi paling laris di pasar karena mempunyai mutu yang terbaik di Indonesia dan mempunyai harga yang tinggi apabila dibandingkan dengan produk lainnya.
 
-### 3\. Besi WF dan H-Beam Banci Di Pangkalan Jati Depok
+### 3. Besi WF dan H-Beam Banci Di Pangkalan Jati Depok
 
 Besi Wide Flange (WF) ini ialah salah satu baja dengan struktural yang paling populer dipakai untuk kontruksi baja. Jika anda memerlukan besi baja Wide Flage dalam quantitas yang banyak atau sedikit maka silahkan cari toko besi yang terpercaya. Besi WF ini mempunyai ketahanan yang kokoh dan kuat pada ketahanan tarik atau tekan. Maka dari itu besi ini menjadi unsur struktur yang mempunyai batasan yang paripurna untuk menopang bobot tekan aksial, tarik aksial, dan lentur dengan fasilitas pembangunan strukturnya. Baja Wide Flange (WF) ini mempunyai kepadatan yang tinggi namun rasio berat antara kekuatan bagian Baja WF yang tinggi tetapi tidak begitu berat yang terkait dengan kapasitas muatan. Selain itu menentukan jikalau kontruksi yang digunakan secara efisien. Sistem kontruksi baja WF ini kombinasi dari faktor struktur yang kompleks. Pada struktur ini memiliki tujuan membawa muatan yang aman dan efektif yang berefek pada sebuah bangunan dan dikirim pada pondasinya. Gaya dan muatan yang berefek ini termasuk muatan pertikal, perbedaan suhu, horizontal, getaran dan lainnya. Pada sebuah bangunan baja, maka ada unsure yang berguna menopang gaya lateral dan gravitasi.
 
-### 4\. Besi Holo Di Pangkalan Jati Depok
+### 4. Besi Holo Di Pangkalan Jati Depok
 
 Besi hollow adalah besi yang diaplikasikan sebagai pembuatan kanopi, pagar, pintu besi dan lainnya. Bahan baku pembuatan besi Hollow ini umumnya terbuat dari stainless, galvanis, dan besi baja. Tetapi yang paling sering digunakan sebagai bahan baku merupakan galvanis. Terdapat kelebihan yang anda dapatkan ketika menerapkan kanopi, menerapkan pagar, teralis menggunakan besi hollow:
 

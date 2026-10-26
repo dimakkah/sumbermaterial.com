@@ -25,7 +25,7 @@ Menurut Standar Nasional Indonesia ( SK SNI - S - 04 - 1989 - F ; 28) di tuturka
 
 Syarat Pasir yang Bagus tuk Bangunan
 
-1.  Agregat Halus mesti terdiri dari butiran yg tajam dan keras dengan indeks kekerasan <2.2
+1.  Agregat Halus mesti terdiri dari butiran yg tajam dan keras dengan indeks kekerasan <2.2
 2. bilamana dipakai Natrium Sulfat komponen hancur maksimal dua belas persen
 3. jika diterapkan Magnesium Sulfat bagian halus maksimal 5 persen
 4. Tak boleh berisi clay lebih dari 5 persen
@@ -41,7 +41,6 @@ Syarat Pasir yang Bagus tuk Bangunan
 setelah mengenal persyaratan pasir untuk suatu Bangunan, saat ini kita bahas model - Tipe Pasir Untuk Konstruksi Bangunan penjelasan nya sebagai berikut:
 
 - ### Pasir Model Beton dan Lokasi Pengambilannya Di Tegal Gundil Bogor
-    
 
 Pasir ini biasa nya berwarna hitam pekat dan tingkat kekerasan butiran nya lumayan tinggi. Tapi jika anda mengepal nya dengan tangan tidak akan lengket dan akan hancur kembali. tipe pasir ini sungguh-sungguh lah baik untuk Pengecoran, Plesteran Dinding, Adukan Pondasi dan Adukan Pasangan Bata Pasir ini yaitu pasir untuk Rigid merupakan butiran-butiran mineral keras dan tajam berukuran antara 0,075 – 5 mm, kalau terdapat butiran berukuran lebih kecil dari 0,063 mm tidak lebih dari 5% berat. Pasir ini yaitu pasir untuk Cor kerap kali dimanfaatkan untuk profesi cor-coran struktur seperti kolom, balok dan pelat lantai.
 
@@ -59,21 +58,18 @@ Untuk memperoleh ketahanan Rigid yang optimal karenanya pasir semestinya bisa me
 ![Harga Pasir Mundu Free Ongkir Ke Tegal Gundil Bogor](/images/info/pasir-hitam-9.jpg)
 
 - ### Pasir Pasang Di Tegal Gundil Bogor
-    
 
 ![Harga Pasir Mundu Free Ongkir Ke Tegal Gundil Bogor](/images/info/pasir-putih3.jpg)
 
 Pasir ini ekstra halus lagi dibandingi oleh pasir beton. sekiranya kamu mengepal pasir ini karenanya akan menggumpal dan tak akan buyar kembali. pasir pasang biasa nya di manfaatkan untuk campuran pasir beton agar tidak terlalu kasar dan dapat di manfaatkan untuk plesteran dinding.
 
 - ### Pasir Elod Untuk Dasaran Pemasangan Granit Di Tegal Gundil Bogor
-    
 
 Di Antara ke dua pasir diatas pasir jenis ini lebih halus lagi, sekiranya anda mengepal nya maka akan menggumpal dan tak akan hancur lagi. namun pasir jenis
 
 Pada lazim nya pasir ini nyaris sama dgn pasir beton akan melainkan pasir ini mempunyai tingkat kekasaran yang tinggi, butiran - butiran nya lumayan besar dan agak banyak batuan nya. pada biasanya pasir tipe ini bagus tuk bahan dasaran pemasangan keramik
 
 - ### Pasir Putih Tanpa Batu Untuk Hiasan Di Tegal Gundil Bogor
-    
 
 1. **Pasir Putih Bangka**
 

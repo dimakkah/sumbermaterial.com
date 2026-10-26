@@ -25,7 +25,7 @@ Menurut Standar Nasional Indonesia ( SK SNI - S - 04 - 1989 - F ; 28) di tuturka
 
 Persyaratan Pasir yg Baik buat Konstruksi Bangunan
 
-1.  Agregat Halus harus terdiri dari butiran yang tajam dan keras dengan indeks kekerasan <2.2
+1.  Agregat Halus harus terdiri dari butiran yang tajam dan keras dengan indeks kekerasan <2.2
 2. kalau diaplikasikan Natrium Sulfat bagian hancur maksimal 12 persen
 3. apabila diaplikasikan Magnesium Sulfat bagian halus optimal sepuluh persen
 4. Tidak boleh mengandung tanah lebih dari lima %
@@ -41,7 +41,6 @@ Persyaratan Pasir yg Baik buat Konstruksi Bangunan
 sesudah tahu persis syarat pasir tuk suatu Bangunan, sekarang ini kita bahas model - Tipe Pasir Untuk Konstruksi Bangunan penjelasan nya sbb:
 
 - ### Pasir Model Beton dan Tempat Pengambilannya Di Penjaringan Jakarta
-    
 
 Pasir ini biasa nya berwarna hitam gelap dan tingkat pecahan butiran nya lumayan tinggi. Tetapi jikalau anda mengepal nya dengan tangan tak akan lengket dan akan buyar kembali. tipe pasir ini sangat lah bagus untuk Pengecoran, Plesteran Dinding, Adukan Pondasi dan Adukan Pasangan Bata Pasir ini yaitu pasir untuk Cor merupakan butiran-butiran mineral keras dan tajam berukuran antara 0,075 – 5 mm, jikalau terdapat butiran berukuran lebih kecil dari 0,063 mm tak lebih dari 5% berat. Pasir ini yaitu pasir untuk Cor sering kali digunakan untuk pekerjaan cor-coran struktur seperti kolom, balok dan pelat lantai.
 
@@ -59,21 +58,18 @@ Untuk menerima kekuatan Beton yang maksimal karenanya pasir semestinya dapat mem
 ![Harga Pasir Putih Bangka Free Ongkir Ke Penjaringan Jakarta](/images/info/pasir-hitam-9.jpg)
 
 - ### Pasir Biasa Di Penjaringan Jakarta
-    
 
 ![Harga Pasir Putih Bangka Free Ongkir Ke Penjaringan Jakarta](/images/info/pasir-hitam-4.jpg)
 
 Pasir ini lebih halus lagi diperbandingkan oleh pasir beton. bila kamu mengepal pasir ini maka akan menggumpal dan tidak akan buyar kembali. pasir pasang lazim nya di pakai untuk adukan pasir beton supaya tidak terlampau kasar dan dapat di manfaatkan untuk plesteran dinding.
 
 - ### Pasir Elod Untuk Dasaran Pemasangan Keramik Di Penjaringan Jakarta
-    
 
 Di Antara ke dua pasir diatas pasir jenis ini lebih halus lagi, jika kalian mengepal nya akan menggumpal dan tak akan buyar lagi. tetapi pasir jenis
 
 Pada lazim nya pasir ini nyaris sama dengan pasir beton tetapi pasir ini mempunyai tingkat kekasaran yg tinggi, butiran - butiran nya lumayan besar dan agak banyak batuan nya. pada lazimnya pasir ragam ini bagus untuk bahan pemadatan lantai
 
 - ### Pasir Putih Bebas Lumpur Untuk Pengecoran Di Penjaringan Jakarta
-    
 
 1. **Pasir Putih Bangka**
 

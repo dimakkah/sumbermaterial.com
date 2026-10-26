@@ -21,13 +21,13 @@ Membangun atau memperbaiki atap dengan baja ringan sekarang ini semakin mudah. A
 
 Mari kita bahas beberapa alasan penting mengapa Anda sebaiknya memilih baja ringan sebagai material untuk kerangka atap dan kanopi di Walantaka Serang:
 
- **Ramah Lingkungan:** Baja ringan mendukung gaya hidup berkelanjutan. Anda tidak perlu lagi menebang pohon untuk mendapatkan kayu, sehingga turut serta melestarikan alam.
- **Ekonomis:** Jika dibandingkan dengan kayu, baja ringan seringkali lebih hemat biaya. Kayu berkualitas tinggi membutuhkan investasi yang lebih besar. Memilih baja ringan adalah langkah cerdas untuk menekan anggaran pembangunan Anda.
- **Ringan dan Kuat:** Meskipun ringan, baja ringan memiliki kekuatan yang luar biasa. Beratnya hanya separuh dari baja atau besi konvensional, namun tetap mampu menahan beban dengan aman.
- **Perawatan Minimal:** Anda tidak perlu khawatir tentang perawatan rutin yang memakan waktu dan biaya. Baja ringan tahan terhadap cuaca ekstrem dan tidak memerlukan perawatan tahunan.
- **Pemasangan Cepat:** Proses pemasangan baja ringan jauh lebih cepat dibandingkan material atap tradisional. Ini akan menghemat waktu dan biaya tenaga kerja Anda.
- **Kualitas Terjamin:** Baja ringan yang kami gunakan adalah produk berkualitas tinggi dengan lapisan zinc dan aluminium yang memberikan perlindungan 4 kali lebih baik daripada baja biasa. Ketahanannya teruji dan mampu menahan beban berat.
- **Tahan Rayap:** Anda tidak perlu khawatir tentang serangan rayap yang dapat merusak struktur atap Anda. Baja ringan sepenuhnya tahan terhadap rayap.
+- **Ramah Lingkungan:** Baja ringan mendukung gaya hidup berkelanjutan. Anda tidak perlu lagi menebang pohon untuk mendapatkan kayu, sehingga turut serta melestarikan alam.
+- **Ekonomis:** Jika dibandingkan dengan kayu, baja ringan seringkali lebih hemat biaya. Kayu berkualitas tinggi membutuhkan investasi yang lebih besar. Memilih baja ringan adalah langkah cerdas untuk menekan anggaran pembangunan Anda.
+- **Ringan dan Kuat:** Meskipun ringan, baja ringan memiliki kekuatan yang luar biasa. Beratnya hanya separuh dari baja atau besi konvensional, namun tetap mampu menahan beban dengan aman.
+- **Perawatan Minimal:** Anda tidak perlu khawatir tentang perawatan rutin yang memakan waktu dan biaya. Baja ringan tahan terhadap cuaca ekstrem dan tidak memerlukan perawatan tahunan.
+- **Pemasangan Cepat:** Proses pemasangan baja ringan jauh lebih cepat dibandingkan material atap tradisional. Ini akan menghemat waktu dan biaya tenaga kerja Anda.
+- **Kualitas Terjamin:** Baja ringan yang kami gunakan adalah produk berkualitas tinggi dengan lapisan zinc dan aluminium yang memberikan perlindungan 4 kali lebih baik daripada baja biasa. Ketahanannya teruji dan mampu menahan beban berat.
+- **Tahan Rayap:** Anda tidak perlu khawatir tentang serangan rayap yang dapat merusak struktur atap Anda. Baja ringan sepenuhnya tahan terhadap rayap.
 
 ## Sistem Hitung Luas Rangka Baja Ringan Di Walantaka Serang
 
@@ -57,22 +57,22 @@ Mengenai biaya jasa pasang baja ringan, ada banyak informasi di internet. Akan t
 
 (Catatan: biaya dapat disesuaikan) Berikut adalah perkiraan biaya jasa pasang baja ringan berdasarkan jenis pemasangan:
 
-*   Kanopi dengan rangka baja ringan “Polikarbonat x Lite”: Rp. 285.000 / m
-*   Kanopi dengan rangka baja ringan “Spandek”: Rp. 225.000 / m
-*   Kanopi dengan rangka baja ringan “Gogreen”: Rp. 200.000 /m
-*   Untuk perhitungan lainnya, silakan hubungi kami melalui kontak yang tersedia di situs web kami.
+- Kanopi dengan rangka baja ringan “Polikarbonat x Lite”: Rp. 285.000 / m
+- Kanopi dengan rangka baja ringan “Spandek”: Rp. 225.000 / m
+- Kanopi dengan rangka baja ringan “Gogreen”: Rp. 200.000 /m
+- Untuk perhitungan lainnya, silakan hubungi kami melalui kontak yang tersedia di situs web kami.
 
 ### Parameter Besaran Harga Layanan Pasang Baja Ringan
 
-### 1. Pembuatan Sketsa Desain
+#### 1. Pembuatan Sketsa Desain
 
 Biaya juga dipengaruhi oleh desain atau pola sketsa yang akan dibuat oleh tim teknisi kami di lokasi Anda. Sketsa ini penting untuk menghitung kebutuhan baja ringan secara akurat, menghindari pemborosan material, dan mengoptimalkan anggaran Anda. Pembuatan sketsa juga termasuk dalam perhitungan biaya pasang baja ringan.
 
-### 2. Menghitung Kebutuhan Rangka
+#### 2. Menghitung Kebutuhan Rangka
 
 Setelah Anda memiliki sketsa pemasangan, kami akan menghitung kebutuhan rangka yang harus disiapkan. Pada tahap ini, Anda bisa berkonsultasi dengan tim teknisi kami mengenai kualitas dan waktu pengiriman setiap material. Pastikan Anda mendapatkan material yang tepat sesuai kebutuhan Anda.
 
-### 3. Menghitung Budget yang Dibutuhkan
+#### 3. Menghitung Budget yang Dibutuhkan
 
 Setelah sketsa dan perhitungan rangka selesai, Anda dapat mendiskusikan survei harga dari seluruh proses pemasangan baja ringan. Budget yang diperlukan bergantung pada beberapa faktor seperti jumlah rangka, luas area kerangka, material tambahan, biaya tenaga kerja, dan pengiriman. Minta rincian harga dari tim kami untuk membantu Anda dalam menyiapkan anggaran. Anda juga bisa memilih jenis baja ringan, mulai dari yang standar hingga yang berkualitas tinggi.
 
@@ -80,10 +80,10 @@ Setelah sketsa dan perhitungan rangka selesai, Anda dapat mendiskusikan survei h
 
 Berikut adalah rincian biaya jasa pasang baja ringan yang perlu Anda ketahui:
 
-*   Harga jasa kami sudah termasuk biaya pemasangan dan memberikan banyak diskon menarik.
-*   Harga yang kami tawarkan sesuai dengan layanan pemasangan, perhitungan, dan material yang digunakan.
-*   Kami selalu mengutamakan harga terbaik bagi pelanggan kami.
-*   Biaya jasa pasang baja ringan dapat berubah sewaktu-waktu karena fluktuasi harga material.
-*   Pembayaran dapat dilakukan dengan *down payment* dan sisanya setelah pemasangan selesai.
+- Harga jasa kami sudah termasuk biaya pemasangan dan memberikan banyak diskon menarik.
+- Harga yang kami tawarkan sesuai dengan layanan pemasangan, perhitungan, dan material yang digunakan.
+- Kami selalu mengutamakan harga terbaik bagi pelanggan kami.
+- Biaya jasa pasang baja ringan dapat berubah sewaktu-waktu karena fluktuasi harga material.
+- Pembayaran dapat dilakukan dengan *down payment* dan sisanya setelah pemasangan selesai.
 
 Anda dapat mempercayakan semuanya kepada kami. Kami, sebagai penyedia Harga Pasang Atap Baja Ringan Di Walantaka Serang, siap membantu Anda dalam menentukan ukuran, kualitas, dan pemasangan yang tepat sesuai dengan kebutuhan Anda tanpa meninggalkan sisa material. Terima kasih.

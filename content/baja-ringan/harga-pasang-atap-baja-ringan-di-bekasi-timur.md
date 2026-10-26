@@ -21,19 +21,19 @@ Pemasangan baja ringan untuk keperluan bangunan bisa dilakukan dengan cukup muda
 
 Mari kita bahas beberapa alasan penting mengapa Anda sebaiknya mempertimbangkan baja ringan sebagai kerangka atap dan *canopy*:
 
- **Ramah Lingkungan:** Baja ringan lebih ramah lingkungan karena tidak memerlukan kayu, yang berarti tidak perlu menebang pohon. Dengan memilih baja ringan, Anda turut berkontribusi dalam pelestarian alam.
+- **Ramah Lingkungan:** Baja ringan lebih ramah lingkungan karena tidak memerlukan kayu, yang berarti tidak perlu menebang pohon. Dengan memilih baja ringan, Anda turut berkontribusi dalam pelestarian alam.
 
- **Lebih Ekonomis:**  Jika dibandingkan dengan kerangka kayu, baja ringan umumnya lebih ekonomis. Harga kayu berkualitas tinggi cenderung lebih mahal, sementara baja ringan menawarkan solusi yang lebih terjangkau untuk bagian penting bangunan Anda.
+- **Lebih Ekonomis:**  Jika dibandingkan dengan kerangka kayu, baja ringan umumnya lebih ekonomis. Harga kayu berkualitas tinggi cenderung lebih mahal, sementara baja ringan menawarkan solusi yang lebih terjangkau untuk bagian penting bangunan Anda.
 
- **Ringan dan Kuat:** Baja ringan berbeda dengan baja/besi yang jauh lebih berat. Dengan ketebalan yang tipis dan ringan, baja ringan tetap memiliki kekuatan yang memadai untuk kerangka atap dan *canopy* rumah Anda.
+- **Ringan dan Kuat:** Baja ringan berbeda dengan baja/besi yang jauh lebih berat. Dengan ketebalan yang tipis dan ringan, baja ringan tetap memiliki kekuatan yang memadai untuk kerangka atap dan *canopy* rumah Anda.
 
- **Minim Pemeliharaan:** Anda tidak perlu khawatir tentang perawatan rutin yang memakan biaya.  Kami yakin baja ringan akan membebaskan Anda dari beban perawatan tahunan.
+- **Minim Pemeliharaan:** Anda tidak perlu khawatir tentang perawatan rutin yang memakan biaya.  Kami yakin baja ringan akan membebaskan Anda dari beban perawatan tahunan.
 
- **Pemasangan Cepat:** Berbeda dengan kerangka kayu yang memakan waktu panjang, pemasangan baja ringan relatif cepat. Ini sangat menguntungkan bagi Anda yang ingin menyelesaikan proyek bangunan dengan efisien.
+- **Pemasangan Cepat:** Berbeda dengan kerangka kayu yang memakan waktu panjang, pemasangan baja ringan relatif cepat. Ini sangat menguntungkan bagi Anda yang ingin menyelesaikan proyek bangunan dengan efisien.
 
- **Kualitas Terjamin:** Baja ringan yang kami gunakan bukanlah produk sembarangan. Material utamanya adalah *zinc* dan aluminium yang sudah memiliki sertifikasi dan standar keamanan 4 kali lebih baik dibandingkan baja umum. Kekuatannya pun mampu menopang beban berkilo-kilo.
+- **Kualitas Terjamin:** Baja ringan yang kami gunakan bukanlah produk sembarangan. Material utamanya adalah *zinc* dan aluminium yang sudah memiliki sertifikasi dan standar keamanan 4 kali lebih baik dibandingkan baja umum. Kekuatannya pun mampu menopang beban berkilo-kilo.
 
- **Tahan Rayap:** Kami menjamin kerangka atap dan *canopy* baja ringan kami tahan terhadap serangan rayap.
+- **Tahan Rayap:** Kami menjamin kerangka atap dan *canopy* baja ringan kami tahan terhadap serangan rayap.
 
 ## Cara Menghitung Luas Rangka Baja Ringan Di Bekasi Timur
 
@@ -61,10 +61,10 @@ Mari kita bahas harga jasa pasang baja ringan. Banyak informasi tersedia *online
 
 (Catatan: biaya dapat bervariasi)  Berikut perkiraan biaya layanan pasang baja ringan berdasarkan jenis pemasangan:
 
-*   Kanopi rangka baja ringan + Polikarbonat Lite: Rp. 285.000 / m
-*   Kanopi rangka baja ringan + Spandek: Rp. 225.000 / m
-*   Kanopi rangka baja ringan + Gogreen: Rp. 200.000 / m
-*   Untuk perhitungan lainnya, silakan hubungi kami melalui kontak yang tersedia di situs web kami.
+- Kanopi rangka baja ringan + Polikarbonat Lite: Rp. 285.000 / m
+- Kanopi rangka baja ringan + Spandek: Rp. 225.000 / m
+- Kanopi rangka baja ringan + Gogreen: Rp. 200.000 / m
+- Untuk perhitungan lainnya, silakan hubungi kami melalui kontak yang tersedia di situs web kami.
 
 Adapun beberapa parameter yang memengaruhi besaran biaya jasa pasang baja ringan:
 
@@ -84,10 +84,10 @@ Setelah pembuatan sketsa dan perhitungan rangka selesai, Anda bisa mendiskusikan
 
 Berikut informasi detail biaya jasa pasang baja ringan yang perlu Anda ketahui:
 
-*   Harga layanan kami sudah termasuk biaya pemasangan, yang biasanya lebih terjangkau dengan promo diskon.
-*   Harga yang kami berikan sudah termasuk biaya pemasangan, perhitungan, dan material.
-*   Kami selalu mengutamakan harga terbaik bagi pelanggan.
-*   Harga jasa pasang baja ringan dapat berubah sewaktu-waktu bergantung pada harga material.
-*   Pembayaran bisa dilakukan dengan *down payment* dan sisanya setelah pemasangan selesai.
+- Harga layanan kami sudah termasuk biaya pemasangan, yang biasanya lebih terjangkau dengan promo diskon.
+- Harga yang kami berikan sudah termasuk biaya pemasangan, perhitungan, dan material.
+- Kami selalu mengutamakan harga terbaik bagi pelanggan.
+- Harga jasa pasang baja ringan dapat berubah sewaktu-waktu bergantung pada harga material.
+- Pembayaran bisa dilakukan dengan *down payment* dan sisanya setelah pemasangan selesai.
 
 Sekian informasi mengenai Harga Pasang Atap Baja Ringan Di Bekasi Timur.  Jangan ragu untuk menghubungi kami untuk konsultasi gratis dan penawaran terbaik!  Kami siap membantu mewujudkan atap impian Anda di Bekasi Timur.

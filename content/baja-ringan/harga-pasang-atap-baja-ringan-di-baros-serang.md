@@ -21,19 +21,19 @@ Pemasangan baja ringan untuk bangunan Anda sebenarnya cukup sederhana, tidak per
 
 Berikut ini beberapa alasan mendasar yang perlu Anda ketahui sebelum menghubungi kami. Kenapa Anda harus memilih baja ringan sebagai kerangka atap dan kanopi:
 
- Baja ringan lebih ramah lingkungan karena Anda tidak membutuhkan kayu, yang artinya tidak perlu menebang pohon. Dengan menggunakan kerangka baja ringan, Anda turut serta melestarikan alam.
+- Baja ringan lebih ramah lingkungan karena Anda tidak membutuhkan kayu, yang artinya tidak perlu menebang pohon. Dengan menggunakan kerangka baja ringan, Anda turut serta melestarikan alam.
 
- Lebih ekonomis. Jika dibandingkan dengan kerangka kayu, harganya jauh lebih terjangkau karena biaya mendapatkan kayu berkualitas tinggi juga cukup besar. Ini terutama untuk komponen kerangka yang sangat krusial untuk bangunan Anda. Anda perlu memikirkan ini matang-matang untuk menekan biaya pembangunan.
+- Lebih ekonomis. Jika dibandingkan dengan kerangka kayu, harganya jauh lebih terjangkau karena biaya mendapatkan kayu berkualitas tinggi juga cukup besar. Ini terutama untuk komponen kerangka yang sangat krusial untuk bangunan Anda. Anda perlu memikirkan ini matang-matang untuk menekan biaya pembangunan.
 
- Ringan dan kuat. Baja ringan berbeda dengan baja atau besi yang memiliki berat dua kali lipatnya. Baja ringan memiliki ketebalan yang tipis dan ringan, namun tetap sangat kuat untuk kerangka atap dan kanopi rumah Anda.
+- Ringan dan kuat. Baja ringan berbeda dengan baja atau besi yang memiliki berat dua kali lipatnya. Baja ringan memiliki ketebalan yang tipis dan ringan, namun tetap sangat kuat untuk kerangka atap dan kanopi rumah Anda.
 
- Perawatan minimal. Anda tidak perlu khawatir tentang kerusakan kerangka atap karena kami yakin ini akan membebaskan Anda dari perawatan tahunan yang merepotkan.
+- Perawatan minimal. Anda tidak perlu khawatir tentang kerusakan kerangka atap karena kami yakin ini akan membebaskan Anda dari perawatan tahunan yang merepotkan.
 
- Pemasangan cepat. Berbeda dengan kerangka kayu dan material lain yang memerlukan waktu lama, pemasangan baja ringan relatif lebih cepat. Ini sangat menguntungkan Anda yang ingin menyelesaikan proyek dengan segera.
+- Pemasangan cepat. Berbeda dengan kerangka kayu dan material lain yang memerlukan waktu lama, pemasangan baja ringan relatif lebih cepat. Ini sangat menguntungkan Anda yang ingin menyelesaikan proyek dengan segera.
 
- Bahan berkualitas. Baja ringan yang kami gunakan bukanlah sembarang baja ringan. Bahan utamanya adalah zinc dan aluminium yang sudah memiliki sertifikasi dan standar keamanan 4 kali lebih baik dibandingkan baja biasa. Kekuatannya pun mampu menopang beban berat.
+- Bahan berkualitas. Baja ringan yang kami gunakan bukanlah sembarang baja ringan. Bahan utamanya adalah zinc dan aluminium yang sudah memiliki sertifikasi dan standar keamanan 4 kali lebih baik dibandingkan baja biasa. Kekuatannya pun mampu menopang beban berat.
 
- Tahan rayap. Kami menjamin bahwa kerangka atap dan kanopi dari baja ringan ini kuat dan tahan terhadap rayap.
+- Tahan rayap. Kami menjamin bahwa kerangka atap dan kanopi dari baja ringan ini kuat dan tahan terhadap rayap.
 
 ## Sistem Hitung Luas Rangka Baja Ringan Di Baros Serang
 
@@ -45,7 +45,7 @@ Perhitungan luas datar adalah (overstack + panjang) x (lebar + overstack). Jadi,
 
 ### Menentukan Luas Miring
 
-Penentuan luas miring adalah Luas miring = Luas datar / Cosinus kemiringan atap.  Perhitungannya 181.44 / 0.8666 menghasilkan 209.52 meter persegi. Jadi, luas kemiringan atap baja ringan ini adalah 209.52 meter persegi. 
+Penentuan luas miring adalah Luas miring = Luas datar / Cosinus kemiringan atap.  Perhitungannya 181.44 / 0.8666 menghasilkan 209.52 meter persegi. Jadi, luas kemiringan atap baja ringan ini adalah 209.52 meter persegi.
 
 Dengan perhitungan ini, Anda bisa memperkirakan jumlah dan volume baja ringan yang dibutuhkan untuk pemasangan.  Namun, jika terasa rumit, jangan ragu untuk menghubungi kami.
 
@@ -62,7 +62,7 @@ Membahas harga layanan pasang baja ringan, sebenarnya sudah banyak informasi di 
 - Kanopi rangka baja ringan “Polikarbonat x Lite” Rp. 285.000 / m
 - Kanopi rangka baja ringan “Spandek” Rp. 225.000 / m
 - Kanopi rangka baja ringan “Gogreen” Rp. 200.000 / m
-- Perhitungan lainnya bisa langsung menghubungi kami melalui kontak yang telah kami sediakan di website kami. 
+- Perhitungan lainnya bisa langsung menghubungi kami melalui kontak yang telah kami sediakan di website kami.
 
 Adapun Parameter Besaran Harga Layanan Pasang Baja Ringan
 
@@ -89,7 +89,6 @@ Berikut informasi detail tentang harga layanan pasang baja ringan yang perlu And
 - Pembayaran dapat dilakukan dengan uang muka (down payment) dan sisanya setelah pemasangan selesai.
 
 Anda bisa mempercayakan semua kebutuhan Anda pada kami. Kami, sebagai penyedia Harga Pasang Atap Baja Ringan Di Baros Serang, siap membantu Anda menentukan ukuran, kualitas, dan pemasangan yang paling sesuai dengan kebutuhan Anda tanpa meninggalkan sisa material yang tidak perlu. Terima kasih.
-
 
 <table class="table">
   <caption>Perbandingan Ketebalan Baja Ringan</caption>

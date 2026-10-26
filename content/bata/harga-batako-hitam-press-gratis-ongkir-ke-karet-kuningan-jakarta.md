@@ -16,7 +16,7 @@ dikala ini material yg digunakan untuk mengisi dinding bangunan, sudah terdapat 
 
 ## Mengetahui Macam-macam Bata
 
-### 1\. Bata Merah Standar & Jumbo Di Karet Kuningan Jakarta
+### 1. Bata Merah Standar & Jumbo Di Karet Kuningan Jakarta
 
 ![Harga Batako Hitam Press Gratis Ongkir Ke Karet Kuningan Jakarta](/images/bata/bata-merah-oven-08.png)
 
@@ -26,7 +26,7 @@ Bata merah ini dijadikan dari material tanah yg kemudian di cetak dan dibakar dg
 
 Material bangunan ini benar-benar kuat kepada panas dan layak dijadikan perlindungan dari panas api. Bata merah ini pada biasanya mempunyai ukuran panjang antara 17-23 cm dan lebar sekitar 7-11 cm, serta tebalnya 3-5 cm. memiliki ukuran yang lebih kecil akan memberi kemudahan dalam pelaksanaan pengangkutan dan dapat diterapkan untuk membentuk bidang kecil.
 
-### 2\. Batako Hitam dan Putih Di Karet Kuningan Jakarta
+### 2. Batako Hitam dan Putih Di Karet Kuningan Jakarta
 
 ![Harga Batako Hitam Press Gratis Ongkir Ke Karet Kuningan Jakarta](/images/bata/batako-hitam-press-19.png)
 
@@ -34,7 +34,7 @@ Material bangunan dinding dari batako trus ini secara lazimnya terbuat dari mate
 
 Batako trus seperti ini mempunyai kekurangan seperti mudah retak, lebih panas dan pengap. Berbeda dengan bata merah yg terbuat dari material tanah. Melainkan batako trus ini cenderung lebih ringan daripada bata merah. Akibatnya akan tampak lebih halus dan ukurannya lebih presisi apabila diperbandingkan dengan bata merah. Batako press Hitam ini memiliki ukuran panjang sekitar 36-40 cm, tinggi 18-20 cm dan tebal 8-10 cm. bahan ini sering kali dipilih sebab untuk memperingan bobot struktur bangunan, meminimalisir sisa material dan mempermudah pembangunan.
 
-### 3\. Bata Herbel Di Karet Kuningan Jakarta
+### 3. Bata Herbel Di Karet Kuningan Jakarta
 
 ![Harga Batako Hitam Press Gratis Ongkir Ke Karet Kuningan Jakarta](/images/bata/bata-hebel-sni-02.png)
 
@@ -62,7 +62,7 @@ Semua tentunya sudah tahu fungsi utama batu bata mulai diaplikasikan untuk membu
 
 Sistem mengorder batu bata yang aman dan terpercaya:
 
-1.  Pengerjaan pembayaran bisa anda lakukan secara COD atau dibayar di tempat ketika barang pesanan anda telah datang di tempat
+1.  Pengerjaan pembayaran bisa anda lakukan secara COD atau dibayar di tempat ketika barang pesanan anda telah datang di tempat
 2. Silahkan memilih dan mempertimbangkan material batu bata yg anda inginkan
 3. Tentukan juga jumlah orderan batu bata yg anda butuhkan dalam bentuk bijian.
 4. Anda dapat menghubungi layanan telepon toko untuk mempermudah pelaksanaan pemesanan

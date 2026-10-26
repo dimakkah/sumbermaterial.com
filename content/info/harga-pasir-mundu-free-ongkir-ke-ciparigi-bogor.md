@@ -25,7 +25,7 @@ berdasarkan Standar Nasional Indonesia ( SK SNI - S - 04 - 1989 - F ; 28) di seb
 
 Prasyarat Pasir yang Baik Untuk Bangunan
 
-1.  Agregat Halus mesti terdiri dari butiran yg tajam dan keras dengan indeks kekerasan <2.2
+1.  Agregat Halus mesti terdiri dari butiran yg tajam dan keras dengan indeks kekerasan <2.2
 2. bilamana dimanfaatkan Natrium Sulfat bagian hancur optimal 12%
 3. kalau diterapkan Magnesium Sulfat komponen halus optimal sepuluh persen
 4. Tak boleh memuat clay lebih dari 5 persen
@@ -41,7 +41,6 @@ Prasyarat Pasir yang Baik Untuk Bangunan
 sesudah mengetahui persyaratan pasir buat sebuah Bangunan, pada saat ini kita bahas model - model Pasir Untuk Konstruksi Bangunan penjelasan nya berikut ini:
 
 - ### Pasir Untuk Beton Di Ciparigi Bogor
-    
 
 Pasir ini umum nya berwarna keabu-abuan dan tingkat pecahan butiran nya lumayan tinggi. Tapi apabila anda mengepal nya dengan tangan tak akan menggumpal dan akan buyar kembali. macam pasir ini benar-benar lah baik buat Pengecoran, Plesteran Dinding, Adukan Pondasi dan Adukan Pasangan Bata Pasir ini yaitu pasir untuk Cor yaitu butiran-butiran mineral keras dan tajam berukuran antara 0,075 – 5 mm, kalau terdapat butiran berukuran lebih kecil dari 0,063 mm tidak lebih dari 5% berat. Pasir ini yaitu pasir untuk Beton kerap kali digunakan untuk profesi cor-coran struktur seperti kolom, balok dan pelat lantai.
 
@@ -52,9 +51,9 @@ Harga Pasir Mundu Free Ongkir Ke Ciparigi Bogor Sekiranya anda sebagai konsumen 
 Pasir paling unggul asal kp. jebrod cianjur jawa barat yang dipakai oleh indocement serta perusahaan batching plant lainnya sebagai bahan dasar produksi readymix concrete. Pasir ini paling dianjurkan untuk cor sebab irit semen juga mempunyai kandungan lumpur yang betul-betul rendah dibawah 8%. warnanya Hitam abu tua atau hitam seperti hitamnya batu kali, ada juga yang hitam kemerahan atau hitam terasi
 
 3. **Pasir Hitam Cor Cimangkok.** Pasir asli Daerah penambangannya di cimangkok sukabumi jabar yang masih masuk terhadap golongan pasir hitam No. 1 di jawa barat, warnanya hitam kecoklatan layak untuk cor, pasang pondasi dan bata
-    
+
     ![Harga Pasir Mundu Free Ongkir Ke Ciparigi Bogor](/images/info/pasir-hitam-9.jpg)
-    
+
 4. **Pasir Hitam Rigid Cimalaka Subang Bandung.**
 
 Pasir paling unggul yang berwarna hitam kebauan ada juga yang berwarna hitam abu tua. Banyak di aplikasikan untuk Cor, pasang dan keperluan lainnya. Ditambang di kampung cimalaka
@@ -90,9 +89,9 @@ Kecuali Rangkasbitung, Banten juga mempunyai lokasi pnembangan pasir lain sepert
 Masih dari Tempat di banten, pasir kelas tiga ini yaitu pasir yang banyak digunakan di proyek proyek perumahan atau cluster sebab harganya yang murah juga kwalitas yang bagus. Warna pasir ini hitam kecoklatan dan keabuan amat disarankan untuk pasang pondasi, bata, batu dan lain-lain
 
 27. **Pasir Hitam Cor Bohlam Sukabumi.** Pasir dari Daerah kp. bohlam di sukabumi berwarna hitam kecoklatan, betul-betul bagus untuk pasang bata, pondasi dan lain-lain sebagai pilihan pasir kwalitas baik dan murah
-    
+
     ![Harga Pasir Mundu Free Ongkir Ke Ciparigi Bogor](/images/info/pasir-hitam-7.jpg)
-    
+
 28. **Pasir Cor Galunggung.**
 
 Pasir ini ialah pasir hitam kwalitas paling unggul dikelasnya lazim digunakan oleh pabrik pengolahan beton readymix juga perusahan pembuatan precast dan kerap kali juga diaplikasikan untuk bahan pembuatan batako press hitam, paving block dsb. Pasir ini ditambang dari Tasikmalaya jawa barat.
@@ -100,21 +99,18 @@ Pasir ini ialah pasir hitam kwalitas paling unggul dikelasnya lazim digunakan ol
 ![Harga Pasir Mundu Free Ongkir Ke Ciparigi Bogor](/images/info/pasir-hitam-1.jpg)
 
 - ### Pasir Untuk Pasang Batu, Pondasi, Bata, Ubin, Plester Di Ciparigi Bogor
-    
 
 ![Harga Pasir Mundu Free Ongkir Ke Ciparigi Bogor](/images/info/jual-pasir-mundu-2.jpg)
 
 Pasir ini lebih halus lagi diperbandingkan oleh pasir beton. apabila kamu mengepal pasir ini maka akan menggumpal dan tak akan hancur kembali. pasir pasang biasa nya di pakai untuk campuran pasir beton agar tidak terlampau kasar dan dapat di pakai untuk plesteran dinding.
 
 - ### Pasir Urug Untuk pemadatan lantai Di Ciparigi Bogor
-    
 
 Di Antara ke dua pasir diatas pasir tipe ini lebih halus lagi, jika anda mengepal nya karenanya akan menggumpal dan tak akan hancur lagi. namun pasir tipe
 
 Pada umum nya pasir ini nyaris sama dengan pasir beton melainkan pasir ini memiliki tingkat kekasaran yang tinggi, butiran - butiran nya lumayan besar dan agak banyak batuan nya. pada biasanya pasir macam ini bagus tuk bahan Pembuatan Batako
 
 - ### Pasir Putih Tanpa Ayak Untuk Hiasan Di Ciparigi Bogor
-    
 
 1. **Pasir Putih Bangka**
 

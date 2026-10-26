@@ -44,13 +44,13 @@ Secara umum pembuatan Kusen Pintu/Jendela Alumunium ini banyak dicari orang untu
 
 Alasan Anda Memilih Layanan Pembikinan Kusen Alumunium dari Kami.
 
-1\. Kami mengerjakan orderan layak dg tanggal yang disepakati sehingga anda sebagai pelanggan juga mendapatkan hasil yang layak dengan estimasi.
+1. Kami mengerjakan orderan layak dg tanggal yang disepakati sehingga anda sebagai pelanggan juga mendapatkan hasil yang layak dengan estimasi.
 
-2\. Kami juga melayani banyak pelaksanaan lain seperti pembuatan kerangka atas, wood parisi, instalisasi listrik dan masih banyak lagi Layanan lain yang kami miliki.
+2. Kami juga melayani banyak pelaksanaan lain seperti pembuatan kerangka atas, wood parisi, instalisasi listrik dan masih banyak lagi Layanan lain yang kami miliki.
 
-3\. Pembayaran menjadi solusi untuk anda, kami memberikan pembayaran dengan cara DP sehingga anda tak perlu ragu denga Layanan yang kami tawarkan.
+3. Pembayaran menjadi solusi untuk anda, kami memberikan pembayaran dengan cara DP sehingga anda tak perlu ragu denga Layanan yang kami tawarkan.
 
-4\. Regu kami akan datang ke area anda utk memperhatikan dan mengevaluasi ukuran Kusen Pintu/Jendela Almunium yang anda pesan.
+4. Regu kami akan datang ke area anda utk memperhatikan dan mengevaluasi ukuran Kusen Pintu/Jendela Almunium yang anda pesan.
 
 ## Tipe dan Merk Alumium Yang kami Sediakan Di Paledang Bogor
 

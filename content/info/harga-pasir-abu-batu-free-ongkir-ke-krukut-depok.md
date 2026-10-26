@@ -25,7 +25,7 @@ Berdasarkan Standar Nasional Indonesia ( SK SNI - S - 04 - 1989 - F ; 28) di seb
 
 Syarat Pasir yang Baik buat Konstruksi Bangunan
 
-1.  Agregat Halus semestinya terdiri dari butiran yg tajam dan keras dengan indeks kekerasan <2.2
+1.  Agregat Halus semestinya terdiri dari butiran yg tajam dan keras dengan indeks kekerasan <2.2
 2. Kalau diaplikasikan Natrium Sulfat komponen hancur maksimal dua belas persen
 3. Bila digunakan Magnesium Sulfat komponen halus maksimal sepuluh %
 4. Tidak boleh memuat lumpur lebih dari 5%
@@ -41,7 +41,6 @@ Syarat Pasir yang Baik buat Konstruksi Bangunan
 Setelah mengenal prasyarat pasir buat sebuah Bangunan, saat ini kita bahas Tipe - Tipe Pasir Untuk Bangunan penjelasan nya sebagai berikut:
 
 - ### Pasir Beton Di Krukut Depok
-    
 
 Pasir ini lazim nya berwarna coklat tua dan tingkat kekasaran butiran nya cukup tinggi. Tetapi kalau anda mengepal nya dengan tangan tak akan lengket dan akan hancur kembali. tipe pasir ini betul-betul lah baik tuk Pengecoran, Plesteran Dinding, Adukan Pondasi dan Adukan Pasangan Bata Pasir ini yaitu pasir untuk Beton ialah butiran-butiran mineral keras dan tajam berukuran antara 0,075 – 5 mm, kalau terdapat butiran berukuran lebih kecil dari 0,063 mm tidak lebih dari 5% berat. Pasir ini yaitu pasir untuk Beton kerap digunakan untuk pekerjaan cor-coran struktur seperti kolom, balok dan pelat lantai.
 
@@ -59,21 +58,18 @@ Untuk mendapat kualitas Cor yang optimal karenanya pasir patut mampu memenuhi pr
 ![Harga Pasir Abu Batu Free Ongkir Ke Krukut Depok](/images/info/pasir-hitam-2.jpg)
 
 - ### Pasir Untuk Adukan Pasang Batu, Pondasi, Bata, Ubin, Plester Di Krukut Depok
-    
 
 ![Harga Pasir Abu Batu Free Ongkir Ke Krukut Depok](/images/info/pasir-hitam-11.jpg)
 
 Pasir ini ekstra halus lagi diperbandingkan oleh pasir beton. jika anda mengepal pasir ini maka akan menggumpal dan tidak akan buyar kembali. pasir pasang biasa nya di gunakan buat adukan pasir beton agar tak kelewat kasar dan dapat di pakai untuk plesteran dinding.
 
 - ### Pasir Urug Untuk Pembuatan Batako Di Krukut Depok
-    
 
 Di Antara ke dua pasir diatas pasir macam ini lebih halus lagi, bila kalian mengepal nya akan menggumpal dan tidak akan hancur lagi. tetapi pasir ragam tak bagus untuk di buat sebagai bahan bangunan. pasir jenis ini pada lazim nya di manfaatkan tuk Bahan Pembuatan Batako
 
 Pada lazim nya pasir ini nyaris sama dgn pasir beton melainkan pasir ini memiliki tingkat kekasaran yg tinggi, butiran - butiran nya cukup besar dan agak banyak batuan nya. pada umumnya pasir tipe ini baik tuk bahan pemadatan lantai
 
 - ### Pasir Putih Halus Untuk Hiasan Di Krukut Depok
-    
 
 1. **Pasir Putih Bangka**
 

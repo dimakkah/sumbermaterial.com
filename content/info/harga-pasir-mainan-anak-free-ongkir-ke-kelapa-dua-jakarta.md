@@ -25,7 +25,7 @@ Menurut Standar Nasional Indonesia ( SK SNI - S - 04 - 1989 - F ; 28) di sebutka
 
 Persyaratan Pasir yang Bagus buat Konstruksi
 
-1.  Agregat Halus harus terdiri dari butiran yg tajam dan keras dengan indeks kekerasan <2.2
+1.  Agregat Halus harus terdiri dari butiran yg tajam dan keras dengan indeks kekerasan <2.2
 2. bilamana diterapkan Natrium Sulfat bagian hancur maksimal 12 persen
 3. seandainya dipakai Magnesium Sulfat komponen halus optimal 5 persen
 4. Tidak boleh mengandung lumpur lebih dari 5%
@@ -41,7 +41,6 @@ Persyaratan Pasir yang Bagus buat Konstruksi
 Setelah memahami syarat pasir untuk sebuah Konstruksi Bangunan, saat ini kita bahas model - Jenis Pasir Untuk Konstruksi penjelasan nya berikut ini:
 
 - ### Pasir Beton Di Kelapa Dua Jakarta
-    
 
 Pasir ini lazim nya berwarna keabu-abuan dan tingkat kekerasan butiran nya cukup tinggi. Melainkan apabila anda mengepal nya dengan tangan tidak akan lengket dan akan hancur kembali. ragam pasir ini sungguh-sungguh lah bagus buat Pengecoran, Plesteran Dinding, Adukan Pondasi dan Adukan Pasangan Bata Pasir ini yaitu pasir untuk Rigid yakni butiran-butiran mineral keras dan tajam berukuran antara 0,075 – 5 mm, apabila terdapat butiran berukuran lebih kecil dari 0,063 mm tidak lebih dari 5% berat. Pasir ini yaitu pasir untuk Rigid kerap dimanfaatkan untuk pekerjaan cor-coran struktur seperti kolom, balok dan pelat lantai.
 
@@ -52,9 +51,9 @@ Harga Pasir Mainan Anak Free Ongkir Ke Kelapa Dua Jakarta Jika anda sebagai kons
 Pasir terbaik diambil dari kp. jebrod cianjur jawa barat yang dipakai oleh indocement serta perusahaan batching plant lainnya sebagai bahan dasar produksi readymix concrete. Pasir ini paling disarankan untuk cor sebab irit semen juga mempunyai kandungan lumpur yang betul-betul rendah dibawah delapan %. warnanya Hitam abu tua atau hitam seperti hitamnya batu kali, ada juga yang hitam kemerahan atau hitam terasi
 
 3. **Pasir Hitam Rigid Cimangkok.** Pasir dari Lokasi penambangannya di cimangkok sukabumi jabar yang masih masuk pada kategori pasir hitam No. 1 di jabar, warnanya hitam kecoklatan sesuai untuk cor, pasang pondasi dan bata
-    
+
     ![Harga Pasir Mainan Anak Free Ongkir Ke Kelapa Dua Jakarta](/images/info/pasir-hitam-7.jpg)
-    
+
 4. **Pasir Hitam Rigid Cimalaka Subang Bandung.**
 
 Pasir kelas satu yang berwarna hitam kebauan ada juga yang berwarna hitam abu tua. Banyak di aplikasikan untuk Beton, pasang dan keperluan lainnya. Ditambang di Daerah cimalaka
@@ -90,9 +89,9 @@ Kecuali Rangkasbitung, Banten juga mempunyai lokasi pnembangan pasir lain sepert
 Masih dari Lokasi di banten, pasir kelas tiga ini ialah pasir yang banyak diaplikasikan di proyek proyek perumahan atau cluster sebab harganya yang murah juga kwalitas yang unggul. Warna pasir ini hitam kecoklatan dan keabuan benar-benar disarankan untuk pasang pondasi, bata, batu dan lain-lain
 
 27. **Pasir Hitam Cor Bohlam Sukabumi.** Pasir dari Kawasan kp. bohlam di sukabumi berwarna hitam kecoklatan, sungguh-sungguh bagus untuk pasang bata, pondasi dan lainnya sebagai opsi pasir mutu bagus dan ekonomis
-    
+
     ![Harga Pasir Mainan Anak Free Ongkir Ke Kelapa Dua Jakarta](/images/info/jual-pasir-cor-hitam.jpg)
-    
+
 28. **Pasir Cor Galunggung.**
 
 Pasir ini yakni pasir hitam mutu paling unggul dikelasnya umum digunakan oleh pabrik pengolahan beton readymix juga perusahan pembuatan precast dan kerap juga diterapkan untuk bahan pembuatan batako press hitam, paving block dsb. Pasir ini ditambang dari Tasikmalaya jawa barat.
@@ -100,21 +99,18 @@ Pasir ini yakni pasir hitam mutu paling unggul dikelasnya umum digunakan oleh pa
 ![Harga Pasir Mainan Anak Free Ongkir Ke Kelapa Dua Jakarta](/images/info/pasir-hitam-8.jpg)
 
 - ### Pasir Biasa Di Kelapa Dua Jakarta
-    
 
 ![Harga Pasir Mainan Anak Free Ongkir Ke Kelapa Dua Jakarta](/images/info/pasir-hitam-4.jpg)
 
 Pasir ini ekstra halus lagi dibandingi oleh pasir beton. bila anda mengepal pasir ini maka akan menggumpal dan tak akan hancur kembali. pasir pasang biasa nya di manfaatkan tuk adukan pasir beton agar tak kelewat kasar dan bisa di gunakan untuk plesteran dinding.
 
 - ### Pasir Urug Untuk pemadatan lantai Di Kelapa Dua Jakarta
-    
 
 Di Antara ke dua pasir diatas pasir model ini lebih halus lagi, kalau kamu mengepal nya akan menggumpal dan tidak akan buyar lagi. melainkan pasir jenis
 
 Pada biasa nya pasir ini nyaris sama dengan pasir beton tetapi pasir ini memiliki tingkat kekasaran yang tinggi, butiran - butiran nya cukup besar dan agak banyak batuan nya. pada lazimnya pasir jenis ini bagus untuk bahan dasaran pemasangan keramik
 
 - ### Pasir Putih Tanpa Batu Untuk Pasang Lantai Marmer Di Kelapa Dua Jakarta
-    
 
 1. **Pasir Putih Bangka**
 

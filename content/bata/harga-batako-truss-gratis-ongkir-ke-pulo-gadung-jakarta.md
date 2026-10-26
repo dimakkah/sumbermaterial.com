@@ -16,7 +16,7 @@ saat ini bahan yg digunakan untuk mengisi dinding rumah, telah terdapat bermacam
 
 ## Mengetahui Tipe-tipe Bata
 
-### 1\. Bata Merah Standar & Jumbo Di Pulo Gadung Jakarta
+### 1. Bata Merah Standar & Jumbo Di Pulo Gadung Jakarta
 
 ![Harga Batako Truss Gratis Ongkir Ke Pulo Gadung Jakarta](/images/bata/bata-merah-oven-03.png)
 
@@ -26,7 +26,7 @@ Bata merah ini diwujudkan dari bahan tanah yg kemudian di cetak dan dioven dg te
 
 Bahan bangunan ini betul-betul kuat terhadap panas dan cocok dibuat proteksi dari bahaya api. Bata merah ini pada biasanya mempunyai ukuran panjang antara 17-23 cm dan lebar sekitar 7-11 cm, serta tebalnya 3-5 cm. memiliki ukuran yg lebih kecil akan memberi kemudahan dalam pelaksanaan pengangkutan dan bisa diaplikasikan untuk menyusun bidang kecil.
 
-### 2\. Batako Hitam dan Putih Di Pulo Gadung Jakarta
+### 2. Batako Hitam dan Putih Di Pulo Gadung Jakarta
 
 ![Harga Batako Truss Gratis Ongkir Ke Pulo Gadung Jakarta](/images/bata/batako-hitam-press-23.png)
 
@@ -34,7 +34,7 @@ Material bangunan dinding dari batako press ini secara biasa terbuat dari materi
 
 Batako press seperti ini memiliki kekurangan seperti mudah retak, lebih panas dan pengap. Berbeda dg bata merah yang terbuat dari bahan tanah. Melainkan batako press ini cenderung lebih ringan ketimbang bata merah. Akibatnya akan terlihat lebih halus dan ukurannya lebih presisi bila dibandingi dengan bata merah. Batako trus Hitam ini memiliki ukuran panjang sekitar 36-40 cm, tinggi 18-20 cm dan tebal 8-10 cm. bahan ini sering kali dipilih sebab untuk memperingan bobot struktur bangunan, meminimalisir sisa bahan dan mempercepat pembangunan.
 
-### 3\. Bata Ringan Di Pulo Gadung Jakarta
+### 3. Bata Ringan Di Pulo Gadung Jakarta
 
 ![Harga Batako Truss Gratis Ongkir Ke Pulo Gadung Jakarta](/images/bata/bata-hebel-sni-01.png)
 
@@ -62,7 +62,7 @@ Seluruhnya tentu telah tahu fungsi utama batu bata mulai diterapkan untuk membik
 
 Sistem mengorder batu bata yang aman dan terpercaya:
 
-1.  Proses pembayaran bisa anda lakukan secara COD atau dibayar di tempat dikala barang pesanan anda sudah datang di daerah
+1.  Proses pembayaran bisa anda lakukan secara COD atau dibayar di tempat dikala barang pesanan anda sudah datang di daerah
 2. Silahkan memilih dan menetapkan bahan batu bata yang anda inginkan
 3. Tentukan juga jumlah pesanan batu bata yang anda butuhkan dalam wujud bijian.
 4. Anda bisa menghubungi layanan telepon toko untuk memudahkan progres pemesanan

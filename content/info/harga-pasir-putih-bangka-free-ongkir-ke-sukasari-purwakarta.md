@@ -25,7 +25,7 @@ berdasarkan Standar Nasional Indonesia ( SK SNI - S - 04 - 1989 - F ; 28) di tut
 
 Persyaratan Pasir yg Bagus Untuk Konstruksi Bangunan
 
-1.  Agregat Halus harus terdiri dari butiran yang tajam dan keras dengan indeks kekerasan <2.2
+1.  Agregat Halus harus terdiri dari butiran yang tajam dan keras dengan indeks kekerasan <2.2
 2. kalau digunakan Natrium Sulfat bagian hancur optimal 12 persen
 3. sekiranya diterapkan Magnesium Sulfat bagian halus maksimal sepuluh %
 4. Tak boleh memuat lumpur lebih dari lima %
@@ -41,7 +41,6 @@ Persyaratan Pasir yg Bagus Untuk Konstruksi Bangunan
 sesudah mengenal prasyarat pasir tuk suatu Konstruksi Bangunan, sekarang ini kita bahas model - Ragam Pasir Untuk Konstruksi Bangunan penjelasan nya sbb:
 
 - ### Pasir Beton Di Sukasari Purwakarta
-    
 
 Pasir ini umum nya berwarna coklat tua dan tingkat kekerasan butiran nya cukup tinggi. Namun apabila anda mengepal nya dengan tangan tidak akan lengket dan akan buyar kembali. jenis pasir ini betul-betul lah baik buat Pengecoran, Plesteran Dinding, Adukan Pondasi dan Adukan Pasangan Bata Pasir ini yaitu pasir untuk Rigid yaitu butiran-butiran mineral keras dan tajam berukuran antara 0,075 – 5 mm, seandainya terdapat butiran berukuran lebih kecil dari 0,063 mm tidak lebih dari 5% berat. Pasir ini yaitu pasir untuk Rigid kerap kali digunakan untuk pekerjaan cor-coran struktur seperti kolom, balok dan pelat lantai.
 
@@ -59,21 +58,18 @@ Untuk mendapatkan kekokohan Beton yang optimal karenanya pasir mesti sanggup mem
 ![Harga Pasir Putih Bangka Free Ongkir Ke Sukasari Purwakarta](/images/info/pasir-hitam-2.jpg)
 
 - ### Pasir Standar Di Sukasari Purwakarta
-    
 
 ![Harga Pasir Putih Bangka Free Ongkir Ke Sukasari Purwakarta](/images/info/pasir-hitam-4.jpg)
 
 Pasir ini ekstra halus lagi diperbandingkan oleh pasir beton. apabila anda mengepal pasir ini karenanya akan menggumpal dan tidak akan hancur kembali. pasir pasang umum nya di manfaatkan tuk adukan pasir beton agar tak kelewat kasar dan dapat di manfaatkan untuk plesteran dinding.
 
 - ### Pasir Urug Untuk pengurugan lantai Di Sukasari Purwakarta
-    
 
 Di Antara ke dua pasir diatas pasir ragam ini lebih halus lagi, bila kamu mengepal nya karenanya akan menggumpal dan tak akan hancur lagi. tetapi pasir ragam tak bagus tuk di buat sebagai bahan bangunan. pasir jenis ini pada nya di manfaatkan tuk Bahan Pembuatan Batako
 
 Pada lazim nya pasir ini nyaris sama dengan pasir beton tetapi pasir ini memiliki tingkat kekasaran yang tinggi, butiran - butiran nya lumayan besar dan agak banyak batuan nya. pada biasanya pasir macam ini bagus tuk bahan dasaran pemasangan keramik
 
 - ### Pasir Putih Tanpa Batu Untuk Pasang Bata Di Sukasari Purwakarta
-    
 
 1. **Pasir Putih Bangka**
 

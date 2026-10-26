@@ -25,7 +25,7 @@ berdasarkan Standar Nasional Indonesia ( SK SNI - S - 04 - 1989 - F ; 28) di tut
 
 Syarat Pasir yang Baik buat Bangunan
 
-1.  Agregat Halus patut terdiri dari butiran yg tajam dan keras dengan indeks kekerasan <2.2
+1.  Agregat Halus patut terdiri dari butiran yg tajam dan keras dengan indeks kekerasan <2.2
 2. jika dipakai Natrium Sulfat bagian hancur maksimal dua belas persen
 3. Kalau dipakai Magnesium Sulfat komponen halus maksimal sepuluh %
 4. Tak boleh mengandung lumpur lebih dari 5%
@@ -41,7 +41,6 @@ Syarat Pasir yang Baik buat Bangunan
 setelah tahu persis prasyarat pasir untuk sebuah Konstruksi Bangunan, saat ini kita bahas Macam - Ragam Pasir Untuk Konstruksi Bangunan penjelasan nya sbb:
 
 - ### Pasir untuk Cor Rigid Di Ciparigi Bogor
-    
 
 Pasir ini umum nya berwarna coklat tua dan tingkat kekerasan butiran nya cukup tinggi. Melainkan apabila anda mengepal nya dengan tangan tidak akan menggumpal dan akan hancur kembali. ragam pasir ini betul-betul lah baik buat Pengecoran, Plesteran Dinding, Adukan Pondasi dan Adukan Pasangan Bata Pasir ini yaitu pasir untuk Beton yakni butiran-butiran mineral keras dan tajam berukuran antara 0,075 – 5 mm, jikalau terdapat butiran berukuran lebih kecil dari 0,063 mm tidak lebih dari 5% berat. Pasir ini yaitu pasir untuk Cor hampir sering kali diterapkan untuk pekerjaan cor-coran struktur seperti kolom, balok dan pelat lantai.
 
@@ -59,21 +58,18 @@ Untuk mendapatkan kekuatan Beton yang optimal maka pasir harus sanggup memenuhi 
 ![Harga Pasir Lampung Free Ongkir Ke Ciparigi Bogor](/images/info/pasir-hitam-9.jpg)
 
 - ### Pasir Standar Di Ciparigi Bogor
-    
 
 ![Harga Pasir Lampung Free Ongkir Ke Ciparigi Bogor](/images/info/pasir-putih12.jpg)
 
 Pasir ini lebih halus lagi dibandingi oleh pasir beton. jikalau anda mengepal pasir ini karenanya akan menggumpal dan tidak akan hancur kembali. pasir pasang lazim nya di pakai buat adukan pasir beton supaya tidak terlalu kasar dan dapat di pakai untuk plesteran dinding.
 
 - ### Pasir Kualitas rendah Untuk Dasaran Pemasangan Keramik Di Ciparigi Bogor
-    
 
 Di Antara ke dua pasir diatas pasir jenis ini lebih halus lagi, seandainya kalian mengepal nya karenanya akan menggumpal dan tak akan hancur lagi. namun pasir jenis
 
 Pada biasa nya pasir ini nyaris sama dengan pasir beton tetapi pasir ini memiliki tingkat kekasaran yg tinggi, butiran - butiran nya cukup besar dan agak banyak batuan nya. pada lazimnya pasir tipe ini bagus tuk bahan pemadatan lantai
 
 - ### Pasir Putih Bebas Lumpur Untuk Lapangan Voly Di Ciparigi Bogor
-    
 
 1. **Pasir Putih Bangka**
 

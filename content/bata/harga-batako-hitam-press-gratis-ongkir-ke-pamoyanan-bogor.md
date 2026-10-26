@@ -16,7 +16,7 @@ sekarang ini material yg dipakai untuk mengisi dinding rumah, telah terdapat ber
 
 ## Mengetahui Jenis-jenis Bata
 
-### 1\. Bata Merah Standar & Jumbo Di Pamoyanan Bogor
+### 1. Bata Merah Standar & Jumbo Di Pamoyanan Bogor
 
 ![Harga Batako Hitam Press Gratis Ongkir Ke Pamoyanan Bogor](/images/bata/bata-merah-oven-04.png)
 
@@ -26,7 +26,7 @@ Bata merah ini diwujudkan dari material tanah yg kemudian di cetak dan dibakar d
 
 Material bangunan ini betul-betul tahan kepada panas dan pantas dibuat proteksi dari panas api. Bata merah ini pada lazimnya memiliki ukuran panjang antara 17-23 cm dan lebar sekitar 7-11 cm, serta tebalnya 3-5 cm. mempunyai ukuran yang lebih kecil akan memberi kemudahan dalam proses pengangkutan dan bisa diaplikasikan untuk menyusun bidang kecil.
 
-### 2\. Batako Hitam dan Putih Di Pamoyanan Bogor
+### 2. Batako Hitam dan Putih Di Pamoyanan Bogor
 
 ![Harga Batako Hitam Press Gratis Ongkir Ke Pamoyanan Bogor](/images/bata/batako-hitam-press-07.png)
 
@@ -34,7 +34,7 @@ Bahan bangunan dinding dari batako press ini secara biasa terbuat dari bahan Kom
 
 Batako press seperti ini mempunyai kekurangan seperti gampang pecah, lebih panas dan pengap. Berbeda dengan bata merah yang terbuat dari material tanah. Namun batako ini cenderung lebih ringan ketimbang bata merah. Hasilnya akan kelihatan lebih halus dan ukurannya lebih presisi apabila dibandingkan dg bata merah. Batako press Hitam ini memiliki ukuran panjang sekitar 36-40 cm, tinggi 18-20 cm dan tebal 8-10 cm. material ini sering dipilih sebab untuk memperingan muatan struktur bangunan, meminimalisir sisa bahan dan mempermudah pembangunan.
 
-### 3\. Bata Hebel Di Pamoyanan Bogor
+### 3. Bata Hebel Di Pamoyanan Bogor
 
 ![Harga Batako Hitam Press Gratis Ongkir Ke Pamoyanan Bogor](/images/bata/bata-hebel-sni-11.png)
 
@@ -62,7 +62,7 @@ Seluruhnya tentu sudah tahu kegunaan utama batu bata mulai digunakan untuk membi
 
 Sistem memesan batu bata yg aman dan terpercaya:
 
-1.  Pengerjaan pembayaran dapat anda lakukan secara COD atau dibayar di daerah saat barang pesanan anda sudah datang di daerah
+1.  Pengerjaan pembayaran dapat anda lakukan secara COD atau dibayar di daerah saat barang pesanan anda sudah datang di daerah
 2. Silahkan memilih dan memastikan material batu bata yg anda inginkan
 3. Tentukan juga jumlah orderan batu bata yang anda butuhkan dalam bentuk bijian.
 4. Anda dapat menghubungi layanan telepon toko untuk memudahkan pengerjaan pemesanan

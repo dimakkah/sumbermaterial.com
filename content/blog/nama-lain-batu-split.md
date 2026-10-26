@@ -17,7 +17,6 @@ draft: false
 
 {{< toc >}}
 
-
 Nah, jangan khawatir! Artikel ini akan mengupas tuntas berbagai nama lain untuk batu split, kegunaannya, sampai perkiraan harganya. Dengan begitu, Anda bisa lebih paham dan tepat saat memilih material yang dibutuhkan untuk proyek Anda.
 
 ## Mengapa Batu Split Punya Banyak Sebutan?
@@ -30,10 +29,10 @@ Kedua, perbedaan berdasarkan proses pembuatan dan ukuran. "Batu pecah" misalnya,
 
 Untuk lebih jelasnya, yuk kita bedah satu per satu:
 
-*   **Batu Pecah:** Hasil pemecahan batu alam menjadi ukuran yang lebih kecil menggunakan mesin *crusher*. Biasanya digunakan sebagai bahan dasar untuk jalan, landasan, atau campuran beton.
-*   **Agregat:** Istilah teknis yang mencakup semua material granular seperti batu split, pasir, kerikil, dan sebagainya. Agregat berfungsi sebagai pengisi dalam campuran beton atau aspal, serta memberikan kekuatan dan stabilitas pada struktur.
-*   **Sirtu (Singkatan dari Sirup Timbun):** Campuran antara batu split, pasir, dan tanah yang dipadatkan. Sirtu sering digunakan untuk penguatan jalan desa atau area parkir.
-*   **Macadam:** Lapisan dasar jalan yang terbuat dari batu pecah yang dipadatkan. Istilah ini berasal dari nama John Loudon McAdam, seorang insinyur jalan Skotlandia yang mengembangkan teknik ini pada awal abad ke-19.
+- **Batu Pecah:** Hasil pemecahan batu alam menjadi ukuran yang lebih kecil menggunakan mesin *crusher*. Biasanya digunakan sebagai bahan dasar untuk jalan, landasan, atau campuran beton.
+- **Agregat:** Istilah teknis yang mencakup semua material granular seperti batu split, pasir, kerikil, dan sebagainya. Agregat berfungsi sebagai pengisi dalam campuran beton atau aspal, serta memberikan kekuatan dan stabilitas pada struktur.
+- **Sirtu (Singkatan dari Sirup Timbun):** Campuran antara batu split, pasir, dan tanah yang dipadatkan. Sirtu sering digunakan untuk penguatan jalan desa atau area parkir.
+- **Macadam:** Lapisan dasar jalan yang terbuat dari batu pecah yang dipadatkan. Istilah ini berasal dari nama John Loudon McAdam, seorang insinyur jalan Skotlandia yang mengembangkan teknik ini pada awal abad ke-19.
 
 ![Batu Split Berbagai Ukuran](/images/batu/batu-split-cor-koral-07.png)
 

@@ -18,19 +18,19 @@ Tanpa adanya besi karenanya sebuah bangunan akan gampang retak saat ada guncanga
 
 ## Megenal Jenis-jenis Besi Di Cisalak Depok
 
-### 1\. Besi Polos Banci 4mm, 6mm, 8mm, 10mm, 12mm, 16mm, 18mm, 19mm Di Cisalak Depok
+### 1. Besi Polos Banci 4mm, 6mm, 8mm, 10mm, 12mm, 16mm, 18mm, 19mm Di Cisalak Depok
 
 Besi polos memiliki ukuran mulai dari 8 mm sampai 25 mm dan mempunyai 6 meter panjang tekuk dan 12 meter panjang lurus. Besi beton ini sudah mulai digunakan sebagai bahan utama di Indonesia pada tahun 1950. Besi ini kerap kali kali digunakan untuk membangun sebuah gedung. Bahan yang gampang dipakai sehingga selain dari dipakai untuk membangun sebuah gedung juga dipakai untuk membangun trowongan, bendungan, dan lainnya. Dikala diaplikasikan untuk membangun rumah bertingkat karenanya biasa besi polos ini diaplikasikan untuk struktur tulangan balok, dinding, dan sloof. Besi beton polos ini mempunyai keunggulan besi polos ini tegangannya lebih tinggi dari pada besi lainnya. Sehingga besi ini terkesan lebih kokoh dan tahan beban. Oleh karena itu pengaplikasian besi polos ini betul-betul layak untuk membangun gedung, jembatan, dan bangunan lainnya. Besi polos ini terbuat dari bahan seperti billet dan skrap. Billet yaitu baja batangan yang cara kerja pembuatannya dengan melebur biji besi. Kalau skrap ialah besi bekas yang dihancurkan dengan temperature tertentu. Selain dari itu apabila anda mengaplikasikan besi polos ini tdk membutuhkan biaya pemeliharaan. Semakin lama digunakan maka besi ini akan kian kokoh.
 
-### 2\. Besi Ulir 4mm, 6mm, 8mm, 10mm, 12mm, 16mm, 18mm, 19mm Di Cisalak Depok
+### 2. Besi Ulir 4mm, 6mm, 8mm, 10mm, 12mm, 16mm, 18mm, 19mm Di Cisalak Depok
 
 Selaras dengan namanya besi beton ulir ini yakni besi yang bentuknya mengulir. Pada permukaannya bercorak spiral yang memiliki tujuan untuk menyatukan tulangan dengan elemen material bangunan yang dibangun oleh besi beton. Besi ulir ini mulai populer digunakan pada abad ke-20 di Amerika dan mulai populer di Indonesia pada tahun1950. Mengingat dikala menggunakan besi ulir ini memiliki banyak keunggulan mulai dari kekokohan bangunan serta lebih ekonomis dan efisien. Produk besi ulir ini menjadi paling laris di pasar karena memiliki kualitas yang terbaik di Indonesia dan mempunyai harga yang tinggi kalau diperbandingkan dengan produk lainnya.
 
-### 3\. Besi WF dan H-Beam SNI Di Cisalak Depok
+### 3. Besi WF dan H-Beam SNI Di Cisalak Depok
 
 Besi Wide Flange (WF) ini ialah salah satu baja dengan struktural yang paling populer digunakan untuk kontruksi baja. Jikalau anda membutuhkan besi baja Wide Flage dalam jumlah yang banyak atau sedikit karenanya silahkan cari distributor besi yang terpercaya. Besi WF ini mempunyai kekuatan yang kokoh dan kokoh pada kekokohan tarik atau tekan. Karenanya dari itu besi ini menjadi faktor struktur yang mempunyai batasan yang sempurna untuk menahan bobot tekan aksial, tarik aksial, dan lentur dengan fasilitas pembangunan strukturnya. Baja Wide Flange (WF) ini mempunyai kepadatan yang tinggi melainkan rasio berat antara ketahanan bagian Baja WF yang tinggi tapi tidak terlalu berat yang berhubungan dengan kapasitas beban. Selain itu menentukan apabila kontruksi yang dipakai secara efisien. Cara kontruksi baja WF ini kombinasi dari unsur struktur yang kompleks. Pada struktur ini mempunyai tujuan membawa bobot yang aman dan efektif yang berefek pada sebuah bangunan dan dikirim pada pondasinya. Gaya dan bobot yang bekerja ini termasuk beban pertikal, perbedaan suhu, horizontal, getaran dan lainnya. Pada sebuah bangunan baja, maka ada unsure yang bermanfaat menahan gaya lateral dan gravitasi.
 
-### 4\. Besi Hollow Di Cisalak Depok
+### 4. Besi Hollow Di Cisalak Depok
 
 Besi hollow yaitu besi yang diterapkan sebagai pembuatan kanopi, pagar, pintu besi dan lainnya. Bahan baku pembuatan besi Hollow ini biasanya terbuat dari stainless, galvanis, dan besi baja. Namun yang paling kerap dipakai sebagai bahan baku merupakan galvanis. Terdapat kelebihan yang anda dapatkan ketika mengaplikasikan kanopi, mengaplikasikan pagar, teralis memakai besi hollow:
 

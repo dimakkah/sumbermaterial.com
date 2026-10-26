@@ -25,7 +25,7 @@ Berdasarkan Standar Nasional Indonesia ( SK SNI - S - 04 - 1989 - F ; 28) di seb
 
 Prasyarat Pasir yang Baik buat Konstruksi Bangunan
 
-1.  Agregat Halus mesti terdiri dari butiran yang tajam dan keras dengan indeks kekerasan <2.2
+1.  Agregat Halus mesti terdiri dari butiran yang tajam dan keras dengan indeks kekerasan <2.2
 2. bilamana dimanfaatkan Natrium Sulfat bagian hancur optimal dua belas %
 3. jikalau digunakan Magnesium Sulfat komponen halus maksimal sepuluh persen
 4. Tidak boleh berisi lumpur lebih dari 5%
@@ -41,7 +41,6 @@ Prasyarat Pasir yang Baik buat Konstruksi Bangunan
 Sesudah mengenal syarat pasir tuk suatu Bangunan, pada saat ini kita bahas Macam - Macam Pasir Untuk Bangunan penjelasan nya sbb:
 
 - ### Pasir untuk Cor Rigid Di Senayan Jakarta
-    
 
 Pasir ini lazim nya berwarna hitam pekat dan tingkat kekasaran butiran nya lumayan tinggi. Tetapi jikalau anda mengepal nya dengan tangan tak akan menggumpal dan akan hancur kembali. macam pasir ini amat lah baik buat Pengecoran, Plesteran Dinding, Adukan Pondasi dan Adukan Pasangan Bata Pasir ini yaitu pasir untuk Beton merupakan butiran-butiran mineral keras dan tajam berukuran antara 0,075 – 5 mm, kalau terdapat butiran berukuran lebih kecil dari 0,063 mm tidak lebih dari 5% berat. Pasir ini yaitu pasir untuk Rigid acap kali dimanfaatkan untuk profesi cor-coran struktur seperti kolom, balok dan pelat lantai.
 
@@ -59,21 +58,18 @@ Untuk mendapatkan ketahanan Cor yang maksimal maka pasir seharusnya sanggup meme
 ![Harga Pasir Jalupang Free Ongkir Ke Senayan Jakarta](/images/info/pasir-hitam-9.jpg)
 
 - ### Pasir Standar Di Senayan Jakarta
-    
 
 ![Harga Pasir Jalupang Free Ongkir Ke Senayan Jakarta](/images/info/pasir-putih12.jpg)
 
 Pasir ini ekstra halus lagi diperbandingkan oleh pasir beton. kalau kalian mengepal pasir ini karenanya akan menggumpal dan tak akan hancur kembali. pasir pasang lazim nya di manfaatkan buat campuran pasir beton agar tak terlampau kasar dan bisa di gunakan untuk plesteran dinding.
 
 - ### Pasir Urug Untuk pemadatan lantai Di Senayan Jakarta
-    
 
 Di Antara ke dua pasir diatas pasir jenis ini lebih halus lagi, seandainya anda mengepal nya akan menggumpal dan tidak akan buyar lagi. melainkan pasir macam
 
 Pada lazim nya pasir ini nyaris sama dgn pasir beton akan tetapi pasir ini mempunyai tingkat kekasaran yg tinggi, butiran - butiran nya cukup besar dan agak banyak batuan nya. pada umumnya pasir ragam ini baik untuk bahan Pembuatan Batako
 
 - ### Pasir Putih Bebas Lumpur Untuk Lapangan Voly Di Senayan Jakarta
-    
 
 1. **Pasir Putih Bangka**
 

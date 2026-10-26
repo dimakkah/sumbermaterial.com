@@ -25,7 +25,7 @@ Menurut Standar Nasional Indonesia ( SK SNI - S - 04 - 1989 - F ; 28) di sebutka
 
 Persyaratan Pasir yg Bagus buat Bangunan
 
-1.  Agregat Halus patut terdiri dari butiran yang tajam dan keras dengan indeks kekerasan <2.2
+1.  Agregat Halus patut terdiri dari butiran yang tajam dan keras dengan indeks kekerasan <2.2
 2. apabila digunakan Natrium Sulfat bagian hancur maksimal dua belas persen
 3. kalau diaplikasikan Magnesium Sulfat komponen halus maksimal sepuluh %
 4. Tidak boleh memuat clay lebih dari lima persen
@@ -41,7 +41,6 @@ Persyaratan Pasir yg Bagus buat Bangunan
 setelah memahami prasyarat pasir untuk sebuah Bangunan, sekarang ini kita bahas model - model Pasir Untuk Bangunan penjelasan nya sbb:
 
 - ### Pasir Cor Di Tanjung Barat Jakarta
-    
 
 Pasir ini biasa nya berwarna hitam kemerahan dan tingkat kekerasan butiran nya lumayan tinggi. Tetapi kalau anda mengepal nya dengan tangan tak akan menggumpal dan akan hancur kembali. ragam pasir ini sungguh-sungguh lah bagus untuk Pengecoran, Plesteran Dinding, Adukan Pondasi dan Adukan Pasangan Bata Pasir ini yaitu pasir untuk Cor ialah butiran-butiran mineral keras dan tajam berukuran antara 0,075 – 5 mm, jikalau terdapat butiran berukuran lebih kecil dari 0,063 mm tak lebih dari 5% berat. Pasir ini yaitu pasir untuk Beton sering dimanfaatkan untuk profesi cor-coran struktur seperti kolom, balok dan pelat lantai.
 
@@ -52,9 +51,9 @@ Harga Pasir Hitam Cor Free Ongkir Ke Tanjung Barat Jakarta Bila anda sebagai kon
 Pasir kelas satu asal kp. jebrod cianjur jawa barat yang dipakai oleh indocement serta perusahaan batching plant lainnya sebagai bahan dasar produksi readymix concrete. Pasir ini paling disarankan untuk cor sebab irit semen juga mempunyai kandungan lumpur yang amat rendah dibawah delapan %. warnanya Hitam abu tua atau hitam seperti hitamnya batu kali, ada juga yang hitam kemerahan atau hitam terasi
 
 3. **Pasir Hitam Beton Cimangkok.** Pasir dari Lokasi penambangannya di cimangkok sukabumi jawa barat yang masih masuk pada klasifikasi pasir hitam No. 1 di jawa barat, warnanya hitam kecoklatan sesuai untuk cor, pasang pondasi dan bata
-    
+
     ![Harga Pasir Hitam Cor Free Ongkir Ke Tanjung Barat Jakarta](/images/info/pasir-hitam-1.jpg)
-    
+
 4. **Pasir Hitam Cor Cimalaka Subang Bandung.**
 
 Pasir nomor satu yang berwarna hitam kebauan ada juga yang berwarna hitam abu tua. Banyak di pakai untuk Cor, pasang dan keperluan lainnya. Ditambang di kampung cimalaka
@@ -90,9 +89,9 @@ Kecuali Rangkasbitung, Banten juga mempunyai lokasi pnembangan pasir lain sepert
 Masih dari kawasan di banten, pasir kelas tiga ini yakni pasir yang banyak diterapkan di proyek proyek perumahan atau cluster sebab harganya yang murah juga kwalitas yang bagus. Warna pasir ini hitam kecoklatan dan keabuan sungguh-sungguh disarankan untuk pasang pondasi, bata, batu dan lainnya
 
 27. **Pasir Hitam Rigid Bohlam Sukabumi.** Pasir dari Lokasi kp. bohlam di sukabumi berwarna hitam kecoklatan, benar-benar bagus untuk pasang bata, pondasi dan lain-lain sebagai pilihan pasir kwalitas tidak diragukan dan tidak mahal
-    
+
     ![Harga Pasir Hitam Cor Free Ongkir Ke Tanjung Barat Jakarta](/images/info/jual-pasir-cor-hitam.jpg)
-    
+
 28. **Pasir Beton Galunggung.**
 
 Pasir ini yakni pasir hitam kwalitas paling unggul dikelasnya awam diaplikasikan oleh pabrik pengolahan beton readymix juga perusahan pembuatan precast dan tak jarang juga diterapkan untuk bahan pembuatan batako press hitam, paving block dan lain-lain. Pasir ini ditambang dari Tasikmalaya jawa barat.
@@ -100,21 +99,18 @@ Pasir ini yakni pasir hitam kwalitas paling unggul dikelasnya awam diaplikasikan
 ![Harga Pasir Hitam Cor Free Ongkir Ke Tanjung Barat Jakarta](/images/info/pasir-hitam-8.jpg)
 
 - ### Pasir Untuk Pasang Batu, Pondasi, Bata, Ubin, Plester Di Tanjung Barat Jakarta
-    
 
 ![Harga Pasir Hitam Cor Free Ongkir Ke Tanjung Barat Jakarta](/images/info/jual-pasir-mundu-2.jpg)
 
 Pasir ini lebih halus lagi dibandingkan oleh pasir beton. jika anda mengepal pasir ini maka akan menggumpal dan tak akan hancur kembali. pasir pasang lazim nya di gunakan tuk adukan pasir beton agar tak terlalu kasar dan dapat di manfaatkan untuk plesteran dinding.
 
 - ### Pasir Kualitas rendah Untuk Dasaran Pemasangan Keramik Di Tanjung Barat Jakarta
-    
 
 Di Antara ke dua pasir diatas pasir tipe ini lebih halus lagi, seandainya kamu mengepal nya akan menggumpal dan tidak akan buyar lagi. melainkan pasir jenis
 
 Pada nya pasir ini nyaris sama dengan pasir beton akan namun pasir ini memiliki tingkat kekasaran yg tinggi, butiran - butiran nya lumayan besar dan agak banyak batuan nya. pada biasanya pasir jenis ini baik tuk bahan pemadatan lantai
 
 - ### Pasir Putih Halus Untuk Lapangan Voly Di Tanjung Barat Jakarta
-    
 
 1. **Pasir Putih Bangka**
 

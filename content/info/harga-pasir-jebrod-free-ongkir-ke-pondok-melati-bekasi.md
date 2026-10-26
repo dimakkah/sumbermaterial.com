@@ -25,7 +25,7 @@ Berdasarkan Standar Nasional Indonesia ( SK SNI - S - 04 - 1989 - F ; 28) di tut
 
 Prasyarat Pasir yg Bagus buat Bangunan
 
-1.  Agregat Halus harus terdiri dari butiran yang tajam dan keras dengan indeks kekerasan <2.2
+1.  Agregat Halus harus terdiri dari butiran yang tajam dan keras dengan indeks kekerasan <2.2
 2. jikalau dimanfaatkan Natrium Sulfat komponen hancur optimal dua belas persen
 3. bila diaplikasikan Magnesium Sulfat komponen halus maksimal 10%
 4. Tak boleh mengandung lumpur lebih dari 5%
@@ -41,7 +41,6 @@ Prasyarat Pasir yg Bagus buat Bangunan
 sesudah tahu persis persyaratan pasir tuk suatu Konstruksi Bangunan, pada saat ini kita bahas Jenis - Ragam Pasir Untuk Bangunan penjelasan nya berikut ini:
 
 - ### Pasir Tipe Rigid dan Tempat Pengambilannya Di Pondok Melati Bekasi
-    
 
 Pasir ini umum nya berwarna hitam gelap dan tingkat kekerasan butiran nya lumayan tinggi. Tapi seandainya anda mengepal nya dengan tangan tak akan lengket dan akan buyar kembali. tipe pasir ini sangat lah bagus untuk Pengecoran, Plesteran Dinding, Adukan Pondasi dan Adukan Pasangan Bata Pasir ini yaitu pasir untuk Beton yakni butiran-butiran mineral keras dan tajam berukuran antara 0,075 – 5 mm, apabila terdapat butiran berukuran lebih kecil dari 0,063 mm tak lebih dari 5% berat. Pasir ini yaitu pasir untuk Cor sering kali diaplikasikan untuk profesi cor-coran struktur seperti kolom, balok dan pelat lantai.
 
@@ -52,9 +51,9 @@ Harga Pasir Jebrod Free Ongkir Ke Pondok Melati Bekasi Sekiranya anda sebagai ko
 Pasir kelas satu diambil dari kp. jebrod cianjur jawa barat yang diterapkan oleh indocement serta perusahaan batching plant lainnya sebagai bahan dasar produksi readymix concrete. Pasir ini paling dianjurkan untuk cor sebab irit semen juga mempunyai kandungan lumpur yang benar-benar rendah dibawah delapan %. warnanya Hitam abu tua atau hitam seperti hitamnya batu kali, ada juga yang hitam kemerahan atau hitam terasi
 
 3. **Pasir Hitam Rigid Cimangkok.** Pasir asli Lokasi penambangannya di cimangkok sukabumi jawa barat yang masih masuk terhadap klasifikasi pasir hitam terbaik di jawa barat, warnanya hitam kecoklatan sesuai untuk cor, pasang pondasi dan bata
-    
+
     ![Harga Pasir Jebrod Free Ongkir Ke Pondok Melati Bekasi](/images/info/pasir-hitam-2.jpg)
-    
+
 4. **Pasir Hitam Beton Cimalaka Subang Bandung.**
 
 Pasir kelas satu yang berwarna hitam kebauan ada juga yang berwarna hitam abu tua. Banyak di pakai untuk Cor, pasang dan keperluan lainnya. Ditambang di Desa cimalaka
@@ -90,9 +89,9 @@ Kecuali Rangkasbitung, Banten juga mempunyai lokasi pnembangan pasir lain sepert
 Masih dari kawasan di banten, pasir kelas tiga ini yaitu pasir yang banyak diterapkan di proyek proyek perumahan atau cluster sebab harganya yang murah juga kwalitas yang tidak diragukan. Warna pasir ini hitam kecoklatan dan keabuan amat dianjurkan untuk pasang pondasi, bata, batu dan sebagainya
 
 27. **Pasir Hitam Rigid Bohlam Sukabumi.** Pasir dari Lokasi kp. bohlam di sukabumi berwarna hitam kecoklatan, betul-betul bagus untuk pasang bata, pondasi dan sebagainya sebagai pilihan pasir kwalitas tidak diragukan dan murah
-    
+
     ![Harga Pasir Jebrod Free Ongkir Ke Pondok Melati Bekasi](/images/info/pasir-hitam-9.jpg)
-    
+
 28. **Pasir Cor Galunggung.**
 
 Pasir ini yakni pasir hitam mutu paling unggul dikelasnya awam diterapkan oleh pabrik pengolahan beton readymix juga perusahan pembuatan precast dan sering kali juga diaplikasikan untuk bahan pembuatan batako press hitam, paving block dan lainnya. Pasir ini ditambang dari Tasikmalaya jawa barat.
@@ -100,21 +99,18 @@ Pasir ini yakni pasir hitam mutu paling unggul dikelasnya awam diterapkan oleh p
 ![Harga Pasir Jebrod Free Ongkir Ke Pondok Melati Bekasi](/images/info/pasir-hitam-5.jpg)
 
 - ### Pasir Biasa Di Pondok Melati Bekasi
-    
 
 ![Harga Pasir Jebrod Free Ongkir Ke Pondok Melati Bekasi](/images/info/pasir-putih12.jpg)
 
 Pasir ini lebih halus lagi dibandingi oleh pasir beton. sekiranya kalian mengepal pasir ini maka akan menggumpal dan tak akan buyar kembali. pasir pasang biasa nya di pakai tuk adukan pasir beton supaya tidak kelewat kasar dan bisa di pakai untuk plesteran dinding.
 
 - ### Pasir Elod Untuk Dasaran Pemasangan Marmer Di Pondok Melati Bekasi
-    
 
 Di Antara ke dua pasir diatas pasir model ini lebih halus lagi, apabila anda mengepal nya akan menggumpal dan tidak akan buyar lagi. namun pasir macam
 
 Pada lazim nya pasir ini nyaris sama dengan pasir beton melainkan pasir ini memiliki tingkat kekasaran yang tinggi, butiran - butiran nya lumayan besar dan agak banyak batuan nya. pada lazimnya pasir jenis ini bagus untuk bahan pengurugan lantai
 
 - ### Pasir Putih Tanpa Ayak Untuk Pasang Lantai Marmer Di Pondok Melati Bekasi
-    
 
 1. **Pasir Putih Bangka**
 

@@ -25,7 +25,7 @@ berdasarkan Standar Nasional Indonesia ( SK SNI - S - 04 - 1989 - F ; 28) di seb
 
 Syarat Pasir yg Baik Untuk Konstruksi
 
-1.  Agregat Halus semestinya terdiri dari butiran yg tajam dan keras dengan indeks kekerasan <2.2
+1.  Agregat Halus semestinya terdiri dari butiran yg tajam dan keras dengan indeks kekerasan <2.2
 2. apabila diaplikasikan Natrium Sulfat bagian hancur optimal 12 persen
 3. seandainya diterapkan Magnesium Sulfat komponen halus maksimal sepuluh %
 4. Tak boleh mengandung lumpur lebih dari lima persen
@@ -41,7 +41,6 @@ Syarat Pasir yg Baik Untuk Konstruksi
 setelah mengenal syarat pasir untuk sebuah Konstruksi, sekarang ini kita bahas Tipe - Tipe Pasir Untuk Konstruksi Bangunan penjelasan nya sebagai berikut:
 
 - ### Pasir Jenis Rigid dan Daerah Pengambilannya Di Telukjambe Barat Karawang
-    
 
 Pasir ini lazim nya berwarna hitam pekat dan tingkat kekasaran butiran nya lumayan tinggi. Tapi seandainya anda mengepal nya dengan tangan tidak akan menggumpal dan akan buyar kembali. tipe pasir ini sangat lah baik buat Pengecoran, Plesteran Dinding, Adukan Pondasi dan Adukan Pasangan Bata Pasir ini yaitu pasir untuk Rigid yaitu butiran-butiran mineral keras dan tajam berukuran antara 0,075 – 5 mm, kalau terdapat butiran berukuran lebih kecil dari 0,063 mm tidak lebih dari 5% berat. Pasir ini yaitu pasir untuk Cor acap kali dipakai untuk profesi cor-coran struktur seperti kolom, balok dan pelat lantai.
 
@@ -59,21 +58,18 @@ Untuk mendapatkan kualitas Beton yang maksimal karenanya pasir sepatutnya sanggu
 ![Harga Pasir Urug Free Ongkir Ke Telukjambe Barat Karawang](/images/info/pasir-hitam-9.jpg)
 
 - ### Pasir Untuk Adukan Pasang Batu, Pondasi, Bata, Ubin, Plester Di Telukjambe Barat Karawang
-    
 
 ![Harga Pasir Urug Free Ongkir Ke Telukjambe Barat Karawang](/images/info/pasir-hitam-11.jpg)
 
 Pasir ini ekstra halus lagi dibandingi oleh pasir beton. jika kalian mengepal pasir ini karenanya akan menggumpal dan tidak akan hancur kembali. pasir pasang umum nya di manfaatkan tuk campuran pasir beton supaya tidak terlalu kasar dan bisa di manfaatkan untuk plesteran dinding.
 
 - ### Pasir Kualitas rendah Untuk Dasaran Pemasangan Marmer Di Telukjambe Barat Karawang
-    
 
 Di Antara ke dua pasir diatas pasir model ini lebih halus lagi, seandainya anda mengepal nya maka akan menggumpal dan tak akan hancur lagi. tapi pasir macam
 
 Pada nya pasir ini nyaris sama dengan pasir beton akan namun pasir ini mempunyai tingkat kekasaran yang tinggi, butiran - butiran nya lumayan besar dan agak banyak batuan nya. pada lazimnya pasir macam ini baik untuk bahan pengurugan lantai
 
 - ### Pasir Putih Bebas Lumpur Untuk Pelester Di Telukjambe Barat Karawang
-    
 
 1. **Pasir Putih Bangka**
 

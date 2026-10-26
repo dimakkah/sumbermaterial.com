@@ -25,7 +25,7 @@ Menurut Standar Nasional Indonesia ( SK SNI - S - 04 - 1989 - F ; 28) di tuturka
 
 Prasyarat Pasir yg Baik tuk Konstruksi
 
-1.  Agregat Halus sepatutnya terdiri dari butiran yang tajam dan keras dengan indeks kekerasan <2.2
+1.  Agregat Halus sepatutnya terdiri dari butiran yang tajam dan keras dengan indeks kekerasan <2.2
 2. bilamana dimanfaatkan Natrium Sulfat komponen hancur optimal 12 persen
 3. bila digunakan Magnesium Sulfat komponen halus maksimal sepuluh %
 4. Tak boleh berisi clay lebih dari lima persen
@@ -41,7 +41,6 @@ Prasyarat Pasir yg Baik tuk Konstruksi
 setelah tahu persis prasyarat pasir untuk sebuah Konstruksi Bangunan, pada saat ini kita bahas Ragam - Jenis Pasir Untuk Bangunan penjelasan nya sebagai berikut:
 
 - ### Pasir Jenis Cor dan Daerah Penambangannya Di Duren Mekar Depok
-    
 
 Pasir ini lazim nya berwarna coklat tua dan tingkat kekerasan butiran nya lumayan tinggi. Melainkan apabila anda mengepal nya dengan tangan tidak akan lengket dan akan hancur kembali. jenis pasir ini sungguh-sungguh lah bagus tuk Pengecoran, Plesteran Dinding, Adukan Pondasi dan Adukan Pasangan Bata Pasir ini yaitu pasir untuk Cor merupakan butiran-butiran mineral keras dan tajam berukuran antara 0,075 – 5 mm, apabila terdapat butiran berukuran lebih kecil dari 0,063 mm tidak lebih dari 5% berat. Pasir ini yaitu pasir untuk Rigid sering dimanfaatkan untuk profesi cor-coran struktur seperti kolom, balok dan pelat lantai.
 
@@ -52,9 +51,9 @@ Harga Pasir Mundu Free Ongkir Ke Duren Mekar Depok Jika anda sebagai konsumen /p
 Pasir nomor satu asal kp. jebrod cianjur jawa barat yang diaplikasikan oleh indocement serta perusahaan batching plant lainnya sebagai bahan dasar produksi readymix concrete. Pasir ini paling disarankan untuk cor sebab irit semen juga mempunyai kandungan lumpur yang amat rendah dibawah 8%. warnanya Hitam abu tua atau hitam seperti hitamnya batu kali, ada juga yang hitam kemerahan atau hitam terasi
 
 3. **Pasir Hitam Cor Cimangkok.** Pasir dari Daerah penambangannya di cimangkok sukabumi jabar yang masih masuk terhadap golongan pasir hitam nomor satu di jabar, warnanya hitam kecoklatan pantas untuk cor, pasang pondasi dan bata
-    
+
     ![Harga Pasir Mundu Free Ongkir Ke Duren Mekar Depok](/images/info/pasir-hitam-5.jpg)
-    
+
 4. **Pasir Hitam Beton Cimalaka Subang Bandung.**
 
 Pasir paling unggul yang berwarna hitam kebauan ada juga yang berwarna hitam abu tua. Banyak di pakai untuk Cor, pasang dan keperluan lainnya. Ditambang di Desa cimalaka
@@ -90,9 +89,9 @@ Kecuali Rangkasbitung, Banten juga mempunyai lokasi pnembangan pasir lain sepert
 Masih dari Lokasi di banten, pasir kelas tiga ini merupakan pasir yang banyak diterapkan di proyek proyek perumahan atau cluster sebab harganya yang murah juga mutu yang tidak diragukan. Warna pasir ini hitam kecoklatan dan keabuan amat disarankan untuk pasang pondasi, bata, batu dan lainnya
 
 27. **Pasir Hitam Beton Bohlam Sukabumi.** Pasir dari Kawasan kp. bohlam di sukabumi berwarna hitam kecoklatan, amat bagus untuk pasang bata, pondasi dan sebagainya sebagai opsi pasir kwalitas baik dan murah
-    
+
     ![Harga Pasir Mundu Free Ongkir Ke Duren Mekar Depok](/images/info/pasir-hitam-1.jpg)
-    
+
 28. **Pasir Beton Galunggung.**
 
 Pasir ini yakni pasir hitam kwalitas paling unggul dikelasnya awam diaplikasikan oleh pabrik pengolahan beton readymix juga perusahan pembuatan precast dan acap kali juga diterapkan untuk bahan pembuatan batako press hitam, paving block dan sebagainya. Pasir ini ditambang dari Tasikmalaya jabar.
@@ -100,21 +99,18 @@ Pasir ini yakni pasir hitam kwalitas paling unggul dikelasnya awam diaplikasikan
 ![Harga Pasir Mundu Free Ongkir Ke Duren Mekar Depok](/images/info/jual-pasir-cor-hitam.jpg)
 
 - ### Pasir Untuk Pemasangan Batu, Pondasi, Bata, Ubin, Plester Di Duren Mekar Depok
-    
 
 ![Harga Pasir Mundu Free Ongkir Ke Duren Mekar Depok](/images/info/pasir-hitam-4.jpg)
 
 Pasir ini ekstra halus lagi diperbandingkan oleh pasir beton. seandainya kalian mengepal pasir ini karenanya akan menggumpal dan tidak akan hancur kembali. pasir pasang lazim nya di gunakan tuk adukan pasir beton supaya tidak kelewat kasar dan dapat di pakai untuk plesteran dinding.
 
 - ### Pasir Urug Untuk Pembuatan Batako Di Duren Mekar Depok
-    
 
 Di Antara ke dua pasir diatas pasir jenis ini lebih halus lagi, sekiranya anda mengepal nya maka akan menggumpal dan tidak akan hancur lagi. tapi pasir jenis
 
 Pada lazim nya pasir ini nyaris sama dgn pasir beton tetapi pasir ini memiliki tingkat kekasaran yg tinggi, butiran - butiran nya lumayan besar dan agak banyak batuan nya. pada lazimnya pasir jenis ini baik untuk bahan pengurugan lantai
 
 - ### Pasir Putih Halus Untuk Taman Bermain Di Duren Mekar Depok
-    
 
 1. **Pasir Putih Bangka**
 

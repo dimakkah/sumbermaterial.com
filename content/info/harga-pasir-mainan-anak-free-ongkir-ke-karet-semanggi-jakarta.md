@@ -25,7 +25,7 @@ menurut Standar Nasional Indonesia ( SK SNI - S - 04 - 1989 - F ; 28) di sebutka
 
 Persyaratan Pasir yg Bagus tuk Bangunan
 
-1.  Agregat Halus wajib terdiri dari butiran yang tajam dan keras dengan indeks kekerasan <2.2
+1.  Agregat Halus wajib terdiri dari butiran yang tajam dan keras dengan indeks kekerasan <2.2
 2. bilamana digunakan Natrium Sulfat bagian hancur optimal 12%
 3. jikalau diterapkan Magnesium Sulfat bagian halus optimal sepuluh persen
 4. Tak boleh berisi lumpur lebih dari lima persen
@@ -41,7 +41,6 @@ Persyaratan Pasir yg Bagus tuk Bangunan
 sesudah tahu persis prasyarat pasir tuk sebuah Bangunan, pada saat ini kita bahas Tipe - Ragam Pasir Untuk Konstruksi penjelasan nya sbb:
 
 - ### Pasir Untuk Pengecoran Di Karet Semanggi Jakarta
-    
 
 Pasir ini biasa nya berwarna hitam pekat dan tingkat kekerasan butiran nya cukup tinggi. Melainkan kalau anda mengepal nya dengan tangan tidak akan menggumpal dan akan hancur kembali. macam pasir ini sungguh-sungguh lah bagus buat Pengecoran, Plesteran Dinding, Adukan Pondasi dan Adukan Pasangan Bata Pasir ini yaitu pasir untuk Rigid ialah butiran-butiran mineral keras dan tajam berukuran antara 0,075 – 5 mm, bila terdapat butiran berukuran lebih kecil dari 0,063 mm tidak lebih dari 5% berat. Pasir ini yaitu pasir untuk Beton hampir tak jarang dipakai untuk pekerjaan cor-coran struktur seperti kolom, balok dan pelat lantai.
 
@@ -59,21 +58,18 @@ Untuk memperoleh kekokohan Rigid yang maksimal karenanya pasir mesti mampu memen
 ![Harga Pasir Mainan Anak Free Ongkir Ke Karet Semanggi Jakarta](/images/info/pasir-hitam-9.jpg)
 
 - ### Pasir Biasa Di Karet Semanggi Jakarta
-    
 
 ![Harga Pasir Mainan Anak Free Ongkir Ke Karet Semanggi Jakarta](/images/info/jual-pasir-mundu-2.jpg)
 
 Pasir ini lebih halus lagi dibandingi oleh pasir beton. jika kamu mengepal pasir ini maka akan menggumpal dan tak akan buyar kembali. pasir pasang umum nya di pakai untuk adukan pasir beton supaya tidak kelewat kasar dan dapat di pakai untuk plesteran dinding.
 
 - ### Pasir Urug Untuk Pembuatan Batako Di Karet Semanggi Jakarta
-    
 
 Di Antara ke dua pasir diatas pasir jenis ini lebih halus lagi, bila kalian mengepal nya akan menggumpal dan tidak akan hancur lagi. namun pasir jenis
 
 Pada lazim nya pasir ini nyaris sama dengan pasir beton akan melainkan pasir ini memiliki tingkat kekasaran yg tinggi, butiran - butiran nya lumayan besar dan agak banyak batuan nya. pada umumnya pasir model ini baik tuk bahan pengurugan lantai
 
 - ### Pasir Putih Halus Untuk Hiasan Di Karet Semanggi Jakarta
-    
 
 1. **Pasir Putih Bangka**
 

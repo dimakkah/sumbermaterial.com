@@ -25,7 +25,7 @@ menurut Standar Nasional Indonesia ( SK SNI - S - 04 - 1989 - F ; 28) di sebutka
 
 Syarat-Syarat Pasir yang Bagus Untuk Bangunan
 
-1.  Agregat Halus patut terdiri dari butiran yg tajam dan keras dengan indeks kekerasan <2.2
+1.  Agregat Halus patut terdiri dari butiran yg tajam dan keras dengan indeks kekerasan <2.2
 2. Kalau dimanfaatkan Natrium Sulfat komponen hancur maksimal 12 persen
 3. bila digunakan Magnesium Sulfat komponen halus maksimal 10%
 4. Tidak boleh memuat clay lebih dari lima %
@@ -41,7 +41,6 @@ Syarat-Syarat Pasir yang Bagus Untuk Bangunan
 Setelah tahu persis persyaratan pasir tuk suatu Bangunan, sekarang ini kita bahas Tipe - Tipe Pasir Untuk Bangunan penjelasan nya berikut ini:
 
 - ### Pasir Jenis Cor dan Lokasi Penambangannya Di Babakan Bogor
-    
 
 Pasir ini lazim nya berwarna coklat tua dan tingkat kekerasan butiran nya cukup tinggi. Tetapi sekiranya anda mengepal nya dengan tangan tak akan menggumpal dan akan buyar kembali. tipe pasir ini sungguh-sungguh lah bagus tuk Pengecoran, Plesteran Dinding, Adukan Pondasi dan Adukan Pasangan Bata Pasir ini yaitu pasir untuk Rigid yaitu butiran-butiran mineral keras dan tajam berukuran antara 0,075 – 5 mm, apabila terdapat butiran berukuran lebih kecil dari 0,063 mm tak lebih dari 5% berat. Pasir ini yaitu pasir untuk Rigid sering kali digunakan untuk profesi cor-coran struktur seperti kolom, balok dan pelat lantai.
 
@@ -59,21 +58,18 @@ Untuk mendapatkan ketahanan Rigid yang optimal karenanya pasir sepatutnya sanggu
 ![Harga Pasir Lampung Free Ongkir Ke Babakan Bogor](/images/info/pasir-hitam-5.jpg)
 
 - ### Pasir Biasa Di Babakan Bogor
-    
 
 ![Harga Pasir Lampung Free Ongkir Ke Babakan Bogor](/images/info/jual-pasir-mundu-2.jpg)
 
 Pasir ini ekstra halus lagi dibandingkan oleh pasir beton. bila kamu mengepal pasir ini maka akan menggumpal dan tidak akan buyar kembali. pasir pasang biasa nya di gunakan buat campuran pasir beton agar tak terlampau kasar dan bisa di manfaatkan untuk plesteran dinding.
 
 - ### Pasir Urug Untuk pengurugan lantai Di Babakan Bogor
-    
 
 Di Antara ke dua pasir diatas pasir macam ini lebih halus lagi, apabila kalian mengepal nya maka akan menggumpal dan tak akan buyar lagi. tetapi pasir macam
 
 Pada nya pasir ini nyaris sama dgn pasir beton tetapi pasir ini mempunyai tingkat kekasaran yg tinggi, butiran - butiran nya cukup besar dan agak banyak batuan nya. pada umumnya pasir macam ini bagus tuk bahan dasaran pemasangan keramik
 
 - ### Pasir Putih Bebas Lumpur Untuk Pengecoran Di Babakan Bogor
-    
 
 1. **Pasir Putih Bangka**
 

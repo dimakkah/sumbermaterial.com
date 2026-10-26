@@ -18,19 +18,19 @@ Tanpa adanya besi karenanya sebuah bangunan akan mudah retak dikala ada getaran 
 
 ## Megenal Macam-macam Besi Di Jatiuwung Tangerang
 
-### 1\. Besi Polos Krakatau Steel 4mm, 6mm, 8mm, 10mm, 12mm, 16mm, 18mm, 19mm Di Jatiuwung Tangerang
+### 1. Besi Polos Krakatau Steel 4mm, 6mm, 8mm, 10mm, 12mm, 16mm, 18mm, 19mm Di Jatiuwung Tangerang
 
 Besi polos memiliki ukuran mulai dari 8 mm sampai dengan 25 mm dan memiliki 6 meter panjang tekuk dan 12 meter panjang lurus. Besi beton ini sudah mulai diterapkan sebagai bahan utama di Indonesia pada tahun 1950. Besi ini acap kali kali dipakai untuk membangun sebuah gedung. Bahan yang mudah dipakai sehingga selain diterapkan untuk membangun rumah juga diterapkan untuk membangun trowongan, bendungan, dan lainnya. Saat diaplikasikan untuk membangun rumah bertingkat karenanya biasa besi polos ini diaplikasikan untuk struktur tulangan balok, dinding, dan sloof. Besi beton polos ini memiliki kelebihan besi polos ini tegangannya lebih tinggi dari pada besi lainnya. Sehingga besi ini terkesan lebih kuat dan tahan beban. Jadi pemakaian besi polos ini betul-betul layak untuk membangun gedung, jembatan, dan bangunan lainnya. Besi polos ini terbuat dari bahan seperti billet dan skrap. Billet yakni baja batangan yang cara kerja pembuatannya dengan mengecor biji besi. Jikalau skrap yaitu besi bekas yang dileburkan dengan temperature tertentu. Selain itu seandainya anda menggunakan besi polos ini tidak membutuhkan biaya pemeliharaan. Semakin lama diaplikasikan maka besi ini akan semakin kokoh.
 
-### 2\. Besi Ulir Full 4mm, 6mm, 8mm, 10mm, 12mm, 16mm, 18mm, 19mm Di Jatiuwung Tangerang
+### 2. Besi Ulir Full 4mm, 6mm, 8mm, 10mm, 12mm, 16mm, 18mm, 19mm Di Jatiuwung Tangerang
 
 Selaras dengan namanya besi beton ulir ini yakni besi yang karakternya mengulir. Pada permukaannya bercorak spiral yang memiliki tujuan untuk menyatukan gerigi besi dengan elemen bahan bangunan yang dibentuk oleh besi beton. Besi ulir ini mulai populer dipakai pada abad ke-20 di Amerika dan mulai populer di Indonesia pada tahun1950. Mengingat saat mengaplikasikan besi ulir ini memiliki banyak kelebihan mulai dari ketahanan bangunan serta lebih murah dan efisien. Produk besi ulir ini menjadi primadona pasar karena memiliki mutu yang terbaik di Indonesia dan mempunyai harga yang tinggi jikalau diperbandingkan dengan produk lainnya.
 
-### 3\. Besi WF dan H-Beam Banci Di Jatiuwung Tangerang
+### 3. Besi WF dan H-Beam Banci Di Jatiuwung Tangerang
 
 Besi Wide Flange (WF) ini adalah salah satu baja dengan struktural yang paling banyak dipakai untuk kontruksi baja. Jikalau anda membutuhkan besi baja Wide Flage dalam jumlah yang banyak atau sedikit maka silahkan cari toko besi yang terpercaya. Besi WF ini mempunyai kekuatan yang kokoh dan kokoh pada ketahanan tarik atau tekan. Maka dari itu besi ini menjadi elemen struktur yang mempunyai batasan yang paripurna untuk menahan muatan tekan aksial, tarik aksial, dan lentur dengan fasilitas pembangunan strukturnya. Baja Wide Flange (WF) ini mempunyai kepadatan yang tinggi tapi rasio berat antara kekuatan komponen Baja WF yang tinggi tetapi tdk terlalu berat yang berkaitan dengan kapasitas bobot. Selain dari itu menentukan jikalau kontruksi yang digunakan secara efisien. Sistem kontruksi baja WF ini kombinasi dari unsur struktur yang kompleks. Pada struktur ini memiliki tujuan membawa muatan yang aman dan tepat sasaran yang bekerja pada sebuah bangunan dan dikirim pada pondasinya. Gaya dan bobot yang bekerja ini termasuk beban pertikal, perbedaan suhu, horizontal, getaran dan lainnya. Pada sebuah bangunan baja, karenanya ada unsure yang bermanfaat menahan gaya lateral dan gravitasi.
 
-### 4\. Besi Holo Di Jatiuwung Tangerang
+### 4. Besi Holo Di Jatiuwung Tangerang
 
 Besi hollow yaitu besi yang diterapkan sebagai pembuatan kanopi, pagar, pintu besi dan lainnya. Bahan baku pembuatan besi Hollow ini lazimnya terbuat dari stainless, galvanis, dan besi baja. Tapi yang paling sering kali digunakan sebagai bahan baku yakni galvanis. Terdapat kelebihan yang anda peroleh dikala menerapkan kanopi, memasang pagar, teralis mengaplikasikan besi hollow:
 

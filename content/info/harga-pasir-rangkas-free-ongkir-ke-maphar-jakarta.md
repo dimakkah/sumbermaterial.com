@@ -25,7 +25,7 @@ menurut Standar Nasional Indonesia ( SK SNI - S - 04 - 1989 - F ; 28) di tuturka
 
 Syarat-Syarat Pasir yang Bagus Untuk Konstruksi Bangunan
 
-1.  Agregat Halus wajib terdiri dari butiran yang tajam dan keras dengan indeks kekerasan <2.2
+1.  Agregat Halus wajib terdiri dari butiran yang tajam dan keras dengan indeks kekerasan <2.2
 2. Seandainya diaplikasikan Natrium Sulfat komponen hancur maksimal 12%
 3. jikalau dipakai Magnesium Sulfat bagian halus optimal sepuluh persen
 4. Tidak boleh berisi tanah lebih dari lima persen
@@ -41,7 +41,6 @@ Syarat-Syarat Pasir yang Bagus Untuk Konstruksi Bangunan
 Setelah mengenal prasyarat pasir buat sebuah Bangunan, sekarang ini kita bahas Macam - Jenis Pasir Untuk Konstruksi Bangunan penjelasan nya sbb:
 
 - ### Pasir Model Cor dan Tempat Sumbernya Di Maphar Jakarta
-    
 
 Pasir ini lazim nya berwarna keabu-abuan dan tingkat kekasaran butiran nya lumayan tinggi. Namun jika anda mengepal nya dengan tangan tidak akan menggumpal dan akan buyar kembali. model pasir ini sangat lah baik untuk Pengecoran, Plesteran Dinding, Adukan Pondasi dan Adukan Pasangan Bata Pasir ini yaitu pasir untuk Rigid yakni butiran-butiran mineral keras dan tajam berukuran antara 0,075 – 5 mm, apabila terdapat butiran berukuran lebih kecil dari 0,063 mm tak lebih dari 5% berat. Pasir ini yaitu pasir untuk Cor hampir kerap dimanfaatkan untuk pekerjaan cor-coran struktur seperti kolom, balok dan pelat lantai.
 
@@ -59,21 +58,18 @@ Untuk menerima kekokohan Beton yang optimal maka pasir sepatutnya sanggup memenu
 ![Harga Pasir Rangkas Free Ongkir Ke Maphar Jakarta](/images/info/pasir-hitam-5.jpg)
 
 - ### Pasir Biasa Di Maphar Jakarta
-    
 
 ![Harga Pasir Rangkas Free Ongkir Ke Maphar Jakarta](/images/info/pasir-hitam-4.jpg)
 
 Pasir ini ekstra halus lagi dibandingi oleh pasir beton. sekiranya anda mengepal pasir ini karenanya akan menggumpal dan tak akan hancur kembali. pasir pasang biasa nya di gunakan untuk campuran pasir beton supaya tidak terlampau kasar dan bisa di manfaatkan untuk plesteran dinding.
 
 - ### Pasir Urug Untuk pemadatan lantai Di Maphar Jakarta
-    
 
 Di Antara ke dua pasir diatas pasir macam ini lebih halus lagi, sekiranya anda mengepal nya karenanya akan menggumpal dan tidak akan buyar lagi. tetapi pasir jenis
 
 Pada lazim nya pasir ini nyaris sama dengan pasir beton akan melainkan pasir ini mempunyai tingkat kekasaran yang tinggi, butiran - butiran nya lumayan besar dan agak banyak batuan nya. pada biasanya pasir ragam ini baik untuk bahan pengurugan lantai
 
 - ### Pasir Putih Tanpa Batu Untuk Hiasan Di Maphar Jakarta
-    
 
 1. **Pasir Putih Bangka**
 

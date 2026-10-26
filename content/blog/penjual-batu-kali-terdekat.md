@@ -17,8 +17,7 @@ draft: false
 
 {{< toc >}}
 
-
-### Memahami Batu Kali dan Kegunaannya
+## Memahami Batu Kali dan Kegunaannya
 
 Batu kali, atau sering disebut batu pondasi, adalah material alami yang banyak digunakan dalam konstruksi pondasi, terutama untuk bangunan tradisional. Bentuknya yang tidak beraturan membuatnya saling mengunci saat ditumpuk dan dicampur dengan semen, sehingga menghasilkan pondasi yang kuat dan stabil. Nah, kenapa sih batu kali ini masih banyak dicari? Karena selain kekuatannya, batu kali juga relatif ekonomis dibandingkan material pondasi lainnya.
 
@@ -28,10 +27,10 @@ Mitra, perlu Anda ketahui bahwa batu kali yang baik umumnya berasal dari batuan 
 
 Memilih batu kali yang tepat itu penting banget, lho. Jangan sampai salah pilih yang justru bikin pondasi jadi bermasalah. Berikut beberapa kriteria yang perlu diperhatikan:
 
-*   **Kekerasan dan Ketahanan:** Pastikan batu kali yang Anda pilih cukup keras dan tidak mudah pecah saat dipukul atau dibenturkan.
-*   **Bentuk dan Ukuran:** Pilih batu kali dengan bentuk yang tidak terlalu kecil dan ukuran yang bervariasi. Variasi ukuran akan membantu mengisi celah antar batu dengan lebih rapat.
-*   **Tekstur Permukaan:** Permukaan batu kali yang baik adalah yang kasar dan memiliki banyak tonjolan. Ini akan membantu semen menempel dengan lebih kuat.
-*   **Warna:** Warna batu kali yang baik umumnya abu-abu atau hitam. Hindari batu kali yang berwarna kemerahan atau kecoklatan karena biasanya memiliki kualitas yang kurang baik.
+- **Kekerasan dan Ketahanan:** Pastikan batu kali yang Anda pilih cukup keras dan tidak mudah pecah saat dipukul atau dibenturkan.
+- **Bentuk dan Ukuran:** Pilih batu kali dengan bentuk yang tidak terlalu kecil dan ukuran yang bervariasi. Variasi ukuran akan membantu mengisi celah antar batu dengan lebih rapat.
+- **Tekstur Permukaan:** Permukaan batu kali yang baik adalah yang kasar dan memiliki banyak tonjolan. Ini akan membantu semen menempel dengan lebih kuat.
+- **Warna:** Warna batu kali yang baik umumnya abu-abu atau hitam. Hindari batu kali yang berwarna kemerahan atau kecoklatan karena biasanya memiliki kualitas yang kurang baik.
 
 ![Contoh Batu Kali Berkualitas](/images/batu/batu-kali-pondasi-09.png)
 
@@ -43,12 +42,13 @@ Kami juga menyediakan berbagai material konstruksi lainnya seperti pasir, batu s
 
 ### Estimasi Biaya dan Cara Menghitung Kebutuhan Batu Kali
 
-Untuk memberikan gambaran, mari kita hitung estimasi kebutuhan batu kali untuk pondasi rumah sederhana dengan luas 6x8 meter dan kedalaman pondasi 70 cm. 
+Untuk memberikan gambaran, mari kita hitung estimasi kebutuhan batu kali untuk pondasi rumah sederhana dengan luas 6x8 meter dan kedalaman pondasi 70 cm.
 
 Asumsikan:
-*   Volume pondasi: 6 m x 8 m x 0.7 m = 33.6 m³
-*   Rasio campuran batu kali dan semen: 1:4 (1 bagian semen, 4 bagian batu kali)
-*   Kepadatan batu kali: 1600 kg/m³
+
+- Volume pondasi: 6 m x 8 m x 0.7 m = 33.6 m³
+- Rasio campuran batu kali dan semen: 1:4 (1 bagian semen, 4 bagian batu kali)
+- Kepadatan batu kali: 1600 kg/m³
 
 Maka, volume batu kali yang dibutuhkan adalah 80% dari total volume pondasi, yaitu 33.6 m³ x 0.8 = 26.88 m³.  Dengan kepadatan 1600 kg/m³, massa batu kali yang dibutuhkan adalah 26.88 m³ x 1600 kg/m³ = 43,008 kg.
 

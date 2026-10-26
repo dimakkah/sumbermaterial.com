@@ -16,7 +16,7 @@ dikala ini bahan yang diaplikasikan untuk mengisi dinding tempat tinggal, telah 
 
 ## Mengenal Macam-macam Bata
 
-### 1\. Bata Merah Standar & Jumbo Di Jatiasih Bekasi
+### 1. Bata Merah Standar & Jumbo Di Jatiasih Bekasi
 
 ![Harga Batako Putih Gratis Ongkir Ke Jatiasih Bekasi](/images/bata/bata-merah-oven-30.png)
 
@@ -26,7 +26,7 @@ Bata merah ini dihasilkan dari material tanah yang kemudian di press dan dipanas
 
 Bahan bangunan ini betul-betul tahan kepada panas dan cocok dibuat proteksi dari bahaya api. Bata merah ini pada biasanya memiliki ukuran panjang antara 17-23 cm dan lebar sekitar 7-11 cm, serta tebalnya 3-5 cm. memiliki ukuran yg lebih kecil akan memberi kemudahan dalam pelaksanaan pengangkutan dan dapat diaplikasikan untuk membentuk bidang kecil.
 
-### 2\. Batako Hitam dan Putih Di Jatiasih Bekasi
+### 2. Batako Hitam dan Putih Di Jatiasih Bekasi
 
 ![Harga Batako Putih Gratis Ongkir Ke Jatiasih Bekasi](/images/bata/batako-hitam-press-28.png)
 
@@ -34,7 +34,7 @@ Material bangunan tembok dari batako ini secara umum terbuat dari material Kompo
 
 Batako seperti ini mempunyai kelemahan seperti gampang pecah, lebih panas dan pengap. Berbeda dengan bata merah yang terbuat dari material tanah. Namun batako press ini cenderung lebih ringan daripada bata merah. Hasilnya akan tampak lebih halus dan ukurannya lebih presisi sekiranya dibandingi dengan bata merah. Batako trus Hitam ini memiliki ukuran panjang sekitar 36-40 cm, tinggi 18-20 cm dan tebal 8-10 cm. material ini acap kali dipilih karena untuk memperingan beban struktur bangunan, meminimalisir sisa material dan mempercepat pembangunan.
 
-### 3\. Bata Herbel Di Jatiasih Bekasi
+### 3. Bata Herbel Di Jatiasih Bekasi
 
 ![Harga Batako Putih Gratis Ongkir Ke Jatiasih Bekasi](/images/bata/bata-hebel-sni-05.png)
 
@@ -62,7 +62,7 @@ Segalanya tentu telah tahu fungsi utama batu bata mulai diterapkan untuk membiki
 
 Sistem memesan batu bata yg aman dan terpercaya:
 
-1.  Kerja pembayaran bisa anda lakukan secara COD atau dibayar di tempat ketika barang pesanan anda sudah datang di daerah
+1.  Kerja pembayaran bisa anda lakukan secara COD atau dibayar di tempat ketika barang pesanan anda sudah datang di daerah
 2. Silahkan memilih dan mempertimbangkan bahan batu bata yg anda inginkan
 3. Tentukan juga jumlah pesanan batu bata yg anda butuhkan dalam wujud bijian.
 4. Anda dapat menghubungi layanan telepon warung untuk mempermudah proses pemesanan

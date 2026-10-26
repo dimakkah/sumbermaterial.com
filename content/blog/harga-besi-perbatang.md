@@ -17,10 +17,9 @@ draft: false
 
 {{< toc >}}
 
-
 ## Memahami Jenis-Jenis Besi dan Pengaruhnya pada Harga Per Batang
 
-Mitra Sumber Material, sebelum membahas lebih jauh tentang harga, penting untuk memahami terlebih dahulu berbagai jenis besi yang umum digunakan dalam konstruksi. Perbedaan jenis besi ini akan sangat memengaruhi harga per batangnya. Secara umum, ada besi polos, besi ulir, besi WF (Wide Flange), dan besi hollow. 
+Mitra Sumber Material, sebelum membahas lebih jauh tentang harga, penting untuk memahami terlebih dahulu berbagai jenis besi yang umum digunakan dalam konstruksi. Perbedaan jenis besi ini akan sangat memengaruhi harga per batangnya. Secara umum, ada besi polos, besi ulir, besi WF (Wide Flange), dan besi hollow.
 
 Besi polos biasanya digunakan untuk keperluan yang tidak memerlukan kekuatan tarik yang tinggi, sementara besi ulir memiliki sirip ulir yang memberikan kekuatan tarik lebih baik, ideal untuk struktur beton bertulang. Besi WF sering digunakan untuk konstruksi rangka bangunan, sedangkan besi hollow cocok untuk aplikasi yang membutuhkan kekuatan ringan namun tetap kokoh.
 
@@ -33,7 +32,6 @@ Harga besi per batang tidaklah statis. Ada beberapa faktor yang memengaruhi fluk
 ![Tumpukan besi beton di area konstruksi](/images/blog/harga-besi-perbatang.jpg)
 
 Untuk memberikan gambaran, berikut adalah estimasi harga besi per batang (per April 2026 – harga bersifat estimasi dan dapat berubah sewaktu-waktu — hubungi Kami untuk penawaran terbaru dan paling akurat sesuai kebutuhan proyek Mitra):
-
 
 <table class="table">
   <caption>Estimasi Harga Besi Per Batang (April 2026)</caption>
@@ -48,7 +46,6 @@ Untuk memberikan gambaran, berikut adalah estimasi harga besi per batang (per Ap
     <tr><td>Besi Ulir</td><td>Diameter 12mm</td><td>Rp 75.000</td><td>IDR</td></tr>
   </tbody>
 </table>
-
 
 ## Tips Memilih Besi yang Tepat dan Mendapatkan Harga Terbaik
 

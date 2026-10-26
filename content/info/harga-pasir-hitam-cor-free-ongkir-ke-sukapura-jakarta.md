@@ -25,7 +25,7 @@ berdasarkan Standar Nasional Indonesia ( SK SNI - S - 04 - 1989 - F ; 28) di tut
 
 Syarat Pasir yang Bagus tuk Konstruksi
 
-1.  Agregat Halus semestinya terdiri dari butiran yang tajam dan keras dengan indeks kekerasan <2.2
+1.  Agregat Halus semestinya terdiri dari butiran yang tajam dan keras dengan indeks kekerasan <2.2
 2. bilamana dimanfaatkan Natrium Sulfat bagian hancur optimal dua belas persen
 3. jika diaplikasikan Magnesium Sulfat komponen halus maksimal sepuluh %
 4. Tak boleh berisi tanah lebih dari 5 persen
@@ -41,7 +41,6 @@ Syarat Pasir yang Bagus tuk Konstruksi
 sesudah tahu persis syarat pasir untuk suatu Bangunan, sekarang ini kita bahas Jenis - Ragam Pasir Untuk Bangunan penjelasan nya sbb:
 
 - ### Pasir untuk Cor Rigid Di Sukapura Jakarta
-    
 
 Pasir ini lazim nya berwarna coklat tua dan tingkat kekasaran butiran nya lumayan tinggi. Namun jikalau anda mengepal nya dengan tangan tidak akan lengket dan akan buyar kembali. model pasir ini sungguh-sungguh lah baik tuk Pengecoran, Plesteran Dinding, Adukan Pondasi dan Adukan Pasangan Bata Pasir ini yaitu pasir untuk Beton adalah butiran-butiran mineral keras dan tajam berukuran antara 0,075 – 5 mm, sekiranya terdapat butiran berukuran lebih kecil dari 0,063 mm tidak lebih dari 5% berat. Pasir ini yaitu pasir untuk Beton hampir acap kali dimanfaatkan untuk profesi cor-coran struktur seperti kolom, balok dan pelat lantai.
 
@@ -59,21 +58,18 @@ Untuk mendapatkan kekokohan Rigid yang optimal karenanya pasir semestinya bisa m
 ![Harga Pasir Hitam Cor Free Ongkir Ke Sukapura Jakarta](/images/info/pasir-hitam-8.jpg)
 
 - ### Pasir Untuk Pemasangan Batu, Pondasi, Bata, Ubin, Plester Di Sukapura Jakarta
-    
 
 ![Harga Pasir Hitam Cor Free Ongkir Ke Sukapura Jakarta](/images/info/jual-pasir-mundu.jpg)
 
 Pasir ini ekstra halus lagi diperbandingkan oleh pasir beton. apabila kamu mengepal pasir ini maka akan menggumpal dan tak akan hancur kembali. pasir pasang biasa nya di manfaatkan untuk adukan pasir beton supaya tak terlalu kasar dan dapat di manfaatkan untuk plesteran dinding.
 
 - ### Pasir Elod Untuk Pembuatan Batako Di Sukapura Jakarta
-    
 
 Di Antara ke dua pasir diatas pasir tipe ini lebih halus lagi, seandainya kamu mengepal nya maka akan menggumpal dan tak akan hancur lagi. namun pasir tipe
 
 Pada nya pasir ini nyaris sama dengan pasir beton akan melainkan pasir ini mempunyai tingkat kekasaran yg tinggi, butiran - butiran nya lumayan besar dan agak banyak batuan nya. pada biasanya pasir jenis ini baik tuk bahan pengurugan lantai
 
 - ### Pasir Putih Tanpa Ayak Untuk Pelester Di Sukapura Jakarta
-    
 
 1. **Pasir Putih Bangka**
 

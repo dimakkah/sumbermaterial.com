@@ -18,19 +18,19 @@ Tanpa adanya besi maka sebuah bangunan akan mudah retak dikala ada getaran kecil
 
 ## Seperti Ini Variasi-tipe Besi Di Manggarai Jakarta
 
-### 1\. Besi Polos KS 4mm, 6mm, 8mm, 10mm, 12mm, 16mm, 18mm, 19mm Di Manggarai Jakarta
+### 1. Besi Polos KS 4mm, 6mm, 8mm, 10mm, 12mm, 16mm, 18mm, 19mm Di Manggarai Jakarta
 
 Besi polos mempunyai ukuran mulai dari 8 mm sampai 25 mm dan mempunyai 6 meter panjang tekuk dan 12 meter panjang lurus. Besi beton ini sudah mulai diaplikasikan sebagai bahan utama di Indonesia pada tahun 1950. Besi ini sering kali digunakan untuk membangun tempat tinggal. Bahan yang mudah diterapkan sehingga selain dipakai untuk membangun tempat tinggal juga diaplikasikan untuk membangun trowongan, bendungan, dan lainnya. Dikala dipakai untuk membangun rumah bertingkat karenanya biasa besi polos ini digunakan untuk struktur tulangan balok, dinding, dan sloof. Besi beton polos ini mempunyai kelebihan besi polos ini tegangannya lebih tinggi dari pada besi lainnya. Oleh karena itu besi ini terkesan lebih kokoh dan tahan beban. Oleh karena itu pemakaian besi polos ini amat cocok untuk membangun gedung, jembatan, dan bangunan lainnya. Besi polos ini terbuat dari bahan seperti billet dan skrap. Billet adalah baja batangan yang proses pembuatannya dengan melebur biji besi. Apabila skrap yakni besi bekas yang dihancurkan dengan temperature tertentu. Selain dari itu apabila anda menerapkan besi polos ini tidak membutuhkan budget pemeliharaan. Kian lama diterapkan maka besi ini akan kian kokoh.
 
-### 2\. Besi Ulir Full 4mm, 6mm, 8mm, 10mm, 12mm, 16mm, 18mm, 19mm Di Manggarai Jakarta
+### 2. Besi Ulir Full 4mm, 6mm, 8mm, 10mm, 12mm, 16mm, 18mm, 19mm Di Manggarai Jakarta
 
 Sesuai dengan namanya besi beton ulir ini ialah besi yang tampilannya mengulir. Pada permukaannya bercorak spiral yang mempunyai tujuan untuk menyatukan tulangan dengan faktor bahan bangunan yang dibentuk oleh besi beton. Besi ulir ini mulai populer diterapkan pada abad ke-20 di Amerika dan mulai populer di Indonesia pada tahun1950. Mengingat saat menerapkan besi ulir ini memiliki banyak keunggulan mulai dari kekuatan bangunan serta lebih ekonomis dan efisien. Produk besi ulir ini menjadi primadona pasar karena memiliki mutu yang terbaik di Indonesia dan mempunyai harga yang tinggi jikalau dibandingi dengan produk lainnya.
 
-### 3\. Besi WF dan H-Beam KS Di Manggarai Jakarta
+### 3. Besi WF dan H-Beam KS Di Manggarai Jakarta
 
 Besi Wide Flange (WF) ini merupakan salah satu baja dengan struktural yang paling sering dipakai untuk kontruksi baja. Sekiranya anda memerlukan besi baja Wide Flage dalam quantitas yang banyak atau sedikit maka silahkan cari distributor besi yang terpercaya. Besi WF ini mempunyai kekuatan yang kokoh dan kuat pada kekuatan tarik atau tekan. Karenanya dari itu besi ini menjadi elemen struktur yang memiliki batasan yang sempurna untuk menopang muatan tekan aksial, tarik aksial, dan lentur dengan fasilitas pembangunan strukturnya. Baja Wide Flange (WF) ini mempunyai kepadatan yang tinggi melainkan rasio berat antara kekokohan bagian Baja WF yang tinggi namun tidak terlalu berat yang berhubungan dengan kapasitas muatan. Selain itu memastikan seandainya kontruksi yang diaplikasikan secara efisien. Cara kontruksi baja WF ini kombinasi dari faktor struktur yang kompleks. Pada struktur ini memiliki tujuan membawa beban yang aman dan efektif yang bekerja pada sebuah bangunan dan dikirim pada pondasinya. Gaya dan beban yang bekerja ini termasuk muatan pertikal, perbedaan temperatur, horizontal, getaran dan lainnya. Pada sebuah bangunan baja, maka ada unsure yang berguna menopang gaya lateral dan gravitasi.
 
-### 4\. Besi Hollow Di Manggarai Jakarta
+### 4. Besi Hollow Di Manggarai Jakarta
 
 Besi hollow yaitu besi yang digunakan sebagai pembuatan kanopi, pagar, pintu besi dan lainnya. Bahan baku pembuatan besi Hollow ini lazimnya terbuat dari stainless, galvanis, dan besi baja. Namun yang paling kerap kali diterapkan sebagai bahan baku yakni galvanis. Terdapat kelebihan yang anda temukan ketika mengaplikasikan kanopi, memasang pagar, teralis menerapkan besi hollow:
 

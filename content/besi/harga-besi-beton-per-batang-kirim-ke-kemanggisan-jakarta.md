@@ -18,19 +18,19 @@ Tanpa adanya besi maka sebuah bangunan akan mudah retak saat ada guncangan kecil
 
 ## Mengetahui Variasi-tipe Besi Di Kemanggisan Jakarta
 
-### 1\. Besi Polos SNI 4mm, 6mm, 8mm, 10mm, 12mm, 16mm, 18mm, 19mm Di Kemanggisan Jakarta
+### 1. Besi Polos SNI 4mm, 6mm, 8mm, 10mm, 12mm, 16mm, 18mm, 19mm Di Kemanggisan Jakarta
 
 Besi polos mempunyai ukuran mulai dari 8 mm sampai dengan 25 mm dan memiliki 6 meter panjang tekuk dan 12 meter panjang lurus. Besi beton ini sudah mulai diterapkan sebagai bahan utama di Indonesia pada tahun 1950. Besi ini kerap kali dipakai untuk membangun sebuah gedung. Bahan yang gampang digunakan sehingga selain dari digunakan untuk membangun bangunan beton juga diterapkan untuk membangun trowongan, bendungan, dan lainnya. Dikala diaplikasikan untuk membangun sebuah gedung bertingkat maka biasanya besi polos ini dipakai untuk struktur tulangan balok, dinding, dan sloof. Besi beton polos ini mempunyai kelebihan besi polos ini tegangannya lebih tinggi dari pada besi lainnya. Sehingga besi ini terkesan lebih kuat dan tahan beban. Oleh karena itu pemakaian besi polos ini amat sesuai untuk membangun gedung, jembatan, dan bangunan lainnya. Besi polos ini terbuat dari bahan seperti billet dan skrap. Billet yakni baja batangan yang cara kerja pembuatannya dengan melebur biji besi. Seandainya skrap ialah besi bekas yang dileburkan dengan temperature tertentu. Selain itu seandainya anda menggunakan besi polos ini tidak membutuhkan anggaran pemeliharaan. Kian lama diterapkan maka besi ini akan kian kokoh.
 
-### 2\. Besi Ulir Full 4mm, 6mm, 8mm, 10mm, 12mm, 16mm, 18mm, 19mm Di Kemanggisan Jakarta
+### 2. Besi Ulir Full 4mm, 6mm, 8mm, 10mm, 12mm, 16mm, 18mm, 19mm Di Kemanggisan Jakarta
 
 Cocok dengan namanya besi beton ulir ini ialah besi yang karakternya mengulir. Pada permukaannya bercorak spiral yang mempunyai tujuan untuk menyatukan tulangan dengan faktor bahan bangunan yang dibentuk oleh besi beton. Besi ulir ini mulai populer digunakan pada abad ke-20 di Amerika dan mulai populer di Indonesia pada tahun1950. Mengingat dikala menggunakan besi ulir ini mempunyai banyak kelebihan mulai dari ketahanan bangunan serta lebih hemat biaya dan efisien. Produk besi ulir ini menjadi paling laris di pasar sebab mempunyai kualitas yang terbaik di Indonesia dan memiliki harga yang tinggi kalau dibandingkan dengan produk lainnya.
 
-### 3\. Besi WF dan H-Beam Toleransi Di Kemanggisan Jakarta
+### 3. Besi WF dan H-Beam Toleransi Di Kemanggisan Jakarta
 
 Besi Wide Flange (WF) ini yaitu salah satu baja dengan struktural yang paling banyak diterapkan untuk kontruksi baja. Sekiranya anda membutuhkan besi baja Wide Flage dalam jumlah yang banyak atau sedikit karenanya silahkan cari penjual besi yang terpercaya. Besi WF ini mempunyai kekuatan yang kokoh dan kuat pada kekokohan tarik atau tekan. Karenanya dari itu besi ini menjadi faktor struktur yang mempunyai batasan yang paripurna untuk menahan beban tekan aksial, tarik aksial, dan lentur dengan fasilitas pembangunan strukturnya. Baja Wide Flange (WF) ini memiliki kepadatan yang tinggi tapi rasio berat antara kekokohan komponen Baja WF yang tinggi tapi tidak terlalu berat yang terkait dengan kapasitas muatan. Selain itu menetapkan seandainya kontruksi yang digunakan secara efisien. Metode kontruksi baja WF ini kombinasi dari unsur struktur yang kompleks. Pada struktur ini memiliki tujuan membawa muatan yang aman dan efektif yang bekerja pada sebuah bangunan dan dikirim pada pondasinya. Gaya dan muatan yang berefek ini termasuk muatan pertikal, perbedaan suhu, horizontal, getaran dan lainnya. Pada sebuah bangunan baja, karenanya ada unsure yang bermanfaat menopang gaya lateral dan gravitasi.
 
-### 4\. Besi Holow Di Kemanggisan Jakarta
+### 4. Besi Holow Di Kemanggisan Jakarta
 
 Besi hollow yakni besi yang dipakai sebagai pembuatan kanopi, pagar, pintu besi dan lainnya. Bahan baku pembuatan besi Hollow ini lazimnya terbuat dari stainless, galvanis, dan besi baja. Namun yang paling kerap digunakan sebagai bahan baku yaitu galvanis. Terdapat kelebihan yang anda temukan saat mengaplikasikan kanopi, menerapkan pagar, teralis menerapkan besi hollow:
 

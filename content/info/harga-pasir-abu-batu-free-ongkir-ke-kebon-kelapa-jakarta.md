@@ -25,7 +25,7 @@ menurut Standar Nasional Indonesia ( SK SNI - S - 04 - 1989 - F ; 28) di tuturka
 
 Syarat-Syarat Pasir yang Baik Untuk Konstruksi
 
-1.  Agregat Halus mesti terdiri dari butiran yang tajam dan keras dengan indeks kekerasan <2.2
+1.  Agregat Halus mesti terdiri dari butiran yang tajam dan keras dengan indeks kekerasan <2.2
 2. Bila diterapkan Natrium Sulfat bagian hancur maksimal 12%
 3. bila dipakai Magnesium Sulfat komponen halus maksimal 5 persen
 4. Tak boleh berisi lumpur lebih dari lima %
@@ -41,7 +41,6 @@ Syarat-Syarat Pasir yang Baik Untuk Konstruksi
 sesudah tahu persis prasyarat pasir untuk suatu Konstruksi Bangunan, saat ini kita bahas model - Ragam Pasir Untuk Bangunan penjelasan nya sbb:
 
 - ### Pasir Untuk Pengecoran Di Kebon Kelapa Jakarta
-    
 
 Pasir ini lazim nya berwarna hitam kemerahan dan tingkat pecahan butiran nya lumayan tinggi. Melainkan jika anda mengepal nya dengan tangan tidak akan menggumpal dan akan hancur kembali. ragam pasir ini sungguh-sungguh lah baik untuk Pengecoran, Plesteran Dinding, Adukan Pondasi dan Adukan Pasangan Bata Pasir ini yaitu pasir untuk Rigid yakni butiran-butiran mineral keras dan tajam berukuran antara 0,075 – 5 mm, sekiranya terdapat butiran berukuran lebih kecil dari 0,063 mm tak lebih dari 5% berat. Pasir ini yaitu pasir untuk Beton tak jarang digunakan untuk pekerjaan cor-coran struktur seperti kolom, balok dan pelat lantai.
 
@@ -59,21 +58,18 @@ Untuk mendapatkan kekuatan Cor yang maksimal karenanya pasir sepatutnya bisa mem
 ![Harga Pasir Abu Batu Free Ongkir Ke Kebon Kelapa Jakarta](/images/info/pasir-hitam-2.jpg)
 
 - ### Pasir Pasang Di Kebon Kelapa Jakarta
-    
 
 ![Harga Pasir Abu Batu Free Ongkir Ke Kebon Kelapa Jakarta](/images/info/jual-pasir-mundu-2.jpg)
 
 Pasir ini lebih halus lagi dibandingkan oleh pasir beton. jikalau anda mengepal pasir ini karenanya akan menggumpal dan tak akan buyar kembali. pasir pasang lazim nya di pakai untuk adukan pasir beton agar tidak terlalu kasar dan bisa di gunakan untuk plesteran dinding.
 
 - ### Pasir Urug Untuk Pembuatan Batako Di Kebon Kelapa Jakarta
-    
 
 Di Antara ke dua pasir diatas pasir tipe ini lebih halus lagi, sekiranya kalian mengepal nya akan menggumpal dan tak akan hancur lagi. melainkan pasir macam
 
 Pada lazim nya pasir ini nyaris sama dengan pasir beton namun pasir ini mempunyai tingkat kekasaran yg tinggi, butiran - butiran nya cukup besar dan agak banyak batuan nya. pada umumnya pasir ragam ini baik untuk bahan pemadatan lantai
 
 - ### Pasir Putih Tanpa Ayak Untuk Taman Bermain Di Kebon Kelapa Jakarta
-    
 
 1. **Pasir Putih Bangka**
 

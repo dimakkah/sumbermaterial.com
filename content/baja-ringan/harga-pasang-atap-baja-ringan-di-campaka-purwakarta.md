@@ -21,13 +21,13 @@ Pemasangan baja ringan untuk kebutuhan bangunan Anda bisa dilakukan dengan mudah
 
 Berikut beberapa alasan mengapa Anda sebaiknya mempertimbangkan baja ringan untuk atap dan kanopi rumah Anda:
 
- **Ramah Lingkungan:** Tidak perlu menebang pohon untuk mendapatkan kayu, sehingga Anda ikut berkontribusi dalam melestarikan alam.
- **Lebih Ekonomis:** Dibandingkan dengan kayu berkualitas tinggi, baja ringan umumnya lebih terjangkau. Pilihan cerdas untuk menekan biaya pembangunan.
- **Ringan dan Kuat:** Meskipun ringan, baja ringan memiliki kekuatan yang luar biasa, jauh lebih baik dari baja atau besi konvensional.
- **Perawatan Minimal:** Anda tidak perlu khawatir dengan perawatan berkala. Baja ringan tahan terhadap kerusakan dan korosi.
- **Pemasangan Cepat:** Proses pemasangan baja ringan lebih cepat dibandingkan material atap lainnya, menghemat waktu dan tenaga Anda.
- **Kualitas Terjamin:** Baja ringan yang kami gunakan berkualitas tinggi, terbuat dari zinc dan aluminium dengan standar keamanan 4 kali lebih baik daripada baja biasa.
- **Tahan Rayap:** Kerangka atap dan kanopi dari baja ringan dijamin tahan terhadap serangan rayap.
+- **Ramah Lingkungan:** Tidak perlu menebang pohon untuk mendapatkan kayu, sehingga Anda ikut berkontribusi dalam melestarikan alam.
+- **Lebih Ekonomis:** Dibandingkan dengan kayu berkualitas tinggi, baja ringan umumnya lebih terjangkau. Pilihan cerdas untuk menekan biaya pembangunan.
+- **Ringan dan Kuat:** Meskipun ringan, baja ringan memiliki kekuatan yang luar biasa, jauh lebih baik dari baja atau besi konvensional.
+- **Perawatan Minimal:** Anda tidak perlu khawatir dengan perawatan berkala. Baja ringan tahan terhadap kerusakan dan korosi.
+- **Pemasangan Cepat:** Proses pemasangan baja ringan lebih cepat dibandingkan material atap lainnya, menghemat waktu dan tenaga Anda.
+- **Kualitas Terjamin:** Baja ringan yang kami gunakan berkualitas tinggi, terbuat dari zinc dan aluminium dengan standar keamanan 4 kali lebih baik daripada baja biasa.
+- **Tahan Rayap:** Kerangka atap dan kanopi dari baja ringan dijamin tahan terhadap serangan rayap.
 
 ## Cara Menghitung Luas Rangka Baja Ringan Di Campaka Purwakarta
 

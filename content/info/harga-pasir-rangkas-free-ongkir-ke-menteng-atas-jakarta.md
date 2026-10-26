@@ -25,7 +25,7 @@ berdasarkan Standar Nasional Indonesia ( SK SNI - S - 04 - 1989 - F ; 28) di seb
 
 Prasyarat Pasir yang Baik buat Konstruksi Bangunan
 
-1.  Agregat Halus wajib terdiri dari butiran yg tajam dan keras dengan indeks kekerasan <2.2
+1.  Agregat Halus wajib terdiri dari butiran yg tajam dan keras dengan indeks kekerasan <2.2
 2. Seandainya dimanfaatkan Natrium Sulfat komponen hancur maksimal 12%
 3. Seandainya diterapkan Magnesium Sulfat bagian halus optimal sepuluh persen
 4. Tidak boleh memuat lumpur lebih dari 5 persen
@@ -41,7 +41,6 @@ Prasyarat Pasir yang Baik buat Konstruksi Bangunan
 sesudah memahami syarat pasir untuk suatu Bangunan, saat ini kita bahas model - Macam Pasir Untuk Konstruksi penjelasan nya berikut ini:
 
 - ### Pasir Cor Di Menteng Atas Jakarta
-    
 
 Pasir ini umum nya berwarna hitam gelap dan tingkat kekerasan butiran nya lumayan tinggi. Namun kalau anda mengepal nya dengan tangan tak akan lengket dan akan buyar kembali. jenis pasir ini amat lah bagus untuk Pengecoran, Plesteran Dinding, Adukan Pondasi dan Adukan Pasangan Bata Pasir ini yaitu pasir untuk Beton yaitu butiran-butiran mineral keras dan tajam berukuran antara 0,075 – 5 mm, jika terdapat butiran berukuran lebih kecil dari 0,063 mm tak lebih dari 5% berat. Pasir ini yaitu pasir untuk Beton sering kali diaplikasikan untuk pekerjaan cor-coran struktur seperti kolom, balok dan pelat lantai.
 
@@ -59,21 +58,18 @@ Untuk memperoleh kualitas Rigid yang optimal karenanya pasir patut mampu memenuh
 ![Harga Pasir Rangkas Free Ongkir Ke Menteng Atas Jakarta](/images/info/jual-pasir-cor-hitam.jpg)
 
 - ### Pasir Untuk Adukan Pasang Batu, Pondasi, Bata, Ubin, Plester Di Menteng Atas Jakarta
-    
 
 ![Harga Pasir Rangkas Free Ongkir Ke Menteng Atas Jakarta](/images/info/jual-pasir-mundu-2.jpg)
 
 Pasir ini ekstra halus lagi dibandingkan oleh pasir beton. kalau kamu mengepal pasir ini karenanya akan menggumpal dan tak akan hancur kembali. pasir pasang umum nya di pakai tuk campuran pasir beton agar tak kelewat kasar dan bisa di pakai untuk plesteran dinding.
 
 - ### Pasir Elod Untuk Dasaran Pemasangan Granit Di Menteng Atas Jakarta
-    
 
 Di Antara ke dua pasir diatas pasir macam ini lebih halus lagi, seandainya kamu mengepal nya akan menggumpal dan tak akan buyar lagi. melainkan pasir tipe
 
 Pada biasa nya pasir ini nyaris sama dgn pasir beton akan tapi pasir ini memiliki tingkat kekasaran yg tinggi, butiran - butiran nya cukup besar dan agak banyak batuan nya. pada lazimnya pasir ragam ini bagus untuk bahan pengurugan lantai
 
 - ### Pasir Putih Tanpa Batu Untuk Lapangan Voly Di Menteng Atas Jakarta
-    
 
 1. **Pasir Putih Bangka**
 

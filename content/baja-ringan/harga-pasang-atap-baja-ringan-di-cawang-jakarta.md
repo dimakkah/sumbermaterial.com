@@ -21,13 +21,13 @@ Proses pemasangan baja ringan untuk kebutuhan bangunan Anda sebenarnya cukup mud
 
 Yuk, kita bahas beberapa alasan penting mengapa Anda harus memilih baja ringan untuk kerangka atap dan kanopi:
 
- **Ramah Lingkungan:** Penggunaan baja ringan mengurangi kebutuhan akan kayu, yang berarti mengurangi penebangan pohon dan membantu melestarikan alam.
- **Lebih Ekonomis:** Dibandingkan dengan kerangka kayu, baja ringan menawarkan harga yang lebih terjangkau, terutama untuk bagian krusial bangunan seperti kerangka atap. Ini membantu menekan biaya pembangunan secara keseluruhan.
- **Ringan dan Kuat:** Baja ringan berbeda dengan baja atau besi konvensional yang berat. Baja ringan memiliki ketebalan tipis namun tetap kuat dan tahan lama untuk kerangka atap dan kanopi Anda.
- **Minim Perawatan:** Anda tidak perlu khawatir tentang perawatan rutin yang memakan waktu dan biaya. Baja ringan relatif bebas perawatan, memberikan ketenangan pikiran.
- **Pemasangan Cepat:** Proses pemasangan baja ringan lebih cepat dibandingkan bahan lain seperti kayu, menghemat waktu penyelesaian proyek Anda.
- **Kualitas Terjamin:** Baja ringan yang kami gunakan memiliki kualitas terjamin, terbuat dari zinc dan aluminium dengan sertifikasi keamanan 4 kali lebih baik daripada baja biasa. Kekuatannya pun luar biasa, mampu menahan beban berkilo-kilo.
- **Tahan Rayap:**  Anda tak perlu khawatir tentang serangan rayap, karena baja ringan sepenuhnya kebal terhadap hama ini.
+- **Ramah Lingkungan:** Penggunaan baja ringan mengurangi kebutuhan akan kayu, yang berarti mengurangi penebangan pohon dan membantu melestarikan alam.
+- **Lebih Ekonomis:** Dibandingkan dengan kerangka kayu, baja ringan menawarkan harga yang lebih terjangkau, terutama untuk bagian krusial bangunan seperti kerangka atap. Ini membantu menekan biaya pembangunan secara keseluruhan.
+- **Ringan dan Kuat:** Baja ringan berbeda dengan baja atau besi konvensional yang berat. Baja ringan memiliki ketebalan tipis namun tetap kuat dan tahan lama untuk kerangka atap dan kanopi Anda.
+- **Minim Perawatan:** Anda tidak perlu khawatir tentang perawatan rutin yang memakan waktu dan biaya. Baja ringan relatif bebas perawatan, memberikan ketenangan pikiran.
+- **Pemasangan Cepat:** Proses pemasangan baja ringan lebih cepat dibandingkan bahan lain seperti kayu, menghemat waktu penyelesaian proyek Anda.
+- **Kualitas Terjamin:** Baja ringan yang kami gunakan memiliki kualitas terjamin, terbuat dari zinc dan aluminium dengan sertifikasi keamanan 4 kali lebih baik daripada baja biasa. Kekuatannya pun luar biasa, mampu menahan beban berkilo-kilo.
+- **Tahan Rayap:**  Anda tak perlu khawatir tentang serangan rayap, karena baja ringan sepenuhnya kebal terhadap hama ini.
 
 ## Cara Menghitung Luas Rangka Baja Ringan Di Cawang Jakarta
 
@@ -64,15 +64,15 @@ Membahas harga jasa pasang baja ringan, ada banyak informasi di internet. Tapi t
 
 ### Parameter Besaran Biaya Layanan Pasang Baja Ringan
 
-### 1. Pembuatan Sketsa Desain
+#### 1. Pembuatan Sketsa Desain
 
 Harga juga dipengaruhi oleh desain atau pola sketsa yang dibuat oleh tim teknisi kami langsung di lokasi Anda. Sketsa ini penting untuk memastikan jumlah baja ringan yang dibutuhkan, menghindari sisa material yang tidak perlu. Pembuatan sketsa juga termasuk dalam perhitungan harga pasang baja ringan dari layanan kami.
 
-### 2. Menghitung Kebutuhan Rangka
+#### 2. Menghitung Kebutuhan Rangka
 
 Setelah Anda memiliki sketsa pemasangan, kami akan menghitung kebutuhan rangka yang perlu disiapkan untuk memperkirakan jumlah material baja ringan. Pada tahap ini, Anda bisa berkonsultasi dengan tim teknisi kami mengenai waktu dan kualitas setiap material.
 
-### 3. Menghitung Budget yang Dibutuhkan
+#### 3. Menghitung Budget yang Dibutuhkan
 
 Setelah pembuatan sketsa dan perhitungan rangka selesai, Anda bisa mendiskusikan perkiraan biaya total pemasangan baja ringan. Budget yang dibutuhkan tergantung pada beberapa faktor seperti jumlah rangka, luas area kerangka, material tambahan, biaya tenaga kerja, dan pengiriman. Mintalah rincian harga jasa pasang baja ringan agar Anda bisa menyiapkan budget dengan lebih baik. Anda juga bisa memilih jenis baja ringan, dari yang standar hingga yang berkualitas tinggi, setelah berkonsultasi dengan teknisi kami.
 

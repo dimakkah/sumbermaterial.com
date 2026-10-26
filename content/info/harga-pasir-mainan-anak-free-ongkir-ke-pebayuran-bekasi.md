@@ -25,7 +25,7 @@ berdasarkan Standar Nasional Indonesia ( SK SNI - S - 04 - 1989 - F ; 28) di seb
 
 Syarat Pasir yg Bagus buat Konstruksi
 
-1.  Agregat Halus harus terdiri dari butiran yang tajam dan keras dengan indeks kekerasan <2.2
+1.  Agregat Halus harus terdiri dari butiran yang tajam dan keras dengan indeks kekerasan <2.2
 2. bila digunakan Natrium Sulfat komponen hancur maksimal 12%
 3. kalau diaplikasikan Magnesium Sulfat komponen halus maksimal sepuluh persen
 4. Tak boleh berisi lumpur lebih dari lima %
@@ -41,7 +41,6 @@ Syarat Pasir yg Bagus buat Konstruksi
 sesudah memahami prasyarat pasir tuk sebuah Konstruksi, saat ini kita bahas Jenis - model Pasir Untuk Konstruksi Bangunan penjelasan nya sebagai berikut:
 
 - ### Pasir untuk Cor Rigid Di Pebayuran Bekasi
-    
 
 Pasir ini biasa nya berwarna coklat tua dan tingkat kekerasan butiran nya cukup tinggi. Tapi apabila anda mengepal nya dengan tangan tidak akan menggumpal dan akan buyar kembali. ragam pasir ini sangat lah baik tuk Pengecoran, Plesteran Dinding, Adukan Pondasi dan Adukan Pasangan Bata Pasir ini yaitu pasir untuk Beton merupakan butiran-butiran mineral keras dan tajam berukuran antara 0,075 – 5 mm, apabila terdapat butiran berukuran lebih kecil dari 0,063 mm tidak lebih dari 5% berat. Pasir ini yaitu pasir untuk Cor hampir sering diaplikasikan untuk pekerjaan cor-coran struktur seperti kolom, balok dan pelat lantai.
 
@@ -59,21 +58,18 @@ Untuk mendapatkan ketahanan Cor yang maksimal karenanya pasir harus bisa memenuh
 ![Harga Pasir Mainan Anak Free Ongkir Ke Pebayuran Bekasi](/images/info/pasir-hitam-2.jpg)
 
 - ### Pasir Untuk Adukan Pasang Batu, Pondasi, Bata, Ubin, Plester Di Pebayuran Bekasi
-    
 
 ![Harga Pasir Mainan Anak Free Ongkir Ke Pebayuran Bekasi](/images/info/jual-pasir-mundu-2.jpg)
 
 Pasir ini ekstra halus lagi diperbandingkan oleh pasir beton. kalau anda mengepal pasir ini karenanya akan menggumpal dan tak akan buyar kembali. pasir pasang lazim nya di gunakan buat campuran pasir beton supaya tidak terlalu kasar dan bisa di manfaatkan untuk plesteran dinding.
 
 - ### Pasir Kualitas rendah Untuk Pembuatan Batako Di Pebayuran Bekasi
-    
 
 Di Antara ke dua pasir diatas pasir model ini lebih halus lagi, jikalau anda mengepal nya karenanya akan menggumpal dan tidak akan buyar lagi. namun pasir tipe
 
 Pada nya pasir ini nyaris sama dengan pasir beton akan namun pasir ini memiliki tingkat kekasaran yang tinggi, butiran - butiran nya lumayan besar dan agak banyak batuan nya. pada biasanya pasir ragam ini bagus untuk bahan Pembuatan Batako
 
 - ### Pasir Putih Halus Untuk Pasang Keramik Di Pebayuran Bekasi
-    
 
 1. **Pasir Putih Bangka**
 

@@ -25,7 +25,7 @@ Berdasarkan Standar Nasional Indonesia ( SK SNI - S - 04 - 1989 - F ; 28) di seb
 
 Syarat Pasir yang Baik buat Konstruksi
 
-1.  Agregat Halus semestinya terdiri dari butiran yg tajam dan keras dengan indeks kekerasan <2.2
+1.  Agregat Halus semestinya terdiri dari butiran yg tajam dan keras dengan indeks kekerasan <2.2
 2. Jika diterapkan Natrium Sulfat komponen hancur optimal dua belas %
 3. bila digunakan Magnesium Sulfat komponen halus optimal 10%
 4. Tak boleh mengandung clay lebih dari 5%
@@ -41,7 +41,6 @@ Syarat Pasir yang Baik buat Konstruksi
 Setelah tahu persis prasyarat pasir untuk sebuah Konstruksi Bangunan, sekarang ini kita bahas Macam - model Pasir Untuk Konstruksi Bangunan penjelasan nya berikut ini:
 
 - ### Pasir Beton Di Tebet Jakarta
-    
 
 Pasir ini biasa nya berwarna hitam pekat dan tingkat kekasaran butiran nya lumayan tinggi. Melainkan jika anda mengepal nya dengan tangan tidak akan lengket dan akan buyar kembali. ragam pasir ini betul-betul lah bagus tuk Pengecoran, Plesteran Dinding, Adukan Pondasi dan Adukan Pasangan Bata Pasir ini yaitu pasir untuk Rigid merupakan butiran-butiran mineral keras dan tajam berukuran antara 0,075 – 5 mm, seandainya terdapat butiran berukuran lebih kecil dari 0,063 mm tidak lebih dari 5% berat. Pasir ini yaitu pasir untuk Cor sering kali diaplikasikan untuk pekerjaan cor-coran struktur seperti kolom, balok dan pelat lantai.
 
@@ -52,9 +51,9 @@ Harga Pasir Mainan Anak Free Ongkir Ke Tebet Jakarta Seandainya anda sebagai kon
 Pasir paling unggul diambil dari kp. jebrod cianjur jawa barat yang dipakai oleh indocement serta perusahaan batching plant lainnya sebagai bahan dasar produksi readymix concrete. Pasir ini paling disarankan untuk cor sebab irit semen juga mempunyai kandungan lumpur yang amat rendah dibawah delapan persen. warnanya Hitam abu tua atau hitam seperti hitamnya batu kali, ada juga yang hitam kemerahan atau hitam terasi
 
 3. **Pasir Hitam Beton Cimangkok.** Pasir dari Tempat penambangannya di cimangkok sukabumi jawa barat yang masih masuk pada klasifikasi pasir hitam kelas satu di jawa barat, warnanya hitam kecoklatan sesuai untuk cor, pasang pondasi dan bata
-    
+
     ![Harga Pasir Mainan Anak Free Ongkir Ke Tebet Jakarta](/images/info/pasir-hitam-2.jpg)
-    
+
 4. **Pasir Hitam Rigid Cimalaka Subang Bandung.**
 
 Pasir paling unggul yang berwarna hitam kebauan ada juga yang berwarna hitam abu tua. Banyak di aplikasikan untuk Rigid, pasang dan keperluan lainnya. Ditambang di kampung cimalaka
@@ -90,9 +89,9 @@ Kecuali Rangkasbitung, Banten juga mempunyai lokasi pnembangan pasir lain sepert
 Masih dari Lokasi di banten, pasir kelas tiga ini ialah pasir yang banyak diterapkan di proyek proyek perumahan atau cluster sebab harganya yang murah juga mutu yang baik. Warna pasir ini hitam kecoklatan dan keabuan benar-benar dianjurkan untuk pasang pondasi, bata, batu dsb
 
 27. **Pasir Hitam Cor Bohlam Sukabumi.** Pasir dari Daerah kp. bohlam di sukabumi berwarna hitam kecoklatan, betul-betul bagus untuk pasang bata, pondasi dan lainnya sebagai opsi pasir mutu bagus dan murah
-    
+
     ![Harga Pasir Mainan Anak Free Ongkir Ke Tebet Jakarta](/images/info/pasir-hitam-7.jpg)
-    
+
 28. **Pasir Rigid Galunggung.**
 
 Pasir ini yakni pasir hitam kwalitas paling unggul dikelasnya umum digunakan oleh pabrik pengolahan beton readymix juga perusahan pembuatan precast dan acap kali juga diterapkan untuk bahan pembuatan batako press hitam, paving block dan lain-lain. Pasir ini ditambang dari Tasikmalaya jabar.
@@ -100,21 +99,18 @@ Pasir ini yakni pasir hitam kwalitas paling unggul dikelasnya umum digunakan ole
 ![Harga Pasir Mainan Anak Free Ongkir Ke Tebet Jakarta](/images/info/pasir-hitam-1.jpg)
 
 - ### Pasir Untuk Pasang Batu, Pondasi, Bata, Ubin, Plester Di Tebet Jakarta
-    
 
 ![Harga Pasir Mainan Anak Free Ongkir Ke Tebet Jakarta](/images/info/pasir-putih12.jpg)
 
 Pasir ini ekstra halus lagi dibandingi oleh pasir beton. apabila kamu mengepal pasir ini karenanya akan menggumpal dan tidak akan buyar kembali. pasir pasang biasa nya di manfaatkan buat campuran pasir beton agar tidak kelewat kasar dan dapat di gunakan untuk plesteran dinding.
 
 - ### Pasir Elod Untuk pemadatan lantai Di Tebet Jakarta
-    
 
 Di Antara ke dua pasir diatas pasir macam ini lebih halus lagi, sekiranya anda mengepal nya maka akan menggumpal dan tidak akan hancur lagi. tetapi pasir tipe
 
 Pada nya pasir ini nyaris sama dengan pasir beton tapi pasir ini mempunyai tingkat kekasaran yg tinggi, butiran - butiran nya lumayan besar dan agak banyak batuan nya. pada umumnya pasir macam ini baik tuk bahan Pembuatan Batako
 
 - ### Pasir Putih Halus Untuk Lapangan Voly Di Tebet Jakarta
-    
 
 1. **Pasir Putih Bangka**
 

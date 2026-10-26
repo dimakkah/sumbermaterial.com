@@ -25,7 +25,7 @@ berdasarkan Standar Nasional Indonesia ( SK SNI - S - 04 - 1989 - F ; 28) di seb
 
 Persyaratan Pasir yang Bagus buat Konstruksi
 
-1.  Agregat Halus mesti terdiri dari butiran yang tajam dan keras dengan indeks kekerasan <2.2
+1.  Agregat Halus mesti terdiri dari butiran yang tajam dan keras dengan indeks kekerasan <2.2
 2. jika dimanfaatkan Natrium Sulfat komponen hancur maksimal 12 persen
 3. Jika digunakan Magnesium Sulfat komponen halus optimal sepuluh persen
 4. Tak boleh berisi tanah lebih dari 5%
@@ -41,7 +41,6 @@ Persyaratan Pasir yang Bagus buat Konstruksi
 Setelah tahu persis persyaratan pasir buat sebuah Bangunan, saat ini kita bahas Tipe - model Pasir Untuk Bangunan penjelasan nya sbb:
 
 - ### Pasir Cor Di Penggilingan Jakarta
-    
 
 Pasir ini lazim nya berwarna coklat tua dan tingkat kekerasan butiran nya lumayan tinggi. Tetapi jikalau anda mengepal nya dengan tangan tak akan lengket dan akan buyar kembali. macam pasir ini amat lah bagus buat Pengecoran, Plesteran Dinding, Adukan Pondasi dan Adukan Pasangan Bata Pasir ini yaitu pasir untuk Beton ialah butiran-butiran mineral keras dan tajam berukuran antara 0,075 – 5 mm, seandainya terdapat butiran berukuran lebih kecil dari 0,063 mm tidak lebih dari 5% berat. Pasir ini yaitu pasir untuk Rigid acap kali diaplikasikan untuk pekerjaan cor-coran struktur seperti kolom, balok dan pelat lantai.
 
@@ -59,21 +58,18 @@ Untuk mendapatkan kekokohan Rigid yang optimal maka pasir mesti sanggup memenuhi
 ![Harga Pasir Hitam Cor Free Ongkir Ke Penggilingan Jakarta](/images/info/pasir-hitam-5.jpg)
 
 - ### Pasir Standar Di Penggilingan Jakarta
-    
 
 ![Harga Pasir Hitam Cor Free Ongkir Ke Penggilingan Jakarta](/images/info/pasir-hitam-4.jpg)
 
 Pasir ini ekstra halus lagi dibandingi oleh pasir beton. apabila kamu mengepal pasir ini karenanya akan menggumpal dan tak akan buyar kembali. pasir pasang biasa nya di pakai buat campuran pasir beton agar tak kelewat kasar dan dapat di gunakan untuk plesteran dinding.
 
 - ### Pasir Kualitas rendah Untuk Dasaran Pemasangan Marmer Di Penggilingan Jakarta
-    
 
 Di Antara ke dua pasir diatas pasir tipe ini lebih halus lagi, kalau kamu mengepal nya akan menggumpal dan tak akan hancur lagi. namun pasir macam
 
 Pada nya pasir ini nyaris sama dengan pasir beton tetapi pasir ini memiliki tingkat kekasaran yang tinggi, butiran - butiran nya cukup besar dan agak banyak batuan nya. pada umumnya pasir tipe ini baik untuk bahan pemadatan lantai
 
 - ### Pasir Putih Kadar Lumpur Rendah Untuk Pasang Lantai Marmer Di Penggilingan Jakarta
-    
 
 1. **Pasir Putih Bangka**
 

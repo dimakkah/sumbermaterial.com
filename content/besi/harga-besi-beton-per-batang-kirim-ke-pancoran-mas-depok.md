@@ -18,19 +18,19 @@ Tanpa adanya besi maka sebuah bangunan akan mudah retak ketika ada guncangan kec
 
 ## Mengetahui Variasi-tipe Besi Di Pancoran Mas Depok
 
-### 1\. Besi Polos 4mm, 6mm, 8mm, 10mm, 12mm, 16mm, 18mm, 19mm Di Pancoran Mas Depok
+### 1. Besi Polos 4mm, 6mm, 8mm, 10mm, 12mm, 16mm, 18mm, 19mm Di Pancoran Mas Depok
 
 Besi polos mempunyai ukuran mulai dari 8 mm hingga 25 mm dan mempunyai 6 meter panjang tekuk dan 12 meter panjang lurus. Besi beton ini telah mulai diterapkan sebagai bahan utama di Indonesia pada tahun 1950. Besi ini kerap kali kali digunakan untuk membangun tempat tinggal. Bahan yang gampang diaplikasikan sehingga selain dari digunakan untuk membangun tempat tinggal juga diterapkan untuk membangun trowongan, bendungan, dan lainnya. Dikala diterapkan untuk membangun bangunan beton bertingkat karenanya biasa besi polos ini dipakai untuk struktur tulangan balok, dinding, dan sloof. Besi beton polos ini mempunyai kelebihan besi polos ini tegangannya lebih tinggi dari pada besi lainnya. Sehingga besi ini terkesan lebih kuat dan tahan beban. Jadi penerapan besi polos ini sangat sesuai untuk membangun gedung, jembatan, dan bangunan lainnya. Besi polos ini terbuat dari bahan seperti billet dan skrap. Billet merupakan baja batangan yang pengerjaan pembuatannya dengan mengecor biji besi. Kalau skrap ialah besi bekas yang dileburkan dengan temperature tertentu. Selain dari itu seandainya anda menerapkan besi polos ini tidak membutuhkan budget pemeliharaan. Semakin lama diterapkan maka besi ini akan semakin kokoh.
 
-### 2\. Besi Ulir SNI 4mm, 6mm, 8mm, 10mm, 12mm, 16mm, 18mm, 19mm Di Pancoran Mas Depok
+### 2. Besi Ulir SNI 4mm, 6mm, 8mm, 10mm, 12mm, 16mm, 18mm, 19mm Di Pancoran Mas Depok
 
 Cocok dengan namanya besi beton ulir ini adalah besi yang tampilannya mengulir. Pada permukaannya bercorak spiral yang memiliki tujuan untuk menyatukan gerigi besi dengan faktor bahan bangunan yang dibentuk oleh besi beton. Besi ulir ini mulai populer digunakan pada abad ke-20 di Amerika dan mulai populer di Indonesia pada tahun1950. Mengingat dikala memakai besi ulir ini mempunyai banyak keunggulan mulai dari kekuatan bangunan serta lebih murah dan efisien. Produk besi ulir ini menjadi andalan pasar karena memiliki kwalitas yang terbaik di Indonesia dan mempunyai harga yang tinggi bila diperbandingkan dengan produk lainnya.
 
-### 3\. Besi WF dan H-Beam Banci Di Pancoran Mas Depok
+### 3. Besi WF dan H-Beam Banci Di Pancoran Mas Depok
 
 Besi Wide Flange (WF) ini adalah salah satu baja dengan struktural yang paling banyak diterapkan untuk kontruksi baja. Bila anda memerlukan besi baja Wide Flage dalam jumlah yang banyak atau sedikit karenanya silahkan cari supplier besi yang terpercaya. Besi WF ini memiliki ketahanan yang kokoh dan kokoh pada kekuatan tarik atau tekan. Karenanya dari itu besi ini menjadi faktor struktur yang mempunyai batasan yang sempurna untuk menahan beban tekan aksial, tarik aksial, dan lentur dengan fasilitas pembangunan strukturnya. Baja Wide Flange (WF) ini mempunyai kepadatan yang tinggi tetapi rasio berat antara kekokohan bagian Baja WF yang tinggi namun tidak terlalu berat yang berkaitan dengan kapasitas muatan. Selain itu menetapkan apabila kontruksi yang diterapkan secara efisien. Metode kontruksi baja WF ini kombinasi dari elemen struktur yang rumit. Pada struktur ini mempunyai tujuan membawa bobot yang aman dan tepat sasaran yang bekerja pada sebuah bangunan dan dikirim pada pondasinya. Gaya dan bobot yang berefek ini termasuk beban pertikal, perbedaan suhu, horizontal, getaran dan lainnya. Pada sebuah bangunan baja, maka ada unsure yang bermanfaat menahan gaya lateral dan gravitasi.
 
-### 4\. Besi Holow Di Pancoran Mas Depok
+### 4. Besi Holow Di Pancoran Mas Depok
 
 Besi hollow yakni besi yang diaplikasikan sebagai pembuatan kanopi, pagar, pintu besi dan lainnya. Bahan baku pembuatan besi Hollow ini biasanya terbuat dari stainless, galvanis, dan besi baja. Tapi yang paling kerap kali digunakan sebagai bahan baku ialah galvanis. Terdapat kelebihan yang anda temukan ketika memasang kanopi, memasang pagar, teralis memakai besi hollow:
 

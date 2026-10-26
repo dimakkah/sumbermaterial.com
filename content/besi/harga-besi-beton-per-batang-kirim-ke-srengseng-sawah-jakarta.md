@@ -18,19 +18,19 @@ Tanpa adanya besi maka sebuah bangunan akan gampang retak saat ada getaran kecil
 
 ## Seperti Ini Jenis-jenis Besi Di Srengseng Sawah Jakarta
 
-### 1\. Besi Polos Toleransi 4mm, 6mm, 8mm, 10mm, 12mm, 16mm, 18mm, 19mm Di Srengseng Sawah Jakarta
+### 1. Besi Polos Toleransi 4mm, 6mm, 8mm, 10mm, 12mm, 16mm, 18mm, 19mm Di Srengseng Sawah Jakarta
 
 Besi polos memiliki ukuran mulai dari 8 mm hingga 25 mm dan mempunyai 6 meter panjang tekuk dan 12 meter panjang lurus. Besi beton ini sudah mulai dipakai sebagai bahan utama di Indonesia pada tahun 1950. Besi ini kerap kali diterapkan untuk membangun sebuah gedung. Bahan yang mudah dipakai sehingga selain dari diaplikasikan untuk membangun rumah juga digunakan untuk membangun trowongan, bendungan, dan lainnya. Ketika diterapkan untuk membangun tempat tinggal bertingkat karenanya biasa besi polos ini diaplikasikan untuk struktur tulangan balok, dinding, dan sloof. Besi beton polos ini mempunyai kelebihan besi polos ini tegangannya lebih tinggi dari pada besi lainnya. Oleh karena itu besi ini terkesan lebih kokoh dan tahan beban. Sehingga penerapan besi polos ini betul-betul pantas untuk membangun gedung, jembatan, dan bangunan lainnya. Besi polos ini terbuat dari bahan seperti billet dan skrap. Billet yakni baja batangan yang proses pembuatannya dengan melebur biji besi. Jikalau skrap ialah besi bekas yang dihancurkan dengan temperature tertentu. Selain itu sekiranya anda menerapkan besi polos ini tidak memerlukan biaya pemeliharaan. Semakin lama dipakai karenanya besi ini akan semakin kokoh.
 
-### 2\. Besi Ulir Krakatau Steel 4mm, 6mm, 8mm, 10mm, 12mm, 16mm, 18mm, 19mm Di Srengseng Sawah Jakarta
+### 2. Besi Ulir Krakatau Steel 4mm, 6mm, 8mm, 10mm, 12mm, 16mm, 18mm, 19mm Di Srengseng Sawah Jakarta
 
 Sesuai dengan namanya besi beton ulir ini yaitu besi yang tampilannya mengulir. Pada permukaannya bercorak spiral yang mempunyai tujuan untuk menyatukan tulangan dengan elemen bahan bangunan yang dibangun oleh besi beton. Besi ulir ini mulai populer diaplikasikan pada abad ke-20 di Amerika dan mulai populer di Indonesia pada tahun1950. Mengingat ketika menerapkan besi ulir ini memiliki banyak kelebihan mulai dari kekuatan bangunan serta lebih hemat biaya dan efisien. Produk besi ulir ini menjadi andalan pasar sebab mempunyai kwalitas yang terbaik di Indonesia dan mempunyai harga yang tinggi kalau dibandingi dengan produk lainnya.
 
-### 3\. Besi WF dan H-Beam Banci Di Srengseng Sawah Jakarta
+### 3. Besi WF dan H-Beam Banci Di Srengseng Sawah Jakarta
 
 Besi Wide Flange (WF) ini merupakan salah satu baja dengan struktural yang paling banyak diaplikasikan untuk kontruksi baja. Seandainya anda memerlukan besi baja Wide Flage dalam quantitas yang banyak atau sedikit karenanya silahkan cari toko besi yang terpercaya. Besi WF ini mempunyai kekuatan yang kokoh dan kokoh pada ketahanan tarik atau tekan. Karenanya dari itu besi ini menjadi faktor struktur yang mempunyai batasan yang paripurna untuk menopang beban tekan aksial, tarik aksial, dan lentur dengan fasilitas pembangunan strukturnya. Baja Wide Flange (WF) ini memiliki kepadatan yang tinggi namun rasio berat antara kekokohan komponen Baja WF yang tinggi tetapi tdk terlalu berat yang berhubungan dengan kapasitas beban. Selain itu menetapkan jikalau kontruksi yang digunakan secara efisien. Metode kontruksi baja WF ini kombinasi dari faktor struktur yang rumit. Pada struktur ini mempunyai tujuan membawa beban yang aman dan efektif yang berefek pada sebuah bangunan dan dikirim pada pondasinya. Gaya dan beban yang berefek ini termasuk muatan pertikal, perbedaan temperatur, horizontal, getaran dan lainnya. Pada sebuah bangunan baja, karenanya ada unsure yang berguna menahan gaya lateral dan gravitasi.
 
-### 4\. Besi Hollow Di Srengseng Sawah Jakarta
+### 4. Besi Hollow Di Srengseng Sawah Jakarta
 
 Besi hollow yaitu besi yang diaplikasikan sebagai pembuatan kanopi, pagar, pintu besi dan lainnya. Bahan baku pembuatan besi Hollow ini umumnya terbuat dari stainless, galvanis, dan besi baja. Tapi yang paling kerap kali digunakan sebagai bahan baku yakni galvanis. Terdapat kelebihan yang anda dapatkan ketika memasang kanopi, mengaplikasikan pagar, teralis menggunakan besi hollow:
 

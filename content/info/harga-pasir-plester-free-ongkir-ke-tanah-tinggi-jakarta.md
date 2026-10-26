@@ -25,7 +25,7 @@ Menurut Standar Nasional Indonesia ( SK SNI - S - 04 - 1989 - F ; 28) di sebutka
 
 Prasyarat Pasir yg Bagus Untuk Bangunan
 
-1.  Agregat Halus seharusnya terdiri dari butiran yang tajam dan keras dengan indeks kekerasan <2.2
+1.  Agregat Halus seharusnya terdiri dari butiran yang tajam dan keras dengan indeks kekerasan <2.2
 2. sekiranya diaplikasikan Natrium Sulfat komponen hancur optimal dua belas %
 3. apabila diaplikasikan Magnesium Sulfat komponen halus maksimal sepuluh %
 4. Tak boleh mengandung lumpur lebih dari lima persen
@@ -41,7 +41,6 @@ Prasyarat Pasir yg Bagus Untuk Bangunan
 Sesudah mengetahui syarat pasir untuk sebuah Bangunan, pada saat ini kita bahas Jenis - Tipe Pasir Untuk Bangunan penjelasan nya sbb:
 
 - ### Pasir Beton Di Tanah Tinggi Jakarta
-    
 
 Pasir ini biasa nya berwarna keabu-abuan dan tingkat pecahan butiran nya cukup tinggi. Namun sekiranya anda mengepal nya dengan tangan tidak akan menggumpal dan akan hancur kembali. ragam pasir ini betul-betul lah bagus buat Pengecoran, Plesteran Dinding, Adukan Pondasi dan Adukan Pasangan Bata Pasir ini yaitu pasir untuk Beton yakni butiran-butiran mineral keras dan tajam berukuran antara 0,075 – 5 mm, bila terdapat butiran berukuran lebih kecil dari 0,063 mm tak lebih dari 5% berat. Pasir ini yaitu pasir untuk Rigid sering diterapkan untuk pekerjaan cor-coran struktur seperti kolom, balok dan pelat lantai.
 
@@ -59,21 +58,18 @@ Untuk mendapatkan kekuatan Rigid yang maksimal maka pasir mesti dapat memenuhi s
 ![Harga Pasir Plester Free Ongkir Ke Tanah Tinggi Jakarta](/images/info/pasir-hitam-7.jpg)
 
 - ### Pasir Pasang Di Tanah Tinggi Jakarta
-    
 
 ![Harga Pasir Plester Free Ongkir Ke Tanah Tinggi Jakarta](/images/info/jual-pasir-mundu-2.jpg)
 
 Pasir ini lebih halus lagi dibandingi oleh pasir beton. seandainya kalian mengepal pasir ini karenanya akan menggumpal dan tidak akan buyar kembali. pasir pasang biasa nya di gunakan untuk adukan pasir beton agar tak terlalu kasar dan dapat di pakai untuk plesteran dinding.
 
 - ### Pasir Elod Untuk pengurugan lantai Di Tanah Tinggi Jakarta
-    
 
 Di Antara ke dua pasir diatas pasir tipe ini lebih halus lagi, jikalau anda mengepal nya maka akan menggumpal dan tak akan hancur lagi. tapi pasir jenis
 
 Pada umum nya pasir ini nyaris sama dgn pasir beton melainkan pasir ini memiliki tingkat kekasaran yang tinggi, butiran - butiran nya lumayan besar dan agak banyak batuan nya. pada umumnya pasir tipe ini baik untuk bahan pemadatan lantai
 
 - ### Pasir Putih Halus Untuk Pasang Lantai Marmer Di Tanah Tinggi Jakarta
-    
 
 1. **Pasir Putih Bangka**
 

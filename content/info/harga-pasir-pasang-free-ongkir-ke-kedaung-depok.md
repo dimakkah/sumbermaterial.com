@@ -25,7 +25,7 @@ Menurut Standar Nasional Indonesia ( SK SNI - S - 04 - 1989 - F ; 28) di sebutka
 
 Prasyarat Pasir yg Bagus tuk Bangunan
 
-1.  Agregat Halus mesti terdiri dari butiran yg tajam dan keras dengan indeks kekerasan <2.2
+1.  Agregat Halus mesti terdiri dari butiran yg tajam dan keras dengan indeks kekerasan <2.2
 2. bilamana diterapkan Natrium Sulfat bagian hancur maksimal 12 persen
 3. seandainya digunakan Magnesium Sulfat komponen halus optimal 10%
 4. Tidak boleh mengandung lumpur lebih dari lima persen
@@ -41,7 +41,6 @@ Prasyarat Pasir yg Bagus tuk Bangunan
 sesudah tahu persis prasyarat pasir buat suatu Konstruksi Bangunan, sekarang ini kita bahas model - Jenis Pasir Untuk Konstruksi penjelasan nya sebagai berikut:
 
 - ### Pasir Cor Di Kedaung Depok
-    
 
 Pasir ini umum nya berwarna keabu-abuan dan tingkat pecahan butiran nya lumayan tinggi. Melainkan kalau anda mengepal nya dengan tangan tak akan menggumpal dan akan hancur kembali. macam pasir ini amat lah bagus untuk Pengecoran, Plesteran Dinding, Adukan Pondasi dan Adukan Pasangan Bata Pasir ini yaitu pasir untuk Rigid yakni butiran-butiran mineral keras dan tajam berukuran antara 0,075 – 5 mm, bila terdapat butiran berukuran lebih kecil dari 0,063 mm tak lebih dari 5% berat. Pasir ini yaitu pasir untuk Cor hampir acap kali dimanfaatkan untuk pekerjaan cor-coran struktur seperti kolom, balok dan pelat lantai.
 
@@ -59,21 +58,18 @@ Untuk mendapatkan kekokohan Rigid yang optimal karenanya pasir harus sanggup mem
 ![Harga Pasir Pasang Free Ongkir Ke Kedaung Depok](/images/info/pasir-hitam-1.jpg)
 
 - ### Pasir Untuk Pasang Batu, Pondasi, Bata, Ubin, Plester Di Kedaung Depok
-    
 
 ![Harga Pasir Pasang Free Ongkir Ke Kedaung Depok](/images/info/jual-pasir-mundu.jpg)
 
 Pasir ini lebih halus lagi dibandingkan oleh pasir beton. seandainya anda mengepal pasir ini maka akan menggumpal dan tak akan buyar kembali. pasir pasang biasa nya di gunakan untuk adukan pasir beton agar tak terlalu kasar dan bisa di manfaatkan untuk plesteran dinding.
 
 - ### Pasir Kualitas rendah Untuk pengurugan lantai Di Kedaung Depok
-    
 
 Di Antara ke dua pasir diatas pasir jenis ini lebih halus lagi, kalau anda mengepal nya akan menggumpal dan tidak akan hancur lagi. melainkan pasir ragam tak baik tuk di buat sebagai bahan bangunan. pasir ragam ini pada umum nya di gunakan tuk Bahan Pembuatan Batako
 
 Pada umum nya pasir ini nyaris sama dgn pasir beton tapi pasir ini mempunyai tingkat kekasaran yang tinggi, butiran - butiran nya cukup besar dan agak banyak batuan nya. pada biasanya pasir macam ini bagus tuk bahan Pembuatan Batako
 
 - ### Pasir Putih Tanpa Batu Untuk Pengecoran Di Kedaung Depok
-    
 
 1. **Pasir Putih Bangka**
 

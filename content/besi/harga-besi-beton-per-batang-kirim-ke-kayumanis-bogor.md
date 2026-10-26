@@ -18,19 +18,19 @@ Dengan tidak adanya besi karenanya sebuah bangunan akan mudah retak saat ada gun
 
 ## Seperti Ini Jenis-jenis Besi Di Kayumanis Bogor
 
-### 1\. Besi Polos 4mm, 6mm, 8mm, 10mm, 12mm, 16mm, 18mm, 19mm Di Kayumanis Bogor
+### 1. Besi Polos 4mm, 6mm, 8mm, 10mm, 12mm, 16mm, 18mm, 19mm Di Kayumanis Bogor
 
 Besi polos mempunyai ukuran mulai dari 8 mm hingga 25 mm dan memiliki 6 meter panjang tekuk dan 12 meter panjang lurus. Besi beton ini sudah mulai digunakan sebagai bahan utama di Indonesia pada tahun 1950. Besi ini kerap kali kali dipakai untuk membangun tempat tinggal. Bahan yang mudah diterapkan sehingga selain digunakan untuk membangun rumah juga diterapkan untuk membangun trowongan, bendungan, dan lainnya. Dikala dipakai untuk membangun sebuah gedung bertingkat karenanya biasa besi polos ini dipakai untuk struktur tulangan balok, dinding, dan sloof. Besi beton polos ini memiliki keunggulan besi polos ini tegangannya lebih tinggi dari pada besi lainnya. Oleh karena itu besi ini terkesan lebih kokoh dan tahan beban. Oleh karena itu penerapan besi polos ini betul-betul pantas untuk membangun gedung, jembatan, dan bangunan lainnya. Besi polos ini terbuat dari bahan seperti billet dan skrap. Billet ialah baja batangan yang progres pembuatannya dengan melebur biji besi. Kalau skrap adalah besi bekas yang dileburkan dengan temperature tertentu. Selain dari itu seandainya anda memakai besi polos ini tidak membutuhkan anggaran pemeliharaan. Semakin lama digunakan maka besi ini akan kian kokoh.
 
-### 2\. Besi Ulir Toleransi 4mm, 6mm, 8mm, 10mm, 12mm, 16mm, 18mm, 19mm Di Kayumanis Bogor
+### 2. Besi Ulir Toleransi 4mm, 6mm, 8mm, 10mm, 12mm, 16mm, 18mm, 19mm Di Kayumanis Bogor
 
 Sesuai dengan namanya besi beton ulir ini merupakan besi yang karakternya mengulir. Pada permukaannya bercorak spiral yang mempunyai tujuan untuk menyatukan tulangan dengan faktor bahan bangunan yang dibangun oleh besi beton. Besi ulir ini mulai populer digunakan pada abad ke-20 di Amerika dan mulai populer di Indonesia pada tahun1950. Mengingat ketika mengaplikasikan besi ulir ini memiliki banyak keunggulan mulai dari kekokohan bangunan serta lebih ekonomis dan efisien. Produk besi ulir ini menjadi primadona pasar karena memiliki kwalitas yang terbaik di Indonesia dan mempunyai harga yang tinggi apabila dibandingi dengan produk lainnya.
 
-### 3\. Besi WF dan H-Beam Di Kayumanis Bogor
+### 3. Besi WF dan H-Beam Di Kayumanis Bogor
 
 Besi Wide Flange (WF) ini merupakan salah satu baja dengan struktural yang paling banyak diterapkan untuk kontruksi baja. Sekiranya anda membutuhkan besi baja Wide Flage dalam quantitas yang banyak atau sedikit maka silahkan cari distributor besi yang terpercaya. Besi WF ini mempunyai ketahanan yang kokoh dan kokoh pada ketahanan tarik atau tekan. Maka dari itu besi ini menjadi unsur struktur yang mempunyai batasan yang sempurna untuk menahan bobot tekan aksial, tarik aksial, dan lentur dengan fasilitas pembangunan strukturnya. Baja Wide Flange (WF) ini mempunyai kepadatan yang tinggi namun rasio berat antara kekokohan komponen Baja WF yang tinggi namun tdk begitu berat yang berkaitan dengan kapasitas bobot. Selain dari itu memastikan apabila kontruksi yang diaplikasikan secara efisien. Cara kontruksi baja WF ini kombinasi dari elemen struktur yang kompleks. Pada struktur ini mempunyai tujuan membawa muatan yang aman dan tepat sasaran yang berefek pada sebuah bangunan dan dikirim pada pondasinya. Gaya dan bobot yang bekerja ini termasuk beban pertikal, perbedaan suhu, horizontal, getaran dan lainnya. Pada sebuah bangunan baja, maka ada unsure yang berguna menopang gaya lateral dan gravitasi.
 
-### 4\. Besi Holow Di Kayumanis Bogor
+### 4. Besi Holow Di Kayumanis Bogor
 
 Besi hollow merupakan besi yang digunakan sebagai pembuatan kanopi, pagar, pintu besi dan lainnya. Bahan baku pembuatan besi Hollow ini biasanya terbuat dari stainless, galvanis, dan besi baja. Tapi yang paling tak jarang dipakai sebagai bahan baku yaitu galvanis. Terdapat kelebihan yang anda temukan saat memasang kanopi, memasang pagar, teralis menerapkan besi hollow:
 

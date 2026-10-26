@@ -18,7 +18,6 @@ draft: false
 
 {{< toc >}}
 
-
 ## Memahami Variasi Harga Batako Per Biji
 
 Harga batako per biji saat ini bisa sangat bervariasi, tergantung beberapa hal. Pertama, tentu saja ada perbedaan harga berdasarkan wilayah. Harga batako di Jabodetabek biasanya sedikit lebih tinggi dibandingkan di daerah lain di Jawa Barat, karena biaya transportasi dan operasional yang lebih besar. Kedua, kualitas batako juga memengaruhi harga. Batako yang dibuat dengan campuran semen dan pasir yang lebih berkualitas, serta proses pengeringan yang optimal, akan memiliki harga yang lebih tinggi. Ini sebanding dengan daya tahan dan kekuatan batako tersebut.
@@ -37,7 +36,6 @@ Kemudian, permintaan pasar juga memainkan peran penting. Jika ada lonjakan permi
 
 Untuk membantu Anda memperkirakan anggaran, berikut adalah perbandingan harga batako berdasarkan ukuran dan jenisnya (harga di Jabodetabek, estimasi saat ini):
 
-
 <table class="table">
   <caption>Perbandingan Harga Batako (Estimasi Saat Ini)</caption>
   <thead>
@@ -50,7 +48,6 @@ Untuk membantu Anda memperkirakan anggaran, berikut adalah perbandingan harga ba
     <tr><td>Batako Ringan (22x11x6 cm)</td><td>Rp 4.500 - Rp 6.000</td><td>Paling ringan, hemat biaya transportasi</td></tr>
   </tbody>
 </table>
-
 
 Harga ini bersifat estimasi dan dapat berubah sewaktu-waktu — hubungi Kami untuk penawaran terbaru dan paling akurat sesuai kebutuhan proyek Mitra. Anda juga bisa melihat referensi untuk [Harga Batako Putih: Kualitas dan Kisaran Harganya](/blog/harga-batako-putih/) untuk perbandingan material lain.
 

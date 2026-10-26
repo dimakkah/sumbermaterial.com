@@ -16,7 +16,7 @@ saat ini bahan yang digunakan untuk mengisi tembok tempat tinggal, sudah terdapa
 
 ## Mengenal Tipe-tipe Bata
 
-### 1\. Bata Merah Standar & Jumbo Di Pancoran Jakarta
+### 1. Bata Merah Standar & Jumbo Di Pancoran Jakarta
 
 ![Harga Batako 3 Lubang Gratis Ongkir Ke Pancoran Jakarta](/images/bata/bata-merah-oven-05.png)
 
@@ -26,7 +26,7 @@ Bata merah ini diciptakan dari bahan tanah yg kemudian di cetak dan dibakar dg t
 
 Bahan bangunan ini amat tahan terhadap panas dan sesuai dijadikan perlindungan dari bahaya api. Bata merah ini pada biasanya memiliki ukuran panjang antara 17-23 cm dan lebar sekitar 7-11 cm, serta tebalnya 3-5 cm. mempunyai ukuran yang lebih kecil akan memberi kemudahan dalam pelaksanaan pengangkutan dan dapat diterapkan untuk membentuk bidang kecil.
 
-### 2\. Batako Hitam dan Putih Di Pancoran Jakarta
+### 2. Batako Hitam dan Putih Di Pancoran Jakarta
 
 ![Harga Batako 3 Lubang Gratis Ongkir Ke Pancoran Jakarta](/images/bata/batako-hitam-press-27.png)
 
@@ -34,7 +34,7 @@ Material bangunan tembok dari batako trus ini secara umum terbuat dari bahan Kom
 
 Batako press seperti ini mempunyai kekurangan seperti mudah pecah, lebih panas dan pengap. Berbeda dengan bata merah yang terbuat dari bahan tanah. Tetapi batako ini cenderung lebih ringan daripada bata merah. Alhasil akan nampak lebih halus dan ukurannya lebih presisi seandainya dibandingi dengan bata merah. Batako press Hitam ini mempunyai ukuran panjang sekitar 36-40 cm, tinggi 18-20 cm dan tebal 8-10 cm. material ini sering kali dipilih sebab untuk memperingan muatan struktur bangunan, meminimalisir sisa bahan dan mempercepat pembangunan.
 
-### 3\. Bata Hebel Di Pancoran Jakarta
+### 3. Bata Hebel Di Pancoran Jakarta
 
 ![Harga Batako 3 Lubang Gratis Ongkir Ke Pancoran Jakarta](/images/bata/bata-hebel-sni-08.png)
 
@@ -62,7 +62,7 @@ Seluruhnya tentu sudah tahu kegunaan utama batu bata mulai diaplikasikan untuk m
 
 Sistem mengorder batu bata yang aman dan terpercaya:
 
-1.  Proses pembayaran bisa anda lakukan secara COD atau dibayar di tempat ketika barang pesanan anda sudah datang di tempat
+1.  Proses pembayaran bisa anda lakukan secara COD atau dibayar di tempat ketika barang pesanan anda sudah datang di tempat
 2. Silahkan memilih dan memutuskan material batu bata yang anda inginkan
 3. Tentukan juga jumlah pesanan batu bata yang anda butuhkan dalam format bijian.
 4. Anda bisa menghubungi layanan telepon warung untuk memudahkan pengerjaan pengorderan

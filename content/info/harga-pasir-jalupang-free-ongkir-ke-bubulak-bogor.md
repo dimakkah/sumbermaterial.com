@@ -25,7 +25,7 @@ berdasarkan Standar Nasional Indonesia ( SK SNI - S - 04 - 1989 - F ; 28) di seb
 
 Persyaratan Pasir yang Baik buat Bangunan
 
-1.  Agregat Halus harus terdiri dari butiran yg tajam dan keras dengan indeks kekerasan <2.2
+1.  Agregat Halus harus terdiri dari butiran yg tajam dan keras dengan indeks kekerasan <2.2
 2. bila dimanfaatkan Natrium Sulfat komponen hancur maksimal dua belas %
 3. seandainya diterapkan Magnesium Sulfat bagian halus optimal 10%
 4. Tak boleh memuat tanah lebih dari lima %
@@ -41,7 +41,6 @@ Persyaratan Pasir yang Baik buat Bangunan
 Setelah tahu persis prasyarat pasir tuk suatu Konstruksi, sekarang ini kita bahas Ragam - model Pasir Untuk Konstruksi penjelasan nya sbb:
 
 - ### Pasir Beton Di Bubulak Bogor
-    
 
 Pasir ini lazim nya berwarna keabu-abuan dan tingkat pecahan butiran nya lumayan tinggi. Melainkan sekiranya anda mengepal nya dengan tangan tidak akan lengket dan akan buyar kembali. ragam pasir ini sungguh-sungguh lah bagus buat Pengecoran, Plesteran Dinding, Adukan Pondasi dan Adukan Pasangan Bata Pasir ini yaitu pasir untuk Cor adalah butiran-butiran mineral keras dan tajam berukuran antara 0,075 – 5 mm, kalau terdapat butiran berukuran lebih kecil dari 0,063 mm tidak lebih dari 5% berat. Pasir ini yaitu pasir untuk Beton sering diterapkan untuk pekerjaan cor-coran struktur seperti kolom, balok dan pelat lantai.
 
@@ -59,21 +58,18 @@ Untuk mendapat kekokohan Rigid yang optimal karenanya pasir harus sanggup memenu
 ![Harga Pasir Jalupang Free Ongkir Ke Bubulak Bogor](/images/info/pasir-hitam-7.jpg)
 
 - ### Pasir Untuk Pasang Batu, Pondasi, Bata, Ubin, Plester Di Bubulak Bogor
-    
 
 ![Harga Pasir Jalupang Free Ongkir Ke Bubulak Bogor](/images/info/pasir-hitam-4.jpg)
 
 Pasir ini ekstra halus lagi dibandingkan oleh pasir beton. bila anda mengepal pasir ini karenanya akan menggumpal dan tidak akan buyar kembali. pasir pasang biasa nya di manfaatkan tuk adukan pasir beton supaya tak terlampau kasar dan bisa di gunakan untuk plesteran dinding.
 
 - ### Pasir Urug Untuk pemadatan lantai Di Bubulak Bogor
-    
 
 Di Antara ke dua pasir diatas pasir model ini lebih halus lagi, kalau kamu mengepal nya akan menggumpal dan tidak akan buyar lagi. namun pasir macam
 
 Pada umum nya pasir ini nyaris sama dgn pasir beton melainkan pasir ini mempunyai tingkat kekasaran yang tinggi, butiran - butiran nya lumayan besar dan agak banyak batuan nya. pada umumnya pasir model ini bagus untuk bahan dasaran pemasangan keramik
 
 - ### Pasir Putih Bebas Lumpur Untuk Pasang Lantai Marmer Di Bubulak Bogor
-    
 
 1. **Pasir Putih Bangka**
 

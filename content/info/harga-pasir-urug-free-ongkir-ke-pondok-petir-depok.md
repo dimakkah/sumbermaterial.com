@@ -25,7 +25,7 @@ Menurut Standar Nasional Indonesia ( SK SNI - S - 04 - 1989 - F ; 28) di tuturka
 
 Syarat-Syarat Pasir yg Bagus buat Bangunan
 
-1.  Agregat Halus mesti terdiri dari butiran yg tajam dan keras dengan indeks kekerasan <2.2
+1.  Agregat Halus mesti terdiri dari butiran yg tajam dan keras dengan indeks kekerasan <2.2
 2. bilamana dimanfaatkan Natrium Sulfat komponen hancur maksimal 12 persen
 3. sekiranya diterapkan Magnesium Sulfat komponen halus optimal sepuluh persen
 4. Tak boleh memuat tanah lebih dari lima persen
@@ -41,7 +41,6 @@ Syarat-Syarat Pasir yg Bagus buat Bangunan
 Setelah tahu persis syarat pasir untuk suatu Konstruksi, sekarang ini kita bahas Tipe - Ragam Pasir Untuk Bangunan penjelasan nya sbb:
 
 - ### Pasir Cor Di Pondok Petir Depok
-    
 
 Pasir ini lazim nya berwarna coklat tua dan tingkat kekerasan butiran nya cukup tinggi. Tapi seandainya anda mengepal nya dengan tangan tidak akan menggumpal dan akan hancur kembali. model pasir ini amat lah bagus buat Pengecoran, Plesteran Dinding, Adukan Pondasi dan Adukan Pasangan Bata Pasir ini yaitu pasir untuk Beton ialah butiran-butiran mineral keras dan tajam berukuran antara 0,075 – 5 mm, jikalau terdapat butiran berukuran lebih kecil dari 0,063 mm tak lebih dari 5% berat. Pasir ini yaitu pasir untuk Beton sering kali dimanfaatkan untuk profesi cor-coran struktur seperti kolom, balok dan pelat lantai.
 
@@ -59,21 +58,18 @@ Untuk memperoleh kekuatan Rigid yang optimal maka pasir semestinya dapat memenuh
 ![Harga Pasir Urug Free Ongkir Ke Pondok Petir Depok](/images/info/pasir-hitam-2.jpg)
 
 - ### Pasir Untuk Adukan Pasang Batu, Pondasi, Bata, Ubin, Plester Di Pondok Petir Depok
-    
 
 ![Harga Pasir Urug Free Ongkir Ke Pondok Petir Depok](/images/info/pasir-hitam-11.jpg)
 
 Pasir ini lebih halus lagi diperbandingkan oleh pasir beton. bila kamu mengepal pasir ini maka akan menggumpal dan tidak akan hancur kembali. pasir pasang biasa nya di manfaatkan buat adukan pasir beton agar tak terlampau kasar dan bisa di gunakan untuk plesteran dinding.
 
 - ### Pasir Kualitas rendah Untuk Pembuatan Batako Di Pondok Petir Depok
-    
 
 Di Antara ke dua pasir diatas pasir macam ini lebih halus lagi, jikalau kamu mengepal nya karenanya akan menggumpal dan tak akan hancur lagi. tapi pasir tipe
 
 Pada biasa nya pasir ini nyaris sama dgn pasir beton tapi pasir ini mempunyai tingkat kekasaran yang tinggi, butiran - butiran nya lumayan besar dan agak banyak batuan nya. pada umumnya pasir jenis ini bagus tuk bahan pemadatan lantai
 
 - ### Pasir Putih Bebas Lumpur Untuk Hiasan Di Pondok Petir Depok
-    
 
 1. **Pasir Putih Bangka**
 

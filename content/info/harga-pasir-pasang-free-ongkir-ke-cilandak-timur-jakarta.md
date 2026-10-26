@@ -25,7 +25,7 @@ menurut Standar Nasional Indonesia ( SK SNI - S - 04 - 1989 - F ; 28) di sebutka
 
 Syarat-Syarat Pasir yg Baik Untuk Konstruksi Bangunan
 
-1.  Agregat Halus harus terdiri dari butiran yg tajam dan keras dengan indeks kekerasan <2.2
+1.  Agregat Halus harus terdiri dari butiran yg tajam dan keras dengan indeks kekerasan <2.2
 2. Bila digunakan Natrium Sulfat bagian hancur optimal 12%
 3. apabila diterapkan Magnesium Sulfat komponen halus maksimal sepuluh persen
 4. Tidak boleh berisi lumpur lebih dari lima %
@@ -41,7 +41,6 @@ Syarat-Syarat Pasir yg Baik Untuk Konstruksi Bangunan
 sesudah memahami persyaratan pasir tuk sebuah Konstruksi Bangunan, saat ini kita bahas Ragam - Macam Pasir Untuk Konstruksi Bangunan penjelasan nya berikut ini:
 
 - ### Pasir Beton Di Cilandak Timur Jakarta
-    
 
 Pasir ini lazim nya berwarna hitam kemerahan dan tingkat kekasaran butiran nya lumayan tinggi. Melainkan jikalau anda mengepal nya dengan tangan tak akan menggumpal dan akan buyar kembali. jenis pasir ini benar-benar lah bagus tuk Pengecoran, Plesteran Dinding, Adukan Pondasi dan Adukan Pasangan Bata Pasir ini yaitu pasir untuk Cor yakni butiran-butiran mineral keras dan tajam berukuran antara 0,075 – 5 mm, seandainya terdapat butiran berukuran lebih kecil dari 0,063 mm tak lebih dari 5% berat. Pasir ini yaitu pasir untuk Rigid sering dipakai untuk pekerjaan cor-coran struktur seperti kolom, balok dan pelat lantai.
 
@@ -59,21 +58,18 @@ Untuk mendapatkan kekuatan Rigid yang optimal maka pasir sepatutnya bisa memenuh
 ![Harga Pasir Pasang Free Ongkir Ke Cilandak Timur Jakarta](/images/info/pasir-hitam-9.jpg)
 
 - ### Pasir Biasa Di Cilandak Timur Jakarta
-    
 
 ![Harga Pasir Pasang Free Ongkir Ke Cilandak Timur Jakarta](/images/info/pasir-hitam-4.jpg)
 
 Pasir ini ekstra halus lagi diperbandingkan oleh pasir beton. apabila kalian mengepal pasir ini maka akan menggumpal dan tidak akan hancur kembali. pasir pasang lazim nya di manfaatkan untuk adukan pasir beton agar tidak terlalu kasar dan dapat di pakai untuk plesteran dinding.
 
 - ### Pasir Kualitas rendah Untuk pengurugan lantai Di Cilandak Timur Jakarta
-    
 
 Di Antara ke dua pasir diatas pasir tipe ini lebih halus lagi, apabila anda mengepal nya akan menggumpal dan tak akan hancur lagi. tetapi pasir tipe
 
 Pada biasa nya pasir ini nyaris sama dengan pasir beton tetapi pasir ini mempunyai tingkat kekasaran yg tinggi, butiran - butiran nya cukup besar dan agak banyak batuan nya. pada lazimnya pasir ragam ini bagus tuk bahan dasaran pemasangan keramik
 
 - ### Pasir Putih Tanpa Batu Untuk Lapangan Voly Di Cilandak Timur Jakarta
-    
 
 1. **Pasir Putih Bangka**
 

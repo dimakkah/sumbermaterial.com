@@ -25,7 +25,7 @@ Berdasarkan Standar Nasional Indonesia ( SK SNI - S - 04 - 1989 - F ; 28) di seb
 
 Prasyarat Pasir yg Baik tuk Konstruksi Bangunan
 
-1.  Agregat Halus harus terdiri dari butiran yang tajam dan keras dengan indeks kekerasan <2.2
+1.  Agregat Halus harus terdiri dari butiran yang tajam dan keras dengan indeks kekerasan <2.2
 2. Jika diaplikasikan Natrium Sulfat bagian hancur optimal dua belas persen
 3. Kalau diaplikasikan Magnesium Sulfat bagian halus optimal 10%
 4. Tidak boleh memuat clay lebih dari lima persen
@@ -41,7 +41,6 @@ Prasyarat Pasir yg Baik tuk Konstruksi Bangunan
 sesudah memahami syarat pasir untuk sebuah Konstruksi Bangunan, saat ini kita bahas Tipe - Tipe Pasir Untuk Bangunan penjelasan nya berikut ini:
 
 - ### Pasir Cor Di Tirtamulya Karawang
-    
 
 Pasir ini lazim nya berwarna keabu-abuan dan tingkat kekasaran butiran nya cukup tinggi. Melainkan kalau anda mengepal nya dengan tangan tak akan lengket dan akan buyar kembali. ragam pasir ini sangat lah bagus buat Pengecoran, Plesteran Dinding, Adukan Pondasi dan Adukan Pasangan Bata Pasir ini yaitu pasir untuk Rigid merupakan butiran-butiran mineral keras dan tajam berukuran antara 0,075 – 5 mm, seandainya terdapat butiran berukuran lebih kecil dari 0,063 mm tidak lebih dari 5% berat. Pasir ini yaitu pasir untuk Rigid hampir tak jarang dimanfaatkan untuk pekerjaan cor-coran struktur seperti kolom, balok dan pelat lantai.
 
@@ -59,21 +58,18 @@ Untuk mendapat kualitas Rigid yang maksimal karenanya pasir mesti mampu memenuhi
 ![Harga Pasir Lampung Free Ongkir Ke Tirtamulya Karawang](/images/info/pasir-hitam-8.jpg)
 
 - ### Pasir Untuk Pasang Batu, Pondasi, Bata, Ubin, Plester Di Tirtamulya Karawang
-    
 
 ![Harga Pasir Lampung Free Ongkir Ke Tirtamulya Karawang](/images/info/pasir-putih12.jpg)
 
 Pasir ini ekstra halus lagi dibandingkan oleh pasir beton. sekiranya kalian mengepal pasir ini karenanya akan menggumpal dan tak akan hancur kembali. pasir pasang lazim nya di manfaatkan tuk campuran pasir beton agar tidak terlalu kasar dan bisa di manfaatkan untuk plesteran dinding.
 
 - ### Pasir Kualitas rendah Untuk pengurugan lantai Di Tirtamulya Karawang
-    
 
 Di Antara ke dua pasir diatas pasir ragam ini lebih halus lagi, kalau anda mengepal nya akan menggumpal dan tidak akan buyar lagi. melainkan pasir tipe
 
 Pada umum nya pasir ini nyaris sama dgn pasir beton namun pasir ini memiliki tingkat kekasaran yg tinggi, butiran - butiran nya lumayan besar dan agak banyak batuan nya. pada umumnya pasir tipe ini baik untuk bahan dasaran pemasangan keramik
 
 - ### Pasir Putih Bebas Lumpur Untuk Lapangan Voly Di Tirtamulya Karawang
-    
 
 1. **Pasir Putih Bangka**
 

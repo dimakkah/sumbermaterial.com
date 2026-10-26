@@ -16,7 +16,7 @@ dikala ini material yang diaplikasikan untuk mengisi dinding gedung, sudah terda
 
 ## Mengetahui Ragam Variasi Bata
 
-### 1\. Bata Merah Standar & Jumbo Di Paledang Bogor
+### 1. Bata Merah Standar & Jumbo Di Paledang Bogor
 
 ![Harga Batako Truss Gratis Ongkir Ke Paledang Bogor](/images/bata/bata-merah-oven-24.png)
 
@@ -26,7 +26,7 @@ Bata merah ini dijadikan dari material tanah yg kemudian di cetak dan dipanaskan
 
 Material bangunan ini sungguh-sungguh tahan kepada panas dan sesuai dijadikan pengamanan dari bahaya api. Bata merah ini pada biasanya memiliki ukuran panjang antara 17-23 cm dan lebar sekitar 7-11 cm, serta tebalnya 3-5 cm. mempunyai ukuran yang lebih kecil akan memberi kemudahan dalam pengerjaan pengangkutan dan bisa digunakan untuk menyusun bidang kecil.
 
-### 2\. Batako Hitam dan Putih Di Paledang Bogor
+### 2. Batako Hitam dan Putih Di Paledang Bogor
 
 ![Harga Batako Truss Gratis Ongkir Ke Paledang Bogor](/images/bata/batako-hitam-press-09.png)
 
@@ -34,7 +34,7 @@ Bahan bangunan dinding dari batako press ini secara lazimnya terbuat dari materi
 
 Batako trus seperti ini memiliki kelemahan seperti mudah pecah, lebih panas dan pengap. Berbeda dg bata merah yang terbuat dari bahan tanah. Namun batako ini cenderung lebih ringan daripada bata merah. Akibatnya akan terlihat lebih halus dan ukurannya lebih presisi seandainya dibandingkan dengan bata merah. Batako press Hitam ini memiliki ukuran panjang sekitar 36-40 cm, tinggi 18-20 cm dan tebal 8-10 cm. bahan ini sering dipilih karena untuk memperingan beban struktur bangunan, meminimalisir sisa material dan mempercepat pembangunan.
 
-### 3\. Bata Ringan Di Paledang Bogor
+### 3. Bata Ringan Di Paledang Bogor
 
 ![Harga Batako Truss Gratis Ongkir Ke Paledang Bogor](/images/bata/bata-hebel-sni-15.png)
 
@@ -62,7 +62,7 @@ Segalanya tentu sudah tahu kegunaan utama batu bata mulai digunakan untuk membik
 
 Sistem mengorder batu bata yg aman dan terpercaya:
 
-1.  Cara pembayaran bisa anda lakukan secara COD atau dibayar di daerah saat barang pesanan anda telah datang di daerah
+1.  Cara pembayaran bisa anda lakukan secara COD atau dibayar di daerah saat barang pesanan anda telah datang di daerah
 2. Silahkan memilih dan menetapkan material batu bata yg anda inginkan
 3. Tentukan juga jumlah pesanan batu bata yg anda butuhkan dalam bentuk bijian.
 4. Anda dapat menghubungi layanan telepon kios untuk mempermudah progres pemesanan

@@ -46,10 +46,10 @@ Perlu diingat, harga di atas belum termasuk biaya pengiriman. Biaya pengiriman a
 
 Memilih batako putih berkualitas adalah kunci untuk memastikan ketahanan dan keindahan bangunan Anda. Perhatikan beberapa hal berikut saat memilih batako:
 
-*   **Kekuatan:** Pastikan batako memiliki kekuatan yang cukup untuk menahan beban bangunan. Batako berkualitas baik biasanya memiliki kekuatan tekan minimal 75 kg/cm².
-*   **Kerapatan:** Batako yang padat dan tidak mudah hancur adalah indikasi kualitas yang baik.
-*   **Permukaan:** Permukaan batako harus rata dan tidak ada retakan atau cacat lainnya.
-*   **Warna:** Warna batako yang seragam juga menunjukkan kualitas yang baik.
+- **Kekuatan:** Pastikan batako memiliki kekuatan yang cukup untuk menahan beban bangunan. Batako berkualitas baik biasanya memiliki kekuatan tekan minimal 75 kg/cm².
+- **Kerapatan:** Batako yang padat dan tidak mudah hancur adalah indikasi kualitas yang baik.
+- **Permukaan:** Permukaan batako harus rata dan tidak ada retakan atau cacat lainnya.
+- **Warna:** Warna batako yang seragam juga menunjukkan kualitas yang baik.
 
 Untuk menghitung kebutuhan material batako putih, Anda perlu mengetahui luas dinding yang akan dibangun dan ukuran batako yang akan digunakan. Misalnya, jika Anda ingin membangun dinding dengan luas 10 meter persegi dan menggunakan batako ukuran 40x20x10 cm, maka Anda perlu menghitung jumlah batako yang dibutuhkan.
 

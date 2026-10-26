@@ -16,7 +16,7 @@ saat ini material yg dipakai untuk mengisi tembok rumah, sudah terdapat berjenis
 
 ## Mengenal Ragam Variasi Bata
 
-### 1\. Bata Merah Standar & Jumbo Di Tanah Abang Jakarta
+### 1. Bata Merah Standar & Jumbo Di Tanah Abang Jakarta
 
 ![Harga Batako Beton Gratis Ongkir Ke Tanah Abang Jakarta](/images/bata/bata-merah-oven-28.png)
 
@@ -26,7 +26,7 @@ Bata merah ini dijadikan dari material tanah yg kemudian di press dan dipanaskan
 
 Bahan bangunan ini amat kuat kepada panas dan layak dijadikan proteksi dari panas api. Bata merah ini pada umumnya mempunyai ukuran panjang antara 17-23 cm dan lebar sekitar 7-11 cm, serta tebalnya 3-5 cm. memiliki ukuran yg lebih kecil akan memberi kemudahan dalam pengerjaan pengangkutan dan dapat diterapkan untuk membentuk bidang kecil.
 
-### 2\. Batako Hitam dan Putih Di Tanah Abang Jakarta
+### 2. Batako Hitam dan Putih Di Tanah Abang Jakarta
 
 ![Harga Batako Beton Gratis Ongkir Ke Tanah Abang Jakarta](/images/bata/batako-hitam-press-09.png)
 
@@ -34,7 +34,7 @@ Material bangunan dinding dari batako ini secara biasa terbuat dari material Kom
 
 Batako trus seperti ini mempunyai kekurangan seperti gampang retak, lebih panas dan pengap. Berbeda dg bata merah yg terbuat dari bahan tanah. Namun batako ini cenderung lebih ringan ketimbang bata merah. Akhirnya akan kelihatan lebih halus dan ukurannya lebih presisi bila diperbandingkan dengan bata merah. Batako trus Hitam ini mempunyai ukuran panjang sekitar 36-40 cm, tinggi 18-20 cm dan tebal 8-10 cm. bahan ini kerap dipilih sebab untuk memperingan muatan struktur bangunan, meminimalisir sisa bahan dan mempermudah pembangunan.
 
-### 3\. Bata Ringan Di Tanah Abang Jakarta
+### 3. Bata Ringan Di Tanah Abang Jakarta
 
 ![Harga Batako Beton Gratis Ongkir Ke Tanah Abang Jakarta](/images/bata/bata-hebel-sni-07.png)
 
@@ -62,7 +62,7 @@ Segalanya tentu telah tahu fungsi utama batu bata mulai digunakan untuk membuat 
 
 Metode memesan batu bata yg aman dan terpercaya:
 
-1.  Cara pembayaran dapat anda lakukan secara COD atau dibayar di daerah dikala barang orderan anda telah datang di tempat
+1.  Cara pembayaran dapat anda lakukan secara COD atau dibayar di daerah dikala barang orderan anda telah datang di tempat
 2. Silahkan memilih dan menetapkan bahan batu bata yang anda inginkan
 3. Tentukan juga jumlah pesanan batu bata yang anda butuhkan dalam bentuk bijian.
 4. Anda bisa menghubungi layanan telepon toko untuk memudahkan proses pemesanan

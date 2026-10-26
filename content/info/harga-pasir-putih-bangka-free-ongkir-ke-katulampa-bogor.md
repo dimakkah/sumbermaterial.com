@@ -25,7 +25,7 @@ berdasarkan Standar Nasional Indonesia ( SK SNI - S - 04 - 1989 - F ; 28) di seb
 
 Syarat Pasir yg Bagus buat Bangunan
 
-1.  Agregat Halus wajib terdiri dari butiran yang tajam dan keras dengan indeks kekerasan <2.2
+1.  Agregat Halus wajib terdiri dari butiran yang tajam dan keras dengan indeks kekerasan <2.2
 2. sekiranya diterapkan Natrium Sulfat bagian hancur maksimal dua belas %
 3. Jika diaplikasikan Magnesium Sulfat bagian halus optimal 5 persen
 4. Tidak boleh berisi tanah lebih dari 5%
@@ -41,7 +41,6 @@ Syarat Pasir yg Bagus buat Bangunan
 sesudah mengenal syarat pasir tuk suatu Konstruksi, pada saat ini kita bahas Tipe - Macam Pasir Untuk Bangunan penjelasan nya berikut ini:
 
 - ### Pasir Untuk Beton Di Katulampa Bogor
-    
 
 Pasir ini biasa nya berwarna keabu-abuan dan tingkat pecahan butiran nya lumayan tinggi. Namun kalau anda mengepal nya dengan tangan tidak akan menggumpal dan akan buyar kembali. jenis pasir ini sangat lah baik tuk Pengecoran, Plesteran Dinding, Adukan Pondasi dan Adukan Pasangan Bata Pasir ini yaitu pasir untuk Beton merupakan butiran-butiran mineral keras dan tajam berukuran antara 0,075 – 5 mm, kalau terdapat butiran berukuran lebih kecil dari 0,063 mm tak lebih dari 5% berat. Pasir ini yaitu pasir untuk Beton tak jarang dimanfaatkan untuk pekerjaan cor-coran struktur seperti kolom, balok dan pelat lantai.
 
@@ -59,21 +58,18 @@ Untuk mendapatkan kualitas Cor yang optimal karenanya pasir seharusnya sanggup m
 ![Harga Pasir Putih Bangka Free Ongkir Ke Katulampa Bogor](/images/info/pasir-hitam-9.jpg)
 
 - ### Pasir Pasang Di Katulampa Bogor
-    
 
 ![Harga Pasir Putih Bangka Free Ongkir Ke Katulampa Bogor](/images/info/pasir-hitam-4.jpg)
 
 Pasir ini ekstra halus lagi dibandingkan oleh pasir beton. seandainya anda mengepal pasir ini maka akan menggumpal dan tak akan buyar kembali. pasir pasang biasa nya di pakai tuk adukan pasir beton agar tak terlalu kasar dan bisa di pakai untuk plesteran dinding.
 
 - ### Pasir Urug Untuk Dasaran Pemasangan Marmer Di Katulampa Bogor
-    
 
 Di Antara ke dua pasir diatas pasir ragam ini lebih halus lagi, kalau anda mengepal nya akan menggumpal dan tidak akan hancur lagi. tetapi pasir macam
 
 Pada umum nya pasir ini nyaris sama dgn pasir beton namun pasir ini memiliki tingkat kekasaran yang tinggi, butiran - butiran nya cukup besar dan agak banyak batuan nya. pada umumnya pasir macam ini bagus untuk bahan pemadatan lantai
 
 - ### Pasir Putih Halus Untuk Pasang Lantai Marmer Di Katulampa Bogor
-    
 
 1. **Pasir Putih Bangka**
 

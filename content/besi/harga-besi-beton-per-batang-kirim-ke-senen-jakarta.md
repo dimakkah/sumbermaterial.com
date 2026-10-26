@@ -18,19 +18,19 @@ Dengan tidak adanya besi maka sebuah bangunan akan gampang retak saat ada guncan
 
 ## Megenal Macam-macam Besi Di Senen Jakarta
 
-### 1\. Besi Polos Full 4mm, 6mm, 8mm, 10mm, 12mm, 16mm, 18mm, 19mm Di Senen Jakarta
+### 1. Besi Polos Full 4mm, 6mm, 8mm, 10mm, 12mm, 16mm, 18mm, 19mm Di Senen Jakarta
 
 Besi polos memiliki ukuran mulai dari 8 mm hingga 25 mm dan memiliki 6 meter panjang tekuk dan 12 meter panjang lurus. Besi beton ini telah mulai diterapkan sebagai bahan utama di Indonesia pada tahun 1950. Besi ini tak jarang kali digunakan untuk membangun sebuah gedung. Bahan yang gampang digunakan sehingga selain dari diaplikasikan untuk membangun bangunan beton juga diaplikasikan untuk membangun trowongan, bendungan, dan lainnya. Ketika diterapkan untuk membangun sebuah gedung bertingkat karenanya biasa besi polos ini diaplikasikan untuk struktur rangkaian besi balok, dinding, dan sloof. Besi beton polos ini memiliki kelebihan besi polos ini tegangannya lebih tinggi dari pada besi lainnya. Oleh karena itu besi ini terkesan lebih kuat dan tahan beban. Jadi pemakaian besi polos ini betul-betul sesuai untuk membangun gedung, jembatan, dan bangunan lainnya. Besi polos ini terbuat dari bahan seperti billet dan skrap. Billet yaitu baja batangan yang pengerjaan pembuatannya dengan mengecor biji besi. Sekiranya skrap yaitu besi bekas yang dihancurkan dengan temperature tertentu. Selain itu sekiranya anda menggunakan besi polos ini tdk memerlukan anggaran pemeliharaan. Semakin lama diaplikasikan karenanya besi ini akan kian kokoh.
 
-### 2\. Besi Ulir Full 4mm, 6mm, 8mm, 10mm, 12mm, 16mm, 18mm, 19mm Di Senen Jakarta
+### 2. Besi Ulir Full 4mm, 6mm, 8mm, 10mm, 12mm, 16mm, 18mm, 19mm Di Senen Jakarta
 
 Selaras dengan namanya besi beton ulir ini merupakan besi yang tampilannya mengulir. Pada permukaannya bercorak spiral yang memiliki tujuan untuk menyatukan tulangan dengan faktor bahan bangunan yang dibentuk oleh besi beton. Besi ulir ini mulai populer dipakai pada abad ke-20 di Amerika dan mulai populer di Indonesia pada tahun1950. Mengingat saat mengaplikasikan besi ulir ini memiliki banyak kelebihan mulai dari ketahanan bangunan serta lebih hemat biaya dan efisien. Produk besi ulir ini menjadi andalan pasar karena mempunyai mutu yang terbaik di Indonesia dan memiliki harga yang tinggi apabila dibandingi dengan produk lainnya.
 
-### 3\. Besi WF dan H-Beam Banci Di Senen Jakarta
+### 3. Besi WF dan H-Beam Banci Di Senen Jakarta
 
 Besi Wide Flange (WF) ini yaitu salah satu baja dengan struktural yang paling banyak dipakai untuk kontruksi baja. Sekiranya anda membutuhkan besi baja Wide Flage dalam jumlah yang banyak atau sedikit karenanya silahkan cari jual besi yang terpercaya. Besi WF ini memiliki kekuatan yang kokoh dan kokoh pada ketahanan tarik atau tekan. Maka dari itu besi ini menjadi elemen struktur yang mempunyai batasan yang paripurna untuk menahan muatan tekan aksial, tarik aksial, dan lentur dengan fasilitas pembangunan strukturnya. Baja Wide Flange (WF) ini mempunyai kepadatan yang tinggi tapi rasio berat antara ketahanan komponen Baja WF yang tinggi tapi tidak terlalu berat yang terkait dengan kapasitas muatan. Selain dari itu menentukan sekiranya kontruksi yang diterapkan secara efisien. Sistem kontruksi baja WF ini kombinasi dari unsur struktur yang rumit. Pada struktur ini mempunyai tujuan membawa bobot yang aman dan tepat sasaran yang bekerja pada sebuah bangunan dan dikirim pada pondasinya. Gaya dan beban yang bekerja ini termasuk bobot pertikal, perbedaan suhu, horizontal, getaran dan lainnya. Pada sebuah bangunan baja, maka ada unsure yang bermanfaat menopang gaya lateral dan gravitasi.
 
-### 4\. Besi Holo Di Senen Jakarta
+### 4. Besi Holo Di Senen Jakarta
 
 Besi hollow yaitu besi yang diterapkan sebagai pembuatan kanopi, pagar, pintu besi dan lainnya. Bahan baku pembuatan besi Hollow ini lazimnya terbuat dari stainless, galvanis, dan besi baja. Namun yang paling sering dipakai sebagai bahan baku merupakan galvanis. Terdapat kelebihan yang anda temukan dikala memasang kanopi, mengaplikasikan pagar, teralis mengaplikasikan besi hollow:
 

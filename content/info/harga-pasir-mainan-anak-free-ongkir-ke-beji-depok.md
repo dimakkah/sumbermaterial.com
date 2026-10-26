@@ -25,7 +25,7 @@ menurut Standar Nasional Indonesia ( SK SNI - S - 04 - 1989 - F ; 28) di tuturka
 
 Persyaratan Pasir yang Baik tuk Konstruksi Bangunan
 
-1.  Agregat Halus wajib terdiri dari butiran yang tajam dan keras dengan indeks kekerasan <2.2
+1.  Agregat Halus wajib terdiri dari butiran yang tajam dan keras dengan indeks kekerasan <2.2
 2. Sekiranya diterapkan Natrium Sulfat bagian hancur maksimal 12%
 3. seandainya digunakan Magnesium Sulfat bagian halus maksimal sepuluh %
 4. Tak boleh memuat clay lebih dari 5%
@@ -41,7 +41,6 @@ Persyaratan Pasir yang Baik tuk Konstruksi Bangunan
 sesudah mengetahui persyaratan pasir buat sebuah Bangunan, saat ini kita bahas model - Tipe Pasir Untuk Konstruksi penjelasan nya sbb:
 
 - ### Pasir Model Beton dan Tempat Penambangannya Di Beji Depok
-    
 
 Pasir ini umum nya berwarna hitam gelap dan tingkat kekasaran butiran nya cukup tinggi. Tetapi kalau anda mengepal nya dengan tangan tidak akan menggumpal dan akan buyar kembali. jenis pasir ini amat lah bagus untuk Pengecoran, Plesteran Dinding, Adukan Pondasi dan Adukan Pasangan Bata Pasir ini yaitu pasir untuk Beton merupakan butiran-butiran mineral keras dan tajam berukuran antara 0,075 – 5 mm, sekiranya terdapat butiran berukuran lebih kecil dari 0,063 mm tidak lebih dari 5% berat. Pasir ini yaitu pasir untuk Rigid tak jarang digunakan untuk pekerjaan cor-coran struktur seperti kolom, balok dan pelat lantai.
 
@@ -59,21 +58,18 @@ Untuk mendapatkan kekokohan Beton yang maksimal karenanya pasir mesti bisa memen
 ![Harga Pasir Mainan Anak Free Ongkir Ke Beji Depok](/images/info/pasir-hitam-7.jpg)
 
 - ### Pasir Standar Di Beji Depok
-    
 
 ![Harga Pasir Mainan Anak Free Ongkir Ke Beji Depok](/images/info/pasir-putih12.jpg)
 
 Pasir ini lebih halus lagi dibandingi oleh pasir beton. bila kamu mengepal pasir ini maka akan menggumpal dan tak akan hancur kembali. pasir pasang biasa nya di gunakan untuk campuran pasir beton agar tidak terlalu kasar dan bisa di manfaatkan untuk plesteran dinding.
 
 - ### Pasir Kualitas rendah Untuk pemadatan lantai Di Beji Depok
-    
 
 Di Antara ke dua pasir diatas pasir ragam ini lebih halus lagi, jika anda mengepal nya maka akan menggumpal dan tak akan buyar lagi. melainkan pasir macam
 
 Pada umum nya pasir ini nyaris sama dengan pasir beton melainkan pasir ini mempunyai tingkat kekasaran yg tinggi, butiran - butiran nya lumayan besar dan agak banyak batuan nya. pada biasanya pasir jenis ini bagus tuk bahan pemadatan lantai
 
 - ### Pasir Putih Kadar Lumpur Rendah Untuk Hiasan Di Beji Depok
-    
 
 1. **Pasir Putih Bangka**
 

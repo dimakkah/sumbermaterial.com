@@ -18,19 +18,19 @@ Tanpa adanya besi maka sebuah bangunan akan mudah retak dikala ada getaran kecil
 
 ## Seperti Ini Macam-macam Besi Di Lebakwangi Serang
 
-### 1\. Besi Polos SNI 4mm, 6mm, 8mm, 10mm, 12mm, 16mm, 18mm, 19mm Di Lebakwangi Serang
+### 1. Besi Polos SNI 4mm, 6mm, 8mm, 10mm, 12mm, 16mm, 18mm, 19mm Di Lebakwangi Serang
 
 Besi polos mempunyai ukuran mulai dari 8 mm sampai dengan 25 mm dan memiliki 6 meter panjang tekuk dan 12 meter panjang lurus. Besi beton ini sudah mulai diaplikasikan sebagai bahan utama di Indonesia pada tahun 1950. Besi ini tak jarang kali diaplikasikan untuk membangun tempat tinggal. Bahan yang gampang diterapkan sehingga selain dari digunakan untuk membangun sebuah gedung juga diterapkan untuk membangun trowongan, bendungan, dan lainnya. Ketika diaplikasikan untuk membangun bangunan beton bertingkat karenanya biasa besi polos ini diterapkan untuk struktur tulangan balok, dinding, dan sloof. Besi beton polos ini memiliki kelebihan besi polos ini tegangannya lebih tinggi dari pada besi lainnya. Oleh karena itu besi ini terkesan lebih kuat dan tahan beban. Oleh karena itu pemakaian besi polos ini sangat layak untuk membangun gedung, jembatan, dan bangunan lainnya. Besi polos ini terbuat dari bahan seperti billet dan skrap. Billet yakni baja batangan yang pelaksanaan pembuatannya dengan melebur biji besi. Jikalau skrap yaitu besi bekas yang dihancurkan dengan temperature tertentu. Selain itu sekiranya anda memakai besi polos ini tidak memerlukan anggaran pemeliharaan. Semakin lama diaplikasikan maka besi ini akan semakin kokoh.
 
-### 2\. Besi Ulir SNI 4mm, 6mm, 8mm, 10mm, 12mm, 16mm, 18mm, 19mm Di Lebakwangi Serang
+### 2. Besi Ulir SNI 4mm, 6mm, 8mm, 10mm, 12mm, 16mm, 18mm, 19mm Di Lebakwangi Serang
 
 Selaras dengan namanya besi beton ulir ini yakni besi yang bentuknya mengulir. Pada permukaannya bercorak spiral yang memiliki tujuan untuk menyatukan gerigi besi dengan elemen material bangunan yang dibentuk oleh besi beton. Besi ulir ini mulai populer diaplikasikan pada abad ke-20 di Amerika dan mulai populer di Indonesia pada tahun1950. Mengingat dikala memakai besi ulir ini mempunyai banyak kelebihan mulai dari kekuatan bangunan serta lebih ekonomis dan efisien. Produk besi ulir ini menjadi primadona pasar sebab memiliki kualitas yang terbaik di Indonesia dan memiliki harga yang tinggi jikalau dibandingi dengan produk lainnya.
 
-### 3\. Besi WF dan H-Beam Toleransi Di Lebakwangi Serang
+### 3. Besi WF dan H-Beam Toleransi Di Lebakwangi Serang
 
 Besi Wide Flange (WF) ini merupakan salah satu baja dengan struktural yang paling populer diaplikasikan untuk kontruksi baja. Apabila anda memerlukan besi baja Wide Flage dalam jumlah yang banyak atau sedikit karenanya silahkan cari penjual besi yang terpercaya. Besi WF ini mempunyai ketahanan yang kokoh dan kokoh pada kekokohan tarik atau tekan. Maka dari itu besi ini menjadi elemen struktur yang memiliki batasan yang sempurna untuk menopang beban tekan aksial, tarik aksial, dan lentur dengan fasilitas pembangunan strukturnya. Baja Wide Flange (WF) ini memiliki kepadatan yang tinggi tetapi rasio berat antara ketahanan bagian Baja WF yang tinggi tapi tidak terlalu berat yang terkait dengan kapasitas beban. Selain dari itu menetapkan jikalau kontruksi yang diaplikasikan secara efisien. Metode kontruksi baja WF ini kombinasi dari elemen struktur yang rumit. Pada struktur ini memiliki tujuan membawa muatan yang aman dan efektif yang berefek pada sebuah bangunan dan dikirim pada pondasinya. Gaya dan muatan yang berefek ini termasuk muatan pertikal, perbedaan suhu, horizontal, getaran dan lainnya. Pada sebuah bangunan baja, karenanya ada unsure yang berguna menahan gaya lateral dan gravitasi.
 
-### 4\. Besi Hollow Di Lebakwangi Serang
+### 4. Besi Hollow Di Lebakwangi Serang
 
 Besi hollow ialah besi yang diaplikasikan sebagai pembuatan kanopi, pagar, pintu besi dan lainnya. Bahan baku pembuatan besi Hollow ini biasanya terbuat dari stainless, galvanis, dan besi baja. Namun yang paling sering kali digunakan sebagai bahan baku adalah galvanis. Terdapat kelebihan yang anda peroleh saat memasang kanopi, menerapkan pagar, teralis memakai besi hollow:
 

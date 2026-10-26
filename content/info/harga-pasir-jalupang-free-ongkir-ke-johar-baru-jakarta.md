@@ -25,7 +25,7 @@ Menurut Standar Nasional Indonesia ( SK SNI - S - 04 - 1989 - F ; 28) di sebutka
 
 Persyaratan Pasir yg Baik Untuk Bangunan
 
-1.  Agregat Halus wajib terdiri dari butiran yg tajam dan keras dengan indeks kekerasan <2.2
+1.  Agregat Halus wajib terdiri dari butiran yg tajam dan keras dengan indeks kekerasan <2.2
 2. bilamana dimanfaatkan Natrium Sulfat komponen hancur optimal 12%
 3. bila digunakan Magnesium Sulfat komponen halus maksimal sepuluh %
 4. Tak boleh memuat clay lebih dari 5%
@@ -41,7 +41,6 @@ Persyaratan Pasir yg Baik Untuk Bangunan
 Setelah mengetahui prasyarat pasir buat sebuah Bangunan, sekarang ini kita bahas Macam - Ragam Pasir Untuk Konstruksi Bangunan penjelasan nya sbb:
 
 - ### Pasir Cor Di Johar Baru Jakarta
-    
 
 Pasir ini lazim nya berwarna keabu-abuan dan tingkat kekasaran butiran nya lumayan tinggi. Namun sekiranya anda mengepal nya dengan tangan tidak akan menggumpal dan akan buyar kembali. ragam pasir ini sungguh-sungguh lah baik buat Pengecoran, Plesteran Dinding, Adukan Pondasi dan Adukan Pasangan Bata Pasir ini yaitu pasir untuk Rigid yaitu butiran-butiran mineral keras dan tajam berukuran antara 0,075 – 5 mm, jika terdapat butiran berukuran lebih kecil dari 0,063 mm tidak lebih dari 5% berat. Pasir ini yaitu pasir untuk Rigid hampir kerap diaplikasikan untuk profesi cor-coran struktur seperti kolom, balok dan pelat lantai.
 
@@ -59,21 +58,18 @@ Untuk memperoleh kualitas Rigid yang maksimal maka pasir semestinya dapat memenu
 ![Harga Pasir Jalupang Free Ongkir Ke Johar Baru Jakarta](/images/info/pasir-hitam-8.jpg)
 
 - ### Pasir Pasang Di Johar Baru Jakarta
-    
 
 ![Harga Pasir Jalupang Free Ongkir Ke Johar Baru Jakarta](/images/info/jual-pasir-mundu-2.jpg)
 
 Pasir ini ekstra halus lagi dibandingi oleh pasir beton. seandainya kalian mengepal pasir ini karenanya akan menggumpal dan tak akan buyar kembali. pasir pasang lazim nya di gunakan buat campuran pasir beton supaya tak kelewat kasar dan bisa di gunakan untuk plesteran dinding.
 
 - ### Pasir Kualitas rendah Untuk Dasaran Pemasangan Marmer Di Johar Baru Jakarta
-    
 
 Di Antara ke dua pasir diatas pasir tipe ini lebih halus lagi, kalau anda mengepal nya akan menggumpal dan tak akan buyar lagi. namun pasir ragam tak baik untuk di buat sebagai bahan bangunan. pasir jenis ini pada nya di pergunakan untuk Bahan Pembuatan Batako
 
 Pada nya pasir ini nyaris sama dgn pasir beton namun pasir ini memiliki tingkat kekasaran yang tinggi, butiran - butiran nya cukup besar dan agak banyak batuan nya. pada biasanya pasir ragam ini bagus tuk bahan pengurugan lantai
 
 - ### Pasir Putih Kadar Lumpur Rendah Untuk Pasang Keramik Di Johar Baru Jakarta
-    
 
 1. **Pasir Putih Bangka**
 

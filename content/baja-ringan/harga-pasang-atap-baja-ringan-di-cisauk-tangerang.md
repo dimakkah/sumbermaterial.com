@@ -21,19 +21,19 @@ Pemasangan baja ringan untuk kebutuhan bangunan bisa diwujudkan dengan cukup mud
 
 Berikut beberapa alasan penting yang perlu Anda ketahui sebelum menghubungi kami, mengapa Anda sebaiknya memilih baja ringan sebagai kerangka atap dan *canopy*:
 
- **Ramah Lingkungan:** Baja ringan lebih ramah lingkungan karena Anda tidak memerlukan kayu yang berarti tidak perlu menebang pohon. Dengan menggunakan baja ringan, Anda turut serta melestarikan alam.
+- **Ramah Lingkungan:** Baja ringan lebih ramah lingkungan karena Anda tidak memerlukan kayu yang berarti tidak perlu menebang pohon. Dengan menggunakan baja ringan, Anda turut serta melestarikan alam.
 
- **Lebih Ekonomis:** Jika dibandingkan dengan kerangka kayu, baja ringan harganya lebih terjangkau. Kayu berkualitas tinggi tentu membutuhkan biaya yang lebih besar, terutama untuk bagian kerangka yang sangat penting bagi sebuah bangunan. Ini perlu Anda pertimbangkan untuk menekan biaya pembangunan.
+- **Lebih Ekonomis:** Jika dibandingkan dengan kerangka kayu, baja ringan harganya lebih terjangkau. Kayu berkualitas tinggi tentu membutuhkan biaya yang lebih besar, terutama untuk bagian kerangka yang sangat penting bagi sebuah bangunan. Ini perlu Anda pertimbangkan untuk menekan biaya pembangunan.
 
- **Ringan Namun Kuat:** Baja ringan berbeda dengan baja atau besi yang memiliki bobot dua kali lipatnya. Baja ringan tipis dan ringan, namun tetap sangat kuat untuk kerangka atap dan *canopy* rumah Anda.
+- **Ringan Namun Kuat:** Baja ringan berbeda dengan baja atau besi yang memiliki bobot dua kali lipatnya. Baja ringan tipis dan ringan, namun tetap sangat kuat untuk kerangka atap dan *canopy* rumah Anda.
 
- **Minim Perawatan:** Anda tidak perlu khawatir tentang kerusakan atau perawatan rutin. Baja ringan kami dirancang tahan lama dan akan membebaskan Anda dari pengeluaran perawatan tahunan.
+- **Minim Perawatan:** Anda tidak perlu khawatir tentang kerusakan atau perawatan rutin. Baja ringan kami dirancang tahan lama dan akan membebaskan Anda dari pengeluaran perawatan tahunan.
 
- **Pemasangan Cepat:** Pemasangan kerangka atap baja ringan lebih cepat dibandingkan material kayu atau lainnya. Ini adalah keuntungan signifikan jika Anda ingin menyelesaikan proyek dengan lebih efisien.
+- **Pemasangan Cepat:** Pemasangan kerangka atap baja ringan lebih cepat dibandingkan material kayu atau lainnya. Ini adalah keuntungan signifikan jika Anda ingin menyelesaikan proyek dengan lebih efisien.
 
- **Kualitas Terjamin:** Baja ringan yang kami gunakan bukan sembarangan – bahan utamanya adalah *zinc* dan aluminium yang telah memiliki sertifikasi keamanan 4 kali lebih baik dibandingkan baja biasa. Kekuatannya pun mampu menahan beban berkilo-kilo.
+- **Kualitas Terjamin:** Baja ringan yang kami gunakan bukan sembarangan – bahan utamanya adalah *zinc* dan aluminium yang telah memiliki sertifikasi keamanan 4 kali lebih baik dibandingkan baja biasa. Kekuatannya pun mampu menahan beban berkilo-kilo.
 
- **Tahan Rayap:** Kami menjamin kerangka atap dan *canopy* baja ringan ini tahan terhadap rayap.
+- **Tahan Rayap:** Kami menjamin kerangka atap dan *canopy* baja ringan ini tahan terhadap rayap.
 
 ## Metode Hitung Luas Rangka Baja Ringan Di Cisauk Tangerang
 
@@ -61,10 +61,10 @@ Membahas biaya jasa pasang baja ringan seringkali memunculkan banyak pertanyaan.
 
 (Catatan: Harga dapat diperbarui) Berikut adalah contoh perhitungan biaya jasa pasang baja ringan berdasarkan jenis pemasangan:
 
-*   *Canopy* dengan rangka baja ringan + Atap Polikarbonat Lite Rp. 285.000 / m<sup>2</sup>
-*   *Canopy* dengan rangka baja ringan + Atap Spandek Rp. 225.000 / m<sup>2</sup>
-*   *Canopy* dengan rangka baja ringan + Atap Gogreen Rp. 200.000 / m<sup>2</sup>
-*   Untuk perhitungan lainnya, silakan hubungi kami melalui kontak yang tersedia di *website* kami.
+- *Canopy* dengan rangka baja ringan + Atap Polikarbonat Lite Rp. 285.000 / m<sup>2</sup>
+- *Canopy* dengan rangka baja ringan + Atap Spandek Rp. 225.000 / m<sup>2</sup>
+- *Canopy* dengan rangka baja ringan + Atap Gogreen Rp. 200.000 / m<sup>2</sup>
+- Untuk perhitungan lainnya, silakan hubungi kami melalui kontak yang tersedia di *website* kami.
 
 Adapun Parameter Besaran Biaya Layanan Pasang Baja Ringan:
 
@@ -84,10 +84,10 @@ Setelah sketsa dan perhitungan rangka selesai, Anda dapat mendiskusikan perkiraa
 
 Berikut informasi detail mengenai harga jasa pasang baja ringan yang perlu Anda ketahui:
 
-*   Harga jasa kami sudah termasuk biaya pemasangan yang lebih ekonomis dan seringkali memberikan diskon menarik untuk konsumen.
-*   Harga yang kami tetapkan sudah mencakup biaya pemasangan, perhitungan, dan material yang digunakan.
-*   Kami selalu berusaha memberikan harga terbaik kepada Anda.
-*   Harga jasa pasang baja ringan dapat berubah sewaktu-waktu karena faktor fluktuasi harga material.
-*   Pembayaran dapat dilakukan dengan sistem *down payment* (DP) dan sisanya setelah pemasangan selesai.
+- Harga jasa kami sudah termasuk biaya pemasangan yang lebih ekonomis dan seringkali memberikan diskon menarik untuk konsumen.
+- Harga yang kami tetapkan sudah mencakup biaya pemasangan, perhitungan, dan material yang digunakan.
+- Kami selalu berusaha memberikan harga terbaik kepada Anda.
+- Harga jasa pasang baja ringan dapat berubah sewaktu-waktu karena faktor fluktuasi harga material.
+- Pembayaran dapat dilakukan dengan sistem *down payment* (DP) dan sisanya setelah pemasangan selesai.
 
 Untuk informasi lebih lanjut dan penawaran harga terbaik untuk proyek Anda di Cisauk Tangerang, jangan ragu untuk menghubungi kami! Kami siap membantu Anda mewujudkan atap yang kuat, aman, dan tahan lama.

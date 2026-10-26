@@ -18,19 +18,19 @@ Tanpa adanya besi karenanya sebuah bangunan akan mudah retak ketika ada getaran 
 
 ## Seperti Ini Macam-macam Besi Di Babelan Bekasi
 
-### 1\. Besi Polos KS 4mm, 6mm, 8mm, 10mm, 12mm, 16mm, 18mm, 19mm Di Babelan Bekasi
+### 1. Besi Polos KS 4mm, 6mm, 8mm, 10mm, 12mm, 16mm, 18mm, 19mm Di Babelan Bekasi
 
 Besi polos memiliki ukuran mulai dari 8 mm sampai 25 mm dan memiliki 6 meter panjang tekuk dan 12 meter panjang lurus. Besi beton ini telah mulai dipakai sebagai bahan utama di Indonesia pada tahun 1950. Besi ini tak jarang kali digunakan untuk membangun bangunan beton. Bahan yang mudah diaplikasikan sehingga selain digunakan untuk membangun rumah juga diterapkan untuk membangun trowongan, bendungan, dan lainnya. Saat diaplikasikan untuk membangun bangunan beton bertingkat karenanya biasa besi polos ini digunakan untuk struktur tulangan balok, dinding, dan sloof. Besi beton polos ini mempunyai keunggulan besi polos ini tegangannya lebih tinggi dari pada besi lainnya. Jadi besi ini terkesan lebih kuat dan tahan beban. Sehingga pengaplikasian besi polos ini betul-betul layak untuk membangun gedung, jembatan, dan bangunan lainnya. Besi polos ini terbuat dari bahan seperti billet dan skrap. Billet merupakan baja batangan yang progres pembuatannya dengan melebur biji besi. Apabila skrap yakni besi bekas yang dileburkan dengan temperature tertentu. Selain itu jika anda memakai besi polos ini tdk memerlukan biaya pemeliharaan. Semakin lama diaplikasikan karenanya besi ini akan kian kokoh.
 
-### 2\. Besi Ulir Krakatau Steel 4mm, 6mm, 8mm, 10mm, 12mm, 16mm, 18mm, 19mm Di Babelan Bekasi
+### 2. Besi Ulir Krakatau Steel 4mm, 6mm, 8mm, 10mm, 12mm, 16mm, 18mm, 19mm Di Babelan Bekasi
 
 Sesuai dengan namanya besi beton ulir ini adalah besi yang bentuknya mengulir. Pada permukaannya bercorak spiral yang memiliki tujuan untuk menyatukan gerigi besi dengan elemen bahan bangunan yang dibentuk oleh besi beton. Besi ulir ini mulai populer digunakan pada abad ke-20 di Amerika dan mulai populer di Indonesia pada tahun1950. Mengingat ketika menggunakan besi ulir ini mempunyai banyak kelebihan mulai dari ketahanan bangunan serta lebih hemat biaya dan efisien. Produk besi ulir ini menjadi primadona pasar sebab mempunyai mutu yang terbaik di Indonesia dan mempunyai harga yang tinggi jikalau dibandingi dengan produk lainnya.
 
-### 3\. Besi WF dan H-Beam KS Di Babelan Bekasi
+### 3. Besi WF dan H-Beam KS Di Babelan Bekasi
 
 Besi Wide Flange (WF) ini adalah salah satu baja dengan struktural yang paling banyak digunakan untuk kontruksi baja. Apabila anda membutuhkan besi baja Wide Flage dalam jumlah yang banyak atau sedikit maka silahkan cari distributor besi yang terpercaya. Besi WF ini mempunyai kekuatan yang kokoh dan kokoh pada kekokohan tarik atau tekan. Maka dari itu besi ini menjadi faktor struktur yang mempunyai batasan yang paripurna untuk menahan beban tekan aksial, tarik aksial, dan lentur dengan fasilitas pembangunan strukturnya. Baja Wide Flange (WF) ini mempunyai kepadatan yang tinggi tetapi rasio berat antara kekuatan bagian Baja WF yang tinggi namun tdk terlalu berat yang terkait dengan kapasitas beban. Selain dari itu menetapkan sekiranya kontruksi yang digunakan secara efisien. Sistem kontruksi baja WF ini kombinasi dari faktor struktur yang rumit. Pada struktur ini memiliki tujuan membawa bobot yang aman dan tepat sasaran yang berefek pada sebuah bangunan dan dikirim pada pondasinya. Gaya dan muatan yang bekerja ini termasuk beban pertikal, perbedaan temperatur, horizontal, getaran dan lainnya. Pada sebuah bangunan baja, maka ada unsure yang bermanfaat menahan gaya lateral dan gravitasi.
 
-### 4\. Besi Holow Di Babelan Bekasi
+### 4. Besi Holow Di Babelan Bekasi
 
 Besi hollow yaitu besi yang digunakan sebagai pembuatan kanopi, pagar, pintu besi dan lainnya. Bahan baku pembuatan besi Hollow ini umumnya terbuat dari stainless, galvanis, dan besi baja. Tapi yang paling tak jarang diaplikasikan sebagai bahan baku adalah galvanis. Terdapat kelebihan yang anda temukan dikala menerapkan kanopi, menerapkan pagar, teralis mengaplikasikan besi hollow:
 

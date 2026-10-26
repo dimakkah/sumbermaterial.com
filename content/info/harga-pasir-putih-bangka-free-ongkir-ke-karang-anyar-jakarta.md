@@ -25,7 +25,7 @@ berdasarkan Standar Nasional Indonesia ( SK SNI - S - 04 - 1989 - F ; 28) di tut
 
 Prasyarat Pasir yg Baik Untuk Bangunan
 
-1.  Agregat Halus sepatutnya terdiri dari butiran yang tajam dan keras dengan indeks kekerasan <2.2
+1.  Agregat Halus sepatutnya terdiri dari butiran yang tajam dan keras dengan indeks kekerasan <2.2
 2. bilamana diterapkan Natrium Sulfat bagian hancur optimal dua belas persen
 3. Jika diaplikasikan Magnesium Sulfat komponen halus maksimal sepuluh persen
 4. Tak boleh memuat lumpur lebih dari 5 persen
@@ -41,7 +41,6 @@ Prasyarat Pasir yg Baik Untuk Bangunan
 setelah memahami persyaratan pasir buat suatu Konstruksi Bangunan, pada saat ini kita bahas Ragam - Macam Pasir Untuk Konstruksi Bangunan penjelasan nya sebagai berikut:
 
 - ### Pasir Jenis Rigid dan Daerah Penambangannya Di Karang Anyar Jakarta
-    
 
 Pasir ini umum nya berwarna hitam pekat dan tingkat kekasaran butiran nya lumayan tinggi. Tetapi jikalau anda mengepal nya dengan tangan tidak akan lengket dan akan buyar kembali. ragam pasir ini benar-benar lah baik tuk Pengecoran, Plesteran Dinding, Adukan Pondasi dan Adukan Pasangan Bata Pasir ini yaitu pasir untuk Beton yaitu butiran-butiran mineral keras dan tajam berukuran antara 0,075 – 5 mm, jika terdapat butiran berukuran lebih kecil dari 0,063 mm tak lebih dari 5% berat. Pasir ini yaitu pasir untuk Beton sering diaplikasikan untuk profesi cor-coran struktur seperti kolom, balok dan pelat lantai.
 
@@ -59,21 +58,18 @@ Untuk mendapatkan kekuatan Cor yang maksimal maka pasir harus dapat memenuhi sya
 ![Harga Pasir Putih Bangka Free Ongkir Ke Karang Anyar Jakarta](/images/info/pasir-hitam-7.jpg)
 
 - ### Pasir Untuk Adukan Pasang Batu, Pondasi, Bata, Ubin, Plester Di Karang Anyar Jakarta
-    
 
 ![Harga Pasir Putih Bangka Free Ongkir Ke Karang Anyar Jakarta](/images/info/pasir-putih3.jpg)
 
 Pasir ini ekstra halus lagi dibandingi oleh pasir beton. apabila anda mengepal pasir ini karenanya akan menggumpal dan tidak akan buyar kembali. pasir pasang umum nya di manfaatkan tuk adukan pasir beton supaya tidak terlalu kasar dan bisa di manfaatkan untuk plesteran dinding.
 
 - ### Pasir Elod Untuk pemadatan lantai Di Karang Anyar Jakarta
-    
 
 Di Antara ke dua pasir diatas pasir tipe ini lebih halus lagi, apabila kalian mengepal nya maka akan menggumpal dan tak akan hancur lagi. tetapi pasir macam
 
 Pada biasa nya pasir ini nyaris sama dgn pasir beton akan tapi pasir ini memiliki tingkat kekasaran yang tinggi, butiran - butiran nya cukup besar dan agak banyak batuan nya. pada umumnya pasir ragam ini bagus tuk bahan pengurugan lantai
 
 - ### Pasir Putih Halus Untuk Pasang Lantai Marmer Di Karang Anyar Jakarta
-    
 
 1. **Pasir Putih Bangka**
 

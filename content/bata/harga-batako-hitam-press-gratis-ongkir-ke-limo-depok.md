@@ -16,7 +16,7 @@ sekarang ini material yg diaplikasikan untuk mengisi tembok rumah, sudah terdapa
 
 ## Mengetahui Jenis-jenis Bata
 
-### 1\. Bata Merah Standar & Jumbo Di Limo Depok
+### 1. Bata Merah Standar & Jumbo Di Limo Depok
 
 ![Harga Batako Hitam Press Gratis Ongkir Ke Limo Depok](/images/bata/bata-merah-oven-22.png)
 
@@ -26,7 +26,7 @@ Bata merah ini diciptakan dari bahan tanah yg kemudian di press dan dipanaskan d
 
 Material bangunan ini sangat tahan kepada panas dan sesuai dijadikan proteksi dari bahaya api. Bata merah ini pada lazimnya mempunyai ukuran panjang antara 17-23 cm dan lebar sekitar 7-11 cm, serta tebalnya 3-5 cm. memiliki ukuran yg lebih kecil akan memberi kemudahan dalam progres pengangkutan dan dapat dipakai untuk membentuk bidang kecil.
 
-### 2\. Batako Hitam dan Putih Di Limo Depok
+### 2. Batako Hitam dan Putih Di Limo Depok
 
 ![Harga Batako Hitam Press Gratis Ongkir Ke Limo Depok](/images/bata/batako-hitam-press-12.png)
 
@@ -34,7 +34,7 @@ Material bangunan tembok dari batako press ini secara lazimnya terbuat dari mate
 
 Batako press seperti ini mempunyai kelemahan seperti gampang retak, lebih panas dan pengap. Berbeda dg bata merah yg terbuat dari bahan tanah. Tetapi batako press ini cenderung lebih ringan ketimbang bata merah. Akibatnya akan terlihat lebih halus dan ukurannya lebih presisi sekiranya dibandingkan dg bata merah. Batako Hitam ini mempunyai ukuran panjang sekitar 36-40 cm, tinggi 18-20 cm dan tebal 8-10 cm. bahan ini tak jarang dipilih sebab untuk memperingan beban struktur bangunan, meminimalisir sisa bahan dan mempercepat pembangunan.
 
-### 3\. Bata Herbel Di Limo Depok
+### 3. Bata Herbel Di Limo Depok
 
 ![Harga Batako Hitam Press Gratis Ongkir Ke Limo Depok](/images/bata/bata-hebel-sni-13.png)
 
@@ -62,7 +62,7 @@ Segalanya tentu telah tahu fungsi utama batu bata mulai digunakan untuk membikin
 
 Cara memesan batu bata yang aman dan terpercaya:
 
-1.  Proses pembayaran dapat anda lakukan secara COD atau dibayar di tempat ketika barang pesanan anda telah datang di daerah
+1.  Proses pembayaran dapat anda lakukan secara COD atau dibayar di tempat ketika barang pesanan anda telah datang di daerah
 2. Silahkan memilih dan mempertimbangkan material batu bata yang anda inginkan
 3. Tentukan juga jumlah pesanan batu bata yang anda butuhkan dalam format bijian.
 4. Anda dapat menghubungi layanan telepon toko untuk memudahkan pengerjaan pemesanan

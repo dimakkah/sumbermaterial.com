@@ -11,7 +11,6 @@ description: "Harga Batako Press Hitam Terbaru. Anda juga bisa memesannya langsu
 {{< toc >}}
 
 - ## Macam-Macam Batako di lihat dari Bahan Bakunya
-    
 
 Jika dilihat dari bahan bakunya, bata ini terbagi menjadi 2 bagian. Yaitu batako trass atau batako berwarna putih dan batako hitam bata yang terbuat dari semen dan pasir. Untuk bata yang berwarna putih ini berasal dari campuran batu kapur, trass, dan air. Maka dari itulah, bata ini kerap disebut juga dengan batu cetak kapur trass. Dimana trass adalah cadas yang didapat dari hasil lapukan dari batu gunung kapur.
 
@@ -24,7 +23,6 @@ Batako press hitamSelain batako trass, berikutnya adalah batako semen. Untuk jen
 Perbedaan antara [**Batako press hitam**](https://sumbermaterial.com/bata) manual dan batako press hitam mesin adalah Batako dapat dilihat pada kepadatan permukaan batakonya. Secara umum harga mesin press Batako akan lebih tinggi dari mesin press batako manual. Karena kualitas yang lebih terjamin juga bahan baku yang dipilih secara khusus. Jadi untuk harga tentunya lebih mahal batako semen yang di press oleh mesin.
 
 - ## Kelebihan Menggunakan Batako Press Hitam
-    
 
 Karena ukurannya yang lebih besar bila dibandingkan dengan bata merah, dengan begitu bahan ini jauh lebih membutuhkan perekat yang sedikit saat proses pemasangan. Selain itu, ukurannya juga cenderung selalu sama. Karena menggunakan cetakan yang jauh lebih rapi bila dibandingkan cetakan dari bata merah. Dengan ukurannya yang besar membuat proses pembangunan lebih hemat tenaga dan hemat waktu.
 
@@ -35,7 +33,6 @@ Jadi sangat jelas bahwa batako press hitam ini lebih tahan air sehingga menguran
 Ukuran bahan Batako press juga lebih tepat komposisinya dan seragam, mengurangi penggunaan semen dan bahan plester atau aci. Ketersediaan bahan Batako press relatif terjamin, dan fluktuasi harga tidak terlalu tinggi karena proses pembuatannya tidak terlalu dipengaruhi oleh pasokan bahan bakunya.
 
 - ## Kekurangan dari Material Batako Hitam
-    
 
 Selain dari beberapa kelebihan yang kami sebutkan diatas, batako hitam juga memiliki beberapa kekurangan yang harus anda ketahui agar anda tidak salah pilih atau paling tidak perhitungan anda benar- benar matang. Diantara beberapa kekurangan dari material batako press hitam ini adalah sebagai berikut.
 
@@ -48,13 +45,12 @@ Selain dari beberapa kelebihan yang kami sebutkan diatas, batako hitam juga memi
 7. Dinding bagian luar yang dipasang menggunakan batako ini harus segera diplester, sebab jika tidak akan menjadikan bangunan terlalu lembab dan tidak nyaman.
 
 - ## Cara Memilih Material Batako yang Berkualitas
-    
 
 1. Pilih material **batako** yang berasal dari mesin dan pasir beton. Tujuannya, agar mendapatkan bahan yang berkualitas, bertanyalah kepada sang penjual tentang komposisi bahan yang digunakan dalam proses pembuatannya. Komposisi pembuatan bahan material dinding ini yang baik adalah berasal dari pasir 75%, 20% semen, dan sisanya 5% adalah air. Ini adalah komposisi standar baku berdasarkan Departemen Pekerjaan Umum.
 2. Pilih batako yang mempunyai tampilan pori-pori yang padat, tertutup rapat dan tidak ada rongga-rongga di bagian lapisan luar dan permukaannya. Jadi, selalu pilih yang permukaannya halus dan terlihat rata. Untuk bagian pinggirnya juga harus terlihat lancip dan tajam ketika dipegang untuk melihat seberapa baikkah kualitas dari bahan material ini.
 
-- ##  Lokasi Produksi Batako Kami
-    
+- ##  Lokasi Produksi Batako Kami
+
 Mungkin diantara anda ada yang bertanya-tanya kemana harus membeli batako press hitam ini. Sebenarnya untuk anda yang tinggal di wilayah jakarta, bogor, depok, tangerang juga bekasi tidak usah khawatir mencari dimana pabrik batako kami berada. Karena dalam men Jual material batako press hitam ini kami tidak meminta pembeli untuk membayar terlebih dahulu. Namun kami hanya akan menerima uang pembelian jika material batako yang kami kirim sudah sampai di lokasi pemesan.
 
 Tetapi jika anda penasaran dan juga ingin melihat dari kualitas batako yang kami jual terlebih dahulu, anda bisa mengunjungi beberapa pabrik batako kami. Seperti di Bekasi anda bisa datang ke alamat Jl. Raya cikarang cibarusah kp. malaka, cikarang - Bekasi. Tempat lainnya di Tangerang yaitu kp. cijantra, jatake tangerang juga di jasinga bogor, jawa barat.

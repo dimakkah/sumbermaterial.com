@@ -22,31 +22,31 @@ Teknik pengecoran sendiri terbagi menjadi dua bagian, yaitu teknik traditional d
 
 **• metode konvesional terdiri dari beberapa macam:**
 
-1\. Dry-Sand Casting
+1. Dry-Sand Casting
 
-2\. Full-Mold Casting
+2. Full-Mold Casting
 
-3\. Sand-Mold Casting
+3. Sand-Mold Casting
 
-4\. Vacuum-Mold Casting
+4. Vacuum-Mold Casting
 
-5\. Shell-Mold Casting
+5. Shell-Mold Casting
 
-6\. Cement-Mold Casting
+6. Cement-Mold Casting
 
 **• metode non traditional terdiri dari:**
 
-1\. Centrifugal Casting
+1. Centrifugal Casting
 
-2\. Investment Casting
+2. Investment Casting
 
-3\. Permanent-Mold Casting
+3. Permanent-Mold Casting
 
-4\. High-Pressure Die Casting
+4. High-Pressure Die Casting
 
-5\. Plaster-Mold Casting
+5. Plaster-Mold Casting
 
-6\. Solid-Ceramic Casting
+6. Solid-Ceramic Casting
 
 Sebenarnya, baik teknik konvesional ataupun non traditional sama – sama memiliki kwalitas yang baik untuk sistem pengecoran. Secara mendasar perbedaan antara metode traditional dan non traditional terdapat pada sebuah contemporary casting yang tidak bergantung pada pasir dalam pembuatan cetakannya. Selain itu, temporary yang terdapat pada pengecoran akan di manfaatkan untuk mendapatkan suatu produk berdasarkan geometriyang kecil. hingga, cukup relatif dibandingkan jika menggunakan konvesional casting. Dimana, Hasil coran non traditional casting tidak perlu membutuhkan proses tambahan dalam menyelesaikan suatu permukaan. Seperti di ketahui, jika jenis logam yg akan di lakukan pengecoran kebanyakan mempergunakan logam besi secara bersama-sama. Hal ini di lakukan dgn memanfaatkan aluminium, kuningan, perak, dan beberapa material non logam lainnya. Sistem pengecoran sudah memiliki mekanisme yg cukup sederhana. Inilah mengapa banyak yg menawarkan jasa pengecoran. Jasa pengecoran memang amat mudah di temukan. Di setiap sosial media Anda bisa melihat banyak iklan yang menawarkan jasa penyecoran. Hal ini tentu akan membuat Anda mudah memperoleh jasa pengecoran. Semakin banyaknya yang menawarkan, maka sebaiknya anda berhati- hati dalam memakai jasa pengecoran. Dengan keterampilan yang di milikinya, maka para jasa pengecoran mampu lebih mudah dalam melakukan proses pengecoran secara sempurna. Kenyataannya, ada banyak jenis pengecoran yang di tawarkan oleh jasa pengecoran. Inilah beberapa macam pengecoran dari Jasa Cor Lantai dan Jalan Per Meter Di Cirinten Rangkasbitung:
 
@@ -54,17 +54,17 @@ Sebenarnya, baik teknik konvesional ataupun non traditional sama – sama memili
 
 Seandainya anda berencana hendak mengerjakan pengecoran dak rumah atau ruko bangunan anda atau juga hendak menambah lantai bangunan anda, telah pas anda berkunjung ke laman kami. Sebab kami ialah jasanya yang telah berpengalaman bertahun tahun. Kami siap melayani pelaksanaan mulai dari nol sampai selesai dengan harga yang pasti ideal layak dengan anggaran dana anda. Adapun cara kerja atau tahapan pengecoran yang kami lakukan merupakan.
 
-1\. Survey dan Pengevaluasian lahan untuk memastikan kebutuhan biayanya
+1. Survey dan Pengevaluasian lahan untuk memastikan kebutuhan biayanya
 
-2\. Membuat design dan rancangan
+2. Membuat design dan rancangan
 
-3\. Perhitungan biaya pengecoran
+3. Perhitungan biaya pengecoran
 
-4\. Eksekusi mulai dengan pemasangan bekisting, pembesian dan pemasangan pelastik cor
+4. Eksekusi mulai dengan pemasangan bekisting, pembesian dan pemasangan pelastik cor
 
-5\. Tahapan penuangan cor
+5. Tahapan penuangan cor
 
-6\. Pembongkaran coran yang sudah kering dan tuntas
+6. Pembongkaran coran yang sudah kering dan tuntas
 
 ## Harga Pengecoran Investment Casting Concrete Dari Jasa Cor Lantai dan Jalan Per Meter Di Cirinten Rangkasbitung
 

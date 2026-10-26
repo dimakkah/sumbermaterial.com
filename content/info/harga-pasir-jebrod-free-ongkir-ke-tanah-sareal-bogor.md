@@ -25,7 +25,7 @@ berdasarkan Standar Nasional Indonesia ( SK SNI - S - 04 - 1989 - F ; 28) di seb
 
 Syarat Pasir yang Baik Untuk Konstruksi
 
-1.  Agregat Halus sepatutnya terdiri dari butiran yg tajam dan keras dengan indeks kekerasan <2.2
+1.  Agregat Halus sepatutnya terdiri dari butiran yg tajam dan keras dengan indeks kekerasan <2.2
 2. bila diaplikasikan Natrium Sulfat komponen hancur maksimal dua belas persen
 3. sekiranya diterapkan Magnesium Sulfat bagian halus maksimal sepuluh %
 4. Tak boleh memuat tanah lebih dari lima %
@@ -41,7 +41,6 @@ Syarat Pasir yang Baik Untuk Konstruksi
 Sesudah memahami persyaratan pasir untuk sebuah Konstruksi Bangunan, pada saat ini kita bahas model - Ragam Pasir Untuk Konstruksi Bangunan penjelasan nya berikut ini:
 
 - ### Pasir Rigid Di Tanah Sareal Bogor
-    
 
 Pasir ini umum nya berwarna hitam kemerahan dan tingkat kekerasan butiran nya lumayan tinggi. Namun apabila anda mengepal nya dengan tangan tidak akan lengket dan akan buyar kembali. jenis pasir ini sungguh-sungguh lah baik untuk Pengecoran, Plesteran Dinding, Adukan Pondasi dan Adukan Pasangan Bata Pasir ini yaitu pasir untuk Cor ialah butiran-butiran mineral keras dan tajam berukuran antara 0,075 – 5 mm, sekiranya terdapat butiran berukuran lebih kecil dari 0,063 mm tidak lebih dari 5% berat. Pasir ini yaitu pasir untuk Rigid sering dimanfaatkan untuk pekerjaan cor-coran struktur seperti kolom, balok dan pelat lantai.
 
@@ -59,21 +58,18 @@ Untuk mendapatkan kualitas Rigid yang maksimal maka pasir mesti sanggup memenuhi
 ![Harga Pasir Jebrod Free Ongkir Ke Tanah Sareal Bogor](/images/info/pasir-hitam-9.jpg)
 
 - ### Pasir Pasang Di Tanah Sareal Bogor
-    
 
 ![Harga Pasir Jebrod Free Ongkir Ke Tanah Sareal Bogor](/images/info/pasir-putih12.jpg)
 
 Pasir ini ekstra halus lagi diperbandingkan oleh pasir beton. apabila anda mengepal pasir ini karenanya akan menggumpal dan tak akan hancur kembali. pasir pasang biasa nya di pakai untuk adukan pasir beton agar tidak kelewat kasar dan dapat di manfaatkan untuk plesteran dinding.
 
 - ### Pasir Kualitas rendah Untuk pemadatan lantai Di Tanah Sareal Bogor
-    
 
 Di Antara ke dua pasir diatas pasir jenis ini lebih halus lagi, apabila anda mengepal nya akan menggumpal dan tidak akan buyar lagi. tapi pasir jenis
 
 Pada biasa nya pasir ini nyaris sama dgn pasir beton akan tapi pasir ini memiliki tingkat kekasaran yang tinggi, butiran - butiran nya cukup besar dan agak banyak batuan nya. pada biasanya pasir tipe ini baik tuk bahan dasaran pemasangan keramik
 
 - ### Pasir Putih Tanpa Ayak Untuk Pelester Di Tanah Sareal Bogor
-    
 
 1. **Pasir Putih Bangka**
 

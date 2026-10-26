@@ -25,7 +25,7 @@ berdasarkan Standar Nasional Indonesia ( SK SNI - S - 04 - 1989 - F ; 28) di tut
 
 Prasyarat Pasir yang Baik tuk Bangunan
 
-1.  Agregat Halus mesti terdiri dari butiran yg tajam dan keras dengan indeks kekerasan <2.2
+1.  Agregat Halus mesti terdiri dari butiran yg tajam dan keras dengan indeks kekerasan <2.2
 2. sekiranya dimanfaatkan Natrium Sulfat bagian hancur optimal 12%
 3. jika diaplikasikan Magnesium Sulfat komponen halus maksimal sepuluh persen
 4. Tak boleh berisi tanah lebih dari 5%
@@ -41,7 +41,6 @@ Prasyarat Pasir yang Baik tuk Bangunan
 setelah memahami syarat pasir tuk sebuah Bangunan, saat ini kita bahas Ragam - Macam Pasir Untuk Konstruksi penjelasan nya sebagai berikut:
 
 - ### Pasir Rigid Di Kamal Jakarta
-    
 
 Pasir ini umum nya berwarna hitam pekat dan tingkat kekasaran butiran nya cukup tinggi. Tapi jikalau anda mengepal nya dengan tangan tidak akan lengket dan akan hancur kembali. model pasir ini sungguh-sungguh lah baik buat Pengecoran, Plesteran Dinding, Adukan Pondasi dan Adukan Pasangan Bata Pasir ini yaitu pasir untuk Cor ialah butiran-butiran mineral keras dan tajam berukuran antara 0,075 – 5 mm, jikalau terdapat butiran berukuran lebih kecil dari 0,063 mm tak lebih dari 5% berat. Pasir ini yaitu pasir untuk Cor tak jarang dimanfaatkan untuk profesi cor-coran struktur seperti kolom, balok dan pelat lantai.
 
@@ -59,21 +58,18 @@ Untuk memperoleh kekokohan Cor yang optimal karenanya pasir patut dapat memenuhi
 ![Harga Pasir Mainan Anak Free Ongkir Ke Kamal Jakarta](/images/info/pasir-hitam-2.jpg)
 
 - ### Pasir Untuk Pemasangan Batu, Pondasi, Bata, Ubin, Plester Di Kamal Jakarta
-    
 
 ![Harga Pasir Mainan Anak Free Ongkir Ke Kamal Jakarta](/images/info/pasir-hitam-11.jpg)
 
 Pasir ini ekstra halus lagi dibandingkan oleh pasir beton. apabila anda mengepal pasir ini karenanya akan menggumpal dan tak akan hancur kembali. pasir pasang biasa nya di manfaatkan buat campuran pasir beton supaya tak terlampau kasar dan dapat di gunakan untuk plesteran dinding.
 
 - ### Pasir Urug Untuk Pembuatan Batako Di Kamal Jakarta
-    
 
 Di Antara ke dua pasir diatas pasir macam ini lebih halus lagi, jika anda mengepal nya akan menggumpal dan tidak akan hancur lagi. melainkan pasir macam
 
 Pada nya pasir ini nyaris sama dgn pasir beton namun pasir ini memiliki tingkat kekasaran yg tinggi, butiran - butiran nya lumayan besar dan agak banyak batuan nya. pada biasanya pasir macam ini bagus untuk bahan dasaran pemasangan keramik
 
 - ### Pasir Putih Tanpa Batu Untuk Pasang Lantai Marmer Di Kamal Jakarta
-    
 
 1. **Pasir Putih Bangka**
 

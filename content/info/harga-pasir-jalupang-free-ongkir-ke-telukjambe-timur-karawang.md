@@ -25,7 +25,7 @@ Berdasarkan Standar Nasional Indonesia ( SK SNI - S - 04 - 1989 - F ; 28) di seb
 
 Syarat-Syarat Pasir yg Baik buat Konstruksi
 
-1.  Agregat Halus mesti terdiri dari butiran yg tajam dan keras dengan indeks kekerasan <2.2
+1.  Agregat Halus mesti terdiri dari butiran yg tajam dan keras dengan indeks kekerasan <2.2
 2. Kalau dimanfaatkan Natrium Sulfat bagian hancur maksimal dua belas persen
 3. seandainya dipakai Magnesium Sulfat komponen halus optimal sepuluh %
 4. Tak boleh berisi tanah lebih dari 5 persen
@@ -41,7 +41,6 @@ Syarat-Syarat Pasir yg Baik buat Konstruksi
 setelah mengenal syarat pasir buat suatu Konstruksi, pada saat ini kita bahas Ragam - Tipe Pasir Untuk Konstruksi Bangunan penjelasan nya sebagai berikut:
 
 - ### Pasir Untuk Beton Di Telukjambe Timur Karawang
-    
 
 Pasir ini biasa nya berwarna keabu-abuan dan tingkat kekasaran butiran nya cukup tinggi. Tetapi seandainya anda mengepal nya dengan tangan tak akan menggumpal dan akan hancur kembali. model pasir ini amat lah bagus untuk Pengecoran, Plesteran Dinding, Adukan Pondasi dan Adukan Pasangan Bata Pasir ini yaitu pasir untuk Cor yakni butiran-butiran mineral keras dan tajam berukuran antara 0,075 – 5 mm, seandainya terdapat butiran berukuran lebih kecil dari 0,063 mm tak lebih dari 5% berat. Pasir ini yaitu pasir untuk Rigid hampir acap kali digunakan untuk profesi cor-coran struktur seperti kolom, balok dan pelat lantai.
 
@@ -59,21 +58,18 @@ Untuk mendapatkan kekuatan Rigid yang optimal karenanya pasir seharusnya mampu m
 ![Harga Pasir Jalupang Free Ongkir Ke Telukjambe Timur Karawang](/images/info/pasir-hitam-9.jpg)
 
 - ### Pasir Untuk Pemasangan Batu, Pondasi, Bata, Ubin, Plester Di Telukjambe Timur Karawang
-    
 
 ![Harga Pasir Jalupang Free Ongkir Ke Telukjambe Timur Karawang](/images/info/pasir-putih12.jpg)
 
 Pasir ini ekstra halus lagi diperbandingkan oleh pasir beton. jikalau anda mengepal pasir ini karenanya akan menggumpal dan tidak akan hancur kembali. pasir pasang umum nya di manfaatkan untuk adukan pasir beton supaya tidak terlalu kasar dan bisa di manfaatkan untuk plesteran dinding.
 
 - ### Pasir Kualitas rendah Untuk Pembuatan Batako Di Telukjambe Timur Karawang
-    
 
 Di Antara ke dua pasir diatas pasir model ini lebih halus lagi, seandainya kalian mengepal nya akan menggumpal dan tidak akan buyar lagi. namun pasir macam
 
 Pada nya pasir ini nyaris sama dgn pasir beton akan namun pasir ini mempunyai tingkat kekasaran yang tinggi, butiran - butiran nya lumayan besar dan agak banyak batuan nya. pada umumnya pasir model ini bagus tuk bahan dasaran pemasangan keramik
 
 - ### Pasir Putih Halus Untuk Pelester Di Telukjambe Timur Karawang
-    
 
 1. **Pasir Putih Bangka**
 

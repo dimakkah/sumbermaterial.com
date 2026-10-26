@@ -25,7 +25,7 @@ Menurut Standar Nasional Indonesia ( SK SNI - S - 04 - 1989 - F ; 28) di tuturka
 
 Prasyarat Pasir yang Bagus Untuk Bangunan
 
-1.  Agregat Halus patut terdiri dari butiran yg tajam dan keras dengan indeks kekerasan <2.2
+1.  Agregat Halus patut terdiri dari butiran yg tajam dan keras dengan indeks kekerasan <2.2
 2. Apabila dipakai Natrium Sulfat komponen hancur optimal 12%
 3. sekiranya dipakai Magnesium Sulfat komponen halus maksimal 5 persen
 4. Tak boleh berisi tanah lebih dari 5 persen
@@ -41,7 +41,6 @@ Prasyarat Pasir yang Bagus Untuk Bangunan
 Setelah memahami syarat pasir untuk suatu Konstruksi Bangunan, sekarang ini kita bahas Macam - Jenis Pasir Untuk Bangunan penjelasan nya sebagai berikut:
 
 - ### Pasir Untuk Pengecoran Di Genteng Bogor
-    
 
 Pasir ini lazim nya berwarna hitam kemerahan dan tingkat kekasaran butiran nya cukup tinggi. Melainkan seandainya anda mengepal nya dengan tangan tidak akan lengket dan akan hancur kembali. tipe pasir ini amat lah bagus untuk Pengecoran, Plesteran Dinding, Adukan Pondasi dan Adukan Pasangan Bata Pasir ini yaitu pasir untuk Beton adalah butiran-butiran mineral keras dan tajam berukuran antara 0,075 – 5 mm, kalau terdapat butiran berukuran lebih kecil dari 0,063 mm tidak lebih dari 5% berat. Pasir ini yaitu pasir untuk Beton sering kali diterapkan untuk pekerjaan cor-coran struktur seperti kolom, balok dan pelat lantai.
 
@@ -59,21 +58,18 @@ Untuk mendapatkan kekuatan Beton yang maksimal maka pasir wajib sanggup memenuhi
 ![Harga Pasir Jalupang Free Ongkir Ke Genteng Bogor](/images/info/pasir-hitam-1.jpg)
 
 - ### Pasir Untuk Pasang Batu, Pondasi, Bata, Ubin, Plester Di Genteng Bogor
-    
 
 ![Harga Pasir Jalupang Free Ongkir Ke Genteng Bogor](/images/info/pasir-putih12.jpg)
 
 Pasir ini ekstra halus lagi dibandingi oleh pasir beton. jikalau anda mengepal pasir ini maka akan menggumpal dan tak akan buyar kembali. pasir pasang umum nya di gunakan tuk campuran pasir beton supaya tak kelewat kasar dan bisa di manfaatkan untuk plesteran dinding.
 
 - ### Pasir Kualitas rendah Untuk pengurugan lantai Di Genteng Bogor
-    
 
 Di Antara ke dua pasir diatas pasir model ini lebih halus lagi, jika kamu mengepal nya maka akan menggumpal dan tidak akan hancur lagi. tapi pasir tipe
 
 Pada biasa nya pasir ini nyaris sama dengan pasir beton akan tapi pasir ini memiliki tingkat kekasaran yg tinggi, butiran - butiran nya lumayan besar dan agak banyak batuan nya. pada lazimnya pasir jenis ini bagus tuk bahan dasaran pemasangan keramik
 
 - ### Pasir Putih Halus Untuk Hiasan Di Genteng Bogor
-    
 
 1. **Pasir Putih Bangka**
 

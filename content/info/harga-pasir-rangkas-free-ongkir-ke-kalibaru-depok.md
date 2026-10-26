@@ -25,7 +25,7 @@ menurut Standar Nasional Indonesia ( SK SNI - S - 04 - 1989 - F ; 28) di sebutka
 
 Prasyarat Pasir yg Bagus Untuk Bangunan
 
-1.  Agregat Halus sepatutnya terdiri dari butiran yang tajam dan keras dengan indeks kekerasan <2.2
+1.  Agregat Halus sepatutnya terdiri dari butiran yang tajam dan keras dengan indeks kekerasan <2.2
 2. jikalau diterapkan Natrium Sulfat bagian hancur maksimal dua belas persen
 3. Kalau digunakan Magnesium Sulfat bagian halus optimal 5 persen
 4. Tidak boleh memuat clay lebih dari lima %
@@ -41,7 +41,6 @@ Prasyarat Pasir yg Bagus Untuk Bangunan
 sesudah tahu persis prasyarat pasir untuk suatu Konstruksi Bangunan, sekarang ini kita bahas Ragam - model Pasir Untuk Konstruksi Bangunan penjelasan nya sbb:
 
 - ### Pasir Model Beton dan Tempat Penambangannya Di Kalibaru Depok
-    
 
 Pasir ini lazim nya berwarna hitam gelap dan tingkat pecahan butiran nya lumayan tinggi. Melainkan sekiranya anda mengepal nya dengan tangan tak akan lengket dan akan hancur kembali. ragam pasir ini sungguh-sungguh lah baik tuk Pengecoran, Plesteran Dinding, Adukan Pondasi dan Adukan Pasangan Bata Pasir ini yaitu pasir untuk Beton yaitu butiran-butiran mineral keras dan tajam berukuran antara 0,075 – 5 mm, kalau terdapat butiran berukuran lebih kecil dari 0,063 mm tidak lebih dari 5% berat. Pasir ini yaitu pasir untuk Cor sering kali digunakan untuk profesi cor-coran struktur seperti kolom, balok dan pelat lantai.
 
@@ -59,21 +58,18 @@ Untuk memperoleh kekokohan Beton yang maksimal maka pasir wajib dapat memenuhi s
 ![Harga Pasir Rangkas Free Ongkir Ke Kalibaru Depok](/images/info/pasir-hitam-5.jpg)
 
 - ### Pasir Pasang Di Kalibaru Depok
-    
 
 ![Harga Pasir Rangkas Free Ongkir Ke Kalibaru Depok](/images/info/jual-pasir-mundu-2.jpg)
 
 Pasir ini lebih halus lagi dibandingkan oleh pasir beton. apabila kalian mengepal pasir ini karenanya akan menggumpal dan tak akan buyar kembali. pasir pasang biasa nya di manfaatkan buat adukan pasir beton agar tidak kelewat kasar dan bisa di manfaatkan untuk plesteran dinding.
 
 - ### Pasir Kualitas rendah Untuk pengurugan lantai Di Kalibaru Depok
-    
 
 Di Antara ke dua pasir diatas pasir jenis ini lebih halus lagi, apabila kalian mengepal nya akan menggumpal dan tak akan hancur lagi. tapi pasir macam
 
 Pada nya pasir ini nyaris sama dgn pasir beton akan tapi pasir ini mempunyai tingkat kekasaran yang tinggi, butiran - butiran nya lumayan besar dan agak banyak batuan nya. pada umumnya pasir jenis ini bagus untuk bahan dasaran pemasangan keramik
 
 - ### Pasir Putih Kadar Lumpur Rendah Untuk Lapangan Voly Di Kalibaru Depok
-    
 
 1. **Pasir Putih Bangka**
 

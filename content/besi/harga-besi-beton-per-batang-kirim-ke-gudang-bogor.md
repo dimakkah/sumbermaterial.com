@@ -18,19 +18,19 @@ Dengan tidak adanya besi maka sebuah bangunan akan gampang retak dikala ada gunc
 
 ## Inilah Macam-macam Besi Di Gudang Bogor
 
-### 1\. Besi Polos Full 4mm, 6mm, 8mm, 10mm, 12mm, 16mm, 18mm, 19mm Di Gudang Bogor
+### 1. Besi Polos Full 4mm, 6mm, 8mm, 10mm, 12mm, 16mm, 18mm, 19mm Di Gudang Bogor
 
 Besi polos mempunyai ukuran mulai dari 8 mm sampai 25 mm dan mempunyai 6 meter panjang tekuk dan 12 meter panjang lurus. Besi beton ini mulai diaplikasikan sebagai bahan utama di Indonesia pada tahun 1950. Besi ini tak jarang kali digunakan untuk membangun tempat tinggal. Bahan yang mudah diterapkan sehingga selain dari digunakan untuk membangun tempat tinggal juga dipakai untuk membangun trowongan, bendungan, dan lainnya. Saat diterapkan untuk membangun tempat tinggal bertingkat maka biasanya besi polos ini digunakan untuk struktur rangkaian besi balok, dinding, dan sloof. Besi beton polos ini memiliki keunggulan besi polos ini tegangannya lebih tinggi dari pada besi lainnya. Sehingga besi ini terkesan lebih kuat dan tahan beban. Jadi penerapan besi polos ini sangat sesuai untuk membangun gedung, jembatan, dan bangunan lainnya. Besi polos ini terbuat dari bahan seperti billet dan skrap. Billet yakni baja batangan yang pengerjaan pembuatannya dengan melebur biji besi. Sekiranya skrap ialah besi bekas yang dihancurkan dengan temperature tertentu. Selain itu jika anda mengaplikasikan besi polos ini tidak memerlukan budget pemeliharaan. Semakin lama diterapkan karenanya besi ini akan kian kokoh.
 
-### 2\. Besi Ulir Krakatau Steel 4mm, 6mm, 8mm, 10mm, 12mm, 16mm, 18mm, 19mm Di Gudang Bogor
+### 2. Besi Ulir Krakatau Steel 4mm, 6mm, 8mm, 10mm, 12mm, 16mm, 18mm, 19mm Di Gudang Bogor
 
 Sesuai dengan namanya besi beton ulir ini yakni besi yang tampilannya mengulir. Pada permukaannya bercorak spiral yang memiliki tujuan untuk menyatukan gerigi besi dengan faktor bahan bangunan yang dibentuk oleh besi beton. Besi ulir ini mulai populer diterapkan pada abad ke-20 di Amerika dan mulai populer di Indonesia pada tahun1950. Mengingat dikala menerapkan besi ulir ini memiliki banyak kelebihan mulai dari kekuatan bangunan serta lebih hemat biaya dan efisien. Produk besi ulir ini menjadi andalan pasar karena mempunyai mutu yang terbaik di Indonesia dan mempunyai harga yang tinggi sekiranya dibandingkan dengan produk lainnya.
 
-### 3\. Besi WF dan H-Beam Banci Di Gudang Bogor
+### 3. Besi WF dan H-Beam Banci Di Gudang Bogor
 
 Besi Wide Flange (WF) ini yaitu salah satu baja dengan struktural yang paling sering diterapkan untuk kontruksi baja. Jikalau anda membutuhkan besi baja Wide Flage dalam jumlah yang banyak atau sedikit karenanya silahkan cari jual besi yang terpercaya. Besi WF ini memiliki kekuatan yang kokoh dan kokoh pada kekokohan tarik atau tekan. Karenanya dari itu besi ini menjadi faktor struktur yang memiliki batasan yang paripurna untuk menahan beban tekan aksial, tarik aksial, dan lentur dengan fasilitas pembangunan strukturnya. Baja Wide Flange (WF) ini mempunyai kepadatan yang tinggi tetapi rasio berat antara ketahanan komponen Baja WF yang tinggi tetapi tdk begitu berat yang terkait dengan kapasitas muatan. Selain itu memastikan bila kontruksi yang diterapkan secara efisien. Sistem kontruksi baja WF ini kombinasi dari faktor struktur yang kompleks. Pada struktur ini memiliki tujuan membawa beban yang aman dan efektif yang bekerja pada sebuah bangunan dan dikirim pada pondasinya. Gaya dan bobot yang berefek ini termasuk muatan pertikal, perbedaan suhu, horizontal, getaran dan lainnya. Pada sebuah bangunan baja, maka ada unsure yang berguna menopang gaya lateral dan gravitasi.
 
-### 4\. Besi Hollow Di Gudang Bogor
+### 4. Besi Hollow Di Gudang Bogor
 
 Besi hollow ialah besi yang diaplikasikan sebagai pembuatan kanopi, pagar, pintu besi dan lainnya. Bahan baku pembuatan besi Hollow ini biasanya terbuat dari stainless, galvanis, dan besi baja. Tapi yang paling kerap digunakan sebagai bahan baku ialah galvanis. Terdapat kelebihan yang anda dapatkan dikala memasang kanopi, mengaplikasikan pagar, teralis menerapkan besi hollow:
 

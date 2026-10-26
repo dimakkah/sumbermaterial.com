@@ -25,7 +25,7 @@ Berdasarkan Standar Nasional Indonesia ( SK SNI - S - 04 - 1989 - F ; 28) di seb
 
 Syarat-Syarat Pasir yang Bagus Untuk Bangunan
 
-1.  Agregat Halus harus terdiri dari butiran yang tajam dan keras dengan indeks kekerasan <2.2
+1.  Agregat Halus harus terdiri dari butiran yang tajam dan keras dengan indeks kekerasan <2.2
 2. jika dimanfaatkan Natrium Sulfat bagian hancur optimal dua belas %
 3. Jikalau dipakai Magnesium Sulfat bagian halus maksimal sepuluh persen
 4. Tak boleh berisi tanah lebih dari lima %
@@ -41,7 +41,6 @@ Syarat-Syarat Pasir yang Bagus Untuk Bangunan
 setelah tahu persis prasyarat pasir untuk suatu Konstruksi, saat ini kita bahas Macam - Macam Pasir Untuk Konstruksi Bangunan penjelasan nya sbb:
 
 - ### Pasir Jenis Rigid dan Tempat Sumbernya Di Cideng Jakarta
-    
 
 Pasir ini lazim nya berwarna coklat tua dan tingkat pecahan butiran nya lumayan tinggi. Tetapi jikalau anda mengepal nya dengan tangan tidak akan lengket dan akan hancur kembali. model pasir ini benar-benar lah baik tuk Pengecoran, Plesteran Dinding, Adukan Pondasi dan Adukan Pasangan Bata Pasir ini yaitu pasir untuk Rigid merupakan butiran-butiran mineral keras dan tajam berukuran antara 0,075 – 5 mm, seandainya terdapat butiran berukuran lebih kecil dari 0,063 mm tidak lebih dari 5% berat. Pasir ini yaitu pasir untuk Beton acap kali dipakai untuk pekerjaan cor-coran struktur seperti kolom, balok dan pelat lantai.
 
@@ -59,21 +58,18 @@ Untuk mendapat kekuatan Cor yang maksimal karenanya pasir patut dapat memenuhi p
 ![Harga Pasir Mundu Free Ongkir Ke Cideng Jakarta](/images/info/pasir-hitam-7.jpg)
 
 - ### Pasir Untuk Pasang Batu, Pondasi, Bata, Ubin, Plester Di Cideng Jakarta
-    
 
 ![Harga Pasir Mundu Free Ongkir Ke Cideng Jakarta](/images/info/pasir-hitam-4.jpg)
 
 Pasir ini ekstra halus lagi dibandingi oleh pasir beton. apabila anda mengepal pasir ini maka akan menggumpal dan tak akan hancur kembali. pasir pasang umum nya di manfaatkan untuk campuran pasir beton supaya tak kelewat kasar dan dapat di gunakan untuk plesteran dinding.
 
 - ### Pasir Kualitas rendah Untuk Dasaran Pemasangan Keramik Di Cideng Jakarta
-    
 
 Di Antara ke dua pasir diatas pasir jenis ini lebih halus lagi, bila anda mengepal nya karenanya akan menggumpal dan tak akan buyar lagi. namun pasir macam
 
 Pada nya pasir ini nyaris sama dgn pasir beton namun pasir ini memiliki tingkat kekasaran yg tinggi, butiran - butiran nya cukup besar dan agak banyak batuan nya. pada umumnya pasir jenis ini bagus untuk bahan pengurugan lantai
 
 - ### Pasir Putih Kadar Lumpur Rendah Untuk Pasang Keramik Di Cideng Jakarta
-    
 
 1. **Pasir Putih Bangka**
 

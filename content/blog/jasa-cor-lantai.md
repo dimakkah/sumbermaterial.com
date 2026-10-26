@@ -18,7 +18,6 @@ draft: false
 
 {{< toc >}}
 
-
 ## Mengapa Memilih Jasa Cor Lantai Profesional?
 
 Mitra Sumber Material seringkali menerima pertanyaan, "Apakah saya bisa mengecor lantai sendiri?". Tentu saja bisa, tapi perlu diingat bahwa pengecoran lantai membutuhkan keahlian khusus dan pemahaman mendalam tentang campuran material yang tepat. Jika tidak, hasilnya bisa mengecewakan dan berpotensi membahayakan struktur bangunan.
@@ -53,11 +52,11 @@ Harga ini bersifat estimasi dan dapat berubah sewaktu-waktu — hubungi Kami unt
 
 Nah, setelah mengetahui perkiraan biaya, bagaimana cara memilih penyedia jasa cor lantai yang tepat? Berikut beberapa tips yang bisa Anda terapkan:
 
-*   **Reputasi:** Cari tahu reputasi penyedia jasa melalui testimoni pelanggan, ulasan online, atau rekomendasi dari teman dan kerabat.
-*   **Pengalaman:** Pilih penyedia jasa yang memiliki pengalaman yang cukup dalam mengerjakan proyek serupa.
-*   **Tenaga Ahli:** Pastikan penyedia jasa memiliki tenaga ahli yang kompeten dan bersertifikasi.
-*   **Peralatan:** Periksa apakah penyedia jasa memiliki peralatan yang memadai dan terawat dengan baik.
-*   **Harga:** Bandingkan harga dari beberapa penyedia jasa, tetapi jangan hanya terpaku pada harga termurah. Pertimbangkan juga kualitas pekerjaan dan layanan yang ditawarkan.
+- **Reputasi:** Cari tahu reputasi penyedia jasa melalui testimoni pelanggan, ulasan online, atau rekomendasi dari teman dan kerabat.
+- **Pengalaman:** Pilih penyedia jasa yang memiliki pengalaman yang cukup dalam mengerjakan proyek serupa.
+- **Tenaga Ahli:** Pastikan penyedia jasa memiliki tenaga ahli yang kompeten dan bersertifikasi.
+- **Peralatan:** Periksa apakah penyedia jasa memiliki peralatan yang memadai dan terawat dengan baik.
+- **Harga:** Bandingkan harga dari beberapa penyedia jasa, tetapi jangan hanya terpaku pada harga termurah. Pertimbangkan juga kualitas pekerjaan dan layanan yang ditawarkan.
 
 Mitra Sumber Material telah bermitra dengan beberapa penyedia jasa cor lantai terpercaya di Jabodetabek. Kami siap membantu Anda menemukan solusi terbaik untuk kebutuhan proyek Anda. Jangan ragu untuk berkonsultasi dengan Kami.
 

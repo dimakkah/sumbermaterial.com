@@ -25,7 +25,7 @@ berdasarkan Standar Nasional Indonesia ( SK SNI - S - 04 - 1989 - F ; 28) di tut
 
 Prasyarat Pasir yg Baik buat Konstruksi Bangunan
 
-1.  Agregat Halus patut terdiri dari butiran yang tajam dan keras dengan indeks kekerasan <2.2
+1.  Agregat Halus patut terdiri dari butiran yang tajam dan keras dengan indeks kekerasan <2.2
 2. Bila diterapkan Natrium Sulfat bagian hancur optimal dua belas %
 3. jika diaplikasikan Magnesium Sulfat komponen halus maksimal 10%
 4. Tak boleh memuat clay lebih dari 5%
@@ -41,7 +41,6 @@ Prasyarat Pasir yg Baik buat Konstruksi Bangunan
 Setelah mengenal prasyarat pasir tuk sebuah Konstruksi Bangunan, saat ini kita bahas Macam - Tipe Pasir Untuk Bangunan penjelasan nya sebagai berikut:
 
 - ### Pasir Untuk Beton Di Tegal Gundil Bogor
-    
 
 Pasir ini lazim nya berwarna coklat tua dan tingkat kekasaran butiran nya lumayan tinggi. Tapi kalau anda mengepal nya dengan tangan tidak akan menggumpal dan akan hancur kembali. tipe pasir ini benar-benar lah baik tuk Pengecoran, Plesteran Dinding, Adukan Pondasi dan Adukan Pasangan Bata Pasir ini yaitu pasir untuk Rigid adalah butiran-butiran mineral keras dan tajam berukuran antara 0,075 – 5 mm, kalau terdapat butiran berukuran lebih kecil dari 0,063 mm tak lebih dari 5% berat. Pasir ini yaitu pasir untuk Cor tak jarang digunakan untuk pekerjaan cor-coran struktur seperti kolom, balok dan pelat lantai.
 
@@ -59,21 +58,18 @@ Untuk memperoleh kekuatan Rigid yang optimal karenanya pasir patut sanggup memen
 ![Harga Pasir Lampung Free Ongkir Ke Tegal Gundil Bogor](/images/info/pasir-hitam-2.jpg)
 
 - ### Pasir Untuk Adukan Pasang Batu, Pondasi, Bata, Ubin, Plester Di Tegal Gundil Bogor
-    
 
 ![Harga Pasir Lampung Free Ongkir Ke Tegal Gundil Bogor](/images/info/jual-pasir-mundu-2.jpg)
 
 Pasir ini lebih halus lagi diperbandingkan oleh pasir beton. jikalau kamu mengepal pasir ini maka akan menggumpal dan tak akan buyar kembali. pasir pasang umum nya di manfaatkan tuk adukan pasir beton agar tak kelewat kasar dan dapat di pakai untuk plesteran dinding.
 
 - ### Pasir Kualitas rendah Untuk pemadatan lantai Di Tegal Gundil Bogor
-    
 
 Di Antara ke dua pasir diatas pasir ragam ini lebih halus lagi, jikalau kamu mengepal nya akan menggumpal dan tidak akan buyar lagi. melainkan pasir jenis
 
 Pada lazim nya pasir ini nyaris sama dengan pasir beton namun pasir ini memiliki tingkat kekasaran yang tinggi, butiran - butiran nya cukup besar dan agak banyak batuan nya. pada umumnya pasir jenis ini bagus untuk bahan pemadatan lantai
 
 - ### Pasir Putih Tanpa Ayak Untuk Pelester Di Tegal Gundil Bogor
-    
 
 1. **Pasir Putih Bangka**
 

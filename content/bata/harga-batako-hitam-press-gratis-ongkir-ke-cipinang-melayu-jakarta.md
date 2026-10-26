@@ -16,7 +16,7 @@ saat ini bahan yg digunakan untuk mengisi tembok gedung, telah terdapat beragam 
 
 ## Mengenal Macam-macam Bata
 
-### 1\. Bata Merah Standar & Jumbo Di Cipinang Melayu Jakarta
+### 1. Bata Merah Standar & Jumbo Di Cipinang Melayu Jakarta
 
 ![Harga Batako Hitam Press Gratis Ongkir Ke Cipinang Melayu Jakarta](/images/bata/bata-merah-oven-07.png)
 
@@ -26,7 +26,7 @@ Bata merah ini diwujudkan dari material tanah yg kemudian di bentuk dan dipanask
 
 Material bangunan ini sangat tahan kepada panas dan layak dibuat pengamanan dari bahaya api. Bata merah ini pada umumnya memiliki ukuran panjang antara 17-23 cm dan lebar sekitar 7-11 cm, serta tebalnya 3-5 cm. mempunyai ukuran yg lebih kecil akan memberi kemudahan dalam pengerjaan pengangkutan dan dapat diaplikasikan untuk membentuk bidang kecil.
 
-### 2\. Batako Hitam dan Putih Di Cipinang Melayu Jakarta
+### 2. Batako Hitam dan Putih Di Cipinang Melayu Jakarta
 
 ![Harga Batako Hitam Press Gratis Ongkir Ke Cipinang Melayu Jakarta](/images/bata/batako-hitam-press-09.png)
 
@@ -34,7 +34,7 @@ Bahan bangunan dinding dari batako ini secara umum terbuat dari material campura
 
 Batako press seperti ini mempunyai kelemahan seperti gampang retak, lebih panas dan pengap. Berbeda dg bata merah yg terbuat dari bahan tanah. Namun batako trus ini cenderung lebih ringan ketimbang bata merah. Akibatnya akan tampak lebih halus dan ukurannya lebih presisi kalau dibandingi dg bata merah. Batako Hitam ini mempunyai ukuran panjang sekitar 36-40 cm, tinggi 18-20 cm dan tebal 8-10 cm. bahan ini sering kali dipilih sebab untuk memperingan muatan struktur bangunan, meminimalisir sisa material dan mempercepat pembangunan.
 
-### 3\. Bata Ringan Di Cipinang Melayu Jakarta
+### 3. Bata Ringan Di Cipinang Melayu Jakarta
 
 ![Harga Batako Hitam Press Gratis Ongkir Ke Cipinang Melayu Jakarta](/images/bata/bata-hebel-sni-11.png)
 
@@ -62,7 +62,7 @@ Seluruhnya tentu telah tahu kegunaan utama batu bata mulai diaplikasikan untuk m
 
 Sistem mengorder batu bata yang aman dan terpercaya:
 
-1.  Pelaksanaan pembayaran dapat anda lakukan secara COD atau dibayar di tempat dikala barang pesanan anda telah datang di tempat
+1.  Pelaksanaan pembayaran dapat anda lakukan secara COD atau dibayar di tempat dikala barang pesanan anda telah datang di tempat
 2. Silahkan memilih dan memastikan material batu bata yang anda inginkan
 3. Tentukan juga jumlah orderan batu bata yg anda butuhkan dalam format bijian.
 4. Anda dapat menghubungi layanan telepon warung untuk memudahkan proses pengorderan

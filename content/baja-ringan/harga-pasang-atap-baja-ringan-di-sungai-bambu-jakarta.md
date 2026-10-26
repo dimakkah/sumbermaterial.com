@@ -21,19 +21,19 @@ Pemasangan baja ringan untuk kebutuhan bangunan dapat dilakukan dengan cukup mud
 
 Berikut beberapa alasan mengapa Anda harus mempertimbangkan baja ringan sebagai kerangka atap dan kanopi untuk bangunan Anda di Sungai Bambu Jakarta:
 
- Baja ringan lebih ramah lingkungan karena tidak membutuhkan kayu, yang seringkali diperoleh dengan menebang pohon. Dengan menggunakan baja ringan, Anda ikut berkontribusi dalam melestarikan alam.
+- Baja ringan lebih ramah lingkungan karena tidak membutuhkan kayu, yang seringkali diperoleh dengan menebang pohon. Dengan menggunakan baja ringan, Anda ikut berkontribusi dalam melestarikan alam.
 
- Lebih ekonomis. Jika dibandingkan dengan kerangka kayu, biaya baja ringan cenderung lebih murah, terutama untuk bagian kerangka yang sangat penting untuk sebuah bangunan. Penting untuk mempertimbangkan ini agar dapat menekan biaya pembangunan.
+- Lebih ekonomis. Jika dibandingkan dengan kerangka kayu, biaya baja ringan cenderung lebih murah, terutama untuk bagian kerangka yang sangat penting untuk sebuah bangunan. Penting untuk mempertimbangkan ini agar dapat menekan biaya pembangunan.
 
- Ringan dan kuat. Baja ringan berbeda dengan baja atau besi yang beratnya dua kali lipat. Dengan ketebalan yang tipis namun ringan, baja ringan tetap kuat untuk kerangka atap dan pembuatan kanopi rumah Anda.
+- Ringan dan kuat. Baja ringan berbeda dengan baja atau besi yang beratnya dua kali lipat. Dengan ketebalan yang tipis namun ringan, baja ringan tetap kuat untuk kerangka atap dan pembuatan kanopi rumah Anda.
 
- Perawatan minimal. Anda tidak perlu khawatir dengan kerusakan atau perawatan tahunan. Baja ringan menawarkan ketenangan pikiran. 
+- Perawatan minimal. Anda tidak perlu khawatir dengan kerusakan atau perawatan tahunan. Baja ringan menawarkan ketenangan pikiran.
 
- Pemasangan cepat. Pemasangan kerangka atap baja ringan jauh lebih cepat daripada kerangka kayu atau material lain. Ini menghemat waktu dan tenaga Anda.
+- Pemasangan cepat. Pemasangan kerangka atap baja ringan jauh lebih cepat daripada kerangka kayu atau material lain. Ini menghemat waktu dan tenaga Anda.
 
- Kualitas terjamin. Baja ringan yang kami gunakan terbuat dari zinc dan aluminium dengan sertifikasi keamanan 4 kali lebih baik dibandingkan baja biasa. Kekuatannya pun luar biasa.
+- Kualitas terjamin. Baja ringan yang kami gunakan terbuat dari zinc dan aluminium dengan sertifikasi keamanan 4 kali lebih baik dibandingkan baja biasa. Kekuatannya pun luar biasa.
 
- Tahan terhadap rayap. Kami jamin kerangka atap dan canopy baja ringan Anda akan tahan terhadap serangan rayap.
+- Tahan terhadap rayap. Kami jamin kerangka atap dan canopy baja ringan Anda akan tahan terhadap serangan rayap.
 
 ## Metode Hitung Luas Rangka Baja Ringan Di Sungai Bambu Jakarta
 
@@ -66,15 +66,15 @@ Membahas biaya jasa pasang baja ringan, sebenarnya banyak informasi online yang 
 
 ### Faktor-Faktor yang Mempengaruhi Biaya Jasa Pasang Baja Ringan
 
-### 1. Pembuatan Sketsa Desain
+#### 1. Pembuatan Sketsa Desain
 
 Harga juga didasarkan pada desain atau pola sketsa yang akan dikerjakan oleh tim teknisi kami di lokasi. Sketsa ini penting untuk menentukan kebutuhan material baja ringan sehingga tidak ada pemborosan. Pembuatan sketsa juga termasuk dalam perhitungan harga jasa pasang baja ringan kami.
 
-### 2. Perhitungan Kebutuhan Rangka
+#### 2. Perhitungan Kebutuhan Rangka
 
 Setelah memiliki sketsa pemasangan, langkah selanjutnya adalah menghitung kebutuhan rangka yang perlu disiapkan. Anda bisa berkonsultasi dengan tim teknisi kami untuk mengetahui waktu dan kualitas setiap material. Konsultasikan secara menyeluruh untuk mendapatkan material yang tepat sesuai kebutuhan Anda.
 
-### 3. Penentuan Budget yang Dibutuhkan
+#### 3. Penentuan Budget yang Dibutuhkan
 
 Setelah pembuatan sketsa dan perhitungan rangka selesai, Anda bisa mendiskusikan perkiraan biaya dengan kami. Budget yang diperlukan bergantung pada jumlah rangka, luas komponen kerangka, material tambahan, biaya tenaga teknisi, dan lain sebagainya. Mintalah rincian harga jasa pasang baja ringan untuk membantu Anda dalam menyiapkan budget. Anda juga bisa memilih jenis baja ringan sesuai anggaran dan kebutuhan Anda, dan diskusikan dengan teknisi kami.
 

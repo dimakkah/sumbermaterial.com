@@ -21,19 +21,19 @@ Pemasangan baja ringan untuk kebutuhan bangunan bisa dikerjakan dengan cukup mud
 
 Berikut adalah beberapa alasan penting yang perlu Anda ketahui sebelum menghubungi kami. Alasan-alasan ini akan menjawab pertanyaan mengapa Anda harus memilih baja ringan sebagai kerangka atap dan Canopy.
 
- Baja ringan lebih ramah lingkungan dibandingkan material tradisional karena Anda tidak memerlukan kayu yang berarti tidak perlu menebang pohon. Dengan menggunakan kerangka baja ringan, Anda turut serta dalam melestarikan alam.
+- Baja ringan lebih ramah lingkungan dibandingkan material tradisional karena Anda tidak memerlukan kayu yang berarti tidak perlu menebang pohon. Dengan menggunakan kerangka baja ringan, Anda turut serta dalam melestarikan alam.
 
- Lebih ekonomis. Jika dibandingkan menggunakan kerangka dari bahan kayu, biaya yang Anda keluarkan akan jauh lebih terjangkau karena mendapatkan kayu dengan mutu terbaik juga memerlukan biaya yang lebih besar. Terutama untuk komponen kerangka yang sangat krusial untuk sebuah bangunan. Anda perlu memikirkan ini matang-matang untuk menekan biaya pembangunan.
+- Lebih ekonomis. Jika dibandingkan menggunakan kerangka dari bahan kayu, biaya yang Anda keluarkan akan jauh lebih terjangkau karena mendapatkan kayu dengan mutu terbaik juga memerlukan biaya yang lebih besar. Terutama untuk komponen kerangka yang sangat krusial untuk sebuah bangunan. Anda perlu memikirkan ini matang-matang untuk menekan biaya pembangunan.
 
- Ringan dan kuat. Baja ringan berbeda dengan baja atau besi konvensional yang memiliki berat dua kali lipat. Baja ringan ini memiliki ketebalan yang tipis dan ringan, sehingga sangat kuat untuk kerangka atap dan pembuatan Canopy rumah Anda.
+- Ringan dan kuat. Baja ringan berbeda dengan baja atau besi konvensional yang memiliki berat dua kali lipat. Baja ringan ini memiliki ketebalan yang tipis dan ringan, sehingga sangat kuat untuk kerangka atap dan pembuatan Canopy rumah Anda.
 
- Bebas perawatan. Anda tidak perlu khawatir kerangka atap Anda rusak atau memerlukan perbaikan rutin. Ini akan membebaskan Anda dari perawatan tahunan yang memakan biaya.
+- Bebas perawatan. Anda tidak perlu khawatir kerangka atap Anda rusak atau memerlukan perbaikan rutin. Ini akan membebaskan Anda dari perawatan tahunan yang memakan biaya.
 
- Proses pemasangan yang cepat. Berbeda dengan kerangka atap yang terbuat dari bahan kayu dan material lain, yang memerlukan waktu pengerjaan yang lama, pemasangan baja ringan jauh lebih cepat.
+- Proses pemasangan yang cepat. Berbeda dengan kerangka atap yang terbuat dari bahan kayu dan material lain, yang memerlukan waktu pengerjaan yang lama, pemasangan baja ringan jauh lebih cepat.
 
- Bahan berkualitas tinggi. Baja ringan yang Kami gunakan bukanlah baja ringan sembarangan. Bahan utamanya adalah zinc dan aluminium yang sudah memiliki sertifikasi dan standar keamanan, bahkan 4 kali lebih baik dibandingkan baja umum. Kekuatannya pun mampu menahan beban berkilo-kilo.
+- Bahan berkualitas tinggi. Baja ringan yang Kami gunakan bukanlah baja ringan sembarangan. Bahan utamanya adalah zinc dan aluminium yang sudah memiliki sertifikasi dan standar keamanan, bahkan 4 kali lebih baik dibandingkan baja umum. Kekuatannya pun mampu menahan beban berkilo-kilo.
 
- Tahan terhadap rayap. Kami menjamin kerangka atap dan Canopy dari baja ringan ini tahan terhadap rayap, sehingga awet dan tidak mudah rusak.
+- Tahan terhadap rayap. Kami menjamin kerangka atap dan Canopy dari baja ringan ini tahan terhadap rayap, sehingga awet dan tidak mudah rusak.
 
 ## Metode Hitung Luas Rangka Baja Ringan Di Pondok Jaya Depok
 

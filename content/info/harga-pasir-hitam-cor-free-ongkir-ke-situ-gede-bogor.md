@@ -25,7 +25,7 @@ menurut Standar Nasional Indonesia ( SK SNI - S - 04 - 1989 - F ; 28) di tuturka
 
 Syarat-Syarat Pasir yang Baik buat Konstruksi Bangunan
 
-1.  Agregat Halus mesti terdiri dari butiran yang tajam dan keras dengan indeks kekerasan <2.2
+1.  Agregat Halus mesti terdiri dari butiran yang tajam dan keras dengan indeks kekerasan <2.2
 2. bilamana dimanfaatkan Natrium Sulfat komponen hancur optimal 12%
 3. Apabila digunakan Magnesium Sulfat bagian halus optimal 5 persen
 4. Tak boleh berisi lumpur lebih dari 5%
@@ -41,7 +41,6 @@ Syarat-Syarat Pasir yang Baik buat Konstruksi Bangunan
 Sesudah mengenal syarat pasir untuk sebuah Konstruksi, saat ini kita bahas Jenis - model Pasir Untuk Konstruksi Bangunan penjelasan nya berikut ini:
 
 - ### Pasir Beton Di Situ Gede Bogor
-    
 
 Pasir ini biasa nya berwarna keabu-abuan dan tingkat kekerasan butiran nya cukup tinggi. Tetapi sekiranya anda mengepal nya dengan tangan tidak akan menggumpal dan akan hancur kembali. ragam pasir ini amat lah bagus buat Pengecoran, Plesteran Dinding, Adukan Pondasi dan Adukan Pasangan Bata Pasir ini yaitu pasir untuk Cor adalah butiran-butiran mineral keras dan tajam berukuran antara 0,075 – 5 mm, apabila terdapat butiran berukuran lebih kecil dari 0,063 mm tak lebih dari 5% berat. Pasir ini yaitu pasir untuk Rigid kerap digunakan untuk profesi cor-coran struktur seperti kolom, balok dan pelat lantai.
 
@@ -59,21 +58,18 @@ Untuk menerima kekuatan Cor yang maksimal maka pasir sepatutnya bisa memenuhi pr
 ![Harga Pasir Hitam Cor Free Ongkir Ke Situ Gede Bogor](/images/info/pasir-hitam-9.jpg)
 
 - ### Pasir Biasa Di Situ Gede Bogor
-    
 
 ![Harga Pasir Hitam Cor Free Ongkir Ke Situ Gede Bogor](/images/info/pasir-putih3.jpg)
 
 Pasir ini lebih halus lagi dibandingi oleh pasir beton. bila kamu mengepal pasir ini karenanya akan menggumpal dan tidak akan hancur kembali. pasir pasang umum nya di manfaatkan buat adukan pasir beton agar tak terlalu kasar dan bisa di manfaatkan untuk plesteran dinding.
 
 - ### Pasir Urug Untuk Pembuatan Batako Di Situ Gede Bogor
-    
 
 Di Antara ke dua pasir diatas pasir ragam ini lebih halus lagi, jika kalian mengepal nya akan menggumpal dan tidak akan buyar lagi. namun pasir tipe
 
 Pada nya pasir ini nyaris sama dgn pasir beton melainkan pasir ini mempunyai tingkat kekasaran yg tinggi, butiran - butiran nya cukup besar dan agak banyak batuan nya. pada lazimnya pasir ragam ini baik untuk bahan pengurugan lantai
 
 - ### Pasir Putih Tanpa Batu Untuk Taman Bermain Di Situ Gede Bogor
-    
 
 1. **Pasir Putih Bangka**
 

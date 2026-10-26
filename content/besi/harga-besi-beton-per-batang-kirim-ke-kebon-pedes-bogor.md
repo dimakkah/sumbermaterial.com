@@ -18,19 +18,19 @@ Dengan tidak adanya besi karenanya sebuah bangunan akan gampang retak dikala ada
 
 ## Mengetahui Macam-macam Besi Di Kebon Pedes Bogor
 
-### 1\. Besi Polos KS 4mm, 6mm, 8mm, 10mm, 12mm, 16mm, 18mm, 19mm Di Kebon Pedes Bogor
+### 1. Besi Polos KS 4mm, 6mm, 8mm, 10mm, 12mm, 16mm, 18mm, 19mm Di Kebon Pedes Bogor
 
 Besi polos memiliki ukuran mulai dari 8 mm sampai dengan 25 mm dan mempunyai 6 meter panjang tekuk dan 12 meter panjang lurus. Besi beton ini telah mulai diterapkan sebagai bahan utama di Indonesia pada tahun 1950. Besi ini sering kali kali digunakan untuk membangun tempat tinggal. Bahan yang gampang diterapkan sehingga selain digunakan untuk membangun rumah juga diterapkan untuk membangun trowongan, bendungan, dan lainnya. Dikala digunakan untuk membangun sebuah gedung bertingkat maka biasanya besi polos ini diterapkan untuk struktur rangkaian besi balok, dinding, dan sloof. Besi beton polos ini mempunyai keunggulan besi polos ini tegangannya lebih tinggi dari pada besi lainnya. Sehingga besi ini terkesan lebih kuat dan tahan beban. Sehingga penggunaan besi polos ini amat pantas untuk membangun gedung, jembatan, dan bangunan lainnya. Besi polos ini terbuat dari bahan seperti billet dan skrap. Billet merupakan baja batangan yang progres pembuatannya dengan melebur biji besi. Bila skrap yaitu besi bekas yang dileburkan dengan temperature tertentu. Selain itu sekiranya anda memakai besi polos ini tidak memerlukan budget pemeliharaan. Semakin lama diaplikasikan karenanya besi ini akan semakin kokoh.
 
-### 2\. Besi Ulir SNI 4mm, 6mm, 8mm, 10mm, 12mm, 16mm, 18mm, 19mm Di Kebon Pedes Bogor
+### 2. Besi Ulir SNI 4mm, 6mm, 8mm, 10mm, 12mm, 16mm, 18mm, 19mm Di Kebon Pedes Bogor
 
 Sesuai dengan namanya besi beton ulir ini adalah besi yang bentuknya mengulir. Pada permukaannya bercorak spiral yang mempunyai tujuan untuk menyatukan tulangan dengan unsur bahan bangunan yang dibangun oleh besi beton. Besi ulir ini mulai populer diaplikasikan pada abad ke-20 di Amerika dan mulai populer di Indonesia pada tahun1950. Mengingat dikala mengaplikasikan besi ulir ini memiliki banyak keunggulan mulai dari ketahanan bangunan serta lebih murah dan efisien. Produk besi ulir ini menjadi andalan pasar karena memiliki kualitas yang terbaik di Indonesia dan memiliki harga yang tinggi jika diperbandingkan dengan produk lainnya.
 
-### 3\. Besi WF dan H-Beam SNI Di Kebon Pedes Bogor
+### 3. Besi WF dan H-Beam SNI Di Kebon Pedes Bogor
 
 Besi Wide Flange (WF) ini ialah salah satu baja dengan struktural yang paling populer digunakan untuk kontruksi baja. Jika anda memerlukan besi baja Wide Flage dalam jumlah yang banyak atau sedikit karenanya silahkan cari supplier besi yang terpercaya. Besi WF ini memiliki kekuatan yang kokoh dan kuat pada ketahanan tarik atau tekan. Maka dari itu besi ini menjadi elemen struktur yang mempunyai batasan yang paripurna untuk menahan bobot tekan aksial, tarik aksial, dan lentur dengan fasilitas pembangunan strukturnya. Baja Wide Flange (WF) ini memiliki kepadatan yang tinggi tapi rasio berat antara kekuatan komponen Baja WF yang tinggi tapi tdk begitu berat yang berkaitan dengan kapasitas muatan. Selain itu menetapkan jika kontruksi yang digunakan secara efisien. Sistem kontruksi baja WF ini kombinasi dari unsur struktur yang rumit. Pada struktur ini mempunyai tujuan membawa muatan yang aman dan tepat sasaran yang bekerja pada sebuah bangunan dan dikirim pada pondasinya. Gaya dan bobot yang bekerja ini termasuk bobot pertikal, perbedaan temperatur, horizontal, getaran dan lainnya. Pada sebuah bangunan baja, karenanya ada unsure yang bermanfaat menahan gaya lateral dan gravitasi.
 
-### 4\. Besi Holo Di Kebon Pedes Bogor
+### 4. Besi Holo Di Kebon Pedes Bogor
 
 Besi hollow yakni besi yang digunakan sebagai pembuatan kanopi, pagar, pintu besi dan lainnya. Bahan baku pembuatan besi Hollow ini umumnya terbuat dari stainless, galvanis, dan besi baja. Tetapi yang paling sering kali dipakai sebagai bahan baku yaitu galvanis. Terdapat kelebihan yang anda peroleh saat menerapkan kanopi, menerapkan pagar, teralis mengaplikasikan besi hollow:
 

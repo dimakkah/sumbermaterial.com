@@ -25,7 +25,7 @@ Berdasarkan Standar Nasional Indonesia ( SK SNI - S - 04 - 1989 - F ; 28) di seb
 
 Syarat-Syarat Pasir yg Bagus tuk Konstruksi
 
-1.  Agregat Halus sepatutnya terdiri dari butiran yang tajam dan keras dengan indeks kekerasan <2.2
+1.  Agregat Halus sepatutnya terdiri dari butiran yang tajam dan keras dengan indeks kekerasan <2.2
 2. jikalau diterapkan Natrium Sulfat komponen hancur maksimal dua belas persen
 3. Jika digunakan Magnesium Sulfat bagian halus optimal sepuluh %
 4. Tidak boleh berisi tanah lebih dari 5 persen
@@ -41,7 +41,6 @@ Syarat-Syarat Pasir yg Bagus tuk Konstruksi
 setelah memahami prasyarat pasir buat sebuah Bangunan, sekarang ini kita bahas Macam - Ragam Pasir Untuk Konstruksi Bangunan penjelasan nya sebagai berikut:
 
 - ### Pasir Cor Di Ciputat Tangerang
-    
 
 Pasir ini lazim nya berwarna keabu-abuan dan tingkat pecahan butiran nya lumayan tinggi. Melainkan apabila anda mengepal nya dengan tangan tidak akan lengket dan akan buyar kembali. jenis pasir ini sungguh-sungguh lah bagus buat Pengecoran, Plesteran Dinding, Adukan Pondasi dan Adukan Pasangan Bata Pasir ini yaitu pasir untuk Rigid ialah butiran-butiran mineral keras dan tajam berukuran antara 0,075 – 5 mm, jikalau terdapat butiran berukuran lebih kecil dari 0,063 mm tak lebih dari 5% berat. Pasir ini yaitu pasir untuk Cor hampir kerap kali digunakan untuk profesi cor-coran struktur seperti kolom, balok dan pelat lantai.
 
@@ -59,21 +58,18 @@ Untuk menerima kualitas Rigid yang optimal maka pasir mesti bisa memenuhi persya
 ![Harga Pasir Pasang Free Ongkir Ke Ciputat Tangerang](/images/info/pasir-hitam-7.jpg)
 
 - ### Pasir Standar Di Ciputat Tangerang
-    
 
 ![Harga Pasir Pasang Free Ongkir Ke Ciputat Tangerang](/images/info/pasir-hitam-4.jpg)
 
 Pasir ini ekstra halus lagi diperbandingkan oleh pasir beton. apabila kamu mengepal pasir ini maka akan menggumpal dan tidak akan buyar kembali. pasir pasang biasa nya di pakai buat adukan pasir beton agar tak terlampau kasar dan dapat di manfaatkan untuk plesteran dinding.
 
 - ### Pasir Elod Untuk pengurugan lantai Di Ciputat Tangerang
-    
 
 Di Antara ke dua pasir diatas pasir tipe ini lebih halus lagi, jikalau anda mengepal nya karenanya akan menggumpal dan tidak akan buyar lagi. tetapi pasir jenis
 
 Pada umum nya pasir ini nyaris sama dengan pasir beton namun pasir ini memiliki tingkat kekasaran yg tinggi, butiran - butiran nya lumayan besar dan agak banyak batuan nya. pada biasanya pasir macam ini bagus tuk bahan pemadatan lantai
 
 - ### Pasir Putih Tanpa Ayak Untuk Taman Bermain Di Ciputat Tangerang
-    
 
 1. **Pasir Putih Bangka**
 

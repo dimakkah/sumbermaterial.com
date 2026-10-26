@@ -18,19 +18,19 @@ Dengan tidak adanya besi karenanya sebuah bangunan akan mudah retak ketika ada g
 
 ## Inilah Jenis-jenis Besi Di Kosambi Tangerang
 
-### 1\. Besi Polos Toleransi 4mm, 6mm, 8mm, 10mm, 12mm, 16mm, 18mm, 19mm Di Kosambi Tangerang
+### 1. Besi Polos Toleransi 4mm, 6mm, 8mm, 10mm, 12mm, 16mm, 18mm, 19mm Di Kosambi Tangerang
 
 Besi polos mempunyai ukuran mulai dari 8 mm hingga 25 mm dan memiliki 6 meter panjang tekuk dan 12 meter panjang lurus. Besi beton ini mulai dipakai sebagai bahan utama di Indonesia pada tahun 1950. Besi ini kerap kali diterapkan untuk membangun sebuah gedung. Bahan yang mudah digunakan sehingga selain dari diterapkan untuk membangun bangunan beton juga diaplikasikan untuk membangun trowongan, bendungan, dan lainnya. Ketika diterapkan untuk membangun bangunan beton bertingkat karenanya biasa besi polos ini diterapkan untuk struktur tulangan balok, dinding, dan sloof. Besi beton polos ini memiliki keunggulan besi polos ini tegangannya lebih tinggi dari pada besi lainnya. Sehingga besi ini terkesan lebih kuat dan tahan beban. Sehingga penggunaan besi polos ini betul-betul layak untuk membangun gedung, jembatan, dan bangunan lainnya. Besi polos ini terbuat dari bahan seperti billet dan skrap. Billet yaitu baja batangan yang pengerjaan pembuatannya dengan melebur biji besi. Bila skrap adalah besi bekas yang dihancurkan dengan temperature tertentu. Selain dari itu jika anda memakai besi polos ini tdk membutuhkan budget pemeliharaan. Kian lama diaplikasikan maka besi ini akan kian kokoh.
 
-### 2\. Besi Ulir 4mm, 6mm, 8mm, 10mm, 12mm, 16mm, 18mm, 19mm Di Kosambi Tangerang
+### 2. Besi Ulir 4mm, 6mm, 8mm, 10mm, 12mm, 16mm, 18mm, 19mm Di Kosambi Tangerang
 
 Sesuai dengan namanya besi beton ulir ini ialah besi yang bentuknya mengulir. Pada permukaannya bercorak spiral yang mempunyai tujuan untuk menyatukan gerigi besi dengan faktor bahan bangunan yang dibentuk oleh besi beton. Besi ulir ini mulai populer diaplikasikan pada abad ke-20 di Amerika dan mulai populer di Indonesia pada tahun1950. Mengingat dikala memakai besi ulir ini mempunyai banyak kelebihan mulai dari kekokohan bangunan serta lebih ekonomis dan efisien. Produk besi ulir ini menjadi primadona pasar sebab mempunyai kwalitas yang terbaik di Indonesia dan mempunyai harga yang tinggi bila dibandingi dengan produk lainnya.
 
-### 3\. Besi WF dan H-Beam Di Kosambi Tangerang
+### 3. Besi WF dan H-Beam Di Kosambi Tangerang
 
 Besi Wide Flange (WF) ini ialah salah satu baja dengan struktural yang paling banyak dipakai untuk kontruksi baja. Jika anda membutuhkan besi baja Wide Flage dalam quantitas yang banyak atau sedikit maka silahkan cari jual besi yang terpercaya. Besi WF ini mempunyai ketahanan yang kokoh dan kokoh pada kekuatan tarik atau tekan. Maka dari itu besi ini menjadi faktor struktur yang memiliki batasan yang sempurna untuk menopang beban tekan aksial, tarik aksial, dan lentur dengan fasilitas pembangunan strukturnya. Baja Wide Flange (WF) ini memiliki kepadatan yang tinggi tapi rasio berat antara ketahanan komponen Baja WF yang tinggi namun tdk begitu berat yang berhubungan dengan kapasitas bobot. Selain dari itu menetapkan sekiranya kontruksi yang digunakan secara efisien. Metode kontruksi baja WF ini kombinasi dari unsur struktur yang rumit. Pada struktur ini memiliki tujuan membawa beban yang aman dan efektif yang berefek pada sebuah bangunan dan dikirim pada pondasinya. Gaya dan bobot yang bekerja ini termasuk beban pertikal, perbedaan temperatur, horizontal, getaran dan lainnya. Pada sebuah bangunan baja, maka ada unsure yang berfungsi menahan gaya lateral dan gravitasi.
 
-### 4\. Besi Holo Di Kosambi Tangerang
+### 4. Besi Holo Di Kosambi Tangerang
 
 Besi hollow merupakan besi yang diaplikasikan sebagai pembuatan kanopi, pagar, pintu besi dan lainnya. Bahan baku pembuatan besi Hollow ini lazimnya terbuat dari stainless, galvanis, dan besi baja. Tetapi yang paling sering kali dipakai sebagai bahan baku yaitu galvanis. Terdapat kelebihan yang anda temukan ketika memasang kanopi, memasang pagar, teralis menggunakan besi hollow:
 

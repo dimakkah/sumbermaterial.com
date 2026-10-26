@@ -25,7 +25,7 @@ Menurut Standar Nasional Indonesia ( SK SNI - S - 04 - 1989 - F ; 28) di sebutka
 
 Prasyarat Pasir yg Bagus Untuk Konstruksi Bangunan
 
-1.  Agregat Halus sepatutnya terdiri dari butiran yg tajam dan keras dengan indeks kekerasan <2.2
+1.  Agregat Halus sepatutnya terdiri dari butiran yg tajam dan keras dengan indeks kekerasan <2.2
 2. Kalau digunakan Natrium Sulfat bagian hancur maksimal dua belas %
 3. Jika digunakan Magnesium Sulfat bagian halus optimal sepuluh persen
 4. Tidak boleh memuat clay lebih dari lima persen
@@ -41,7 +41,6 @@ Prasyarat Pasir yg Bagus Untuk Konstruksi Bangunan
 Setelah tahu persis prasyarat pasir tuk sebuah Bangunan, saat ini kita bahas Tipe - Tipe Pasir Untuk Bangunan penjelasan nya berikut ini:
 
 - ### Pasir Tipe Beton dan Lokasi Pengambilannya Di Jatimulya Depok
-    
 
 Pasir ini lazim nya berwarna keabu-abuan dan tingkat kekasaran butiran nya lumayan tinggi. Tapi kalau anda mengepal nya dengan tangan tak akan lengket dan akan hancur kembali. tipe pasir ini betul-betul lah baik untuk Pengecoran, Plesteran Dinding, Adukan Pondasi dan Adukan Pasangan Bata Pasir ini yaitu pasir untuk Beton adalah butiran-butiran mineral keras dan tajam berukuran antara 0,075 – 5 mm, apabila terdapat butiran berukuran lebih kecil dari 0,063 mm tak lebih dari 5% berat. Pasir ini yaitu pasir untuk Rigid sering dipakai untuk pekerjaan cor-coran struktur seperti kolom, balok dan pelat lantai.
 
@@ -59,21 +58,18 @@ Untuk menerima kualitas Cor yang optimal karenanya pasir patut mampu memenuhi sy
 ![Harga Pasir Ekstra Beton Free Ongkir Ke Jatimulya Depok](/images/info/pasir-hitam-7.jpg)
 
 - ### Pasir Biasa Di Jatimulya Depok
-    
 
 ![Harga Pasir Ekstra Beton Free Ongkir Ke Jatimulya Depok](/images/info/pasir-hitam-11.jpg)
 
 Pasir ini ekstra halus lagi dibandingi oleh pasir beton. apabila anda mengepal pasir ini maka akan menggumpal dan tak akan hancur kembali. pasir pasang umum nya di gunakan buat campuran pasir beton agar tidak kelewat kasar dan bisa di gunakan untuk plesteran dinding.
 
 - ### Pasir Elod Untuk pemadatan lantai Di Jatimulya Depok
-    
 
 Di Antara ke dua pasir diatas pasir ragam ini lebih halus lagi, seandainya anda mengepal nya karenanya akan menggumpal dan tidak akan buyar lagi. melainkan pasir macam
 
 Pada umum nya pasir ini nyaris sama dgn pasir beton tetapi pasir ini memiliki tingkat kekasaran yang tinggi, butiran - butiran nya lumayan besar dan agak banyak batuan nya. pada lazimnya pasir ragam ini baik untuk bahan Pembuatan Batako
 
 - ### Pasir Putih Halus Untuk Pasang Keramik Di Jatimulya Depok
-    
 
 1. **Pasir Putih Bangka**
 

@@ -25,7 +25,7 @@ Berdasarkan Standar Nasional Indonesia ( SK SNI - S - 04 - 1989 - F ; 28) di seb
 
 Syarat Pasir yang Bagus tuk Konstruksi Bangunan
 
-1.  Agregat Halus semestinya terdiri dari butiran yang tajam dan keras dengan indeks kekerasan <2.2
+1.  Agregat Halus semestinya terdiri dari butiran yang tajam dan keras dengan indeks kekerasan <2.2
 2. bilamana dimanfaatkan Natrium Sulfat komponen hancur maksimal 12 persen
 3. Apabila digunakan Magnesium Sulfat bagian halus optimal sepuluh %
 4. Tak boleh mengandung clay lebih dari lima persen
@@ -41,7 +41,6 @@ Syarat Pasir yang Bagus tuk Konstruksi Bangunan
 setelah mengetahui syarat pasir buat suatu Konstruksi, pada saat ini kita bahas Ragam - Ragam Pasir Untuk Bangunan penjelasan nya berikut ini:
 
 - ### Pasir Beton Di Cakung Jakarta
-    
 
 Pasir ini biasa nya berwarna hitam kemerahan dan tingkat pecahan butiran nya lumayan tinggi. Namun jika anda mengepal nya dengan tangan tak akan menggumpal dan akan hancur kembali. jenis pasir ini sungguh-sungguh lah baik tuk Pengecoran, Plesteran Dinding, Adukan Pondasi dan Adukan Pasangan Bata Pasir ini yaitu pasir untuk Cor yakni butiran-butiran mineral keras dan tajam berukuran antara 0,075 – 5 mm, sekiranya terdapat butiran berukuran lebih kecil dari 0,063 mm tak lebih dari 5% berat. Pasir ini yaitu pasir untuk Beton hampir sering kali digunakan untuk profesi cor-coran struktur seperti kolom, balok dan pelat lantai.
 
@@ -59,21 +58,18 @@ Untuk mendapatkan kualitas Cor yang maksimal karenanya pasir wajib mampu memenuh
 ![Harga Pasir Rangkas Free Ongkir Ke Cakung Jakarta](/images/info/pasir-hitam-9.jpg)
 
 - ### Pasir Pasang Di Cakung Jakarta
-    
 
 ![Harga Pasir Rangkas Free Ongkir Ke Cakung Jakarta](/images/info/jual-pasir-mundu-2.jpg)
 
 Pasir ini lebih halus lagi dibandingkan oleh pasir beton. apabila anda mengepal pasir ini maka akan menggumpal dan tak akan hancur kembali. pasir pasang lazim nya di manfaatkan buat campuran pasir beton agar tidak terlampau kasar dan dapat di manfaatkan untuk plesteran dinding.
 
 - ### Pasir Urug Untuk pemadatan lantai Di Cakung Jakarta
-    
 
 Di Antara ke dua pasir diatas pasir jenis ini lebih halus lagi, seandainya anda mengepal nya maka akan menggumpal dan tidak akan buyar lagi. tapi pasir jenis
 
 Pada nya pasir ini nyaris sama dengan pasir beton akan tetapi pasir ini memiliki tingkat kekasaran yg tinggi, butiran - butiran nya lumayan besar dan agak banyak batuan nya. pada biasanya pasir macam ini bagus untuk bahan pengurugan lantai
 
 - ### Pasir Putih Tanpa Ayak Untuk Pelester Di Cakung Jakarta
-    
 
 1. **Pasir Putih Bangka**
 

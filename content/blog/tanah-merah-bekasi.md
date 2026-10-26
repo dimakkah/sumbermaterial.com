@@ -17,7 +17,6 @@ draft: false
 
 {{< toc >}}
 
-
 Nah, di artikel ini Kami akan membahas tuntas tentang tanah merah Bekasi, mulai dari tips memilih yang berkualitas, faktor-faktor yang mempengaruhi harga, sampai perkiraan biaya yang perlu Anda siapkan.
 
 ## Kenali Lebih Dalam Tentang Tanah Merah Bekasi
@@ -30,10 +29,10 @@ Bukan semua tanah merah sama. Kualitasnya sangat bervariasi tergantung sumber da
 
 Harga tanah merah Bekasi bisa sangat fluktuatif. Beberapa faktor utama yang mempengaruhinya antara lain:
 
-*   **Jarak Pengiriman:** Semakin jauh lokasi pengiriman dari sumber tanah merah, tentu biaya transportasinya akan semakin tinggi. Ini adalah komponen biaya terbesar dalam harga jual.
-*   **Kualitas Tanah Merah:** Seperti yang sudah Kami bahas sebelumnya, kualitas tanah merah sangat bervariasi. Tanah merah dengan kandungan lumpur tinggi biasanya lebih murah, tetapi kurang ideal untuk urugan bangunan.
-*   **Volume Pemesanan:**  Biasanya, semakin besar volume pesanan, harga per truk akan semakin murah. Supplier biasanya memberikan diskon untuk pembelian dalam jumlah besar.
-*   **Kondisi Cuaca:** Saat musim hujan, harga tanah merah cenderung naik karena kesulitan dalam penggalian dan pengiriman.
+- **Jarak Pengiriman:** Semakin jauh lokasi pengiriman dari sumber tanah merah, tentu biaya transportasinya akan semakin tinggi. Ini adalah komponen biaya terbesar dalam harga jual.
+- **Kualitas Tanah Merah:** Seperti yang sudah Kami bahas sebelumnya, kualitas tanah merah sangat bervariasi. Tanah merah dengan kandungan lumpur tinggi biasanya lebih murah, tetapi kurang ideal untuk urugan bangunan.
+- **Volume Pemesanan:**  Biasanya, semakin besar volume pesanan, harga per truk akan semakin murah. Supplier biasanya memberikan diskon untuk pembelian dalam jumlah besar.
+- **Kondisi Cuaca:** Saat musim hujan, harga tanah merah cenderung naik karena kesulitan dalam penggalian dan pengiriman.
 
 Sebagai gambaran, harga tanah merah di Bekasi pada tahun ini (2026) berkisar antara Rp 300.000 hingga Rp 500.000 per truk (kapasitas 6-8 m3). Harga ini bersifat estimasi dan dapat berubah sewaktu-waktu — hubungi Kami untuk penawaran terbaru dan paling akurat sesuai kebutuhan proyek Mitra.
 
@@ -52,7 +51,6 @@ Memilih tanah merah yang tepat adalah kunci keberhasilan proyek Anda. Berikut be
 
 Meskipun tanah merah adalah pilihan populer, ada beberapa material urugan lain yang bisa Anda pertimbangkan. Berikut tabel perbandingan singkatnya:
 
-
 <table class="table">
   <caption>Perbandingan Material Urugan</caption>
   <thead>
@@ -64,7 +62,6 @@ Meskipun tanah merah adalah pilihan populer, ada beberapa material urugan lain y
     <tr><td>Batu Split</td><td>Kuat dan stabil, Tahan lama</td><td>Harga paling mahal, Sulit dipadatkan</td><td>Rp 120.000 - Rp 200.000</td></tr>
   </tbody>
 </table>
-
 
 Harga di atas adalah estimasi dan dapat bervariasi tergantung lokasi dan supplier. Anda juga perlu mempertimbangkan faktor lain seperti kemudahan dalam pengangkutan dan ketersediaan material.  Mitra Sumber Material, pemilihan material urugan yang tepat akan sangat mempengaruhi kualitas dan umur bangunan Anda.
 

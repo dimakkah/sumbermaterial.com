@@ -16,7 +16,7 @@ sekarang ini material yang digunakan untuk mengisi dinding tempat tinggal, telah
 
 ## Mengenal Macam-macam Bata
 
-### 1\. Bata Merah Standar & Jumbo Di Telukjambe Timur Karawang
+### 1. Bata Merah Standar & Jumbo Di Telukjambe Timur Karawang
 
 ![Harga Batako 3 Lubang Gratis Ongkir Ke Telukjambe Timur Karawang](/images/bata/bata-merah-oven-01.png)
 
@@ -26,7 +26,7 @@ Bata merah ini diproduksi dari bahan tanah yg kemudian di cetak dan dioven dg su
 
 Material bangunan ini benar-benar kuat terhadap panas dan layak dijadikan proteksi dari bahaya api. Bata merah ini pada biasanya memiliki ukuran panjang antara 17-23 cm dan lebar sekitar 7-11 cm, serta tebalnya 3-5 cm. memiliki ukuran yang lebih kecil akan memberi kemudahan dalam pelaksanaan pengangkutan dan bisa diterapkan untuk membentuk bidang kecil.
 
-### 2\. Batako Hitam dan Putih Di Telukjambe Timur Karawang
+### 2. Batako Hitam dan Putih Di Telukjambe Timur Karawang
 
 ![Harga Batako 3 Lubang Gratis Ongkir Ke Telukjambe Timur Karawang](/images/bata/batako-hitam-press-31.png)
 
@@ -34,7 +34,7 @@ Bahan bangunan dinding dari batako ini secara lazimnya terbuat dari material cam
 
 Batako press seperti ini memiliki kekurangan seperti mudah pecah, lebih panas dan pengap. Berbeda dg bata merah yang terbuat dari material tanah. Tetapi batako press ini cenderung lebih ringan daripada bata merah. Kesudahannya akan nampak lebih halus dan ukurannya lebih presisi seandainya dibandingi dg bata merah. Batako Hitam ini memiliki ukuran panjang sekitar 36-40 cm, tinggi 18-20 cm dan tebal 8-10 cm. material ini sering kali dipilih karena untuk memperingan bobot struktur bangunan, meminimalisir sisa material dan mempercepat pembangunan.
 
-### 3\. Bata Herbel Di Telukjambe Timur Karawang
+### 3. Bata Herbel Di Telukjambe Timur Karawang
 
 ![Harga Batako 3 Lubang Gratis Ongkir Ke Telukjambe Timur Karawang](/images/bata/bata-hebel-sni-03.png)
 
@@ -62,7 +62,7 @@ Seluruhnya tentu telah tahu fungsi utama batu bata mulai diaplikasikan untuk mem
 
 Metode memesan batu bata yang aman dan terpercaya:
 
-1.  Kerja pembayaran dapat anda lakukan secara COD atau dibayar di tempat dikala barang pesanan anda sudah datang di daerah
+1.  Kerja pembayaran dapat anda lakukan secara COD atau dibayar di tempat dikala barang pesanan anda sudah datang di daerah
 2. Silahkan memilih dan menentukan bahan batu bata yang anda inginkan
 3. Tentukan juga jumlah orderan batu bata yang anda butuhkan dalam wujud bijian.
 4. Anda dapat menghubungi layanan telepon toko untuk mempermudah pelaksanaan pengorderan

@@ -22,19 +22,19 @@ Pemasangan baja ringan untuk kebutuhan bangunan dapat dijalankan dg cukup mudah,
 
 Berikut ini kami berikan beberapa alasan dasar yang harus anda ketahui sebelum whatsapp kami, Alasan Anda seharusnya memilih baja ringan sebagai kerangka atap dan Canopy.
 
- Baja ringan dianggap lebih ramah lingkungan sebab anda tidak membutuhkan kayu yg mana untuk mendapatkanya wajib menebang pohon terutamanya dulu, dengan menerapkan kerangka baja ringan sebagai kerangka atap dan Kanopi, anda telah turut membantu dalam melestarikan alam.
+- Baja ringan dianggap lebih ramah lingkungan sebab anda tidak membutuhkan kayu yg mana untuk mendapatkanya wajib menebang pohon terutamanya dulu, dengan menerapkan kerangka baja ringan sebagai kerangka atap dan Kanopi, anda telah turut membantu dalam melestarikan alam.
 
- lebih ekonomis, bilamana ada memakai kerangka dari bahan kayu, kami rasa biayanya akan jauh lebih mahal karena utk mendapatkan kayu dg kualitas terbaik diperlukan juga tarif yg lebih besar. Terutamanya ini untuk komponen kerangka yg pastinya cukup krusial utk sebuah bangunan. Anda seharusnya memikirkan ini matang-matang untuk menekan tarif pembangunan.
+- lebih ekonomis, bilamana ada memakai kerangka dari bahan kayu, kami rasa biayanya akan jauh lebih mahal karena utk mendapatkan kayu dg kualitas terbaik diperlukan juga tarif yg lebih besar. Terutamanya ini untuk komponen kerangka yg pastinya cukup krusial utk sebuah bangunan. Anda seharusnya memikirkan ini matang-matang untuk menekan tarif pembangunan.
 
- Ringan dan kuat, baja ringan berbeda dg “ baja / besi “ yang mempunyai berat 2 kali lipat dari berat bajar ringan. Baja ringan ini memiliki ketebalan yang tipis dan ringan, sehingga benar-benar kuat utk kerangka atap dan pembuatan Kanopi rumah anda.
+- Ringan dan kuat, baja ringan berbeda dg “ baja / besi “ yang mempunyai berat 2 kali lipat dari berat bajar ringan. Baja ringan ini memiliki ketebalan yang tipis dan ringan, sehingga benar-benar kuat utk kerangka atap dan pembuatan Kanopi rumah anda.
 
- Bebas utk pemeliharaan, tidak perlu khawatir kerangka atap anda rusak dan lain-lain, kami yakin ini akan membebaskan anda dari perawatan tahunan.
+- Bebas utk pemeliharaan, tidak perlu khawatir kerangka atap anda rusak dan lain-lain, kami yakin ini akan membebaskan anda dari perawatan tahunan.
 
- Cara pemasangan yg pesat, berbeda dengan kerangka atap yang terbuat dari bahan kayu dan bahan lain, membutuhkan waktu yg lama dalam cara kerjanya. Ini tak berlaku untuk anda yang menggunakan kerangka atap dari bahan baja ringan.
+- Cara pemasangan yg pesat, berbeda dengan kerangka atap yang terbuat dari bahan kayu dan bahan lain, membutuhkan waktu yg lama dalam cara kerjanya. Ini tak berlaku untuk anda yang menggunakan kerangka atap dari bahan baja ringan.
 
- Bahan berkualitas, baja ringan dari kami bukanlah baja ringan sembaranga, bahan utamanya yaitu zinc dan aluminium yg telah memiliki sertifikat dan standar keamanan 4 kali lebih bagus diperbandingkan baja biasa. Malahan dayanya dapat menyangga berkilo-kilo.
+- Bahan berkualitas, baja ringan dari kami bukanlah baja ringan sembaranga, bahan utamanya yaitu zinc dan aluminium yg telah memiliki sertifikat dan standar keamanan 4 kali lebih bagus diperbandingkan baja biasa. Malahan dayanya dapat menyangga berkilo-kilo.
 
- tahan rayap, telah kami pastikan juga bahwa kerangka atap dan Canopy dari baja ringan ini dijamin tahan rayap.
+- tahan rayap, telah kami pastikan juga bahwa kerangka atap dan Canopy dari baja ringan ini dijamin tahan rayap.
 
 ## Sistem Hitung Luas Rangka Baja Ringan Di Tigaraksa Tangerang
 
@@ -62,15 +62,15 @@ Berbicara mengenai Harga Jasa pasang baja ringan, sebetulnya telah banyak sekali
 
 Adapun Paramerter Besaran Biaya Layanan Pasang Baja Ringan
 
-### 1\. Pembuatan sketsa design
+### 1. Pembuatan sketsa design
 
 Perhitungan biaya juga berdasarkan dari Desain atau pola sketsa yg akan dilaksanakan oleh regu teknisi kami segera di okasi anda. Desain skets ini sepatutnya diciptakan untuk memutuskan keperluan jumlah baja ringan yang dibutuhkan sehingga tidak membuang banyak sisa material karena terang itu dapat merugikan konsumen. Pembuatan sketsa juga termasuk hitungan biaya pasang baja ringan dari Jasa kami.
 
-### 2\. Menghitung utk keperluan rangka
+### 2. Menghitung utk keperluan rangka
 
 Kecuali sesudah anda memiliki sketsa pemasangan, dilanjutkan ke tingkatan menghitungkan keperluan rangka yg patut disiapkan utk memperkirakan jumlah material baja ringan yg nantinya dibutuhkan. itu, anda dapat bertanya kepada regu teknisi kami mengenai waktu dan mutu dari tiap material, kunsultasikan secara menyeluruh untuk menerima material yang benar-benar tepat pantas kebutuhan anda.
 
-### 3\. Menghitung budget yg dipelukan
+### 3. Menghitung budget yg dipelukan
 
 Tahap selanjutnya kalau pembuatan sketa dan perhitungan rangka telah dikerjakan, anda bisa mendiskusikan mengenai Survei biaya dari semua sempurna cara kerja pemasangan baja ringan ini. Budget yg diperlukan jelas berdasarkan dari beberapa hal seperti jumlah rangka, luas komponen kerangka, material tambahan, energi teknisi, pengiriman dan lain sebagainya. Mintalah kepada tim yang bertugas rincian Harga Layanan pasang baja ringan ini sebagai ilustrasi bagi anda dalam menyiapkan budget. Anda juga bisa memilih jenis baja ringan dari yang paling standar hingga yg benar-benar bermutu baik, konsultasikan secara matang dg teknisi kami saat di lokasi anda.
 
@@ -78,7 +78,7 @@ Tahap selanjutnya kalau pembuatan sketa dan perhitungan rangka telah dikerjakan,
 
 Berikut info detail dari Harga Layanan pasang baja ringan yg harus anda ketahui, ini penting utk anda ketahui dalam menentukan besaran budget yg dibutuhkan.
 
-\- Harga Jasa kami sudah termasuk biaya pasangan yg tentunya lebih murah dan banyak memberikan harga diskon untuk konsumen - Harga yg kami patok juga sudah cocok dengan Layanan pemasangan, perhitungan dan material yg terpasang - Harga terbaik dari kami selalu kami utakan pada saat berjumpa dg anda - Biaya Jasa pasang baja ringan bisa sewaktu-waktu berubah sebab faktor material - Pembayaran bisa dg down payment dan sisanya sesudah pemasangan selesai
+- Harga Jasa kami sudah termasuk biaya pasangan yg tentunya lebih murah dan banyak memberikan harga diskon untuk konsumen - Harga yg kami patok juga sudah cocok dengan Layanan pemasangan, perhitungan dan material yg terpasang - Harga terbaik dari kami selalu kami utakan pada saat berjumpa dg anda - Biaya Jasa pasang baja ringan bisa sewaktu-waktu berubah sebab faktor material - Pembayaran bisa dg down payment dan sisanya sesudah pemasangan selesai
 
 .
 

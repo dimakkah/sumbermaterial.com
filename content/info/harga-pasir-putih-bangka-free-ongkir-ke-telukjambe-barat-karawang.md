@@ -25,7 +25,7 @@ berdasarkan Standar Nasional Indonesia ( SK SNI - S - 04 - 1989 - F ; 28) di tut
 
 Prasyarat Pasir yang Baik buat Konstruksi Bangunan
 
-1.  Agregat Halus sepatutnya terdiri dari butiran yang tajam dan keras dengan indeks kekerasan <2.2
+1.  Agregat Halus sepatutnya terdiri dari butiran yang tajam dan keras dengan indeks kekerasan <2.2
 2. jika dimanfaatkan Natrium Sulfat bagian hancur maksimal 12 persen
 3. jika diterapkan Magnesium Sulfat komponen halus optimal 5 persen
 4. Tidak boleh mengandung clay lebih dari lima persen
@@ -41,7 +41,6 @@ Prasyarat Pasir yang Baik buat Konstruksi Bangunan
 setelah memahami syarat pasir tuk suatu Konstruksi, pada saat ini kita bahas Macam - model Pasir Untuk Bangunan penjelasan nya sebagai berikut:
 
 - ### Pasir Rigid Di Telukjambe Barat Karawang
-    
 
 Pasir ini umum nya berwarna hitam kemerahan dan tingkat kekerasan butiran nya cukup tinggi. Melainkan seandainya anda mengepal nya dengan tangan tidak akan lengket dan akan buyar kembali. macam pasir ini amat lah bagus tuk Pengecoran, Plesteran Dinding, Adukan Pondasi dan Adukan Pasangan Bata Pasir ini yaitu pasir untuk Rigid adalah butiran-butiran mineral keras dan tajam berukuran antara 0,075 – 5 mm, apabila terdapat butiran berukuran lebih kecil dari 0,063 mm tidak lebih dari 5% berat. Pasir ini yaitu pasir untuk Beton hampir acap kali diterapkan untuk pekerjaan cor-coran struktur seperti kolom, balok dan pelat lantai.
 
@@ -52,9 +51,9 @@ Harga Pasir Putih Bangka Free Ongkir Ke Telukjambe Barat Karawang Sekiranya anda
 Pasir nomor satu asal kp. jebrod cianjur jawa barat yang diterapkan oleh indocement serta perusahaan batching plant lainnya sebagai bahan dasar produksi readymix concrete. Pasir ini paling dianjurkan untuk cor sebab irit semen juga mempunyai kandungan lumpur yang amat rendah dibawah delapan %. warnanya Hitam abu tua atau hitam seperti hitamnya batu kali, ada juga yang hitam kemerahan atau hitam terasi
 
 3. **Pasir Hitam Rigid Cimangkok.** Pasir dari Tempat penambangannya di cimangkok sukabumi jawa barat yang masih masuk pada kategori pasir hitam kelas satu di jabar, warnanya hitam kecoklatan sesuai untuk cor, pasang pondasi dan bata
-    
+
     ![Harga Pasir Putih Bangka Free Ongkir Ke Telukjambe Barat Karawang](/images/info/pasir-hitam-8.jpg)
-    
+
 4. **Pasir Hitam Rigid Cimalaka Subang Bandung.**
 
 Pasir terbaik yang berwarna hitam kebauan ada juga yang berwarna hitam abu tua. Banyak di pakai untuk Cor, pasang dan keperluan lainnya. Ditambang di kampung cimalaka
@@ -90,9 +89,9 @@ Kecuali Rangkasbitung, Banten juga mempunyai lokasi pnembangan pasir lain sepert
 Masih dari Lokasi di banten, pasir kelas tiga ini yakni pasir yang banyak diterapkan di proyek proyek perumahan atau cluster sebab harganya yang murah juga kwalitas yang bagus. Warna pasir ini hitam kecoklatan dan keabuan benar-benar disarankan untuk pasang pondasi, bata, batu dan lainnya
 
 27. **Pasir Hitam Cor Bohlam Sukabumi.** Pasir dari Daerah kp. bohlam di sukabumi berwarna hitam kecoklatan, betul-betul bagus untuk pasang bata, pondasi dan lainnya sebagai opsi pasir mutu tidak diragukan dan ekonomis
-    
+
     ![Harga Pasir Putih Bangka Free Ongkir Ke Telukjambe Barat Karawang](/images/info/pasir-hitam-7.jpg)
-    
+
 28. **Pasir Rigid Galunggung.**
 
 Pasir ini ialah pasir hitam mutu paling unggul dikelasnya awam diterapkan oleh pabrik pengolahan beton readymix juga perusahan pembuatan precast dan sering kali juga diaplikasikan untuk bahan pembuatan batako press hitam, paving block dsb. Pasir ini ditambang dari Tasikmalaya jabar.
@@ -100,21 +99,18 @@ Pasir ini ialah pasir hitam mutu paling unggul dikelasnya awam diterapkan oleh p
 ![Harga Pasir Putih Bangka Free Ongkir Ke Telukjambe Barat Karawang](/images/info/pasir-hitam-8.jpg)
 
 - ### Pasir Biasa Di Telukjambe Barat Karawang
-    
 
 ![Harga Pasir Putih Bangka Free Ongkir Ke Telukjambe Barat Karawang](/images/info/jual-pasir-mundu.jpg)
 
 Pasir ini lebih halus lagi dibandingi oleh pasir beton. bila kamu mengepal pasir ini karenanya akan menggumpal dan tak akan buyar kembali. pasir pasang biasa nya di pakai tuk adukan pasir beton supaya tidak terlalu kasar dan dapat di pakai untuk plesteran dinding.
 
 - ### Pasir Elod Untuk pemadatan lantai Di Telukjambe Barat Karawang
-    
 
 Di Antara ke dua pasir diatas pasir jenis ini lebih halus lagi, bila kamu mengepal nya akan menggumpal dan tak akan buyar lagi. tetapi pasir jenis
 
 Pada biasa nya pasir ini nyaris sama dgn pasir beton namun pasir ini mempunyai tingkat kekasaran yg tinggi, butiran - butiran nya cukup besar dan agak banyak batuan nya. pada umumnya pasir tipe ini baik untuk bahan Pembuatan Batako
 
 - ### Pasir Putih Bebas Lumpur Untuk Pelester Di Telukjambe Barat Karawang
-    
 
 1. **Pasir Putih Bangka**
 

@@ -6,14 +6,13 @@ type: "product"
 description: "Harga Jual Pasir Mundu Terbaru. Untuk anda yang ingin membeli pasir mundu anda harus terlebih dahulu memperhatikan kualitas dan kuantitas dari pasir tersebut"
 ---
 
-**Harga Jual Pasir Mundu** | Mitra Kami. Pasir adalah barang tambang yang digunakan paling banyak untuk kebutuhan Bahan bangunan dalam membangun Rumah dll. Bangunan yang kokoh selain harus diperhitungkan dari segi pondasi nya, dari segi bahan bangunannya juga harus diperhatikan juga. Agar bangunan tersebut bisa dapat berdiri dengan kokoh dan kuat selama bertahun-tahun lamanya.
+**Harga Jual Pasir Mundu** | Mitra Kami. Pasir adalah barang tambang yang digunakan paling banyak untuk kebutuhan Bahan bangunan dalam membangun Rumah dll. Bangunan yang kokoh selain harus diperhitungkan dari segi pondasi nya, dari segi bahan bangunannya juga harus diperhatikan juga. Agar bangunan tersebut bisa dapat berdiri dengan kokoh dan kuat selama bertahun-tahun lamanya.
 
 {{< toc >}}
 
 ![Harga Jual Pasir Mundu](/images/jual-pasir-mundu.jpg)
 
 - ## Mengenal Pasir Mundu
-    
 
 Pasir Mundu dengan dengan ciri khas warna pasir ini yang agak kecokelatan dan tekstur butirannya yang tidak terlalu kasar. Banyak diminati masyarakat untuk melakukan pekerjaan renovasi maupun membangun rumah tinggal. Pasir Mundu terbilang cukup baik kualitasnya, dengan harga yang relatif murah sehingga pekerjaan pembangunan suatu konstruksi gedung, rumah maupun sarana lainnya akan menjadi lebih hemat dan efisien.
 
@@ -26,12 +25,10 @@ Semen dan pasir mundu yang tidak tercampur sempurna biasanya pasti akan membuat 
 Cara mengaduk pasir mundu dan semen yang benar adalah dengan mencampurkan semen dan pasir mundu hingga rata. Kemudian buatlah lubang di tengah adonan tersebut yang nantinya akan diisi air tujuannya supaya air tidak mengalir kemana-mana. Gunakan air yang bersih sesuai kebutuhan, jangan terlalu padat atau terlalu encer karena hal ini akan dapat berpengaruh pada kualitas adonan.
 
 - ## Tempat Asal Pasir Mundu
-    
 
 Pasir jenis ini banyak di cari oleh sebagian orang karena kualitasnya yang memang sudah terbukti. Pasir ini berasal dari di Kota Cirebon. Pasir ini memiliki tekstur yang begitu lembut dan pasir ini termasuk pasir berkualitas unggul dan harganya pun relatif begitu bersahabat di kantong para konsumen. Maka dari itu pasir ini sering banyak di gunakan oleh konsumen yang memiliki budget terbatas.
 
 - ## Pasir Mundu Paling Laris
-    
 
 Pasir Mundu dengan tekstur butirannya yang tidak terlalu kasar banyak diminati masyarakat dalam melakukan pekerjaan untuk renovasi maupun membangun rumah tinggal. Pasir Mundu juga terbilang cukup baik kualitasnya, dengan harga yang relatif murah sehingga pekerjaan pembangunan suatu konstruksi gedung, rumah maupun sarana lainnya akan menjadi lebih hemat dan efisien.
 
@@ -40,12 +37,10 @@ Pasir Mundu juga banyak diminati oleh para pedagang/ pemilik toko material bahan
 ![Karakteristik dan Sifat Pasir Mundu](/images/pasir-putih6.jpg)
 
 - ## Karakteristik dan Sifat Pasir Mundu
-    
 
 Pasir jenis ini memiliki karakteristik berwarna hitam kecoklatan dan ada juga yang berwarna coklat ke kuningan dan biasanya mempunyai tekstur yang lembut. Jadi sangat cocok untuk di gunakan sebagai bahan bangunan. Sifat dari pasir ini adalah mudah tercampur dengan bahan lainnya, dan sangat mudah merekat pada bagian bangunan. Karena mudah dalam pengaplikasinnya maka pasir ini banyak yang memakainya dan menjadikannya sebagai jenis pasir andalan. Harganya yang murah dan serba guna cocok untuk segala jenis adukan.
 
 - ## Pasir yang Multi Fungsi
-    
 
 Pasir jenis ini memilki banyak fungsi yang dapat digunakan. Antara lain sebagai plesteran dingding dan juga yang lainnya. Untuk komposisi adonan semen dan pasir mundu untuk plesteran ada sedikit perbedaan. Komposisi dari adonan semen dan pasir mundu untuk plesteran dinding biasa tidak sama dengan plesteran dinding kamar mandi.
 
@@ -58,11 +53,10 @@ Kesalahan-kesalahan yang termasuk dalam masalah teknis misalnya pada saat melaku
 Retak-retak pada plesteran biasanya timbul disebabkan karena suhu yang panas dari batako atau bata merah yang mencari celah keluar untuk melepaskan suhu panasnya. Oleh karena itu yang perlu diperhatikan adalah jangan anda tergesa-gesa pada saat melakukan pekerjaan di bagian ini.
 
 - ## Cara Membeli Pasir Mundu
-    
 
 Untuk anda yang ingin membeli pasir mundu anda harus terlebih dahulu memperhatikan kualitas dan kuantitas dari pasir tersebut.
 
-### 1\. Kualitas Pasir
+## 1. Kualitas Pasir
 
 Pasir yang baik adalah pasir yang memiliki kualitas yang maksimal tanpa sedikitpun Campuran. Pasir yang memiliki kualitas bagus biasa nya harga nya relatif tinggi dan dikarenakan susah nya mendapat jenis pasir tersebut. Namun, Apapun jenis dari pasir tersebut, Cara termudah dalam memeriksa pasir yang baik dari segi kualitasnya adalah dengan melihat pasir tersebut tidak ada Campuran seperti Debu pasir atau biasa disebut dengan Ampas Pasir.
 
@@ -74,7 +68,7 @@ Bagaimana Cara nya Kita bisa tahu pasir tidak ada sedikitpun campuran dengan Amp
 
 Jika, pasir tersebut cepat terurai cepat oleh air tersebut maka dipastikan pasir tersebut memiliki kualitas campuran ampas pasir. Namun jika pasir tersebut tidak dapat cepat terurai maka pasir tersebut memiliki kualitas yang baik.
 
-### 2\. Kuantitas Pasir
+### 2. Kuantitas Pasir
 
 Ketika Anda membeli pasir dalam satuan kubikasi, truk ataupun yang lainnya. Alangkah penting nya Anda harus tahu akan dasar perhitungan pasir tersebut. Karena jika Anda terlalu menyepelekan perhitungannya, ibarat Kita ingin beli beras 10 liter menjadi 7 liter. Nahloh, Rugikan ! Lalu, Bagaimana kita tahu Perhitungan dasar nya ? Satuan yang biasa digunakan dalam aktifitas jual beli pasir adalah Kubikasi.
 

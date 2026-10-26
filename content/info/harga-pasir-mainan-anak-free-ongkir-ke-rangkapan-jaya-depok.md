@@ -25,7 +25,7 @@ menurut Standar Nasional Indonesia ( SK SNI - S - 04 - 1989 - F ; 28) di tuturka
 
 Prasyarat Pasir yg Bagus Untuk Konstruksi
 
-1.  Agregat Halus semestinya terdiri dari butiran yang tajam dan keras dengan indeks kekerasan <2.2
+1.  Agregat Halus semestinya terdiri dari butiran yang tajam dan keras dengan indeks kekerasan <2.2
 2. Sekiranya dipakai Natrium Sulfat bagian hancur maksimal dua belas %
 3. Sekiranya dipakai Magnesium Sulfat komponen halus maksimal sepuluh persen
 4. Tidak boleh memuat clay lebih dari 5 persen
@@ -41,7 +41,6 @@ Prasyarat Pasir yg Bagus Untuk Konstruksi
 Sesudah mengetahui syarat pasir tuk suatu Bangunan, pada saat ini kita bahas Jenis - Tipe Pasir Untuk Bangunan penjelasan nya sbb:
 
 - ### Pasir Untuk Pengecoran Di Rangkapan Jaya Depok
-    
 
 Pasir ini biasa nya berwarna coklat tua dan tingkat kekasaran butiran nya cukup tinggi. Namun kalau anda mengepal nya dengan tangan tidak akan menggumpal dan akan hancur kembali. macam pasir ini betul-betul lah baik tuk Pengecoran, Plesteran Dinding, Adukan Pondasi dan Adukan Pasangan Bata Pasir ini yaitu pasir untuk Beton adalah butiran-butiran mineral keras dan tajam berukuran antara 0,075 – 5 mm, apabila terdapat butiran berukuran lebih kecil dari 0,063 mm tidak lebih dari 5% berat. Pasir ini yaitu pasir untuk Cor tak jarang dipakai untuk profesi cor-coran struktur seperti kolom, balok dan pelat lantai.
 
@@ -59,21 +58,18 @@ Untuk memperoleh kualitas Beton yang optimal karenanya pasir harus mampu memenuh
 ![Harga Pasir Mainan Anak Free Ongkir Ke Rangkapan Jaya Depok](/images/info/pasir-hitam-7.jpg)
 
 - ### Pasir Untuk Adukan Pasang Batu, Pondasi, Bata, Ubin, Plester Di Rangkapan Jaya Depok
-    
 
 ![Harga Pasir Mainan Anak Free Ongkir Ke Rangkapan Jaya Depok](/images/info/pasir-putih12.jpg)
 
 Pasir ini lebih halus lagi dibandingkan oleh pasir beton. apabila kamu mengepal pasir ini maka akan menggumpal dan tak akan hancur kembali. pasir pasang lazim nya di manfaatkan untuk adukan pasir beton supaya tak terlampau kasar dan dapat di pakai untuk plesteran dinding.
 
 - ### Pasir Elod Untuk pemadatan lantai Di Rangkapan Jaya Depok
-    
 
 Di Antara ke dua pasir diatas pasir macam ini lebih halus lagi, jikalau anda mengepal nya akan menggumpal dan tak akan buyar lagi. namun pasir macam
 
 Pada biasa nya pasir ini nyaris sama dengan pasir beton melainkan pasir ini memiliki tingkat kekasaran yang tinggi, butiran - butiran nya lumayan besar dan agak banyak batuan nya. pada umumnya pasir macam ini bagus tuk bahan pengurugan lantai
 
 - ### Pasir Putih Halus Untuk Pasang Lantai Marmer Di Rangkapan Jaya Depok
-    
 
 1. **Pasir Putih Bangka**
 

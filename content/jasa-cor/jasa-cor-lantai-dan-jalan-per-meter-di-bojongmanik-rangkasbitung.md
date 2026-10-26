@@ -22,31 +22,31 @@ Teknik pengecoran sendiri terbagi menjadi dua bagian, yaitu metode traditional d
 
 **• metode traditional terdiri atas beberapa macam:**
 
-1\. Dry-Sand Casting
+1. Dry-Sand Casting
 
-2\. Full-Mold Casting
+2. Full-Mold Casting
 
-3\. Sand-Mold Casting
+3. Sand-Mold Casting
 
-4\. Vacuum-Mold Casting
+4. Vacuum-Mold Casting
 
-5\. Shell-Mold Casting
+5. Shell-Mold Casting
 
-6\. Cement-Mold Casting
+6. Cement-Mold Casting
 
 **• Teknik non traditional terdiri dari:**
 
-1\. Centrifugal Casting
+1. Centrifugal Casting
 
-2\. Investment Casting
+2. Investment Casting
 
-3\. Permanent-Mold Casting
+3. Permanent-Mold Casting
 
-4\. High-Pressure Die Casting
+4. High-Pressure Die Casting
 
-5\. Plaster-Mold Casting
+5. Plaster-Mold Casting
 
-6\. Solid-Ceramic Casting
+6. Solid-Ceramic Casting
 
 Sesungguhnya, baik teknik konvesional ataupun non traditional sama – sama memiliki kualitas yang bagus untuk sistem pengecoran. Pada intinya perbedaan antara teknik konvesional dan non konvesional terdapat pada sebuah contemporary casting yang tidak bergantung pada pasir dalam pembuatan cetakannya. Selain itu, temporary yang terdapat pada pengecoran akan di manfaatkan untuk memperoleh suatu produk berdasarkan geometriyang kecil. hingga, cukup relatif dibandingkan jika menggunakan konvesional casting. Dimana, Hasil coran non konvesional casting tidak perlu membutuhkan proses tambahan dalam menyelesaikan suatu permukaan. Sebagaimana di ketahui, jika jenis logam yg akan di lakukan pengecoran kebanyakan memakai logam besi secara bersama-sama. Hal ini di lakukan dengan memanfaatkan aluminium, kuningan, perak, dan beberapa material non logam lainnya. Sistem pengecoran sudah memiliki mekanisme yang lumayan sederhana. Inilah kenapa banyak yang menawarkan jasa pengecoran. Jasa pengecoran memang amat mudah di temukan. Di setiap sosial media Anda bisa melihat banyak iklan yg menawarkan jasa penyecoran. Hal ini tentu saja akan menjadikan Anda mudah memperoleh jasa pengecoran. Semakin banyaknya yang menawarkan, maka sebaiknya anda waspada dalam memakai jasa pengecoran. Dengan keterampilan yang di milikinya, maka para jasa pengecoran bisa lebih mudah di dalam melakukan tahapan pengecoran secara sempurna. Kenyataannya, ada banyak jenis pengecoran yang di tawarkan oleh jasa pengecoran. Inilah beberapa bagian pengecoran dari Jasa Cor Lantai dan Jalan Per Meter Di Bojongmanik Rangkasbitung:
 
@@ -56,27 +56,27 @@ Merupakan salah satu jenis pengecoran yang di lakukan dengan teknik mencetak sec
 
 **A. Advantage Permanent Mold Casting:**
 
-• di dalam operasinya tidak diperlukan tenaga ahli
+- di dalam operasinya tidak diperlukan tenaga ahli
 
-• Tdk memerlukanprogres lanjutan
+- Tdk memerlukanprogres lanjutan
 
-• Produksi Tinggi
+- Produksi Tinggi
 
-• Cetakan dapat dipakai berulang kali
+- Cetakan dapat dipakai berulang kali
 
-• Ketelitian produk lebih baik daripada sand casting
+- Ketelitian produk lebih baik daripada sand casting
 
 **B. Disadvantage Permanent Mold Casting:**
 
-• Ukuran produk kecil dan sederhana
+- Ukuran produk kecil dan sederhana
 
-• Perlu perhitungan yang tepat dalam mengerjakan cetakan
+- Perlu perhitungan yang tepat dalam mengerjakan cetakan
 
-• Tidak dapat mengecor baja
+- Tidak dapat mengecor baja
 
-• Harga cetakan mahal
+- Harga cetakan mahal
 
-• cetakan untuk satu macam produk
+- cetakan untuk satu macam produk
 
 ## Harga Jasa Cor Investment Casting Beton Dari Jasa Cor Lantai dan Jalan Per Meter Di Bojongmanik Rangkasbitung
 

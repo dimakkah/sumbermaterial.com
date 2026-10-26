@@ -18,19 +18,19 @@ Tanpa adanya besi karenanya sebuah bangunan akan mudah retak saat ada getaran ke
 
 ## Mengetahui Jenis-jenis Besi Di Jambe Tangerang
 
-### 1\. Besi Polos 4mm, 6mm, 8mm, 10mm, 12mm, 16mm, 18mm, 19mm Di Jambe Tangerang
+### 1. Besi Polos 4mm, 6mm, 8mm, 10mm, 12mm, 16mm, 18mm, 19mm Di Jambe Tangerang
 
 Besi polos memiliki ukuran mulai dari 8 mm sampai dengan 25 mm dan memiliki 6 meter panjang tekuk dan 12 meter panjang lurus. Besi beton ini sudah mulai digunakan sebagai bahan utama di Indonesia pada tahun 1950. Besi ini tak jarang kali dipakai untuk membangun tempat tinggal. Bahan yang gampang digunakan sehingga selain dipakai untuk membangun tempat tinggal juga digunakan untuk membangun trowongan, bendungan, dan lainnya. Saat digunakan untuk membangun tempat tinggal bertingkat karenanya biasa besi polos ini dipakai untuk struktur tulangan balok, dinding, dan sloof. Besi beton polos ini mempunyai keunggulan besi polos ini tegangannya lebih tinggi dari pada besi lainnya. Oleh karena itu besi ini terkesan lebih kokoh dan tahan beban. Jadi pemakaian besi polos ini benar-benar pantas untuk membangun gedung, jembatan, dan bangunan lainnya. Besi polos ini terbuat dari bahan seperti billet dan skrap. Billet ialah baja batangan yang cara kerja pembuatannya dengan mengecor biji besi. Apabila skrap yakni besi bekas yang dihancurkan dengan temperature tertentu. Selain itu kalau anda memakai besi polos ini tdk membutuhkan biaya pemeliharaan. Kian lama digunakan maka besi ini akan kian kokoh.
 
-### 2\. Besi Ulir Full 4mm, 6mm, 8mm, 10mm, 12mm, 16mm, 18mm, 19mm Di Jambe Tangerang
+### 2. Besi Ulir Full 4mm, 6mm, 8mm, 10mm, 12mm, 16mm, 18mm, 19mm Di Jambe Tangerang
 
 Selaras dengan namanya besi beton ulir ini yaitu besi yang karakternya mengulir. Pada permukaannya bercorak spiral yang mempunyai tujuan untuk menyatukan tulangan dengan faktor material bangunan yang dibangun oleh besi beton. Besi ulir ini mulai populer diaplikasikan pada abad ke-20 di Amerika dan mulai populer di Indonesia pada tahun1950. Mengingat saat memakai besi ulir ini memiliki banyak keunggulan mulai dari kekuatan bangunan serta lebih ekonomis dan efisien. Produk besi ulir ini menjadi primadona pasar karena mempunyai mutu yang terbaik di Indonesia dan mempunyai harga yang tinggi jika dibandingkan dengan produk lainnya.
 
-### 3\. Besi WF dan H-Beam Krakatau Steel Di Jambe Tangerang
+### 3. Besi WF dan H-Beam Krakatau Steel Di Jambe Tangerang
 
 Besi Wide Flange (WF) ini merupakan salah satu baja dengan struktural yang paling sering diaplikasikan untuk kontruksi baja. Seandainya anda memerlukan besi baja Wide Flage dalam jumlah yang banyak atau sedikit karenanya silahkan cari supplier besi yang terpercaya. Besi WF ini mempunyai ketahanan yang kokoh dan kuat pada kekuatan tarik atau tekan. Maka dari itu besi ini menjadi elemen struktur yang mempunyai batasan yang sempurna untuk menahan bobot tekan aksial, tarik aksial, dan lentur dengan fasilitas pembangunan strukturnya. Baja Wide Flange (WF) ini mempunyai kepadatan yang tinggi namun rasio berat antara ketahanan bagian Baja WF yang tinggi tapi tidak begitu berat yang berhubungan dengan kapasitas bobot. Selain itu menentukan kalau kontruksi yang diterapkan secara efisien. Metode kontruksi baja WF ini kombinasi dari elemen struktur yang kompleks. Pada struktur ini mempunyai tujuan membawa muatan yang aman dan tepat sasaran yang bekerja pada sebuah bangunan dan dikirim pada pondasinya. Gaya dan muatan yang bekerja ini termasuk muatan pertikal, perbedaan suhu, horizontal, getaran dan lainnya. Pada sebuah bangunan baja, karenanya ada unsure yang bermanfaat menahan gaya lateral dan gravitasi.
 
-### 4\. Besi Holo Di Jambe Tangerang
+### 4. Besi Holo Di Jambe Tangerang
 
 Besi hollow yakni besi yang diaplikasikan sebagai pembuatan kanopi, pagar, pintu besi dan lainnya. Bahan baku pembuatan besi Hollow ini umumnya terbuat dari stainless, galvanis, dan besi baja. Tetapi yang paling kerap kali diterapkan sebagai bahan baku merupakan galvanis. Terdapat kelebihan yang anda dapatkan dikala menerapkan kanopi, mengaplikasikan pagar, teralis menerapkan besi hollow:
 

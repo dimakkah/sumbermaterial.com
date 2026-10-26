@@ -18,19 +18,19 @@ Tanpa adanya besi maka sebuah bangunan akan gampang retak ketika ada getaran kec
 
 ## Megenal Macam-macam Besi Di Sawangan Depok
 
-### 1\. Besi Polos 4mm, 6mm, 8mm, 10mm, 12mm, 16mm, 18mm, 19mm Di Sawangan Depok
+### 1. Besi Polos 4mm, 6mm, 8mm, 10mm, 12mm, 16mm, 18mm, 19mm Di Sawangan Depok
 
 Besi polos mempunyai ukuran mulai dari 8 mm hingga 25 mm dan memiliki 6 meter panjang tekuk dan 12 meter panjang lurus. Besi beton ini telah mulai digunakan sebagai bahan utama di Indonesia pada tahun 1950. Besi ini acap kali kali diaplikasikan untuk membangun rumah. Bahan yang mudah digunakan sehingga selain diterapkan untuk membangun rumah juga digunakan untuk membangun trowongan, bendungan, dan lainnya. Dikala digunakan untuk membangun sebuah gedung bertingkat maka biasanya besi polos ini dipakai untuk struktur rangkaian besi balok, dinding, dan sloof. Besi beton polos ini mempunyai keunggulan besi polos ini tegangannya lebih tinggi dari pada besi lainnya. Jadi besi ini terkesan lebih kuat dan tahan beban. Jadi pemakaian besi polos ini sungguh-sungguh pantas untuk membangun gedung, jembatan, dan bangunan lainnya. Besi polos ini terbuat dari bahan seperti billet dan skrap. Billet yaitu baja batangan yang progres pembuatannya dengan melebur biji besi. Apabila skrap adalah besi bekas yang dihancurkan dengan temperature tertentu. Selain itu seandainya anda memakai besi polos ini tdk membutuhkan budget pemeliharaan. Kian lama diaplikasikan karenanya besi ini akan semakin kokoh.
 
-### 2\. Besi Ulir 4mm, 6mm, 8mm, 10mm, 12mm, 16mm, 18mm, 19mm Di Sawangan Depok
+### 2. Besi Ulir 4mm, 6mm, 8mm, 10mm, 12mm, 16mm, 18mm, 19mm Di Sawangan Depok
 
 Selaras dengan namanya besi beton ulir ini merupakan besi yang bentuknya mengulir. Pada permukaannya bercorak spiral yang mempunyai tujuan untuk menyatukan tulangan dengan faktor material bangunan yang dibentuk oleh besi beton. Besi ulir ini mulai populer diterapkan pada abad ke-20 di Amerika dan mulai populer di Indonesia pada tahun1950. Mengingat saat menerapkan besi ulir ini memiliki banyak keunggulan mulai dari kekokohan bangunan serta lebih hemat biaya dan efisien. Produk besi ulir ini menjadi primadona pasar karena mempunyai kualitas yang terbaik di Indonesia dan memiliki harga yang tinggi jika dibandingi dengan produk lainnya.
 
-### 3\. Besi WF dan H-Beam Banci Di Sawangan Depok
+### 3. Besi WF dan H-Beam Banci Di Sawangan Depok
 
 Besi Wide Flange (WF) ini yaitu salah satu baja dengan struktural yang paling banyak digunakan untuk kontruksi baja. Jikalau anda membutuhkan besi baja Wide Flage dalam quantitas yang banyak atau sedikit maka silahkan cari penjual besi yang terpercaya. Besi WF ini memiliki kekuatan yang kokoh dan kuat pada kekokohan tarik atau tekan. Karenanya dari itu besi ini menjadi unsur struktur yang memiliki batasan yang paripurna untuk menahan bobot tekan aksial, tarik aksial, dan lentur dengan fasilitas pembangunan strukturnya. Baja Wide Flange (WF) ini mempunyai kepadatan yang tinggi tetapi rasio berat antara kekokohan bagian Baja WF yang tinggi tapi tidak begitu berat yang berhubungan dengan kapasitas beban. Selain itu memastikan seandainya kontruksi yang diaplikasikan secara efisien. Cara kontruksi baja WF ini kombinasi dari faktor struktur yang kompleks. Pada struktur ini memiliki tujuan membawa bobot yang aman dan efektif yang berefek pada sebuah bangunan dan dikirim pada pondasinya. Gaya dan bobot yang berefek ini termasuk beban pertikal, perbedaan suhu, horizontal, getaran dan lainnya. Pada sebuah bangunan baja, maka ada unsure yang berfungsi menahan gaya lateral dan gravitasi.
 
-### 4\. Besi Hollow Di Sawangan Depok
+### 4. Besi Hollow Di Sawangan Depok
 
 Besi hollow adalah besi yang dipakai sebagai pembuatan kanopi, pagar, pintu besi dan lainnya. Bahan baku pembuatan besi Hollow ini biasanya terbuat dari stainless, galvanis, dan besi baja. Tetapi yang paling sering dipakai sebagai bahan baku adalah galvanis. Terdapat kelebihan yang anda temukan dikala menerapkan kanopi, memasang pagar, teralis menggunakan besi hollow:
 

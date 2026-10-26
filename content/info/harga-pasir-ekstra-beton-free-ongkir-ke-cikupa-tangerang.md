@@ -25,7 +25,7 @@ menurut Standar Nasional Indonesia ( SK SNI - S - 04 - 1989 - F ; 28) di sebutka
 
 Syarat Pasir yang Bagus Untuk Konstruksi Bangunan
 
-1.  Agregat Halus seharusnya terdiri dari butiran yg tajam dan keras dengan indeks kekerasan <2.2
+1.  Agregat Halus seharusnya terdiri dari butiran yg tajam dan keras dengan indeks kekerasan <2.2
 2. Bila dipakai Natrium Sulfat komponen hancur maksimal 12%
 3. jika diaplikasikan Magnesium Sulfat komponen halus maksimal 5 persen
 4. Tidak boleh memuat tanah lebih dari 5 persen
@@ -41,7 +41,6 @@ Syarat Pasir yang Bagus Untuk Konstruksi Bangunan
 Sesudah memahami persyaratan pasir tuk suatu Konstruksi Bangunan, pada saat ini kita bahas Macam - Tipe Pasir Untuk Konstruksi penjelasan nya sebagai berikut:
 
 - ### Pasir Untuk Beton Di Cikupa Tangerang
-    
 
 Pasir ini lazim nya berwarna hitam pekat dan tingkat kekerasan butiran nya cukup tinggi. Melainkan kalau anda mengepal nya dengan tangan tidak akan menggumpal dan akan buyar kembali. macam pasir ini benar-benar lah bagus tuk Pengecoran, Plesteran Dinding, Adukan Pondasi dan Adukan Pasangan Bata Pasir ini yaitu pasir untuk Beton merupakan butiran-butiran mineral keras dan tajam berukuran antara 0,075 – 5 mm, bila terdapat butiran berukuran lebih kecil dari 0,063 mm tak lebih dari 5% berat. Pasir ini yaitu pasir untuk Rigid hampir sering kali dimanfaatkan untuk pekerjaan cor-coran struktur seperti kolom, balok dan pelat lantai.
 
@@ -59,21 +58,18 @@ Untuk menerima ketahanan Rigid yang maksimal karenanya pasir wajib sanggup memen
 ![Harga Pasir Ekstra Beton Free Ongkir Ke Cikupa Tangerang](/images/info/pasir-hitam-8.jpg)
 
 - ### Pasir Untuk Adukan Pasang Batu, Pondasi, Bata, Ubin, Plester Di Cikupa Tangerang
-    
 
 ![Harga Pasir Ekstra Beton Free Ongkir Ke Cikupa Tangerang](/images/info/jual-pasir-mundu.jpg)
 
 Pasir ini ekstra halus lagi diperbandingkan oleh pasir beton. kalau kalian mengepal pasir ini maka akan menggumpal dan tak akan hancur kembali. pasir pasang biasa nya di gunakan tuk adukan pasir beton agar tidak kelewat kasar dan dapat di gunakan untuk plesteran dinding.
 
 - ### Pasir Kualitas rendah Untuk Pembuatan Batako Di Cikupa Tangerang
-    
 
 Di Antara ke dua pasir diatas pasir ragam ini lebih halus lagi, bila kalian mengepal nya akan menggumpal dan tidak akan hancur lagi. namun pasir macam
 
 Pada nya pasir ini nyaris sama dgn pasir beton tetapi pasir ini mempunyai tingkat kekasaran yang tinggi, butiran - butiran nya lumayan besar dan agak banyak batuan nya. pada biasanya pasir jenis ini baik untuk bahan dasaran pemasangan keramik
 
 - ### Pasir Putih Tanpa Ayak Untuk Pasang Keramik Di Cikupa Tangerang
-    
 
 1. **Pasir Putih Bangka**
 

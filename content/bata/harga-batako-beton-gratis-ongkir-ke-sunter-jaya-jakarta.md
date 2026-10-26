@@ -16,7 +16,7 @@ sekarang ini bahan yang diterapkan untuk mengisi tembok gedung, sudah terdapat b
 
 ## Mengenal Macam-macam Bata
 
-### 1\. Bata Merah Standar & Jumbo Di Sunter Jaya Jakarta
+### 1. Bata Merah Standar & Jumbo Di Sunter Jaya Jakarta
 
 ![Harga Batako Beton Gratis Ongkir Ke Sunter Jaya Jakarta](/images/bata/bata-merah-oven-18.png)
 
@@ -26,7 +26,7 @@ Bata merah ini diwujudkan dari material tanah yg kemudian di cetak dan dibakar d
 
 Material bangunan ini benar-benar tahan kepada panas dan sesuai dibuat proteksi dari bahaya api. Bata merah ini pada umumnya mempunyai ukuran panjang antara 17-23 cm dan lebar sekitar 7-11 cm, serta tebalnya 3-5 cm. mempunyai ukuran yang lebih kecil akan memberi kemudahan dalam proses pengangkutan dan dapat diterapkan untuk membentuk bidang kecil.
 
-### 2\. Batako Hitam dan Putih Di Sunter Jaya Jakarta
+### 2. Batako Hitam dan Putih Di Sunter Jaya Jakarta
 
 ![Harga Batako Beton Gratis Ongkir Ke Sunter Jaya Jakarta](/images/bata/batako-hitam-press-22.png)
 
@@ -34,7 +34,7 @@ Bahan bangunan tembok dari batako ini secara lazimnya terbuat dari material Komp
 
 Batako trus seperti ini mempunyai kekurangan seperti mudah pecah, lebih panas dan pengap. Berbeda dengan bata merah yang terbuat dari bahan tanah. Tapi batako ini cenderung lebih ringan ketimbang bata merah. Alhasil akan menonjol lebih halus dan ukurannya lebih presisi kalau dibandingkan dengan bata merah. Batako Hitam ini mempunyai ukuran panjang sekitar 36-40 cm, tinggi 18-20 cm dan tebal 8-10 cm. material ini kerap kali dipilih karena untuk memperingan bobot struktur bangunan, meminimalisir sisa bahan dan mempermudah pembangunan.
 
-### 3\. Bata Ringan Di Sunter Jaya Jakarta
+### 3. Bata Ringan Di Sunter Jaya Jakarta
 
 ![Harga Batako Beton Gratis Ongkir Ke Sunter Jaya Jakarta](/images/bata/bata-hebel-sni-02.png)
 
@@ -62,7 +62,7 @@ Segalanya tentu sudah tahu kegunaan utama batu bata mulai dipakai untuk membuat 
 
 Sistem mengorder batu bata yg aman dan terpercaya:
 
-1.  Proses pembayaran bisa anda lakukan secara COD atau dibayar di tempat dikala barang pesanan anda telah datang di tempat
+1.  Proses pembayaran bisa anda lakukan secara COD atau dibayar di tempat dikala barang pesanan anda telah datang di tempat
 2. Silahkan memilih dan mempertimbangkan material batu bata yang anda inginkan
 3. Tentukan juga jumlah orderan batu bata yg anda butuhkan dalam bentuk bijian.
 4. Anda dapat menghubungi layanan telepon toko untuk mempermudah pengerjaan pengorderan

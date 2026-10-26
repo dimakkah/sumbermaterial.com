@@ -17,7 +17,6 @@ draft: false
 
 {{< toc >}}
 
-
 Mitra Sumber Material, bayangkan betapa praktisnya jika pasir, batu split, semen, dan material lain yang Anda butuhkan langsung diantar ke lokasi proyek tanpa perlu repot mengurus transportasi sendiri. Itulah yang Kami tawarkan. Kami mengerti betul tantangan yang dihadapi para kontraktor, pengembang, atau bahkan Anda yang sedang membangun rumah sendiri. Waktu adalah uang, dan Kami ingin membantu Anda menghemat keduanya.
 
 ## Mencari Toko Material Terdekat: Apa yang Perlu Dipertimbangkan?

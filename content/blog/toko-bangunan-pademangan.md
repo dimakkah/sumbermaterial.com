@@ -17,7 +17,6 @@ draft: false
 
 {{< toc >}}
 
-
 Banyak sekali pilihan toko bangunan di sekitar Pademangan. Namun, tidak semuanya bisa menjamin kualitas material, harga yang bersaing, dan pelayanan yang tepat waktu. Mitra Sumber Material hadir sebagai solusi. Kami tidak hanya menjual material bangunan, tapi juga memberikan kemudahan konsultasi sebelum Anda memutuskan pembelian. Dengan begitu, Anda bisa mendapatkan material yang paling sesuai dengan kebutuhan dan anggaran proyek Anda.
 
 ## Mencari Material Bangunan Pademangan yang Tepat: Apa yang Perlu Diperhatikan?
@@ -28,13 +27,13 @@ Saat memilih toko bangunan, ada beberapa hal penting yang perlu diperhatikan. Pe
 
 Kami menyediakan berbagai macam material bangunan berkualitas tinggi, termasuk:
 
-*   **Pasir:** Pasir urug, pasir cor, pasir pasang, dengan berbagai ukuran dan kualitas. Untuk proyek yang membutuhkan kekuatan ekstra, Kami sarankan menggunakan pasir cor yang sudah teruji kekuatannya.
-*   **Batu:** Batu split, batu kali, batu makadam. Batu kali, misalnya, sangat cocok untuk pondasi bangunan karena sifatnya yang kuat dan tahan lama.
-*   **Semen:** Berbagai merek semen ternama dengan mutu yang terjamin.
-*   **Besi:** Besi beton, besi hollow, besi plat, wiremesh. Untuk konstruksi yang membutuhkan kekuatan tarik tinggi, besi beton dengan mutu yang sesuai standar SNI adalah pilihan yang tepat.
-*   **Bata/Batako/Hebel:** Pilihan batako press hitam dengan berbagai ukuran juga tersedia di sini. Anda bisa lihat juga [Harga Batako 3 Lubang Gratis Ongkir Ke Pademangan Jakarta](/bata/harga-batako-3-lubang-gratis-ongkir-ke-pademangan-jakarta/) untuk mengetahui penawaran khusus kami.
-*   **Baja Ringan:** Rangka atap baja ringan yang ringan, kuat, dan tahan karat.
-*   **Readymix:** Beton siap pakai untuk kemudahan dan efisiensi pengerjaan.
+- **Pasir:** Pasir urug, pasir cor, pasir pasang, dengan berbagai ukuran dan kualitas. Untuk proyek yang membutuhkan kekuatan ekstra, Kami sarankan menggunakan pasir cor yang sudah teruji kekuatannya.
+- **Batu:** Batu split, batu kali, batu makadam. Batu kali, misalnya, sangat cocok untuk pondasi bangunan karena sifatnya yang kuat dan tahan lama.
+- **Semen:** Berbagai merek semen ternama dengan mutu yang terjamin.
+- **Besi:** Besi beton, besi hollow, besi plat, wiremesh. Untuk konstruksi yang membutuhkan kekuatan tarik tinggi, besi beton dengan mutu yang sesuai standar SNI adalah pilihan yang tepat.
+- **Bata/Batako/Hebel:** Pilihan batako press hitam dengan berbagai ukuran juga tersedia di sini. Anda bisa lihat juga [Harga Batako 3 Lubang Gratis Ongkir Ke Pademangan Jakarta](/bata/harga-batako-3-lubang-gratis-ongkir-ke-pademangan-jakarta/) untuk mengetahui penawaran khusus kami.
+- **Baja Ringan:** Rangka atap baja ringan yang ringan, kuat, dan tahan karat.
+- **Readymix:** Beton siap pakai untuk kemudahan dan efisiensi pengerjaan.
 
 Kami juga menyediakan jasa sewa alat berat seperti ekskavator, bulldozer, dan compactor untuk membantu mempercepat pekerjaan proyek Anda.
 

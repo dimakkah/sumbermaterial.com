@@ -21,13 +21,13 @@ Memastikan pemasangan baja ringan yang tepat itu krusial, dan kami di Sumber Mat
 
 Berikut beberapa alasan kuat yang wajib Anda ketahui sebelum menghubungi kami:
 
- **Ramah Lingkungan:** Baja ringan adalah pilihan berkelanjutan.  Penggunaannya mengurangi kebutuhan akan kayu, sehingga membantu melestarikan hutan dan mengurangi dampak lingkungan.
- **Lebih Ekonomis:**  Dibandingkan dengan kayu berkualitas tinggi, baja ringan biasanya lebih terjangkau, khususnya dalam jangka panjang karena minim perawatan. Ini sangat membantu Anda mengontrol biaya pembangunan.
- **Ringan dan Kuat:** Meskipun tipis dan ringan, baja ringan memiliki kekuatan tarik yang luar biasa, melebihi baja biasa hingga dua kali lipat! Sempurna untuk kerangka atap dan *canopy* rumah Anda.
- **Perawatan Minimal:**  Lupakan perawatan rutin yang memakan waktu dan biaya.  Baja ringan tahan terhadap cuaca ekstrem dan serangan hama, sehingga Anda bisa lebih fokus pada hal lain.
- **Pemasangan Cepat:** Proses pemasangan baja ringan jauh lebih cepat daripada metode tradisional. Ini menghemat waktu dan tenaga Anda, mempercepat penyelesaian proyek.
- **Kualitas Terjamin:** Baja ringan yang kami gunakan bersertifikasi dan memenuhi standar keamanan tinggi. Zinc dan aluminium dalam komposisinya memberikan proteksi 4x lebih baik daripada baja biasa, mampu menahan beban berat.
- **Tahan Rayap:** Anda tidak perlu khawatir dengan kerusakan akibat rayap – masalah umum pada konstruksi kayu.  Baja ringan kebal terhadap serangan serangga ini.
+- **Ramah Lingkungan:** Baja ringan adalah pilihan berkelanjutan.  Penggunaannya mengurangi kebutuhan akan kayu, sehingga membantu melestarikan hutan dan mengurangi dampak lingkungan.
+- **Lebih Ekonomis:**  Dibandingkan dengan kayu berkualitas tinggi, baja ringan biasanya lebih terjangkau, khususnya dalam jangka panjang karena minim perawatan. Ini sangat membantu Anda mengontrol biaya pembangunan.
+- **Ringan dan Kuat:** Meskipun tipis dan ringan, baja ringan memiliki kekuatan tarik yang luar biasa, melebihi baja biasa hingga dua kali lipat! Sempurna untuk kerangka atap dan *canopy* rumah Anda.
+- **Perawatan Minimal:**  Lupakan perawatan rutin yang memakan waktu dan biaya.  Baja ringan tahan terhadap cuaca ekstrem dan serangan hama, sehingga Anda bisa lebih fokus pada hal lain.
+- **Pemasangan Cepat:** Proses pemasangan baja ringan jauh lebih cepat daripada metode tradisional. Ini menghemat waktu dan tenaga Anda, mempercepat penyelesaian proyek.
+- **Kualitas Terjamin:** Baja ringan yang kami gunakan bersertifikasi dan memenuhi standar keamanan tinggi. Zinc dan aluminium dalam komposisinya memberikan proteksi 4x lebih baik daripada baja biasa, mampu menahan beban berat.
+- **Tahan Rayap:** Anda tidak perlu khawatir dengan kerusakan akibat rayap – masalah umum pada konstruksi kayu.  Baja ringan kebal terhadap serangan serangga ini.
 
 ## Cara Hitung Luas Rangka Baja Ringan Di Karang Anyar Jakarta
 
@@ -55,10 +55,10 @@ Mengenai biaya jasa pasang baja ringan, ada banyak informasi yang tersedia onlin
 
 (Catatan : harga dapat ditambahkan sendiri) Berikut perkiraan biaya jasa pasang baja ringan berdasarkan jenis pemasangan:
 
-*   Kanopi rangka baja ringan “Polikarbonat x Lite Rp. 285.000 / m
-*   Kanopi rangka baja ringan “Spandek Rp. 225.000 / m
-*   Kanopi rangka baja ringan “Gogreen Rp. 200.000 /m
-*   Untuk informasi lebih detil, silakan hubungi tim kami melalui tombol Telepon/WhatsApp yang tersedia di halaman ini.
+- Kanopi rangka baja ringan “Polikarbonat x Lite Rp. 285.000 / m
+- Kanopi rangka baja ringan “Spandek Rp. 225.000 / m
+- Kanopi rangka baja ringan “Gogreen Rp. 200.000 /m
+- Untuk informasi lebih detil, silakan hubungi tim kami melalui tombol Telepon/WhatsApp yang tersedia di halaman ini.
 
 Selain itu, ada beberapa parameter yang memengaruhi besaran harga jasa pasang baja ringan:
 
@@ -78,12 +78,10 @@ Tahap terakhir adalah menghitung budget keseluruhan. Ini mempertimbangkan jumlah
 
 Berikut rincian biaya layanan pasang baja ringan yang perlu Anda ketahui:
 
-*   Harga kami sudah termasuk biaya pemasangan, sehingga lebih ekonomis dan seringkali ada diskon menarik untuk pelanggan.
-*   Harga yang kami berikan sesuai dengan jasa pemasangan, perhitungan yang akurat, dan material yang digunakan.
-*   Kami selalu mengutamakan harga terbaik untuk pelanggan kami.
-*   Harga layanan pasang baja ringan dapat berubah sewaktu-waktu tergantung fluktuasi harga material.
-*   Pembayaran dapat dilakukan dengan *down payment* dan sisanya setelah pemasangan selesai.
-
-
+- Harga kami sudah termasuk biaya pemasangan, sehingga lebih ekonomis dan seringkali ada diskon menarik untuk pelanggan.
+- Harga yang kami berikan sesuai dengan jasa pemasangan, perhitungan yang akurat, dan material yang digunakan.
+- Kami selalu mengutamakan harga terbaik untuk pelanggan kami.
+- Harga layanan pasang baja ringan dapat berubah sewaktu-waktu tergantung fluktuasi harga material.
+- Pembayaran dapat dilakukan dengan *down payment* dan sisanya setelah pemasangan selesai.
 
 Sekian informasi mengenai Harga Pasang Atap Baja Ringan Di Karang Anyar Jakarta. Jangan ragu untuk menghubungi kami jika Anda memerlukan informasi lebih lanjut atau ingin mendapatkan penawaran harga yang sesuai dengan kebutuhan proyek Anda!  Kami siap membantu mewujudkan atap impian Anda dengan baja ringan berkualitas di Karang Anyar Jakarta. Hubungi Kami untuk konsultasi gratis!

@@ -25,7 +25,7 @@ Menurut Standar Nasional Indonesia ( SK SNI - S - 04 - 1989 - F ; 28) di tuturka
 
 Persyaratan Pasir yang Bagus buat Konstruksi
 
-1.  Agregat Halus patut terdiri dari butiran yang tajam dan keras dengan indeks kekerasan <2.2
+1.  Agregat Halus patut terdiri dari butiran yang tajam dan keras dengan indeks kekerasan <2.2
 2. bilamana diterapkan Natrium Sulfat komponen hancur optimal dua belas %
 3. jika diterapkan Magnesium Sulfat komponen halus maksimal 5 persen
 4. Tak boleh berisi lumpur lebih dari 5 persen
@@ -41,7 +41,6 @@ Persyaratan Pasir yang Bagus buat Konstruksi
 setelah tahu persis syarat pasir tuk suatu Bangunan, saat ini kita bahas Tipe - Macam Pasir Untuk Konstruksi penjelasan nya sebagai berikut:
 
 - ### Pasir untuk Cor Rigid Di Pekayon Jakarta
-    
 
 Pasir ini biasa nya berwarna coklat tua dan tingkat pecahan butiran nya cukup tinggi. Namun sekiranya anda mengepal nya dengan tangan tidak akan lengket dan akan buyar kembali. model pasir ini sungguh-sungguh lah bagus untuk Pengecoran, Plesteran Dinding, Adukan Pondasi dan Adukan Pasangan Bata Pasir ini yaitu pasir untuk Rigid ialah butiran-butiran mineral keras dan tajam berukuran antara 0,075 – 5 mm, kalau terdapat butiran berukuran lebih kecil dari 0,063 mm tidak lebih dari 5% berat. Pasir ini yaitu pasir untuk Rigid hampir kerap kali diterapkan untuk pekerjaan cor-coran struktur seperti kolom, balok dan pelat lantai.
 
@@ -59,21 +58,18 @@ Untuk memperoleh ketahanan Rigid yang optimal maka pasir harus bisa memenuhi per
 ![Harga Pasir Rangkas Free Ongkir Ke Pekayon Jakarta](/images/info/pasir-hitam-9.jpg)
 
 - ### Pasir Untuk Adukan Pasang Batu, Pondasi, Bata, Ubin, Plester Di Pekayon Jakarta
-    
 
 ![Harga Pasir Rangkas Free Ongkir Ke Pekayon Jakarta](/images/info/pasir-hitam-11.jpg)
 
 Pasir ini lebih halus lagi diperbandingkan oleh pasir beton. apabila kalian mengepal pasir ini karenanya akan menggumpal dan tidak akan hancur kembali. pasir pasang umum nya di manfaatkan untuk adukan pasir beton supaya tak terlampau kasar dan bisa di pakai untuk plesteran dinding.
 
 - ### Pasir Urug Untuk pengurugan lantai Di Pekayon Jakarta
-    
 
 Di Antara ke dua pasir diatas pasir model ini lebih halus lagi, seandainya kalian mengepal nya karenanya akan menggumpal dan tidak akan hancur lagi. tapi pasir tipe
 
 Pada nya pasir ini nyaris sama dgn pasir beton melainkan pasir ini mempunyai tingkat kekasaran yg tinggi, butiran - butiran nya lumayan besar dan agak banyak batuan nya. pada lazimnya pasir jenis ini baik untuk bahan dasaran pemasangan keramik
 
 - ### Pasir Putih Bebas Lumpur Untuk Pengecoran Di Pekayon Jakarta
-    
 
 1. **Pasir Putih Bangka**
 

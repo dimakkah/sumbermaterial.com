@@ -21,13 +21,13 @@ Memasang baja ringan untuk bangunan Anda terasa lebih mudah dari yang dibayangka
 
 Sebelum menghubungi kami, ada beberapa alasan penting mengapa Anda sebaiknya memilih baja ringan untuk bangunan Anda:
 
- **Ramah Lingkungan:** Penggunaan baja ringan mengurangi kebutuhan akan kayu, sehingga membantu menjaga kelestarian hutan dan alam sekitar Sindangsari.
- **Lebih Ekonomis:** Dibandingkan kayu, harga baja ringan cenderung lebih murah, terutama untuk bagian kerangka yang krusial bagi kekuatan bangunan Anda. Ini bisa menjadi pertimbangan penting untuk menekan biaya pembangunan.
- **Ringan dan Kuat:** Baja ringan memiliki karakteristik unik: ringan namun tetap kokoh. Ketipisannya tidak mengurangi kekuatannya, justru menjadi keunggulan untuk kerangka atap dan *canopy*.
- **Minim Perawatan:** Anda tidak perlu khawatir dengan perawatan tahunan yang memakan waktu dan biaya. Baja ringan membutuhkan perawatan yang minimal.
- **Pemasangan Cepat:** Proses pemasangannya relatif cepat dibandingkan material lain. Ini menghemat waktu dan biaya Anda secara keseluruhan.
- **Kualitas Terjamin:** Kami hanya menggunakan baja ringan berkualitas tinggi dengan lapisan *zinc* dan aluminium bersertifikasi, yang 4 kali lebih tahan korosi dibandingkan baja biasa.
- **Tahan Rayap:** Baja ringan kebal terhadap serangan rayap, menjamin keamanan dan ketahanan jangka panjang bangunan Anda.
+- **Ramah Lingkungan:** Penggunaan baja ringan mengurangi kebutuhan akan kayu, sehingga membantu menjaga kelestarian hutan dan alam sekitar Sindangsari.
+- **Lebih Ekonomis:** Dibandingkan kayu, harga baja ringan cenderung lebih murah, terutama untuk bagian kerangka yang krusial bagi kekuatan bangunan Anda. Ini bisa menjadi pertimbangan penting untuk menekan biaya pembangunan.
+- **Ringan dan Kuat:** Baja ringan memiliki karakteristik unik: ringan namun tetap kokoh. Ketipisannya tidak mengurangi kekuatannya, justru menjadi keunggulan untuk kerangka atap dan *canopy*.
+- **Minim Perawatan:** Anda tidak perlu khawatir dengan perawatan tahunan yang memakan waktu dan biaya. Baja ringan membutuhkan perawatan yang minimal.
+- **Pemasangan Cepat:** Proses pemasangannya relatif cepat dibandingkan material lain. Ini menghemat waktu dan biaya Anda secara keseluruhan.
+- **Kualitas Terjamin:** Kami hanya menggunakan baja ringan berkualitas tinggi dengan lapisan *zinc* dan aluminium bersertifikasi, yang 4 kali lebih tahan korosi dibandingkan baja biasa.
+- **Tahan Rayap:** Baja ringan kebal terhadap serangan rayap, menjamin keamanan dan ketahanan jangka panjang bangunan Anda.
 
 ## Cara Menghitung Luas Rangka Baja Ringan Di Sindangsari
 

@@ -18,19 +18,19 @@ Dengan tidak adanya besi karenanya sebuah bangunan akan gampang retak saat ada g
 
 ## Seperti Ini Jenis-jenis Besi Di Batutulis Bogor
 
-### 1\. Besi Polos Banci 4mm, 6mm, 8mm, 10mm, 12mm, 16mm, 18mm, 19mm Di Batutulis Bogor
+### 1. Besi Polos Banci 4mm, 6mm, 8mm, 10mm, 12mm, 16mm, 18mm, 19mm Di Batutulis Bogor
 
 Besi polos mempunyai ukuran mulai dari 8 mm sampai 25 mm dan mempunyai 6 meter panjang tekuk dan 12 meter panjang lurus. Besi beton ini sudah mulai diterapkan sebagai bahan utama di Indonesia pada tahun 1950. Besi ini tak jarang kali digunakan untuk membangun bangunan beton. Bahan yang gampang diterapkan sehingga selain dari diaplikasikan untuk membangun bangunan beton juga dipakai untuk membangun trowongan, bendungan, dan lainnya. Ketika diaplikasikan untuk membangun tempat tinggal bertingkat karenanya biasa besi polos ini dipakai untuk struktur tulangan balok, dinding, dan sloof. Besi beton polos ini mempunyai keunggulan besi polos ini tegangannya lebih tinggi dari pada besi lainnya. Oleh karena itu besi ini terkesan lebih kokoh dan tahan beban. Jadi penggunaan besi polos ini betul-betul sesuai untuk membangun gedung, jembatan, dan bangunan lainnya. Besi polos ini terbuat dari bahan seperti billet dan skrap. Billet yakni baja batangan yang pengerjaan pembuatannya dengan melebur biji besi. Apabila skrap yaitu besi bekas yang dileburkan dengan temperature tertentu. Selain itu apabila anda menggunakan besi polos ini tdk memerlukan biaya pemeliharaan. Semakin lama digunakan karenanya besi ini akan semakin kokoh.
 
-### 2\. Besi Ulir Toleransi 4mm, 6mm, 8mm, 10mm, 12mm, 16mm, 18mm, 19mm Di Batutulis Bogor
+### 2. Besi Ulir Toleransi 4mm, 6mm, 8mm, 10mm, 12mm, 16mm, 18mm, 19mm Di Batutulis Bogor
 
 Cocok dengan namanya besi beton ulir ini adalah besi yang tampilannya mengulir. Pada permukaannya bercorak spiral yang mempunyai tujuan untuk menyatukan tulangan dengan unsur bahan bangunan yang dibentuk oleh besi beton. Besi ulir ini mulai populer diaplikasikan pada abad ke-20 di Amerika dan mulai populer di Indonesia pada tahun1950. Mengingat dikala memakai besi ulir ini mempunyai banyak kelebihan mulai dari kekuatan bangunan serta lebih ekonomis dan efisien. Produk besi ulir ini menjadi paling laris di pasar sebab memiliki mutu yang terbaik di Indonesia dan mempunyai harga yang tinggi bila diperbandingkan dengan produk lainnya.
 
-### 3\. Besi WF dan H-Beam Full Di Batutulis Bogor
+### 3. Besi WF dan H-Beam Full Di Batutulis Bogor
 
 Besi Wide Flange (WF) ini ialah salah satu baja dengan struktural yang paling populer diterapkan untuk kontruksi baja. Jikalau anda memerlukan besi baja Wide Flage dalam jumlah yang banyak atau sedikit karenanya silahkan cari toko besi yang terpercaya. Besi WF ini memiliki kekokohan yang kokoh dan kuat pada kekuatan tarik atau tekan. Maka dari itu besi ini menjadi faktor struktur yang mempunyai batasan yang paripurna untuk menopang muatan tekan aksial, tarik aksial, dan lentur dengan fasilitas pembangunan strukturnya. Baja Wide Flange (WF) ini mempunyai kepadatan yang tinggi tetapi rasio berat antara ketahanan komponen Baja WF yang tinggi namun tidak terlalu berat yang terkait dengan kapasitas bobot. Selain itu menetapkan bila kontruksi yang dipakai secara efisien. Sistem kontruksi baja WF ini kombinasi dari unsur struktur yang rumit. Pada struktur ini memiliki tujuan membawa bobot yang aman dan efektif yang bekerja pada sebuah bangunan dan dikirim pada pondasinya. Gaya dan bobot yang bekerja ini termasuk muatan pertikal, perbedaan suhu, horizontal, getaran dan lainnya. Pada sebuah bangunan baja, karenanya ada unsure yang berfungsi menahan gaya lateral dan gravitasi.
 
-### 4\. Besi Holow Di Batutulis Bogor
+### 4. Besi Holow Di Batutulis Bogor
 
 Besi hollow adalah besi yang diaplikasikan sebagai pembuatan kanopi, pagar, pintu besi dan lainnya. Bahan baku pembuatan besi Hollow ini biasanya terbuat dari stainless, galvanis, dan besi baja. Tapi yang paling sering digunakan sebagai bahan baku merupakan galvanis. Terdapat kelebihan yang anda temukan saat menerapkan kanopi, memasang pagar, teralis mengaplikasikan besi hollow:
 

@@ -18,19 +18,19 @@ Tanpa adanya besi karenanya sebuah bangunan akan mudah retak dikala ada guncanga
 
 ## Seperti Ini Jenis-jenis Besi Di Tanjung Barat Jakarta
 
-### 1\. Besi Polos Banci 4mm, 6mm, 8mm, 10mm, 12mm, 16mm, 18mm, 19mm Di Tanjung Barat Jakarta
+### 1. Besi Polos Banci 4mm, 6mm, 8mm, 10mm, 12mm, 16mm, 18mm, 19mm Di Tanjung Barat Jakarta
 
 Besi polos memiliki ukuran mulai dari 8 mm sampai 25 mm dan mempunyai 6 meter panjang tekuk dan 12 meter panjang lurus. Besi beton ini telah mulai digunakan sebagai bahan utama di Indonesia pada tahun 1950. Besi ini kerap kali kali diterapkan untuk membangun tempat tinggal. Bahan yang mudah digunakan sehingga selain dipakai untuk membangun bangunan beton juga digunakan untuk membangun trowongan, bendungan, dan lainnya. Ketika diaplikasikan untuk membangun bangunan beton bertingkat karenanya biasa besi polos ini digunakan untuk struktur rangkaian besi balok, dinding, dan sloof. Besi beton polos ini mempunyai kelebihan besi polos ini tegangannya lebih tinggi dari pada besi lainnya. Sehingga besi ini terkesan lebih kokoh dan tahan beban. Sehingga pemakaian besi polos ini sangat pantas untuk membangun gedung, jembatan, dan bangunan lainnya. Besi polos ini terbuat dari bahan seperti billet dan skrap. Billet adalah baja batangan yang progres pembuatannya dengan melebur biji besi. Seandainya skrap adalah besi bekas yang dihancurkan dengan temperature tertentu. Selain dari itu kalau anda menggunakan besi polos ini tdk membutuhkan anggaran pemeliharaan. Kian lama dipakai karenanya besi ini akan kian kokoh.
 
-### 2\. Besi Ulir SNI 4mm, 6mm, 8mm, 10mm, 12mm, 16mm, 18mm, 19mm Di Tanjung Barat Jakarta
+### 2. Besi Ulir SNI 4mm, 6mm, 8mm, 10mm, 12mm, 16mm, 18mm, 19mm Di Tanjung Barat Jakarta
 
 Cocok dengan namanya besi beton ulir ini ialah besi yang bentuknya mengulir. Pada permukaannya bercorak spiral yang memiliki tujuan untuk menyatukan tulangan dengan faktor bahan bangunan yang dibangun oleh besi beton. Besi ulir ini mulai populer diaplikasikan pada abad ke-20 di Amerika dan mulai populer di Indonesia pada tahun1950. Mengingat dikala menggunakan besi ulir ini mempunyai banyak keunggulan mulai dari kekuatan bangunan serta lebih hemat biaya dan efisien. Produk besi ulir ini menjadi paling laris di pasar karena mempunyai kualitas yang terbaik di Indonesia dan mempunyai harga yang tinggi jika dibandingi dengan produk lainnya.
 
-### 3\. Besi WF dan H-Beam Di Tanjung Barat Jakarta
+### 3. Besi WF dan H-Beam Di Tanjung Barat Jakarta
 
 Besi Wide Flange (WF) ini merupakan salah satu baja dengan struktural yang paling populer digunakan untuk kontruksi baja. Sekiranya anda memerlukan besi baja Wide Flage dalam jumlah yang banyak atau sedikit karenanya silahkan cari toko besi yang terpercaya. Besi WF ini memiliki ketahanan yang kokoh dan kokoh pada kekuatan tarik atau tekan. Karenanya dari itu besi ini menjadi unsur struktur yang mempunyai batasan yang sempurna untuk menopang beban tekan aksial, tarik aksial, dan lentur dengan fasilitas pembangunan strukturnya. Baja Wide Flange (WF) ini memiliki kepadatan yang tinggi melainkan rasio berat antara ketahanan komponen Baja WF yang tinggi tapi tidak begitu berat yang berkaitan dengan kapasitas muatan. Selain itu menentukan jikalau kontruksi yang dipakai secara efisien. Sistem kontruksi baja WF ini kombinasi dari faktor struktur yang kompleks. Pada struktur ini memiliki tujuan membawa beban yang aman dan tepat sasaran yang bekerja pada sebuah bangunan dan dikirim pada pondasinya. Gaya dan beban yang bekerja ini termasuk bobot pertikal, perbedaan temperatur, horizontal, getaran dan lainnya. Pada sebuah bangunan baja, karenanya ada unsure yang berfungsi menopang gaya lateral dan gravitasi.
 
-### 4\. Besi Hollow Di Tanjung Barat Jakarta
+### 4. Besi Hollow Di Tanjung Barat Jakarta
 
 Besi hollow yakni besi yang diterapkan sebagai pembuatan kanopi, pagar, pintu besi dan lainnya. Bahan baku pembuatan besi Hollow ini lazimnya terbuat dari stainless, galvanis, dan besi baja. Tetapi yang paling kerap diterapkan sebagai bahan baku yaitu galvanis. Terdapat kelebihan yang anda temukan ketika memasang kanopi, mengaplikasikan pagar, teralis memakai besi hollow:
 

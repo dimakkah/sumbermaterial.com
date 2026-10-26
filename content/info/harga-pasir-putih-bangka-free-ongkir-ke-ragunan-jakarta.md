@@ -25,7 +25,7 @@ menurut Standar Nasional Indonesia ( SK SNI - S - 04 - 1989 - F ; 28) di sebutka
 
 Persyaratan Pasir yang Baik Untuk Konstruksi
 
-1.  Agregat Halus sepatutnya terdiri dari butiran yg tajam dan keras dengan indeks kekerasan <2.2
+1.  Agregat Halus sepatutnya terdiri dari butiran yg tajam dan keras dengan indeks kekerasan <2.2
 2. bilamana digunakan Natrium Sulfat komponen hancur maksimal dua belas %
 3. Apabila dipakai Magnesium Sulfat komponen halus optimal 10%
 4. Tidak boleh mengandung clay lebih dari 5%
@@ -41,7 +41,6 @@ Persyaratan Pasir yang Baik Untuk Konstruksi
 Sesudah tahu persis syarat pasir tuk sebuah Konstruksi Bangunan, saat ini kita bahas Tipe - model Pasir Untuk Konstruksi penjelasan nya berikut ini:
 
 - ### Pasir Tipe Cor dan Tempat Pengambilannya Di Ragunan Jakarta
-    
 
 Pasir ini biasa nya berwarna hitam kemerahan dan tingkat kekerasan butiran nya lumayan tinggi. Namun bila anda mengepal nya dengan tangan tidak akan menggumpal dan akan buyar kembali. ragam pasir ini benar-benar lah baik tuk Pengecoran, Plesteran Dinding, Adukan Pondasi dan Adukan Pasangan Bata Pasir ini yaitu pasir untuk Cor ialah butiran-butiran mineral keras dan tajam berukuran antara 0,075 – 5 mm, sekiranya terdapat butiran berukuran lebih kecil dari 0,063 mm tak lebih dari 5% berat. Pasir ini yaitu pasir untuk Beton hampir acap kali dipakai untuk pekerjaan cor-coran struktur seperti kolom, balok dan pelat lantai.
 
@@ -59,21 +58,18 @@ Untuk memperoleh kekokohan Rigid yang optimal karenanya pasir sepatutnya bisa me
 ![Harga Pasir Putih Bangka Free Ongkir Ke Ragunan Jakarta](/images/info/pasir-hitam-2.jpg)
 
 - ### Pasir Standar Di Ragunan Jakarta
-    
 
 ![Harga Pasir Putih Bangka Free Ongkir Ke Ragunan Jakarta](/images/info/pasir-putih3.jpg)
 
 Pasir ini ekstra halus lagi dibandingi oleh pasir beton. jikalau kamu mengepal pasir ini karenanya akan menggumpal dan tidak akan hancur kembali. pasir pasang lazim nya di manfaatkan buat campuran pasir beton supaya tak kelewat kasar dan bisa di manfaatkan untuk plesteran dinding.
 
 - ### Pasir Kualitas rendah Untuk pemadatan lantai Di Ragunan Jakarta
-    
 
 Di Antara ke dua pasir diatas pasir macam ini lebih halus lagi, jika anda mengepal nya maka akan menggumpal dan tidak akan buyar lagi. tapi pasir ragam tidak baik tuk di buat sebagai bahan bangunan. pasir tipe ini pada biasa nya di manfaatkan untuk Bahan Pembuatan Batako
 
 Pada umum nya pasir ini nyaris sama dengan pasir beton akan tapi pasir ini memiliki tingkat kekasaran yg tinggi, butiran - butiran nya lumayan besar dan agak banyak batuan nya. pada biasanya pasir tipe ini bagus tuk bahan pemadatan lantai
 
 - ### Pasir Putih Kadar Lumpur Rendah Untuk Pengecoran Di Ragunan Jakarta
-    
 
 1. **Pasir Putih Bangka**
 

@@ -18,19 +18,19 @@ Dengan tidak adanya besi karenanya sebuah bangunan akan mudah retak ketika ada g
 
 ## Mengetahui Macam-macam Besi Di Kedaung Depok
 
-### 1\. Besi Polos SNI 4mm, 6mm, 8mm, 10mm, 12mm, 16mm, 18mm, 19mm Di Kedaung Depok
+### 1. Besi Polos SNI 4mm, 6mm, 8mm, 10mm, 12mm, 16mm, 18mm, 19mm Di Kedaung Depok
 
 Besi polos memiliki ukuran mulai dari 8 mm sampai 25 mm dan mempunyai 6 meter panjang tekuk dan 12 meter panjang lurus. Besi beton ini sudah mulai dipakai sebagai bahan utama di Indonesia pada tahun 1950. Besi ini acap kali kali diterapkan untuk membangun bangunan beton. Bahan yang mudah diterapkan sehingga selain diaplikasikan untuk membangun rumah juga dipakai untuk membangun trowongan, bendungan, dan lainnya. Saat diterapkan untuk membangun sebuah gedung bertingkat karenanya biasa besi polos ini diterapkan untuk struktur rangkaian besi balok, dinding, dan sloof. Besi beton polos ini mempunyai kelebihan besi polos ini tegangannya lebih tinggi dari pada besi lainnya. Jadi besi ini terkesan lebih kuat dan tahan beban. Jadi pengaplikasian besi polos ini benar-benar pantas untuk membangun gedung, jembatan, dan bangunan lainnya. Besi polos ini terbuat dari bahan seperti billet dan skrap. Billet merupakan baja batangan yang progres pembuatannya dengan mengecor biji besi. Apabila skrap yakni besi bekas yang dileburkan dengan temperature tertentu. Selain dari itu seandainya anda mengaplikasikan besi polos ini tdk membutuhkan anggaran pemeliharaan. Kian lama diterapkan karenanya besi ini akan semakin kokoh.
 
-### 2\. Besi Ulir Full 4mm, 6mm, 8mm, 10mm, 12mm, 16mm, 18mm, 19mm Di Kedaung Depok
+### 2. Besi Ulir Full 4mm, 6mm, 8mm, 10mm, 12mm, 16mm, 18mm, 19mm Di Kedaung Depok
 
 Sesuai dengan namanya besi beton ulir ini ialah besi yang bentuknya mengulir. Pada permukaannya bercorak spiral yang memiliki tujuan untuk menyatukan tulangan dengan unsur material bangunan yang dibentuk oleh besi beton. Besi ulir ini mulai populer diterapkan pada abad ke-20 di Amerika dan mulai populer di Indonesia pada tahun1950. Mengingat ketika menggunakan besi ulir ini mempunyai banyak kelebihan mulai dari kekuatan bangunan serta lebih hemat biaya dan efisien. Produk besi ulir ini menjadi andalan pasar karena memiliki kwalitas yang terbaik di Indonesia dan memiliki harga yang tinggi jikalau dibandingkan dengan produk lainnya.
 
-### 3\. Besi WF dan H-Beam Toleransi Di Kedaung Depok
+### 3. Besi WF dan H-Beam Toleransi Di Kedaung Depok
 
 Besi Wide Flange (WF) ini adalah salah satu baja dengan struktural yang paling sering diterapkan untuk kontruksi baja. Sekiranya anda membutuhkan besi baja Wide Flage dalam jumlah yang banyak atau sedikit karenanya silahkan cari supplier besi yang terpercaya. Besi WF ini memiliki ketahanan yang kokoh dan kuat pada ketahanan tarik atau tekan. Maka dari itu besi ini menjadi unsur struktur yang mempunyai batasan yang paripurna untuk menahan bobot tekan aksial, tarik aksial, dan lentur dengan fasilitas pembangunan strukturnya. Baja Wide Flange (WF) ini memiliki kepadatan yang tinggi namun rasio berat antara kekokohan komponen Baja WF yang tinggi tapi tdk terlalu berat yang berhubungan dengan kapasitas bobot. Selain itu menetapkan seandainya kontruksi yang diaplikasikan secara efisien. Sistem kontruksi baja WF ini kombinasi dari unsur struktur yang rumit. Pada struktur ini memiliki tujuan membawa muatan yang aman dan efektif yang bekerja pada sebuah bangunan dan dikirim pada pondasinya. Gaya dan beban yang bekerja ini termasuk muatan pertikal, perbedaan temperatur, horizontal, getaran dan lainnya. Pada sebuah bangunan baja, maka ada unsure yang berfungsi menopang gaya lateral dan gravitasi.
 
-### 4\. Besi Hollow Di Kedaung Depok
+### 4. Besi Hollow Di Kedaung Depok
 
 Besi hollow yaitu besi yang diterapkan sebagai pembuatan kanopi, pagar, pintu besi dan lainnya. Bahan baku pembuatan besi Hollow ini umumnya terbuat dari stainless, galvanis, dan besi baja. Namun yang paling kerap kali diterapkan sebagai bahan baku adalah galvanis. Terdapat kelebihan yang anda dapatkan dikala mengaplikasikan kanopi, menerapkan pagar, teralis mengaplikasikan besi hollow:
 

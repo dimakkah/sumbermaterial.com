@@ -25,7 +25,7 @@ menurut Standar Nasional Indonesia ( SK SNI - S - 04 - 1989 - F ; 28) di tuturka
 
 Syarat-Syarat Pasir yang Bagus buat Konstruksi Bangunan
 
-1.  Agregat Halus harus terdiri dari butiran yg tajam dan keras dengan indeks kekerasan <2.2
+1.  Agregat Halus harus terdiri dari butiran yg tajam dan keras dengan indeks kekerasan <2.2
 2. bilamana dipakai Natrium Sulfat bagian hancur maksimal dua belas persen
 3. sekiranya diaplikasikan Magnesium Sulfat bagian halus maksimal 5 persen
 4. Tidak boleh mengandung tanah lebih dari lima %
@@ -41,7 +41,6 @@ Syarat-Syarat Pasir yang Bagus buat Konstruksi Bangunan
 sesudah mengenal syarat pasir tuk sebuah Bangunan, sekarang ini kita bahas Macam - Ragam Pasir Untuk Konstruksi Bangunan penjelasan nya sebagai berikut:
 
 - ### Pasir Jenis Cor dan Daerah Sumbernya Di Bungur Jakarta
-    
 
 Pasir ini biasa nya berwarna hitam gelap dan tingkat pecahan butiran nya cukup tinggi. Namun sekiranya anda mengepal nya dengan tangan tak akan lengket dan akan buyar kembali. jenis pasir ini betul-betul lah bagus buat Pengecoran, Plesteran Dinding, Adukan Pondasi dan Adukan Pasangan Bata Pasir ini yaitu pasir untuk Rigid yaitu butiran-butiran mineral keras dan tajam berukuran antara 0,075 – 5 mm, bila terdapat butiran berukuran lebih kecil dari 0,063 mm tidak lebih dari 5% berat. Pasir ini yaitu pasir untuk Cor hampir acap kali diaplikasikan untuk pekerjaan cor-coran struktur seperti kolom, balok dan pelat lantai.
 
@@ -59,21 +58,18 @@ Untuk memperoleh kekuatan Beton yang optimal maka pasir mesti dapat memenuhi sya
 ![Harga Pasir Jalupang Free Ongkir Ke Bungur Jakarta](/images/info/pasir-hitam-5.jpg)
 
 - ### Pasir Untuk Pemasangan Batu, Pondasi, Bata, Ubin, Plester Di Bungur Jakarta
-    
 
 ![Harga Pasir Jalupang Free Ongkir Ke Bungur Jakarta](/images/info/pasir-putih12.jpg)
 
 Pasir ini lebih halus lagi dibandingkan oleh pasir beton. kalau kalian mengepal pasir ini maka akan menggumpal dan tidak akan buyar kembali. pasir pasang umum nya di manfaatkan buat campuran pasir beton supaya tidak kelewat kasar dan dapat di manfaatkan untuk plesteran dinding.
 
 - ### Pasir Kualitas rendah Untuk pemadatan lantai Di Bungur Jakarta
-    
 
 Di Antara ke dua pasir diatas pasir jenis ini lebih halus lagi, kalau kamu mengepal nya maka akan menggumpal dan tak akan hancur lagi. namun pasir jenis
 
 Pada nya pasir ini nyaris sama dengan pasir beton tapi pasir ini memiliki tingkat kekasaran yang tinggi, butiran - butiran nya cukup besar dan agak banyak batuan nya. pada umumnya pasir jenis ini baik untuk bahan dasaran pemasangan keramik
 
 - ### Pasir Putih Kadar Lumpur Rendah Untuk Lapangan Voly Di Bungur Jakarta
-    
 
 1. **Pasir Putih Bangka**
 

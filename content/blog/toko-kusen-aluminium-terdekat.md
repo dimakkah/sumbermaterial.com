@@ -17,8 +17,7 @@ draft: false
 
 {{< toc >}}
 
-
-### Memilih Kusen Aluminium yang Tepat: Pertimbangan Utama
+## Memilih Kusen Aluminium yang Tepat: Pertimbangan Utama
 
 Memilih kusen aluminium yang tepat bukan hanya soal tampilan, Mitra. Ada beberapa hal penting yang perlu dipertimbangkan. Ketebalan profil aluminium, jenis finishing (powder coating atau anodizing), dan kualitas aksesoris (engsel, kunci, sil) akan sangat mempengaruhi ketahanan dan performa kusen Anda. Terlalu tipis? Kusen mudah bengkok atau rusak. Finishing kurang bagus? Rentan korosi dan warnanya cepat pudar. Nah, Kami di Sumber Material siap membantu Anda memilih yang paling sesuai dengan budget dan kebutuhan proyek Anda. Jangan ragu untuk bertanya, karena Kami justru senang kalau Mitra Sumber Material mendapatkan produk terbaik.
 
@@ -28,10 +27,10 @@ Kami menyediakan berbagai jenis kusen aluminium dengan berbagai ukuran dan spesi
 
 **Berikut beberapa contoh produk yang tersedia:**
 
-*   **Kusen Aluminium 4”:** Cocok untuk jendela dan pintu rumah dengan ukuran standar. Kuat, ringan, dan mudah dipasang.
-*   **Kusen Aluminium 5”:** Lebih kokoh dan tahan lama dibandingkan 4”, ideal untuk area yang membutuhkan keamanan ekstra.
-*   **Kusen Aluminium Sliding:** Desain minimalis dan modern, cocok untuk pintu atau jendela geser. Tersedia dalam berbagai ukuran dan warna.
-*   **Kusen Aluminium YKK:** Merek ternama dengan kualitas terjamin. Pilihan tepat untuk proyek-proyek bergengsi.
+- **Kusen Aluminium 4”:** Cocok untuk jendela dan pintu rumah dengan ukuran standar. Kuat, ringan, dan mudah dipasang.
+- **Kusen Aluminium 5”:** Lebih kokoh dan tahan lama dibandingkan 4”, ideal untuk area yang membutuhkan keamanan ekstra.
+- **Kusen Aluminium Sliding:** Desain minimalis dan modern, cocok untuk pintu atau jendela geser. Tersedia dalam berbagai ukuran dan warna.
+- **Kusen Aluminium YKK:** Merek ternama dengan kualitas terjamin. Pilihan tepat untuk proyek-proyek bergengsi.
 
 ![Contoh Kusen Aluminium Sliding](/images/blog/kusen-aluminium-karawang.jpg)
 

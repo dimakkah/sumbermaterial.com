@@ -25,7 +25,7 @@ Menurut Standar Nasional Indonesia ( SK SNI - S - 04 - 1989 - F ; 28) di sebutka
 
 Prasyarat Pasir yg Bagus tuk Konstruksi Bangunan
 
-1.  Agregat Halus seharusnya terdiri dari butiran yang tajam dan keras dengan indeks kekerasan <2.2
+1.  Agregat Halus seharusnya terdiri dari butiran yang tajam dan keras dengan indeks kekerasan <2.2
 2. bilamana digunakan Natrium Sulfat bagian hancur optimal 12%
 3. bila digunakan Magnesium Sulfat bagian halus optimal sepuluh %
 4. Tidak boleh mengandung lumpur lebih dari lima persen
@@ -41,7 +41,6 @@ Prasyarat Pasir yg Bagus tuk Konstruksi Bangunan
 sesudah mengenal syarat pasir tuk suatu Konstruksi, sekarang ini kita bahas model - Macam Pasir Untuk Konstruksi penjelasan nya berikut ini:
 
 - ### Pasir Untuk Pengecoran Di Cipaku Bogor
-    
 
 Pasir ini lazim nya berwarna hitam gelap dan tingkat kekerasan butiran nya cukup tinggi. Tetapi jikalau anda mengepal nya dengan tangan tidak akan lengket dan akan hancur kembali. model pasir ini sangat lah baik tuk Pengecoran, Plesteran Dinding, Adukan Pondasi dan Adukan Pasangan Bata Pasir ini yaitu pasir untuk Rigid yaitu butiran-butiran mineral keras dan tajam berukuran antara 0,075 – 5 mm, jikalau terdapat butiran berukuran lebih kecil dari 0,063 mm tak lebih dari 5% berat. Pasir ini yaitu pasir untuk Cor acap kali diterapkan untuk pekerjaan cor-coran struktur seperti kolom, balok dan pelat lantai.
 
@@ -59,21 +58,18 @@ Untuk mendapatkan kekuatan Rigid yang optimal maka pasir harus mampu memenuhi sy
 ![Harga Pasir Putih Bangka Free Ongkir Ke Cipaku Bogor](/images/info/pasir-hitam-9.jpg)
 
 - ### Pasir Standar Di Cipaku Bogor
-    
 
 ![Harga Pasir Putih Bangka Free Ongkir Ke Cipaku Bogor](/images/info/pasir-hitam-11.jpg)
 
 Pasir ini lebih halus lagi dibandingkan oleh pasir beton. seandainya kamu mengepal pasir ini karenanya akan menggumpal dan tidak akan buyar kembali. pasir pasang lazim nya di gunakan untuk campuran pasir beton agar tidak terlalu kasar dan dapat di gunakan untuk plesteran dinding.
 
 - ### Pasir Urug Untuk Pembuatan Batako Di Cipaku Bogor
-    
 
 Di Antara ke dua pasir diatas pasir ragam ini lebih halus lagi, apabila kalian mengepal nya maka akan menggumpal dan tak akan buyar lagi. melainkan pasir tipe
 
 Pada lazim nya pasir ini nyaris sama dengan pasir beton melainkan pasir ini mempunyai tingkat kekasaran yg tinggi, butiran - butiran nya lumayan besar dan agak banyak batuan nya. pada biasanya pasir tipe ini bagus untuk bahan Pembuatan Batako
 
 - ### Pasir Putih Tanpa Ayak Untuk Hiasan Di Cipaku Bogor
-    
 
 1. **Pasir Putih Bangka**
 

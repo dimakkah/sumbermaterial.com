@@ -18,19 +18,19 @@ Tanpa adanya besi karenanya sebuah bangunan akan mudah retak saat ada guncangan 
 
 ## Mengetahui Jenis-jenis Besi Di Duren Seribu Depok
 
-### 1\. Besi Polos SNI 4mm, 6mm, 8mm, 10mm, 12mm, 16mm, 18mm, 19mm Di Duren Seribu Depok
+### 1. Besi Polos SNI 4mm, 6mm, 8mm, 10mm, 12mm, 16mm, 18mm, 19mm Di Duren Seribu Depok
 
 Besi polos memiliki ukuran mulai dari 8 mm sampai dengan 25 mm dan mempunyai 6 meter panjang tekuk dan 12 meter panjang lurus. Besi beton ini sudah mulai diterapkan sebagai bahan utama di Indonesia pada tahun 1950. Besi ini sering kali digunakan untuk membangun tempat tinggal. Bahan yang mudah dipakai sehingga selain dari diterapkan untuk membangun rumah juga digunakan untuk membangun trowongan, bendungan, dan lainnya. Saat dipakai untuk membangun tempat tinggal bertingkat karenanya biasa besi polos ini diterapkan untuk struktur tulangan balok, dinding, dan sloof. Besi beton polos ini mempunyai keunggulan besi polos ini tegangannya lebih tinggi dari pada besi lainnya. Oleh karena itu besi ini terkesan lebih kuat dan tahan beban. Sehingga penerapan besi polos ini amat pantas untuk membangun gedung, jembatan, dan bangunan lainnya. Besi polos ini terbuat dari bahan seperti billet dan skrap. Billet yakni baja batangan yang cara kerja pembuatannya dengan melebur biji besi. Jika skrap yakni besi bekas yang dihancurkan dengan temperature tertentu. Selain itu seandainya anda menerapkan besi polos ini tidak memerlukan biaya pemeliharaan. Kian lama dipakai karenanya besi ini akan kian kokoh.
 
-### 2\. Besi Ulir Krakatau Steel 4mm, 6mm, 8mm, 10mm, 12mm, 16mm, 18mm, 19mm Di Duren Seribu Depok
+### 2. Besi Ulir Krakatau Steel 4mm, 6mm, 8mm, 10mm, 12mm, 16mm, 18mm, 19mm Di Duren Seribu Depok
 
 Sesuai dengan namanya besi beton ulir ini ialah besi yang karakternya mengulir. Pada permukaannya bercorak spiral yang memiliki tujuan untuk menyatukan gerigi besi dengan elemen bahan bangunan yang dibangun oleh besi beton. Besi ulir ini mulai populer digunakan pada abad ke-20 di Amerika dan mulai populer di Indonesia pada tahun1950. Mengingat ketika memakai besi ulir ini mempunyai banyak keunggulan mulai dari kekokohan bangunan serta lebih ekonomis dan efisien. Produk besi ulir ini menjadi paling laris di pasar sebab mempunyai mutu yang terbaik di Indonesia dan mempunyai harga yang tinggi apabila dibandingi dengan produk lainnya.
 
-### 3\. Besi WF dan H-Beam SNI Di Duren Seribu Depok
+### 3. Besi WF dan H-Beam SNI Di Duren Seribu Depok
 
 Besi Wide Flange (WF) ini adalah salah satu baja dengan struktural yang paling sering diterapkan untuk kontruksi baja. Bila anda membutuhkan besi baja Wide Flage dalam jumlah yang banyak atau sedikit maka silahkan cari jual besi yang terpercaya. Besi WF ini memiliki ketahanan yang kokoh dan kuat pada kekokohan tarik atau tekan. Karenanya dari itu besi ini menjadi unsur struktur yang mempunyai batasan yang paripurna untuk menopang bobot tekan aksial, tarik aksial, dan lentur dengan fasilitas pembangunan strukturnya. Baja Wide Flange (WF) ini memiliki kepadatan yang tinggi tetapi rasio berat antara kekokohan bagian Baja WF yang tinggi tapi tdk terlalu berat yang berhubungan dengan kapasitas muatan. Selain itu menetapkan seandainya kontruksi yang digunakan secara efisien. Sistem kontruksi baja WF ini kombinasi dari faktor struktur yang rumit. Pada struktur ini mempunyai tujuan membawa muatan yang aman dan efektif yang berefek pada sebuah bangunan dan dikirim pada pondasinya. Gaya dan muatan yang bekerja ini termasuk bobot pertikal, perbedaan temperatur, horizontal, getaran dan lainnya. Pada sebuah bangunan baja, maka ada unsure yang berfungsi menahan gaya lateral dan gravitasi.
 
-### 4\. Besi Holow Di Duren Seribu Depok
+### 4. Besi Holow Di Duren Seribu Depok
 
 Besi hollow ialah besi yang diterapkan sebagai pembuatan kanopi, pagar, pintu besi dan lainnya. Bahan baku pembuatan besi Hollow ini lazimnya terbuat dari stainless, galvanis, dan besi baja. Tapi yang paling kerap kali digunakan sebagai bahan baku yakni galvanis. Terdapat kelebihan yang anda dapatkan saat menerapkan kanopi, memasang pagar, teralis menerapkan besi hollow:
 

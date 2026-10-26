@@ -17,7 +17,6 @@ draft: false
 
 {{< toc >}}
 
-
 ## Mengapa Pasir Hitam? Keunggulan yang Jarang Diketahui
 
 Mitra Sumber Material sering menerima pertanyaan, "Kenapa harus pasir hitam? Bukankah pasir putih lebih bersih?" Pertanyaan bagus! Pasir hitam memang berbeda dengan pasir lain. Warna hitamnya sendiri berasal dari kandungan mineral berat seperti magnetit dan ilmenit. Kandungan mineral ini memberikan beberapa keunggulan signifikan, lho.
@@ -40,7 +39,6 @@ Untuk memudahkan Anda, Kami menyediakan pasir hitam cor dengan kualitas terjamin
 
 Nah, mari kita bahas lebih detail mengenai spesifikasi pasir hitam cor yang biasa Kami sediakan. Biasanya, pasir hitam cor yang berkualitas memiliki gradasi (ukuran butiran) yang seragam. Ini penting untuk memastikan kepadatan dan kekuatan beton. Berikut adalah contoh spesifikasi umum yang sering Kami temui:
 
-
 <table class="table">
   <caption>Spesifikasi Pasir Hitam Cor</caption>
   <thead>
@@ -53,7 +51,6 @@ Nah, mari kita bahas lebih detail mengenai spesifikasi pasir hitam cor yang bias
     <tr><td>Kandungan Organik</td><td>&lt; 2%</td></tr>
   </tbody>
 </table>
-
 
 Angka-angka di atas adalah standar yang umumnya digunakan. Namun, spesifikasi ini dapat bervariasi tergantung pada kebutuhan proyek Anda. Misalnya, untuk beton dengan mutu tinggi (K-300 ke atas), biasanya dibutuhkan pasir hitam dengan kadar lumpur dan tanah yang lebih rendah.
 

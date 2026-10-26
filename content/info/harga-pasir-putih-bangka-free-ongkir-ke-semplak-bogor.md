@@ -25,7 +25,7 @@ Menurut Standar Nasional Indonesia ( SK SNI - S - 04 - 1989 - F ; 28) di tuturka
 
 Prasyarat Pasir yg Bagus tuk Konstruksi
 
-1.  Agregat Halus seharusnya terdiri dari butiran yg tajam dan keras dengan indeks kekerasan <2.2
+1.  Agregat Halus seharusnya terdiri dari butiran yg tajam dan keras dengan indeks kekerasan <2.2
 2. Jika dimanfaatkan Natrium Sulfat bagian hancur optimal dua belas persen
 3. apabila diterapkan Magnesium Sulfat komponen halus maksimal 5 persen
 4. Tak boleh memuat lumpur lebih dari lima persen
@@ -41,7 +41,6 @@ Prasyarat Pasir yg Bagus tuk Konstruksi
 Setelah tahu persis persyaratan pasir buat sebuah Konstruksi Bangunan, sekarang ini kita bahas Ragam - model Pasir Untuk Konstruksi penjelasan nya sebagai berikut:
 
 - ### Pasir Tipe Rigid dan Lokasi Penambangannya Di Semplak Bogor
-    
 
 Pasir ini biasa nya berwarna hitam kemerahan dan tingkat kekerasan butiran nya cukup tinggi. Namun sekiranya anda mengepal nya dengan tangan tak akan menggumpal dan akan hancur kembali. macam pasir ini amat lah bagus untuk Pengecoran, Plesteran Dinding, Adukan Pondasi dan Adukan Pasangan Bata Pasir ini yaitu pasir untuk Beton ialah butiran-butiran mineral keras dan tajam berukuran antara 0,075 – 5 mm, jikalau terdapat butiran berukuran lebih kecil dari 0,063 mm tak lebih dari 5% berat. Pasir ini yaitu pasir untuk Cor tak jarang dipakai untuk pekerjaan cor-coran struktur seperti kolom, balok dan pelat lantai.
 
@@ -59,21 +58,18 @@ Untuk memperoleh ketahanan Cor yang maksimal maka pasir mesti bisa memenuhi syar
 ![Harga Pasir Putih Bangka Free Ongkir Ke Semplak Bogor](/images/info/pasir-hitam-2.jpg)
 
 - ### Pasir Standar Di Semplak Bogor
-    
 
 ![Harga Pasir Putih Bangka Free Ongkir Ke Semplak Bogor](/images/info/pasir-hitam-11.jpg)
 
 Pasir ini ekstra halus lagi diperbandingkan oleh pasir beton. seandainya anda mengepal pasir ini maka akan menggumpal dan tidak akan hancur kembali. pasir pasang lazim nya di gunakan untuk campuran pasir beton agar tidak kelewat kasar dan bisa di gunakan untuk plesteran dinding.
 
 - ### Pasir Urug Untuk pengurugan lantai Di Semplak Bogor
-    
 
 Di Antara ke dua pasir diatas pasir jenis ini lebih halus lagi, seandainya anda mengepal nya akan menggumpal dan tidak akan hancur lagi. melainkan pasir ragam tak baik untuk di buat sebagai bahan bangunan. pasir model ini pada umum nya di gunakan tuk Bahan Pembuatan Batako
 
 Pada nya pasir ini nyaris sama dengan pasir beton melainkan pasir ini memiliki tingkat kekasaran yg tinggi, butiran - butiran nya lumayan besar dan agak banyak batuan nya. pada lazimnya pasir model ini baik untuk bahan Pembuatan Batako
 
 - ### Pasir Putih Tanpa Ayak Untuk Pelester Di Semplak Bogor
-    
 
 1. **Pasir Putih Bangka**
 

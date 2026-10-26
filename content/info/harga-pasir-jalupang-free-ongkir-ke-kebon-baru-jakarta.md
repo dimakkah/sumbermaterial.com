@@ -25,7 +25,7 @@ berdasarkan Standar Nasional Indonesia ( SK SNI - S - 04 - 1989 - F ; 28) di tut
 
 Prasyarat Pasir yang Bagus tuk Konstruksi Bangunan
 
-1.  Agregat Halus semestinya terdiri dari butiran yang tajam dan keras dengan indeks kekerasan <2.2
+1.  Agregat Halus semestinya terdiri dari butiran yang tajam dan keras dengan indeks kekerasan <2.2
 2. Sekiranya diterapkan Natrium Sulfat komponen hancur optimal 12%
 3. kalau digunakan Magnesium Sulfat bagian halus maksimal sepuluh %
 4. Tak boleh memuat clay lebih dari lima persen
@@ -41,7 +41,6 @@ Prasyarat Pasir yang Bagus tuk Konstruksi Bangunan
 setelah mengetahui persyaratan pasir untuk sebuah Konstruksi, saat ini kita bahas Jenis - Tipe Pasir Untuk Konstruksi Bangunan penjelasan nya sebagai berikut:
 
 - ### Pasir Tipe Beton dan Tempat Sumbernya Di Kebon Baru Jakarta
-    
 
 Pasir ini umum nya berwarna coklat tua dan tingkat pecahan butiran nya lumayan tinggi. Tetapi kalau anda mengepal nya dengan tangan tidak akan lengket dan akan hancur kembali. jenis pasir ini sungguh-sungguh lah bagus buat Pengecoran, Plesteran Dinding, Adukan Pondasi dan Adukan Pasangan Bata Pasir ini yaitu pasir untuk Beton yakni butiran-butiran mineral keras dan tajam berukuran antara 0,075 – 5 mm, seandainya terdapat butiran berukuran lebih kecil dari 0,063 mm tidak lebih dari 5% berat. Pasir ini yaitu pasir untuk Cor hampir sering dimanfaatkan untuk profesi cor-coran struktur seperti kolom, balok dan pelat lantai.
 
@@ -59,21 +58,18 @@ Untuk mendapatkan kualitas Rigid yang maksimal karenanya pasir semestinya sanggu
 ![Harga Pasir Jalupang Free Ongkir Ke Kebon Baru Jakarta](/images/info/pasir-hitam-9.jpg)
 
 - ### Pasir Standar Di Kebon Baru Jakarta
-    
 
 ![Harga Pasir Jalupang Free Ongkir Ke Kebon Baru Jakarta](/images/info/jual-pasir-mundu-2.jpg)
 
 Pasir ini lebih halus lagi dibandingi oleh pasir beton. jikalau anda mengepal pasir ini karenanya akan menggumpal dan tidak akan buyar kembali. pasir pasang lazim nya di pakai tuk campuran pasir beton agar tidak kelewat kasar dan bisa di pakai untuk plesteran dinding.
 
 - ### Pasir Kualitas rendah Untuk pengurugan lantai Di Kebon Baru Jakarta
-    
 
 Di Antara ke dua pasir diatas pasir macam ini lebih halus lagi, kalau kamu mengepal nya akan menggumpal dan tak akan buyar lagi. tapi pasir tipe
 
 Pada nya pasir ini nyaris sama dgn pasir beton akan melainkan pasir ini memiliki tingkat kekasaran yg tinggi, butiran - butiran nya lumayan besar dan agak banyak batuan nya. pada biasanya pasir jenis ini bagus untuk bahan dasaran pemasangan keramik
 
 - ### Pasir Putih Tanpa Batu Untuk Taman Bermain Di Kebon Baru Jakarta
-    
 
 1. **Pasir Putih Bangka**
 

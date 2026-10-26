@@ -25,7 +25,7 @@ menurut Standar Nasional Indonesia ( SK SNI - S - 04 - 1989 - F ; 28) di sebutka
 
 Syarat-Syarat Pasir yang Bagus tuk Konstruksi Bangunan
 
-1.  Agregat Halus sepatutnya terdiri dari butiran yang tajam dan keras dengan indeks kekerasan <2.2
+1.  Agregat Halus sepatutnya terdiri dari butiran yang tajam dan keras dengan indeks kekerasan <2.2
 2. bilamana dipakai Natrium Sulfat komponen hancur maksimal dua belas %
 3. jika dipakai Magnesium Sulfat bagian halus maksimal sepuluh persen
 4. Tak boleh berisi clay lebih dari lima %
@@ -41,7 +41,6 @@ Syarat-Syarat Pasir yang Bagus tuk Konstruksi Bangunan
 Sesudah mengenal syarat pasir buat suatu Bangunan, pada saat ini kita bahas Macam - Tipe Pasir Untuk Konstruksi penjelasan nya sebagai berikut:
 
 - ### Pasir Tipe Beton dan Lokasi Penambangannya Di Kenari Jakarta
-    
 
 Pasir ini umum nya berwarna hitam gelap dan tingkat kekasaran butiran nya cukup tinggi. Tapi seandainya anda mengepal nya dengan tangan tak akan menggumpal dan akan hancur kembali. model pasir ini sungguh-sungguh lah baik untuk Pengecoran, Plesteran Dinding, Adukan Pondasi dan Adukan Pasangan Bata Pasir ini yaitu pasir untuk Beton adalah butiran-butiran mineral keras dan tajam berukuran antara 0,075 – 5 mm, seandainya terdapat butiran berukuran lebih kecil dari 0,063 mm tidak lebih dari 5% berat. Pasir ini yaitu pasir untuk Cor tak jarang digunakan untuk pekerjaan cor-coran struktur seperti kolom, balok dan pelat lantai.
 
@@ -59,21 +58,18 @@ Untuk mendapatkan kekokohan Cor yang optimal maka pasir harus mampu memenuhi per
 ![Harga Pasir Mainan Anak Free Ongkir Ke Kenari Jakarta](/images/info/pasir-hitam-8.jpg)
 
 - ### Pasir Standar Di Kenari Jakarta
-    
 
 ![Harga Pasir Mainan Anak Free Ongkir Ke Kenari Jakarta](/images/info/pasir-hitam-11.jpg)
 
 Pasir ini ekstra halus lagi diperbandingkan oleh pasir beton. kalau kamu mengepal pasir ini maka akan menggumpal dan tidak akan buyar kembali. pasir pasang lazim nya di manfaatkan tuk adukan pasir beton agar tidak terlampau kasar dan dapat di pakai untuk plesteran dinding.
 
 - ### Pasir Elod Untuk pemadatan lantai Di Kenari Jakarta
-    
 
 Di Antara ke dua pasir diatas pasir model ini lebih halus lagi, bila anda mengepal nya maka akan menggumpal dan tidak akan buyar lagi. tetapi pasir jenis
 
 Pada nya pasir ini nyaris sama dgn pasir beton akan namun pasir ini mempunyai tingkat kekasaran yang tinggi, butiran - butiran nya lumayan besar dan agak banyak batuan nya. pada biasanya pasir jenis ini bagus tuk bahan pemadatan lantai
 
 - ### Pasir Putih Tanpa Ayak Untuk Pasang Keramik Di Kenari Jakarta
-    
 
 1. **Pasir Putih Bangka**
 

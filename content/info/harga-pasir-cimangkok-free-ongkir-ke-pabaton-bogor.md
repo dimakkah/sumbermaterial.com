@@ -25,7 +25,7 @@ berdasarkan Standar Nasional Indonesia ( SK SNI - S - 04 - 1989 - F ; 28) di tut
 
 Persyaratan Pasir yg Baik tuk Konstruksi Bangunan
 
-1.  Agregat Halus sepatutnya terdiri dari butiran yang tajam dan keras dengan indeks kekerasan <2.2
+1.  Agregat Halus sepatutnya terdiri dari butiran yang tajam dan keras dengan indeks kekerasan <2.2
 2. bilamana digunakan Natrium Sulfat bagian hancur maksimal dua belas persen
 3. jikalau dipakai Magnesium Sulfat bagian halus optimal sepuluh %
 4. Tak boleh berisi tanah lebih dari lima persen
@@ -41,7 +41,6 @@ Persyaratan Pasir yg Baik tuk Konstruksi Bangunan
 Sesudah memahami persyaratan pasir tuk sebuah Konstruksi Bangunan, sekarang ini kita bahas Jenis - Jenis Pasir Untuk Konstruksi penjelasan nya berikut ini:
 
 - ### Pasir untuk Cor Rigid Di Pabaton Bogor
-    
 
 Pasir ini biasa nya berwarna coklat tua dan tingkat kekasaran butiran nya cukup tinggi. Namun seandainya anda mengepal nya dengan tangan tidak akan menggumpal dan akan hancur kembali. ragam pasir ini sangat lah bagus untuk Pengecoran, Plesteran Dinding, Adukan Pondasi dan Adukan Pasangan Bata Pasir ini yaitu pasir untuk Beton merupakan butiran-butiran mineral keras dan tajam berukuran antara 0,075 – 5 mm, sekiranya terdapat butiran berukuran lebih kecil dari 0,063 mm tidak lebih dari 5% berat. Pasir ini yaitu pasir untuk Rigid sering kali dimanfaatkan untuk profesi cor-coran struktur seperti kolom, balok dan pelat lantai.
 
@@ -59,21 +58,18 @@ Untuk mendapatkan kualitas Beton yang maksimal maka pasir semestinya sanggup mem
 ![Harga Pasir Cimangkok Free Ongkir Ke Pabaton Bogor](/images/info/pasir-hitam-9.jpg)
 
 - ### Pasir Standar Di Pabaton Bogor
-    
 
 ![Harga Pasir Cimangkok Free Ongkir Ke Pabaton Bogor](/images/info/pasir-hitam-11.jpg)
 
 Pasir ini lebih halus lagi dibandingkan oleh pasir beton. bila anda mengepal pasir ini karenanya akan menggumpal dan tidak akan hancur kembali. pasir pasang biasa nya di gunakan buat adukan pasir beton agar tidak terlampau kasar dan dapat di pakai untuk plesteran dinding.
 
 - ### Pasir Elod Untuk Dasaran Pemasangan Marmer Di Pabaton Bogor
-    
 
 Di Antara ke dua pasir diatas pasir model ini lebih halus lagi, jikalau anda mengepal nya akan menggumpal dan tidak akan hancur lagi. melainkan pasir jenis
 
 Pada biasa nya pasir ini nyaris sama dgn pasir beton tapi pasir ini memiliki tingkat kekasaran yang tinggi, butiran - butiran nya lumayan besar dan agak banyak batuan nya. pada lazimnya pasir model ini bagus tuk bahan pengurugan lantai
 
 - ### Pasir Putih Kadar Lumpur Rendah Untuk Pelester Di Pabaton Bogor
-    
 
 1. **Pasir Putih Bangka**
 

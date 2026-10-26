@@ -25,7 +25,7 @@ Menurut Standar Nasional Indonesia ( SK SNI - S - 04 - 1989 - F ; 28) di tuturka
 
 Syarat-Syarat Pasir yang Baik buat Konstruksi Bangunan
 
-1.  Agregat Halus semestinya terdiri dari butiran yg tajam dan keras dengan indeks kekerasan <2.2
+1.  Agregat Halus semestinya terdiri dari butiran yg tajam dan keras dengan indeks kekerasan <2.2
 2. Kalau diaplikasikan Natrium Sulfat bagian hancur maksimal dua belas persen
 3. Sekiranya diaplikasikan Magnesium Sulfat komponen halus maksimal 10%
 4. Tak boleh mengandung tanah lebih dari lima persen
@@ -41,7 +41,6 @@ Syarat-Syarat Pasir yang Baik buat Konstruksi Bangunan
 Setelah mengenal persyaratan pasir buat sebuah Bangunan, pada saat ini kita bahas Tipe - Jenis Pasir Untuk Bangunan penjelasan nya sebagai berikut:
 
 - ### Pasir Beton Di Bojongsari Baru Depok
-    
 
 Pasir ini biasa nya berwarna coklat tua dan tingkat kekasaran butiran nya lumayan tinggi. Tapi apabila anda mengepal nya dengan tangan tidak akan menggumpal dan akan buyar kembali. macam pasir ini betul-betul lah bagus untuk Pengecoran, Plesteran Dinding, Adukan Pondasi dan Adukan Pasangan Bata Pasir ini yaitu pasir untuk Cor ialah butiran-butiran mineral keras dan tajam berukuran antara 0,075 – 5 mm, seandainya terdapat butiran berukuran lebih kecil dari 0,063 mm tidak lebih dari 5% berat. Pasir ini yaitu pasir untuk Rigid hampir sering dipakai untuk profesi cor-coran struktur seperti kolom, balok dan pelat lantai.
 
@@ -59,21 +58,18 @@ Untuk mendapatkan kualitas Rigid yang maksimal karenanya pasir semestinya dapat 
 ![Harga Pasir Lampung Free Ongkir Ke Bojongsari Baru Depok](/images/info/pasir-hitam-2.jpg)
 
 - ### Pasir Pasang Di Bojongsari Baru Depok
-    
 
 ![Harga Pasir Lampung Free Ongkir Ke Bojongsari Baru Depok](/images/info/jual-pasir-mundu.jpg)
 
 Pasir ini ekstra halus lagi dibandingi oleh pasir beton. kalau kalian mengepal pasir ini karenanya akan menggumpal dan tidak akan buyar kembali. pasir pasang umum nya di pakai untuk adukan pasir beton agar tidak terlalu kasar dan dapat di pakai untuk plesteran dinding.
 
 - ### Pasir Kualitas rendah Untuk pengurugan lantai Di Bojongsari Baru Depok
-    
 
 Di Antara ke dua pasir diatas pasir ragam ini lebih halus lagi, jika anda mengepal nya karenanya akan menggumpal dan tidak akan buyar lagi. melainkan pasir tipe
 
 Pada biasa nya pasir ini nyaris sama dgn pasir beton tetapi pasir ini memiliki tingkat kekasaran yg tinggi, butiran - butiran nya lumayan besar dan agak banyak batuan nya. pada lazimnya pasir tipe ini bagus untuk bahan dasaran pemasangan keramik
 
 - ### Pasir Putih Bebas Lumpur Untuk Pasang Keramik Di Bojongsari Baru Depok
-    
 
 1. **Pasir Putih Bangka**
 

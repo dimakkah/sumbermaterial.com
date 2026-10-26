@@ -25,7 +25,7 @@ berdasarkan Standar Nasional Indonesia ( SK SNI - S - 04 - 1989 - F ; 28) di tut
 
 Syarat Pasir yang Bagus buat Konstruksi
 
-1.  Agregat Halus wajib terdiri dari butiran yang tajam dan keras dengan indeks kekerasan <2.2
+1.  Agregat Halus wajib terdiri dari butiran yang tajam dan keras dengan indeks kekerasan <2.2
 2. Jika dimanfaatkan Natrium Sulfat komponen hancur maksimal 12 persen
 3. seandainya diaplikasikan Magnesium Sulfat komponen halus optimal sepuluh persen
 4. Tak boleh memuat lumpur lebih dari lima persen
@@ -41,7 +41,6 @@ Syarat Pasir yang Bagus buat Konstruksi
 Sesudah memahami persyaratan pasir untuk sebuah Konstruksi Bangunan, sekarang ini kita bahas Ragam - model Pasir Untuk Konstruksi penjelasan nya sebagai berikut:
 
 - ### Pasir Untuk Pengecoran Di Kukusan Depok
-    
 
 Pasir ini biasa nya berwarna keabu-abuan dan tingkat kekerasan butiran nya lumayan tinggi. Melainkan sekiranya anda mengepal nya dengan tangan tidak akan menggumpal dan akan hancur kembali. macam pasir ini amat lah bagus buat Pengecoran, Plesteran Dinding, Adukan Pondasi dan Adukan Pasangan Bata Pasir ini yaitu pasir untuk Cor yakni butiran-butiran mineral keras dan tajam berukuran antara 0,075 – 5 mm, apabila terdapat butiran berukuran lebih kecil dari 0,063 mm tak lebih dari 5% berat. Pasir ini yaitu pasir untuk Beton hampir acap kali dimanfaatkan untuk profesi cor-coran struktur seperti kolom, balok dan pelat lantai.
 
@@ -52,9 +51,9 @@ Harga Pasir Plester Free Ongkir Ke Kukusan Depok Sekiranya anda sebagai konsumen
 Pasir kelas satu diambil dari kp. jebrod cianjur jawa barat yang diaplikasikan oleh indocement serta perusahaan batching plant lainnya sebagai bahan dasar produksi readymix concrete. Pasir ini paling dianjurkan untuk cor sebab irit semen juga mempunyai kandungan lumpur yang sungguh-sungguh rendah dibawah delapan persen. warnanya Hitam abu tua atau hitam seperti hitamnya batu kali, ada juga yang hitam kemerahan atau hitam terasi
 
 3. **Pasir Hitam Cor Cimangkok.** Pasir diambil dari Lokasi penambangannya di cimangkok sukabumi jabar yang masih masuk pada golongan pasir hitam nomor satu di jabar, warnanya hitam kecoklatan layak untuk cor, pasang pondasi dan bata
-    
+
     ![Harga Pasir Plester Free Ongkir Ke Kukusan Depok](/images/info/pasir-hitam-2.jpg)
-    
+
 4. **Pasir Hitam Cor Cimalaka Subang Bandung.**
 
 Pasir terbaik yang berwarna hitam kebauan ada juga yang berwarna hitam abu tua. Banyak di gunakan untuk Cor, pasang dan keperluan lainnya. Ditambang di Desa cimalaka
@@ -90,9 +89,9 @@ Kecuali Rangkasbitung, Banten juga mempunyai lokasi pnembangan pasir lain sepert
 Masih dari kawasan di banten, pasir kelas tiga ini ialah pasir yang banyak digunakan di proyek proyek perumahan atau cluster sebab harganya yang murah juga kwalitas yang baik. Warna pasir ini hitam kecoklatan dan keabuan benar-benar disarankan untuk pasang pondasi, bata, batu dan lain-lain
 
 27. **Pasir Hitam Beton Bohlam Sukabumi.** Pasir dari Daerah kp. bohlam di sukabumi berwarna hitam kecoklatan, amat bagus untuk pasang bata, pondasi dan sebagainya sebagai pilihan pasir kwalitas bagus dan tidak mahal
-    
+
     ![Harga Pasir Plester Free Ongkir Ke Kukusan Depok](/images/info/jual-pasir-cor-hitam.jpg)
-    
+
 28. **Pasir Rigid Galunggung.**
 
 Pasir ini yakni pasir hitam mutu paling unggul dikelasnya awam digunakan oleh pabrik pengolahan beton readymix juga perusahan pembuatan precast dan acap kali juga digunakan untuk bahan pembuatan batako press hitam, paving block dan sebagainya. Pasir ini ditambang dari Tasikmalaya jawa barat.
@@ -100,21 +99,18 @@ Pasir ini yakni pasir hitam mutu paling unggul dikelasnya awam digunakan oleh pa
 ![Harga Pasir Plester Free Ongkir Ke Kukusan Depok](/images/info/pasir-hitam-1.jpg)
 
 - ### Pasir Standar Di Kukusan Depok
-    
 
 ![Harga Pasir Plester Free Ongkir Ke Kukusan Depok](/images/info/pasir-putih12.jpg)
 
 Pasir ini ekstra halus lagi diperbandingkan oleh pasir beton. jika kalian mengepal pasir ini maka akan menggumpal dan tidak akan buyar kembali. pasir pasang lazim nya di gunakan tuk campuran pasir beton supaya tak terlampau kasar dan dapat di manfaatkan untuk plesteran dinding.
 
 - ### Pasir Kualitas rendah Untuk pengurugan lantai Di Kukusan Depok
-    
 
 Di Antara ke dua pasir diatas pasir model ini lebih halus lagi, apabila kalian mengepal nya karenanya akan menggumpal dan tidak akan buyar lagi. melainkan pasir macam
 
 Pada biasa nya pasir ini nyaris sama dgn pasir beton melainkan pasir ini memiliki tingkat kekasaran yang tinggi, butiran - butiran nya lumayan besar dan agak banyak batuan nya. pada umumnya pasir tipe ini baik untuk bahan Pembuatan Batako
 
 - ### Pasir Putih Halus Untuk Pasang Bata Di Kukusan Depok
-    
 
 1. **Pasir Putih Bangka**
 

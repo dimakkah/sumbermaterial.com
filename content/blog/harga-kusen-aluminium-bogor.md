@@ -17,7 +17,6 @@ draft: false
 
 {{< toc >}}
 
-
 Mencari kusen aluminium berkualitas dengan harga bersaing di Bogor memang butuh perhatian. Nah, Kami dari Sumber Material siap membantu Anda menemukan solusi terbaik untuk proyek bangunan atau renovasi. Artikel ini akan membahas tuntas seputar harga kusen aluminium di Bogor, jenis-jenisnya, serta tips memilih yang tepat sesuai kebutuhan Anda.
 
 ## Mengapa Kusen Aluminium Menjadi Pilihan Populer di Bogor?
@@ -34,7 +33,6 @@ Ukuran kusen tentu saja sangat krusial. Semakin besar ukuran kusen, semakin bany
 
 Berikut ini tabel perbandingan harga kusen aluminium berdasarkan ketebalan profil dan jenis finishing (harga bersifat estimasi dan dapat berubah sewaktu-waktu — hubungi Kami untuk penawaran terbaru dan paling akurat sesuai kebutuhan proyek Mitra):
 
-
 <table class="table">
   <caption>Perbandingan Harga Kusen Aluminium Bogor (Estimasi)</caption>
   <thead>
@@ -47,7 +45,6 @@ Berikut ini tabel perbandingan harga kusen aluminium berdasarkan ketebalan profi
     <tr><td>0.60mm</td><td>Powder Coating</td><td>Rp 250.000 - Rp 350.000</td></tr>
   </tbody>
 </table>
-
 
 ![Kusen aluminium modern berwarna hitam di sebuah rumah minimalis](/images/blog/kusen-aluminium-karawang.jpg)
 

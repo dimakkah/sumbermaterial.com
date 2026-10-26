@@ -21,19 +21,19 @@ Pemasangan baja ringan untuk kebutuhan bangunan bisa dijalankan dengan cukup mud
 
 Berikut ini adalah beberapa alasan utama yang perlu Anda ketahui sebelum menghubungi kami. Alasan-alasan inilah yang menjadikan baja ringan pilihan populer sebagai kerangka atap dan kanopi.
 
- **Ramah Lingkungan:** Baja ringan dianggap lebih ramah lingkungan karena Anda tidak membutuhkan kayu, yang artinya tidak menebang pohon. Dengan menggunakan kerangka baja ringan, Anda ikut berkontribusi dalam melestarikan alam.
+- **Ramah Lingkungan:** Baja ringan dianggap lebih ramah lingkungan karena Anda tidak membutuhkan kayu, yang artinya tidak menebang pohon. Dengan menggunakan kerangka baja ringan, Anda ikut berkontribusi dalam melestarikan alam.
 
- **Lebih Ekonomis:** Jika dibandingkan dengan kerangka kayu, biaya baja ringan cenderung lebih murah. Mendapatkan kayu berkualitas tinggi juga membutuhkan biaya yang signifikan. Anda perlu memikirkan ini dengan matang untuk menekan biaya pembangunan. 
+- **Lebih Ekonomis:** Jika dibandingkan dengan kerangka kayu, biaya baja ringan cenderung lebih murah. Mendapatkan kayu berkualitas tinggi juga membutuhkan biaya yang signifikan. Anda perlu memikirkan ini dengan matang untuk menekan biaya pembangunan.
 
- **Ringan dan Kuat:** Baja ringan berbeda dengan baja/besi yang memiliki berat dua kali lipatnya. Baja ringan memiliki ketebalan yang tipis dan ringan, namun tetap kuat untuk kerangka atap dan pembuatan kanopi rumah Anda.
+- **Ringan dan Kuat:** Baja ringan berbeda dengan baja/besi yang memiliki berat dua kali lipatnya. Baja ringan memiliki ketebalan yang tipis dan ringan, namun tetap kuat untuk kerangka atap dan pembuatan kanopi rumah Anda.
 
- **Minim Perawatan:** Anda tidak perlu khawatir tentang kerusakan atau perawatan tahunan pada kerangka atap Anda. Ini akan membebaskan Anda dari biaya dan kerumitan perawatan rutin.
+- **Minim Perawatan:** Anda tidak perlu khawatir tentang kerusakan atau perawatan tahunan pada kerangka atap Anda. Ini akan membebaskan Anda dari biaya dan kerumitan perawatan rutin.
 
- **Pemasangan Cepat:** Berbeda dengan kerangka kayu atau material lain yang memerlukan waktu pemasangan lebih lama, pemasangan kerangka baja ringan relatif cepat. Ini menghemat waktu dan tenaga Anda.
+- **Pemasangan Cepat:** Berbeda dengan kerangka kayu atau material lain yang memerlukan waktu pemasangan lebih lama, pemasangan kerangka baja ringan relatif cepat. Ini menghemat waktu dan tenaga Anda.
 
- **Kualitas Terjamin:** Baja ringan yang kami gunakan bukanlah baja ringan sembarangan. Bahan utamanya adalah zinc dan aluminium yang sudah memiliki sertifikasi dan standar keamanan 4 kali lebih baik dibandingkan baja umum. Material ini juga mampu menahan beban berkilo-kilo.
+- **Kualitas Terjamin:** Baja ringan yang kami gunakan bukanlah baja ringan sembarangan. Bahan utamanya adalah zinc dan aluminium yang sudah memiliki sertifikasi dan standar keamanan 4 kali lebih baik dibandingkan baja umum. Material ini juga mampu menahan beban berkilo-kilo.
 
- **Tahan Rayap:** Kami menjamin bahwa kerangka atap dan kanopi dari baja ringan ini tahan terhadap serangan rayap.
+- **Tahan Rayap:** Kami menjamin bahwa kerangka atap dan kanopi dari baja ringan ini tahan terhadap serangan rayap.
 
 ## Cara Menghitung Luas Rangka Baja Ringan Di Cirinten Rangkasbitung
 
@@ -59,10 +59,10 @@ Membahas biaya layanan pasang baja ringan, sebenarnya sudah banyak informasi yan
 
 (Catatan: Harga dapat disesuaikan) Berikut adalah beberapa perkiraan harga jasa pasang baja ringan berdasarkan jenis pemasangannya, baik untuk kanopi maupun kerangka atap:
 
-*   Kanopi untuk rangka baja ringan “Polikarbonat x Lite Rp. 285.000 / m
-*   Kanopi untuk rangka baja ringan “Spandek Rp. 225.000 / m
-*   Kanopi untuk rangka baja ringan “Gogreen Rp. 200.000 /m
-*   Untuk perhitungan lainnya, segera hubungi kami melalui kontak yang sudah kami sediakan di *website* kami.
+- Kanopi untuk rangka baja ringan “Polikarbonat x Lite Rp. 285.000 / m
+- Kanopi untuk rangka baja ringan “Spandek Rp. 225.000 / m
+- Kanopi untuk rangka baja ringan “Gogreen Rp. 200.000 /m
+- Untuk perhitungan lainnya, segera hubungi kami melalui kontak yang sudah kami sediakan di *website* kami.
 
 Adapun Parameter Besaran Harga Jasa Pasang Baja Ringan
 
@@ -82,10 +82,10 @@ Setelah pembuatan sketsa dan perhitungan rangka selesai, Anda dapat membicarakan
 
 Berikut informasi rinci mengenai biaya jasa pasang baja ringan yang perlu Anda ketahui. Ini penting untuk Anda pahami dalam mempertimbangkan besaran *budget* yang diperlukan.
 
-*   Biaya layanan kami sudah termasuk biaya pemasangan yang lebih murah dan banyak memberikan diskon untuk konsumen.
-*   Harga yang kami tawarkan sudah sesuai dengan jasa pemasangan, perhitungan, dan material yang terpasang.
-*   Harga terbaik selalu kami utamakan saat bertemu dengan Anda.
-*   Biaya layanan pasang baja ringan dapat berubah sewaktu-waktu karena fluktuasi harga material.
-*   Pembayaran dapat dilakukan dengan *down payment* dan sisanya setelah pemasangan selesai.
+- Biaya layanan kami sudah termasuk biaya pemasangan yang lebih murah dan banyak memberikan diskon untuk konsumen.
+- Harga yang kami tawarkan sudah sesuai dengan jasa pemasangan, perhitungan, dan material yang terpasang.
+- Harga terbaik selalu kami utamakan saat bertemu dengan Anda.
+- Biaya layanan pasang baja ringan dapat berubah sewaktu-waktu karena fluktuasi harga material.
+- Pembayaran dapat dilakukan dengan *down payment* dan sisanya setelah pemasangan selesai.
 
 Anda dapat percayakan hal ini kepada kami. Kami, sebagai Harga Pasang Atap Baja Ringan Di Cirinten Rangkasbitung, siap membantu Anda dalam mempertimbangkan ukuran, kualitas, dan pemasangan yang benar-benar sesuai dengan kebutuhan Anda tanpa meninggalkan sisa material. Terima kasih.

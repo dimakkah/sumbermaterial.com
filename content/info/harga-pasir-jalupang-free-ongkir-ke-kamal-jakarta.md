@@ -25,7 +25,7 @@ Berdasarkan Standar Nasional Indonesia ( SK SNI - S - 04 - 1989 - F ; 28) di seb
 
 Syarat-Syarat Pasir yang Baik tuk Bangunan
 
-1.  Agregat Halus seharusnya terdiri dari butiran yang tajam dan keras dengan indeks kekerasan <2.2
+1.  Agregat Halus seharusnya terdiri dari butiran yang tajam dan keras dengan indeks kekerasan <2.2
 2. seandainya dimanfaatkan Natrium Sulfat bagian hancur maksimal dua belas %
 3. jikalau dipakai Magnesium Sulfat komponen halus optimal sepuluh %
 4. Tak boleh berisi tanah lebih dari lima %
@@ -41,7 +41,6 @@ Syarat-Syarat Pasir yang Baik tuk Bangunan
 Setelah memahami prasyarat pasir buat sebuah Konstruksi Bangunan, pada saat ini kita bahas Jenis - Tipe Pasir Untuk Konstruksi Bangunan penjelasan nya sebagai berikut:
 
 - ### Pasir Jenis Rigid dan Lokasi Penambangannya Di Kamal Jakarta
-    
 
 Pasir ini lazim nya berwarna coklat tua dan tingkat pecahan butiran nya cukup tinggi. Tetapi jikalau anda mengepal nya dengan tangan tidak akan menggumpal dan akan buyar kembali. ragam pasir ini benar-benar lah bagus buat Pengecoran, Plesteran Dinding, Adukan Pondasi dan Adukan Pasangan Bata Pasir ini yaitu pasir untuk Rigid yakni butiran-butiran mineral keras dan tajam berukuran antara 0,075 – 5 mm, sekiranya terdapat butiran berukuran lebih kecil dari 0,063 mm tidak lebih dari 5% berat. Pasir ini yaitu pasir untuk Rigid tak jarang digunakan untuk pekerjaan cor-coran struktur seperti kolom, balok dan pelat lantai.
 
@@ -59,21 +58,18 @@ Untuk menerima kekuatan Beton yang optimal maka pasir seharusnya bisa memenuhi s
 ![Harga Pasir Jalupang Free Ongkir Ke Kamal Jakarta](/images/info/pasir-hitam-5.jpg)
 
 - ### Pasir Standar Di Kamal Jakarta
-    
 
 ![Harga Pasir Jalupang Free Ongkir Ke Kamal Jakarta](/images/info/pasir-putih3.jpg)
 
 Pasir ini lebih halus lagi dibandingkan oleh pasir beton. jikalau kalian mengepal pasir ini maka akan menggumpal dan tidak akan hancur kembali. pasir pasang umum nya di manfaatkan tuk campuran pasir beton supaya tak terlampau kasar dan bisa di manfaatkan untuk plesteran dinding.
 
 - ### Pasir Elod Untuk pemadatan lantai Di Kamal Jakarta
-    
 
 Di Antara ke dua pasir diatas pasir tipe ini lebih halus lagi, seandainya anda mengepal nya karenanya akan menggumpal dan tidak akan buyar lagi. tapi pasir jenis
 
 Pada biasa nya pasir ini nyaris sama dengan pasir beton tapi pasir ini memiliki tingkat kekasaran yang tinggi, butiran - butiran nya lumayan besar dan agak banyak batuan nya. pada lazimnya pasir model ini baik tuk bahan pemadatan lantai
 
 - ### Pasir Putih Tanpa Batu Untuk Lapangan Voly Di Kamal Jakarta
-    
 
 1. **Pasir Putih Bangka**
 

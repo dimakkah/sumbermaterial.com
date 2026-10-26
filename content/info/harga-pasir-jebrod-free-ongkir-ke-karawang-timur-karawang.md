@@ -25,7 +25,7 @@ menurut Standar Nasional Indonesia ( SK SNI - S - 04 - 1989 - F ; 28) di sebutka
 
 Persyaratan Pasir yang Baik buat Bangunan
 
-1.  Agregat Halus semestinya terdiri dari butiran yang tajam dan keras dengan indeks kekerasan <2.2
+1.  Agregat Halus semestinya terdiri dari butiran yang tajam dan keras dengan indeks kekerasan <2.2
 2. bilamana diaplikasikan Natrium Sulfat komponen hancur optimal 12 persen
 3. seandainya diterapkan Magnesium Sulfat bagian halus optimal 5 persen
 4. Tidak boleh berisi clay lebih dari lima %
@@ -41,7 +41,6 @@ Persyaratan Pasir yang Baik buat Bangunan
 setelah memahami prasyarat pasir untuk sebuah Bangunan, sekarang ini kita bahas Ragam - model Pasir Untuk Bangunan penjelasan nya berikut ini:
 
 - ### Pasir untuk Cor Rigid Di Karawang Timur Karawang
-    
 
 Pasir ini lazim nya berwarna keabu-abuan dan tingkat pecahan butiran nya cukup tinggi. Tetapi jikalau anda mengepal nya dengan tangan tidak akan lengket dan akan buyar kembali. jenis pasir ini sungguh-sungguh lah baik untuk Pengecoran, Plesteran Dinding, Adukan Pondasi dan Adukan Pasangan Bata Pasir ini yaitu pasir untuk Beton yaitu butiran-butiran mineral keras dan tajam berukuran antara 0,075 – 5 mm, sekiranya terdapat butiran berukuran lebih kecil dari 0,063 mm tak lebih dari 5% berat. Pasir ini yaitu pasir untuk Rigid hampir tak jarang diaplikasikan untuk profesi cor-coran struktur seperti kolom, balok dan pelat lantai.
 
@@ -59,21 +58,18 @@ Untuk menerima kekokohan Cor yang maksimal karenanya pasir mesti sanggup memenuh
 ![Harga Pasir Jebrod Free Ongkir Ke Karawang Timur Karawang](/images/info/pasir-hitam-5.jpg)
 
 - ### Pasir Standar Di Karawang Timur Karawang
-    
 
 ![Harga Pasir Jebrod Free Ongkir Ke Karawang Timur Karawang](/images/info/pasir-hitam-11.jpg)
 
 Pasir ini ekstra halus lagi dibandingkan oleh pasir beton. jikalau kamu mengepal pasir ini karenanya akan menggumpal dan tidak akan hancur kembali. pasir pasang biasa nya di manfaatkan untuk adukan pasir beton agar tak terlampau kasar dan dapat di manfaatkan untuk plesteran dinding.
 
 - ### Pasir Elod Untuk Dasaran Pemasangan Marmer Di Karawang Timur Karawang
-    
 
 Di Antara ke dua pasir diatas pasir tipe ini lebih halus lagi, jikalau kamu mengepal nya maka akan menggumpal dan tidak akan hancur lagi. namun pasir jenis
 
 Pada umum nya pasir ini nyaris sama dengan pasir beton melainkan pasir ini mempunyai tingkat kekasaran yang tinggi, butiran - butiran nya lumayan besar dan agak banyak batuan nya. pada umumnya pasir ragam ini baik tuk bahan dasaran pemasangan keramik
 
 - ### Pasir Putih Bebas Lumpur Untuk Pengecoran Di Karawang Timur Karawang
-    
 
 1. **Pasir Putih Bangka**
 

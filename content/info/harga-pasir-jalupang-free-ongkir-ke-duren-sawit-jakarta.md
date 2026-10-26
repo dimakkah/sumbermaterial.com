@@ -25,7 +25,7 @@ menurut Standar Nasional Indonesia ( SK SNI - S - 04 - 1989 - F ; 28) di sebutka
 
 Persyaratan Pasir yang Baik Untuk Konstruksi
 
-1.  Agregat Halus mesti terdiri dari butiran yg tajam dan keras dengan indeks kekerasan <2.2
+1.  Agregat Halus mesti terdiri dari butiran yg tajam dan keras dengan indeks kekerasan <2.2
 2. bilamana dimanfaatkan Natrium Sulfat bagian hancur maksimal 12 persen
 3. sekiranya diaplikasikan Magnesium Sulfat komponen halus optimal 5 persen
 4. Tidak boleh berisi clay lebih dari lima %
@@ -41,7 +41,6 @@ Persyaratan Pasir yang Baik Untuk Konstruksi
 setelah tahu persis persyaratan pasir untuk sebuah Bangunan, pada saat ini kita bahas Jenis - Tipe Pasir Untuk Konstruksi Bangunan penjelasan nya berikut ini:
 
 - ### Pasir Untuk Beton Di Duren Sawit Jakarta
-    
 
 Pasir ini umum nya berwarna hitam gelap dan tingkat kekerasan butiran nya cukup tinggi. Tapi kalau anda mengepal nya dengan tangan tak akan menggumpal dan akan hancur kembali. jenis pasir ini amat lah bagus untuk Pengecoran, Plesteran Dinding, Adukan Pondasi dan Adukan Pasangan Bata Pasir ini yaitu pasir untuk Cor adalah butiran-butiran mineral keras dan tajam berukuran antara 0,075 – 5 mm, jika terdapat butiran berukuran lebih kecil dari 0,063 mm tidak lebih dari 5% berat. Pasir ini yaitu pasir untuk Cor hampir sering kali dipakai untuk profesi cor-coran struktur seperti kolom, balok dan pelat lantai.
 
@@ -59,21 +58,18 @@ Untuk mendapatkan ketahanan Rigid yang maksimal maka pasir harus bisa memenuhi s
 ![Harga Pasir Jalupang Free Ongkir Ke Duren Sawit Jakarta](/images/info/pasir-hitam-7.jpg)
 
 - ### Pasir Untuk Adukan Pasang Batu, Pondasi, Bata, Ubin, Plester Di Duren Sawit Jakarta
-    
 
 ![Harga Pasir Jalupang Free Ongkir Ke Duren Sawit Jakarta](/images/info/pasir-hitam-11.jpg)
 
 Pasir ini ekstra halus lagi diperbandingkan oleh pasir beton. kalau anda mengepal pasir ini karenanya akan menggumpal dan tak akan buyar kembali. pasir pasang lazim nya di pakai buat adukan pasir beton agar tak kelewat kasar dan bisa di manfaatkan untuk plesteran dinding.
 
 - ### Pasir Elod Untuk Pembuatan Batako Di Duren Sawit Jakarta
-    
 
 Di Antara ke dua pasir diatas pasir model ini lebih halus lagi, jika anda mengepal nya akan menggumpal dan tak akan buyar lagi. tapi pasir ragam tidak bagus tuk di buat sebagai bahan bangunan. pasir model ini pada nya di gunakan untuk Bahan Pembuatan Batako
 
 Pada lazim nya pasir ini nyaris sama dengan pasir beton tetapi pasir ini mempunyai tingkat kekasaran yang tinggi, butiran - butiran nya lumayan besar dan agak banyak batuan nya. pada biasanya pasir ragam ini bagus untuk bahan pengurugan lantai
 
 - ### Pasir Putih Tanpa Batu Untuk Pasang Lantai Marmer Di Duren Sawit Jakarta
-    
 
 1. **Pasir Putih Bangka**
 

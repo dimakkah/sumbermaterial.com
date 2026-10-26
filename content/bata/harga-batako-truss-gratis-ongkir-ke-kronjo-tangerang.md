@@ -16,7 +16,7 @@ dikala ini material yg dipakai untuk mengisi dinding gedung, telah terdapat bera
 
 ## Mengenal Macam-macam Bata
 
-### 1\. Bata Merah Standar & Jumbo Di Kronjo Tangerang
+### 1. Bata Merah Standar & Jumbo Di Kronjo Tangerang
 
 ![Harga Batako Truss Gratis Ongkir Ke Kronjo Tangerang](/images/bata/bata-merah-oven-16.png)
 
@@ -26,7 +26,7 @@ Bata merah ini diciptakan dari bahan tanah yg kemudian di press dan dioven denga
 
 Bahan bangunan ini sungguh-sungguh tahan kepada panas dan pantas dibuat pengamanan dari panas api. Bata merah ini pada lazimnya mempunyai ukuran panjang antara 17-23 cm dan lebar sekitar 7-11 cm, serta tebalnya 3-5 cm. mempunyai ukuran yg lebih kecil akan memberi kemudahan dalam progres pengangkutan dan dapat diterapkan untuk menyusun bidang kecil.
 
-### 2\. Batako Hitam dan Putih Di Kronjo Tangerang
+### 2. Batako Hitam dan Putih Di Kronjo Tangerang
 
 ![Harga Batako Truss Gratis Ongkir Ke Kronjo Tangerang](/images/bata/batako-hitam-press-29.png)
 
@@ -34,7 +34,7 @@ Bahan bangunan dinding dari batako press ini secara lazimnya terbuat dari materi
 
 Batako press seperti ini mempunyai kelemahan seperti mudah retak, lebih panas dan pengap. Berbeda dengan bata merah yang terbuat dari bahan tanah. Tapi batako trus ini cenderung lebih ringan ketimbang bata merah. Kesudahannya akan terlihat lebih halus dan ukurannya lebih presisi kalau dibandingi dengan bata merah. Batako trus Hitam ini memiliki ukuran panjang sekitar 36-40 cm, tinggi 18-20 cm dan tebal 8-10 cm. bahan ini kerap dipilih sebab untuk memperingan beban struktur bangunan, meminimalisir sisa material dan mempercepat pembangunan.
 
-### 3\. Bata Ringan Di Kronjo Tangerang
+### 3. Bata Ringan Di Kronjo Tangerang
 
 ![Harga Batako Truss Gratis Ongkir Ke Kronjo Tangerang](/images/bata/bata-hebel-sni-13.png)
 
@@ -62,7 +62,7 @@ Semua tentunya telah tahu fungsi utama batu bata mulai diterapkan untuk membuat 
 
 Cara mengorder batu bata yg aman dan terpercaya:
 
-1.  Pengerjaan pembayaran dapat anda lakukan secara COD atau dibayar di daerah ketika barang orderan anda telah datang di tempat
+1.  Pengerjaan pembayaran dapat anda lakukan secara COD atau dibayar di daerah ketika barang orderan anda telah datang di tempat
 2. Silahkan memilih dan memutuskan material batu bata yg anda inginkan
 3. Tentukan juga jumlah orderan batu bata yg anda butuhkan dalam bentuk bijian.
 4. Anda dapat menghubungi layanan telepon kios untuk mempermudah proses pengorderan

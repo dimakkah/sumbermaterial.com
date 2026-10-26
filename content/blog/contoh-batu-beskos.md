@@ -17,8 +17,7 @@ draft: false
 
 {{< toc >}}
 
-
-### Apa Itu Batu Beskos?
+## Apa Itu Batu Beskos?
 
 Batu beskos, atau yang sering disebut batu tempel, adalah jenis batu alam yang terbentuk dari abu vulkanik yang mengeras. Proses vulkanik ini menghasilkan tekstur yang khas, yaitu berpori-pori dan ringan. Batu ini biasanya berwarna abu-abu atau coklat kehitaman, meskipun variasi warna lain juga bisa ditemukan tergantung lokasi dan kandungan mineralnya.
 
@@ -46,10 +45,10 @@ Nah, kalau Anda sedang mempertimbangkan material dinding untuk rumah tinggal, ka
 
 Batu beskos sangat fleksibel dan bisa diaplikasikan untuk berbagai kebutuhan konstruksi. Beberapa contoh penggunaannya antara lain:
 
-*   **Dinding Eksterior:** Batu beskos sering digunakan sebagai material dinding luar karena tampilan naturalnya yang memberikan kesan elegan dan modern.
-*   **Dinding Interior:** Batu ini juga bisa digunakan untuk dinding interior, terutama untuk menciptakan aksen dekoratif yang unik.
-*   **Pilar dan Kolom:** Karena kekuatannya yang cukup tinggi, batu beskos juga bisa digunakan untuk membuat pilar atau kolom bangunan.
-*   **Lantai:** Meskipun kurang umum, batu beskos juga bisa digunakan sebagai material lantai, terutama untuk area outdoor seperti teras atau taman.
+- **Dinding Eksterior:** Batu beskos sering digunakan sebagai material dinding luar karena tampilan naturalnya yang memberikan kesan elegan dan modern.
+- **Dinding Interior:** Batu ini juga bisa digunakan untuk dinding interior, terutama untuk menciptakan aksen dekoratif yang unik.
+- **Pilar dan Kolom:** Karena kekuatannya yang cukup tinggi, batu beskos juga bisa digunakan untuk membuat pilar atau kolom bangunan.
+- **Lantai:** Meskipun kurang umum, batu beskos juga bisa digunakan sebagai material lantai, terutama untuk area outdoor seperti teras atau taman.
 
 Untuk proyek yang membutuhkan tampilan natural dan kuat, batu beskos sangat ideal. Anda juga bisa kombinasikan dengan material lain untuk menciptakan desain yang lebih menarik.
 

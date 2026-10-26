@@ -25,7 +25,7 @@ menurut Standar Nasional Indonesia ( SK SNI - S - 04 - 1989 - F ; 28) di sebutka
 
 Prasyarat Pasir yang Bagus buat Konstruksi Bangunan
 
-1.  Agregat Halus semestinya terdiri dari butiran yang tajam dan keras dengan indeks kekerasan <2.2
+1.  Agregat Halus semestinya terdiri dari butiran yang tajam dan keras dengan indeks kekerasan <2.2
 2. bila digunakan Natrium Sulfat bagian hancur optimal 12%
 3. jikalau digunakan Magnesium Sulfat komponen halus maksimal sepuluh persen
 4. Tak boleh mengandung lumpur lebih dari lima persen
@@ -41,7 +41,6 @@ Prasyarat Pasir yang Bagus buat Konstruksi Bangunan
 Setelah mengenal prasyarat pasir buat sebuah Bangunan, saat ini kita bahas Ragam - Jenis Pasir Untuk Bangunan penjelasan nya berikut ini:
 
 - ### Pasir Cor Di Halim Perdana Kusumah Jakarta
-    
 
 Pasir ini lazim nya berwarna keabu-abuan dan tingkat kekerasan butiran nya cukup tinggi. Tapi apabila anda mengepal nya dengan tangan tidak akan lengket dan akan buyar kembali. macam pasir ini amat lah baik buat Pengecoran, Plesteran Dinding, Adukan Pondasi dan Adukan Pasangan Bata Pasir ini yaitu pasir untuk Beton yakni butiran-butiran mineral keras dan tajam berukuran antara 0,075 – 5 mm, bila terdapat butiran berukuran lebih kecil dari 0,063 mm tak lebih dari 5% berat. Pasir ini yaitu pasir untuk Rigid hampir acap kali diterapkan untuk profesi cor-coran struktur seperti kolom, balok dan pelat lantai.
 
@@ -52,9 +51,9 @@ Harga Pasir Mainan Anak Free Ongkir Ke Halim Perdana Kusumah Jakarta Seandainya 
 Pasir nomor satu asal kp. jebrod cianjur jawa barat yang dipakai oleh indocement serta perusahaan batching plant lainnya sebagai bahan dasar produksi readymix concrete. Pasir ini paling dianjurkan untuk cor sebab irit semen juga mempunyai kandungan lumpur yang betul-betul rendah dibawah delapan %. warnanya Hitam abu tua atau hitam seperti hitamnya batu kali, ada juga yang hitam kemerahan atau hitam terasi
 
 3. **Pasir Hitam Rigid Cimangkok.** Pasir diambil dari Daerah penambangannya di cimangkok sukabumi jawa barat yang masih masuk terhadap golongan pasir hitam terbaik di jawa barat, warnanya hitam kecoklatan pantas untuk cor, pasang pondasi dan bata
-    
+
     ![Harga Pasir Mainan Anak Free Ongkir Ke Halim Perdana Kusumah Jakarta](/images/info/pasir-hitam-2.jpg)
-    
+
 4. **Pasir Hitam Cor Cimalaka Subang Bandung.**
 
 Pasir nomor satu yang berwarna hitam kebauan ada juga yang berwarna hitam abu tua. Banyak di gunakan untuk Cor, pasang dan keperluan lainnya. Ditambang di Desa cimalaka
@@ -90,9 +89,9 @@ Kecuali Rangkasbitung, Banten juga mempunyai lokasi pnembangan pasir lain sepert
 Masih dari Daerah di banten, pasir kelas tiga ini ialah pasir yang banyak diterapkan di proyek proyek perumahan atau cluster sebab harganya yang murah juga mutu yang baik. Warna pasir ini hitam kecoklatan dan keabuan amat disarankan untuk pasang pondasi, bata, batu dan lain-lain
 
 27. **Pasir Hitam Rigid Bohlam Sukabumi.** Pasir dari Lokasi kp. bohlam di sukabumi berwarna hitam kecoklatan, betul-betul bagus untuk pasang bata, pondasi dan lainnya sebagai opsi pasir mutu bagus dan tidak mahal
-    
+
     ![Harga Pasir Mainan Anak Free Ongkir Ke Halim Perdana Kusumah Jakarta](/images/info/pasir-hitam-7.jpg)
-    
+
 28. **Pasir Rigid Galunggung.**
 
 Pasir ini ialah pasir hitam kwalitas paling unggul dikelasnya awam diaplikasikan oleh pabrik pengolahan beton readymix juga perusahan pembuatan precast dan kerap juga digunakan untuk bahan pembuatan batako press hitam, paving block dan lain-lain. Pasir ini ditambang dari Tasikmalaya jawa barat.
@@ -100,21 +99,18 @@ Pasir ini ialah pasir hitam kwalitas paling unggul dikelasnya awam diaplikasikan
 ![Harga Pasir Mainan Anak Free Ongkir Ke Halim Perdana Kusumah Jakarta](/images/info/jual-pasir-cor-hitam.jpg)
 
 - ### Pasir Biasa Di Halim Perdana Kusumah Jakarta
-    
 
 ![Harga Pasir Mainan Anak Free Ongkir Ke Halim Perdana Kusumah Jakarta](/images/info/pasir-hitam-4.jpg)
 
 Pasir ini lebih halus lagi dibandingi oleh pasir beton. bila kamu mengepal pasir ini maka akan menggumpal dan tidak akan hancur kembali. pasir pasang umum nya di gunakan untuk adukan pasir beton supaya tidak terlalu kasar dan dapat di pakai untuk plesteran dinding.
 
 - ### Pasir Urug Untuk Dasaran Pemasangan Marmer Di Halim Perdana Kusumah Jakarta
-    
 
 Di Antara ke dua pasir diatas pasir macam ini lebih halus lagi, jikalau kalian mengepal nya akan menggumpal dan tak akan buyar lagi. melainkan pasir macam
 
 Pada nya pasir ini nyaris sama dengan pasir beton tapi pasir ini mempunyai tingkat kekasaran yg tinggi, butiran - butiran nya cukup besar dan agak banyak batuan nya. pada umumnya pasir tipe ini baik untuk bahan dasaran pemasangan keramik
 
 - ### Pasir Putih Halus Untuk Pasang Bata Di Halim Perdana Kusumah Jakarta
-    
 
 1. **Pasir Putih Bangka**
 

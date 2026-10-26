@@ -25,7 +25,7 @@ Berdasarkan Standar Nasional Indonesia ( SK SNI - S - 04 - 1989 - F ; 28) di seb
 
 Syarat Pasir yang Baik tuk Bangunan
 
-1.  Agregat Halus seharusnya terdiri dari butiran yg tajam dan keras dengan indeks kekerasan <2.2
+1.  Agregat Halus seharusnya terdiri dari butiran yg tajam dan keras dengan indeks kekerasan <2.2
 2. Seandainya diterapkan Natrium Sulfat bagian hancur maksimal 12%
 3. kalau diterapkan Magnesium Sulfat bagian halus maksimal sepuluh %
 4. Tak boleh berisi clay lebih dari 5 persen
@@ -41,7 +41,6 @@ Syarat Pasir yang Baik tuk Bangunan
 Sesudah memahami syarat pasir untuk suatu Bangunan, saat ini kita bahas Jenis - Ragam Pasir Untuk Bangunan penjelasan nya sbb:
 
 - ### Pasir Rigid Di Cipedak Jakarta
-    
 
 Pasir ini biasa nya berwarna hitam gelap dan tingkat kekasaran butiran nya cukup tinggi. Namun seandainya anda mengepal nya dengan tangan tak akan menggumpal dan akan hancur kembali. ragam pasir ini sangat lah baik tuk Pengecoran, Plesteran Dinding, Adukan Pondasi dan Adukan Pasangan Bata Pasir ini yaitu pasir untuk Rigid ialah butiran-butiran mineral keras dan tajam berukuran antara 0,075 – 5 mm, seandainya terdapat butiran berukuran lebih kecil dari 0,063 mm tak lebih dari 5% berat. Pasir ini yaitu pasir untuk Cor kerap kali diaplikasikan untuk pekerjaan cor-coran struktur seperti kolom, balok dan pelat lantai.
 
@@ -59,21 +58,18 @@ Untuk menerima ketahanan Cor yang optimal maka pasir mesti sanggup memenuhi pers
 ![Harga Pasir Putih Bangka Free Ongkir Ke Cipedak Jakarta](/images/info/pasir-hitam-8.jpg)
 
 - ### Pasir Biasa Di Cipedak Jakarta
-    
 
 ![Harga Pasir Putih Bangka Free Ongkir Ke Cipedak Jakarta](/images/info/pasir-putih3.jpg)
 
 Pasir ini lebih halus lagi dibandingkan oleh pasir beton. bila kamu mengepal pasir ini karenanya akan menggumpal dan tak akan buyar kembali. pasir pasang umum nya di gunakan buat adukan pasir beton agar tidak terlampau kasar dan bisa di gunakan untuk plesteran dinding.
 
 - ### Pasir Elod Untuk Pembuatan Batako Di Cipedak Jakarta
-    
 
 Di Antara ke dua pasir diatas pasir jenis ini lebih halus lagi, jikalau anda mengepal nya akan menggumpal dan tak akan hancur lagi. namun pasir tipe
 
 Pada nya pasir ini nyaris sama dengan pasir beton tetapi pasir ini mempunyai tingkat kekasaran yg tinggi, butiran - butiran nya cukup besar dan agak banyak batuan nya. pada biasanya pasir ragam ini baik untuk bahan dasaran pemasangan keramik
 
 - ### Pasir Putih Tanpa Batu Untuk Pengecoran Di Cipedak Jakarta
-    
 
 1. **Pasir Putih Bangka**
 

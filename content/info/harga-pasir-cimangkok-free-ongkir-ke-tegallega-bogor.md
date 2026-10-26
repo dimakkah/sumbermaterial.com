@@ -25,7 +25,7 @@ Menurut Standar Nasional Indonesia ( SK SNI - S - 04 - 1989 - F ; 28) di tuturka
 
 Syarat Pasir yg Baik buat Bangunan
 
-1.  Agregat Halus harus terdiri dari butiran yang tajam dan keras dengan indeks kekerasan <2.2
+1.  Agregat Halus harus terdiri dari butiran yang tajam dan keras dengan indeks kekerasan <2.2
 2. bilamana diaplikasikan Natrium Sulfat bagian hancur optimal dua belas %
 3. Seandainya digunakan Magnesium Sulfat komponen halus maksimal 5 persen
 4. Tidak boleh berisi tanah lebih dari lima %
@@ -41,7 +41,6 @@ Syarat Pasir yg Baik buat Bangunan
 Sesudah tahu persis syarat pasir untuk suatu Konstruksi Bangunan, sekarang ini kita bahas Jenis - model Pasir Untuk Konstruksi Bangunan penjelasan nya berikut ini:
 
 - ### Pasir untuk Cor Rigid Di Tegallega Bogor
-    
 
 Pasir ini biasa nya berwarna hitam pekat dan tingkat pecahan butiran nya lumayan tinggi. Tetapi sekiranya anda mengepal nya dengan tangan tak akan lengket dan akan buyar kembali. tipe pasir ini benar-benar lah bagus tuk Pengecoran, Plesteran Dinding, Adukan Pondasi dan Adukan Pasangan Bata Pasir ini yaitu pasir untuk Beton adalah butiran-butiran mineral keras dan tajam berukuran antara 0,075 – 5 mm, jikalau terdapat butiran berukuran lebih kecil dari 0,063 mm tidak lebih dari 5% berat. Pasir ini yaitu pasir untuk Cor hampir kerap kali dipakai untuk profesi cor-coran struktur seperti kolom, balok dan pelat lantai.
 
@@ -59,21 +58,18 @@ Untuk mendapatkan kekuatan Rigid yang maksimal maka pasir harus dapat memenuhi s
 ![Harga Pasir Cimangkok Free Ongkir Ke Tegallega Bogor](/images/info/pasir-hitam-9.jpg)
 
 - ### Pasir Pasang Di Tegallega Bogor
-    
 
 ![Harga Pasir Cimangkok Free Ongkir Ke Tegallega Bogor](/images/info/jual-pasir-mundu.jpg)
 
 Pasir ini ekstra halus lagi diperbandingkan oleh pasir beton. sekiranya kamu mengepal pasir ini karenanya akan menggumpal dan tak akan buyar kembali. pasir pasang umum nya di gunakan tuk adukan pasir beton supaya tidak kelewat kasar dan bisa di pakai untuk plesteran dinding.
 
 - ### Pasir Kualitas rendah Untuk pemadatan lantai Di Tegallega Bogor
-    
 
 Di Antara ke dua pasir diatas pasir jenis ini lebih halus lagi, jikalau kamu mengepal nya akan menggumpal dan tak akan buyar lagi. melainkan pasir tipe
 
 Pada lazim nya pasir ini nyaris sama dgn pasir beton melainkan pasir ini memiliki tingkat kekasaran yang tinggi, butiran - butiran nya lumayan besar dan agak banyak batuan nya. pada biasanya pasir jenis ini baik untuk bahan pengurugan lantai
 
 - ### Pasir Putih Bebas Lumpur Untuk Pasang Keramik Di Tegallega Bogor
-    
 
 1. **Pasir Putih Bangka**
 

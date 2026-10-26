@@ -25,7 +25,7 @@ menurut Standar Nasional Indonesia ( SK SNI - S - 04 - 1989 - F ; 28) di tuturka
 
 Syarat Pasir yg Baik tuk Konstruksi Bangunan
 
-1.  Agregat Halus harus terdiri dari butiran yg tajam dan keras dengan indeks kekerasan <2.2
+1.  Agregat Halus harus terdiri dari butiran yg tajam dan keras dengan indeks kekerasan <2.2
 2. Kalau dipakai Natrium Sulfat bagian hancur maksimal 12 persen
 3. kalau digunakan Magnesium Sulfat komponen halus maksimal 5 persen
 4. Tak boleh berisi lumpur lebih dari lima persen
@@ -41,7 +41,6 @@ Syarat Pasir yg Baik tuk Konstruksi Bangunan
 Setelah mengenal prasyarat pasir untuk suatu Bangunan, sekarang ini kita bahas Ragam - Tipe Pasir Untuk Konstruksi penjelasan nya berikut ini:
 
 - ### Pasir Model Cor dan Lokasi Pengambilannya Di Tegallega Bogor
-    
 
 Pasir ini umum nya berwarna keabu-abuan dan tingkat pecahan butiran nya cukup tinggi. Tetapi apabila anda mengepal nya dengan tangan tak akan menggumpal dan akan hancur kembali. model pasir ini benar-benar lah bagus tuk Pengecoran, Plesteran Dinding, Adukan Pondasi dan Adukan Pasangan Bata Pasir ini yaitu pasir untuk Cor ialah butiran-butiran mineral keras dan tajam berukuran antara 0,075 – 5 mm, jika terdapat butiran berukuran lebih kecil dari 0,063 mm tidak lebih dari 5% berat. Pasir ini yaitu pasir untuk Beton kerap dimanfaatkan untuk pekerjaan cor-coran struktur seperti kolom, balok dan pelat lantai.
 
@@ -52,9 +51,9 @@ Harga Pasir Ekstra Beton Free Ongkir Ke Tegallega Bogor Jika anda sebagai konsum
 Pasir kelas satu asli kp. jebrod cianjur jawa barat yang diterapkan oleh indocement serta perusahaan batching plant lainnya sebagai bahan dasar produksi readymix concrete. Pasir ini paling disarankan untuk cor sebab irit semen juga mempunyai kandungan lumpur yang benar-benar rendah dibawah delapan %. warnanya Hitam abu tua atau hitam seperti hitamnya batu kali, ada juga yang hitam kemerahan atau hitam terasi
 
 3. **Pasir Hitam Cor Cimangkok.** Pasir asli Tempat penambangannya di cimangkok sukabumi jabar yang masih masuk pada klasifikasi pasir hitam nomor satu di jawa barat, warnanya hitam kecoklatan pantas untuk cor, pasang pondasi dan bata
-    
+
     ![Harga Pasir Ekstra Beton Free Ongkir Ke Tegallega Bogor](/images/info/pasir-hitam-2.jpg)
-    
+
 4. **Pasir Hitam Beton Cimalaka Subang Bandung.**
 
 Pasir paling unggul yang berwarna hitam kebauan ada juga yang berwarna hitam abu tua. Banyak di pakai untuk Rigid, pasang dan keperluan lainnya. Ditambang di kampung cimalaka
@@ -90,9 +89,9 @@ Kecuali Rangkasbitung, Banten juga mempunyai lokasi pnembangan pasir lain sepert
 Masih dari Tempat di banten, pasir kelas tiga ini ialah pasir yang banyak diaplikasikan di proyek proyek perumahan atau cluster sebab harganya yang murah juga kwalitas yang tidak diragukan. Warna pasir ini hitam kecoklatan dan keabuan amat dianjurkan untuk pasang pondasi, bata, batu dan sebagainya
 
 27. **Pasir Hitam Beton Bohlam Sukabumi.** Pasir dari Lokasi kp. bohlam di sukabumi berwarna hitam kecoklatan, amat bagus untuk pasang bata, pondasi dan sebagainya sebagai opsi pasir kwalitas unggul dan tidak mahal
-    
+
     ![Harga Pasir Ekstra Beton Free Ongkir Ke Tegallega Bogor](/images/info/pasir-hitam-2.jpg)
-    
+
 28. **Pasir Cor Galunggung.**
 
 Pasir ini merupakan pasir hitam kwalitas paling unggul dikelasnya umum diaplikasikan oleh pabrik pengolahan beton readymix juga perusahan pembuatan precast dan kerap juga diaplikasikan untuk bahan pembuatan batako press hitam, paving block dan lainnya. Pasir ini ditambang dari Tasikmalaya jabar.
@@ -100,21 +99,18 @@ Pasir ini merupakan pasir hitam kwalitas paling unggul dikelasnya umum diaplikas
 ![Harga Pasir Ekstra Beton Free Ongkir Ke Tegallega Bogor](/images/info/pasir-hitam-2.jpg)
 
 - ### Pasir Biasa Di Tegallega Bogor
-    
 
 ![Harga Pasir Ekstra Beton Free Ongkir Ke Tegallega Bogor](/images/info/pasir-hitam-11.jpg)
 
 Pasir ini lebih halus lagi dibandingi oleh pasir beton. jika anda mengepal pasir ini karenanya akan menggumpal dan tidak akan hancur kembali. pasir pasang biasa nya di manfaatkan tuk adukan pasir beton supaya tak kelewat kasar dan bisa di gunakan untuk plesteran dinding.
 
 - ### Pasir Urug Untuk Pembuatan Batako Di Tegallega Bogor
-    
 
 Di Antara ke dua pasir diatas pasir jenis ini lebih halus lagi, jika anda mengepal nya akan menggumpal dan tak akan buyar lagi. tetapi pasir ragam tidak baik tuk di buat sebagai bahan bangunan. pasir tipe ini pada nya di pakai tuk Bahan Pembuatan Batako
 
 Pada lazim nya pasir ini nyaris sama dengan pasir beton akan tetapi pasir ini mempunyai tingkat kekasaran yang tinggi, butiran - butiran nya cukup besar dan agak banyak batuan nya. pada umumnya pasir jenis ini bagus untuk bahan dasaran pemasangan keramik
 
 - ### Pasir Putih Kadar Lumpur Rendah Untuk Pasang Lantai Marmer Di Tegallega Bogor
-    
 
 1. **Pasir Putih Bangka**
 

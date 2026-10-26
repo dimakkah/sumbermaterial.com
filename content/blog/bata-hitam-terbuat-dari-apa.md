@@ -17,7 +17,6 @@ draft: false
 
 {{< toc >}}
 
-
 Bata hitam bukan sekadar soal estetika. Ada banyak alasan mengapa material ini dipilih dalam sebuah proyek konstruksi, mulai dari kekuatan, ketahanan, hingga nilai artistik yang ditawarkannya. Nah, dalam artikel ini, Kami akan mengupas tuntas tentang bahan dasar pembuatan bata hitam, prosesnya, keunggulannya, dan hal-hal penting lainnya yang perlu Anda ketahui.
 
 ## Proses Pembuatan Bata Hitam: Lebih dari Sekadar Pewarnaan
@@ -50,7 +49,6 @@ Ketiga, **tampilan unik dan elegan**. Bata hitam memberikan kesan modern, mewah,
 
 **Perbandingan Bata Hitam dan Bata Merah:**
 
-
 <table class="table">
   <caption>Perbandingan Bata Hitam dan Bata Merah</caption>
   <thead>
@@ -65,11 +63,8 @@ Ketiga, **tampilan unik dan elegan**. Bata hitam memberikan kesan modern, mewah,
   </tbody>
 </table>
 
-
 Harga ini bersifat estimasi dan dapat berubah sewaktu-waktu — hubungi Kami untuk penawaran terbaru dan paling akurat sesuai kebutuhan proyek Mitra.
 
 Mitra Sumber Material, dengan memahami keunggulan dan karakteristik bata hitam, Anda dapat membuat keputusan yang tepat dalam memilih material bangunan yang sesuai dengan kebutuhan dan anggaran Anda. Jangan ragu untuk berkonsultasi dengan Kami jika Anda memiliki pertanyaan lebih lanjut.
-
-
 
 Kalau masih ada yang mau ditanyakan, jangan ragu menghubungi Kami lewat tombol **WhatsApp** atau **Telepon** pada halaman ini.

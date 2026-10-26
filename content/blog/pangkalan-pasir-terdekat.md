@@ -17,7 +17,6 @@ draft: false
 
 {{< toc >}}
 
-
 Penting sekali untuk memastikan kualitas pasir yang digunakan, ya? Pasir yang baik akan menghasilkan bangunan yang kokoh dan tahan lama. Nah, Kami dari Sumber Material hadir untuk memberikan solusi kebutuhan pasir Anda dengan kualitas terjamin dan layanan yang memuaskan.
 
 ## Mengapa Memilih Pangkalan Pasir Terdekat?
@@ -30,14 +29,13 @@ Selain itu, waktu pengiriman juga akan lebih singkat. Ini sangat krusial, teruta
 
 Kami menyediakan berbagai jenis pasir untuk memenuhi kebutuhan proyek Anda, mulai dari pasir urug, pasir cor, hingga pasir putih. Setiap jenis pasir memiliki karakteristik dan kegunaan yang berbeda.
 
-*   **Pasir Urug:** Pasir ini umumnya digunakan untuk mengisi lahan atau membuat pondasi. Harganya relatif terjangkau dan mudah didapatkan.
-*   **Pasir Cor:** Pasir cor memiliki tekstur yang lebih halus dan bersih, sehingga ideal untuk campuran beton. Kekuatan bangunan akan lebih optimal dengan pasir cor berkualitas.
-*   **Pasir Putih:** Pasir putih sering digunakan untuk pekerjaan finishing, seperti plester atau acian. Hasilnya akan lebih rapi dan estetik.
+- **Pasir Urug:** Pasir ini umumnya digunakan untuk mengisi lahan atau membuat pondasi. Harganya relatif terjangkau dan mudah didapatkan.
+- **Pasir Cor:** Pasir cor memiliki tekstur yang lebih halus dan bersih, sehingga ideal untuk campuran beton. Kekuatan bangunan akan lebih optimal dengan pasir cor berkualitas.
+- **Pasir Putih:** Pasir putih sering digunakan untuk pekerjaan finishing, seperti plester atau acian. Hasilnya akan lebih rapi dan estetik.
 
 ![Truk pasir sedang mengangkut material](/images/blog/pangkalan-pasir-terdekat.jpg)
 
 Untuk perbandingan lebih detail, berikut tabel spesifikasi pasir yang sering kami sediakan:
-
 
 <table class="table">
   <caption>Spesifikasi Pasir Bangunan</caption>
@@ -50,7 +48,6 @@ Untuk perbandingan lebih detail, berikut tabel spesifikasi pasir yang sering kam
     <tr><td>Pasir Putih</td><td>0.05-0.5 mm</td><td>Plester, Acian</td><td>Rp 250.000 - Rp 300.000</td></tr>
   </tbody>
 </table>
-
 
 Harga ini bersifat estimasi dan dapat berubah sewaktu-waktu — hubungi Kami untuk penawaran terbaru dan paling akurat sesuai kebutuhan proyek Mitra.
 

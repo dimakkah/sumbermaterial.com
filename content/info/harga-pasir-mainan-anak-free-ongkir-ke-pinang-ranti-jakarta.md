@@ -25,7 +25,7 @@ menurut Standar Nasional Indonesia ( SK SNI - S - 04 - 1989 - F ; 28) di sebutka
 
 Syarat-Syarat Pasir yg Baik buat Bangunan
 
-1.  Agregat Halus harus terdiri dari butiran yang tajam dan keras dengan indeks kekerasan <2.2
+1.  Agregat Halus harus terdiri dari butiran yang tajam dan keras dengan indeks kekerasan <2.2
 2. bilamana dimanfaatkan Natrium Sulfat bagian hancur maksimal 12%
 3. kalau diaplikasikan Magnesium Sulfat komponen halus optimal sepuluh persen
 4. Tidak boleh memuat clay lebih dari lima persen
@@ -41,7 +41,6 @@ Syarat-Syarat Pasir yg Baik buat Bangunan
 Sesudah memahami syarat pasir untuk suatu Konstruksi Bangunan, sekarang ini kita bahas Macam - Jenis Pasir Untuk Konstruksi Bangunan penjelasan nya berikut ini:
 
 - ### Pasir Jenis Beton dan Tempat Sumbernya Di Pinang Ranti Jakarta
-    
 
 Pasir ini biasa nya berwarna hitam pekat dan tingkat kekasaran butiran nya cukup tinggi. Melainkan sekiranya anda mengepal nya dengan tangan tak akan menggumpal dan akan buyar kembali. ragam pasir ini amat lah bagus untuk Pengecoran, Plesteran Dinding, Adukan Pondasi dan Adukan Pasangan Bata Pasir ini yaitu pasir untuk Cor yaitu butiran-butiran mineral keras dan tajam berukuran antara 0,075 – 5 mm, kalau terdapat butiran berukuran lebih kecil dari 0,063 mm tidak lebih dari 5% berat. Pasir ini yaitu pasir untuk Rigid hampir tak jarang dimanfaatkan untuk profesi cor-coran struktur seperti kolom, balok dan pelat lantai.
 
@@ -59,21 +58,18 @@ Untuk menerima ketahanan Beton yang maksimal maka pasir patut dapat memenuhi sya
 ![Harga Pasir Mainan Anak Free Ongkir Ke Pinang Ranti Jakarta](/images/info/pasir-hitam-1.jpg)
 
 - ### Pasir Untuk Pasang Batu, Pondasi, Bata, Ubin, Plester Di Pinang Ranti Jakarta
-    
 
 ![Harga Pasir Mainan Anak Free Ongkir Ke Pinang Ranti Jakarta](/images/info/pasir-hitam-11.jpg)
 
 Pasir ini ekstra halus lagi diperbandingkan oleh pasir beton. apabila anda mengepal pasir ini maka akan menggumpal dan tidak akan hancur kembali. pasir pasang lazim nya di manfaatkan buat adukan pasir beton supaya tak terlampau kasar dan dapat di manfaatkan untuk plesteran dinding.
 
 - ### Pasir Elod Untuk Pembuatan Batako Di Pinang Ranti Jakarta
-    
 
 Di Antara ke dua pasir diatas pasir tipe ini lebih halus lagi, bila anda mengepal nya akan menggumpal dan tidak akan buyar lagi. namun pasir macam
 
 Pada lazim nya pasir ini nyaris sama dengan pasir beton tapi pasir ini memiliki tingkat kekasaran yang tinggi, butiran - butiran nya lumayan besar dan agak banyak batuan nya. pada lazimnya pasir jenis ini bagus untuk bahan Pembuatan Batako
 
 - ### Pasir Putih Tanpa Batu Untuk Hiasan Di Pinang Ranti Jakarta
-    
 
 1. **Pasir Putih Bangka**
 

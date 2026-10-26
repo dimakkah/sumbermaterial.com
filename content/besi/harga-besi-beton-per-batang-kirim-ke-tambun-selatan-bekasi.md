@@ -18,19 +18,19 @@ Tanpa adanya besi maka sebuah bangunan akan gampang retak ketika ada guncangan k
 
 ## Mengetahui Jenis-jenis Besi Di Tambun Selatan Bekasi
 
-### 1\. Besi Polos Krakatau Steel 4mm, 6mm, 8mm, 10mm, 12mm, 16mm, 18mm, 19mm Di Tambun Selatan Bekasi
+### 1. Besi Polos Krakatau Steel 4mm, 6mm, 8mm, 10mm, 12mm, 16mm, 18mm, 19mm Di Tambun Selatan Bekasi
 
 Besi polos mempunyai ukuran mulai dari 8 mm hingga 25 mm dan mempunyai 6 meter panjang tekuk dan 12 meter panjang lurus. Besi beton ini sudah mulai dipakai sebagai bahan utama di Indonesia pada tahun 1950. Besi ini acap kali kali dipakai untuk membangun rumah. Bahan yang gampang diterapkan sehingga selain dari diaplikasikan untuk membangun rumah juga diaplikasikan untuk membangun trowongan, bendungan, dan lainnya. Ketika digunakan untuk membangun sebuah gedung bertingkat karenanya biasa besi polos ini diterapkan untuk struktur tulangan balok, dinding, dan sloof. Besi beton polos ini mempunyai kelebihan besi polos ini tegangannya lebih tinggi dari pada besi lainnya. Sehingga besi ini terkesan lebih kokoh dan tahan beban. Jadi pemakaian besi polos ini betul-betul cocok untuk membangun gedung, jembatan, dan bangunan lainnya. Besi polos ini terbuat dari bahan seperti billet dan skrap. Billet yakni baja batangan yang pelaksanaan pembuatannya dengan mengecor biji besi. Jikalau skrap adalah besi bekas yang dileburkan dengan temperature tertentu. Selain dari itu apabila anda menerapkan besi polos ini tidak memerlukan anggaran pemeliharaan. Kian lama digunakan maka besi ini akan kian kokoh.
 
-### 2\. Besi Ulir Krakatau Steel 4mm, 6mm, 8mm, 10mm, 12mm, 16mm, 18mm, 19mm Di Tambun Selatan Bekasi
+### 2. Besi Ulir Krakatau Steel 4mm, 6mm, 8mm, 10mm, 12mm, 16mm, 18mm, 19mm Di Tambun Selatan Bekasi
 
 Selaras dengan namanya besi beton ulir ini adalah besi yang karakternya mengulir. Pada permukaannya bercorak spiral yang mempunyai tujuan untuk menyatukan tulangan dengan faktor bahan bangunan yang dibentuk oleh besi beton. Besi ulir ini mulai populer diaplikasikan pada abad ke-20 di Amerika dan mulai populer di Indonesia pada tahun1950. Mengingat ketika mengaplikasikan besi ulir ini mempunyai banyak kelebihan mulai dari kekokohan bangunan serta lebih ekonomis dan efisien. Produk besi ulir ini menjadi paling laris di pasar sebab memiliki kualitas yang terbaik di Indonesia dan mempunyai harga yang tinggi jika diperbandingkan dengan produk lainnya.
 
-### 3\. Besi WF dan H-Beam SNI Di Tambun Selatan Bekasi
+### 3. Besi WF dan H-Beam SNI Di Tambun Selatan Bekasi
 
 Besi Wide Flange (WF) ini ialah salah satu baja dengan struktural yang paling banyak digunakan untuk kontruksi baja. Jika anda memerlukan besi baja Wide Flage dalam jumlah yang banyak atau sedikit maka silahkan cari toko besi yang terpercaya. Besi WF ini memiliki kekokohan yang kokoh dan kuat pada kekokohan tarik atau tekan. Maka dari itu besi ini menjadi unsur struktur yang mempunyai batasan yang sempurna untuk menahan beban tekan aksial, tarik aksial, dan lentur dengan fasilitas pembangunan strukturnya. Baja Wide Flange (WF) ini memiliki kepadatan yang tinggi tetapi rasio berat antara ketahanan bagian Baja WF yang tinggi tetapi tidak terlalu berat yang berhubungan dengan kapasitas muatan. Selain itu menetapkan apabila kontruksi yang diterapkan secara efisien. Cara kontruksi baja WF ini kombinasi dari unsur struktur yang rumit. Pada struktur ini mempunyai tujuan membawa bobot yang aman dan tepat sasaran yang berefek pada sebuah bangunan dan dikirim pada pondasinya. Gaya dan muatan yang berefek ini termasuk beban pertikal, perbedaan suhu, horizontal, getaran dan lainnya. Pada sebuah bangunan baja, karenanya ada unsure yang berguna menahan gaya lateral dan gravitasi.
 
-### 4\. Besi Holo Di Tambun Selatan Bekasi
+### 4. Besi Holo Di Tambun Selatan Bekasi
 
 Besi hollow yaitu besi yang diaplikasikan sebagai pembuatan kanopi, pagar, pintu besi dan lainnya. Bahan baku pembuatan besi Hollow ini biasanya terbuat dari stainless, galvanis, dan besi baja. Tetapi yang paling sering kali dipakai sebagai bahan baku yakni galvanis. Terdapat kelebihan yang anda temukan ketika memasang kanopi, mengaplikasikan pagar, teralis memakai besi hollow:
 

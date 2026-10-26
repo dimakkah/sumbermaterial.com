@@ -25,7 +25,7 @@ Menurut Standar Nasional Indonesia ( SK SNI - S - 04 - 1989 - F ; 28) di sebutka
 
 Syarat-Syarat Pasir yg Baik Untuk Bangunan
 
-1.  Agregat Halus mesti terdiri dari butiran yang tajam dan keras dengan indeks kekerasan <2.2
+1.  Agregat Halus mesti terdiri dari butiran yang tajam dan keras dengan indeks kekerasan <2.2
 2. Apabila diterapkan Natrium Sulfat bagian hancur maksimal 12%
 3. apabila diaplikasikan Magnesium Sulfat bagian halus maksimal 10%
 4. Tidak boleh memuat lumpur lebih dari 5%
@@ -41,7 +41,6 @@ Syarat-Syarat Pasir yg Baik Untuk Bangunan
 setelah mengetahui syarat pasir untuk sebuah Konstruksi Bangunan, pada saat ini kita bahas Ragam - Tipe Pasir Untuk Bangunan penjelasan nya berikut ini:
 
 - ### Pasir Untuk Pengecoran Di Pondok Melati Bekasi
-    
 
 Pasir ini biasa nya berwarna coklat tua dan tingkat kekerasan butiran nya lumayan tinggi. Namun jika anda mengepal nya dengan tangan tidak akan lengket dan akan hancur kembali. ragam pasir ini betul-betul lah bagus tuk Pengecoran, Plesteran Dinding, Adukan Pondasi dan Adukan Pasangan Bata Pasir ini yaitu pasir untuk Rigid yakni butiran-butiran mineral keras dan tajam berukuran antara 0,075 – 5 mm, bila terdapat butiran berukuran lebih kecil dari 0,063 mm tak lebih dari 5% berat. Pasir ini yaitu pasir untuk Cor hampir sering kali diterapkan untuk profesi cor-coran struktur seperti kolom, balok dan pelat lantai.
 
@@ -59,21 +58,18 @@ Untuk mendapatkan kualitas Beton yang optimal maka pasir wajib sanggup memenuhi 
 ![Harga Pasir Putih Bangka Free Ongkir Ke Pondok Melati Bekasi](/images/info/pasir-hitam-2.jpg)
 
 - ### Pasir Untuk Adukan Pasang Batu, Pondasi, Bata, Ubin, Plester Di Pondok Melati Bekasi
-    
 
 ![Harga Pasir Putih Bangka Free Ongkir Ke Pondok Melati Bekasi](/images/info/pasir-putih3.jpg)
 
 Pasir ini lebih halus lagi dibandingkan oleh pasir beton. bila anda mengepal pasir ini karenanya akan menggumpal dan tak akan buyar kembali. pasir pasang lazim nya di manfaatkan buat adukan pasir beton agar tidak kelewat kasar dan bisa di manfaatkan untuk plesteran dinding.
 
 - ### Pasir Elod Untuk pemadatan lantai Di Pondok Melati Bekasi
-    
 
 Di Antara ke dua pasir diatas pasir macam ini lebih halus lagi, seandainya anda mengepal nya maka akan menggumpal dan tak akan hancur lagi. melainkan pasir ragam tak bagus untuk di buat sebagai bahan bangunan. pasir ragam ini pada nya di pergunakan untuk Bahan Pembuatan Batako
 
 Pada umum nya pasir ini nyaris sama dengan pasir beton namun pasir ini mempunyai tingkat kekasaran yg tinggi, butiran - butiran nya lumayan besar dan agak banyak batuan nya. pada biasanya pasir model ini baik untuk bahan dasaran pemasangan keramik
 
 - ### Pasir Putih Tanpa Batu Untuk Hiasan Di Pondok Melati Bekasi
-    
 
 1. **Pasir Putih Bangka**
 

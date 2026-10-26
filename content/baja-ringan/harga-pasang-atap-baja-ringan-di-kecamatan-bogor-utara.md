@@ -21,13 +21,13 @@ Pemasangan baja ringan untuk kebutuhan bangunan dapat dikerjakan dengan cukup mu
 
 Berikut ini kami berikan beberapa alasan dasar yang perlu Anda ketahui sebelum menghubungi kami. Salah satunya adalah mengapa Anda harus memilih baja ringan sebagai kerangka atap dan *canopy*:
 
-*   Baja ringan dianggap lebih ramah lingkungan karena Anda tidak memerlukan kayu yang mana untuk mendapatkannya harus menebang pohon terlebih dahulu, dengan menggunakan kerangka baja ringan sebagai kerangka atap dan *canopy*, Anda sudah ikut serta membantu dalam melestarikan alam.
-*   Lebih terjangkau, bila Anda menerapkan kerangka dari bahan kayu, kami rasa harganya akan jauh lebih mahal karena untuk mendapatkan kayu dengan mutu terbaik diperlukan juga biaya yang lebih besar. Terutama ini untuk bagian kerangka yang pastinya cukup krusial untuk sebuah bangunan. Anda wajib memikirkan ini matang-matang untuk menekan biaya pembangunan.
-*   Ringan dan kuat, baja ringan berbeda dengan “baja / besi” yang memiliki berat 2 kali lipat dari berat baja ringan. Baja ringan ini memiliki ketebalan yang tipis dan ringan, sehingga benar-benar kuat untuk kerangka atap dan pembuatan *canopy* rumah Anda.
-*   Bebas perawatan, tidak perlu khawatir kerangka atap Anda rusak dan lain-lain, kami yakin ini akan membebaskan Anda dari perawatan tahunan.
-*   Proses pemasangan yang cepat, berbeda dengan kerangka atap yang terbuat dari bahan kayu dan bahan lain, membutuhkan waktu yang lama dalam prosesnya. Ini tidak berlaku untuk Anda yang menggunakan kerangka atap dari bahan baja ringan.
-*   Bahan berkualitas, baja ringan dari kami bukanlah baja ringan sembarangan, bahan utamanya yakni zinc dan aluminium yang sudah memiliki akta dan standar keamanan 4 kali lebih bagus dibandingkan baja umum. Bahkan dayanya dapat menahan berkilo-kilo.
-*   Kuat rayap, sudah kami pastikan juga bahwa kerangka atap dan *canopy* dari baja ringan ini dijamin kuat rayap.
+- Baja ringan dianggap lebih ramah lingkungan karena Anda tidak memerlukan kayu yang mana untuk mendapatkannya harus menebang pohon terlebih dahulu, dengan menggunakan kerangka baja ringan sebagai kerangka atap dan *canopy*, Anda sudah ikut serta membantu dalam melestarikan alam.
+- Lebih terjangkau, bila Anda menerapkan kerangka dari bahan kayu, kami rasa harganya akan jauh lebih mahal karena untuk mendapatkan kayu dengan mutu terbaik diperlukan juga biaya yang lebih besar. Terutama ini untuk bagian kerangka yang pastinya cukup krusial untuk sebuah bangunan. Anda wajib memikirkan ini matang-matang untuk menekan biaya pembangunan.
+- Ringan dan kuat, baja ringan berbeda dengan “baja / besi” yang memiliki berat 2 kali lipat dari berat baja ringan. Baja ringan ini memiliki ketebalan yang tipis dan ringan, sehingga benar-benar kuat untuk kerangka atap dan pembuatan *canopy* rumah Anda.
+- Bebas perawatan, tidak perlu khawatir kerangka atap Anda rusak dan lain-lain, kami yakin ini akan membebaskan Anda dari perawatan tahunan.
+- Proses pemasangan yang cepat, berbeda dengan kerangka atap yang terbuat dari bahan kayu dan bahan lain, membutuhkan waktu yang lama dalam prosesnya. Ini tidak berlaku untuk Anda yang menggunakan kerangka atap dari bahan baja ringan.
+- Bahan berkualitas, baja ringan dari kami bukanlah baja ringan sembarangan, bahan utamanya yakni zinc dan aluminium yang sudah memiliki akta dan standar keamanan 4 kali lebih bagus dibandingkan baja umum. Bahkan dayanya dapat menahan berkilo-kilo.
+- Kuat rayap, sudah kami pastikan juga bahwa kerangka atap dan *canopy* dari baja ringan ini dijamin kuat rayap.
 
 ## Sistem Perhitungan Luas Rangka Baja Ringan Di Kecamatan Bogor Utara
 
@@ -53,10 +53,10 @@ Mari kita bahas Biaya Jasa pasang baja ringan. Sebenarnya, sudah banyak informas
 
 (Catatan: harga bisa ditambahkan sendiri) Berikut ini adalah sebagian perhitungan Biaya Layanan pasang baja ringan berdasarkan macam pemasangannya baik *canopy* dan kerangka atap.
 
-*   *Canopy* untuk rangka dari baja ringan “Polikarbonat x Lite Rp. 285.000 / m
-*   *Canopy* untuk rangka dari baja ringan “Spandek Rp. 225.000 / m
-*   *Canopy* untuk rangka dari baja ringan “Gogreen Rp. 200.000 /m
-*   Perhitungan lainnya bisa langsung kontak kami via kontak yang telah kami sediakan di dalam website kami.
+- *Canopy* untuk rangka dari baja ringan “Polikarbonat x Lite Rp. 285.000 / m
+- *Canopy* untuk rangka dari baja ringan “Spandek Rp. 225.000 / m
+- *Canopy* untuk rangka dari baja ringan “Gogreen Rp. 200.000 /m
+- Perhitungan lainnya bisa langsung kontak kami via kontak yang telah kami sediakan di dalam website kami.
 
 Adapun Parameter Besaran Biaya Jasa Pasang Baja Ringan:
 
@@ -76,10 +76,10 @@ Tahap selanjutnya apabila pembuatan sketsa dan perhitungan rangka telah dikerjak
 
 Berikut informasi detail dari Biaya Jasa pasang baja ringan yang perlu Anda ketahui, ini penting untuk Anda ketahui dalam menetapkan besaran budget yang dibutuhkan.
 
-*   Harga Jasa kami sudah termasuk biaya pasangan yang tentunya lebih murah dan banyak memberikan biaya diskon untuk konsumen.
-*   Harga yang kami patok juga sudah sesuai dengan Jasa pemasangan, perhitungan dan material yang terpasang.
-*   Harga terbaik dari kami selalu kami utamakan pada ketika bertemu dengan Anda.
-*   Harga Jasa pasang baja ringan dapat sewaktu-waktu berubah karena unsur material.
-*   Pembayaran dapat dengan *down payment* dan sisanya sesudah pemasangan selesai.
+- Harga Jasa kami sudah termasuk biaya pasangan yang tentunya lebih murah dan banyak memberikan biaya diskon untuk konsumen.
+- Harga yang kami patok juga sudah sesuai dengan Jasa pemasangan, perhitungan dan material yang terpasang.
+- Harga terbaik dari kami selalu kami utamakan pada ketika bertemu dengan Anda.
+- Harga Jasa pasang baja ringan dapat sewaktu-waktu berubah karena unsur material.
+- Pembayaran dapat dengan *down payment* dan sisanya sesudah pemasangan selesai.
 
 Demikian informasi tentang Harga Pasang Atap Baja Ringan Di Kecamatan Bogor Utara. Jangan ragu untuk menghubungi kami sekarang juga untuk mendapatkan penawaran terbaik! Hubungi Kami untuk konsultasi gratis dan penawaran harga khusus untuk proyek Anda di Kecamatan Bogor Utara. Kami siap membantu merealisasikan proyek bangunan impian Anda.

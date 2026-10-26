@@ -25,7 +25,7 @@ berdasarkan Standar Nasional Indonesia ( SK SNI - S - 04 - 1989 - F ; 28) di seb
 
 Prasyarat Pasir yang Baik tuk Konstruksi
 
-1.  Agregat Halus harus terdiri dari butiran yang tajam dan keras dengan indeks kekerasan <2.2
+1.  Agregat Halus harus terdiri dari butiran yang tajam dan keras dengan indeks kekerasan <2.2
 2. Apabila diterapkan Natrium Sulfat komponen hancur maksimal dua belas persen
 3. kalau diaplikasikan Magnesium Sulfat bagian halus maksimal 10%
 4. Tidak boleh memuat lumpur lebih dari lima %
@@ -41,7 +41,6 @@ Prasyarat Pasir yang Baik tuk Konstruksi
 Sesudah mengenal syarat pasir untuk sebuah Konstruksi Bangunan, sekarang ini kita bahas Tipe - Macam Pasir Untuk Konstruksi penjelasan nya sbb:
 
 - ### Pasir Jenis Rigid dan Lokasi Sumbernya Di Kronjo Tangerang
-    
 
 Pasir ini biasa nya berwarna coklat tua dan tingkat pecahan butiran nya cukup tinggi. Namun bila anda mengepal nya dengan tangan tidak akan lengket dan akan buyar kembali. macam pasir ini sangat lah baik buat Pengecoran, Plesteran Dinding, Adukan Pondasi dan Adukan Pasangan Bata Pasir ini yaitu pasir untuk Beton yaitu butiran-butiran mineral keras dan tajam berukuran antara 0,075 – 5 mm, jika terdapat butiran berukuran lebih kecil dari 0,063 mm tak lebih dari 5% berat. Pasir ini yaitu pasir untuk Cor hampir kerap dimanfaatkan untuk profesi cor-coran struktur seperti kolom, balok dan pelat lantai.
 
@@ -59,21 +58,18 @@ Untuk menerima kualitas Rigid yang optimal karenanya pasir semestinya mampu meme
 ![Harga Pasir Mundu Free Ongkir Ke Kronjo Tangerang](/images/info/pasir-hitam-8.jpg)
 
 - ### Pasir Untuk Pasang Batu, Pondasi, Bata, Ubin, Plester Di Kronjo Tangerang
-    
 
 ![Harga Pasir Mundu Free Ongkir Ke Kronjo Tangerang](/images/info/pasir-putih12.jpg)
 
 Pasir ini lebih halus lagi dibandingkan oleh pasir beton. kalau anda mengepal pasir ini maka akan menggumpal dan tak akan hancur kembali. pasir pasang umum nya di pakai buat adukan pasir beton supaya tak terlalu kasar dan bisa di manfaatkan untuk plesteran dinding.
 
 - ### Pasir Kualitas rendah Untuk pemadatan lantai Di Kronjo Tangerang
-    
 
 Di Antara ke dua pasir diatas pasir tipe ini lebih halus lagi, jikalau anda mengepal nya maka akan menggumpal dan tidak akan buyar lagi. melainkan pasir tipe
 
 Pada lazim nya pasir ini nyaris sama dgn pasir beton akan tetapi pasir ini mempunyai tingkat kekasaran yg tinggi, butiran - butiran nya lumayan besar dan agak banyak batuan nya. pada lazimnya pasir macam ini baik untuk bahan dasaran pemasangan keramik
 
 - ### Pasir Putih Tanpa Ayak Untuk Pengecoran Di Kronjo Tangerang
-    
 
 1. **Pasir Putih Bangka**
 

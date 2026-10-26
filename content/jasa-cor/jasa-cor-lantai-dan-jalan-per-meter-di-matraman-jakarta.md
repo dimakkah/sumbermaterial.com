@@ -22,31 +22,31 @@ Teknik pengecoran sendiri terbagi menjadi dua bagian, yaitu metode konvesional d
 
 **• metode traditional terdiri atas beberapa bagian:**
 
-1\. Dry-Sand Casting
+1. Dry-Sand Casting
 
-2\. Full-Mold Casting
+2. Full-Mold Casting
 
-3\. Sand-Mold Casting
+3. Sand-Mold Casting
 
-4\. Vacuum-Mold Casting
+4. Vacuum-Mold Casting
 
-5\. Shell-Mold Casting
+5. Shell-Mold Casting
 
-6\. Cement-Mold Casting
+6. Cement-Mold Casting
 
 **• Teknik modern terdiri dari:**
 
-1\. Centrifugal Casting
+1. Centrifugal Casting
 
-2\. Investment Casting
+2. Investment Casting
 
-3\. Permanent-Mold Casting
+3. Permanent-Mold Casting
 
-4\. High-Pressure Die Casting
+4. High-Pressure Die Casting
 
-5\. Plaster-Mold Casting
+5. Plaster-Mold Casting
 
-6\. Solid-Ceramic Casting
+6. Solid-Ceramic Casting
 
 Sebenarnya, baik teknik traditional ataupun non konvesional sama – sama memiliki quality yang bagus untuk sistem pengecoran. Secara mendasar perbedaan antara metode konvesional dan non konvesional terdapat pada sebuah contemporary casting yang tidak bergantung pada pasir dalam pembuatan cetakannya. Selain itu, temporary yang terdapat pada pengecoran akan di gunakan untuk memperoleh suatu produk berdasarkan geometriyang kecil. hingga, cukup relatif dibandingkan jika menggunakan konvesional casting. Dimana, Hasil coran non konvesional casting tidak perlu memerlukan proses tambahan dalam menyelesaikan suatu permukaan. Sebagaimana di ketahui, jika jenis logam yang akan di perbuat pengecoran kebanyakan memakai logam besi secara bersama-sama. Hal ini di lakukan dengan memanfaatkan aluminium, kuningan, perak, dan beberapa material non logam lainnya. Sistem pengecoran telah memiliki mekanisme yg lumayan sederhana. Inilah kenapa banyak yg mempromosikam jasa pengecoran. Jasa pengecoran memang sangat mudah di temukan. Di setiap sosial media Anda bisa melihat banyak iklan yg menawarkan jasa penyecoran. Hal ini tentu akan membuat Anda mudah mendapatkan jasa pengecoran. Semakin banyaknya yang menawarkan, maka sebaiknya anda berhati- hati dalam menetapkan jasa pengecoran. Dengan keahilan yang di milikinya, maka para jasa pengecoran dapat lebih mudah dalam melakukan tahapan pengecoran secara sempurna. Sebenarnya, ada banyak jenis pengecoran yang di tawarkan oleh jasa pengecoran. Inilah beberapa bagian pengecoran dari Jasa Cor Lantai dan Jalan Per Meter Di Matraman Jakarta:
 
@@ -56,27 +56,27 @@ Dikenal sebagai salah satu jenis pengecoran yang di lakukan dgn teknik mencetak 
 
 **A. Advantage Permanent Mold Casting:**
 
-• di dalam operasinya tdk diperlukan tenaga ahli
+- di dalam operasinya tdk diperlukan tenaga ahli
 
-• Tdk membutuhkantahapan lanjutan
+- Tdk membutuhkantahapan lanjutan
 
-• Produksi Tinggi
+- Produksi Tinggi
 
-• Cetakan dapat dipakai berulang kali
+- Cetakan dapat dipakai berulang kali
 
-• Ketelitian produk lebih baik daripada sand casting
+- Ketelitian produk lebih baik daripada sand casting
 
 **B. Disadvantage Permanent Mold Casting:**
 
-• Ukuran produk kecil dan sederhana
+- Ukuran produk kecil dan sederhana
 
-• Perlu perhitungan yang tepat dalam mengerjakan cetakan
+- Perlu perhitungan yang tepat dalam mengerjakan cetakan
 
-• Tidak dapat mengecor baja
+- Tidak dapat mengecor baja
 
-• Harga cetakan mahal
+- Harga cetakan mahal
 
-• cetakan untuk satu macam produk
+- cetakan untuk satu macam produk
 
 ## Harga Nego Cor Investment Casting Beton Dari Jasa Cor Lantai dan Jalan Per Meter Di Matraman Jakarta
 
@@ -88,21 +88,21 @@ Untuk investment casting memanfaatkan sitem pola tanam dgn rangka yang di pakai 
 
 Pekerjaan beton dilakukan sesuai dengan ketetapan dan undang-undang yang berlaku (SNI03 NO 2847 Tahun 2002) dengan jenis kwalitas beton yang akan di pakai cocok dengan Rencana Anggaran dan Biaya (RAB). Adapun dalam progres pengecoran parkiran atau zona parkir gedung atau gudang pabrik, maka telah seharusnya mengikuti tata tertib standar kualitas supaya tdk terjadi hal hal yang tidak di inginkan oleh anda sekalian. Karena boleh jadi ketika anda mencari harga murah qualitypun anda abaikan dan ini sungguh-sungguh membahayakan kecuali boros biaya juga lebih pendek umurnya. Berikut ialah sebagian syarat yang kami utamakan dalam tahapan pelaksaan kerja pengecoran lahan parkir atau area parkir dan gudang.
 
-1\. Beton ready mix cocok dengan kualitas yang sudah disetujui
+1. Beton ready mix cocok dengan kualitas yang sudah disetujui
 
-2\. Calbond (Super Bonding Agent) /cairan lem antara beton lama dengan baru disebut juga perekat beton
+2. Calbond (Super Bonding Agent) /cairan lem antara beton lama dengan baru disebut juga perekat beton
 
-3\. Curing compound/bahan perawatan dan perlindungan beton yang menghalangi cara kerja penguapan air pada beton berair
+3. Curing compound/bahan perawatan dan perlindungan beton yang menghalangi cara kerja penguapan air pada beton berair
 
-5\. Tukang cor mahir yang tahu lingkup kerja pengecoran.
+5. Tukang cor mahir yang tahu lingkup kerja pengecoran.
 
-6\. Mandor dan pelaksana yang mampu membaca shop drawing/for constrution dengan benar.
+6. Mandor dan pelaksana yang mampu membaca shop drawing/for constrution dengan benar.
 
-7\. Pengecekan elevasi balok dijalankan dengan menempatkan alat waterpass dimana tinggi alat ialah setinggi marking pada kolom (1,00 m dari permukaan pelat lantai di bawahnya).
+7. Pengecekan elevasi balok dijalankan dengan menempatkan alat waterpass dimana tinggi alat ialah setinggi marking pada kolom (1,00 m dari permukaan pelat lantai di bawahnya).
 
-8\. Bak ukur ditempatkan pada komponen bawah bekisting balok (bottom) Oleh pelaksana penilaian akurasi elevasi bottom dicek dengan alatwaterpass.
+8. Bak ukur ditempatkan pada komponen bawah bekisting balok (bottom) Oleh pelaksana penilaian akurasi elevasi bottom dicek dengan alatwaterpass.
 
-9\. Sekiranya pembacaan alat waterpass belum menonjolkan elevasi yang layak dengan gambar agenda, karenanya screwjack diputar untuk menaikkan atau menurunkan posisi bottom balok
+9. Sekiranya pembacaan alat waterpass belum menonjolkan elevasi yang layak dengan gambar agenda, karenanya screwjack diputar untuk menaikkan atau menurunkan posisi bottom balok
 
 .
 

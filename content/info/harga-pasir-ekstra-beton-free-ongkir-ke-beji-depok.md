@@ -25,7 +25,7 @@ berdasarkan Standar Nasional Indonesia ( SK SNI - S - 04 - 1989 - F ; 28) di tut
 
 Syarat Pasir yang Bagus tuk Bangunan
 
-1.  Agregat Halus patut terdiri dari butiran yang tajam dan keras dengan indeks kekerasan <2.2
+1.  Agregat Halus patut terdiri dari butiran yang tajam dan keras dengan indeks kekerasan <2.2
 2. Seandainya diaplikasikan Natrium Sulfat komponen hancur maksimal dua belas persen
 3. apabila diaplikasikan Magnesium Sulfat komponen halus maksimal 10%
 4. Tak boleh berisi lumpur lebih dari 5 persen
@@ -41,7 +41,6 @@ Syarat Pasir yang Bagus tuk Bangunan
 Sesudah mengenal persyaratan pasir buat sebuah Konstruksi, pada saat ini kita bahas model - Jenis Pasir Untuk Konstruksi penjelasan nya berikut ini:
 
 - ### Pasir Model Beton dan Lokasi Pengambilannya Di Beji Depok
-    
 
 Pasir ini umum nya berwarna hitam gelap dan tingkat kekerasan butiran nya lumayan tinggi. Namun jika anda mengepal nya dengan tangan tak akan menggumpal dan akan buyar kembali. macam pasir ini sungguh-sungguh lah baik untuk Pengecoran, Plesteran Dinding, Adukan Pondasi dan Adukan Pasangan Bata Pasir ini yaitu pasir untuk Cor yaitu butiran-butiran mineral keras dan tajam berukuran antara 0,075 – 5 mm, bila terdapat butiran berukuran lebih kecil dari 0,063 mm tak lebih dari 5% berat. Pasir ini yaitu pasir untuk Beton tak jarang diaplikasikan untuk profesi cor-coran struktur seperti kolom, balok dan pelat lantai.
 
@@ -59,21 +58,18 @@ Untuk menerima kekokohan Cor yang maksimal maka pasir sepatutnya bisa memenuhi p
 ![Harga Pasir Ekstra Beton Free Ongkir Ke Beji Depok](/images/info/pasir-hitam-5.jpg)
 
 - ### Pasir Untuk Pasang Batu, Pondasi, Bata, Ubin, Plester Di Beji Depok
-    
 
 ![Harga Pasir Ekstra Beton Free Ongkir Ke Beji Depok](/images/info/pasir-hitam-4.jpg)
 
 Pasir ini lebih halus lagi diperbandingkan oleh pasir beton. sekiranya anda mengepal pasir ini karenanya akan menggumpal dan tak akan buyar kembali. pasir pasang lazim nya di manfaatkan buat campuran pasir beton agar tidak terlalu kasar dan bisa di manfaatkan untuk plesteran dinding.
 
 - ### Pasir Urug Untuk Pembuatan Batako Di Beji Depok
-    
 
 Di Antara ke dua pasir diatas pasir jenis ini lebih halus lagi, bila anda mengepal nya karenanya akan menggumpal dan tidak akan hancur lagi. melainkan pasir ragam tidak bagus untuk di buat sebagai bahan bangunan. pasir model ini pada biasa nya di manfaatkan tuk Bahan Pembuatan Batako
 
 Pada biasa nya pasir ini nyaris sama dgn pasir beton akan namun pasir ini memiliki tingkat kekasaran yg tinggi, butiran - butiran nya cukup besar dan agak banyak batuan nya. pada biasanya pasir macam ini bagus untuk bahan pemadatan lantai
 
 - ### Pasir Putih Tanpa Batu Untuk Pasang Lantai Marmer Di Beji Depok
-    
 
 1. **Pasir Putih Bangka**
 

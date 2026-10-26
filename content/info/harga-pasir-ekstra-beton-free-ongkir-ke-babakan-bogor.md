@@ -25,7 +25,7 @@ Berdasarkan Standar Nasional Indonesia ( SK SNI - S - 04 - 1989 - F ; 28) di tut
 
 Persyaratan Pasir yang Baik Untuk Bangunan
 
-1.  Agregat Halus sepatutnya terdiri dari butiran yang tajam dan keras dengan indeks kekerasan <2.2
+1.  Agregat Halus sepatutnya terdiri dari butiran yang tajam dan keras dengan indeks kekerasan <2.2
 2. bilamana dimanfaatkan Natrium Sulfat komponen hancur optimal dua belas persen
 3. Sekiranya diaplikasikan Magnesium Sulfat komponen halus maksimal 5 persen
 4. Tak boleh berisi clay lebih dari 5 persen
@@ -41,7 +41,6 @@ Persyaratan Pasir yang Baik Untuk Bangunan
 Setelah mengenal persyaratan pasir buat sebuah Konstruksi Bangunan, saat ini kita bahas model - Jenis Pasir Untuk Konstruksi penjelasan nya sbb:
 
 - ### Pasir Untuk Beton Di Babakan Bogor
-    
 
 Pasir ini biasa nya berwarna hitam pekat dan tingkat kekasaran butiran nya cukup tinggi. Tapi jika anda mengepal nya dengan tangan tak akan lengket dan akan buyar kembali. tipe pasir ini betul-betul lah baik tuk Pengecoran, Plesteran Dinding, Adukan Pondasi dan Adukan Pasangan Bata Pasir ini yaitu pasir untuk Beton merupakan butiran-butiran mineral keras dan tajam berukuran antara 0,075 – 5 mm, apabila terdapat butiran berukuran lebih kecil dari 0,063 mm tidak lebih dari 5% berat. Pasir ini yaitu pasir untuk Cor kerap dimanfaatkan untuk profesi cor-coran struktur seperti kolom, balok dan pelat lantai.
 
@@ -59,21 +58,18 @@ Untuk mendapatkan kekokohan Rigid yang optimal karenanya pasir mesti mampu memen
 ![Harga Pasir Ekstra Beton Free Ongkir Ke Babakan Bogor](/images/info/pasir-hitam-5.jpg)
 
 - ### Pasir Untuk Adukan Pasang Batu, Pondasi, Bata, Ubin, Plester Di Babakan Bogor
-    
 
 ![Harga Pasir Ekstra Beton Free Ongkir Ke Babakan Bogor](/images/info/pasir-putih12.jpg)
 
 Pasir ini lebih halus lagi dibandingkan oleh pasir beton. jika kamu mengepal pasir ini maka akan menggumpal dan tidak akan hancur kembali. pasir pasang lazim nya di pakai untuk adukan pasir beton agar tidak terlampau kasar dan bisa di gunakan untuk plesteran dinding.
 
 - ### Pasir Kualitas rendah Untuk Pembuatan Batako Di Babakan Bogor
-    
 
 Di Antara ke dua pasir diatas pasir macam ini lebih halus lagi, sekiranya anda mengepal nya akan menggumpal dan tak akan buyar lagi. tapi pasir tipe
 
 Pada lazim nya pasir ini nyaris sama dengan pasir beton melainkan pasir ini memiliki tingkat kekasaran yang tinggi, butiran - butiran nya lumayan besar dan agak banyak batuan nya. pada biasanya pasir model ini baik untuk bahan pengurugan lantai
 
 - ### Pasir Putih Tanpa Ayak Untuk Pelester Di Babakan Bogor
-    
 
 1. **Pasir Putih Bangka**
 

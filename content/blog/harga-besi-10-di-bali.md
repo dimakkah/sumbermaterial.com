@@ -17,7 +17,6 @@ draft: false
 
 {{< toc >}}
 
-
 ## Memahami Fluktuasi Harga Besi 10 di Bali
 
 Sebagai salah satu material konstruksi utama, harga besi 10 di Bali bisa sangat fluktuatif. Selain permintaan pasar, ada beberapa faktor lain yang berperan, seperti harga bahan baku baja dunia, nilai tukar rupiah terhadap dolar, biaya transportasi, dan kebijakan pemerintah terkait impor besi. Saat ini, harga besi 10 di Bali bisa berkisar antara Rp 8.000 hingga Rp 12.000 per kilogram, tergantung pada kualitas, merek, dan tempat Anda membeli. Harga ini bersifat estimasi dan dapat berubah sewaktu-waktu — hubungi Kami untuk penawaran terbaru dan paling akurat sesuai kebutuhan proyek Mitra.
@@ -28,8 +27,8 @@ Mitra, penting untuk diingat bahwa harga besi 10 juga bisa berbeda antara pengec
 
 Besi 10, atau besi beton diameter 10 mm, merupakan salah satu ukuran yang paling umum digunakan dalam konstruksi bangunan di Bali. Ada beberapa jenis besi 10 yang tersedia, di antaranya adalah:
 
-*   **Besi Polos:** Jenis besi ini memiliki permukaan yang halus dan digunakan untuk keperluan yang tidak memerlukan kekuatan tarik yang tinggi, seperti tulangan pelengkap.
-*   **Besi Ulir:** Jenis besi ini memiliki permukaan bergelombang atau ulir yang memberikan daya rekat yang lebih baik dengan beton, sehingga lebih kuat dan tahan terhadap gaya tarik. Besi ulir umumnya digunakan untuk tulangan utama pada struktur beton.
+- **Besi Polos:** Jenis besi ini memiliki permukaan yang halus dan digunakan untuk keperluan yang tidak memerlukan kekuatan tarik yang tinggi, seperti tulangan pelengkap.
+- **Besi Ulir:** Jenis besi ini memiliki permukaan bergelombang atau ulir yang memberikan daya rekat yang lebih baik dengan beton, sehingga lebih kuat dan tahan terhadap gaya tarik. Besi ulir umumnya digunakan untuk tulangan utama pada struktur beton.
 
 ![Besi Ulir dan Besi Polos](/images/blog/harga-besi-8-di-bali.jpg)
 

@@ -16,7 +16,7 @@ saat ini material yg diaplikasikan untuk mengisi tembok gedung, sudah terdapat b
 
 ## Mengetahui Ragam Variasi Bata
 
-### 1\. Bata Merah Standar & Jumbo Di Sungai Bambu Jakarta
+### 1. Bata Merah Standar & Jumbo Di Sungai Bambu Jakarta
 
 ![Harga Batako Beton Gratis Ongkir Ke Sungai Bambu Jakarta](/images/bata/bata-merah-oven-33.png)
 
@@ -26,7 +26,7 @@ Bata merah ini dihasilkan dari material tanah yg kemudian di press dan dibakar d
 
 Bahan bangunan ini sungguh-sungguh kuat terhadap panas dan sesuai dijadikan proteksi dari panas api. Bata merah ini pada lazimnya mempunyai ukuran panjang antara 17-23 cm dan lebar sekitar 7-11 cm, serta tebalnya 3-5 cm. mempunyai ukuran yg lebih kecil akan memberi kemudahan dalam pengerjaan pengangkutan dan dapat diterapkan untuk membentuk bidang kecil.
 
-### 2\. Batako Hitam dan Putih Di Sungai Bambu Jakarta
+### 2. Batako Hitam dan Putih Di Sungai Bambu Jakarta
 
 ![Harga Batako Beton Gratis Ongkir Ke Sungai Bambu Jakarta](/images/bata/batako-hitam-press-28.png)
 
@@ -34,7 +34,7 @@ Material bangunan tembok dari batako ini secara biasa terbuat dari material camp
 
 Batako press seperti ini mempunyai kekurangan seperti mudah retak, lebih panas dan pengap. Berbeda dengan bata merah yg terbuat dari material tanah. Tapi batako ini cenderung lebih ringan daripada bata merah. Akibatnya akan terlihat lebih halus dan ukurannya lebih presisi apabila diperbandingkan dg bata merah. Batako trus Hitam ini mempunyai ukuran panjang sekitar 36-40 cm, tinggi 18-20 cm dan tebal 8-10 cm. material ini acap kali dipilih sebab untuk memperingan beban struktur bangunan, meminimalisir sisa material dan mempermudah pembangunan.
 
-### 3\. Bata Ringan Di Sungai Bambu Jakarta
+### 3. Bata Ringan Di Sungai Bambu Jakarta
 
 ![Harga Batako Beton Gratis Ongkir Ke Sungai Bambu Jakarta](/images/bata/bata-hebel-sni-13.png)
 
@@ -62,7 +62,7 @@ Semua tentunya telah tahu kegunaan utama batu bata mulai diaplikasikan untuk mem
 
 Sistem memesan batu bata yang aman dan terpercaya:
 
-1.  Cara pembayaran dapat anda lakukan secara COD atau dibayar di daerah ketika barang orderan anda sudah datang di tempat
+1.  Cara pembayaran dapat anda lakukan secara COD atau dibayar di daerah ketika barang orderan anda sudah datang di tempat
 2. Silahkan memilih dan memutuskan bahan batu bata yang anda inginkan
 3. Tentukan juga jumlah orderan batu bata yang anda butuhkan dalam format bijian.
 4. Anda bisa menghubungi layanan telepon toko untuk memudahkan proses pemesanan

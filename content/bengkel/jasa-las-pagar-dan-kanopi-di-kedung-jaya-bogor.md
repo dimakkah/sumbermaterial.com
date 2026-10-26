@@ -32,11 +32,11 @@ Dari perhitungan Biaya Jasa Las Pagar Dan Kanopi diatas, kami harap anda dapat m
 
 ## Harga Jasa Las Pagar Dan Kanopi Berdasarkan Kebutuhan dan Bahan Di Kedung Jaya Bogor
 
-1\. Pembuatan Kanopi Di Kedung Jaya Bogor
+1. Pembuatan Kanopi Di Kedung Jaya Bogor
 
 \# Bahan besi mulai dari Rp. 400.000 hingga Rp. 800.000 utk per meter persegi # Bahan besi galvanis Rp. 500.000 hingga Rp. 850.000 untuk per m2 # Bahan stainless Rp. 650.000 hingga Rp. 1.675.000 utk per m2
 
-2\. Pembuatan Pagar Di Kedung Jaya Bogor
+2. Pembuatan Pagar Di Kedung Jaya Bogor
 
 \# Bahan besi mulai dari Rp. 350.000 hingga Rp. 750.000 utk per meter persegi # Bahan besi Galvanis mulai dari Rp. 400.000 hingga Rp. 800.000 per m2 # Bahan besi Stainless mulai dari Rp. 600.000 sampai Rp. 1.500.000 per meter persegi # Bahan Tempa mulai dari Rp. 750.000 hingga Rp. 1.700.000 per meter persegi # Bahan Brc mulai dari Rp. 200.000 sampai Rp. 450.000 per m2
 
@@ -54,15 +54,15 @@ Sebagai Layanan Las Pagar Dan Kanopi kami melayani banyak job atau orderan utk b
 
 Dibawah ini yaitu beberapa profit yg akan anda peroleh jika mengorder Layanan Las Pagar Dan Kanopi dari kami. Kami pastikan memberikan hasil yang memuaskan untuk anda.
 
- Harga Ekonomis utk anda: Kami memberikan biaya termurah utk anda yang mengorder Jasa Las Pagar Dan Kanopi dari kami. Kami siap datang ke area anda utk melaksanakan suvery dan informasi yang berkaitan dengan pengelasan yang dibutuhkan.
+- Harga Ekonomis utk anda: Kami memberikan biaya termurah utk anda yang mengorder Jasa Las Pagar Dan Kanopi dari kami. Kami siap datang ke area anda utk melaksanakan suvery dan informasi yang berkaitan dengan pengelasan yang dibutuhkan.
 
- Mendapatkan macam material: Kami juga menerima banyak macam material yg dapat kami sanggupi untuk proses pengelasan. Adapun sebagian material yang bisa kami kerjakan seperti ( Pemesanan pagar, pengorderan Kanopi, pemesanan tralis, pemesanan pintu besi, pemesanan pintu henderson, pengorderan tralis, pemesanan Kanopi dan masih banyak lagi yg lainnya ).
+- Mendapatkan macam material: Kami juga menerima banyak macam material yg dapat kami sanggupi untuk proses pengelasan. Adapun sebagian material yang bisa kami kerjakan seperti ( Pemesanan pagar, pengorderan Kanopi, pemesanan tralis, pemesanan pintu besi, pemesanan pintu henderson, pengorderan tralis, pemesanan Kanopi dan masih banyak lagi yg lainnya ).
 
- Harga disesuaikan dengan material: Seperti Jasa las pada lazimnya, tiap harga yang kami patok disesuaikan dengan tipe material mulai dari bahan material, panjang dan pendeknya material, ketebalan dan tingkat kesulitan ).
+- Harga disesuaikan dengan material: Seperti Jasa las pada lazimnya, tiap harga yang kami patok disesuaikan dengan tipe material mulai dari bahan material, panjang dan pendeknya material, ketebalan dan tingkat kesulitan ).
 
- Progres Tepat waktu: Kami Layanan Las Pagar Dan Kanopi yang sanggup menuntaskan pelaksanaan tepat waktu pantas dg tanggal yang sudah disepakati bersama.
+- Progres Tepat waktu: Kami Layanan Las Pagar Dan Kanopi yang sanggup menuntaskan pelaksanaan tepat waktu pantas dg tanggal yang sudah disepakati bersama.
 
- Request sesuai dengan harapan: Kami memberikan peluang kepada anda untuk merequest pantas dg kemauan terkait dengan cara kerja pengelasan supaya sesuai dengan kebutuhan anda.
+- Request sesuai dengan harapan: Kami memberikan peluang kepada anda untuk merequest pantas dg kemauan terkait dengan cara kerja pengelasan supaya sesuai dengan kebutuhan anda.
 
 Layanan Las Pagar Dan Kanopi dari kami benar-benar telah berpengalaman dalam mengerjakana banyak orderan baik dari proyek kecil maupun proyek besar sekalipun, dari skala rumah sampai skala besar seperti perkantoran, hotel, sekolahan dan masih banyak lagi yg lainnya. Bengkel Layanan Las Pagar Dan Kanopi dari kami menggunakan bahan besi yg benar-benar berkualitas di kelasnya, sehingga anda tak perlu ragu dengan hasil finisihing yang kami berikan sebab dengan pengalaman para tenaga pekerja yg telah matang akan menjadikan finishing yg baik dan bisa bertahan lama. Ini merupakan jaminan dari Jasa Las Pagar Dan Kanopi kami untuk anda.
 
@@ -76,18 +76,18 @@ Langkah permulaan yang bisa anda lakukan apabila mau memesan Jasa Las Pagar Dan 
 
 Bagi anda yang berharap mengetahui seperti apa metode kami mematok biaya orderan Jasa las listrik, dapat menyimak informasinya dibawah ini.
 
- Merek / Sampel Material: Hal pertama yg akan kami lihat adalah ragam material dan merk.
+- Merek / Sampel Material: Hal pertama yg akan kami lihat adalah ragam material dan merk.
 
- Tebal ukuran: Tebal ukuran juga menjadi pertimbangan kami dalam menentukan biaya.
+- Tebal ukuran: Tebal ukuran juga menjadi pertimbangan kami dalam menentukan biaya.
 
- Bentuk / Contoh: Format maupun wujud juga menjadi pertimbangan utama kami dalam menetapkan harga.
+- Bentuk / Contoh: Format maupun wujud juga menjadi pertimbangan utama kami dalam menetapkan harga.
 
- Volume Tipe: Besar kecilnya volume pekerjaan juga bisa menjadi pertimbangan kami.
+- Volume Tipe: Besar kecilnya volume pekerjaan juga bisa menjadi pertimbangan kami.
 
- Tingkat kesusahan: Tingkas kesulitan juga menjadi pertimbangan kami
+- Tingkat kesusahan: Tingkas kesulitan juga menjadi pertimbangan kami
 
- Jarak: Mengatar pesanan anda ke tempat juga masuk hitungan biaya kami
+- Jarak: Mengatar pesanan anda ke tempat juga masuk hitungan biaya kami
 
- Aplikasi / : Tambahan utk harga apabila menggunakan macam
+- Aplikasi / : Tambahan utk harga apabila menggunakan macam
 
 Demikian berita tentang Jasa Las Pagar Dan Kanopi Di Kedung Jaya Bogor. Semoga berita ini bermanfaat untuk kita semuanya. Terimakasih.

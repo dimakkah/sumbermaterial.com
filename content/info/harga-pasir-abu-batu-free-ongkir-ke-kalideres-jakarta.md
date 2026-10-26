@@ -25,7 +25,7 @@ Berdasarkan Standar Nasional Indonesia ( SK SNI - S - 04 - 1989 - F ; 28) di seb
 
 Persyaratan Pasir yg Bagus Untuk Bangunan
 
-1.  Agregat Halus mesti terdiri dari butiran yang tajam dan keras dengan indeks kekerasan <2.2
+1.  Agregat Halus mesti terdiri dari butiran yang tajam dan keras dengan indeks kekerasan <2.2
 2. bilamana dimanfaatkan Natrium Sulfat komponen hancur maksimal 12%
 3. Jika diterapkan Magnesium Sulfat komponen halus optimal sepuluh %
 4. Tidak boleh berisi clay lebih dari lima %
@@ -41,7 +41,6 @@ Persyaratan Pasir yg Bagus Untuk Bangunan
 Setelah tahu persis prasyarat pasir untuk sebuah Konstruksi, sekarang ini kita bahas Macam - Tipe Pasir Untuk Konstruksi Bangunan penjelasan nya sbb:
 
 - ### Pasir Tipe Cor dan Tempat Pengambilannya Di Kalideres Jakarta
-    
 
 Pasir ini biasa nya berwarna hitam gelap dan tingkat kekasaran butiran nya cukup tinggi. Tetapi apabila anda mengepal nya dengan tangan tak akan menggumpal dan akan hancur kembali. ragam pasir ini amat lah baik tuk Pengecoran, Plesteran Dinding, Adukan Pondasi dan Adukan Pasangan Bata Pasir ini yaitu pasir untuk Beton ialah butiran-butiran mineral keras dan tajam berukuran antara 0,075 – 5 mm, seandainya terdapat butiran berukuran lebih kecil dari 0,063 mm tak lebih dari 5% berat. Pasir ini yaitu pasir untuk Rigid hampir tak jarang dimanfaatkan untuk profesi cor-coran struktur seperti kolom, balok dan pelat lantai.
 
@@ -59,21 +58,18 @@ Untuk menerima ketahanan Beton yang optimal maka pasir patut bisa memenuhi syara
 ![Harga Pasir Abu Batu Free Ongkir Ke Kalideres Jakarta](/images/info/jual-pasir-cor-hitam.jpg)
 
 - ### Pasir Standar Di Kalideres Jakarta
-    
 
 ![Harga Pasir Abu Batu Free Ongkir Ke Kalideres Jakarta](/images/info/pasir-putih3.jpg)
 
 Pasir ini lebih halus lagi dibandingi oleh pasir beton. apabila anda mengepal pasir ini karenanya akan menggumpal dan tidak akan hancur kembali. pasir pasang lazim nya di manfaatkan untuk campuran pasir beton agar tak kelewat kasar dan dapat di manfaatkan untuk plesteran dinding.
 
 - ### Pasir Kualitas rendah Untuk Pembuatan Batako Di Kalideres Jakarta
-    
 
 Di Antara ke dua pasir diatas pasir jenis ini lebih halus lagi, jikalau anda mengepal nya akan menggumpal dan tidak akan buyar lagi. tapi pasir tipe
 
 Pada nya pasir ini nyaris sama dgn pasir beton melainkan pasir ini memiliki tingkat kekasaran yg tinggi, butiran - butiran nya lumayan besar dan agak banyak batuan nya. pada lazimnya pasir macam ini baik untuk bahan pengurugan lantai
 
 - ### Pasir Putih Tanpa Batu Untuk Pasang Bata Di Kalideres Jakarta
-    
 
 1. **Pasir Putih Bangka**
 

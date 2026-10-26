@@ -19,9 +19,7 @@ draft: false
 
 ![Las Besi Terdekat: Pertimbangkan Ini Sebelum Memilih Jasa](/images/blog/las-besi-terdekat.jpg)
 
-
-
-### Pentingnya Memilih Jasa Las Besi yang Tepat
+## Pentingnya Memilih Jasa Las Besi yang Tepat
 
 Memilih penyedia jasa las besi yang tepat bukan hanya soal harga murah, tapi juga soal kualitas hasil, kekuatan sambungan, dan keamanan proyek Anda. Sambungan las yang buruk bisa berakibat fatal, terutama pada konstruksi bangunan atau peralatan yang menanggung beban berat. Mitra Sumber Material hadir untuk memberikan panduan agar Anda tidak salah pilih.
 
@@ -43,7 +41,6 @@ Ada berbagai teknik pengelasan yang umum digunakan, masing-masing dengan kelebih
 
 Berikut tabel perbandingan beberapa teknik pengelasan yang populer:
 
-
 <table class="table">
   <caption>Perbandingan Teknik Pengelasan</caption>
   <thead>
@@ -55,7 +52,6 @@ Berikut tabel perbandingan beberapa teknik pengelasan yang populer:
     <tr><td>TIG (GTAW)</td><td>Sangat presisi, hasil pengelasan berkualitas tinggi, cocok untuk material tipis</td><td>Lambat, membutuhkan keterampilan tinggi, mahal</td><td>Pengelasan aluminium, stainless steel, proyek yang membutuhkan keakuratan tinggi</td></tr>
   </tbody>
 </table>
-
 
 Sebagai contoh, jika Anda ingin membuat pagar besi dengan desain rumit, teknik TIG mungkin lebih cocok karena menghasilkan hasil yang lebih bersih dan presisi. Sementara untuk perbaikan rangka besi yang sederhana, teknik SMAW sudah cukup memadai.
 

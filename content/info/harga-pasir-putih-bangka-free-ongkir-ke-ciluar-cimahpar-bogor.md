@@ -25,7 +25,7 @@ Menurut Standar Nasional Indonesia ( SK SNI - S - 04 - 1989 - F ; 28) di sebutka
 
 Persyaratan Pasir yg Baik Untuk Bangunan
 
-1.  Agregat Halus patut terdiri dari butiran yg tajam dan keras dengan indeks kekerasan <2.2
+1.  Agregat Halus patut terdiri dari butiran yg tajam dan keras dengan indeks kekerasan <2.2
 2. bilamana dimanfaatkan Natrium Sulfat bagian hancur maksimal dua belas persen
 3. sekiranya diterapkan Magnesium Sulfat komponen halus maksimal sepuluh persen
 4. Tak boleh memuat clay lebih dari lima persen
@@ -41,7 +41,6 @@ Persyaratan Pasir yg Baik Untuk Bangunan
 sesudah memahami persyaratan pasir buat suatu Konstruksi Bangunan, saat ini kita bahas Tipe - Tipe Pasir Untuk Konstruksi Bangunan penjelasan nya sebagai berikut:
 
 - ### Pasir Jenis Cor dan Daerah Pengambilannya Di Ciluar Cimahpar Bogor
-    
 
 Pasir ini umum nya berwarna coklat tua dan tingkat kekerasan butiran nya lumayan tinggi. Melainkan seandainya anda mengepal nya dengan tangan tak akan menggumpal dan akan hancur kembali. model pasir ini benar-benar lah baik buat Pengecoran, Plesteran Dinding, Adukan Pondasi dan Adukan Pasangan Bata Pasir ini yaitu pasir untuk Rigid merupakan butiran-butiran mineral keras dan tajam berukuran antara 0,075 – 5 mm, jikalau terdapat butiran berukuran lebih kecil dari 0,063 mm tak lebih dari 5% berat. Pasir ini yaitu pasir untuk Beton kerap kali diaplikasikan untuk profesi cor-coran struktur seperti kolom, balok dan pelat lantai.
 
@@ -59,21 +58,18 @@ Untuk mendapat kualitas Beton yang maksimal karenanya pasir sepatutnya mampu mem
 ![Harga Pasir Putih Bangka Free Ongkir Ke Ciluar Cimahpar Bogor](/images/info/jual-pasir-cor-hitam.jpg)
 
 - ### Pasir Standar Di Ciluar Cimahpar Bogor
-    
 
 ![Harga Pasir Putih Bangka Free Ongkir Ke Ciluar Cimahpar Bogor](/images/info/pasir-hitam-4.jpg)
 
 Pasir ini lebih halus lagi dibandingkan oleh pasir beton. jikalau anda mengepal pasir ini karenanya akan menggumpal dan tidak akan hancur kembali. pasir pasang umum nya di manfaatkan tuk adukan pasir beton agar tak terlalu kasar dan dapat di pakai untuk plesteran dinding.
 
 - ### Pasir Elod Untuk pengurugan lantai Di Ciluar Cimahpar Bogor
-    
 
 Di Antara ke dua pasir diatas pasir macam ini lebih halus lagi, seandainya anda mengepal nya karenanya akan menggumpal dan tidak akan buyar lagi. namun pasir tipe
 
 Pada lazim nya pasir ini nyaris sama dengan pasir beton akan namun pasir ini memiliki tingkat kekasaran yang tinggi, butiran - butiran nya lumayan besar dan agak banyak batuan nya. pada lazimnya pasir model ini baik untuk bahan pemadatan lantai
 
 - ### Pasir Putih Tanpa Ayak Untuk Pengecoran Di Ciluar Cimahpar Bogor
-    
 
 1. **Pasir Putih Bangka**
 

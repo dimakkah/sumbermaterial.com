@@ -25,7 +25,7 @@ berdasarkan Standar Nasional Indonesia ( SK SNI - S - 04 - 1989 - F ; 28) di seb
 
 Syarat Pasir yg Bagus tuk Bangunan
 
-1.  Agregat Halus wajib terdiri dari butiran yg tajam dan keras dengan indeks kekerasan <2.2
+1.  Agregat Halus wajib terdiri dari butiran yg tajam dan keras dengan indeks kekerasan <2.2
 2. kalau diterapkan Natrium Sulfat bagian hancur optimal 12 persen
 3. kalau dipakai Magnesium Sulfat bagian halus maksimal 5 persen
 4. Tak boleh memuat tanah lebih dari 5 persen
@@ -41,7 +41,6 @@ Syarat Pasir yg Bagus tuk Bangunan
 setelah mengetahui syarat pasir untuk suatu Konstruksi, saat ini kita bahas Jenis - Ragam Pasir Untuk Konstruksi Bangunan penjelasan nya berikut ini:
 
 - ### Pasir untuk Cor Rigid Di Pulo Gadung Jakarta
-    
 
 Pasir ini umum nya berwarna keabu-abuan dan tingkat kekasaran butiran nya cukup tinggi. Tapi seandainya anda mengepal nya dengan tangan tidak akan lengket dan akan buyar kembali. tipe pasir ini sangat lah bagus tuk Pengecoran, Plesteran Dinding, Adukan Pondasi dan Adukan Pasangan Bata Pasir ini yaitu pasir untuk Beton ialah butiran-butiran mineral keras dan tajam berukuran antara 0,075 – 5 mm, jikalau terdapat butiran berukuran lebih kecil dari 0,063 mm tidak lebih dari 5% berat. Pasir ini yaitu pasir untuk Cor sering diaplikasikan untuk profesi cor-coran struktur seperti kolom, balok dan pelat lantai.
 
@@ -59,21 +58,18 @@ Untuk memperoleh kekuatan Rigid yang maksimal maka pasir wajib bisa memenuhi per
 ![Harga Pasir Lampung Free Ongkir Ke Pulo Gadung Jakarta](/images/info/jual-pasir-cor-hitam.jpg)
 
 - ### Pasir Standar Di Pulo Gadung Jakarta
-    
 
 ![Harga Pasir Lampung Free Ongkir Ke Pulo Gadung Jakarta](/images/info/jual-pasir-mundu-2.jpg)
 
 Pasir ini lebih halus lagi diperbandingkan oleh pasir beton. jikalau anda mengepal pasir ini karenanya akan menggumpal dan tak akan buyar kembali. pasir pasang biasa nya di manfaatkan untuk adukan pasir beton agar tak terlampau kasar dan bisa di gunakan untuk plesteran dinding.
 
 - ### Pasir Kualitas rendah Untuk pemadatan lantai Di Pulo Gadung Jakarta
-    
 
 Di Antara ke dua pasir diatas pasir model ini lebih halus lagi, apabila anda mengepal nya karenanya akan menggumpal dan tak akan hancur lagi. tetapi pasir ragam tak baik untuk di buat sebagai bahan bangunan. pasir tipe ini pada umum nya di manfaatkan tuk Bahan Pembuatan Batako
 
 Pada nya pasir ini nyaris sama dgn pasir beton akan tapi pasir ini memiliki tingkat kekasaran yg tinggi, butiran - butiran nya cukup besar dan agak banyak batuan nya. pada umumnya pasir tipe ini baik untuk bahan pengurugan lantai
 
 - ### Pasir Putih Kadar Lumpur Rendah Untuk Hiasan Di Pulo Gadung Jakarta
-    
 
 1. **Pasir Putih Bangka**
 

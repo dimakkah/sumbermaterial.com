@@ -17,15 +17,14 @@ draft: false
 
 {{< toc >}}
 
-
-### Memahami Harga Bata Merah di Jakarta
+## Memahami Harga Bata Merah di Jakarta
 
 Harga bata merah di Jakarta bervariasi tergantung beberapa faktor. Kualitas bata, ukuran, lokasi pemasok, dan volume pembelian menjadi penentu utama. Biasanya, Anda akan menemukan dua jenis bata merah yang umum: bata merah biasa dan bata merah jumbo. Bata merah jumbo tentu saja lebih efisien karena ukurannya lebih besar, sehingga bisa menghemat waktu dan biaya pemasangan.
 
 Sebagai gambaran, berikut ini estimasi harga bata merah per buah di Jakarta (per Oktober 2026):
 
-*   **Bata Merah Standar:** Mulai dari Rp 400 – Rp 600 per buah
-*   **Bata Merah Jumbo:** Mulai dari Rp 800 – Rp 1.200 per buah
+- **Bata Merah Standar:** Mulai dari Rp 400 – Rp 600 per buah
+- **Bata Merah Jumbo:** Mulai dari Rp 800 – Rp 1.200 per buah
 
 Harga ini bersifat estimasi dan dapat berubah sewaktu-waktu — hubungi Kami untuk penawaran terbaru dan paling akurat sesuai kebutuhan proyek Mitra.
 
@@ -33,10 +32,10 @@ Harga ini bersifat estimasi dan dapat berubah sewaktu-waktu — hubungi Kami unt
 
 Selain jenis dan ukuran, ada beberapa faktor lain yang bisa memengaruhi harga bata merah:
 
-*   **Jarak Transportasi:** Semakin jauh jarak pengiriman dari pabrik ke lokasi proyek Anda, semakin tinggi biaya transportasinya.
-*   **Kondisi Pasar:** Permintaan dan penawaran di pasar material juga berpengaruh. Saat musim konstruksi, permintaan biasanya meningkat, sehingga harga pun bisa naik.
-*   **Kualitas Bata:** Bata merah yang berkualitas baik, diproduksi dengan proses yang benar, dan memiliki kekuatan yang terjamin tentu saja harganya lebih tinggi.
-*   **Pemasok:** Harga dari pemasok yang berbeda-beda bisa bervariasi. Sebaiknya bandingkan harga dari beberapa pemasok sebelum memutuskan untuk membeli.
+- **Jarak Transportasi:** Semakin jauh jarak pengiriman dari pabrik ke lokasi proyek Anda, semakin tinggi biaya transportasinya.
+- **Kondisi Pasar:** Permintaan dan penawaran di pasar material juga berpengaruh. Saat musim konstruksi, permintaan biasanya meningkat, sehingga harga pun bisa naik.
+- **Kualitas Bata:** Bata merah yang berkualitas baik, diproduksi dengan proses yang benar, dan memiliki kekuatan yang terjamin tentu saja harganya lebih tinggi.
+- **Pemasok:** Harga dari pemasok yang berbeda-beda bisa bervariasi. Sebaiknya bandingkan harga dari beberapa pemasok sebelum memutuskan untuk membeli.
 
 ### Tips Memilih Bata Merah Berkualitas
 
@@ -54,7 +53,6 @@ Mitra, jangan hanya terpaku pada harga murah! Memilih bata merah berkualitas ada
 
 Untuk membantu Anda memilih, berikut tabel perbandingan antara bata merah standar dan bata merah jumbo:
 
-
 <table class="table">
   <caption>Perbandingan Bata Merah Standar vs. Jumbo</caption>
   <thead>
@@ -68,7 +66,6 @@ Untuk membantu Anda memilih, berikut tabel perbandingan antara bata merah standa
     <tr><td>Kekuatan</td><td>Cukup kuat untuk bangunan sederhana</td><td>Lebih kuat dan stabil untuk bangunan bertingkat</td></tr>
   </tbody>
 </table>
-
 
 Sebagai tambahan, perlu diingat bahwa penggunaan bata merah jumbo bisa mengurangi jumlah sambungan antara bata, sehingga dinding menjadi lebih kuat dan tahan terhadap gempa.
 

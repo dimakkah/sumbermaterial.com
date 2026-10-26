@@ -19,8 +19,6 @@ draft: false
 
 ![1 Bata Tanah Berapa Rupiah? Harga Terbaru & Cara Menghitung Kebutuhan](/images/blog/1-bata-tanah-berapa-rupiah.jpg)
 
-
-
 Sebagai Mitra Sumber Material, Kami mengerti betul pentingnya informasi harga yang akurat untuk perencanaan anggaran proyek Anda. Harga bata tanah bisa bervariasi tergantung beberapa faktor, mulai dari lokasi, kualitas, ukuran, hingga permintaan pasar. Nah, dalam artikel ini, Kami akan membahas tuntas mengenai harga bata tanah terbaru, cara menghitung kebutuhan material, dan tips memilih bata tanah berkualitas untuk memastikan bangunan Anda kokoh dan tahan lama.
 
 ## Harga Bata Tanah: Faktor-Faktor yang Mempengaruhi
@@ -39,7 +37,6 @@ Untuk pembelian dalam jumlah besar, biasanya penjual menawarkan harga per rit. S
 
 Berikut ini tabel estimasi harga (perkiraan):
 
-
 <table class="table">
   <caption>Estimasi Harga Bata Tanah (2026)</caption>
   <thead>
@@ -50,7 +47,6 @@ Berikut ini tabel estimasi harga (perkiraan):
     <tr><td>Bata Tanah Jumbo</td><td>Rp 600 - Rp 800</td><td>Rp 240.000 - Rp 400.000</td></tr>
   </tbody>
 </table>
-
 
 ## Cara Menghitung Kebutuhan Bata Tanah untuk Pembangunan
 
@@ -67,11 +63,11 @@ Sebagai contoh, jika Anda ingin membangun dinding dengan luas 10 m², maka kebut
 
 Memilih bata tanah yang berkualitas sangat penting untuk memastikan kekuatan dan ketahanan bangunan Anda. Berikut beberapa tips yang bisa Anda ikuti:
 
-*   **Perhatikan warna:** Bata tanah yang berkualitas biasanya memiliki warna merah kecoklatan yang seragam.
-*   **Perhatikan tekstur:** Tekstur bata harus padat dan tidak mudah hancur ketika ditekan.
-*   **Perhatikan suara:** Ketuk bata dengan benda keras. Jika mengeluarkan suara nyaring, berarti bata tersebut berkualitas baik. Jika suaranya tumpul, berarti bata tersebut rapuh.
-*   **Perhatikan ukuran:** Pastikan ukuran bata seragam agar proses pemasangan lebih mudah dan rapi.
-*   **Beli dari penjual terpercaya:** Pilihlah penjual material bangunan yang terpercaya dan memiliki reputasi baik. Kami di Sumber Material selalu memastikan kualitas produk yang Kami jual.
+- **Perhatikan warna:** Bata tanah yang berkualitas biasanya memiliki warna merah kecoklatan yang seragam.
+- **Perhatikan tekstur:** Tekstur bata harus padat dan tidak mudah hancur ketika ditekan.
+- **Perhatikan suara:** Ketuk bata dengan benda keras. Jika mengeluarkan suara nyaring, berarti bata tersebut berkualitas baik. Jika suaranya tumpul, berarti bata tersebut rapuh.
+- **Perhatikan ukuran:** Pastikan ukuran bata seragam agar proses pemasangan lebih mudah dan rapi.
+- **Beli dari penjual terpercaya:** Pilihlah penjual material bangunan yang terpercaya dan memiliki reputasi baik. Kami di Sumber Material selalu memastikan kualitas produk yang Kami jual.
 
 Mitra Sumber Material, dengan memahami faktor-faktor yang memengaruhi harga, cara menghitung kebutuhan, dan tips memilih bata tanah berkualitas, Anda dapat merencanakan proyek pembangunan dengan lebih efisien dan efektif. Jangan ragu untuk berkonsultasi dengan Kami jika Anda membutuhkan bantuan lebih lanjut.
 

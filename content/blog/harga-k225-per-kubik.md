@@ -17,10 +17,9 @@ draft: false
 
 {{< toc >}}
 
-
 ## Apa Itu Beton K225 dan Mengapa Populer?
 
-Beton K225 adalah jenis beton yang banyak digunakan dalam berbagai proyek konstruksi, mulai dari pembangunan rumah, gedung, hingga infrastruktur jalan. Angka “225” ini menunjukkan kekuatan tekan beton dalam satuan kilogram per sentimeter persegi (kg/cm²) setelah 28 hari pengujian. Dengan kata lain, beton K225 mampu menahan beban sebesar 225 kg/cm². Kekuatan ini menjadikannya pilihan yang ideal untuk struktur yang membutuhkan daya tahan dan kekuatan yang cukup, seperti pondasi, kolom, balok, dan lantai. 
+Beton K225 adalah jenis beton yang banyak digunakan dalam berbagai proyek konstruksi, mulai dari pembangunan rumah, gedung, hingga infrastruktur jalan. Angka “225” ini menunjukkan kekuatan tekan beton dalam satuan kilogram per sentimeter persegi (kg/cm²) setelah 28 hari pengujian. Dengan kata lain, beton K225 mampu menahan beban sebesar 225 kg/cm². Kekuatan ini menjadikannya pilihan yang ideal untuk struktur yang membutuhkan daya tahan dan kekuatan yang cukup, seperti pondasi, kolom, balok, dan lantai.
 
 Sebagai informasi tambahan, mutu beton K225 ini sudah memenuhi standar SNI 03-1999 tentang perencanaan beton bertulang. Jadi, Mitra bisa tenang soal kualitasnya. Nah, untuk Anda yang sedang merencanakan pembangunan, mengetahui harga k225 per kubik tentu sangat penting, bukan?
 
@@ -32,7 +31,7 @@ Selain itu, volume pemesanan juga bisa memengaruhi harga. Biasanya, semakin besa
 
 ## Estimasi Harga K225 Per Kubik di Tahun Ini
 
-Oke, sekarang kita masuk ke inti pembahasannya—estimasi harga. Harga k225 per kubik di tahun ini (2026) berkisar antara Rp 850.000 hingga Rp 1.200.000 per kubik, tergantung faktor-faktor yang sudah Kami sebutkan tadi. Harga ini sudah termasuk biaya pembuatan dan pengiriman di wilayah Jabodetabek. 
+Oke, sekarang kita masuk ke inti pembahasannya—estimasi harga. Harga k225 per kubik di tahun ini (2026) berkisar antara Rp 850.000 hingga Rp 1.200.000 per kubik, tergantung faktor-faktor yang sudah Kami sebutkan tadi. Harga ini sudah termasuk biaya pembuatan dan pengiriman di wilayah Jabodetabek.
 
 Berikut contoh perhitungan sederhana untuk memperjelas:
 

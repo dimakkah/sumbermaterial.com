@@ -25,7 +25,7 @@ menurut Standar Nasional Indonesia ( SK SNI - S - 04 - 1989 - F ; 28) di tuturka
 
 Syarat Pasir yg Bagus buat Konstruksi
 
-1.  Agregat Halus patut terdiri dari butiran yg tajam dan keras dengan indeks kekerasan <2.2
+1.  Agregat Halus patut terdiri dari butiran yg tajam dan keras dengan indeks kekerasan <2.2
 2. bilamana digunakan Natrium Sulfat komponen hancur maksimal 12 persen
 3. jikalau digunakan Magnesium Sulfat bagian halus optimal sepuluh %
 4. Tidak boleh berisi tanah lebih dari lima %
@@ -41,7 +41,6 @@ Syarat Pasir yg Bagus buat Konstruksi
 Sesudah mengetahui prasyarat pasir tuk suatu Konstruksi Bangunan, saat ini kita bahas Ragam - Jenis Pasir Untuk Konstruksi penjelasan nya sbb:
 
 - ### Pasir Rigid Di Kalianyar Jakarta
-    
 
 Pasir ini biasa nya berwarna coklat tua dan tingkat kekerasan butiran nya cukup tinggi. Tetapi bila anda mengepal nya dengan tangan tak akan menggumpal dan akan hancur kembali. jenis pasir ini amat lah baik untuk Pengecoran, Plesteran Dinding, Adukan Pondasi dan Adukan Pasangan Bata Pasir ini yaitu pasir untuk Cor ialah butiran-butiran mineral keras dan tajam berukuran antara 0,075 – 5 mm, jika terdapat butiran berukuran lebih kecil dari 0,063 mm tidak lebih dari 5% berat. Pasir ini yaitu pasir untuk Cor hampir kerap kali digunakan untuk pekerjaan cor-coran struktur seperti kolom, balok dan pelat lantai.
 
@@ -59,21 +58,18 @@ Untuk mendapatkan kualitas Beton yang maksimal maka pasir mesti mampu memenuhi p
 ![Harga Pasir Hitam Cor Free Ongkir Ke Kalianyar Jakarta](/images/info/pasir-hitam-1.jpg)
 
 - ### Pasir Standar Di Kalianyar Jakarta
-    
 
 ![Harga Pasir Hitam Cor Free Ongkir Ke Kalianyar Jakarta](/images/info/pasir-putih3.jpg)
 
 Pasir ini lebih halus lagi diperbandingkan oleh pasir beton. sekiranya anda mengepal pasir ini maka akan menggumpal dan tidak akan hancur kembali. pasir pasang lazim nya di gunakan buat campuran pasir beton supaya tidak terlalu kasar dan dapat di manfaatkan untuk plesteran dinding.
 
 - ### Pasir Urug Untuk pemadatan lantai Di Kalianyar Jakarta
-    
 
 Di Antara ke dua pasir diatas pasir jenis ini lebih halus lagi, jika anda mengepal nya akan menggumpal dan tidak akan buyar lagi. namun pasir ragam tidak baik tuk di buat sebagai bahan bangunan. pasir jenis ini pada lazim nya di manfaatkan untuk Bahan Pembuatan Batako
 
 Pada nya pasir ini nyaris sama dgn pasir beton namun pasir ini memiliki tingkat kekasaran yg tinggi, butiran - butiran nya cukup besar dan agak banyak batuan nya. pada biasanya pasir ragam ini bagus untuk bahan dasaran pemasangan keramik
 
 - ### Pasir Putih Halus Untuk Pelester Di Kalianyar Jakarta
-    
 
 1. **Pasir Putih Bangka**
 

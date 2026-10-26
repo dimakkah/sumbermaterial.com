@@ -25,7 +25,7 @@ berdasarkan Standar Nasional Indonesia ( SK SNI - S - 04 - 1989 - F ; 28) di tut
 
 Syarat-Syarat Pasir yang Baik buat Bangunan
 
-1.  Agregat Halus mesti terdiri dari butiran yg tajam dan keras dengan indeks kekerasan <2.2
+1.  Agregat Halus mesti terdiri dari butiran yg tajam dan keras dengan indeks kekerasan <2.2
 2. Sekiranya dimanfaatkan Natrium Sulfat komponen hancur maksimal 12 persen
 3. Apabila diterapkan Magnesium Sulfat komponen halus maksimal 10%
 4. Tidak boleh mengandung lumpur lebih dari 5 persen
@@ -41,7 +41,6 @@ Syarat-Syarat Pasir yang Baik buat Bangunan
 Sesudah tahu persis prasyarat pasir buat suatu Konstruksi Bangunan, pada saat ini kita bahas Ragam - Macam Pasir Untuk Konstruksi penjelasan nya berikut ini:
 
 - ### Pasir Beton Di Cikoko Jakarta
-    
 
 Pasir ini lazim nya berwarna hitam gelap dan tingkat kekerasan butiran nya lumayan tinggi. Melainkan sekiranya anda mengepal nya dengan tangan tidak akan menggumpal dan akan hancur kembali. jenis pasir ini sungguh-sungguh lah bagus untuk Pengecoran, Plesteran Dinding, Adukan Pondasi dan Adukan Pasangan Bata Pasir ini yaitu pasir untuk Rigid ialah butiran-butiran mineral keras dan tajam berukuran antara 0,075 – 5 mm, kalau terdapat butiran berukuran lebih kecil dari 0,063 mm tidak lebih dari 5% berat. Pasir ini yaitu pasir untuk Cor sering dimanfaatkan untuk pekerjaan cor-coran struktur seperti kolom, balok dan pelat lantai.
 
@@ -59,21 +58,18 @@ Untuk mendapatkan kekuatan Cor yang maksimal maka pasir wajib dapat memenuhi pra
 ![Harga Pasir Putih Bangka Free Ongkir Ke Cikoko Jakarta](/images/info/pasir-hitam-8.jpg)
 
 - ### Pasir Untuk Pemasangan Batu, Pondasi, Bata, Ubin, Plester Di Cikoko Jakarta
-    
 
 ![Harga Pasir Putih Bangka Free Ongkir Ke Cikoko Jakarta](/images/info/pasir-hitam-4.jpg)
 
 Pasir ini lebih halus lagi diperbandingkan oleh pasir beton. kalau anda mengepal pasir ini maka akan menggumpal dan tak akan buyar kembali. pasir pasang lazim nya di pakai tuk campuran pasir beton supaya tak terlalu kasar dan dapat di gunakan untuk plesteran dinding.
 
 - ### Pasir Kualitas rendah Untuk pengurugan lantai Di Cikoko Jakarta
-    
 
 Di Antara ke dua pasir diatas pasir ragam ini lebih halus lagi, bila anda mengepal nya akan menggumpal dan tidak akan hancur lagi. tapi pasir jenis
 
 Pada biasa nya pasir ini nyaris sama dgn pasir beton tetapi pasir ini memiliki tingkat kekasaran yang tinggi, butiran - butiran nya cukup besar dan agak banyak batuan nya. pada umumnya pasir model ini bagus untuk bahan Pembuatan Batako
 
 - ### Pasir Putih Tanpa Ayak Untuk Hiasan Di Cikoko Jakarta
-    
 
 1. **Pasir Putih Bangka**
 

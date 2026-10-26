@@ -25,7 +25,7 @@ berdasarkan Standar Nasional Indonesia ( SK SNI - S - 04 - 1989 - F ; 28) di tut
 
 Syarat Pasir yang Baik buat Konstruksi
 
-1.  Agregat Halus wajib terdiri dari butiran yang tajam dan keras dengan indeks kekerasan <2.2
+1.  Agregat Halus wajib terdiri dari butiran yang tajam dan keras dengan indeks kekerasan <2.2
 2. bila dimanfaatkan Natrium Sulfat komponen hancur maksimal dua belas %
 3. Jika diterapkan Magnesium Sulfat komponen halus optimal sepuluh %
 4. Tak boleh memuat lumpur lebih dari lima persen
@@ -41,7 +41,6 @@ Syarat Pasir yang Baik buat Konstruksi
 setelah memahami prasyarat pasir untuk suatu Bangunan, sekarang ini kita bahas model - model Pasir Untuk Bangunan penjelasan nya berikut ini:
 
 - ### Pasir untuk Cor Rigid Di Matraman Jakarta
-    
 
 Pasir ini lazim nya berwarna hitam kemerahan dan tingkat kekasaran butiran nya lumayan tinggi. Tapi bila anda mengepal nya dengan tangan tidak akan lengket dan akan buyar kembali. tipe pasir ini betul-betul lah baik untuk Pengecoran, Plesteran Dinding, Adukan Pondasi dan Adukan Pasangan Bata Pasir ini yaitu pasir untuk Cor yakni butiran-butiran mineral keras dan tajam berukuran antara 0,075 – 5 mm, jika terdapat butiran berukuran lebih kecil dari 0,063 mm tak lebih dari 5% berat. Pasir ini yaitu pasir untuk Rigid hampir kerap kali diterapkan untuk pekerjaan cor-coran struktur seperti kolom, balok dan pelat lantai.
 
@@ -59,21 +58,18 @@ Untuk mendapat ketahanan Beton yang optimal karenanya pasir seharusnya dapat mem
 ![Harga Pasir Pasang Free Ongkir Ke Matraman Jakarta](/images/info/pasir-hitam-1.jpg)
 
 - ### Pasir Untuk Adukan Pasang Batu, Pondasi, Bata, Ubin, Plester Di Matraman Jakarta
-    
 
 ![Harga Pasir Pasang Free Ongkir Ke Matraman Jakarta](/images/info/pasir-putih12.jpg)
 
 Pasir ini lebih halus lagi diperbandingkan oleh pasir beton. sekiranya anda mengepal pasir ini karenanya akan menggumpal dan tidak akan hancur kembali. pasir pasang lazim nya di pakai buat adukan pasir beton agar tidak terlampau kasar dan bisa di manfaatkan untuk plesteran dinding.
 
 - ### Pasir Elod Untuk pemadatan lantai Di Matraman Jakarta
-    
 
 Di Antara ke dua pasir diatas pasir ragam ini lebih halus lagi, jika anda mengepal nya akan menggumpal dan tak akan hancur lagi. tapi pasir tipe
 
 Pada lazim nya pasir ini nyaris sama dgn pasir beton tetapi pasir ini mempunyai tingkat kekasaran yang tinggi, butiran - butiran nya cukup besar dan agak banyak batuan nya. pada lazimnya pasir ragam ini bagus tuk bahan Pembuatan Batako
 
 - ### Pasir Putih Bebas Lumpur Untuk Pasang Bata Di Matraman Jakarta
-    
 
 1. **Pasir Putih Bangka**
 

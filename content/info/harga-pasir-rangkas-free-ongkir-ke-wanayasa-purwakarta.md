@@ -25,7 +25,7 @@ Menurut Standar Nasional Indonesia ( SK SNI - S - 04 - 1989 - F ; 28) di sebutka
 
 Syarat-Syarat Pasir yg Bagus Untuk Bangunan
 
-1.  Agregat Halus harus terdiri dari butiran yang tajam dan keras dengan indeks kekerasan <2.2
+1.  Agregat Halus harus terdiri dari butiran yang tajam dan keras dengan indeks kekerasan <2.2
 2. jika digunakan Natrium Sulfat bagian hancur maksimal dua belas %
 3. sekiranya diaplikasikan Magnesium Sulfat komponen halus maksimal sepuluh %
 4. Tak boleh mengandung tanah lebih dari 5 persen
@@ -41,7 +41,6 @@ Syarat-Syarat Pasir yg Bagus Untuk Bangunan
 setelah tahu persis syarat pasir tuk sebuah Bangunan, saat ini kita bahas Macam - Ragam Pasir Untuk Konstruksi penjelasan nya sebagai berikut:
 
 - ### Pasir Tipe Cor dan Daerah Penambangannya Di Wanayasa Purwakarta
-    
 
 Pasir ini biasa nya berwarna hitam gelap dan tingkat pecahan butiran nya cukup tinggi. Melainkan jikalau anda mengepal nya dengan tangan tak akan lengket dan akan hancur kembali. jenis pasir ini sangat lah baik tuk Pengecoran, Plesteran Dinding, Adukan Pondasi dan Adukan Pasangan Bata Pasir ini yaitu pasir untuk Rigid yakni butiran-butiran mineral keras dan tajam berukuran antara 0,075 – 5 mm, bila terdapat butiran berukuran lebih kecil dari 0,063 mm tidak lebih dari 5% berat. Pasir ini yaitu pasir untuk Cor sering kali digunakan untuk pekerjaan cor-coran struktur seperti kolom, balok dan pelat lantai.
 
@@ -59,21 +58,18 @@ Untuk mendapatkan kekokohan Beton yang maksimal karenanya pasir patut sanggup me
 ![Harga Pasir Rangkas Free Ongkir Ke Wanayasa Purwakarta](/images/info/pasir-hitam-9.jpg)
 
 - ### Pasir Biasa Di Wanayasa Purwakarta
-    
 
 ![Harga Pasir Rangkas Free Ongkir Ke Wanayasa Purwakarta](/images/info/pasir-hitam-4.jpg)
 
 Pasir ini ekstra halus lagi diperbandingkan oleh pasir beton. apabila kalian mengepal pasir ini karenanya akan menggumpal dan tidak akan buyar kembali. pasir pasang umum nya di pakai buat campuran pasir beton supaya tidak terlampau kasar dan dapat di manfaatkan untuk plesteran dinding.
 
 - ### Pasir Kualitas rendah Untuk Pembuatan Batako Di Wanayasa Purwakarta
-    
 
 Di Antara ke dua pasir diatas pasir jenis ini lebih halus lagi, sekiranya kamu mengepal nya akan menggumpal dan tak akan hancur lagi. tapi pasir jenis
 
 Pada umum nya pasir ini nyaris sama dgn pasir beton akan tetapi pasir ini memiliki tingkat kekasaran yang tinggi, butiran - butiran nya cukup besar dan agak banyak batuan nya. pada lazimnya pasir tipe ini bagus untuk bahan pengurugan lantai
 
 - ### Pasir Putih Halus Untuk Pasang Lantai Marmer Di Wanayasa Purwakarta
-    
 
 1. **Pasir Putih Bangka**
 

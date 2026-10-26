@@ -25,7 +25,7 @@ berdasarkan Standar Nasional Indonesia ( SK SNI - S - 04 - 1989 - F ; 28) di tut
 
 Syarat Pasir yg Bagus tuk Bangunan
 
-1.  Agregat Halus seharusnya terdiri dari butiran yang tajam dan keras dengan indeks kekerasan <2.2
+1.  Agregat Halus seharusnya terdiri dari butiran yang tajam dan keras dengan indeks kekerasan <2.2
 2. Apabila dimanfaatkan Natrium Sulfat komponen hancur optimal 12 persen
 3. jika diterapkan Magnesium Sulfat bagian halus optimal 10%
 4. Tak boleh mengandung clay lebih dari lima %
@@ -41,7 +41,6 @@ Syarat Pasir yg Bagus tuk Bangunan
 sesudah tahu persis persyaratan pasir untuk suatu Bangunan, saat ini kita bahas Macam - model Pasir Untuk Konstruksi Bangunan penjelasan nya sbb:
 
 - ### Pasir Beton Di Pegangsaan Dua Jakarta
-    
 
 Pasir ini umum nya berwarna keabu-abuan dan tingkat kekerasan butiran nya lumayan tinggi. Tetapi apabila anda mengepal nya dengan tangan tak akan menggumpal dan akan hancur kembali. jenis pasir ini amat lah baik buat Pengecoran, Plesteran Dinding, Adukan Pondasi dan Adukan Pasangan Bata Pasir ini yaitu pasir untuk Rigid yaitu butiran-butiran mineral keras dan tajam berukuran antara 0,075 – 5 mm, kalau terdapat butiran berukuran lebih kecil dari 0,063 mm tak lebih dari 5% berat. Pasir ini yaitu pasir untuk Cor hampir kerap diterapkan untuk profesi cor-coran struktur seperti kolom, balok dan pelat lantai.
 
@@ -59,21 +58,18 @@ Untuk menerima kekokohan Beton yang optimal karenanya pasir semestinya dapat mem
 ![Harga Pasir Rangkas Free Ongkir Ke Pegangsaan Dua Jakarta](/images/info/jual-pasir-cor-hitam.jpg)
 
 - ### Pasir Untuk Pemasangan Batu, Pondasi, Bata, Ubin, Plester Di Pegangsaan Dua Jakarta
-    
 
 ![Harga Pasir Rangkas Free Ongkir Ke Pegangsaan Dua Jakarta](/images/info/jual-pasir-mundu.jpg)
 
 Pasir ini lebih halus lagi dibandingkan oleh pasir beton. jikalau anda mengepal pasir ini maka akan menggumpal dan tak akan buyar kembali. pasir pasang biasa nya di pakai untuk campuran pasir beton supaya tidak kelewat kasar dan dapat di gunakan untuk plesteran dinding.
 
 - ### Pasir Urug Untuk pengurugan lantai Di Pegangsaan Dua Jakarta
-    
 
 Di Antara ke dua pasir diatas pasir ragam ini lebih halus lagi, bila kalian mengepal nya karenanya akan menggumpal dan tidak akan buyar lagi. tapi pasir tipe
 
 Pada umum nya pasir ini nyaris sama dgn pasir beton tetapi pasir ini mempunyai tingkat kekasaran yg tinggi, butiran - butiran nya cukup besar dan agak banyak batuan nya. pada biasanya pasir jenis ini baik untuk bahan pengurugan lantai
 
 - ### Pasir Putih Halus Untuk Pasang Bata Di Pegangsaan Dua Jakarta
-    
 
 1. **Pasir Putih Bangka**
 

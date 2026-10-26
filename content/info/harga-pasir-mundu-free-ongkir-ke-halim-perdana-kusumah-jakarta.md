@@ -25,7 +25,7 @@ Menurut Standar Nasional Indonesia ( SK SNI - S - 04 - 1989 - F ; 28) di sebutka
 
 Persyaratan Pasir yang Baik Untuk Konstruksi
 
-1.  Agregat Halus harus terdiri dari butiran yg tajam dan keras dengan indeks kekerasan <2.2
+1.  Agregat Halus harus terdiri dari butiran yg tajam dan keras dengan indeks kekerasan <2.2
 2. sekiranya digunakan Natrium Sulfat bagian hancur maksimal dua belas persen
 3. seandainya diaplikasikan Magnesium Sulfat komponen halus optimal sepuluh %
 4. Tidak boleh berisi tanah lebih dari 5%
@@ -41,7 +41,6 @@ Persyaratan Pasir yang Baik Untuk Konstruksi
 sesudah mengenal syarat pasir buat suatu Konstruksi, pada saat ini kita bahas Jenis - Tipe Pasir Untuk Bangunan penjelasan nya sebagai berikut:
 
 - ### Pasir Jenis Cor dan Daerah Pengambilannya Di Halim Perdana Kusumah Jakarta
-    
 
 Pasir ini lazim nya berwarna hitam gelap dan tingkat kekasaran butiran nya cukup tinggi. Tetapi apabila anda mengepal nya dengan tangan tidak akan menggumpal dan akan hancur kembali. jenis pasir ini sangat lah bagus untuk Pengecoran, Plesteran Dinding, Adukan Pondasi dan Adukan Pasangan Bata Pasir ini yaitu pasir untuk Cor ialah butiran-butiran mineral keras dan tajam berukuran antara 0,075 – 5 mm, apabila terdapat butiran berukuran lebih kecil dari 0,063 mm tidak lebih dari 5% berat. Pasir ini yaitu pasir untuk Rigid acap kali diterapkan untuk profesi cor-coran struktur seperti kolom, balok dan pelat lantai.
 
@@ -59,21 +58,18 @@ Untuk mendapat ketahanan Beton yang optimal maka pasir mesti dapat memenuhi pras
 ![Harga Pasir Mundu Free Ongkir Ke Halim Perdana Kusumah Jakarta](/images/info/jual-pasir-cor-hitam.jpg)
 
 - ### Pasir Biasa Di Halim Perdana Kusumah Jakarta
-    
 
 ![Harga Pasir Mundu Free Ongkir Ke Halim Perdana Kusumah Jakarta](/images/info/jual-pasir-mundu-2.jpg)
 
 Pasir ini ekstra halus lagi dibandingkan oleh pasir beton. apabila anda mengepal pasir ini maka akan menggumpal dan tidak akan buyar kembali. pasir pasang lazim nya di gunakan untuk campuran pasir beton agar tak kelewat kasar dan dapat di manfaatkan untuk plesteran dinding.
 
 - ### Pasir Kualitas rendah Untuk pemadatan lantai Di Halim Perdana Kusumah Jakarta
-    
 
 Di Antara ke dua pasir diatas pasir ragam ini lebih halus lagi, jika kamu mengepal nya karenanya akan menggumpal dan tak akan hancur lagi. melainkan pasir tipe
 
 Pada nya pasir ini nyaris sama dengan pasir beton akan tetapi pasir ini memiliki tingkat kekasaran yang tinggi, butiran - butiran nya lumayan besar dan agak banyak batuan nya. pada umumnya pasir ragam ini bagus tuk bahan dasaran pemasangan keramik
 
 - ### Pasir Putih Halus Untuk Pelester Di Halim Perdana Kusumah Jakarta
-    
 
 1. **Pasir Putih Bangka**
 

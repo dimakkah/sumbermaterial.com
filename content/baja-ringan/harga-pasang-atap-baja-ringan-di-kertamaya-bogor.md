@@ -21,19 +21,19 @@ Pemasangan baja ringan untuk keperluan bangunan bisa dilakukan dengan cukup muda
 
 Berikut adalah beberapa alasan mengapa Anda sebaiknya memilih baja ringan sebagai kerangka atap dan *canopy*:
 
- Baja ringan lebih ramah lingkungan karena tidak memerlukan kayu, yang membutuhkan penebangan pohon. Dengan menggunakan kerangka baja ringan, Anda turut berkontribusi dalam melestarikan alam.
+- Baja ringan lebih ramah lingkungan karena tidak memerlukan kayu, yang membutuhkan penebangan pohon. Dengan menggunakan kerangka baja ringan, Anda turut berkontribusi dalam melestarikan alam.
 
- Lebih terjangkau. Dibandingkan dengan kerangka kayu, biaya penggunaan baja ringan cenderung lebih rendah. Ini penting untuk menekan biaya pembangunan secara keseluruhan.
+- Lebih terjangkau. Dibandingkan dengan kerangka kayu, biaya penggunaan baja ringan cenderung lebih rendah. Ini penting untuk menekan biaya pembangunan secara keseluruhan.
 
- Ringan dan kuat. Baja ringan berbeda dengan baja atau besi yang memiliki berat dua kali lipatnya. Dengan ketebalan yang tipis dan ringan, baja ringan tetap memiliki kekuatan yang memadai untuk kerangka atap dan *canopy* rumah Anda.
+- Ringan dan kuat. Baja ringan berbeda dengan baja atau besi yang memiliki berat dua kali lipatnya. Dengan ketebalan yang tipis dan ringan, baja ringan tetap memiliki kekuatan yang memadai untuk kerangka atap dan *canopy* rumah Anda.
 
- Bebas perawatan. Anda tidak perlu khawatir tentang kerusakan atau perawatan rutin. Ini akan membebaskan Anda dari beban perawatan tahunan.
+- Bebas perawatan. Anda tidak perlu khawatir tentang kerusakan atau perawatan rutin. Ini akan membebaskan Anda dari beban perawatan tahunan.
 
- Pemasangan cepat. Pemasangan kerangka baja ringan lebih cepat dibandingkan dengan kerangka kayu atau material lainnya.
+- Pemasangan cepat. Pemasangan kerangka baja ringan lebih cepat dibandingkan dengan kerangka kayu atau material lainnya.
 
- Bahan berkualitas. Baja ringan yang kami gunakan merupakan bahan utama dengan zinc dan aluminium, serta memiliki sertifikasi dan standar keamanan 4 kali lebih baik dari baja biasa. Kekuatannya pun mampu menahan beban berkilo-kilo.
+- Bahan berkualitas. Baja ringan yang kami gunakan merupakan bahan utama dengan zinc dan aluminium, serta memiliki sertifikasi dan standar keamanan 4 kali lebih baik dari baja biasa. Kekuatannya pun mampu menahan beban berkilo-kilo.
 
- Tahan rayap. Kami menjamin bahwa kerangka atap dan *canopy* dari baja ringan ini tahan terhadap serangan rayap.
+- Tahan rayap. Kami menjamin bahwa kerangka atap dan *canopy* dari baja ringan ini tahan terhadap serangan rayap.
 
 ## Sistem Perhitungan Luas Rangka Baja Ringan Di Kertamaya Bogor
 
@@ -63,10 +63,10 @@ Membahas harga jasa pasang baja ringan, banyak informasi tersedia di internet. A
 
 (Catatan: harga bisa berubah sewaktu-waktu, dapatkan informasi terbaru melalui kontak kami) Berikut ini adalah perkiraan biaya jasa pasang baja ringan berdasarkan jenis pemasangannya:
 
-*   Kanopi rangka baja ringan + Polikarbonat Lite: Rp 285.000 / m
-*   Kanopi rangka baja ringan + Spandek: Rp 225.000 / m
-*   Kanopi rangka baja ringan + Gogreen: Rp 200.000 / m
-*   Untuk perhitungan lainnya, silakan hubungi kami melalui kontak yang tertera di situs web kami.
+- Kanopi rangka baja ringan + Polikarbonat Lite: Rp 285.000 / m
+- Kanopi rangka baja ringan + Spandek: Rp 225.000 / m
+- Kanopi rangka baja ringan + Gogreen: Rp 200.000 / m
+- Untuk perhitungan lainnya, silakan hubungi kami melalui kontak yang tertera di situs web kami.
 
 ### Parameter Besaran Biaya Jasa Pasang Baja Ringan
 
@@ -86,10 +86,10 @@ Setelah pembuatan sketsa dan perhitungan rangka selesai, Anda dapat mendiskusika
 
 Berikut informasi rincian dari biaya jasa pasang baja ringan yang perlu Anda ketahui:
 
-*   Harga layanan kami sudah termasuk biaya pemasangan yang ekonomis dengan banyak diskon menarik.
-*   Harga yang kami tawarkan sesuai dengan layanan pemasangan, perhitungan, dan material yang digunakan.
-*   Kami selalu mengutamakan harga terbaik untuk Anda.
-*   Harga jasa pasang baja ringan dapat berubah sewaktu-waktu karena faktor material.
-*   Pembayaran dapat dilakukan dengan *down payment* dan sisanya setelah pemasangan selesai.
+- Harga layanan kami sudah termasuk biaya pemasangan yang ekonomis dengan banyak diskon menarik.
+- Harga yang kami tawarkan sesuai dengan layanan pemasangan, perhitungan, dan material yang digunakan.
+- Kami selalu mengutamakan harga terbaik untuk Anda.
+- Harga jasa pasang baja ringan dapat berubah sewaktu-waktu karena faktor material.
+- Pembayaran dapat dilakukan dengan *down payment* dan sisanya setelah pemasangan selesai.
 
 Anda bisa mempercayakan semua ini kepada kami. Sebagai penyedia Harga Pasang Atap Baja Ringan Di Kertamaya Bogor, kami siap membantu Anda dalam menentukan ukuran, kualitas, dan pemasangan yang sesuai dengan kebutuhan Anda tanpa membuang material berlebihan. Jangan ragu untuk menghubungi kami untuk konsultasi dan penawaran terbaik!

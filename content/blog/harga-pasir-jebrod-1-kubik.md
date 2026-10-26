@@ -17,8 +17,7 @@ draft: false
 
 {{< toc >}}
 
-
-### Apa Itu Pasir Jebrod dan Mengapa Penting?
+## Apa Itu Pasir Jebrod dan Mengapa Penting?
 
 Pasir jebrod adalah jenis pasir yang banyak digunakan dalam konstruksi, khususnya untuk campuran beton, plesteran, dan urugan. Pasir ini memiliki karakteristik butiran yang kasar, kuat, dan minim kandungan lumpur sehingga menghasilkan campuran yang lebih tahan lama dan stabil.  Kualitas pasir jebrod yang baik akan sangat mempengaruhi kekuatan dan kualitas bangunan Anda.  Bayangkan saja, jika pasir yang digunakan mengandung banyak kotoran, hasil akhirnya bisa jadi beton mudah retak dan bangunan tidak kokoh.
 
@@ -28,19 +27,19 @@ Harga pasir jebrod 1 kubik itu tidak saklek, *Mitra*. Ada beberapa hal yang bisa
 
 Sebagai gambaran, berikut ini beberapa faktor yang perlu Anda perhatikan:
 
-*   **Lokasi:** Harga di Jabodetabek tentu berbeda dengan di daerah lain.
-*   **Kualitas:** Pasir dengan kadar lumpur rendah dan ukuran butiran seragam biasanya lebih mahal.
-*   **Volume Pembelian:** Pembelian dalam jumlah besar biasanya mendapatkan harga lebih murah.
-*   **Jarak Pengiriman:** Semakin jauh jarak tempuh, semakin tinggi biaya transportasi.
-*   **Kondisi Pasar:** Permintaan dan penawaran di pasar juga bisa mempengaruhi harga.
+- **Lokasi:** Harga di Jabodetabek tentu berbeda dengan di daerah lain.
+- **Kualitas:** Pasir dengan kadar lumpur rendah dan ukuran butiran seragam biasanya lebih mahal.
+- **Volume Pembelian:** Pembelian dalam jumlah besar biasanya mendapatkan harga lebih murah.
+- **Jarak Pengiriman:** Semakin jauh jarak tempuh, semakin tinggi biaya transportasi.
+- **Kondisi Pasar:** Permintaan dan penawaran di pasar juga bisa mempengaruhi harga.
 
 ### Estimasi Harga Pasir Jebrod 1 Kubik di Tahun 2026
 
 Oke, sekarang kita masuk ke inti pertanyaan: berapa sih estimasi harga pasir jebrod 1 kubik di tahun 2026 ini?  Harga ini bersifat estimasi dan dapat berubah sewaktu-waktu — hubungi Kami untuk penawaran terbaru dan paling akurat sesuai kebutuhan proyek Mitra.  Berdasarkan data dan pengalaman Kami, berikut kisaran harga yang mungkin Anda temui:
 
-*   **Harga dasar pasir jebrod per kubik:** Mulai dari Rp 350.000 hingga Rp 500.000.
-*   **Biaya pengiriman per jarak:** Tergantung jarak tempuh, bisa mulai dari Rp 50.000 hingga Rp 200.000 per rit.
-*   **Biaya tambahan (jika ada):**  Misalnya, biaya bongkar muat atau biaya parkir.
+- **Harga dasar pasir jebrod per kubik:** Mulai dari Rp 350.000 hingga Rp 500.000.
+- **Biaya pengiriman per jarak:** Tergantung jarak tempuh, bisa mulai dari Rp 50.000 hingga Rp 200.000 per rit.
+- **Biaya tambahan (jika ada):**  Misalnya, biaya bongkar muat atau biaya parkir.
 
 ![Truk pengiriman pasir jebrod](/images/blog/harga-pasir-jebrod-1-truk.jpg)
 

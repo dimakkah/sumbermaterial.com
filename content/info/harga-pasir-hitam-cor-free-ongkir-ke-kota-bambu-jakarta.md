@@ -25,7 +25,7 @@ Menurut Standar Nasional Indonesia ( SK SNI - S - 04 - 1989 - F ; 28) di sebutka
 
 Syarat Pasir yg Baik Untuk Bangunan
 
-1.  Agregat Halus sepatutnya terdiri dari butiran yang tajam dan keras dengan indeks kekerasan <2.2
+1.  Agregat Halus sepatutnya terdiri dari butiran yang tajam dan keras dengan indeks kekerasan <2.2
 2. jikalau diterapkan Natrium Sulfat bagian hancur optimal 12 persen
 3. apabila dipakai Magnesium Sulfat bagian halus optimal 5 persen
 4. Tidak boleh memuat lumpur lebih dari 5 persen
@@ -41,7 +41,6 @@ Syarat Pasir yg Baik Untuk Bangunan
 Sesudah memahami syarat pasir untuk suatu Bangunan, pada saat ini kita bahas model - Jenis Pasir Untuk Konstruksi penjelasan nya sebagai berikut:
 
 - ### Pasir Tipe Rigid dan Tempat Pengambilannya Di Kota Bambu Jakarta
-    
 
 Pasir ini lazim nya berwarna hitam gelap dan tingkat pecahan butiran nya lumayan tinggi. Melainkan jika anda mengepal nya dengan tangan tak akan lengket dan akan hancur kembali. macam pasir ini amat lah baik buat Pengecoran, Plesteran Dinding, Adukan Pondasi dan Adukan Pasangan Bata Pasir ini yaitu pasir untuk Cor adalah butiran-butiran mineral keras dan tajam berukuran antara 0,075 – 5 mm, jikalau terdapat butiran berukuran lebih kecil dari 0,063 mm tidak lebih dari 5% berat. Pasir ini yaitu pasir untuk Cor hampir sering diterapkan untuk profesi cor-coran struktur seperti kolom, balok dan pelat lantai.
 
@@ -59,21 +58,18 @@ Untuk menerima kekokohan Cor yang optimal maka pasir patut dapat memenuhi prasya
 ![Harga Pasir Hitam Cor Free Ongkir Ke Kota Bambu Jakarta](/images/info/pasir-hitam-2.jpg)
 
 - ### Pasir Pasang Di Kota Bambu Jakarta
-    
 
 ![Harga Pasir Hitam Cor Free Ongkir Ke Kota Bambu Jakarta](/images/info/pasir-putih3.jpg)
 
 Pasir ini ekstra halus lagi dibandingkan oleh pasir beton. jikalau kalian mengepal pasir ini karenanya akan menggumpal dan tidak akan hancur kembali. pasir pasang biasa nya di gunakan untuk campuran pasir beton agar tak terlalu kasar dan dapat di manfaatkan untuk plesteran dinding.
 
 - ### Pasir Kualitas rendah Untuk Pembuatan Batako Di Kota Bambu Jakarta
-    
 
 Di Antara ke dua pasir diatas pasir model ini lebih halus lagi, jikalau kamu mengepal nya akan menggumpal dan tidak akan buyar lagi. tapi pasir macam
 
 Pada biasa nya pasir ini nyaris sama dengan pasir beton melainkan pasir ini mempunyai tingkat kekasaran yang tinggi, butiran - butiran nya lumayan besar dan agak banyak batuan nya. pada umumnya pasir jenis ini bagus untuk bahan dasaran pemasangan keramik
 
 - ### Pasir Putih Bebas Lumpur Untuk Pasang Lantai Marmer Di Kota Bambu Jakarta
-    
 
 1. **Pasir Putih Bangka**
 

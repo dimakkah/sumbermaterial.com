@@ -25,7 +25,7 @@ Berdasarkan Standar Nasional Indonesia ( SK SNI - S - 04 - 1989 - F ; 28) di tut
 
 Persyaratan Pasir yang Baik buat Bangunan
 
-1.  Agregat Halus sepatutnya terdiri dari butiran yg tajam dan keras dengan indeks kekerasan <2.2
+1.  Agregat Halus sepatutnya terdiri dari butiran yg tajam dan keras dengan indeks kekerasan <2.2
 2. Jika dipakai Natrium Sulfat bagian hancur maksimal dua belas persen
 3. kalau diterapkan Magnesium Sulfat komponen halus maksimal sepuluh %
 4. Tidak boleh memuat lumpur lebih dari lima persen
@@ -41,7 +41,6 @@ Persyaratan Pasir yang Baik buat Bangunan
 setelah memahami persyaratan pasir buat sebuah Bangunan, pada saat ini kita bahas Macam - Jenis Pasir Untuk Konstruksi penjelasan nya sbb:
 
 - ### Pasir Rigid Di Jayakerta Karawang
-    
 
 Pasir ini lazim nya berwarna keabu-abuan dan tingkat pecahan butiran nya cukup tinggi. Melainkan kalau anda mengepal nya dengan tangan tidak akan menggumpal dan akan hancur kembali. ragam pasir ini amat lah bagus buat Pengecoran, Plesteran Dinding, Adukan Pondasi dan Adukan Pasangan Bata Pasir ini yaitu pasir untuk Cor ialah butiran-butiran mineral keras dan tajam berukuran antara 0,075 – 5 mm, jika terdapat butiran berukuran lebih kecil dari 0,063 mm tidak lebih dari 5% berat. Pasir ini yaitu pasir untuk Cor acap kali diaplikasikan untuk pekerjaan cor-coran struktur seperti kolom, balok dan pelat lantai.
 
@@ -59,21 +58,18 @@ Untuk mendapat ketahanan Rigid yang maksimal karenanya pasir seharusnya dapat me
 ![Harga Pasir Putih Bangka Free Ongkir Ke Jayakerta Karawang](/images/info/pasir-hitam-7.jpg)
 
 - ### Pasir Standar Di Jayakerta Karawang
-    
 
 ![Harga Pasir Putih Bangka Free Ongkir Ke Jayakerta Karawang](/images/info/pasir-hitam-11.jpg)
 
 Pasir ini ekstra halus lagi diperbandingkan oleh pasir beton. sekiranya anda mengepal pasir ini maka akan menggumpal dan tak akan hancur kembali. pasir pasang biasa nya di gunakan untuk adukan pasir beton agar tak terlalu kasar dan dapat di gunakan untuk plesteran dinding.
 
 - ### Pasir Kualitas rendah Untuk Pembuatan Batako Di Jayakerta Karawang
-    
 
 Di Antara ke dua pasir diatas pasir tipe ini lebih halus lagi, sekiranya kamu mengepal nya karenanya akan menggumpal dan tak akan buyar lagi. tapi pasir jenis
 
 Pada nya pasir ini nyaris sama dgn pasir beton tetapi pasir ini mempunyai tingkat kekasaran yg tinggi, butiran - butiran nya cukup besar dan agak banyak batuan nya. pada lazimnya pasir jenis ini baik tuk bahan pemadatan lantai
 
 - ### Pasir Putih Tanpa Ayak Untuk Pasang Bata Di Jayakerta Karawang
-    
 
 1. **Pasir Putih Bangka**
 

@@ -25,7 +25,7 @@ menurut Standar Nasional Indonesia ( SK SNI - S - 04 - 1989 - F ; 28) di sebutka
 
 Syarat Pasir yg Baik buat Bangunan
 
-1.  Agregat Halus harus terdiri dari butiran yg tajam dan keras dengan indeks kekerasan <2.2
+1.  Agregat Halus harus terdiri dari butiran yg tajam dan keras dengan indeks kekerasan <2.2
 2. Jikalau dipakai Natrium Sulfat bagian hancur optimal dua belas %
 3. Apabila dipakai Magnesium Sulfat bagian halus maksimal sepuluh %
 4. Tak boleh mengandung lumpur lebih dari 5 persen
@@ -41,7 +41,6 @@ Syarat Pasir yg Baik buat Bangunan
 Sesudah mengenal syarat pasir buat sebuah Konstruksi, saat ini kita bahas Macam - Tipe Pasir Untuk Konstruksi Bangunan penjelasan nya berikut ini:
 
 - ### Pasir Untuk Pengecoran Di Batuceper Tangerang
-    
 
 Pasir ini lazim nya berwarna coklat tua dan tingkat kekerasan butiran nya cukup tinggi. Tapi apabila anda mengepal nya dengan tangan tak akan menggumpal dan akan hancur kembali. jenis pasir ini sangat lah bagus tuk Pengecoran, Plesteran Dinding, Adukan Pondasi dan Adukan Pasangan Bata Pasir ini yaitu pasir untuk Rigid ialah butiran-butiran mineral keras dan tajam berukuran antara 0,075 – 5 mm, sekiranya terdapat butiran berukuran lebih kecil dari 0,063 mm tak lebih dari 5% berat. Pasir ini yaitu pasir untuk Cor hampir kerap dimanfaatkan untuk pekerjaan cor-coran struktur seperti kolom, balok dan pelat lantai.
 
@@ -59,21 +58,18 @@ Untuk memperoleh kekuatan Cor yang maksimal karenanya pasir wajib bisa memenuhi 
 ![Harga Pasir Putih Bangka Free Ongkir Ke Batuceper Tangerang](/images/info/jual-pasir-cor-hitam.jpg)
 
 - ### Pasir Pasang Di Batuceper Tangerang
-    
 
 ![Harga Pasir Putih Bangka Free Ongkir Ke Batuceper Tangerang](/images/info/jual-pasir-mundu-2.jpg)
 
 Pasir ini ekstra halus lagi dibandingi oleh pasir beton. apabila anda mengepal pasir ini maka akan menggumpal dan tak akan hancur kembali. pasir pasang umum nya di gunakan untuk adukan pasir beton agar tak terlalu kasar dan bisa di pakai untuk plesteran dinding.
 
 - ### Pasir Elod Untuk Pembuatan Batako Di Batuceper Tangerang
-    
 
 Di Antara ke dua pasir diatas pasir tipe ini lebih halus lagi, sekiranya kalian mengepal nya akan menggumpal dan tidak akan buyar lagi. namun pasir jenis
 
 Pada umum nya pasir ini nyaris sama dengan pasir beton akan namun pasir ini memiliki tingkat kekasaran yg tinggi, butiran - butiran nya cukup besar dan agak banyak batuan nya. pada umumnya pasir jenis ini bagus untuk bahan dasaran pemasangan keramik
 
 - ### Pasir Putih Bebas Lumpur Untuk Pasang Lantai Marmer Di Batuceper Tangerang
-    
 
 1. **Pasir Putih Bangka**
 

@@ -25,7 +25,7 @@ berdasarkan Standar Nasional Indonesia ( SK SNI - S - 04 - 1989 - F ; 28) di tut
 
 Persyaratan Pasir yg Bagus tuk Bangunan
 
-1.  Agregat Halus semestinya terdiri dari butiran yg tajam dan keras dengan indeks kekerasan <2.2
+1.  Agregat Halus semestinya terdiri dari butiran yg tajam dan keras dengan indeks kekerasan <2.2
 2. Apabila diaplikasikan Natrium Sulfat bagian hancur optimal dua belas persen
 3. bila digunakan Magnesium Sulfat komponen halus maksimal sepuluh %
 4. Tak boleh memuat lumpur lebih dari 5 persen
@@ -41,7 +41,6 @@ Persyaratan Pasir yg Bagus tuk Bangunan
 Sesudah mengenal persyaratan pasir buat sebuah Bangunan, sekarang ini kita bahas Macam - Jenis Pasir Untuk Konstruksi Bangunan penjelasan nya berikut ini:
 
 - ### Pasir Rigid Di Ciputat Tangerang
-    
 
 Pasir ini umum nya berwarna keabu-abuan dan tingkat kekerasan butiran nya cukup tinggi. Tetapi jika anda mengepal nya dengan tangan tidak akan menggumpal dan akan buyar kembali. jenis pasir ini amat lah bagus untuk Pengecoran, Plesteran Dinding, Adukan Pondasi dan Adukan Pasangan Bata Pasir ini yaitu pasir untuk Cor yakni butiran-butiran mineral keras dan tajam berukuran antara 0,075 – 5 mm, bila terdapat butiran berukuran lebih kecil dari 0,063 mm tidak lebih dari 5% berat. Pasir ini yaitu pasir untuk Rigid kerap diterapkan untuk pekerjaan cor-coran struktur seperti kolom, balok dan pelat lantai.
 
@@ -59,21 +58,18 @@ Untuk mendapatkan kekuatan Rigid yang maksimal maka pasir wajib mampu memenuhi p
 ![Harga Pasir Ekstra Beton Free Ongkir Ke Ciputat Tangerang](/images/info/pasir-hitam-9.jpg)
 
 - ### Pasir Untuk Pemasangan Batu, Pondasi, Bata, Ubin, Plester Di Ciputat Tangerang
-    
 
 ![Harga Pasir Ekstra Beton Free Ongkir Ke Ciputat Tangerang](/images/info/pasir-hitam-11.jpg)
 
 Pasir ini lebih halus lagi dibandingkan oleh pasir beton. kalau kalian mengepal pasir ini maka akan menggumpal dan tidak akan buyar kembali. pasir pasang biasa nya di manfaatkan buat campuran pasir beton supaya tak terlampau kasar dan bisa di gunakan untuk plesteran dinding.
 
 - ### Pasir Urug Untuk Pembuatan Batako Di Ciputat Tangerang
-    
 
 Di Antara ke dua pasir diatas pasir macam ini lebih halus lagi, jika anda mengepal nya akan menggumpal dan tidak akan buyar lagi. tetapi pasir ragam tak bagus tuk di buat sebagai bahan bangunan. pasir macam ini pada nya di manfaatkan tuk Bahan Pembuatan Batako
 
 Pada nya pasir ini nyaris sama dengan pasir beton melainkan pasir ini memiliki tingkat kekasaran yg tinggi, butiran - butiran nya lumayan besar dan agak banyak batuan nya. pada lazimnya pasir jenis ini baik tuk bahan pengurugan lantai
 
 - ### Pasir Putih Bebas Lumpur Untuk Hiasan Di Ciputat Tangerang
-    
 
 1. **Pasir Putih Bangka**
 

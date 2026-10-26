@@ -25,7 +25,7 @@ Menurut Standar Nasional Indonesia ( SK SNI - S - 04 - 1989 - F ; 28) di sebutka
 
 Prasyarat Pasir yang Baik Untuk Konstruksi
 
-1.  Agregat Halus semestinya terdiri dari butiran yg tajam dan keras dengan indeks kekerasan <2.2
+1.  Agregat Halus semestinya terdiri dari butiran yg tajam dan keras dengan indeks kekerasan <2.2
 2. bila diaplikasikan Natrium Sulfat komponen hancur maksimal dua belas %
 3. Sekiranya digunakan Magnesium Sulfat bagian halus maksimal 5 persen
 4. Tidak boleh berisi lumpur lebih dari lima persen
@@ -41,7 +41,6 @@ Prasyarat Pasir yang Baik Untuk Konstruksi
 Sesudah mengenal prasyarat pasir untuk suatu Konstruksi Bangunan, pada saat ini kita bahas Jenis - model Pasir Untuk Bangunan penjelasan nya berikut ini:
 
 - ### Pasir Tipe Rigid dan Tempat Sumbernya Di Pademangan Jakarta
-    
 
 Pasir ini biasa nya berwarna hitam gelap dan tingkat pecahan butiran nya lumayan tinggi. Namun jika anda mengepal nya dengan tangan tak akan menggumpal dan akan hancur kembali. jenis pasir ini sungguh-sungguh lah baik untuk Pengecoran, Plesteran Dinding, Adukan Pondasi dan Adukan Pasangan Bata Pasir ini yaitu pasir untuk Cor yaitu butiran-butiran mineral keras dan tajam berukuran antara 0,075 – 5 mm, seandainya terdapat butiran berukuran lebih kecil dari 0,063 mm tidak lebih dari 5% berat. Pasir ini yaitu pasir untuk Rigid sering dipakai untuk pekerjaan cor-coran struktur seperti kolom, balok dan pelat lantai.
 
@@ -59,21 +58,18 @@ Untuk menerima ketahanan Rigid yang maksimal maka pasir harus sanggup memenuhi s
 ![Harga Pasir Jebrod Free Ongkir Ke Pademangan Jakarta](/images/info/pasir-hitam-7.jpg)
 
 - ### Pasir Standar Di Pademangan Jakarta
-    
 
 ![Harga Pasir Jebrod Free Ongkir Ke Pademangan Jakarta](/images/info/pasir-putih12.jpg)
 
 Pasir ini ekstra halus lagi dibandingi oleh pasir beton. bila kalian mengepal pasir ini karenanya akan menggumpal dan tak akan buyar kembali. pasir pasang lazim nya di manfaatkan tuk adukan pasir beton supaya tidak terlampau kasar dan dapat di manfaatkan untuk plesteran dinding.
 
 - ### Pasir Elod Untuk pemadatan lantai Di Pademangan Jakarta
-    
 
 Di Antara ke dua pasir diatas pasir macam ini lebih halus lagi, jikalau anda mengepal nya akan menggumpal dan tidak akan buyar lagi. namun pasir tipe
 
 Pada umum nya pasir ini nyaris sama dgn pasir beton melainkan pasir ini mempunyai tingkat kekasaran yg tinggi, butiran - butiran nya cukup besar dan agak banyak batuan nya. pada umumnya pasir tipe ini bagus tuk bahan pemadatan lantai
 
 - ### Pasir Putih Bebas Lumpur Untuk Lapangan Voly Di Pademangan Jakarta
-    
 
 1. **Pasir Putih Bangka**
 

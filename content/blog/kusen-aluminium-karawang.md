@@ -17,7 +17,6 @@ draft: false
 
 {{< toc >}}
 
-
 ## Mengapa Kusen Aluminium Jadi Pilihan Populer di Karawang?
 
 Mitra, kenapa kusen aluminium begitu digandrungi? Jawabannya ada pada kombinasi keunggulan yang sulit ditandingi material lain. Pertama, aluminium ringan namun kuat. Ini mempermudah proses pemasangan dan mengurangi beban struktur bangunan, terutama untuk desain modern dengan jendela berukuran besar. Kedua, material ini tahan karat, cuaca ekstrem, dan serangan hama, menjadikannya pilihan ideal untuk iklim tropis seperti di Indonesia. Ketiga, kusen aluminium menawarkan fleksibilitas desain yang tinggi. Aluminium mudah dibentuk dan dicat, sehingga bisa disesuaikan dengan berbagai gaya arsitektur.
@@ -28,16 +27,15 @@ Selain itu, kusen aluminium juga relatif terjangkau dibandingkan material lain s
 
 Ada beberapa jenis kusen aluminium yang umum digunakan di Karawang, masing-masing dengan karakteristik dan harga yang berbeda. Berikut beberapa di antaranya:
 
-*   **Kusen Aluminium Biasa:** Ini adalah jenis yang paling ekonomis dan sering digunakan untuk proyek perumahan sederhana. Biasanya menggunakan profil aluminium standar dengan ketebalan yang lebih tipis.
-*   **Kusen Aluminium YKK:** YKK adalah merek terkenal yang dikenal dengan kualitas dan presisi tinggi. Kusen aluminium YKK menawarkan kekuatan dan daya tahan yang lebih baik, serta berbagai pilihan finishing.
-*   **Kusen Aluminium Alexindo:** Sama seperti YKK, Alexindo juga merupakan merek terkemuka yang menawarkan kualitas premium. Kusen aluminium Alexindo sering digunakan untuk proyek komersial dan residensial kelas atas.
-*   **Kusen Aluminium 5040:** Angka ini mengacu pada dimensi profil aluminium (50mm x 40mm). Jenis ini cocok untuk jendela dan pintu dengan ukuran standar.
-*   **Kusen Aluminium 3 Inch:**  Ini adalah ukuran lain yang populer, menawarkan keseimbangan antara kekuatan dan estetika.
+- **Kusen Aluminium Biasa:** Ini adalah jenis yang paling ekonomis dan sering digunakan untuk proyek perumahan sederhana. Biasanya menggunakan profil aluminium standar dengan ketebalan yang lebih tipis.
+- **Kusen Aluminium YKK:** YKK adalah merek terkenal yang dikenal dengan kualitas dan presisi tinggi. Kusen aluminium YKK menawarkan kekuatan dan daya tahan yang lebih baik, serta berbagai pilihan finishing.
+- **Kusen Aluminium Alexindo:** Sama seperti YKK, Alexindo juga merupakan merek terkemuka yang menawarkan kualitas premium. Kusen aluminium Alexindo sering digunakan untuk proyek komersial dan residensial kelas atas.
+- **Kusen Aluminium 5040:** Angka ini mengacu pada dimensi profil aluminium (50mm x 40mm). Jenis ini cocok untuk jendela dan pintu dengan ukuran standar.
+- **Kusen Aluminium 3 Inch:**  Ini adalah ukuran lain yang populer, menawarkan keseimbangan antara kekuatan dan estetika.
 
 ![Contoh kusen aluminium minimalis di sebuah rumah modern](/images/blog/kusen-aluminium-karawang.jpg)
 
 Untuk membantu Anda memahami perbedaan secara lebih jelas, berikut tabel perbandingan singkat:
-
 
 <table class="table">
   <caption>Perbandingan Jenis Kusen Aluminium</caption>
@@ -53,14 +51,13 @@ Untuk membantu Anda memahami perbedaan secara lebih jelas, berikut tabel perband
   </tbody>
 </table>
 
-
 ## Estimasi Harga Kusen Aluminium di Karawang (2026)
 
 Harga kusen aluminium di Karawang sangat bervariasi, tergantung pada jenis aluminium, ukuran, desain, dan penyedia jasa. Namun, sebagai gambaran, berikut perkiraan harga per meter persegi:
 
-*   **Kusen Aluminium Biasa:** Rp 250.000 - Rp 400.000
-*   **Kusen Aluminium YKK:** Rp 450.000 - Rp 700.000
-*   **Kusen Aluminium Alexindo:** Rp 600.000 - Rp 900.000+
+- **Kusen Aluminium Biasa:** Rp 250.000 - Rp 400.000
+- **Kusen Aluminium YKK:** Rp 450.000 - Rp 700.000
+- **Kusen Aluminium Alexindo:** Rp 600.000 - Rp 900.000+
 
 Harga ini bersifat estimasi dan dapat berubah sewaktu-waktu — hubungi Kami untuk penawaran terbaru dan paling akurat sesuai kebutuhan proyek Mitra. Perlu diingat juga bahwa harga tersebut belum termasuk biaya pemasangan, yang biasanya berkisar antara Rp 50.000 - Rp 150.000 per meter tergantung pada kompleksitas pemasangan. Anda juga bisa menemukan [harga kusen aluminium per meter di Abadijaya Depok](/kusen/harga-kusen-alumunium-per-meter-di-abadijaya-depok/) sebagai referensi tambahan.
 

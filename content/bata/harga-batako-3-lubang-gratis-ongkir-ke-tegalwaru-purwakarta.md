@@ -16,7 +16,7 @@ dikala ini bahan yang diaplikasikan untuk mengisi tembok bangunan, sudah terdapa
 
 ## Mengetahui Macam-macam Bata
 
-### 1\. Bata Merah Standar & Jumbo Di Tegalwaru Purwakarta
+### 1. Bata Merah Standar & Jumbo Di Tegalwaru Purwakarta
 
 ![Harga Batako 3 Lubang Gratis Ongkir Ke Tegalwaru Purwakarta](/images/bata/bata-merah-oven-03.png)
 
@@ -26,7 +26,7 @@ Bata merah ini diproduksi dari material tanah yg kemudian di bentuk dan dipanask
 
 Bahan bangunan ini sangat tahan kepada panas dan sesuai dijadikan pengamanan dari panas api. Bata merah ini pada lazimnya memiliki ukuran panjang antara 17-23 cm dan lebar sekitar 7-11 cm, serta tebalnya 3-5 cm. memiliki ukuran yg lebih kecil akan memberi kemudahan dalam progres pengangkutan dan bisa dipakai untuk membentuk bidang kecil.
 
-### 2\. Batako Hitam dan Putih Di Tegalwaru Purwakarta
+### 2. Batako Hitam dan Putih Di Tegalwaru Purwakarta
 
 ![Harga Batako 3 Lubang Gratis Ongkir Ke Tegalwaru Purwakarta](/images/bata/batako-hitam-press-31.png)
 
@@ -34,7 +34,7 @@ Material bangunan tembok dari batako press ini secara umum terbuat dari material
 
 Batako seperti ini memiliki kekurangan seperti gampang retak, lebih panas dan pengap. Berbeda dengan bata merah yang terbuat dari material tanah. Tapi batako press ini cenderung lebih ringan daripada bata merah. Hasilnya akan kelihatan lebih halus dan ukurannya lebih presisi seandainya dibandingkan dengan bata merah. Batako Hitam ini memiliki ukuran panjang sekitar 36-40 cm, tinggi 18-20 cm dan tebal 8-10 cm. material ini kerap dipilih karena untuk memperingan bobot struktur bangunan, meminimalisir sisa material dan mempercepat pembangunan.
 
-### 3\. Bata Herbel Di Tegalwaru Purwakarta
+### 3. Bata Herbel Di Tegalwaru Purwakarta
 
 ![Harga Batako 3 Lubang Gratis Ongkir Ke Tegalwaru Purwakarta](/images/bata/bata-hebel-sni-08.png)
 
@@ -62,7 +62,7 @@ Semua tentunya telah tahu fungsi utama batu bata mulai dipakai untuk membuat tem
 
 Metode mengorder batu bata yg aman dan terpercaya:
 
-1.  Proses pembayaran bisa anda lakukan secara COD atau dibayar di tempat dikala barang orderan anda sudah datang di daerah
+1.  Proses pembayaran bisa anda lakukan secara COD atau dibayar di tempat dikala barang orderan anda sudah datang di daerah
 2. Silahkan memilih dan memutuskan material batu bata yang anda inginkan
 3. Tentukan juga jumlah orderan batu bata yg anda butuhkan dalam format bijian.
 4. Anda bisa menghubungi layanan telepon kios untuk memudahkan pengerjaan pengorderan

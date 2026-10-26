@@ -16,7 +16,7 @@ dikala ini bahan yg dipakai untuk mengisi dinding tempat tinggal, telah terdapat
 
 ## Mengenal Jenis-jenis Bata
 
-### 1\. Bata Merah Standar & Jumbo Di Pancoran Mas Depok
+### 1. Bata Merah Standar & Jumbo Di Pancoran Mas Depok
 
 ![Harga Batako Beton Gratis Ongkir Ke Pancoran Mas Depok](/images/bata/bata-merah-oven-18.png)
 
@@ -26,7 +26,7 @@ Bata merah ini dibuat dari material tanah yang kemudian di cetak dan dipanaskan 
 
 Material bangunan ini benar-benar kuat terhadap panas dan layak dibuat perlindungan dari panas api. Bata merah ini pada biasanya memiliki ukuran panjang antara 17-23 cm dan lebar sekitar 7-11 cm, serta tebalnya 3-5 cm. mempunyai ukuran yg lebih kecil akan memberi kemudahan dalam pengerjaan pengangkutan dan bisa dipakai untuk menyusun bidang kecil.
 
-### 2\. Batako Hitam dan Putih Di Pancoran Mas Depok
+### 2. Batako Hitam dan Putih Di Pancoran Mas Depok
 
 ![Harga Batako Beton Gratis Ongkir Ke Pancoran Mas Depok](/images/bata/batako-hitam-press-09.png)
 
@@ -34,7 +34,7 @@ Material bangunan tembok dari batako trus ini secara lazimnya terbuat dari mater
 
 Batako trus seperti ini mempunyai kelemahan seperti gampang pecah, lebih panas dan pengap. Berbeda dg bata merah yg terbuat dari material tanah. Namun batako ini cenderung lebih ringan ketimbang bata merah. Akhirnya akan nampak lebih halus dan ukurannya lebih presisi kalau dibandingkan dengan bata merah. Batako press Hitam ini memiliki ukuran panjang sekitar 36-40 cm, tinggi 18-20 cm dan tebal 8-10 cm. material ini tak jarang dipilih karena untuk memperingan muatan struktur bangunan, meminimalisir sisa bahan dan mempermudah pembangunan.
 
-### 3\. Bata Ringan Di Pancoran Mas Depok
+### 3. Bata Ringan Di Pancoran Mas Depok
 
 ![Harga Batako Beton Gratis Ongkir Ke Pancoran Mas Depok](/images/bata/bata-hebel-sni-01.png)
 
@@ -62,7 +62,7 @@ Segalanya tentu telah tahu kegunaan utama batu bata mulai dipakai untuk membuat 
 
 Cara memesan batu bata yang aman dan terpercaya:
 
-1.  Pengerjaan pembayaran bisa anda lakukan secara COD atau dibayar di daerah saat barang orderan anda sudah datang di daerah
+1.  Pengerjaan pembayaran bisa anda lakukan secara COD atau dibayar di daerah saat barang orderan anda sudah datang di daerah
 2. Silahkan memilih dan memastikan bahan batu bata yang anda inginkan
 3. Tentukan juga jumlah pesanan batu bata yg anda butuhkan dalam format bijian.
 4. Anda bisa menghubungi layanan telepon warung untuk memudahkan pelaksanaan pemesanan

@@ -25,7 +25,7 @@ Menurut Standar Nasional Indonesia ( SK SNI - S - 04 - 1989 - F ; 28) di tuturka
 
 Syarat Pasir yg Bagus Untuk Konstruksi Bangunan
 
-1.  Agregat Halus semestinya terdiri dari butiran yg tajam dan keras dengan indeks kekerasan <2.2
+1.  Agregat Halus semestinya terdiri dari butiran yg tajam dan keras dengan indeks kekerasan <2.2
 2. bilamana digunakan Natrium Sulfat bagian hancur optimal 12 persen
 3. bila diterapkan Magnesium Sulfat komponen halus optimal 10%
 4. Tidak boleh memuat clay lebih dari 5 persen
@@ -41,7 +41,6 @@ Syarat Pasir yg Bagus Untuk Konstruksi Bangunan
 Setelah tahu persis syarat pasir untuk suatu Konstruksi, pada saat ini kita bahas Tipe - Tipe Pasir Untuk Konstruksi penjelasan nya sebagai berikut:
 
 - ### Pasir Untuk Pengecoran Di Grogol Depok
-    
 
 Pasir ini biasa nya berwarna hitam kemerahan dan tingkat kekerasan butiran nya cukup tinggi. Tapi kalau anda mengepal nya dengan tangan tidak akan lengket dan akan buyar kembali. model pasir ini amat lah baik buat Pengecoran, Plesteran Dinding, Adukan Pondasi dan Adukan Pasangan Bata Pasir ini yaitu pasir untuk Cor ialah butiran-butiran mineral keras dan tajam berukuran antara 0,075 – 5 mm, kalau terdapat butiran berukuran lebih kecil dari 0,063 mm tidak lebih dari 5% berat. Pasir ini yaitu pasir untuk Cor tak jarang diaplikasikan untuk profesi cor-coran struktur seperti kolom, balok dan pelat lantai.
 
@@ -59,21 +58,18 @@ Untuk mendapat kekuatan Rigid yang optimal karenanya pasir mesti dapat memenuhi 
 ![Harga Pasir Mundu Free Ongkir Ke Grogol Depok](/images/info/pasir-hitam-9.jpg)
 
 - ### Pasir Biasa Di Grogol Depok
-    
 
 ![Harga Pasir Mundu Free Ongkir Ke Grogol Depok](/images/info/pasir-putih12.jpg)
 
 Pasir ini ekstra halus lagi dibandingi oleh pasir beton. kalau kamu mengepal pasir ini karenanya akan menggumpal dan tak akan hancur kembali. pasir pasang umum nya di gunakan buat campuran pasir beton supaya tak terlampau kasar dan bisa di manfaatkan untuk plesteran dinding.
 
 - ### Pasir Elod Untuk pemadatan lantai Di Grogol Depok
-    
 
 Di Antara ke dua pasir diatas pasir jenis ini lebih halus lagi, jika kalian mengepal nya karenanya akan menggumpal dan tidak akan hancur lagi. melainkan pasir tipe
 
 Pada nya pasir ini nyaris sama dengan pasir beton akan namun pasir ini memiliki tingkat kekasaran yg tinggi, butiran - butiran nya lumayan besar dan agak banyak batuan nya. pada biasanya pasir macam ini baik untuk bahan pengurugan lantai
 
 - ### Pasir Putih Halus Untuk Pasang Bata Di Grogol Depok
-    
 
 1. **Pasir Putih Bangka**
 

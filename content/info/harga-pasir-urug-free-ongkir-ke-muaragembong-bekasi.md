@@ -25,7 +25,7 @@ berdasarkan Standar Nasional Indonesia ( SK SNI - S - 04 - 1989 - F ; 28) di tut
 
 Prasyarat Pasir yg Baik buat Konstruksi
 
-1.  Agregat Halus patut terdiri dari butiran yang tajam dan keras dengan indeks kekerasan <2.2
+1.  Agregat Halus patut terdiri dari butiran yang tajam dan keras dengan indeks kekerasan <2.2
 2. bilamana dimanfaatkan Natrium Sulfat bagian hancur optimal dua belas %
 3. bila diterapkan Magnesium Sulfat bagian halus maksimal 10%
 4. Tak boleh berisi lumpur lebih dari lima persen
@@ -41,7 +41,6 @@ Prasyarat Pasir yg Baik buat Konstruksi
 Setelah mengenal prasyarat pasir untuk suatu Bangunan, sekarang ini kita bahas Tipe - Jenis Pasir Untuk Konstruksi Bangunan penjelasan nya sebagai berikut:
 
 - ### Pasir Beton Di Muaragembong Bekasi
-    
 
 Pasir ini biasa nya berwarna hitam gelap dan tingkat kekerasan butiran nya lumayan tinggi. Tetapi jika anda mengepal nya dengan tangan tak akan menggumpal dan akan buyar kembali. tipe pasir ini betul-betul lah bagus buat Pengecoran, Plesteran Dinding, Adukan Pondasi dan Adukan Pasangan Bata Pasir ini yaitu pasir untuk Rigid yakni butiran-butiran mineral keras dan tajam berukuran antara 0,075 – 5 mm, kalau terdapat butiran berukuran lebih kecil dari 0,063 mm tidak lebih dari 5% berat. Pasir ini yaitu pasir untuk Rigid kerap dimanfaatkan untuk pekerjaan cor-coran struktur seperti kolom, balok dan pelat lantai.
 
@@ -59,21 +58,18 @@ Untuk mendapatkan kekuatan Rigid yang maksimal karenanya pasir seharusnya dapat 
 ![Harga Pasir Urug Free Ongkir Ke Muaragembong Bekasi](/images/info/pasir-hitam-1.jpg)
 
 - ### Pasir Untuk Adukan Pasang Batu, Pondasi, Bata, Ubin, Plester Di Muaragembong Bekasi
-    
 
 ![Harga Pasir Urug Free Ongkir Ke Muaragembong Bekasi](/images/info/pasir-putih3.jpg)
 
 Pasir ini lebih halus lagi dibandingi oleh pasir beton. jikalau anda mengepal pasir ini maka akan menggumpal dan tidak akan buyar kembali. pasir pasang biasa nya di pakai tuk campuran pasir beton supaya tak kelewat kasar dan dapat di pakai untuk plesteran dinding.
 
 - ### Pasir Elod Untuk Pembuatan Batako Di Muaragembong Bekasi
-    
 
 Di Antara ke dua pasir diatas pasir jenis ini lebih halus lagi, bila anda mengepal nya akan menggumpal dan tidak akan buyar lagi. melainkan pasir macam
 
 Pada nya pasir ini nyaris sama dengan pasir beton tetapi pasir ini memiliki tingkat kekasaran yg tinggi, butiran - butiran nya lumayan besar dan agak banyak batuan nya. pada umumnya pasir tipe ini baik tuk bahan dasaran pemasangan keramik
 
 - ### Pasir Putih Tanpa Batu Untuk Hiasan Di Muaragembong Bekasi
-    
 
 1. **Pasir Putih Bangka**
 

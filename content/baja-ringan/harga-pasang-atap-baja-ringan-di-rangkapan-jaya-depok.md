@@ -21,13 +21,13 @@ Pemasangan baja ringan untuk keperluan bangunan bisa dikerjakan dengan cukup mud
 
 Berikut ini kami berikan beberapa alasan mendasar yang perlu Anda ketahui sebelum menghubungi kami. Alasan-alasan ini akan menjawab pertanyaan: mengapa memilih baja ringan sebagai kerangka atap dan *canopy*?
 
-*   Baja ringan dianggap lebih ramah lingkungan karena Anda tidak membutuhkan kayu, yang berarti tidak perlu menebang pohon. Dengan menerapkan kerangka baja ringan sebagai kerangka atap dan *canopy*, Anda sudah turut berkontribusi dalam melestarikan alam.
-*   Lebih ekonomis. Jika Anda menggunakan kerangka dari bahan kayu, kami rasa harganya akan jauh lebih mahal karena untuk mendapatkan kayu dengan mutu terbaik dibutuhkan juga tarif yang lebih besar. Terlebih ini untuk bagian kerangka yang pastinya cukup krusial untuk sebuah bangunan. Anda perlu memikirkan ini matang-matang untuk menekan biaya pembangunan.
-*   Ringan dan kuat. Baja ringan berbeda dengan "baja/besi" yang memiliki berat 2 kali lipat dari berat baja ringan. Baja ringan ini memiliki ketebalan yang tipis dan ringan, sehingga sangat kuat untuk kerangka atap dan pembuatan *canopy* rumah Anda.
-*   Tidak memerlukan perawatan rutin. Anda tidak perlu khawatir kerangka atap Anda rusak dan lain-lain. Kami yakin ini akan membebaskan Anda dari perawatan tahunan.
-*   Proses pemasangan yang cepat. Ini berbeda dengan kerangka atap yang terbuat dari bahan kayu dan bahan lain, yang memerlukan waktu yang lama dalam prosesnya. Hal ini tidak berlaku bagi Anda yang memakai kerangka atap dari bahan baja ringan.
-*   Bahan berkualitas. Baja ringan dari kami bukanlah baja ringan sembarangan. Bahan utamanya adalah *zinc* dan aluminium yang sudah memiliki sertifikasi dan standar keamanan 4 kali lebih baik dibandingkan baja biasa. Bahkan kekuatannya dapat menopang beban berkilo-kilo.
-*   Tahan terhadap rayap. Kami pastikan bahwa kerangka atap dan *canopy* dari baja ringan ini dijamin tahan terhadap serangan rayap.
+- Baja ringan dianggap lebih ramah lingkungan karena Anda tidak membutuhkan kayu, yang berarti tidak perlu menebang pohon. Dengan menerapkan kerangka baja ringan sebagai kerangka atap dan *canopy*, Anda sudah turut berkontribusi dalam melestarikan alam.
+- Lebih ekonomis. Jika Anda menggunakan kerangka dari bahan kayu, kami rasa harganya akan jauh lebih mahal karena untuk mendapatkan kayu dengan mutu terbaik dibutuhkan juga tarif yang lebih besar. Terlebih ini untuk bagian kerangka yang pastinya cukup krusial untuk sebuah bangunan. Anda perlu memikirkan ini matang-matang untuk menekan biaya pembangunan.
+- Ringan dan kuat. Baja ringan berbeda dengan "baja/besi" yang memiliki berat 2 kali lipat dari berat baja ringan. Baja ringan ini memiliki ketebalan yang tipis dan ringan, sehingga sangat kuat untuk kerangka atap dan pembuatan *canopy* rumah Anda.
+- Tidak memerlukan perawatan rutin. Anda tidak perlu khawatir kerangka atap Anda rusak dan lain-lain. Kami yakin ini akan membebaskan Anda dari perawatan tahunan.
+- Proses pemasangan yang cepat. Ini berbeda dengan kerangka atap yang terbuat dari bahan kayu dan bahan lain, yang memerlukan waktu yang lama dalam prosesnya. Hal ini tidak berlaku bagi Anda yang memakai kerangka atap dari bahan baja ringan.
+- Bahan berkualitas. Baja ringan dari kami bukanlah baja ringan sembarangan. Bahan utamanya adalah *zinc* dan aluminium yang sudah memiliki sertifikasi dan standar keamanan 4 kali lebih baik dibandingkan baja biasa. Bahkan kekuatannya dapat menopang beban berkilo-kilo.
+- Tahan terhadap rayap. Kami pastikan bahwa kerangka atap dan *canopy* dari baja ringan ini dijamin tahan terhadap serangan rayap.
 
 ## Metode Hitung Luas Rangka Baja Ringan Di Rangkapan Jaya Depok
 
@@ -53,10 +53,10 @@ Membahas harga jasa pasang baja ringan, sebenarnya sudah banyak sekali informasi
 
 (Catatan: harga dapat ditambahkan sendiri) Berikut ini adalah beberapa perhitungan biaya layanan pasang baja ringan berdasarkan variasi pemasangannya, baik untuk *canopy* maupun kerangka atap:
 
-*   Canopy untuk rangka dari baja ringan “Polikarbonat x Lite Rp. 285.000 / m
-*   Canopy untuk rangka dari baja ringan “Spandek Rp. 225.000 / m
-*   Canopy untuk rangka dari baja ringan “Gogreen Rp. 200.000 /m
-*   Perhitungan lainnya bisa langsung Anda tanyakan melalui kontak yang sudah kami sediakan di *website* kami.
+- Canopy untuk rangka dari baja ringan “Polikarbonat x Lite Rp. 285.000 / m
+- Canopy untuk rangka dari baja ringan “Spandek Rp. 225.000 / m
+- Canopy untuk rangka dari baja ringan “Gogreen Rp. 200.000 /m
+- Perhitungan lainnya bisa langsung Anda tanyakan melalui kontak yang sudah kami sediakan di *website* kami.
 
 Adapun Parameter Besaran Harga Layanan Pasang Baja Ringan:
 
@@ -76,11 +76,11 @@ Tahap berikutnya, jika pembuatan sketsa dan perhitungan rangka sudah selesai, An
 
 Berikut informasi terperinci dari harga layanan pasang baja ringan yang perlu Anda ketahui. Ini penting untuk Anda pahami dalam memutuskan besaran budget yang dibutuhkan.
 
-*   Harga Jasa kami sudah termasuk harga pemasangan yang tentunya lebih terjangkau dan sering memberikan diskon untuk konsumen.
-*   Harga yang kami patok juga sudah sesuai dengan jasa pemasangan, perhitungan, dan material yang terpasang.
-*   Harga terbaik dari kami selalu kami utamakan saat bertemu dengan Anda.
-*   Biaya jasa pasang baja ringan bisa sewaktu-waktu berubah karena fluktuasi harga material.
-*   Pembayaran bisa dilakukan dengan *down payment* dan sisanya setelah pemasangan selesai.
+- Harga Jasa kami sudah termasuk harga pemasangan yang tentunya lebih terjangkau dan sering memberikan diskon untuk konsumen.
+- Harga yang kami patok juga sudah sesuai dengan jasa pemasangan, perhitungan, dan material yang terpasang.
+- Harga terbaik dari kami selalu kami utamakan saat bertemu dengan Anda.
+- Biaya jasa pasang baja ringan bisa sewaktu-waktu berubah karena fluktuasi harga material.
+- Pembayaran bisa dilakukan dengan *down payment* dan sisanya setelah pemasangan selesai.
 
 Anda bisa percayakan hal itu kepada kami. Kami, sebagai Harga Pasang Atap Baja Ringan Di Rangkapan Jaya Depok, siap membantu Anda dalam menentukan ukuran, kualitas, dan pemasangan yang benar-benar sesuai dengan kebutuhan Anda tanpa meninggalkan sisa material. Terimakasih.
 

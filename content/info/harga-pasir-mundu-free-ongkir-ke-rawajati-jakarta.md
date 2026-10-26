@@ -25,7 +25,7 @@ Menurut Standar Nasional Indonesia ( SK SNI - S - 04 - 1989 - F ; 28) di sebutka
 
 Persyaratan Pasir yang Baik Untuk Bangunan
 
-1.  Agregat Halus harus terdiri dari butiran yg tajam dan keras dengan indeks kekerasan <2.2
+1.  Agregat Halus harus terdiri dari butiran yg tajam dan keras dengan indeks kekerasan <2.2
 2. Bila dimanfaatkan Natrium Sulfat bagian hancur optimal dua belas persen
 3. kalau digunakan Magnesium Sulfat komponen halus optimal 10%
 4. Tidak boleh memuat lumpur lebih dari 5%
@@ -41,7 +41,6 @@ Persyaratan Pasir yang Baik Untuk Bangunan
 sesudah mengetahui prasyarat pasir untuk sebuah Konstruksi, sekarang ini kita bahas model - Macam Pasir Untuk Bangunan penjelasan nya berikut ini:
 
 - ### Pasir Rigid Di Rawajati Jakarta
-    
 
 Pasir ini lazim nya berwarna hitam pekat dan tingkat pecahan butiran nya cukup tinggi. Namun kalau anda mengepal nya dengan tangan tidak akan lengket dan akan hancur kembali. model pasir ini sangat lah bagus tuk Pengecoran, Plesteran Dinding, Adukan Pondasi dan Adukan Pasangan Bata Pasir ini yaitu pasir untuk Rigid yaitu butiran-butiran mineral keras dan tajam berukuran antara 0,075 – 5 mm, kalau terdapat butiran berukuran lebih kecil dari 0,063 mm tak lebih dari 5% berat. Pasir ini yaitu pasir untuk Beton hampir kerap dimanfaatkan untuk profesi cor-coran struktur seperti kolom, balok dan pelat lantai.
 
@@ -59,21 +58,18 @@ Untuk mendapat kekokohan Cor yang optimal karenanya pasir mesti sanggup memenuhi
 ![Harga Pasir Mundu Free Ongkir Ke Rawajati Jakarta](/images/info/pasir-hitam-9.jpg)
 
 - ### Pasir Pasang Di Rawajati Jakarta
-    
 
 ![Harga Pasir Mundu Free Ongkir Ke Rawajati Jakarta](/images/info/jual-pasir-mundu.jpg)
 
 Pasir ini ekstra halus lagi dibandingkan oleh pasir beton. bila kamu mengepal pasir ini maka akan menggumpal dan tak akan buyar kembali. pasir pasang lazim nya di gunakan buat campuran pasir beton agar tidak kelewat kasar dan bisa di gunakan untuk plesteran dinding.
 
 - ### Pasir Urug Untuk Dasaran Pemasangan Granit Di Rawajati Jakarta
-    
 
 Di Antara ke dua pasir diatas pasir ragam ini lebih halus lagi, sekiranya anda mengepal nya akan menggumpal dan tidak akan hancur lagi. melainkan pasir macam
 
 Pada nya pasir ini nyaris sama dgn pasir beton namun pasir ini mempunyai tingkat kekasaran yg tinggi, butiran - butiran nya cukup besar dan agak banyak batuan nya. pada umumnya pasir jenis ini bagus tuk bahan pemadatan lantai
 
 - ### Pasir Putih Bebas Lumpur Untuk Pengecoran Di Rawajati Jakarta
-    
 
 1. **Pasir Putih Bangka**
 

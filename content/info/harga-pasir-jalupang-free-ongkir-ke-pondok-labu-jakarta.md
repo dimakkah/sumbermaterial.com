@@ -25,7 +25,7 @@ Berdasarkan Standar Nasional Indonesia ( SK SNI - S - 04 - 1989 - F ; 28) di seb
 
 Prasyarat Pasir yg Bagus buat Konstruksi
 
-1.  Agregat Halus patut terdiri dari butiran yang tajam dan keras dengan indeks kekerasan <2.2
+1.  Agregat Halus patut terdiri dari butiran yang tajam dan keras dengan indeks kekerasan <2.2
 2. bilamana dipakai Natrium Sulfat bagian hancur maksimal 12%
 3. jika dipakai Magnesium Sulfat komponen halus optimal sepuluh %
 4. Tak boleh mengandung tanah lebih dari 5 persen
@@ -41,7 +41,6 @@ Prasyarat Pasir yg Bagus buat Konstruksi
 Setelah mengenal prasyarat pasir tuk sebuah Bangunan, saat ini kita bahas Tipe - Jenis Pasir Untuk Konstruksi penjelasan nya sebagai berikut:
 
 - ### Pasir Tipe Cor dan Daerah Sumbernya Di Pondok Labu Jakarta
-    
 
 Pasir ini umum nya berwarna hitam pekat dan tingkat kekerasan butiran nya cukup tinggi. Namun jika anda mengepal nya dengan tangan tak akan lengket dan akan buyar kembali. macam pasir ini benar-benar lah baik untuk Pengecoran, Plesteran Dinding, Adukan Pondasi dan Adukan Pasangan Bata Pasir ini yaitu pasir untuk Cor yakni butiran-butiran mineral keras dan tajam berukuran antara 0,075 – 5 mm, bila terdapat butiran berukuran lebih kecil dari 0,063 mm tak lebih dari 5% berat. Pasir ini yaitu pasir untuk Rigid hampir sering kali diaplikasikan untuk pekerjaan cor-coran struktur seperti kolom, balok dan pelat lantai.
 
@@ -59,21 +58,18 @@ Untuk mendapatkan ketahanan Cor yang optimal maka pasir wajib sanggup memenuhi p
 ![Harga Pasir Jalupang Free Ongkir Ke Pondok Labu Jakarta](/images/info/pasir-hitam-9.jpg)
 
 - ### Pasir Biasa Di Pondok Labu Jakarta
-    
 
 ![Harga Pasir Jalupang Free Ongkir Ke Pondok Labu Jakarta](/images/info/jual-pasir-mundu.jpg)
 
 Pasir ini lebih halus lagi diperbandingkan oleh pasir beton. bila anda mengepal pasir ini karenanya akan menggumpal dan tak akan hancur kembali. pasir pasang umum nya di gunakan tuk campuran pasir beton agar tidak terlalu kasar dan bisa di pakai untuk plesteran dinding.
 
 - ### Pasir Kualitas rendah Untuk pemadatan lantai Di Pondok Labu Jakarta
-    
 
 Di Antara ke dua pasir diatas pasir ragam ini lebih halus lagi, kalau anda mengepal nya akan menggumpal dan tidak akan hancur lagi. tapi pasir tipe
 
 Pada lazim nya pasir ini nyaris sama dengan pasir beton tetapi pasir ini memiliki tingkat kekasaran yg tinggi, butiran - butiran nya cukup besar dan agak banyak batuan nya. pada lazimnya pasir tipe ini bagus tuk bahan Pembuatan Batako
 
 - ### Pasir Putih Bebas Lumpur Untuk Pasang Keramik Di Pondok Labu Jakarta
-    
 
 1. **Pasir Putih Bangka**
 

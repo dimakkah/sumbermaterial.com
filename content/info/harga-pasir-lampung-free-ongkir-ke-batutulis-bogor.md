@@ -25,7 +25,7 @@ berdasarkan Standar Nasional Indonesia ( SK SNI - S - 04 - 1989 - F ; 28) di tut
 
 Persyaratan Pasir yg Bagus buat Konstruksi
 
-1.  Agregat Halus mesti terdiri dari butiran yang tajam dan keras dengan indeks kekerasan <2.2
+1.  Agregat Halus mesti terdiri dari butiran yang tajam dan keras dengan indeks kekerasan <2.2
 2. bilamana digunakan Natrium Sulfat bagian hancur maksimal 12 persen
 3. Sekiranya diterapkan Magnesium Sulfat bagian halus optimal sepuluh %
 4. Tak boleh mengandung tanah lebih dari lima %
@@ -41,7 +41,6 @@ Persyaratan Pasir yg Bagus buat Konstruksi
 Sesudah memahami syarat pasir buat suatu Bangunan, pada saat ini kita bahas Jenis - Macam Pasir Untuk Bangunan penjelasan nya berikut ini:
 
 - ### Pasir Untuk Pengecoran Di Batutulis Bogor
-    
 
 Pasir ini lazim nya berwarna coklat tua dan tingkat pecahan butiran nya lumayan tinggi. Tetapi seandainya anda mengepal nya dengan tangan tidak akan menggumpal dan akan buyar kembali. ragam pasir ini sungguh-sungguh lah bagus buat Pengecoran, Plesteran Dinding, Adukan Pondasi dan Adukan Pasangan Bata Pasir ini yaitu pasir untuk Cor merupakan butiran-butiran mineral keras dan tajam berukuran antara 0,075 – 5 mm, seandainya terdapat butiran berukuran lebih kecil dari 0,063 mm tak lebih dari 5% berat. Pasir ini yaitu pasir untuk Beton hampir acap kali dimanfaatkan untuk profesi cor-coran struktur seperti kolom, balok dan pelat lantai.
 
@@ -59,21 +58,18 @@ Untuk mendapatkan kekokohan Rigid yang optimal karenanya pasir seharusnya mampu 
 ![Harga Pasir Lampung Free Ongkir Ke Batutulis Bogor](/images/info/pasir-hitam-2.jpg)
 
 - ### Pasir Untuk Pasang Batu, Pondasi, Bata, Ubin, Plester Di Batutulis Bogor
-    
 
 ![Harga Pasir Lampung Free Ongkir Ke Batutulis Bogor](/images/info/pasir-hitam-4.jpg)
 
 Pasir ini ekstra halus lagi dibandingi oleh pasir beton. bila anda mengepal pasir ini maka akan menggumpal dan tidak akan buyar kembali. pasir pasang lazim nya di manfaatkan tuk adukan pasir beton supaya tidak terlalu kasar dan bisa di manfaatkan untuk plesteran dinding.
 
 - ### Pasir Elod Untuk pengurugan lantai Di Batutulis Bogor
-    
 
 Di Antara ke dua pasir diatas pasir ragam ini lebih halus lagi, kalau kamu mengepal nya karenanya akan menggumpal dan tak akan buyar lagi. melainkan pasir macam
 
 Pada nya pasir ini nyaris sama dengan pasir beton namun pasir ini memiliki tingkat kekasaran yang tinggi, butiran - butiran nya cukup besar dan agak banyak batuan nya. pada biasanya pasir macam ini bagus tuk bahan dasaran pemasangan keramik
 
 - ### Pasir Putih Tanpa Batu Untuk Pasang Lantai Marmer Di Batutulis Bogor
-    
 
 1. **Pasir Putih Bangka**
 

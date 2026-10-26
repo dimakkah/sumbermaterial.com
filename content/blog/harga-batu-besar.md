@@ -17,7 +17,6 @@ draft: false
 
 {{< toc >}}
 
-
 Mitra Sumber Material, batu besar adalah material konstruksi penting untuk fondasi, drainase, dan bahkan dekoratif. Memahami perkiraan harganya per kubik akan membantu Anda menyusun anggaran proyek dengan lebih akurat. Tapi, harga ini bisa bervariasi tergantung beberapa faktor. Mari kita bahas lebih lanjut.
 
 ## Apa Saja yang Mempengaruhi Harga Batu Besar?
@@ -30,9 +29,9 @@ Kami paham, menentukan pilihan yang tepat bisa membingungkan. Untuk itu, Kami sa
 
 Kami menyediakan berbagai jenis batu besar untuk memenuhi kebutuhan proyek Anda. Beberapa yang paling populer antara lain:
 
-*   **Batu Kali:** Cocok untuk pondasi, karena bentuknya yang tidak beraturan membuatnya saling mengunci dengan kuat. Ukuran umumnya bervariasi, mulai dari 15x20 cm hingga lebih besar.
-*   **Batu Gunung:** Sering digunakan untuk urugan, drainase, atau sebagai material dasar jalan. Bentuknya lebih bulat dan permukaannya lebih halus dibandingkan batu kali.
-*   **Batu Andesit:** Pilihan ideal untuk pekerjaan yang membutuhkan kekuatan dan ketahanan tinggi, seperti dinding penahan tanah atau pondasi bangunan bertingkat.
+- **Batu Kali:** Cocok untuk pondasi, karena bentuknya yang tidak beraturan membuatnya saling mengunci dengan kuat. Ukuran umumnya bervariasi, mulai dari 15x20 cm hingga lebih besar.
+- **Batu Gunung:** Sering digunakan untuk urugan, drainase, atau sebagai material dasar jalan. Bentuknya lebih bulat dan permukaannya lebih halus dibandingkan batu kali.
+- **Batu Andesit:** Pilihan ideal untuk pekerjaan yang membutuhkan kekuatan dan ketahanan tinggi, seperti dinding penahan tanah atau pondasi bangunan bertingkat.
 
 ![Contoh Batu Besar untuk Pondasi](/images/blog/harga-batu-besar.jpg)
 
@@ -40,7 +39,7 @@ Kami juga menyediakan batu split, pasir, dan material konstruksi lainnya untuk m
 
 ## Kenapa Memesan Batu Besar di Sumber Material?
 
-Kami memahami bahwa waktu adalah aset berharga dalam proyek konstruksi Anda. Itulah mengapa Kami menawarkan kemudahan dalam pemesanan dan pengiriman. Anda cukup kirimkan kebutuhan material dan lokasi proyek Anda melalui WhatsApp, dan tim Kami akan membantu menghitung kebutuhan material secara akurat. Kami melayani wilayah Jabodetabek dan sekitarnya, memastikan material Anda sampai dengan aman dan tepat waktu. 
+Kami memahami bahwa waktu adalah aset berharga dalam proyek konstruksi Anda. Itulah mengapa Kami menawarkan kemudahan dalam pemesanan dan pengiriman. Anda cukup kirimkan kebutuhan material dan lokasi proyek Anda melalui WhatsApp, dan tim Kami akan membantu menghitung kebutuhan material secara akurat. Kami melayani wilayah Jabodetabek dan sekitarnya, memastikan material Anda sampai dengan aman dan tepat waktu.
 
 Selain itu, Kami berlokasi strategis di Bogor, Jakarta, Bekasi, Karawang, Tangerang, dan Cikarang, sehingga pengiriman lebih efisien dan biaya lebih hemat. Kami berkomitmen untuk memberikan pelayanan terbaik dan harga yang kompetitif. Cari supplier lain? Tunggu apa lagi? Hubungi Kami sekarang juga!
 

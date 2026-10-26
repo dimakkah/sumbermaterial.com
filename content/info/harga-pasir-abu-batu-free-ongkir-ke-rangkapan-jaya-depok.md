@@ -25,7 +25,7 @@ Berdasarkan Standar Nasional Indonesia ( SK SNI - S - 04 - 1989 - F ; 28) di tut
 
 Syarat-Syarat Pasir yg Baik tuk Konstruksi
 
-1.  Agregat Halus seharusnya terdiri dari butiran yg tajam dan keras dengan indeks kekerasan <2.2
+1.  Agregat Halus seharusnya terdiri dari butiran yg tajam dan keras dengan indeks kekerasan <2.2
 2. bilamana dimanfaatkan Natrium Sulfat bagian hancur maksimal 12 persen
 3. Sekiranya digunakan Magnesium Sulfat bagian halus maksimal sepuluh persen
 4. Tak boleh memuat lumpur lebih dari lima persen
@@ -41,7 +41,6 @@ Syarat-Syarat Pasir yg Baik tuk Konstruksi
 setelah mengetahui syarat pasir untuk suatu Konstruksi, sekarang ini kita bahas Tipe - model Pasir Untuk Konstruksi penjelasan nya berikut ini:
 
 - ### Pasir Model Beton dan Tempat Sumbernya Di Rangkapan Jaya Depok
-    
 
 Pasir ini biasa nya berwarna hitam kemerahan dan tingkat kekerasan butiran nya cukup tinggi. Tetapi apabila anda mengepal nya dengan tangan tidak akan menggumpal dan akan buyar kembali. model pasir ini benar-benar lah bagus tuk Pengecoran, Plesteran Dinding, Adukan Pondasi dan Adukan Pasangan Bata Pasir ini yaitu pasir untuk Beton adalah butiran-butiran mineral keras dan tajam berukuran antara 0,075 – 5 mm, kalau terdapat butiran berukuran lebih kecil dari 0,063 mm tidak lebih dari 5% berat. Pasir ini yaitu pasir untuk Beton kerap dimanfaatkan untuk profesi cor-coran struktur seperti kolom, balok dan pelat lantai.
 
@@ -59,21 +58,18 @@ Untuk mendapat ketahanan Cor yang optimal karenanya pasir harus bisa memenuhi pr
 ![Harga Pasir Abu Batu Free Ongkir Ke Rangkapan Jaya Depok](/images/info/jual-pasir-cor-hitam.jpg)
 
 - ### Pasir Pasang Di Rangkapan Jaya Depok
-    
 
 ![Harga Pasir Abu Batu Free Ongkir Ke Rangkapan Jaya Depok](/images/info/pasir-hitam-4.jpg)
 
 Pasir ini ekstra halus lagi diperbandingkan oleh pasir beton. bila kamu mengepal pasir ini karenanya akan menggumpal dan tidak akan buyar kembali. pasir pasang umum nya di pakai tuk adukan pasir beton supaya tak terlalu kasar dan dapat di manfaatkan untuk plesteran dinding.
 
 - ### Pasir Urug Untuk pengurugan lantai Di Rangkapan Jaya Depok
-    
 
 Di Antara ke dua pasir diatas pasir ragam ini lebih halus lagi, apabila kamu mengepal nya akan menggumpal dan tidak akan buyar lagi. melainkan pasir ragam tidak baik tuk di buat sebagai bahan bangunan. pasir macam ini pada nya di pakai tuk Bahan Pembuatan Batako
 
 Pada nya pasir ini nyaris sama dgn pasir beton tetapi pasir ini mempunyai tingkat kekasaran yang tinggi, butiran - butiran nya lumayan besar dan agak banyak batuan nya. pada lazimnya pasir jenis ini baik untuk bahan pengurugan lantai
 
 - ### Pasir Putih Halus Untuk Pasang Keramik Di Rangkapan Jaya Depok
-    
 
 1. **Pasir Putih Bangka**
 

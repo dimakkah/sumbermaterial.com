@@ -25,7 +25,7 @@ Menurut Standar Nasional Indonesia ( SK SNI - S - 04 - 1989 - F ; 28) di tuturka
 
 Prasyarat Pasir yang Baik buat Konstruksi Bangunan
 
-1.  Agregat Halus semestinya terdiri dari butiran yang tajam dan keras dengan indeks kekerasan <2.2
+1.  Agregat Halus semestinya terdiri dari butiran yang tajam dan keras dengan indeks kekerasan <2.2
 2. bilamana diaplikasikan Natrium Sulfat bagian hancur maksimal 12%
 3. Kalau digunakan Magnesium Sulfat komponen halus maksimal sepuluh %
 4. Tidak boleh berisi tanah lebih dari lima %
@@ -41,7 +41,6 @@ Prasyarat Pasir yang Baik buat Konstruksi Bangunan
 setelah memahami prasyarat pasir buat suatu Konstruksi Bangunan, saat ini kita bahas model - model Pasir Untuk Bangunan penjelasan nya sebagai berikut:
 
 - ### Pasir untuk Cor Rigid Di Tegalwaru Purwakarta
-    
 
 Pasir ini biasa nya berwarna hitam pekat dan tingkat kekasaran butiran nya lumayan tinggi. Melainkan jikalau anda mengepal nya dengan tangan tak akan menggumpal dan akan buyar kembali. jenis pasir ini betul-betul lah baik buat Pengecoran, Plesteran Dinding, Adukan Pondasi dan Adukan Pasangan Bata Pasir ini yaitu pasir untuk Rigid ialah butiran-butiran mineral keras dan tajam berukuran antara 0,075 – 5 mm, kalau terdapat butiran berukuran lebih kecil dari 0,063 mm tidak lebih dari 5% berat. Pasir ini yaitu pasir untuk Rigid sering kali diaplikasikan untuk pekerjaan cor-coran struktur seperti kolom, balok dan pelat lantai.
 
@@ -59,21 +58,18 @@ Untuk mendapatkan kekokohan Rigid yang optimal maka pasir wajib mampu memenuhi p
 ![Harga Pasir Lampung Free Ongkir Ke Tegalwaru Purwakarta](/images/info/pasir-hitam-7.jpg)
 
 - ### Pasir Untuk Pasang Batu, Pondasi, Bata, Ubin, Plester Di Tegalwaru Purwakarta
-    
 
 ![Harga Pasir Lampung Free Ongkir Ke Tegalwaru Purwakarta](/images/info/pasir-putih3.jpg)
 
 Pasir ini ekstra halus lagi dibandingi oleh pasir beton. sekiranya anda mengepal pasir ini karenanya akan menggumpal dan tak akan buyar kembali. pasir pasang biasa nya di manfaatkan tuk adukan pasir beton agar tak terlampau kasar dan bisa di manfaatkan untuk plesteran dinding.
 
 - ### Pasir Urug Untuk pemadatan lantai Di Tegalwaru Purwakarta
-    
 
 Di Antara ke dua pasir diatas pasir ragam ini lebih halus lagi, kalau anda mengepal nya karenanya akan menggumpal dan tidak akan buyar lagi. tetapi pasir ragam tak bagus untuk di buat sebagai bahan bangunan. pasir jenis ini pada umum nya di pakai untuk Bahan Pembuatan Batako
 
 Pada lazim nya pasir ini nyaris sama dgn pasir beton tetapi pasir ini memiliki tingkat kekasaran yang tinggi, butiran - butiran nya lumayan besar dan agak banyak batuan nya. pada umumnya pasir macam ini baik untuk bahan pemadatan lantai
 
 - ### Pasir Putih Halus Untuk Taman Bermain Di Tegalwaru Purwakarta
-    
 
 1. **Pasir Putih Bangka**
 

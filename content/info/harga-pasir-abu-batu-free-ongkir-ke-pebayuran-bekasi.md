@@ -25,7 +25,7 @@ Menurut Standar Nasional Indonesia ( SK SNI - S - 04 - 1989 - F ; 28) di sebutka
 
 Persyaratan Pasir yg Baik Untuk Bangunan
 
-1.  Agregat Halus mesti terdiri dari butiran yang tajam dan keras dengan indeks kekerasan <2.2
+1.  Agregat Halus mesti terdiri dari butiran yang tajam dan keras dengan indeks kekerasan <2.2
 2. jikalau dipakai Natrium Sulfat komponen hancur maksimal 12%
 3. seandainya diterapkan Magnesium Sulfat komponen halus optimal 5 persen
 4. Tidak boleh berisi lumpur lebih dari 5 persen
@@ -41,7 +41,6 @@ Persyaratan Pasir yg Baik Untuk Bangunan
 sesudah memahami persyaratan pasir buat suatu Bangunan, pada saat ini kita bahas Ragam - Macam Pasir Untuk Bangunan penjelasan nya sbb:
 
 - ### Pasir untuk Cor Rigid Di Pebayuran Bekasi
-    
 
 Pasir ini umum nya berwarna hitam gelap dan tingkat kekasaran butiran nya cukup tinggi. Tetapi kalau anda mengepal nya dengan tangan tidak akan lengket dan akan buyar kembali. jenis pasir ini betul-betul lah bagus tuk Pengecoran, Plesteran Dinding, Adukan Pondasi dan Adukan Pasangan Bata Pasir ini yaitu pasir untuk Rigid yaitu butiran-butiran mineral keras dan tajam berukuran antara 0,075 – 5 mm, sekiranya terdapat butiran berukuran lebih kecil dari 0,063 mm tidak lebih dari 5% berat. Pasir ini yaitu pasir untuk Rigid hampir kerap kali dimanfaatkan untuk pekerjaan cor-coran struktur seperti kolom, balok dan pelat lantai.
 
@@ -59,21 +58,18 @@ Untuk mendapatkan kekokohan Beton yang optimal maka pasir seharusnya mampu memen
 ![Harga Pasir Abu Batu Free Ongkir Ke Pebayuran Bekasi](/images/info/pasir-hitam-2.jpg)
 
 - ### Pasir Pasang Di Pebayuran Bekasi
-    
 
 ![Harga Pasir Abu Batu Free Ongkir Ke Pebayuran Bekasi](/images/info/pasir-putih3.jpg)
 
 Pasir ini ekstra halus lagi dibandingi oleh pasir beton. jikalau kalian mengepal pasir ini karenanya akan menggumpal dan tidak akan hancur kembali. pasir pasang umum nya di manfaatkan untuk adukan pasir beton agar tidak terlalu kasar dan dapat di manfaatkan untuk plesteran dinding.
 
 - ### Pasir Elod Untuk Dasaran Pemasangan Marmer Di Pebayuran Bekasi
-    
 
 Di Antara ke dua pasir diatas pasir macam ini lebih halus lagi, bila anda mengepal nya maka akan menggumpal dan tidak akan hancur lagi. melainkan pasir jenis
 
 Pada lazim nya pasir ini nyaris sama dengan pasir beton melainkan pasir ini mempunyai tingkat kekasaran yang tinggi, butiran - butiran nya lumayan besar dan agak banyak batuan nya. pada biasanya pasir tipe ini baik tuk bahan pemadatan lantai
 
 - ### Pasir Putih Halus Untuk Hiasan Di Pebayuran Bekasi
-    
 
 1. **Pasir Putih Bangka**
 

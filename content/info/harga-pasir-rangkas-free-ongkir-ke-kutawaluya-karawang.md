@@ -25,7 +25,7 @@ menurut Standar Nasional Indonesia ( SK SNI - S - 04 - 1989 - F ; 28) di tuturka
 
 Persyaratan Pasir yang Baik Untuk Bangunan
 
-1.  Agregat Halus seharusnya terdiri dari butiran yang tajam dan keras dengan indeks kekerasan <2.2
+1.  Agregat Halus seharusnya terdiri dari butiran yang tajam dan keras dengan indeks kekerasan <2.2
 2. Sekiranya dimanfaatkan Natrium Sulfat komponen hancur optimal dua belas %
 3. jikalau digunakan Magnesium Sulfat bagian halus maksimal sepuluh persen
 4. Tak boleh berisi tanah lebih dari lima persen
@@ -41,7 +41,6 @@ Persyaratan Pasir yang Baik Untuk Bangunan
 Sesudah tahu persis persyaratan pasir untuk sebuah Bangunan, saat ini kita bahas model - Macam Pasir Untuk Konstruksi Bangunan penjelasan nya sebagai berikut:
 
 - ### Pasir Cor Di Kutawaluya Karawang
-    
 
 Pasir ini biasa nya berwarna hitam kemerahan dan tingkat kekasaran butiran nya cukup tinggi. Tetapi jika anda mengepal nya dengan tangan tidak akan lengket dan akan hancur kembali. model pasir ini amat lah baik untuk Pengecoran, Plesteran Dinding, Adukan Pondasi dan Adukan Pasangan Bata Pasir ini yaitu pasir untuk Rigid yakni butiran-butiran mineral keras dan tajam berukuran antara 0,075 – 5 mm, bila terdapat butiran berukuran lebih kecil dari 0,063 mm tidak lebih dari 5% berat. Pasir ini yaitu pasir untuk Rigid sering kali dipakai untuk pekerjaan cor-coran struktur seperti kolom, balok dan pelat lantai.
 
@@ -59,21 +58,18 @@ Untuk menerima kekuatan Rigid yang optimal karenanya pasir semestinya bisa memen
 ![Harga Pasir Rangkas Free Ongkir Ke Kutawaluya Karawang](/images/info/pasir-hitam-9.jpg)
 
 - ### Pasir Biasa Di Kutawaluya Karawang
-    
 
 ![Harga Pasir Rangkas Free Ongkir Ke Kutawaluya Karawang](/images/info/pasir-hitam-11.jpg)
 
 Pasir ini lebih halus lagi dibandingkan oleh pasir beton. apabila anda mengepal pasir ini karenanya akan menggumpal dan tak akan hancur kembali. pasir pasang umum nya di pakai buat campuran pasir beton agar tak terlalu kasar dan dapat di gunakan untuk plesteran dinding.
 
 - ### Pasir Elod Untuk Dasaran Pemasangan Marmer Di Kutawaluya Karawang
-    
 
 Di Antara ke dua pasir diatas pasir tipe ini lebih halus lagi, jikalau kalian mengepal nya karenanya akan menggumpal dan tak akan hancur lagi. namun pasir macam
 
 Pada nya pasir ini nyaris sama dengan pasir beton melainkan pasir ini memiliki tingkat kekasaran yg tinggi, butiran - butiran nya lumayan besar dan agak banyak batuan nya. pada lazimnya pasir tipe ini bagus tuk bahan pemadatan lantai
 
 - ### Pasir Putih Kadar Lumpur Rendah Untuk Taman Bermain Di Kutawaluya Karawang
-    
 
 1. **Pasir Putih Bangka**
 

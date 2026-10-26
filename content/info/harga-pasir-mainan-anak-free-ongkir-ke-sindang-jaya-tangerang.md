@@ -25,7 +25,7 @@ Berdasarkan Standar Nasional Indonesia ( SK SNI - S - 04 - 1989 - F ; 28) di seb
 
 Syarat-Syarat Pasir yg Baik Untuk Konstruksi
 
-1.  Agregat Halus harus terdiri dari butiran yg tajam dan keras dengan indeks kekerasan <2.2
+1.  Agregat Halus harus terdiri dari butiran yg tajam dan keras dengan indeks kekerasan <2.2
 2. sekiranya dipakai Natrium Sulfat komponen hancur optimal dua belas %
 3. bila digunakan Magnesium Sulfat komponen halus optimal sepuluh persen
 4. Tak boleh mengandung tanah lebih dari 5%
@@ -41,7 +41,6 @@ Syarat-Syarat Pasir yg Baik Untuk Konstruksi
 setelah memahami prasyarat pasir tuk sebuah Bangunan, sekarang ini kita bahas model - Macam Pasir Untuk Bangunan penjelasan nya berikut ini:
 
 - ### Pasir Beton Di Sindang Jaya Tangerang
-    
 
 Pasir ini lazim nya berwarna hitam gelap dan tingkat pecahan butiran nya cukup tinggi. Namun apabila anda mengepal nya dengan tangan tak akan menggumpal dan akan hancur kembali. tipe pasir ini sangat lah bagus untuk Pengecoran, Plesteran Dinding, Adukan Pondasi dan Adukan Pasangan Bata Pasir ini yaitu pasir untuk Rigid ialah butiran-butiran mineral keras dan tajam berukuran antara 0,075 – 5 mm, kalau terdapat butiran berukuran lebih kecil dari 0,063 mm tak lebih dari 5% berat. Pasir ini yaitu pasir untuk Rigid sering kali digunakan untuk pekerjaan cor-coran struktur seperti kolom, balok dan pelat lantai.
 
@@ -59,21 +58,18 @@ Untuk mendapat kualitas Cor yang maksimal karenanya pasir mesti sanggup memenuhi
 ![Harga Pasir Mainan Anak Free Ongkir Ke Sindang Jaya Tangerang](/images/info/pasir-hitam-9.jpg)
 
 - ### Pasir Standar Di Sindang Jaya Tangerang
-    
 
 ![Harga Pasir Mainan Anak Free Ongkir Ke Sindang Jaya Tangerang](/images/info/jual-pasir-mundu-2.jpg)
 
 Pasir ini lebih halus lagi dibandingi oleh pasir beton. kalau kalian mengepal pasir ini karenanya akan menggumpal dan tak akan buyar kembali. pasir pasang lazim nya di manfaatkan tuk adukan pasir beton supaya tak terlampau kasar dan dapat di pakai untuk plesteran dinding.
 
 - ### Pasir Elod Untuk pemadatan lantai Di Sindang Jaya Tangerang
-    
 
 Di Antara ke dua pasir diatas pasir jenis ini lebih halus lagi, sekiranya kamu mengepal nya akan menggumpal dan tak akan hancur lagi. tetapi pasir jenis
 
 Pada nya pasir ini nyaris sama dengan pasir beton tapi pasir ini mempunyai tingkat kekasaran yg tinggi, butiran - butiran nya lumayan besar dan agak banyak batuan nya. pada umumnya pasir model ini bagus untuk bahan pemadatan lantai
 
 - ### Pasir Putih Bebas Lumpur Untuk Taman Bermain Di Sindang Jaya Tangerang
-    
 
 1. **Pasir Putih Bangka**
 

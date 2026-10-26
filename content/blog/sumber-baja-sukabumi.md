@@ -17,8 +17,7 @@ draft: false
 
 {{< toc >}}
 
-
-### Mengapa Baja Sukabumi Penting untuk Proyek Anda?
+## Mengapa Baja Sukabumi Penting untuk Proyek Anda?
 
 Baja adalah material vital dalam berbagai proyek konstruksi, mulai dari pembangunan rumah tinggal, gedung komersial, hingga infrastruktur skala besar. Kekuatan, ketahanan, dan fleksibilitas baja menjadikannya pilihan ideal untuk berbagai aplikasi struktural. Memilih sumber baja yang tepat sangat penting untuk memastikan kualitas dan keamanan bangunan Anda. Sumber baja yang baik akan menyediakan material yang sesuai dengan standar SNI, sehingga bangunan Anda kokoh dan tahan lama.
 
@@ -28,16 +27,15 @@ Mitra Sumber Material memahami betul pentingnya kualitas baja. Kami bekerja sama
 
 Kami menyediakan berbagai jenis baja untuk memenuhi kebutuhan proyek Anda. Beberapa jenis baja yang tersedia antara lain:
 
-*   **Baja Beton (Rebar):** Digunakan untuk memperkuat struktur beton, tersedia dalam berbagai ukuran dan diameter.
-*   **Baja Profil:** Bentuknya beragam, seperti H-beam, I-beam, dan CNP, digunakan untuk konstruksi rangka bangunan.
-*   **Baja Plat:** Lembaran baja dengan berbagai ketebalan, cocok untuk berbagai aplikasi, termasuk penutup atap dan dinding.
-*   **Baja Hollow:** Berbentuk kotak atau bulat, ringan namun kuat, sering digunakan untuk rangka bangunan ringan.
-*   **Baja Angle:** Berbentuk sudut siku-siku, digunakan untuk sambungan dan penguat struktur.
+- **Baja Beton (Rebar):** Digunakan untuk memperkuat struktur beton, tersedia dalam berbagai ukuran dan diameter.
+- **Baja Profil:** Bentuknya beragam, seperti H-beam, I-beam, dan CNP, digunakan untuk konstruksi rangka bangunan.
+- **Baja Plat:** Lembaran baja dengan berbagai ketebalan, cocok untuk berbagai aplikasi, termasuk penutup atap dan dinding.
+- **Baja Hollow:** Berbentuk kotak atau bulat, ringan namun kuat, sering digunakan untuk rangka bangunan ringan.
+- **Baja Angle:** Berbentuk sudut siku-siku, digunakan untuk sambungan dan penguat struktur.
 
 ![Contoh berbagai jenis baja yang tersedia di Sumber Material](/images/blog/sumber-baja-sukabumi.jpg)
 
 Untuk membantu Anda memahami perbedaan dan kegunaan masing-masing jenis baja, berikut adalah tabel perbandingan singkat:
-
 
 <table class="table">
   <caption>Perbandingan Jenis Baja</caption>
@@ -52,7 +50,6 @@ Untuk membantu Anda memahami perbedaan dan kegunaan masing-masing jenis baja, be
     <tr><td>Baja Angle</td><td>Sambungan/penguat struktur</td><td>Kuat, serbaguna, mudah disambung</td><td>Mudah berkarat, perlu pelapisan</td></tr>
   </tbody>
 </table>
-
 
 ### Keunggulan Memilih Sumber Baja Sukabumi dari Kami
 

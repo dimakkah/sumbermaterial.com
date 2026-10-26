@@ -25,7 +25,7 @@ berdasarkan Standar Nasional Indonesia ( SK SNI - S - 04 - 1989 - F ; 28) di seb
 
 Syarat-Syarat Pasir yang Baik tuk Konstruksi Bangunan
 
-1.  Agregat Halus semestinya terdiri dari butiran yg tajam dan keras dengan indeks kekerasan <2.2
+1.  Agregat Halus semestinya terdiri dari butiran yg tajam dan keras dengan indeks kekerasan <2.2
 2. apabila dipakai Natrium Sulfat bagian hancur optimal dua belas %
 3. jika digunakan Magnesium Sulfat bagian halus maksimal sepuluh persen
 4. Tak boleh berisi tanah lebih dari lima %
@@ -41,7 +41,6 @@ Syarat-Syarat Pasir yang Baik tuk Konstruksi Bangunan
 sesudah memahami prasyarat pasir untuk sebuah Konstruksi, sekarang ini kita bahas Jenis - Macam Pasir Untuk Bangunan penjelasan nya sebagai berikut:
 
 - ### Pasir Jenis Beton dan Daerah Pengambilannya Di Balaraja Tangerang
-    
 
 Pasir ini biasa nya berwarna keabu-abuan dan tingkat kekasaran butiran nya cukup tinggi. Melainkan sekiranya anda mengepal nya dengan tangan tak akan menggumpal dan akan hancur kembali. ragam pasir ini benar-benar lah bagus untuk Pengecoran, Plesteran Dinding, Adukan Pondasi dan Adukan Pasangan Bata Pasir ini yaitu pasir untuk Rigid yakni butiran-butiran mineral keras dan tajam berukuran antara 0,075 – 5 mm, sekiranya terdapat butiran berukuran lebih kecil dari 0,063 mm tak lebih dari 5% berat. Pasir ini yaitu pasir untuk Beton hampir tak jarang diaplikasikan untuk pekerjaan cor-coran struktur seperti kolom, balok dan pelat lantai.
 
@@ -59,21 +58,18 @@ Untuk menerima kekuatan Cor yang maksimal maka pasir sepatutnya mampu memenuhi s
 ![Harga Pasir Jalupang Free Ongkir Ke Balaraja Tangerang](/images/info/jual-pasir-cor-hitam.jpg)
 
 - ### Pasir Untuk Pemasangan Batu, Pondasi, Bata, Ubin, Plester Di Balaraja Tangerang
-    
 
 ![Harga Pasir Jalupang Free Ongkir Ke Balaraja Tangerang](/images/info/jual-pasir-mundu.jpg)
 
 Pasir ini ekstra halus lagi dibandingkan oleh pasir beton. kalau kamu mengepal pasir ini maka akan menggumpal dan tak akan buyar kembali. pasir pasang biasa nya di gunakan tuk adukan pasir beton agar tak terlampau kasar dan bisa di gunakan untuk plesteran dinding.
 
 - ### Pasir Urug Untuk Dasaran Pemasangan Marmer Di Balaraja Tangerang
-    
 
 Di Antara ke dua pasir diatas pasir macam ini lebih halus lagi, kalau anda mengepal nya akan menggumpal dan tidak akan hancur lagi. tetapi pasir jenis
 
 Pada biasa nya pasir ini nyaris sama dgn pasir beton akan melainkan pasir ini memiliki tingkat kekasaran yang tinggi, butiran - butiran nya lumayan besar dan agak banyak batuan nya. pada biasanya pasir ragam ini bagus tuk bahan Pembuatan Batako
 
 - ### Pasir Putih Kadar Lumpur Rendah Untuk Pasang Lantai Marmer Di Balaraja Tangerang
-    
 
 1. **Pasir Putih Bangka**
 

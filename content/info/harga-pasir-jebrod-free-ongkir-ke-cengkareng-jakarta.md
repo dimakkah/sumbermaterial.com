@@ -25,7 +25,7 @@ menurut Standar Nasional Indonesia ( SK SNI - S - 04 - 1989 - F ; 28) di sebutka
 
 Prasyarat Pasir yang Bagus Untuk Konstruksi
 
-1.  Agregat Halus wajib terdiri dari butiran yang tajam dan keras dengan indeks kekerasan <2.2
+1.  Agregat Halus wajib terdiri dari butiran yang tajam dan keras dengan indeks kekerasan <2.2
 2. Seandainya dimanfaatkan Natrium Sulfat komponen hancur maksimal dua belas %
 3. seandainya digunakan Magnesium Sulfat komponen halus optimal sepuluh %
 4. Tak boleh berisi lumpur lebih dari 5%
@@ -41,7 +41,6 @@ Prasyarat Pasir yang Bagus Untuk Konstruksi
 sesudah memahami persyaratan pasir tuk suatu Bangunan, saat ini kita bahas Macam - model Pasir Untuk Konstruksi penjelasan nya sbb:
 
 - ### Pasir Jenis Cor dan Lokasi Pengambilannya Di Cengkareng Jakarta
-    
 
 Pasir ini lazim nya berwarna coklat tua dan tingkat kekasaran butiran nya lumayan tinggi. Tapi jika anda mengepal nya dengan tangan tak akan menggumpal dan akan hancur kembali. ragam pasir ini benar-benar lah baik untuk Pengecoran, Plesteran Dinding, Adukan Pondasi dan Adukan Pasangan Bata Pasir ini yaitu pasir untuk Beton merupakan butiran-butiran mineral keras dan tajam berukuran antara 0,075 – 5 mm, jika terdapat butiran berukuran lebih kecil dari 0,063 mm tidak lebih dari 5% berat. Pasir ini yaitu pasir untuk Rigid tak jarang dipakai untuk pekerjaan cor-coran struktur seperti kolom, balok dan pelat lantai.
 
@@ -59,21 +58,18 @@ Untuk mendapatkan kekuatan Beton yang maksimal maka pasir sepatutnya bisa memenu
 ![Harga Pasir Jebrod Free Ongkir Ke Cengkareng Jakarta](/images/info/pasir-hitam-1.jpg)
 
 - ### Pasir Untuk Adukan Pasang Batu, Pondasi, Bata, Ubin, Plester Di Cengkareng Jakarta
-    
 
 ![Harga Pasir Jebrod Free Ongkir Ke Cengkareng Jakarta](/images/info/pasir-putih3.jpg)
 
 Pasir ini ekstra halus lagi diperbandingkan oleh pasir beton. bila anda mengepal pasir ini karenanya akan menggumpal dan tak akan buyar kembali. pasir pasang lazim nya di pakai tuk adukan pasir beton agar tidak terlalu kasar dan bisa di manfaatkan untuk plesteran dinding.
 
 - ### Pasir Elod Untuk Dasaran Pemasangan Granit Di Cengkareng Jakarta
-    
 
 Di Antara ke dua pasir diatas pasir model ini lebih halus lagi, seandainya kamu mengepal nya akan menggumpal dan tak akan buyar lagi. melainkan pasir jenis
 
 Pada umum nya pasir ini nyaris sama dengan pasir beton akan tetapi pasir ini memiliki tingkat kekasaran yg tinggi, butiran - butiran nya lumayan besar dan agak banyak batuan nya. pada lazimnya pasir ragam ini baik untuk bahan dasaran pemasangan keramik
 
 - ### Pasir Putih Tanpa Batu Untuk Pengecoran Di Cengkareng Jakarta
-    
 
 1. **Pasir Putih Bangka**
 

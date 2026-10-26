@@ -16,7 +16,7 @@ dikala ini bahan yang diterapkan untuk mengisi dinding bangunan, sudah terdapat 
 
 ## Mengenal Tipe-tipe Bata
 
-### 1\. Bata Merah Standar & Jumbo Di Pekayon Jakarta
+### 1. Bata Merah Standar & Jumbo Di Pekayon Jakarta
 
 ![Harga Batako Truss Gratis Ongkir Ke Pekayon Jakarta](/images/bata/bata-merah-oven-27.png)
 
@@ -26,7 +26,7 @@ Bata merah ini dibuat dari bahan tanah yg kemudian di bentuk dan dipanaskan deng
 
 Bahan bangunan ini amat kuat kepada panas dan pantas dijadikan proteksi dari bahaya api. Bata merah ini pada umumnya memiliki ukuran panjang antara 17-23 cm dan lebar sekitar 7-11 cm, serta tebalnya 3-5 cm. mempunyai ukuran yg lebih kecil akan memberi kemudahan dalam pengerjaan pengangkutan dan dapat dipakai untuk menyusun bidang kecil.
 
-### 2\. Batako Hitam dan Putih Di Pekayon Jakarta
+### 2. Batako Hitam dan Putih Di Pekayon Jakarta
 
 ![Harga Batako Truss Gratis Ongkir Ke Pekayon Jakarta](/images/bata/batako-hitam-press-06.png)
 
@@ -34,7 +34,7 @@ Material bangunan tembok dari batako ini secara umum terbuat dari material campu
 
 Batako seperti ini memiliki kekurangan seperti mudah retak, lebih panas dan pengap. Berbeda dengan bata merah yg terbuat dari bahan tanah. Namun batako press ini cenderung lebih ringan ketimbang bata merah. Alhasil akan tampak lebih halus dan ukurannya lebih presisi kalau diperbandingkan dg bata merah. Batako Hitam ini mempunyai ukuran panjang sekitar 36-40 cm, tinggi 18-20 cm dan tebal 8-10 cm. material ini sering kali dipilih sebab untuk memperingan bobot struktur bangunan, meminimalisir sisa material dan mempermudah pembangunan.
 
-### 3\. Bata Ringan Di Pekayon Jakarta
+### 3. Bata Ringan Di Pekayon Jakarta
 
 ![Harga Batako Truss Gratis Ongkir Ke Pekayon Jakarta](/images/bata/bata-hebel-sni-03.png)
 
@@ -62,7 +62,7 @@ Seluruhnya tentu sudah tahu kegunaan utama batu bata mulai diaplikasikan untuk m
 
 Metode mengorder batu bata yang aman dan terpercaya:
 
-1.  Progres pembayaran dapat anda lakukan secara COD atau dibayar di daerah dikala barang orderan anda telah datang di tempat
+1.  Progres pembayaran dapat anda lakukan secara COD atau dibayar di daerah dikala barang orderan anda telah datang di tempat
 2. Silahkan memilih dan memastikan material batu bata yang anda inginkan
 3. Tentukan juga jumlah pesanan batu bata yg anda butuhkan dalam format bijian.
 4. Anda bisa menghubungi layanan telepon warung untuk mempermudah proses pengorderan

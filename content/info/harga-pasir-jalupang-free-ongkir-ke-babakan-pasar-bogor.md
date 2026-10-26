@@ -25,7 +25,7 @@ menurut Standar Nasional Indonesia ( SK SNI - S - 04 - 1989 - F ; 28) di tuturka
 
 Syarat Pasir yg Bagus tuk Bangunan
 
-1.  Agregat Halus seharusnya terdiri dari butiran yang tajam dan keras dengan indeks kekerasan <2.2
+1.  Agregat Halus seharusnya terdiri dari butiran yang tajam dan keras dengan indeks kekerasan <2.2
 2. bilamana digunakan Natrium Sulfat bagian hancur maksimal 12%
 3. seandainya diterapkan Magnesium Sulfat komponen halus maksimal sepuluh persen
 4. Tidak boleh mengandung clay lebih dari lima persen
@@ -41,7 +41,6 @@ Syarat Pasir yg Bagus tuk Bangunan
 Setelah memahami persyaratan pasir untuk suatu Konstruksi Bangunan, pada saat ini kita bahas Jenis - Tipe Pasir Untuk Konstruksi Bangunan penjelasan nya sebagai berikut:
 
 - ### Pasir Rigid Di Babakan Pasar Bogor
-    
 
 Pasir ini biasa nya berwarna hitam kemerahan dan tingkat kekasaran butiran nya lumayan tinggi. Tetapi kalau anda mengepal nya dengan tangan tak akan lengket dan akan hancur kembali. jenis pasir ini amat lah baik untuk Pengecoran, Plesteran Dinding, Adukan Pondasi dan Adukan Pasangan Bata Pasir ini yaitu pasir untuk Rigid merupakan butiran-butiran mineral keras dan tajam berukuran antara 0,075 – 5 mm, kalau terdapat butiran berukuran lebih kecil dari 0,063 mm tidak lebih dari 5% berat. Pasir ini yaitu pasir untuk Cor hampir acap kali dipakai untuk profesi cor-coran struktur seperti kolom, balok dan pelat lantai.
 
@@ -59,21 +58,18 @@ Untuk mendapatkan kekokohan Beton yang optimal karenanya pasir sepatutnya bisa m
 ![Harga Pasir Jalupang Free Ongkir Ke Babakan Pasar Bogor](/images/info/pasir-hitam-8.jpg)
 
 - ### Pasir Pasang Di Babakan Pasar Bogor
-    
 
 ![Harga Pasir Jalupang Free Ongkir Ke Babakan Pasar Bogor](/images/info/pasir-hitam-4.jpg)
 
 Pasir ini ekstra halus lagi dibandingi oleh pasir beton. apabila kamu mengepal pasir ini karenanya akan menggumpal dan tak akan hancur kembali. pasir pasang lazim nya di gunakan buat campuran pasir beton agar tidak kelewat kasar dan dapat di manfaatkan untuk plesteran dinding.
 
 - ### Pasir Kualitas rendah Untuk Dasaran Pemasangan Marmer Di Babakan Pasar Bogor
-    
 
 Di Antara ke dua pasir diatas pasir model ini lebih halus lagi, jikalau anda mengepal nya maka akan menggumpal dan tidak akan buyar lagi. tapi pasir tipe
 
 Pada biasa nya pasir ini nyaris sama dengan pasir beton akan melainkan pasir ini memiliki tingkat kekasaran yang tinggi, butiran - butiran nya lumayan besar dan agak banyak batuan nya. pada umumnya pasir ragam ini bagus tuk bahan pemadatan lantai
 
 - ### Pasir Putih Kadar Lumpur Rendah Untuk Hiasan Di Babakan Pasar Bogor
-    
 
 1. **Pasir Putih Bangka**
 

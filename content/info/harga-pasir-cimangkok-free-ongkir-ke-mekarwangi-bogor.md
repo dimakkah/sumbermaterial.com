@@ -25,7 +25,7 @@ Berdasarkan Standar Nasional Indonesia ( SK SNI - S - 04 - 1989 - F ; 28) di seb
 
 Persyaratan Pasir yg Bagus buat Konstruksi Bangunan
 
-1.  Agregat Halus wajib terdiri dari butiran yg tajam dan keras dengan indeks kekerasan <2.2
+1.  Agregat Halus wajib terdiri dari butiran yg tajam dan keras dengan indeks kekerasan <2.2
 2. Bila diaplikasikan Natrium Sulfat bagian hancur optimal 12%
 3. Seandainya diterapkan Magnesium Sulfat komponen halus maksimal 5 persen
 4. Tak boleh berisi lumpur lebih dari lima %
@@ -41,7 +41,6 @@ Persyaratan Pasir yg Bagus buat Konstruksi Bangunan
 sesudah mengetahui syarat pasir buat sebuah Konstruksi, saat ini kita bahas Macam - Jenis Pasir Untuk Konstruksi penjelasan nya sebagai berikut:
 
 - ### Pasir Rigid Di Mekarwangi Bogor
-    
 
 Pasir ini umum nya berwarna keabu-abuan dan tingkat kekerasan butiran nya lumayan tinggi. Namun jikalau anda mengepal nya dengan tangan tak akan menggumpal dan akan hancur kembali. tipe pasir ini sungguh-sungguh lah baik tuk Pengecoran, Plesteran Dinding, Adukan Pondasi dan Adukan Pasangan Bata Pasir ini yaitu pasir untuk Beton merupakan butiran-butiran mineral keras dan tajam berukuran antara 0,075 – 5 mm, jikalau terdapat butiran berukuran lebih kecil dari 0,063 mm tidak lebih dari 5% berat. Pasir ini yaitu pasir untuk Rigid hampir sering kali diterapkan untuk pekerjaan cor-coran struktur seperti kolom, balok dan pelat lantai.
 
@@ -59,21 +58,18 @@ Untuk menerima kekokohan Beton yang optimal karenanya pasir mesti sanggup memenu
 ![Harga Pasir Cimangkok Free Ongkir Ke Mekarwangi Bogor](/images/info/pasir-hitam-1.jpg)
 
 - ### Pasir Untuk Pemasangan Batu, Pondasi, Bata, Ubin, Plester Di Mekarwangi Bogor
-    
 
 ![Harga Pasir Cimangkok Free Ongkir Ke Mekarwangi Bogor](/images/info/pasir-putih3.jpg)
 
 Pasir ini ekstra halus lagi diperbandingkan oleh pasir beton. sekiranya anda mengepal pasir ini maka akan menggumpal dan tak akan hancur kembali. pasir pasang lazim nya di gunakan untuk campuran pasir beton agar tidak terlampau kasar dan bisa di manfaatkan untuk plesteran dinding.
 
 - ### Pasir Urug Untuk Pembuatan Batako Di Mekarwangi Bogor
-    
 
 Di Antara ke dua pasir diatas pasir tipe ini lebih halus lagi, jikalau kamu mengepal nya maka akan menggumpal dan tak akan buyar lagi. tetapi pasir jenis
 
 Pada biasa nya pasir ini nyaris sama dengan pasir beton tetapi pasir ini mempunyai tingkat kekasaran yang tinggi, butiran - butiran nya lumayan besar dan agak banyak batuan nya. pada biasanya pasir model ini baik tuk bahan dasaran pemasangan keramik
 
 - ### Pasir Putih Bebas Lumpur Untuk Lapangan Voly Di Mekarwangi Bogor
-    
 
 1. **Pasir Putih Bangka**
 

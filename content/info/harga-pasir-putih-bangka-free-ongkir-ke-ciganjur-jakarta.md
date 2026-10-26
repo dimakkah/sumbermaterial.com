@@ -25,7 +25,7 @@ Berdasarkan Standar Nasional Indonesia ( SK SNI - S - 04 - 1989 - F ; 28) di seb
 
 Prasyarat Pasir yg Baik tuk Konstruksi Bangunan
 
-1.  Agregat Halus harus terdiri dari butiran yang tajam dan keras dengan indeks kekerasan <2.2
+1.  Agregat Halus harus terdiri dari butiran yang tajam dan keras dengan indeks kekerasan <2.2
 2. bila diterapkan Natrium Sulfat bagian hancur optimal 12%
 3. seandainya diaplikasikan Magnesium Sulfat komponen halus optimal 5 persen
 4. Tak boleh memuat clay lebih dari lima %
@@ -41,7 +41,6 @@ Prasyarat Pasir yg Baik tuk Konstruksi Bangunan
 setelah memahami syarat pasir untuk suatu Konstruksi Bangunan, saat ini kita bahas Jenis - model Pasir Untuk Konstruksi Bangunan penjelasan nya sbb:
 
 - ### Pasir Cor Di Ciganjur Jakarta
-    
 
 Pasir ini biasa nya berwarna keabu-abuan dan tingkat pecahan butiran nya cukup tinggi. Namun sekiranya anda mengepal nya dengan tangan tidak akan menggumpal dan akan hancur kembali. model pasir ini amat lah bagus tuk Pengecoran, Plesteran Dinding, Adukan Pondasi dan Adukan Pasangan Bata Pasir ini yaitu pasir untuk Rigid yaitu butiran-butiran mineral keras dan tajam berukuran antara 0,075 – 5 mm, kalau terdapat butiran berukuran lebih kecil dari 0,063 mm tak lebih dari 5% berat. Pasir ini yaitu pasir untuk Cor hampir kerap dipakai untuk pekerjaan cor-coran struktur seperti kolom, balok dan pelat lantai.
 
@@ -59,21 +58,18 @@ Untuk mendapatkan kekuatan Rigid yang optimal maka pasir mesti mampu memenuhi pe
 ![Harga Pasir Putih Bangka Free Ongkir Ke Ciganjur Jakarta](/images/info/pasir-hitam-5.jpg)
 
 - ### Pasir Pasang Di Ciganjur Jakarta
-    
 
 ![Harga Pasir Putih Bangka Free Ongkir Ke Ciganjur Jakarta](/images/info/jual-pasir-mundu.jpg)
 
 Pasir ini ekstra halus lagi dibandingkan oleh pasir beton. apabila anda mengepal pasir ini karenanya akan menggumpal dan tak akan hancur kembali. pasir pasang umum nya di manfaatkan untuk adukan pasir beton supaya tidak terlampau kasar dan bisa di gunakan untuk plesteran dinding.
 
 - ### Pasir Urug Untuk pemadatan lantai Di Ciganjur Jakarta
-    
 
 Di Antara ke dua pasir diatas pasir model ini lebih halus lagi, jikalau kamu mengepal nya maka akan menggumpal dan tidak akan hancur lagi. namun pasir ragam tidak bagus tuk di buat sebagai bahan bangunan. pasir jenis ini pada umum nya di manfaatkan tuk Bahan Pembuatan Batako
 
 Pada umum nya pasir ini nyaris sama dgn pasir beton melainkan pasir ini mempunyai tingkat kekasaran yang tinggi, butiran - butiran nya lumayan besar dan agak banyak batuan nya. pada biasanya pasir ragam ini bagus untuk bahan pengurugan lantai
 
 - ### Pasir Putih Bebas Lumpur Untuk Pasang Bata Di Ciganjur Jakarta
-    
 
 1. **Pasir Putih Bangka**
 

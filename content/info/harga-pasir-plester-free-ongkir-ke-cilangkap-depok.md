@@ -25,7 +25,7 @@ menurut Standar Nasional Indonesia ( SK SNI - S - 04 - 1989 - F ; 28) di tuturka
 
 Persyaratan Pasir yg Baik tuk Konstruksi Bangunan
 
-1.  Agregat Halus mesti terdiri dari butiran yg tajam dan keras dengan indeks kekerasan <2.2
+1.  Agregat Halus mesti terdiri dari butiran yg tajam dan keras dengan indeks kekerasan <2.2
 2. Jika dimanfaatkan Natrium Sulfat bagian hancur optimal dua belas %
 3. bila digunakan Magnesium Sulfat komponen halus maksimal 5 persen
 4. Tidak boleh berisi lumpur lebih dari lima persen
@@ -41,7 +41,6 @@ Persyaratan Pasir yg Baik tuk Konstruksi Bangunan
 setelah tahu persis syarat pasir buat sebuah Konstruksi Bangunan, pada saat ini kita bahas model - Jenis Pasir Untuk Konstruksi Bangunan penjelasan nya sbb:
 
 - ### Pasir Untuk Pengecoran Di Cilangkap Depok
-    
 
 Pasir ini lazim nya berwarna hitam kemerahan dan tingkat kekasaran butiran nya lumayan tinggi. Melainkan jika anda mengepal nya dengan tangan tak akan lengket dan akan buyar kembali. ragam pasir ini betul-betul lah baik untuk Pengecoran, Plesteran Dinding, Adukan Pondasi dan Adukan Pasangan Bata Pasir ini yaitu pasir untuk Rigid ialah butiran-butiran mineral keras dan tajam berukuran antara 0,075 – 5 mm, sekiranya terdapat butiran berukuran lebih kecil dari 0,063 mm tidak lebih dari 5% berat. Pasir ini yaitu pasir untuk Beton sering kali dimanfaatkan untuk pekerjaan cor-coran struktur seperti kolom, balok dan pelat lantai.
 
@@ -59,21 +58,18 @@ Untuk mendapatkan kualitas Beton yang maksimal karenanya pasir seharusnya dapat 
 ![Harga Pasir Plester Free Ongkir Ke Cilangkap Depok](/images/info/pasir-hitam-5.jpg)
 
 - ### Pasir Biasa Di Cilangkap Depok
-    
 
 ![Harga Pasir Plester Free Ongkir Ke Cilangkap Depok](/images/info/jual-pasir-mundu.jpg)
 
 Pasir ini ekstra halus lagi dibandingi oleh pasir beton. seandainya anda mengepal pasir ini karenanya akan menggumpal dan tidak akan buyar kembali. pasir pasang umum nya di pakai buat adukan pasir beton agar tidak kelewat kasar dan dapat di pakai untuk plesteran dinding.
 
 - ### Pasir Kualitas rendah Untuk pengurugan lantai Di Cilangkap Depok
-    
 
 Di Antara ke dua pasir diatas pasir ragam ini lebih halus lagi, jika anda mengepal nya maka akan menggumpal dan tak akan buyar lagi. melainkan pasir jenis
 
 Pada nya pasir ini nyaris sama dgn pasir beton melainkan pasir ini mempunyai tingkat kekasaran yg tinggi, butiran - butiran nya lumayan besar dan agak banyak batuan nya. pada biasanya pasir jenis ini bagus untuk bahan pengurugan lantai
 
 - ### Pasir Putih Tanpa Ayak Untuk Taman Bermain Di Cilangkap Depok
-    
 
 1. **Pasir Putih Bangka**
 

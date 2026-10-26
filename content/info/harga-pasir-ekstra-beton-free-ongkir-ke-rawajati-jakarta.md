@@ -25,7 +25,7 @@ berdasarkan Standar Nasional Indonesia ( SK SNI - S - 04 - 1989 - F ; 28) di tut
 
 Persyaratan Pasir yang Baik Untuk Konstruksi Bangunan
 
-1.  Agregat Halus harus terdiri dari butiran yg tajam dan keras dengan indeks kekerasan <2.2
+1.  Agregat Halus harus terdiri dari butiran yg tajam dan keras dengan indeks kekerasan <2.2
 2. bilamana diaplikasikan Natrium Sulfat komponen hancur optimal dua belas persen
 3. seandainya dipakai Magnesium Sulfat bagian halus optimal sepuluh %
 4. Tidak boleh berisi clay lebih dari 5 persen
@@ -41,7 +41,6 @@ Persyaratan Pasir yang Baik Untuk Konstruksi Bangunan
 sesudah tahu persis syarat pasir tuk sebuah Konstruksi, pada saat ini kita bahas Ragam - Tipe Pasir Untuk Bangunan penjelasan nya sbb:
 
 - ### Pasir Jenis Rigid dan Daerah Pengambilannya Di Rawajati Jakarta
-    
 
 Pasir ini umum nya berwarna coklat tua dan tingkat kekerasan butiran nya cukup tinggi. Tetapi jika anda mengepal nya dengan tangan tak akan lengket dan akan buyar kembali. tipe pasir ini sangat lah bagus buat Pengecoran, Plesteran Dinding, Adukan Pondasi dan Adukan Pasangan Bata Pasir ini yaitu pasir untuk Cor adalah butiran-butiran mineral keras dan tajam berukuran antara 0,075 – 5 mm, bila terdapat butiran berukuran lebih kecil dari 0,063 mm tidak lebih dari 5% berat. Pasir ini yaitu pasir untuk Cor hampir tak jarang digunakan untuk pekerjaan cor-coran struktur seperti kolom, balok dan pelat lantai.
 
@@ -59,21 +58,18 @@ Untuk menerima kualitas Rigid yang maksimal maka pasir wajib bisa memenuhi persy
 ![Harga Pasir Ekstra Beton Free Ongkir Ke Rawajati Jakarta](/images/info/pasir-hitam-5.jpg)
 
 - ### Pasir Untuk Pasang Batu, Pondasi, Bata, Ubin, Plester Di Rawajati Jakarta
-    
 
 ![Harga Pasir Ekstra Beton Free Ongkir Ke Rawajati Jakarta](/images/info/pasir-putih12.jpg)
 
 Pasir ini ekstra halus lagi dibandingi oleh pasir beton. seandainya kamu mengepal pasir ini karenanya akan menggumpal dan tak akan buyar kembali. pasir pasang umum nya di pakai untuk adukan pasir beton supaya tidak terlalu kasar dan bisa di manfaatkan untuk plesteran dinding.
 
 - ### Pasir Urug Untuk Dasaran Pemasangan Marmer Di Rawajati Jakarta
-    
 
 Di Antara ke dua pasir diatas pasir tipe ini lebih halus lagi, bila anda mengepal nya akan menggumpal dan tidak akan buyar lagi. tetapi pasir ragam tak baik untuk di buat sebagai bahan bangunan. pasir jenis ini pada lazim nya di pergunakan untuk Bahan Pembuatan Batako
 
 Pada lazim nya pasir ini nyaris sama dgn pasir beton namun pasir ini memiliki tingkat kekasaran yg tinggi, butiran - butiran nya cukup besar dan agak banyak batuan nya. pada umumnya pasir tipe ini baik untuk bahan Pembuatan Batako
 
 - ### Pasir Putih Halus Untuk Pasang Lantai Marmer Di Rawajati Jakarta
-    
 
 1. **Pasir Putih Bangka**
 

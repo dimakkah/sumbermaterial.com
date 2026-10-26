@@ -25,7 +25,7 @@ Berdasarkan Standar Nasional Indonesia ( SK SNI - S - 04 - 1989 - F ; 28) di tut
 
 Persyaratan Pasir yang Bagus buat Konstruksi Bangunan
 
-1.  Agregat Halus patut terdiri dari butiran yg tajam dan keras dengan indeks kekerasan <2.2
+1.  Agregat Halus patut terdiri dari butiran yg tajam dan keras dengan indeks kekerasan <2.2
 2. bilamana diaplikasikan Natrium Sulfat bagian hancur optimal 12 persen
 3. Seandainya diterapkan Magnesium Sulfat komponen halus maksimal sepuluh %
 4. Tak boleh berisi clay lebih dari lima %
@@ -41,7 +41,6 @@ Persyaratan Pasir yang Bagus buat Konstruksi Bangunan
 Setelah tahu persis syarat pasir tuk sebuah Konstruksi Bangunan, pada saat ini kita bahas model - Tipe Pasir Untuk Bangunan penjelasan nya berikut ini:
 
 - ### Pasir Jenis Rigid dan Lokasi Pengambilannya Di Kemayoran Jakarta
-    
 
 Pasir ini biasa nya berwarna hitam kemerahan dan tingkat pecahan butiran nya lumayan tinggi. Namun apabila anda mengepal nya dengan tangan tidak akan lengket dan akan hancur kembali. macam pasir ini benar-benar lah baik buat Pengecoran, Plesteran Dinding, Adukan Pondasi dan Adukan Pasangan Bata Pasir ini yaitu pasir untuk Rigid yaitu butiran-butiran mineral keras dan tajam berukuran antara 0,075 – 5 mm, sekiranya terdapat butiran berukuran lebih kecil dari 0,063 mm tidak lebih dari 5% berat. Pasir ini yaitu pasir untuk Beton kerap kali diaplikasikan untuk pekerjaan cor-coran struktur seperti kolom, balok dan pelat lantai.
 
@@ -59,21 +58,18 @@ Untuk mendapatkan kekokohan Cor yang optimal karenanya pasir mesti bisa memenuhi
 ![Harga Pasir Mundu Free Ongkir Ke Kemayoran Jakarta](/images/info/pasir-hitam-7.jpg)
 
 - ### Pasir Pasang Di Kemayoran Jakarta
-    
 
 ![Harga Pasir Mundu Free Ongkir Ke Kemayoran Jakarta](/images/info/pasir-hitam-11.jpg)
 
 Pasir ini lebih halus lagi diperbandingkan oleh pasir beton. kalau kamu mengepal pasir ini maka akan menggumpal dan tidak akan hancur kembali. pasir pasang lazim nya di pakai untuk adukan pasir beton supaya tak terlampau kasar dan dapat di gunakan untuk plesteran dinding.
 
 - ### Pasir Elod Untuk pengurugan lantai Di Kemayoran Jakarta
-    
 
 Di Antara ke dua pasir diatas pasir jenis ini lebih halus lagi, bila anda mengepal nya akan menggumpal dan tidak akan buyar lagi. tetapi pasir ragam tak bagus tuk di buat sebagai bahan bangunan. pasir ragam ini pada biasa nya di pergunakan tuk Bahan Pembuatan Batako
 
 Pada biasa nya pasir ini nyaris sama dgn pasir beton namun pasir ini memiliki tingkat kekasaran yg tinggi, butiran - butiran nya lumayan besar dan agak banyak batuan nya. pada lazimnya pasir ragam ini baik untuk bahan pemadatan lantai
 
 - ### Pasir Putih Tanpa Ayak Untuk Taman Bermain Di Kemayoran Jakarta
-    
 
 1. **Pasir Putih Bangka**
 

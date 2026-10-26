@@ -25,7 +25,7 @@ berdasarkan Standar Nasional Indonesia ( SK SNI - S - 04 - 1989 - F ; 28) di seb
 
 Persyaratan Pasir yg Bagus Untuk Bangunan
 
-1.  Agregat Halus seharusnya terdiri dari butiran yang tajam dan keras dengan indeks kekerasan <2.2
+1.  Agregat Halus seharusnya terdiri dari butiran yang tajam dan keras dengan indeks kekerasan <2.2
 2. kalau diaplikasikan Natrium Sulfat bagian hancur optimal 12%
 3. sekiranya dipakai Magnesium Sulfat bagian halus optimal 5 persen
 4. Tak boleh berisi tanah lebih dari 5%
@@ -41,7 +41,6 @@ Persyaratan Pasir yg Bagus Untuk Bangunan
 sesudah tahu persis syarat pasir untuk sebuah Konstruksi, sekarang ini kita bahas Jenis - model Pasir Untuk Konstruksi Bangunan penjelasan nya sbb:
 
 - ### Pasir Model Beton dan Lokasi Sumbernya Di Bojongkerta Bogor
-    
 
 Pasir ini lazim nya berwarna hitam kemerahan dan tingkat pecahan butiran nya cukup tinggi. Melainkan kalau anda mengepal nya dengan tangan tak akan lengket dan akan buyar kembali. ragam pasir ini sungguh-sungguh lah bagus untuk Pengecoran, Plesteran Dinding, Adukan Pondasi dan Adukan Pasangan Bata Pasir ini yaitu pasir untuk Cor merupakan butiran-butiran mineral keras dan tajam berukuran antara 0,075 – 5 mm, seandainya terdapat butiran berukuran lebih kecil dari 0,063 mm tidak lebih dari 5% berat. Pasir ini yaitu pasir untuk Beton hampir acap kali dipakai untuk profesi cor-coran struktur seperti kolom, balok dan pelat lantai.
 
@@ -59,21 +58,18 @@ Untuk mendapatkan kualitas Cor yang optimal karenanya pasir harus sanggup memenu
 ![Harga Pasir Ekstra Beton Free Ongkir Ke Bojongkerta Bogor](/images/info/jual-pasir-cor-hitam.jpg)
 
 - ### Pasir Untuk Pasang Batu, Pondasi, Bata, Ubin, Plester Di Bojongkerta Bogor
-    
 
 ![Harga Pasir Ekstra Beton Free Ongkir Ke Bojongkerta Bogor](/images/info/jual-pasir-mundu.jpg)
 
 Pasir ini lebih halus lagi diperbandingkan oleh pasir beton. bila kamu mengepal pasir ini karenanya akan menggumpal dan tidak akan hancur kembali. pasir pasang biasa nya di manfaatkan buat adukan pasir beton agar tidak terlalu kasar dan dapat di manfaatkan untuk plesteran dinding.
 
 - ### Pasir Kualitas rendah Untuk Dasaran Pemasangan Keramik Di Bojongkerta Bogor
-    
 
 Di Antara ke dua pasir diatas pasir tipe ini lebih halus lagi, seandainya anda mengepal nya akan menggumpal dan tidak akan hancur lagi. melainkan pasir jenis
 
 Pada lazim nya pasir ini nyaris sama dgn pasir beton namun pasir ini mempunyai tingkat kekasaran yang tinggi, butiran - butiran nya cukup besar dan agak banyak batuan nya. pada umumnya pasir macam ini baik untuk bahan pengurugan lantai
 
 - ### Pasir Putih Tanpa Ayak Untuk Lapangan Voly Di Bojongkerta Bogor
-    
 
 1. **Pasir Putih Bangka**
 

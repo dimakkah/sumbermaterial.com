@@ -25,7 +25,7 @@ menurut Standar Nasional Indonesia ( SK SNI - S - 04 - 1989 - F ; 28) di sebutka
 
 Syarat Pasir yang Bagus tuk Bangunan
 
-1.  Agregat Halus mesti terdiri dari butiran yang tajam dan keras dengan indeks kekerasan <2.2
+1.  Agregat Halus mesti terdiri dari butiran yang tajam dan keras dengan indeks kekerasan <2.2
 2. Kalau digunakan Natrium Sulfat komponen hancur maksimal 12%
 3. jika diaplikasikan Magnesium Sulfat komponen halus optimal sepuluh persen
 4. Tidak boleh mengandung tanah lebih dari lima persen
@@ -41,7 +41,6 @@ Syarat Pasir yang Bagus tuk Bangunan
 Sesudah memahami syarat pasir tuk sebuah Konstruksi Bangunan, saat ini kita bahas Tipe - Macam Pasir Untuk Konstruksi Bangunan penjelasan nya sebagai berikut:
 
 - ### Pasir Rigid Di Kayu Manis Jakarta
-    
 
 Pasir ini umum nya berwarna hitam pekat dan tingkat kekasaran butiran nya lumayan tinggi. Namun bila anda mengepal nya dengan tangan tak akan lengket dan akan hancur kembali. tipe pasir ini benar-benar lah bagus tuk Pengecoran, Plesteran Dinding, Adukan Pondasi dan Adukan Pasangan Bata Pasir ini yaitu pasir untuk Beton yaitu butiran-butiran mineral keras dan tajam berukuran antara 0,075 – 5 mm, jikalau terdapat butiran berukuran lebih kecil dari 0,063 mm tidak lebih dari 5% berat. Pasir ini yaitu pasir untuk Cor sering kali digunakan untuk pekerjaan cor-coran struktur seperti kolom, balok dan pelat lantai.
 
@@ -59,21 +58,18 @@ Untuk menerima ketahanan Rigid yang optimal karenanya pasir semestinya dapat mem
 ![Harga Pasir Hitam Cor Free Ongkir Ke Kayu Manis Jakarta](/images/info/jual-pasir-cor-hitam.jpg)
 
 - ### Pasir Standar Di Kayu Manis Jakarta
-    
 
 ![Harga Pasir Hitam Cor Free Ongkir Ke Kayu Manis Jakarta](/images/info/jual-pasir-mundu.jpg)
 
 Pasir ini ekstra halus lagi dibandingi oleh pasir beton. jika anda mengepal pasir ini karenanya akan menggumpal dan tak akan hancur kembali. pasir pasang umum nya di manfaatkan tuk campuran pasir beton agar tidak kelewat kasar dan dapat di gunakan untuk plesteran dinding.
 
 - ### Pasir Kualitas rendah Untuk Pembuatan Batako Di Kayu Manis Jakarta
-    
 
 Di Antara ke dua pasir diatas pasir macam ini lebih halus lagi, apabila kamu mengepal nya akan menggumpal dan tidak akan buyar lagi. namun pasir jenis
 
 Pada umum nya pasir ini nyaris sama dengan pasir beton akan tapi pasir ini mempunyai tingkat kekasaran yg tinggi, butiran - butiran nya cukup besar dan agak banyak batuan nya. pada biasanya pasir macam ini bagus tuk bahan pemadatan lantai
 
 - ### Pasir Putih Kadar Lumpur Rendah Untuk Pasang Keramik Di Kayu Manis Jakarta
-    
 
 1. **Pasir Putih Bangka**
 

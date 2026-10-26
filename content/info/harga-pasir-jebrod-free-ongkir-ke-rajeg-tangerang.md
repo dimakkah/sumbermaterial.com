@@ -25,7 +25,7 @@ Menurut Standar Nasional Indonesia ( SK SNI - S - 04 - 1989 - F ; 28) di tuturka
 
 Syarat-Syarat Pasir yg Baik buat Konstruksi
 
-1.  Agregat Halus mesti terdiri dari butiran yang tajam dan keras dengan indeks kekerasan <2.2
+1.  Agregat Halus mesti terdiri dari butiran yang tajam dan keras dengan indeks kekerasan <2.2
 2. bilamana dimanfaatkan Natrium Sulfat komponen hancur optimal 12%
 3. sekiranya dipakai Magnesium Sulfat komponen halus optimal 10%
 4. Tak boleh memuat lumpur lebih dari 5%
@@ -41,7 +41,6 @@ Syarat-Syarat Pasir yg Baik buat Konstruksi
 Setelah mengenal persyaratan pasir buat suatu Bangunan, sekarang ini kita bahas model - Macam Pasir Untuk Konstruksi penjelasan nya berikut ini:
 
 - ### Pasir Jenis Beton dan Tempat Sumbernya Di Rajeg Tangerang
-    
 
 Pasir ini biasa nya berwarna hitam gelap dan tingkat kekasaran butiran nya cukup tinggi. Tapi jika anda mengepal nya dengan tangan tidak akan lengket dan akan hancur kembali. macam pasir ini amat lah baik buat Pengecoran, Plesteran Dinding, Adukan Pondasi dan Adukan Pasangan Bata Pasir ini yaitu pasir untuk Cor yakni butiran-butiran mineral keras dan tajam berukuran antara 0,075 – 5 mm, kalau terdapat butiran berukuran lebih kecil dari 0,063 mm tidak lebih dari 5% berat. Pasir ini yaitu pasir untuk Rigid hampir sering kali diaplikasikan untuk profesi cor-coran struktur seperti kolom, balok dan pelat lantai.
 
@@ -59,21 +58,18 @@ Untuk memperoleh kualitas Rigid yang maksimal maka pasir seharusnya mampu memenu
 ![Harga Pasir Jebrod Free Ongkir Ke Rajeg Tangerang](/images/info/pasir-hitam-5.jpg)
 
 - ### Pasir Pasang Di Rajeg Tangerang
-    
 
 ![Harga Pasir Jebrod Free Ongkir Ke Rajeg Tangerang](/images/info/pasir-putih3.jpg)
 
 Pasir ini ekstra halus lagi dibandingi oleh pasir beton. jikalau kalian mengepal pasir ini maka akan menggumpal dan tak akan buyar kembali. pasir pasang lazim nya di pakai tuk adukan pasir beton agar tak kelewat kasar dan dapat di manfaatkan untuk plesteran dinding.
 
 - ### Pasir Urug Untuk pemadatan lantai Di Rajeg Tangerang
-    
 
 Di Antara ke dua pasir diatas pasir jenis ini lebih halus lagi, jika anda mengepal nya akan menggumpal dan tidak akan buyar lagi. melainkan pasir jenis
 
 Pada nya pasir ini nyaris sama dgn pasir beton akan melainkan pasir ini memiliki tingkat kekasaran yang tinggi, butiran - butiran nya lumayan besar dan agak banyak batuan nya. pada umumnya pasir model ini baik untuk bahan pengurugan lantai
 
 - ### Pasir Putih Tanpa Batu Untuk Lapangan Voly Di Rajeg Tangerang
-    
 
 1. **Pasir Putih Bangka**
 

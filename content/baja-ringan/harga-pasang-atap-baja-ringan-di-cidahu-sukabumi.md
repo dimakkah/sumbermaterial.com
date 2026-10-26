@@ -21,19 +21,19 @@ Pemasangan baja ringan untuk keperluan bangunan dapat dilaksanakan dengan cukup 
 
 Apa saja yang membuat baja ringan jadi pilihan terbaik? Berikut ini beberapa alasan yang perlu Anda ketahui sebelum menghubungi kami:
 
- **Ramah Lingkungan:** Baja ringan lebih ramah lingkungan karena tidak memerlukan kayu, yang berarti Anda tidak perlu menebang pohon. Dengan menggunakan kerangka baja ringan, Anda turut berkontribusi dalam melestarikan alam.
+- **Ramah Lingkungan:** Baja ringan lebih ramah lingkungan karena tidak memerlukan kayu, yang berarti Anda tidak perlu menebang pohon. Dengan menggunakan kerangka baja ringan, Anda turut berkontribusi dalam melestarikan alam.
 
- **Lebih Terjangkau:** Jika dibandingkan dengan kerangka kayu, biaya baja ringan umumnya lebih terjangkau. Kayu berkualitas tinggi membutuhkan investasi yang lebih besar, terutama untuk bagian kerangka yang sangat penting bagi sebuah bangunan. Mempertimbangkan hal ini penting untuk menekan biaya pembangunan.
+- **Lebih Terjangkau:** Jika dibandingkan dengan kerangka kayu, biaya baja ringan umumnya lebih terjangkau. Kayu berkualitas tinggi membutuhkan investasi yang lebih besar, terutama untuk bagian kerangka yang sangat penting bagi sebuah bangunan. Mempertimbangkan hal ini penting untuk menekan biaya pembangunan.
 
- **Ringan dan Kuat:** Baja ringan berbeda dengan baja atau besi biasa yang memiliki berat dua kali lipat. Baja ringan memiliki ketebalan yang tipis dan ringan, namun tetap sangat kuat untuk kerangka atap dan pembuatan *canopy* rumah Anda.
+- **Ringan dan Kuat:** Baja ringan berbeda dengan baja atau besi biasa yang memiliki berat dua kali lipat. Baja ringan memiliki ketebalan yang tipis dan ringan, namun tetap sangat kuat untuk kerangka atap dan pembuatan *canopy* rumah Anda.
 
- **Minim Perawatan:** Anda tidak perlu khawatir tentang kerusakan kerangka atap. Baja ringan membebaskan Anda dari perawatan tahunan yang merepotkan. 
+- **Minim Perawatan:** Anda tidak perlu khawatir tentang kerusakan kerangka atap. Baja ringan membebaskan Anda dari perawatan tahunan yang merepotkan.
 
- **Pemasangan Cepat:** Proses pemasangan baja ringan lebih cepat dibandingkan dengan kerangka atap kayu dan material lain yang memerlukan waktu lebih lama. 
+- **Pemasangan Cepat:** Proses pemasangan baja ringan lebih cepat dibandingkan dengan kerangka atap kayu dan material lain yang memerlukan waktu lebih lama.
 
- **Kualitas Terjamin:** Baja ringan yang kami gunakan bukanlah bahan sembarangan. Bahan utamanya adalah zinc dan aluminium yang telah memiliki sertifikasi dan standar keamanan 4 kali lebih baik dari baja biasa. Bahkan, kekuatannya dapat menahan beban berkilo-kilo.
+- **Kualitas Terjamin:** Baja ringan yang kami gunakan bukanlah bahan sembarangan. Bahan utamanya adalah zinc dan aluminium yang telah memiliki sertifikasi dan standar keamanan 4 kali lebih baik dari baja biasa. Bahkan, kekuatannya dapat menahan beban berkilo-kilo.
 
- **Tahan Rayap:** Kami pastikan bahwa kerangka atap dan *canopy* baja ringan kami dijamin tahan terhadap serangan rayap.
+- **Tahan Rayap:** Kami pastikan bahwa kerangka atap dan *canopy* baja ringan kami dijamin tahan terhadap serangan rayap.
 
 ## Sistem Hitung Luas Rangka Baja Ringan Di Cidahu Sukabumi
 
@@ -59,9 +59,9 @@ Mari kita bahas soal harga jasa pasang baja ringan. Sebenarnya sudah banyak info
 
 (Catatan: biaya dapat ditambahkan sendiri) Berikut ini perkiraan biaya jasa pasang baja ringan berdasarkan tipe pemasangannya:
 
-*   Kanopi rangka baja ringan “Polikarbonat x Lite Rp. 285.000 / m
-*   Kanopi rangka baja ringan “Spandek Rp. 225.000 / m
-*   Kanopi rangka baja ringan “Gogreen Rp. 200.000 /m
+- Kanopi rangka baja ringan “Polikarbonat x Lite Rp. 285.000 / m
+- Kanopi rangka baja ringan “Spandek Rp. 225.000 / m
+- Kanopi rangka baja ringan “Gogreen Rp. 200.000 /m
 
 Untuk perhitungan lainnya, silakan hubungi kami melalui kontak yang tertera di halaman kami.
 
@@ -83,10 +83,10 @@ Setelah pembuatan sketsa dan perhitungan rangka selesai, Anda dapat mendiskusika
 
 Berikut beberapa detail penting mengenai biaya jasa pasang baja ringan yang perlu Anda ketahui:
 
-*   Harga yang kami tawarkan sudah termasuk biaya pemasangan yang terjangkau dan seringkali ada diskon menarik untuk konsumen.
-*   Harga yang kami tetapkan sepadan dengan kualitas jasa pemasangan, perhitungan yang akurat, dan material yang digunakan.
-*   Kami selalu mengutamakan harga terbaik bagi Anda.
-*   Biaya jasa pasang baja ringan dapat berubah sewaktu-waktu karena fluktuasi harga material.
-*   Pembayaran dapat dilakukan dengan uang muka dan sisanya setelah pemasangan selesai.
+- Harga yang kami tawarkan sudah termasuk biaya pemasangan yang terjangkau dan seringkali ada diskon menarik untuk konsumen.
+- Harga yang kami tetapkan sepadan dengan kualitas jasa pemasangan, perhitungan yang akurat, dan material yang digunakan.
+- Kami selalu mengutamakan harga terbaik bagi Anda.
+- Biaya jasa pasang baja ringan dapat berubah sewaktu-waktu karena fluktuasi harga material.
+- Pembayaran dapat dilakukan dengan uang muka dan sisanya setelah pemasangan selesai.
 
 Anda dapat mempercayakan semua kebutuhan Anda kepada kami. Kami, Harga Pasang Atap Baja Ringan Di Cidahu Sukabumi, siap membantu Anda menentukan ukuran, kualitas, dan pemasangan yang tepat. Terima kasih. Harga Pasang Atap Baja Ringan Di Ancol Jakarta

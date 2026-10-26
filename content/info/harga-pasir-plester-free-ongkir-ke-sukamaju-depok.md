@@ -25,7 +25,7 @@ Berdasarkan Standar Nasional Indonesia ( SK SNI - S - 04 - 1989 - F ; 28) di tut
 
 Persyaratan Pasir yang Baik Untuk Bangunan
 
-1.  Agregat Halus mesti terdiri dari butiran yang tajam dan keras dengan indeks kekerasan <2.2
+1.  Agregat Halus mesti terdiri dari butiran yang tajam dan keras dengan indeks kekerasan <2.2
 2. Jika dimanfaatkan Natrium Sulfat komponen hancur optimal dua belas persen
 3. apabila diaplikasikan Magnesium Sulfat bagian halus maksimal sepuluh %
 4. Tidak boleh memuat tanah lebih dari 5 persen
@@ -41,7 +41,6 @@ Persyaratan Pasir yang Baik Untuk Bangunan
 setelah tahu persis prasyarat pasir buat suatu Konstruksi Bangunan, saat ini kita bahas Ragam - Ragam Pasir Untuk Konstruksi Bangunan penjelasan nya sbb:
 
 - ### Pasir Beton Di Sukamaju Depok
-    
 
 Pasir ini lazim nya berwarna keabu-abuan dan tingkat kekasaran butiran nya cukup tinggi. Tapi sekiranya anda mengepal nya dengan tangan tidak akan menggumpal dan akan hancur kembali. ragam pasir ini sangat lah baik untuk Pengecoran, Plesteran Dinding, Adukan Pondasi dan Adukan Pasangan Bata Pasir ini yaitu pasir untuk Beton adalah butiran-butiran mineral keras dan tajam berukuran antara 0,075 – 5 mm, apabila terdapat butiran berukuran lebih kecil dari 0,063 mm tak lebih dari 5% berat. Pasir ini yaitu pasir untuk Beton hampir kerap dimanfaatkan untuk pekerjaan cor-coran struktur seperti kolom, balok dan pelat lantai.
 
@@ -59,21 +58,18 @@ Untuk mendapat kekokohan Rigid yang maksimal karenanya pasir mesti dapat memenuh
 ![Harga Pasir Plester Free Ongkir Ke Sukamaju Depok](/images/info/pasir-hitam-5.jpg)
 
 - ### Pasir Biasa Di Sukamaju Depok
-    
 
 ![Harga Pasir Plester Free Ongkir Ke Sukamaju Depok](/images/info/pasir-putih3.jpg)
 
 Pasir ini lebih halus lagi dibandingi oleh pasir beton. kalau kamu mengepal pasir ini karenanya akan menggumpal dan tidak akan hancur kembali. pasir pasang lazim nya di manfaatkan untuk campuran pasir beton supaya tidak kelewat kasar dan bisa di pakai untuk plesteran dinding.
 
 - ### Pasir Urug Untuk Dasaran Pemasangan Marmer Di Sukamaju Depok
-    
 
 Di Antara ke dua pasir diatas pasir macam ini lebih halus lagi, jika anda mengepal nya karenanya akan menggumpal dan tidak akan hancur lagi. tetapi pasir tipe
 
 Pada umum nya pasir ini nyaris sama dengan pasir beton akan namun pasir ini mempunyai tingkat kekasaran yg tinggi, butiran - butiran nya lumayan besar dan agak banyak batuan nya. pada umumnya pasir macam ini bagus untuk bahan pemadatan lantai
 
 - ### Pasir Putih Bebas Lumpur Untuk Pengecoran Di Sukamaju Depok
-    
 
 1. **Pasir Putih Bangka**
 

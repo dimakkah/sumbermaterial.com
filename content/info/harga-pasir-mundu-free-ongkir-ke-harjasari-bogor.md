@@ -25,7 +25,7 @@ menurut Standar Nasional Indonesia ( SK SNI - S - 04 - 1989 - F ; 28) di tuturka
 
 Syarat-Syarat Pasir yg Bagus Untuk Konstruksi Bangunan
 
-1.  Agregat Halus seharusnya terdiri dari butiran yang tajam dan keras dengan indeks kekerasan <2.2
+1.  Agregat Halus seharusnya terdiri dari butiran yang tajam dan keras dengan indeks kekerasan <2.2
 2. Jikalau diaplikasikan Natrium Sulfat komponen hancur optimal 12%
 3. jikalau dipakai Magnesium Sulfat bagian halus maksimal 5 persen
 4. Tidak boleh mengandung lumpur lebih dari lima %
@@ -41,7 +41,6 @@ Syarat-Syarat Pasir yg Bagus Untuk Konstruksi Bangunan
 setelah memahami prasyarat pasir tuk suatu Bangunan, pada saat ini kita bahas Tipe - Tipe Pasir Untuk Konstruksi Bangunan penjelasan nya sbb:
 
 - ### Pasir Beton Di Harjasari Bogor
-    
 
 Pasir ini umum nya berwarna hitam gelap dan tingkat kekasaran butiran nya cukup tinggi. Tetapi kalau anda mengepal nya dengan tangan tak akan menggumpal dan akan hancur kembali. macam pasir ini betul-betul lah bagus buat Pengecoran, Plesteran Dinding, Adukan Pondasi dan Adukan Pasangan Bata Pasir ini yaitu pasir untuk Beton adalah butiran-butiran mineral keras dan tajam berukuran antara 0,075 – 5 mm, jika terdapat butiran berukuran lebih kecil dari 0,063 mm tak lebih dari 5% berat. Pasir ini yaitu pasir untuk Cor kerap kali dipakai untuk profesi cor-coran struktur seperti kolom, balok dan pelat lantai.
 
@@ -59,21 +58,18 @@ Untuk mendapatkan ketahanan Rigid yang maksimal maka pasir patut bisa memenuhi p
 ![Harga Pasir Mundu Free Ongkir Ke Harjasari Bogor](/images/info/pasir-hitam-2.jpg)
 
 - ### Pasir Biasa Di Harjasari Bogor
-    
 
 ![Harga Pasir Mundu Free Ongkir Ke Harjasari Bogor](/images/info/pasir-hitam-4.jpg)
 
 Pasir ini ekstra halus lagi diperbandingkan oleh pasir beton. seandainya anda mengepal pasir ini maka akan menggumpal dan tak akan hancur kembali. pasir pasang biasa nya di pakai untuk adukan pasir beton agar tidak terlampau kasar dan dapat di gunakan untuk plesteran dinding.
 
 - ### Pasir Kualitas rendah Untuk pengurugan lantai Di Harjasari Bogor
-    
 
 Di Antara ke dua pasir diatas pasir ragam ini lebih halus lagi, apabila kamu mengepal nya akan menggumpal dan tak akan buyar lagi. tapi pasir jenis
 
 Pada nya pasir ini nyaris sama dgn pasir beton akan melainkan pasir ini memiliki tingkat kekasaran yang tinggi, butiran - butiran nya cukup besar dan agak banyak batuan nya. pada lazimnya pasir jenis ini baik tuk bahan Pembuatan Batako
 
 - ### Pasir Putih Halus Untuk Pasang Keramik Di Harjasari Bogor
-    
 
 1. **Pasir Putih Bangka**
 

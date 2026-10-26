@@ -19,8 +19,6 @@ draft: false
 
 ![Jasa Bangun Rumah Ulujami: Estimasi Biaya & Pilihan Material Terbaik](/images/bangunan/jasa-bangun-rumah-minimalis-28-1.png)
 
-
-
 Nah, sebelum kita membahas lebih jauh, penting untuk memahami bahwa biaya bangun rumah itu bervariasi. Banyak faktor yang mempengaruhinya, mulai dari luas bangunan, desain rumah, pemilihan material, hingga tingkat kesulitan pekerjaan. Tapi jangan khawatir, Mitra, Kami akan memberikan gambaran estimasi biaya dan pilihan material yang bisa Anda pertimbangkan.
 
 ## Estimasi Biaya Jasa Bangun Rumah di Ulujami: Apa Saja yang Mempengaruhi?
@@ -31,9 +29,9 @@ Faktor lain yang berperan adalah desain rumah. Desain yang kompleks dengan banya
 
 Untuk gambaran yang lebih jelas, berikut ini adalah perkiraan biaya berdasarkan luas bangunan:
 
-*   **Rumah Tipe 36 (luas bangunan 36 m²):** Rp 126.000.000 – Rp 216.000.000
-*   **Rumah Tipe 45 (luas bangunan 45 m²):** Rp 157.500.000 – Rp 270.000.000
-*   **Rumah Tipe 54 (luas bangunan 54 m²):** Rp 189.000.000 – Rp 324.000.000
+- **Rumah Tipe 36 (luas bangunan 36 m²):** Rp 126.000.000 – Rp 216.000.000
+- **Rumah Tipe 45 (luas bangunan 45 m²):** Rp 157.500.000 – Rp 270.000.000
+- **Rumah Tipe 54 (luas bangunan 54 m²):** Rp 189.000.000 – Rp 324.000.000
 
 Harga ini bersifat estimasi dan dapat berubah sewaktu-waktu — hubungi Kami untuk penawaran terbaru dan paling akurat sesuai kebutuhan proyek Mitra.
 
@@ -44,7 +42,6 @@ Memilih material bangunan yang tepat sangat penting untuk memastikan kualitas da
 Untuk dinding, Anda bisa memilih bata merah, batako, atau hebel. Bata merah adalah pilihan klasik yang terjangkau, sedangkan batako lebih ringan dan mudah dipotong. Hebel adalah pilihan yang semakin populer karena ringan, kuat, dan memiliki insulasi termal yang baik. Perlu diingat, kualitas material sangat berpengaruh terhadap hasil akhir. Pastikan Anda membeli material dari supplier terpercaya seperti Sumber Material.
 
 Berikut tabel perbandingan singkat antara bata merah, batako, dan hebel:
-
 
 <table class="table">
   <caption>Perbandingan Material Dinding</caption>
@@ -57,7 +54,6 @@ Berikut tabel perbandingan singkat antara bata merah, batako, dan hebel:
     <tr><td>Hebel</td><td>Kuat</td><td>Rp 60.000 - Rp 80.000</td><td>Ringan, Insulasi Baik, Tahan Gempa</td><td>Harga Lebih Mahal</td></tr>
   </tbody>
 </table>
-
 
 ## Mengapa Memilih Jasa Bangun Rumah Ulujami dari Sumber Material?
 

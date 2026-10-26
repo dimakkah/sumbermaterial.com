@@ -25,7 +25,7 @@ Menurut Standar Nasional Indonesia ( SK SNI - S - 04 - 1989 - F ; 28) di sebutka
 
 Syarat Pasir yang Baik tuk Konstruksi
 
-1.  Agregat Halus sepatutnya terdiri dari butiran yg tajam dan keras dengan indeks kekerasan <2.2
+1.  Agregat Halus sepatutnya terdiri dari butiran yg tajam dan keras dengan indeks kekerasan <2.2
 2. sekiranya diterapkan Natrium Sulfat komponen hancur optimal dua belas %
 3. seandainya diterapkan Magnesium Sulfat komponen halus optimal sepuluh %
 4. Tidak boleh memuat lumpur lebih dari 5 persen
@@ -41,7 +41,6 @@ Syarat Pasir yang Baik tuk Konstruksi
 sesudah tahu persis syarat pasir buat sebuah Konstruksi Bangunan, pada saat ini kita bahas Ragam - Jenis Pasir Untuk Bangunan penjelasan nya berikut ini:
 
 - ### Pasir Model Beton dan Tempat Pengambilannya Di Papanggo Jakarta
-    
 
 Pasir ini biasa nya berwarna hitam gelap dan tingkat kekasaran butiran nya lumayan tinggi. Melainkan seandainya anda mengepal nya dengan tangan tak akan menggumpal dan akan buyar kembali. model pasir ini sangat lah bagus tuk Pengecoran, Plesteran Dinding, Adukan Pondasi dan Adukan Pasangan Bata Pasir ini yaitu pasir untuk Cor yakni butiran-butiran mineral keras dan tajam berukuran antara 0,075 – 5 mm, bila terdapat butiran berukuran lebih kecil dari 0,063 mm tak lebih dari 5% berat. Pasir ini yaitu pasir untuk Beton acap kali diterapkan untuk profesi cor-coran struktur seperti kolom, balok dan pelat lantai.
 
@@ -59,21 +58,18 @@ Untuk memperoleh kekokohan Beton yang maksimal karenanya pasir patut bisa memenu
 ![Harga Pasir Plester Free Ongkir Ke Papanggo Jakarta](/images/info/pasir-hitam-7.jpg)
 
 - ### Pasir Standar Di Papanggo Jakarta
-    
 
 ![Harga Pasir Plester Free Ongkir Ke Papanggo Jakarta](/images/info/pasir-putih12.jpg)
 
 Pasir ini lebih halus lagi dibandingi oleh pasir beton. seandainya anda mengepal pasir ini karenanya akan menggumpal dan tidak akan hancur kembali. pasir pasang biasa nya di gunakan tuk campuran pasir beton agar tak terlalu kasar dan dapat di pakai untuk plesteran dinding.
 
 - ### Pasir Urug Untuk pengurugan lantai Di Papanggo Jakarta
-    
 
 Di Antara ke dua pasir diatas pasir model ini lebih halus lagi, kalau anda mengepal nya akan menggumpal dan tak akan buyar lagi. tapi pasir ragam tak baik tuk di buat sebagai bahan bangunan. pasir ragam ini pada biasa nya di pergunakan untuk Bahan Pembuatan Batako
 
 Pada umum nya pasir ini nyaris sama dengan pasir beton tapi pasir ini mempunyai tingkat kekasaran yg tinggi, butiran - butiran nya lumayan besar dan agak banyak batuan nya. pada biasanya pasir jenis ini baik untuk bahan dasaran pemasangan keramik
 
 - ### Pasir Putih Tanpa Batu Untuk Hiasan Di Papanggo Jakarta
-    
 
 1. **Pasir Putih Bangka**
 

@@ -25,7 +25,7 @@ berdasarkan Standar Nasional Indonesia ( SK SNI - S - 04 - 1989 - F ; 28) di tut
 
 Persyaratan Pasir yang Baik tuk Konstruksi
 
-1.  Agregat Halus wajib terdiri dari butiran yg tajam dan keras dengan indeks kekerasan <2.2
+1.  Agregat Halus wajib terdiri dari butiran yg tajam dan keras dengan indeks kekerasan <2.2
 2. Jika digunakan Natrium Sulfat komponen hancur maksimal dua belas persen
 3. seandainya digunakan Magnesium Sulfat komponen halus maksimal 10%
 4. Tidak boleh memuat lumpur lebih dari 5 persen
@@ -41,7 +41,6 @@ Persyaratan Pasir yang Baik tuk Konstruksi
 Setelah mengenal persyaratan pasir tuk sebuah Bangunan, pada saat ini kita bahas Macam - Jenis Pasir Untuk Bangunan penjelasan nya berikut ini:
 
 - ### Pasir Beton Di Mangga Dua Jakarta
-    
 
 Pasir ini umum nya berwarna hitam pekat dan tingkat kekerasan butiran nya lumayan tinggi. Tetapi jika anda mengepal nya dengan tangan tidak akan menggumpal dan akan buyar kembali. jenis pasir ini amat lah baik buat Pengecoran, Plesteran Dinding, Adukan Pondasi dan Adukan Pasangan Bata Pasir ini yaitu pasir untuk Rigid adalah butiran-butiran mineral keras dan tajam berukuran antara 0,075 – 5 mm, seandainya terdapat butiran berukuran lebih kecil dari 0,063 mm tidak lebih dari 5% berat. Pasir ini yaitu pasir untuk Rigid acap kali diaplikasikan untuk profesi cor-coran struktur seperti kolom, balok dan pelat lantai.
 
@@ -59,21 +58,18 @@ Untuk mendapat ketahanan Rigid yang maksimal maka pasir wajib dapat memenuhi per
 ![Harga Pasir Jalupang Free Ongkir Ke Mangga Dua Jakarta](/images/info/pasir-hitam-1.jpg)
 
 - ### Pasir Untuk Pemasangan Batu, Pondasi, Bata, Ubin, Plester Di Mangga Dua Jakarta
-    
 
 ![Harga Pasir Jalupang Free Ongkir Ke Mangga Dua Jakarta](/images/info/jual-pasir-mundu-2.jpg)
 
 Pasir ini lebih halus lagi dibandingi oleh pasir beton. apabila anda mengepal pasir ini karenanya akan menggumpal dan tidak akan buyar kembali. pasir pasang lazim nya di pakai buat adukan pasir beton agar tidak terlampau kasar dan dapat di manfaatkan untuk plesteran dinding.
 
 - ### Pasir Kualitas rendah Untuk pengurugan lantai Di Mangga Dua Jakarta
-    
 
 Di Antara ke dua pasir diatas pasir ragam ini lebih halus lagi, bila kamu mengepal nya karenanya akan menggumpal dan tak akan buyar lagi. tetapi pasir ragam tidak baik untuk di buat sebagai bahan bangunan. pasir jenis ini pada nya di manfaatkan tuk Bahan Pembuatan Batako
 
 Pada umum nya pasir ini nyaris sama dgn pasir beton namun pasir ini mempunyai tingkat kekasaran yg tinggi, butiran - butiran nya cukup besar dan agak banyak batuan nya. pada lazimnya pasir ragam ini bagus tuk bahan pengurugan lantai
 
 - ### Pasir Putih Tanpa Ayak Untuk Pelester Di Mangga Dua Jakarta
-    
 
 1. **Pasir Putih Bangka**
 

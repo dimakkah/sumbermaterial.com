@@ -25,7 +25,7 @@ Menurut Standar Nasional Indonesia ( SK SNI - S - 04 - 1989 - F ; 28) di sebutka
 
 Prasyarat Pasir yang Baik Untuk Bangunan
 
-1.  Agregat Halus seharusnya terdiri dari butiran yang tajam dan keras dengan indeks kekerasan <2.2
+1.  Agregat Halus seharusnya terdiri dari butiran yang tajam dan keras dengan indeks kekerasan <2.2
 2. jika diterapkan Natrium Sulfat bagian hancur optimal dua belas %
 3. sekiranya diaplikasikan Magnesium Sulfat komponen halus maksimal sepuluh persen
 4. Tidak boleh mengandung tanah lebih dari 5 persen
@@ -41,7 +41,6 @@ Prasyarat Pasir yang Baik Untuk Bangunan
 Setelah memahami syarat pasir untuk sebuah Konstruksi Bangunan, saat ini kita bahas Ragam - Macam Pasir Untuk Konstruksi penjelasan nya sebagai berikut:
 
 - ### Pasir Beton Di Cilamaya Wetan Karawang
-    
 
 Pasir ini biasa nya berwarna hitam kemerahan dan tingkat kekasaran butiran nya lumayan tinggi. Tetapi apabila anda mengepal nya dengan tangan tidak akan lengket dan akan hancur kembali. model pasir ini benar-benar lah bagus untuk Pengecoran, Plesteran Dinding, Adukan Pondasi dan Adukan Pasangan Bata Pasir ini yaitu pasir untuk Beton merupakan butiran-butiran mineral keras dan tajam berukuran antara 0,075 – 5 mm, bila terdapat butiran berukuran lebih kecil dari 0,063 mm tak lebih dari 5% berat. Pasir ini yaitu pasir untuk Beton hampir sering dipakai untuk profesi cor-coran struktur seperti kolom, balok dan pelat lantai.
 
@@ -59,21 +58,18 @@ Untuk menerima ketahanan Rigid yang maksimal karenanya pasir seharusnya sanggup 
 ![Harga Pasir Putih Bangka Free Ongkir Ke Cilamaya Wetan Karawang](/images/info/pasir-hitam-2.jpg)
 
 - ### Pasir Untuk Adukan Pasang Batu, Pondasi, Bata, Ubin, Plester Di Cilamaya Wetan Karawang
-    
 
 ![Harga Pasir Putih Bangka Free Ongkir Ke Cilamaya Wetan Karawang](/images/info/pasir-hitam-4.jpg)
 
 Pasir ini ekstra halus lagi dibandingkan oleh pasir beton. jikalau anda mengepal pasir ini karenanya akan menggumpal dan tidak akan buyar kembali. pasir pasang umum nya di gunakan buat adukan pasir beton supaya tidak terlalu kasar dan bisa di gunakan untuk plesteran dinding.
 
 - ### Pasir Kualitas rendah Untuk Pembuatan Batako Di Cilamaya Wetan Karawang
-    
 
 Di Antara ke dua pasir diatas pasir tipe ini lebih halus lagi, jikalau kalian mengepal nya akan menggumpal dan tak akan hancur lagi. tetapi pasir jenis
 
 Pada lazim nya pasir ini nyaris sama dengan pasir beton akan tetapi pasir ini memiliki tingkat kekasaran yang tinggi, butiran - butiran nya lumayan besar dan agak banyak batuan nya. pada lazimnya pasir tipe ini baik tuk bahan Pembuatan Batako
 
 - ### Pasir Putih Tanpa Batu Untuk Pelester Di Cilamaya Wetan Karawang
-    
 
 1. **Pasir Putih Bangka**
 

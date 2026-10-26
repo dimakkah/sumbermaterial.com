@@ -16,7 +16,7 @@ dikala ini material yg digunakan untuk mengisi dinding tempat tinggal, sudah ter
 
 ## Mengenal Macam-macam Bata
 
-### 1\. Bata Merah Standar & Jumbo Di Kencana Bogor
+### 1. Bata Merah Standar & Jumbo Di Kencana Bogor
 
 ![Harga Batako Hitam Press Gratis Ongkir Ke Kencana Bogor](/images/bata/bata-merah-oven-05.png)
 
@@ -26,7 +26,7 @@ Bata merah ini dibuat dari bahan tanah yang kemudian di press dan dioven dengan 
 
 Material bangunan ini benar-benar tahan terhadap panas dan pantas dijadikan proteksi dari panas api. Bata merah ini pada umumnya memiliki ukuran panjang antara 17-23 cm dan lebar sekitar 7-11 cm, serta tebalnya 3-5 cm. mempunyai ukuran yang lebih kecil akan memberi kemudahan dalam progres pengangkutan dan bisa diterapkan untuk membentuk bidang kecil.
 
-### 2\. Batako Hitam dan Putih Di Kencana Bogor
+### 2. Batako Hitam dan Putih Di Kencana Bogor
 
 ![Harga Batako Hitam Press Gratis Ongkir Ke Kencana Bogor](/images/bata/batako-hitam-press-12.png)
 
@@ -34,7 +34,7 @@ Material bangunan tembok dari batako trus ini secara umum terbuat dari material 
 
 Batako trus seperti ini mempunyai kelemahan seperti mudah retak, lebih panas dan pengap. Berbeda dengan bata merah yang terbuat dari material tanah. Tetapi batako ini cenderung lebih ringan ketimbang bata merah. Akhirnya akan nampak lebih halus dan ukurannya lebih presisi jika dibandingkan dengan bata merah. Batako press Hitam ini memiliki ukuran panjang sekitar 36-40 cm, tinggi 18-20 cm dan tebal 8-10 cm. material ini tak jarang dipilih karena untuk memperingan beban struktur bangunan, meminimalisir sisa material dan mempercepat pembangunan.
 
-### 3\. Bata Ringan Di Kencana Bogor
+### 3. Bata Ringan Di Kencana Bogor
 
 ![Harga Batako Hitam Press Gratis Ongkir Ke Kencana Bogor](/images/bata/bata-hebel-sni-06.png)
 
@@ -62,7 +62,7 @@ Segalanya tentu telah tahu fungsi utama batu bata mulai diterapkan untuk membuat
 
 Metode memesan batu bata yang aman dan terpercaya:
 
-1.  Kerja pembayaran bisa anda lakukan secara COD atau dibayar di daerah dikala barang pesanan anda sudah datang di tempat
+1.  Kerja pembayaran bisa anda lakukan secara COD atau dibayar di daerah dikala barang pesanan anda sudah datang di tempat
 2. Silahkan memilih dan menentukan bahan batu bata yg anda inginkan
 3. Tentukan juga jumlah pesanan batu bata yang anda butuhkan dalam wujud bijian.
 4. Anda bisa menghubungi layanan telepon warung untuk mempermudah proses pengorderan

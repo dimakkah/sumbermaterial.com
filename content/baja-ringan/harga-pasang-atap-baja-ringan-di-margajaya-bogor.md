@@ -21,13 +21,13 @@ Membangun atau merenovasi dengan baja ringan di Margajaya Bogor bisa jadi lebih 
 
 Apa saja sih yang membuat baja ringan begitu unggul? Ini dia beberapa alasan mengapa Anda harus mempertimbangkan baja ringan untuk proyek Anda di Margajaya Bogor:
 
- **Ramah Lingkungan:** Anda turut berkontribusi dalam pelestarian alam karena tidak membutuhkan kayu.
- **Lebih Ekonomis:** Dibandingkan kayu, harga baja ringan jauh lebih terjangkau, membantu menekan biaya pembangunan.
- **Ringan dan Kuat:** Baja ringan tipis namun memiliki kekuatan yang luar biasa untuk menopang atap dan kanopi Anda.
- **Perawatan Minimal:** Anda bebas dari perawatan tahunan yang merepotkan.
- **Pemasangan Cepat:** Proses pemasangan jauh lebih cepat dibandingkan bahan tradisional.
- **Kualitas Terjamin:** Baja ringan yang kami gunakan bersertifikasi dan memiliki standar keamanan 4 kali lebih baik dari baja biasa.
- **Tahan Rayap:** Kerangka atap dan kanopi baja ringan dijamin kuat dan tahan terhadap serangan rayap.
+- **Ramah Lingkungan:** Anda turut berkontribusi dalam pelestarian alam karena tidak membutuhkan kayu.
+- **Lebih Ekonomis:** Dibandingkan kayu, harga baja ringan jauh lebih terjangkau, membantu menekan biaya pembangunan.
+- **Ringan dan Kuat:** Baja ringan tipis namun memiliki kekuatan yang luar biasa untuk menopang atap dan kanopi Anda.
+- **Perawatan Minimal:** Anda bebas dari perawatan tahunan yang merepotkan.
+- **Pemasangan Cepat:** Proses pemasangan jauh lebih cepat dibandingkan bahan tradisional.
+- **Kualitas Terjamin:** Baja ringan yang kami gunakan bersertifikasi dan memiliki standar keamanan 4 kali lebih baik dari baja biasa.
+- **Tahan Rayap:** Kerangka atap dan kanopi baja ringan dijamin kuat dan tahan terhadap serangan rayap.
 
 ## Metode Hitung Luas Rangka Baja Ringan Di Margajaya Bogor
 
@@ -53,9 +53,9 @@ Mencari informasi biaya jasa pasang baja ringan? Banyak sekali sumber online yan
 
 (Catatan: biaya dapat disesuaikan) Berikut adalah perkiraan biaya jasa pasang baja ringan berdasarkan jenis pemasangannya:
 
-*   Kanopi untuk rangka baja ringan “Polikarbonat x Lite Rp. 285.000 / m
-*   Kanopi untuk rangka baja ringan “Spandek Rp. 225.000 / m
-*   Kanopi untuk rangka baja ringan “Gogreen Rp. 200.000 /m
+- Kanopi untuk rangka baja ringan “Polikarbonat x Lite Rp. 285.000 / m
+- Kanopi untuk rangka baja ringan “Spandek Rp. 225.000 / m
+- Kanopi untuk rangka baja ringan “Gogreen Rp. 200.000 /m
 
 Untuk perhitungan lainnya, silakan hubungi kami melalui kontak yang tersedia di halaman website kami.
 
@@ -77,12 +77,11 @@ Setelah sketsa dan perhitungan rangka selesai, Anda dapat mendiskusikan estimasi
 
 Berikut adalah detail harga jasa pasang baja ringan yang perlu Anda ketahui:
 
-*   Harga layanan kami sudah termasuk harga pemasangan yang terjangkau dan seringkali memberikan diskon menarik.
-*   Harga yang kami berikan sudah mencakup biaya pemasangan, perhitungan, dan material.
-*   Kami selalu mengutamakan harga terbaik untuk Anda.
-*   Biaya layanan pasang baja ringan dapat berubah sewaktu-waktu karena fluktuasi harga material.
-*   Pembayaran dapat dilakukan dengan *down payment* dan sisanya setelah pemasangan selesai.
-
+- Harga layanan kami sudah termasuk harga pemasangan yang terjangkau dan seringkali memberikan diskon menarik.
+- Harga yang kami berikan sudah mencakup biaya pemasangan, perhitungan, dan material.
+- Kami selalu mengutamakan harga terbaik untuk Anda.
+- Biaya layanan pasang baja ringan dapat berubah sewaktu-waktu karena fluktuasi harga material.
+- Pembayaran dapat dilakukan dengan *down payment* dan sisanya setelah pemasangan selesai.
 
 <table class="table">
   <caption>Estimasi Biaya Pemasangan Baja Ringan</caption>
@@ -95,6 +94,5 @@ Berikut adalah detail harga jasa pasang baja ringan yang perlu Anda ketahui:
     <tr><td>Kanopi Gogreen</td><td>Rp 200.000</td></tr>
   </tbody>
 </table>
-
 
 Sekian informasi mengenai Harga Pasang Atap Baja Ringan Di Margajaya Bogor. Jangan ragu untuk menghubungi kami untuk konsultasi dan penawaran terbaik! Hubungi Kami untuk mendapatkan estimasi biaya yang akurat sesuai dengan kebutuhan Anda. Kami siap membantu mewujudkan proyek bangunan impian Anda di Margajaya Bogor.

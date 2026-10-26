@@ -25,7 +25,7 @@ menurut Standar Nasional Indonesia ( SK SNI - S - 04 - 1989 - F ; 28) di tuturka
 
 Syarat-Syarat Pasir yang Bagus tuk Bangunan
 
-1.  Agregat Halus harus terdiri dari butiran yang tajam dan keras dengan indeks kekerasan <2.2
+1.  Agregat Halus harus terdiri dari butiran yang tajam dan keras dengan indeks kekerasan <2.2
 2. Jikalau dimanfaatkan Natrium Sulfat komponen hancur optimal 12 persen
 3. Jikalau dipakai Magnesium Sulfat komponen halus maksimal sepuluh persen
 4. Tidak boleh mengandung lumpur lebih dari lima %
@@ -41,7 +41,6 @@ Syarat-Syarat Pasir yang Bagus tuk Bangunan
 sesudah memahami persyaratan pasir tuk sebuah Konstruksi Bangunan, saat ini kita bahas Ragam - Tipe Pasir Untuk Bangunan penjelasan nya sbb:
 
 - ### Pasir Cor Di Rajeg Tangerang
-    
 
 Pasir ini umum nya berwarna keabu-abuan dan tingkat kekasaran butiran nya lumayan tinggi. Melainkan seandainya anda mengepal nya dengan tangan tak akan lengket dan akan hancur kembali. model pasir ini amat lah baik tuk Pengecoran, Plesteran Dinding, Adukan Pondasi dan Adukan Pasangan Bata Pasir ini yaitu pasir untuk Rigid adalah butiran-butiran mineral keras dan tajam berukuran antara 0,075 – 5 mm, sekiranya terdapat butiran berukuran lebih kecil dari 0,063 mm tak lebih dari 5% berat. Pasir ini yaitu pasir untuk Beton hampir kerap kali diaplikasikan untuk pekerjaan cor-coran struktur seperti kolom, balok dan pelat lantai.
 
@@ -59,21 +58,18 @@ Untuk mendapatkan kekokohan Rigid yang optimal karenanya pasir mesti mampu memen
 ![Harga Pasir Putih Bangka Free Ongkir Ke Rajeg Tangerang](/images/info/pasir-hitam-7.jpg)
 
 - ### Pasir Pasang Di Rajeg Tangerang
-    
 
 ![Harga Pasir Putih Bangka Free Ongkir Ke Rajeg Tangerang](/images/info/jual-pasir-mundu-2.jpg)
 
 Pasir ini lebih halus lagi dibandingkan oleh pasir beton. jikalau kamu mengepal pasir ini karenanya akan menggumpal dan tak akan hancur kembali. pasir pasang lazim nya di gunakan untuk campuran pasir beton agar tidak terlalu kasar dan dapat di pakai untuk plesteran dinding.
 
 - ### Pasir Elod Untuk Dasaran Pemasangan Granit Di Rajeg Tangerang
-    
 
 Di Antara ke dua pasir diatas pasir model ini lebih halus lagi, sekiranya kalian mengepal nya karenanya akan menggumpal dan tidak akan buyar lagi. melainkan pasir jenis
 
 Pada biasa nya pasir ini nyaris sama dgn pasir beton tapi pasir ini memiliki tingkat kekasaran yg tinggi, butiran - butiran nya cukup besar dan agak banyak batuan nya. pada lazimnya pasir tipe ini bagus untuk bahan dasaran pemasangan keramik
 
 - ### Pasir Putih Bebas Lumpur Untuk Hiasan Di Rajeg Tangerang
-    
 
 1. **Pasir Putih Bangka**
 

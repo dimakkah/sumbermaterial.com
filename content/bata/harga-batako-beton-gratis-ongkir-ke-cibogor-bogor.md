@@ -16,7 +16,7 @@ dikala ini bahan yg digunakan untuk mengisi dinding gedung, sudah terdapat berba
 
 ## Mengenal Macam-macam Bata
 
-### 1\. Bata Merah Standar & Jumbo Di Cibogor Bogor
+### 1. Bata Merah Standar & Jumbo Di Cibogor Bogor
 
 ![Harga Batako Beton Gratis Ongkir Ke Cibogor Bogor](/images/bata/bata-merah-oven-03.png)
 
@@ -26,7 +26,7 @@ Bata merah ini dihasilkan dari bahan tanah yang kemudian di bentuk dan dibakar d
 
 Bahan bangunan ini betul-betul tahan terhadap panas dan cocok dibuat pengamanan dari bahaya api. Bata merah ini pada umumnya memiliki ukuran panjang antara 17-23 cm dan lebar sekitar 7-11 cm, serta tebalnya 3-5 cm. mempunyai ukuran yang lebih kecil akan memberi kemudahan dalam progres pengangkutan dan bisa digunakan untuk menyusun bidang kecil.
 
-### 2\. Batako Hitam dan Putih Di Cibogor Bogor
+### 2. Batako Hitam dan Putih Di Cibogor Bogor
 
 ![Harga Batako Beton Gratis Ongkir Ke Cibogor Bogor](/images/bata/batako-hitam-press-31.png)
 
@@ -34,7 +34,7 @@ Material bangunan dinding dari batako ini secara umum terbuat dari bahan campura
 
 Batako seperti ini mempunyai kelemahan seperti mudah pecah, lebih panas dan pengap. Berbeda dg bata merah yang terbuat dari material tanah. Namun batako ini cenderung lebih ringan ketimbang bata merah. Akhirnya akan nampak lebih halus dan ukurannya lebih presisi jikalau dibandingkan dg bata merah. Batako Hitam ini memiliki ukuran panjang sekitar 36-40 cm, tinggi 18-20 cm dan tebal 8-10 cm. material ini sering dipilih sebab untuk memperingan beban struktur bangunan, meminimalisir sisa material dan mempercepat pembangunan.
 
-### 3\. Bata Herbel Di Cibogor Bogor
+### 3. Bata Herbel Di Cibogor Bogor
 
 ![Harga Batako Beton Gratis Ongkir Ke Cibogor Bogor](/images/bata/bata-hebel-sni-15.png)
 
@@ -62,7 +62,7 @@ Segalanya tentu telah tahu fungsi utama batu bata mulai dipakai untuk membikin t
 
 Cara memesan batu bata yg aman dan terpercaya:
 
-1.  Kerja pembayaran bisa anda lakukan secara COD atau dibayar di daerah ketika barang orderan anda sudah datang di daerah
+1.  Kerja pembayaran bisa anda lakukan secara COD atau dibayar di daerah ketika barang orderan anda sudah datang di daerah
 2. Silahkan memilih dan memutuskan bahan batu bata yg anda inginkan
 3. Tentukan juga jumlah pesanan batu bata yg anda butuhkan dalam wujud bijian.
 4. Anda bisa menghubungi layanan telepon kios untuk memudahkan pelaksanaan pengorderan

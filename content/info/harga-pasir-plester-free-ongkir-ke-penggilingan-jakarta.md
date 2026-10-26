@@ -25,7 +25,7 @@ menurut Standar Nasional Indonesia ( SK SNI - S - 04 - 1989 - F ; 28) di sebutka
 
 Syarat-Syarat Pasir yang Bagus buat Konstruksi Bangunan
 
-1.  Agregat Halus patut terdiri dari butiran yg tajam dan keras dengan indeks kekerasan <2.2
+1.  Agregat Halus patut terdiri dari butiran yg tajam dan keras dengan indeks kekerasan <2.2
 2. Kalau digunakan Natrium Sulfat bagian hancur maksimal dua belas persen
 3. bila diaplikasikan Magnesium Sulfat komponen halus optimal 5 persen
 4. Tak boleh berisi clay lebih dari lima %
@@ -41,7 +41,6 @@ Syarat-Syarat Pasir yang Bagus buat Konstruksi Bangunan
 sesudah tahu persis syarat pasir tuk suatu Konstruksi, sekarang ini kita bahas model - Ragam Pasir Untuk Konstruksi Bangunan penjelasan nya sbb:
 
 - ### Pasir Untuk Pengecoran Di Penggilingan Jakarta
-    
 
 Pasir ini umum nya berwarna coklat tua dan tingkat kekasaran butiran nya cukup tinggi. Tetapi bila anda mengepal nya dengan tangan tak akan menggumpal dan akan hancur kembali. jenis pasir ini sungguh-sungguh lah baik buat Pengecoran, Plesteran Dinding, Adukan Pondasi dan Adukan Pasangan Bata Pasir ini yaitu pasir untuk Rigid ialah butiran-butiran mineral keras dan tajam berukuran antara 0,075 – 5 mm, jika terdapat butiran berukuran lebih kecil dari 0,063 mm tak lebih dari 5% berat. Pasir ini yaitu pasir untuk Rigid kerap dipakai untuk profesi cor-coran struktur seperti kolom, balok dan pelat lantai.
 
@@ -59,21 +58,18 @@ Untuk menerima kekokohan Rigid yang optimal karenanya pasir harus dapat memenuhi
 ![Harga Pasir Plester Free Ongkir Ke Penggilingan Jakarta](/images/info/pasir-hitam-2.jpg)
 
 - ### Pasir Standar Di Penggilingan Jakarta
-    
 
 ![Harga Pasir Plester Free Ongkir Ke Penggilingan Jakarta](/images/info/jual-pasir-mundu.jpg)
 
 Pasir ini ekstra halus lagi dibandingkan oleh pasir beton. seandainya kamu mengepal pasir ini maka akan menggumpal dan tak akan buyar kembali. pasir pasang biasa nya di manfaatkan untuk campuran pasir beton agar tak terlalu kasar dan dapat di pakai untuk plesteran dinding.
 
 - ### Pasir Kualitas rendah Untuk Pembuatan Batako Di Penggilingan Jakarta
-    
 
 Di Antara ke dua pasir diatas pasir macam ini lebih halus lagi, bila kalian mengepal nya akan menggumpal dan tak akan hancur lagi. tapi pasir tipe
 
 Pada lazim nya pasir ini nyaris sama dgn pasir beton namun pasir ini mempunyai tingkat kekasaran yg tinggi, butiran - butiran nya lumayan besar dan agak banyak batuan nya. pada biasanya pasir ragam ini bagus untuk bahan pengurugan lantai
 
 - ### Pasir Putih Tanpa Batu Untuk Pengecoran Di Penggilingan Jakarta
-    
 
 1. **Pasir Putih Bangka**
 

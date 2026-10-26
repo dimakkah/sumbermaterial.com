@@ -21,13 +21,13 @@ Pemasangan baja ringan untuk kebutuhan bangunan dapat dilaksanakan dengan cukup 
 
 Berikut adalah beberapa alasan penting yang perlu Anda ketahui sebelum menghubungi kami:
 
- **Ramah Lingkungan:** Baja ringan dianggap lebih ramah lingkungan karena Anda tidak memerlukan kayu, yang mana untuk mendapatkannya seringkali harus menebang pohon terlebih dahulu. Dengan menggunakan kerangka baja ringan, Anda turut berkontribusi dalam melestarikan alam.
- **Lebih Terjangkau:** Jika dibandingkan dengan kerangka dari bahan kayu, biaya baja ringan cenderung lebih murah. Terutama untuk komponen kerangka yang krusial untuk sebuah bangunan. Anda perlu memikirkan ini matang-matang untuk menekan biaya pembangunan.
- **Ringan dan Kuat:** Baja ringan berbeda dengan baja atau besi yang memiliki berat 2 kali lipatnya. Baja ringan memiliki ketebalan yang tipis dan ringan, sehingga benar-benar kuat untuk kerangka atap dan pembuatan *canopy* rumah Anda.
- **Minim Perawatan:** Anda tidak perlu khawatir kerangka atap Anda rusak atau memerlukan perawatan rutin. Kami yakin ini akan membebaskan Anda dari biaya perawatan tahunan.
- **Pemasangan Cepat:** Berbeda dengan kerangka atap dari bahan kayu dan material lain yang membutuhkan waktu lama, pemasangan baja ringan relatif lebih cepat.
- **Bahan Berkualitas:** Baja ringan yang kami gunakan bukanlah baja ringan sembarangan. Bahan utamanya adalah *zinc* dan aluminium yang sudah memiliki sertifikasi dan standar keamanan 4 kali lebih baik dibandingkan baja biasa. Selain itu, baja ringan mampu menopang beban berkilo-kilo.
- **Tahan Rayap:** Kami memastikan bahwa kerangka atap dan *canopy* dari baja ringan ini dijamin tahan rayap.
+- **Ramah Lingkungan:** Baja ringan dianggap lebih ramah lingkungan karena Anda tidak memerlukan kayu, yang mana untuk mendapatkannya seringkali harus menebang pohon terlebih dahulu. Dengan menggunakan kerangka baja ringan, Anda turut berkontribusi dalam melestarikan alam.
+- **Lebih Terjangkau:** Jika dibandingkan dengan kerangka dari bahan kayu, biaya baja ringan cenderung lebih murah. Terutama untuk komponen kerangka yang krusial untuk sebuah bangunan. Anda perlu memikirkan ini matang-matang untuk menekan biaya pembangunan.
+- **Ringan dan Kuat:** Baja ringan berbeda dengan baja atau besi yang memiliki berat 2 kali lipatnya. Baja ringan memiliki ketebalan yang tipis dan ringan, sehingga benar-benar kuat untuk kerangka atap dan pembuatan *canopy* rumah Anda.
+- **Minim Perawatan:** Anda tidak perlu khawatir kerangka atap Anda rusak atau memerlukan perawatan rutin. Kami yakin ini akan membebaskan Anda dari biaya perawatan tahunan.
+- **Pemasangan Cepat:** Berbeda dengan kerangka atap dari bahan kayu dan material lain yang membutuhkan waktu lama, pemasangan baja ringan relatif lebih cepat.
+- **Bahan Berkualitas:** Baja ringan yang kami gunakan bukanlah baja ringan sembarangan. Bahan utamanya adalah *zinc* dan aluminium yang sudah memiliki sertifikasi dan standar keamanan 4 kali lebih baik dibandingkan baja biasa. Selain itu, baja ringan mampu menopang beban berkilo-kilo.
+- **Tahan Rayap:** Kami memastikan bahwa kerangka atap dan *canopy* dari baja ringan ini dijamin tahan rayap.
 
 ## Metode Menghitung Luas Rangka Baja Ringan Di Cibubur Jakarta
 
@@ -39,7 +39,7 @@ Perhitungan luas datar adalah ( *overstack* + Panjang ) x ( lebar + *overstack* 
 
 ### Menentukan Luas Miring
 
-Penentuan luas miring perhitungannya adalah Luas miring = Luas datar / Cosinus dengan kemiringan atap.  Misalnya, 181.44 / 0.8666 = 209.52 meter persegi. Jadi, luas kemiringan pada rangka atap baja ringan ini adalah 209.52 meter persegi. 
+Penentuan luas miring perhitungannya adalah Luas miring = Luas datar / Cosinus dengan kemiringan atap.  Misalnya, 181.44 / 0.8666 = 209.52 meter persegi. Jadi, luas kemiringan pada rangka atap baja ringan ini adalah 209.52 meter persegi.
 
 Dengan informasi ini, Anda bisa memperkirakan jumlah dan volume baja ringan yang dibutuhkan untuk pemasangan. Namun, jika hal ini terasa sulit, jangan ragu untuk menghubungi kami.
 

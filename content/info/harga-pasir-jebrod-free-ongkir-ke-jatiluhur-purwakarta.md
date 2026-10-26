@@ -25,7 +25,7 @@ menurut Standar Nasional Indonesia ( SK SNI - S - 04 - 1989 - F ; 28) di sebutka
 
 Syarat Pasir yg Baik buat Bangunan
 
-1.  Agregat Halus patut terdiri dari butiran yang tajam dan keras dengan indeks kekerasan <2.2
+1.  Agregat Halus patut terdiri dari butiran yang tajam dan keras dengan indeks kekerasan <2.2
 2. bilamana dimanfaatkan Natrium Sulfat bagian hancur optimal dua belas %
 3. kalau digunakan Magnesium Sulfat bagian halus maksimal sepuluh %
 4. Tidak boleh berisi lumpur lebih dari lima %
@@ -41,7 +41,6 @@ Syarat Pasir yg Baik buat Bangunan
 sesudah tahu persis prasyarat pasir untuk suatu Konstruksi, sekarang ini kita bahas Jenis - Macam Pasir Untuk Konstruksi Bangunan penjelasan nya berikut ini:
 
 - ### Pasir Cor Di Jatiluhur Purwakarta
-    
 
 Pasir ini umum nya berwarna coklat tua dan tingkat kekerasan butiran nya lumayan tinggi. Tetapi seandainya anda mengepal nya dengan tangan tidak akan menggumpal dan akan buyar kembali. tipe pasir ini betul-betul lah bagus untuk Pengecoran, Plesteran Dinding, Adukan Pondasi dan Adukan Pasangan Bata Pasir ini yaitu pasir untuk Rigid yakni butiran-butiran mineral keras dan tajam berukuran antara 0,075 – 5 mm, jikalau terdapat butiran berukuran lebih kecil dari 0,063 mm tidak lebih dari 5% berat. Pasir ini yaitu pasir untuk Cor hampir sering kali dimanfaatkan untuk pekerjaan cor-coran struktur seperti kolom, balok dan pelat lantai.
 
@@ -59,21 +58,18 @@ Untuk memperoleh kekokohan Cor yang optimal karenanya pasir harus sanggup memenu
 ![Harga Pasir Jebrod Free Ongkir Ke Jatiluhur Purwakarta](/images/info/pasir-hitam-9.jpg)
 
 - ### Pasir Biasa Di Jatiluhur Purwakarta
-    
 
 ![Harga Pasir Jebrod Free Ongkir Ke Jatiluhur Purwakarta](/images/info/pasir-hitam-4.jpg)
 
 Pasir ini lebih halus lagi dibandingkan oleh pasir beton. sekiranya kamu mengepal pasir ini karenanya akan menggumpal dan tidak akan buyar kembali. pasir pasang lazim nya di pakai buat adukan pasir beton supaya tak terlalu kasar dan dapat di manfaatkan untuk plesteran dinding.
 
 - ### Pasir Kualitas rendah Untuk Dasaran Pemasangan Marmer Di Jatiluhur Purwakarta
-    
 
 Di Antara ke dua pasir diatas pasir tipe ini lebih halus lagi, sekiranya anda mengepal nya maka akan menggumpal dan tak akan buyar lagi. melainkan pasir tipe
 
 Pada umum nya pasir ini nyaris sama dgn pasir beton melainkan pasir ini mempunyai tingkat kekasaran yg tinggi, butiran - butiran nya cukup besar dan agak banyak batuan nya. pada biasanya pasir jenis ini baik tuk bahan Pembuatan Batako
 
 - ### Pasir Putih Tanpa Ayak Untuk Pasang Bata Di Jatiluhur Purwakarta
-    
 
 1. **Pasir Putih Bangka**
 

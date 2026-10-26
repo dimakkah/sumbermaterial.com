@@ -25,7 +25,7 @@ Menurut Standar Nasional Indonesia ( SK SNI - S - 04 - 1989 - F ; 28) di tuturka
 
 Prasyarat Pasir yg Baik tuk Konstruksi
 
-1.  Agregat Halus patut terdiri dari butiran yg tajam dan keras dengan indeks kekerasan <2.2
+1.  Agregat Halus patut terdiri dari butiran yg tajam dan keras dengan indeks kekerasan <2.2
 2. bila dipakai Natrium Sulfat bagian hancur optimal 12 persen
 3. bila diterapkan Magnesium Sulfat komponen halus optimal 10%
 4. Tak boleh memuat lumpur lebih dari 5 persen
@@ -41,7 +41,6 @@ Prasyarat Pasir yg Baik tuk Konstruksi
 setelah memahami syarat pasir untuk suatu Bangunan, sekarang ini kita bahas Macam - model Pasir Untuk Konstruksi Bangunan penjelasan nya sebagai berikut:
 
 - ### Pasir Tipe Beton dan Daerah Pengambilannya Di Tajur Kecamatan Bogor
-    
 
 Pasir ini umum nya berwarna hitam kemerahan dan tingkat kekasaran butiran nya lumayan tinggi. Tetapi jikalau anda mengepal nya dengan tangan tak akan menggumpal dan akan hancur kembali. macam pasir ini amat lah bagus buat Pengecoran, Plesteran Dinding, Adukan Pondasi dan Adukan Pasangan Bata Pasir ini yaitu pasir untuk Rigid ialah butiran-butiran mineral keras dan tajam berukuran antara 0,075 – 5 mm, apabila terdapat butiran berukuran lebih kecil dari 0,063 mm tidak lebih dari 5% berat. Pasir ini yaitu pasir untuk Cor kerap dimanfaatkan untuk pekerjaan cor-coran struktur seperti kolom, balok dan pelat lantai.
 
@@ -59,21 +58,18 @@ Untuk memperoleh kekuatan Rigid yang maksimal karenanya pasir sepatutnya bisa me
 ![Harga Pasir Mundu Free Ongkir Ke Tajur Kecamatan Bogor](/images/info/pasir-hitam-8.jpg)
 
 - ### Pasir Standar Di Tajur Kecamatan Bogor
-    
 
 ![Harga Pasir Mundu Free Ongkir Ke Tajur Kecamatan Bogor](/images/info/pasir-hitam-11.jpg)
 
 Pasir ini lebih halus lagi dibandingi oleh pasir beton. jikalau kalian mengepal pasir ini karenanya akan menggumpal dan tidak akan hancur kembali. pasir pasang biasa nya di pakai buat campuran pasir beton supaya tidak terlalu kasar dan dapat di pakai untuk plesteran dinding.
 
 - ### Pasir Kualitas rendah Untuk pemadatan lantai Di Tajur Kecamatan Bogor
-    
 
 Di Antara ke dua pasir diatas pasir macam ini lebih halus lagi, bila kamu mengepal nya akan menggumpal dan tak akan buyar lagi. namun pasir jenis
 
 Pada lazim nya pasir ini nyaris sama dengan pasir beton akan melainkan pasir ini memiliki tingkat kekasaran yg tinggi, butiran - butiran nya cukup besar dan agak banyak batuan nya. pada biasanya pasir macam ini bagus tuk bahan pemadatan lantai
 
 - ### Pasir Putih Bebas Lumpur Untuk Pengecoran Di Tajur Kecamatan Bogor
-    
 
 1. **Pasir Putih Bangka**
 

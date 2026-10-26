@@ -25,7 +25,7 @@ menurut Standar Nasional Indonesia ( SK SNI - S - 04 - 1989 - F ; 28) di sebutka
 
 Persyaratan Pasir yg Baik tuk Konstruksi
 
-1.  Agregat Halus harus terdiri dari butiran yg tajam dan keras dengan indeks kekerasan <2.2
+1.  Agregat Halus harus terdiri dari butiran yg tajam dan keras dengan indeks kekerasan <2.2
 2. Jikalau diterapkan Natrium Sulfat bagian hancur optimal 12%
 3. jikalau dipakai Magnesium Sulfat komponen halus maksimal 5 persen
 4. Tak boleh mengandung tanah lebih dari 5 persen
@@ -41,7 +41,6 @@ Persyaratan Pasir yg Baik tuk Konstruksi
 Sesudah tahu persis persyaratan pasir tuk sebuah Konstruksi, sekarang ini kita bahas Jenis - Jenis Pasir Untuk Konstruksi Bangunan penjelasan nya sebagai berikut:
 
 - ### Pasir untuk Cor Rigid Di Cipayung Jakarta
-    
 
 Pasir ini lazim nya berwarna coklat tua dan tingkat kekasaran butiran nya cukup tinggi. Namun apabila anda mengepal nya dengan tangan tidak akan menggumpal dan akan buyar kembali. jenis pasir ini amat lah bagus tuk Pengecoran, Plesteran Dinding, Adukan Pondasi dan Adukan Pasangan Bata Pasir ini yaitu pasir untuk Rigid merupakan butiran-butiran mineral keras dan tajam berukuran antara 0,075 – 5 mm, apabila terdapat butiran berukuran lebih kecil dari 0,063 mm tak lebih dari 5% berat. Pasir ini yaitu pasir untuk Beton tak jarang digunakan untuk profesi cor-coran struktur seperti kolom, balok dan pelat lantai.
 
@@ -59,21 +58,18 @@ Untuk memperoleh kekokohan Rigid yang optimal karenanya pasir semestinya bisa me
 ![Harga Pasir Plester Free Ongkir Ke Cipayung Jakarta](/images/info/pasir-hitam-8.jpg)
 
 - ### Pasir Biasa Di Cipayung Jakarta
-    
 
 ![Harga Pasir Plester Free Ongkir Ke Cipayung Jakarta](/images/info/pasir-putih3.jpg)
 
 Pasir ini lebih halus lagi diperbandingkan oleh pasir beton. jika anda mengepal pasir ini maka akan menggumpal dan tidak akan hancur kembali. pasir pasang umum nya di pakai buat adukan pasir beton supaya tak terlalu kasar dan bisa di gunakan untuk plesteran dinding.
 
 - ### Pasir Kualitas rendah Untuk pengurugan lantai Di Cipayung Jakarta
-    
 
 Di Antara ke dua pasir diatas pasir tipe ini lebih halus lagi, seandainya kamu mengepal nya maka akan menggumpal dan tidak akan hancur lagi. tetapi pasir ragam tak bagus untuk di buat sebagai bahan bangunan. pasir model ini pada umum nya di pakai untuk Bahan Pembuatan Batako
 
 Pada umum nya pasir ini nyaris sama dengan pasir beton tetapi pasir ini memiliki tingkat kekasaran yg tinggi, butiran - butiran nya cukup besar dan agak banyak batuan nya. pada biasanya pasir jenis ini baik tuk bahan dasaran pemasangan keramik
 
 - ### Pasir Putih Tanpa Ayak Untuk Hiasan Di Cipayung Jakarta
-    
 
 1. **Pasir Putih Bangka**
 

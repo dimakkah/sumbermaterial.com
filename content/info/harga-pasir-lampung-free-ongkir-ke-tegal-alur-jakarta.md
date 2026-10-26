@@ -25,7 +25,7 @@ Berdasarkan Standar Nasional Indonesia ( SK SNI - S - 04 - 1989 - F ; 28) di tut
 
 Syarat Pasir yang Baik buat Bangunan
 
-1.  Agregat Halus harus terdiri dari butiran yg tajam dan keras dengan indeks kekerasan <2.2
+1.  Agregat Halus harus terdiri dari butiran yg tajam dan keras dengan indeks kekerasan <2.2
 2. Sekiranya dimanfaatkan Natrium Sulfat bagian hancur maksimal dua belas persen
 3. Jika diterapkan Magnesium Sulfat komponen halus optimal 10%
 4. Tidak boleh memuat tanah lebih dari 5%
@@ -41,7 +41,6 @@ Syarat Pasir yang Baik buat Bangunan
 setelah tahu persis prasyarat pasir buat sebuah Bangunan, pada saat ini kita bahas Tipe - Ragam Pasir Untuk Bangunan penjelasan nya sebagai berikut:
 
 - ### Pasir Jenis Rigid dan Tempat Penambangannya Di Tegal Alur Jakarta
-    
 
 Pasir ini biasa nya berwarna keabu-abuan dan tingkat kekasaran butiran nya cukup tinggi. Melainkan kalau anda mengepal nya dengan tangan tidak akan menggumpal dan akan hancur kembali. model pasir ini benar-benar lah baik untuk Pengecoran, Plesteran Dinding, Adukan Pondasi dan Adukan Pasangan Bata Pasir ini yaitu pasir untuk Rigid yaitu butiran-butiran mineral keras dan tajam berukuran antara 0,075 – 5 mm, bila terdapat butiran berukuran lebih kecil dari 0,063 mm tak lebih dari 5% berat. Pasir ini yaitu pasir untuk Rigid tak jarang diaplikasikan untuk pekerjaan cor-coran struktur seperti kolom, balok dan pelat lantai.
 
@@ -59,21 +58,18 @@ Untuk memperoleh ketahanan Beton yang optimal maka pasir semestinya mampu memenu
 ![Harga Pasir Lampung Free Ongkir Ke Tegal Alur Jakarta](/images/info/pasir-hitam-5.jpg)
 
 - ### Pasir Untuk Pemasangan Batu, Pondasi, Bata, Ubin, Plester Di Tegal Alur Jakarta
-    
 
 ![Harga Pasir Lampung Free Ongkir Ke Tegal Alur Jakarta](/images/info/pasir-hitam-4.jpg)
 
 Pasir ini ekstra halus lagi diperbandingkan oleh pasir beton. seandainya kalian mengepal pasir ini maka akan menggumpal dan tidak akan hancur kembali. pasir pasang lazim nya di pakai buat adukan pasir beton agar tak kelewat kasar dan dapat di manfaatkan untuk plesteran dinding.
 
 - ### Pasir Kualitas rendah Untuk pemadatan lantai Di Tegal Alur Jakarta
-    
 
 Di Antara ke dua pasir diatas pasir model ini lebih halus lagi, bila anda mengepal nya akan menggumpal dan tidak akan hancur lagi. melainkan pasir ragam tidak bagus untuk di buat sebagai bahan bangunan. pasir model ini pada nya di pakai untuk Bahan Pembuatan Batako
 
 Pada biasa nya pasir ini nyaris sama dgn pasir beton akan namun pasir ini mempunyai tingkat kekasaran yang tinggi, butiran - butiran nya cukup besar dan agak banyak batuan nya. pada umumnya pasir ragam ini bagus tuk bahan pemadatan lantai
 
 - ### Pasir Putih Tanpa Batu Untuk Taman Bermain Di Tegal Alur Jakarta
-    
 
 1. **Pasir Putih Bangka**
 

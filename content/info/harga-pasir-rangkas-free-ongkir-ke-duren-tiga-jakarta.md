@@ -25,7 +25,7 @@ Menurut Standar Nasional Indonesia ( SK SNI - S - 04 - 1989 - F ; 28) di sebutka
 
 Syarat Pasir yg Bagus Untuk Konstruksi Bangunan
 
-1.  Agregat Halus sepatutnya terdiri dari butiran yang tajam dan keras dengan indeks kekerasan <2.2
+1.  Agregat Halus sepatutnya terdiri dari butiran yang tajam dan keras dengan indeks kekerasan <2.2
 2. jikalau dimanfaatkan Natrium Sulfat komponen hancur optimal 12 persen
 3. Bila diaplikasikan Magnesium Sulfat bagian halus optimal 10%
 4. Tak boleh mengandung clay lebih dari lima persen
@@ -41,7 +41,6 @@ Syarat Pasir yg Bagus Untuk Konstruksi Bangunan
 sesudah mengenal prasyarat pasir tuk suatu Konstruksi, pada saat ini kita bahas Tipe - model Pasir Untuk Bangunan penjelasan nya berikut ini:
 
 - ### Pasir Beton Di Duren Tiga Jakarta
-    
 
 Pasir ini biasa nya berwarna coklat tua dan tingkat kekasaran butiran nya lumayan tinggi. Melainkan bila anda mengepal nya dengan tangan tak akan menggumpal dan akan buyar kembali. ragam pasir ini sungguh-sungguh lah bagus buat Pengecoran, Plesteran Dinding, Adukan Pondasi dan Adukan Pasangan Bata Pasir ini yaitu pasir untuk Cor ialah butiran-butiran mineral keras dan tajam berukuran antara 0,075 – 5 mm, bila terdapat butiran berukuran lebih kecil dari 0,063 mm tak lebih dari 5% berat. Pasir ini yaitu pasir untuk Beton hampir sering kali dimanfaatkan untuk pekerjaan cor-coran struktur seperti kolom, balok dan pelat lantai.
 
@@ -59,21 +58,18 @@ Untuk mendapatkan kekuatan Rigid yang optimal karenanya pasir sepatutnya dapat m
 ![Harga Pasir Rangkas Free Ongkir Ke Duren Tiga Jakarta](/images/info/pasir-hitam-2.jpg)
 
 - ### Pasir Pasang Di Duren Tiga Jakarta
-    
 
 ![Harga Pasir Rangkas Free Ongkir Ke Duren Tiga Jakarta](/images/info/pasir-putih3.jpg)
 
 Pasir ini lebih halus lagi dibandingkan oleh pasir beton. bila kamu mengepal pasir ini karenanya akan menggumpal dan tak akan hancur kembali. pasir pasang lazim nya di pakai buat adukan pasir beton supaya tak terlampau kasar dan dapat di manfaatkan untuk plesteran dinding.
 
 - ### Pasir Urug Untuk Dasaran Pemasangan Marmer Di Duren Tiga Jakarta
-    
 
 Di Antara ke dua pasir diatas pasir tipe ini lebih halus lagi, kalau anda mengepal nya maka akan menggumpal dan tak akan hancur lagi. melainkan pasir jenis
 
 Pada nya pasir ini nyaris sama dgn pasir beton akan melainkan pasir ini mempunyai tingkat kekasaran yang tinggi, butiran - butiran nya lumayan besar dan agak banyak batuan nya. pada umumnya pasir ragam ini baik untuk bahan pengurugan lantai
 
 - ### Pasir Putih Halus Untuk Pasang Keramik Di Duren Tiga Jakarta
-    
 
 1. **Pasir Putih Bangka**
 

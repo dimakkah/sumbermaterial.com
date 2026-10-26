@@ -21,19 +21,19 @@ Pemasangan baja ringan untuk bangunan Anda di Kayu Manis Jakarta bisa dilakukan 
 
 Berikut beberapa alasan penting yang perlu Anda pertimbangkan sebelum menghubungi kami di Kayu Manis Jakarta:
 
- **Ramah Lingkungan:** Baja ringan lebih ramah lingkungan dibandingkan penggunaan kayu karena tidak memerlukan penebangan pohon. Dengan memilih baja ringan untuk kerangka atap dan kanopi, Anda turut berkontribusi dalam melestarikan alam.
+- **Ramah Lingkungan:** Baja ringan lebih ramah lingkungan dibandingkan penggunaan kayu karena tidak memerlukan penebangan pohon. Dengan memilih baja ringan untuk kerangka atap dan kanopi, Anda turut berkontribusi dalam melestarikan alam.
 
- **Harga Lebih Terjangkau:** Dibandingkan kerangka kayu, baja ringan umumnya lebih ekonomis. Mendapatkan kayu berkualitas tinggi membutuhkan biaya yang lebih besar, terutama untuk komponen penting seperti kerangka bangunan. Keputusan ini dapat membantu Anda menekan biaya pembangunan secara keseluruhan.
+- **Harga Lebih Terjangkau:** Dibandingkan kerangka kayu, baja ringan umumnya lebih ekonomis. Mendapatkan kayu berkualitas tinggi membutuhkan biaya yang lebih besar, terutama untuk komponen penting seperti kerangka bangunan. Keputusan ini dapat membantu Anda menekan biaya pembangunan secara keseluruhan.
 
- **Ringan dan Kuat:** Baja ringan berbeda dengan baja atau besi konvensional yang dua kali lebih berat. Dengan ketebalan yang tipis dan ringan, baja ringan tetap kokoh untuk kerangka atap dan kanopi rumah Anda.
+- **Ringan dan Kuat:** Baja ringan berbeda dengan baja atau besi konvensional yang dua kali lebih berat. Dengan ketebalan yang tipis dan ringan, baja ringan tetap kokoh untuk kerangka atap dan kanopi rumah Anda.
 
- **Perawatan Minimal:** Anda tidak perlu khawatir tentang kerusakan atau perawatan tahunan pada kerangka atap. Baja ringan dirancang untuk tahan lama dan bebas perawatan, menghemat waktu dan biaya Anda.
+- **Perawatan Minimal:** Anda tidak perlu khawatir tentang kerusakan atau perawatan tahunan pada kerangka atap. Baja ringan dirancang untuk tahan lama dan bebas perawatan, menghemat waktu dan biaya Anda.
 
- **Pemasangan Cepat:** Pemasangan kerangka atap baja ringan lebih cepat dibandingkan dengan material kayu atau jenis lainnya. Proses ini menghemat waktu dan tenaga Anda.
+- **Pemasangan Cepat:** Pemasangan kerangka atap baja ringan lebih cepat dibandingkan dengan material kayu atau jenis lainnya. Proses ini menghemat waktu dan tenaga Anda.
 
- **Kualitas Terjamin:** Baja ringan yang kami gunakan merupakan bahan berkualitas tinggi dengan lapisan zinc dan aluminium bersertifikasi, 4 kali lebih unggul dibandingkan baja biasa. Material ini mampu menahan beban berat dengan aman.
+- **Kualitas Terjamin:** Baja ringan yang kami gunakan merupakan bahan berkualitas tinggi dengan lapisan zinc dan aluminium bersertifikasi, 4 kali lebih unggul dibandingkan baja biasa. Material ini mampu menahan beban berat dengan aman.
 
- **Tahan Rayap:** Kerangka atap dan kanopi baja ringan kami dijamin tahan terhadap serangan rayap, memberikan perlindungan jangka panjang untuk bangunan Anda.
+- **Tahan Rayap:** Kerangka atap dan kanopi baja ringan kami dijamin tahan terhadap serangan rayap, memberikan perlindungan jangka panjang untuk bangunan Anda.
 
 ## Sistem Perhitungan Luas Rangka Baja Ringan Di Kayu Manis Jakarta
 
@@ -66,15 +66,15 @@ Mari kita bahas mengenai biaya jasa pasang baja ringan. Banyak informasi tersedi
 
 ### Parameter Besaran Harga Jasa Pasang Baja Ringan
 
-### 1\. Pembuatan Sketsa Desain
+#### 1. Pembuatan Sketsa Desain
 
 Biaya juga dipengaruhi oleh sketsa desain yang akan dibuat oleh tim teknisi kami di lokasi Anda. Sketsa ini penting untuk menentukan kebutuhan jumlah baja ringan yang tepat, menghindari pemborosan material, dan mengoptimalkan anggaran Anda. Pembuatan sketsa juga termasuk dalam perhitungan biaya pasang baja ringan.
 
-### 2\. Perhitungan Kebutuhan Rangka
+#### 2. Perhitungan Kebutuhan Rangka
 
 Setelah Anda memiliki sketsa pemasangan, langkah berikutnya adalah menghitung kebutuhan rangka. Konsultasikan dengan tim teknisi kami untuk mendapatkan informasi mengenai waktu dan kualitas setiap material. Pastikan Anda mendapatkan material yang sesuai dengan kebutuhan Anda.
 
-### 3\. Perhitungan Budget
+#### 3. Perhitungan Budget
 
 Setelah pembuatan sketsa dan perhitungan rangka selesai, Anda dapat mendiskusikan survei biaya dari seluruh proses pemasangan baja ringan. Budget yang dibutuhkan bergantung pada jumlah rangka, luas area kerangka, material tambahan, tenaga teknisi, dan pengiriman. Mintalah rincian biaya jasa pasang baja ringan untuk membantu Anda menyiapkan anggaran yang tepat. Anda juga dapat memilih jenis baja ringan, mulai dari yang standar hingga berkualitas tinggi, dan berkonsultasi dengan teknisi kami secara matang.
 

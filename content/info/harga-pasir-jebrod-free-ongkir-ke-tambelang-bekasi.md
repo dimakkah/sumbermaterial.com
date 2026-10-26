@@ -25,7 +25,7 @@ menurut Standar Nasional Indonesia ( SK SNI - S - 04 - 1989 - F ; 28) di tuturka
 
 Persyaratan Pasir yang Baik Untuk Konstruksi
 
-1.  Agregat Halus sepatutnya terdiri dari butiran yg tajam dan keras dengan indeks kekerasan <2.2
+1.  Agregat Halus sepatutnya terdiri dari butiran yg tajam dan keras dengan indeks kekerasan <2.2
 2. bilamana diterapkan Natrium Sulfat bagian hancur optimal dua belas persen
 3. jika digunakan Magnesium Sulfat komponen halus maksimal 5 persen
 4. Tidak boleh memuat lumpur lebih dari 5%
@@ -41,7 +41,6 @@ Persyaratan Pasir yang Baik Untuk Konstruksi
 setelah mengetahui syarat pasir buat suatu Konstruksi Bangunan, pada saat ini kita bahas Tipe - Macam Pasir Untuk Konstruksi Bangunan penjelasan nya berikut ini:
 
 - ### Pasir Jenis Rigid dan Daerah Penambangannya Di Tambelang Bekasi
-    
 
 Pasir ini umum nya berwarna keabu-abuan dan tingkat kekasaran butiran nya lumayan tinggi. Tetapi jikalau anda mengepal nya dengan tangan tak akan menggumpal dan akan hancur kembali. macam pasir ini benar-benar lah bagus tuk Pengecoran, Plesteran Dinding, Adukan Pondasi dan Adukan Pasangan Bata Pasir ini yaitu pasir untuk Beton merupakan butiran-butiran mineral keras dan tajam berukuran antara 0,075 – 5 mm, kalau terdapat butiran berukuran lebih kecil dari 0,063 mm tidak lebih dari 5% berat. Pasir ini yaitu pasir untuk Cor hampir sering diaplikasikan untuk profesi cor-coran struktur seperti kolom, balok dan pelat lantai.
 
@@ -59,21 +58,18 @@ Untuk mendapatkan kekokohan Rigid yang maksimal karenanya pasir semestinya dapat
 ![Harga Pasir Jebrod Free Ongkir Ke Tambelang Bekasi](/images/info/pasir-hitam-8.jpg)
 
 - ### Pasir Biasa Di Tambelang Bekasi
-    
 
 ![Harga Pasir Jebrod Free Ongkir Ke Tambelang Bekasi](/images/info/jual-pasir-mundu-2.jpg)
 
 Pasir ini ekstra halus lagi dibandingkan oleh pasir beton. bila anda mengepal pasir ini maka akan menggumpal dan tidak akan buyar kembali. pasir pasang lazim nya di manfaatkan untuk campuran pasir beton agar tidak terlalu kasar dan dapat di gunakan untuk plesteran dinding.
 
 - ### Pasir Kualitas rendah Untuk pengurugan lantai Di Tambelang Bekasi
-    
 
 Di Antara ke dua pasir diatas pasir ragam ini lebih halus lagi, apabila kamu mengepal nya akan menggumpal dan tak akan buyar lagi. namun pasir jenis
 
 Pada nya pasir ini nyaris sama dgn pasir beton namun pasir ini mempunyai tingkat kekasaran yg tinggi, butiran - butiran nya cukup besar dan agak banyak batuan nya. pada lazimnya pasir ragam ini baik tuk bahan pemadatan lantai
 
 - ### Pasir Putih Bebas Lumpur Untuk Pasang Lantai Marmer Di Tambelang Bekasi
-    
 
 1. **Pasir Putih Bangka**
 

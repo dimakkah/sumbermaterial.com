@@ -25,7 +25,7 @@ berdasarkan Standar Nasional Indonesia ( SK SNI - S - 04 - 1989 - F ; 28) di seb
 
 Persyaratan Pasir yang Bagus tuk Konstruksi Bangunan
 
-1.  Agregat Halus mesti terdiri dari butiran yg tajam dan keras dengan indeks kekerasan <2.2
+1.  Agregat Halus mesti terdiri dari butiran yg tajam dan keras dengan indeks kekerasan <2.2
 2. Seandainya digunakan Natrium Sulfat bagian hancur maksimal 12%
 3. Seandainya digunakan Magnesium Sulfat komponen halus maksimal sepuluh %
 4. Tak boleh mengandung lumpur lebih dari lima %
@@ -41,7 +41,6 @@ Persyaratan Pasir yang Bagus tuk Konstruksi Bangunan
 Sesudah tahu persis persyaratan pasir tuk suatu Konstruksi Bangunan, pada saat ini kita bahas Jenis - model Pasir Untuk Bangunan penjelasan nya berikut ini:
 
 - ### Pasir Jenis Rigid dan Lokasi Penambangannya Di Srengseng Sawah Jakarta
-    
 
 Pasir ini lazim nya berwarna coklat tua dan tingkat kekerasan butiran nya cukup tinggi. Namun jika anda mengepal nya dengan tangan tidak akan menggumpal dan akan buyar kembali. ragam pasir ini amat lah bagus tuk Pengecoran, Plesteran Dinding, Adukan Pondasi dan Adukan Pasangan Bata Pasir ini yaitu pasir untuk Rigid adalah butiran-butiran mineral keras dan tajam berukuran antara 0,075 – 5 mm, jikalau terdapat butiran berukuran lebih kecil dari 0,063 mm tak lebih dari 5% berat. Pasir ini yaitu pasir untuk Cor hampir tak jarang dimanfaatkan untuk pekerjaan cor-coran struktur seperti kolom, balok dan pelat lantai.
 
@@ -59,21 +58,18 @@ Untuk memperoleh kekuatan Beton yang optimal maka pasir mesti bisa memenuhi pras
 ![Harga Pasir Urug Free Ongkir Ke Srengseng Sawah Jakarta](/images/info/jual-pasir-cor-hitam.jpg)
 
 - ### Pasir Untuk Adukan Pasang Batu, Pondasi, Bata, Ubin, Plester Di Srengseng Sawah Jakarta
-    
 
 ![Harga Pasir Urug Free Ongkir Ke Srengseng Sawah Jakarta](/images/info/pasir-putih3.jpg)
 
 Pasir ini ekstra halus lagi diperbandingkan oleh pasir beton. bila kalian mengepal pasir ini maka akan menggumpal dan tidak akan hancur kembali. pasir pasang biasa nya di manfaatkan buat adukan pasir beton agar tak kelewat kasar dan dapat di manfaatkan untuk plesteran dinding.
 
 - ### Pasir Elod Untuk pemadatan lantai Di Srengseng Sawah Jakarta
-    
 
 Di Antara ke dua pasir diatas pasir ragam ini lebih halus lagi, jikalau anda mengepal nya akan menggumpal dan tak akan buyar lagi. tetapi pasir tipe
 
 Pada lazim nya pasir ini nyaris sama dgn pasir beton namun pasir ini mempunyai tingkat kekasaran yang tinggi, butiran - butiran nya lumayan besar dan agak banyak batuan nya. pada lazimnya pasir jenis ini baik untuk bahan pemadatan lantai
 
 - ### Pasir Putih Halus Untuk Pasang Lantai Marmer Di Srengseng Sawah Jakarta
-    
 
 1. **Pasir Putih Bangka**
 

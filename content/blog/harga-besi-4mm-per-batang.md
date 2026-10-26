@@ -17,7 +17,6 @@ draft: false
 
 {{< toc >}}
 
-
 Sekarang, mari kita bahas kisaran harga besi 4mm per batang. Secara umum, harga besi 4mm per batang berkisar antara Rp 3.000 hingga Rp 5.000, tergantung pada merek, kualitas, dan lokasi pembelian. Namun, perlu diingat bahwa harga ini bersifat estimasi dan dapat berubah sewaktu-waktu — hubungi Kami untuk penawaran terbaru dan paling akurat sesuai kebutuhan proyek Mitra.
 
 ## Memahami Ukuran dan Jenis Besi 4mm
@@ -38,10 +37,10 @@ Ketersediaan stok juga bisa memengaruhi harga. Saat permintaan tinggi dan stok t
 
 Memilih besi 4mm yang berkualitas tinggi sangat penting untuk memastikan kekuatan dan keamanan struktur bangunan Anda. Berikut beberapa tips yang bisa Anda ikuti:
 
-*   **Periksa Sertifikasi:** Pastikan besi yang Anda beli memiliki sertifikasi SNI (Standar Nasional Indonesia). Sertifikasi ini menjamin bahwa besi tersebut memenuhi standar kualitas yang ditetapkan.
-*   **Cek Kondisi Fisik:** Perhatikan permukaan besi. Besi yang berkualitas baik seharusnya tidak memiliki karat, bengkok, atau cacat lainnya.
-*   **Uji Kekuatan:** Jika memungkinkan, lakukan uji kekuatan sederhana dengan membengkokkan sedikit besi tersebut. Besi yang berkualitas baik seharusnya tidak mudah patah atau retak.
-*   **Beli dari Pemasok Terpercaya:** Belilah besi dari pemasok yang terpercaya dan memiliki reputasi baik. Kami, di Sumber Material, selalu menyediakan besi 4mm dengan kualitas terjamin.
+- **Periksa Sertifikasi:** Pastikan besi yang Anda beli memiliki sertifikasi SNI (Standar Nasional Indonesia). Sertifikasi ini menjamin bahwa besi tersebut memenuhi standar kualitas yang ditetapkan.
+- **Cek Kondisi Fisik:** Perhatikan permukaan besi. Besi yang berkualitas baik seharusnya tidak memiliki karat, bengkok, atau cacat lainnya.
+- **Uji Kekuatan:** Jika memungkinkan, lakukan uji kekuatan sederhana dengan membengkokkan sedikit besi tersebut. Besi yang berkualitas baik seharusnya tidak mudah patah atau retak.
+- **Beli dari Pemasok Terpercaya:** Belilah besi dari pemasok yang terpercaya dan memiliki reputasi baik. Kami, di Sumber Material, selalu menyediakan besi 4mm dengan kualitas terjamin.
 
 Sebagai tambahan, ada baiknya Anda membandingkan harga dari beberapa pemasok sebelum memutuskan untuk membeli. Dengan begitu, Anda bisa mendapatkan harga yang terbaik tanpa mengorbankan kualitas.
 

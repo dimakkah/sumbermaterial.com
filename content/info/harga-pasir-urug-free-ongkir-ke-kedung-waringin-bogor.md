@@ -25,7 +25,7 @@ berdasarkan Standar Nasional Indonesia ( SK SNI - S - 04 - 1989 - F ; 28) di seb
 
 Persyaratan Pasir yg Baik buat Bangunan
 
-1.  Agregat Halus wajib terdiri dari butiran yg tajam dan keras dengan indeks kekerasan <2.2
+1.  Agregat Halus wajib terdiri dari butiran yg tajam dan keras dengan indeks kekerasan <2.2
 2. Bila diaplikasikan Natrium Sulfat bagian hancur maksimal 12 persen
 3. sekiranya dipakai Magnesium Sulfat bagian halus maksimal 10%
 4. Tak boleh berisi tanah lebih dari 5 persen
@@ -41,7 +41,6 @@ Persyaratan Pasir yg Baik buat Bangunan
 setelah tahu persis persyaratan pasir tuk suatu Bangunan, sekarang ini kita bahas Jenis - Macam Pasir Untuk Konstruksi penjelasan nya sbb:
 
 - ### Pasir Untuk Pengecoran Di Kedung Waringin Bogor
-    
 
 Pasir ini umum nya berwarna keabu-abuan dan tingkat kekerasan butiran nya cukup tinggi. Namun kalau anda mengepal nya dengan tangan tak akan lengket dan akan buyar kembali. macam pasir ini sangat lah bagus tuk Pengecoran, Plesteran Dinding, Adukan Pondasi dan Adukan Pasangan Bata Pasir ini yaitu pasir untuk Rigid yaitu butiran-butiran mineral keras dan tajam berukuran antara 0,075 – 5 mm, jikalau terdapat butiran berukuran lebih kecil dari 0,063 mm tak lebih dari 5% berat. Pasir ini yaitu pasir untuk Cor hampir acap kali dipakai untuk pekerjaan cor-coran struktur seperti kolom, balok dan pelat lantai.
 
@@ -59,21 +58,18 @@ Untuk memperoleh kualitas Rigid yang maksimal karenanya pasir semestinya mampu m
 ![Harga Pasir Urug Free Ongkir Ke Kedung Waringin Bogor](/images/info/pasir-hitam-7.jpg)
 
 - ### Pasir Untuk Adukan Pasang Batu, Pondasi, Bata, Ubin, Plester Di Kedung Waringin Bogor
-    
 
 ![Harga Pasir Urug Free Ongkir Ke Kedung Waringin Bogor](/images/info/pasir-putih12.jpg)
 
 Pasir ini ekstra halus lagi dibandingkan oleh pasir beton. kalau kamu mengepal pasir ini karenanya akan menggumpal dan tidak akan hancur kembali. pasir pasang lazim nya di gunakan tuk campuran pasir beton agar tidak kelewat kasar dan dapat di gunakan untuk plesteran dinding.
 
 - ### Pasir Urug Untuk Pembuatan Batako Di Kedung Waringin Bogor
-    
 
 Di Antara ke dua pasir diatas pasir jenis ini lebih halus lagi, bila kamu mengepal nya maka akan menggumpal dan tak akan hancur lagi. namun pasir macam
 
 Pada nya pasir ini nyaris sama dengan pasir beton melainkan pasir ini memiliki tingkat kekasaran yg tinggi, butiran - butiran nya cukup besar dan agak banyak batuan nya. pada lazimnya pasir ragam ini baik tuk bahan pengurugan lantai
 
 - ### Pasir Putih Halus Untuk Lapangan Voly Di Kedung Waringin Bogor
-    
 
 1. **Pasir Putih Bangka**
 

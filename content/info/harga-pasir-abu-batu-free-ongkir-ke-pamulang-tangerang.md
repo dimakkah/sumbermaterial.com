@@ -25,7 +25,7 @@ Menurut Standar Nasional Indonesia ( SK SNI - S - 04 - 1989 - F ; 28) di sebutka
 
 Persyaratan Pasir yg Baik Untuk Konstruksi Bangunan
 
-1.  Agregat Halus semestinya terdiri dari butiran yg tajam dan keras dengan indeks kekerasan <2.2
+1.  Agregat Halus semestinya terdiri dari butiran yg tajam dan keras dengan indeks kekerasan <2.2
 2. sekiranya diterapkan Natrium Sulfat bagian hancur maksimal 12%
 3. jika dipakai Magnesium Sulfat komponen halus maksimal 5 persen
 4. Tak boleh memuat lumpur lebih dari lima %
@@ -41,7 +41,6 @@ Persyaratan Pasir yg Baik Untuk Konstruksi Bangunan
 Sesudah mengenal syarat pasir buat sebuah Bangunan, sekarang ini kita bahas Tipe - model Pasir Untuk Konstruksi Bangunan penjelasan nya berikut ini:
 
 - ### Pasir Model Beton dan Tempat Pengambilannya Di Pamulang Tangerang
-    
 
 Pasir ini lazim nya berwarna hitam pekat dan tingkat kekerasan butiran nya cukup tinggi. Tapi sekiranya anda mengepal nya dengan tangan tak akan lengket dan akan buyar kembali. model pasir ini sangat lah baik untuk Pengecoran, Plesteran Dinding, Adukan Pondasi dan Adukan Pasangan Bata Pasir ini yaitu pasir untuk Cor yaitu butiran-butiran mineral keras dan tajam berukuran antara 0,075 – 5 mm, kalau terdapat butiran berukuran lebih kecil dari 0,063 mm tak lebih dari 5% berat. Pasir ini yaitu pasir untuk Beton acap kali diterapkan untuk pekerjaan cor-coran struktur seperti kolom, balok dan pelat lantai.
 
@@ -59,21 +58,18 @@ Untuk menerima kekokohan Rigid yang optimal maka pasir wajib dapat memenuhi pers
 ![Harga Pasir Abu Batu Free Ongkir Ke Pamulang Tangerang](/images/info/pasir-hitam-8.jpg)
 
 - ### Pasir Pasang Di Pamulang Tangerang
-    
 
 ![Harga Pasir Abu Batu Free Ongkir Ke Pamulang Tangerang](/images/info/pasir-hitam-4.jpg)
 
 Pasir ini ekstra halus lagi dibandingkan oleh pasir beton. apabila kalian mengepal pasir ini maka akan menggumpal dan tidak akan hancur kembali. pasir pasang umum nya di gunakan untuk campuran pasir beton supaya tidak kelewat kasar dan dapat di manfaatkan untuk plesteran dinding.
 
 - ### Pasir Elod Untuk Pembuatan Batako Di Pamulang Tangerang
-    
 
 Di Antara ke dua pasir diatas pasir jenis ini lebih halus lagi, apabila kalian mengepal nya akan menggumpal dan tak akan buyar lagi. namun pasir tipe
 
 Pada nya pasir ini nyaris sama dgn pasir beton tapi pasir ini memiliki tingkat kekasaran yang tinggi, butiran - butiran nya cukup besar dan agak banyak batuan nya. pada lazimnya pasir ragam ini baik tuk bahan dasaran pemasangan keramik
 
 - ### Pasir Putih Tanpa Ayak Untuk Pelester Di Pamulang Tangerang
-    
 
 1. **Pasir Putih Bangka**
 

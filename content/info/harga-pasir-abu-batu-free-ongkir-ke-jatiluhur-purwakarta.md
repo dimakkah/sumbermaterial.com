@@ -25,7 +25,7 @@ Menurut Standar Nasional Indonesia ( SK SNI - S - 04 - 1989 - F ; 28) di tuturka
 
 Syarat-Syarat Pasir yang Bagus tuk Konstruksi
 
-1.  Agregat Halus wajib terdiri dari butiran yg tajam dan keras dengan indeks kekerasan <2.2
+1.  Agregat Halus wajib terdiri dari butiran yg tajam dan keras dengan indeks kekerasan <2.2
 2. bilamana diaplikasikan Natrium Sulfat bagian hancur maksimal 12 persen
 3. kalau dipakai Magnesium Sulfat bagian halus maksimal sepuluh %
 4. Tak boleh mengandung tanah lebih dari lima %
@@ -41,7 +41,6 @@ Syarat-Syarat Pasir yang Bagus tuk Konstruksi
 setelah tahu persis prasyarat pasir buat sebuah Konstruksi Bangunan, sekarang ini kita bahas model - Jenis Pasir Untuk Konstruksi penjelasan nya sebagai berikut:
 
 - ### Pasir Model Beton dan Daerah Penambangannya Di Jatiluhur Purwakarta
-    
 
 Pasir ini lazim nya berwarna coklat tua dan tingkat pecahan butiran nya cukup tinggi. Namun seandainya anda mengepal nya dengan tangan tidak akan lengket dan akan hancur kembali. ragam pasir ini benar-benar lah baik untuk Pengecoran, Plesteran Dinding, Adukan Pondasi dan Adukan Pasangan Bata Pasir ini yaitu pasir untuk Beton yakni butiran-butiran mineral keras dan tajam berukuran antara 0,075 – 5 mm, kalau terdapat butiran berukuran lebih kecil dari 0,063 mm tidak lebih dari 5% berat. Pasir ini yaitu pasir untuk Rigid tak jarang dimanfaatkan untuk profesi cor-coran struktur seperti kolom, balok dan pelat lantai.
 
@@ -59,21 +58,18 @@ Untuk memperoleh kualitas Rigid yang optimal karenanya pasir sepatutnya sanggup 
 ![Harga Pasir Abu Batu Free Ongkir Ke Jatiluhur Purwakarta](/images/info/pasir-hitam-5.jpg)
 
 - ### Pasir Untuk Pasang Batu, Pondasi, Bata, Ubin, Plester Di Jatiluhur Purwakarta
-    
 
 ![Harga Pasir Abu Batu Free Ongkir Ke Jatiluhur Purwakarta](/images/info/pasir-putih12.jpg)
 
 Pasir ini lebih halus lagi diperbandingkan oleh pasir beton. seandainya anda mengepal pasir ini karenanya akan menggumpal dan tidak akan hancur kembali. pasir pasang umum nya di manfaatkan tuk adukan pasir beton supaya tak terlampau kasar dan bisa di gunakan untuk plesteran dinding.
 
 - ### Pasir Urug Untuk pengurugan lantai Di Jatiluhur Purwakarta
-    
 
 Di Antara ke dua pasir diatas pasir macam ini lebih halus lagi, bila kamu mengepal nya akan menggumpal dan tidak akan hancur lagi. tetapi pasir macam
 
 Pada lazim nya pasir ini nyaris sama dengan pasir beton tetapi pasir ini mempunyai tingkat kekasaran yang tinggi, butiran - butiran nya lumayan besar dan agak banyak batuan nya. pada biasanya pasir tipe ini baik tuk bahan Pembuatan Batako
 
 - ### Pasir Putih Tanpa Ayak Untuk Hiasan Di Jatiluhur Purwakarta
-    
 
 1. **Pasir Putih Bangka**
 

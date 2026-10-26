@@ -25,7 +25,7 @@ berdasarkan Standar Nasional Indonesia ( SK SNI - S - 04 - 1989 - F ; 28) di seb
 
 Syarat Pasir yang Bagus tuk Konstruksi Bangunan
 
-1.  Agregat Halus sepatutnya terdiri dari butiran yang tajam dan keras dengan indeks kekerasan <2.2
+1.  Agregat Halus sepatutnya terdiri dari butiran yang tajam dan keras dengan indeks kekerasan <2.2
 2. bilamana dipakai Natrium Sulfat komponen hancur maksimal 12%
 3. jika diterapkan Magnesium Sulfat bagian halus maksimal sepuluh %
 4. Tak boleh berisi lumpur lebih dari lima %
@@ -41,7 +41,6 @@ Syarat Pasir yang Bagus tuk Konstruksi Bangunan
 sesudah memahami syarat pasir tuk suatu Bangunan, saat ini kita bahas Ragam - Jenis Pasir Untuk Bangunan penjelasan nya sebagai berikut:
 
 - ### Pasir Untuk Beton Di Kebon Pedes Bogor
-    
 
 Pasir ini umum nya berwarna hitam gelap dan tingkat kekerasan butiran nya lumayan tinggi. Melainkan sekiranya anda mengepal nya dengan tangan tidak akan menggumpal dan akan hancur kembali. tipe pasir ini amat lah bagus buat Pengecoran, Plesteran Dinding, Adukan Pondasi dan Adukan Pasangan Bata Pasir ini yaitu pasir untuk Rigid merupakan butiran-butiran mineral keras dan tajam berukuran antara 0,075 – 5 mm, jika terdapat butiran berukuran lebih kecil dari 0,063 mm tak lebih dari 5% berat. Pasir ini yaitu pasir untuk Beton kerap dipakai untuk profesi cor-coran struktur seperti kolom, balok dan pelat lantai.
 
@@ -59,21 +58,18 @@ Untuk menerima ketahanan Rigid yang optimal maka pasir semestinya dapat memenuhi
 ![Harga Pasir Putih Bangka Free Ongkir Ke Kebon Pedes Bogor](/images/info/pasir-hitam-1.jpg)
 
 - ### Pasir Biasa Di Kebon Pedes Bogor
-    
 
 ![Harga Pasir Putih Bangka Free Ongkir Ke Kebon Pedes Bogor](/images/info/pasir-putih12.jpg)
 
 Pasir ini ekstra halus lagi dibandingi oleh pasir beton. kalau anda mengepal pasir ini karenanya akan menggumpal dan tidak akan buyar kembali. pasir pasang umum nya di manfaatkan buat adukan pasir beton supaya tak terlampau kasar dan bisa di pakai untuk plesteran dinding.
 
 - ### Pasir Elod Untuk Dasaran Pemasangan Marmer Di Kebon Pedes Bogor
-    
 
 Di Antara ke dua pasir diatas pasir jenis ini lebih halus lagi, bila kalian mengepal nya maka akan menggumpal dan tak akan buyar lagi. tetapi pasir macam
 
 Pada lazim nya pasir ini nyaris sama dengan pasir beton tetapi pasir ini memiliki tingkat kekasaran yg tinggi, butiran - butiran nya lumayan besar dan agak banyak batuan nya. pada umumnya pasir jenis ini baik untuk bahan dasaran pemasangan keramik
 
 - ### Pasir Putih Kadar Lumpur Rendah Untuk Hiasan Di Kebon Pedes Bogor
-    
 
 1. **Pasir Putih Bangka**
 

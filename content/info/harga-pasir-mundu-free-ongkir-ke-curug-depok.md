@@ -25,7 +25,7 @@ Berdasarkan Standar Nasional Indonesia ( SK SNI - S - 04 - 1989 - F ; 28) di tut
 
 Syarat Pasir yang Bagus tuk Konstruksi
 
-1.  Agregat Halus mesti terdiri dari butiran yang tajam dan keras dengan indeks kekerasan <2.2
+1.  Agregat Halus mesti terdiri dari butiran yang tajam dan keras dengan indeks kekerasan <2.2
 2. Sekiranya digunakan Natrium Sulfat bagian hancur optimal 12 persen
 3. Jika dipakai Magnesium Sulfat bagian halus maksimal sepuluh persen
 4. Tidak boleh memuat clay lebih dari 5%
@@ -41,7 +41,6 @@ Syarat Pasir yang Bagus tuk Konstruksi
 sesudah tahu persis syarat pasir buat suatu Konstruksi, sekarang ini kita bahas Tipe - Jenis Pasir Untuk Konstruksi Bangunan penjelasan nya berikut ini:
 
 - ### Pasir Rigid Di Curug Depok
-    
 
 Pasir ini lazim nya berwarna keabu-abuan dan tingkat pecahan butiran nya cukup tinggi. Tapi bila anda mengepal nya dengan tangan tak akan lengket dan akan buyar kembali. tipe pasir ini benar-benar lah bagus tuk Pengecoran, Plesteran Dinding, Adukan Pondasi dan Adukan Pasangan Bata Pasir ini yaitu pasir untuk Rigid adalah butiran-butiran mineral keras dan tajam berukuran antara 0,075 – 5 mm, kalau terdapat butiran berukuran lebih kecil dari 0,063 mm tidak lebih dari 5% berat. Pasir ini yaitu pasir untuk Beton kerap diaplikasikan untuk pekerjaan cor-coran struktur seperti kolom, balok dan pelat lantai.
 
@@ -59,21 +58,18 @@ Untuk menerima kualitas Cor yang maksimal karenanya pasir seharusnya dapat memen
 ![Harga Pasir Mundu Free Ongkir Ke Curug Depok](/images/info/pasir-hitam-2.jpg)
 
 - ### Pasir Untuk Adukan Pasang Batu, Pondasi, Bata, Ubin, Plester Di Curug Depok
-    
 
 ![Harga Pasir Mundu Free Ongkir Ke Curug Depok](/images/info/jual-pasir-mundu-2.jpg)
 
 Pasir ini lebih halus lagi diperbandingkan oleh pasir beton. bila anda mengepal pasir ini karenanya akan menggumpal dan tak akan hancur kembali. pasir pasang umum nya di pakai tuk campuran pasir beton supaya tak terlampau kasar dan bisa di manfaatkan untuk plesteran dinding.
 
 - ### Pasir Kualitas rendah Untuk pemadatan lantai Di Curug Depok
-    
 
 Di Antara ke dua pasir diatas pasir tipe ini lebih halus lagi, jikalau anda mengepal nya karenanya akan menggumpal dan tak akan buyar lagi. tetapi pasir ragam tidak baik tuk di buat sebagai bahan bangunan. pasir ragam ini pada lazim nya di pergunakan untuk Bahan Pembuatan Batako
 
 Pada umum nya pasir ini nyaris sama dgn pasir beton tetapi pasir ini memiliki tingkat kekasaran yang tinggi, butiran - butiran nya cukup besar dan agak banyak batuan nya. pada umumnya pasir tipe ini baik tuk bahan Pembuatan Batako
 
 - ### Pasir Putih Halus Untuk Pasang Lantai Marmer Di Curug Depok
-    
 
 1. **Pasir Putih Bangka**
 

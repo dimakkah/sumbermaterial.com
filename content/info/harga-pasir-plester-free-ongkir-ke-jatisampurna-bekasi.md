@@ -25,7 +25,7 @@ Menurut Standar Nasional Indonesia ( SK SNI - S - 04 - 1989 - F ; 28) di sebutka
 
 Syarat Pasir yang Baik buat Konstruksi Bangunan
 
-1.  Agregat Halus semestinya terdiri dari butiran yg tajam dan keras dengan indeks kekerasan <2.2
+1.  Agregat Halus semestinya terdiri dari butiran yg tajam dan keras dengan indeks kekerasan <2.2
 2. jikalau diterapkan Natrium Sulfat bagian hancur maksimal dua belas %
 3. jika diaplikasikan Magnesium Sulfat bagian halus maksimal 10%
 4. Tak boleh berisi lumpur lebih dari 5%
@@ -41,7 +41,6 @@ Syarat Pasir yang Baik buat Konstruksi Bangunan
 Setelah memahami syarat pasir buat sebuah Bangunan, sekarang ini kita bahas Ragam - Ragam Pasir Untuk Bangunan penjelasan nya sbb:
 
 - ### Pasir Jenis Rigid dan Tempat Penambangannya Di Jatisampurna Bekasi
-    
 
 Pasir ini lazim nya berwarna hitam gelap dan tingkat kekerasan butiran nya cukup tinggi. Melainkan jikalau anda mengepal nya dengan tangan tak akan lengket dan akan hancur kembali. model pasir ini betul-betul lah baik tuk Pengecoran, Plesteran Dinding, Adukan Pondasi dan Adukan Pasangan Bata Pasir ini yaitu pasir untuk Cor yakni butiran-butiran mineral keras dan tajam berukuran antara 0,075 – 5 mm, jika terdapat butiran berukuran lebih kecil dari 0,063 mm tidak lebih dari 5% berat. Pasir ini yaitu pasir untuk Cor kerap dimanfaatkan untuk profesi cor-coran struktur seperti kolom, balok dan pelat lantai.
 
@@ -59,21 +58,18 @@ Untuk menerima kualitas Cor yang optimal karenanya pasir seharusnya bisa memenuh
 ![Harga Pasir Plester Free Ongkir Ke Jatisampurna Bekasi](/images/info/pasir-hitam-5.jpg)
 
 - ### Pasir Untuk Pasang Batu, Pondasi, Bata, Ubin, Plester Di Jatisampurna Bekasi
-    
 
 ![Harga Pasir Plester Free Ongkir Ke Jatisampurna Bekasi](/images/info/jual-pasir-mundu.jpg)
 
 Pasir ini lebih halus lagi diperbandingkan oleh pasir beton. kalau kamu mengepal pasir ini karenanya akan menggumpal dan tidak akan hancur kembali. pasir pasang umum nya di manfaatkan untuk adukan pasir beton supaya tidak kelewat kasar dan bisa di manfaatkan untuk plesteran dinding.
 
 - ### Pasir Urug Untuk Dasaran Pemasangan Granit Di Jatisampurna Bekasi
-    
 
 Di Antara ke dua pasir diatas pasir jenis ini lebih halus lagi, seandainya kalian mengepal nya maka akan menggumpal dan tak akan hancur lagi. melainkan pasir macam
 
 Pada umum nya pasir ini nyaris sama dgn pasir beton namun pasir ini memiliki tingkat kekasaran yang tinggi, butiran - butiran nya cukup besar dan agak banyak batuan nya. pada biasanya pasir tipe ini baik tuk bahan dasaran pemasangan keramik
 
 - ### Pasir Putih Tanpa Ayak Untuk Pasang Lantai Marmer Di Jatisampurna Bekasi
-    
 
 1. **Pasir Putih Bangka**
 

@@ -17,10 +17,9 @@ draft: false
 
 {{< toc >}}
 
+## Estimasi Biaya Jasa Bangun Rumah di Cipete Selatan
 
-### Estimasi Biaya Jasa Bangun Rumah di Cipete Selatan
-
-Oke, langsung saja kita bahas soal biaya. Biaya bangun rumah di Cipete Selatan itu bisa bervariasi banget, tergantung beberapa faktor. Mulai dari luas bangunan, desain rumah, kualitas material yang dipilih, hingga lokasi spesifik di Cipete Selatan itu sendiri. Secara umum, di tahun 2026 ini, Anda bisa memperkirakan biaya per meter persegi mulai dari Rp 3.500.000 sampai Rp 6.000.000 atau lebih. 
+Oke, langsung saja kita bahas soal biaya. Biaya bangun rumah di Cipete Selatan itu bisa bervariasi banget, tergantung beberapa faktor. Mulai dari luas bangunan, desain rumah, kualitas material yang dipilih, hingga lokasi spesifik di Cipete Selatan itu sendiri. Secara umum, di tahun 2026 ini, Anda bisa memperkirakan biaya per meter persegi mulai dari Rp 3.500.000 sampai Rp 6.000.000 atau lebih.
 
 Harga ini bersifat estimasi dan dapat berubah sewaktu-waktu — hubungi Kami untuk penawaran terbaru dan paling akurat sesuai kebutuhan proyek Mitra.
 
@@ -28,19 +27,19 @@ Estimasi tersebut sudah termasuk biaya material dan upah tukang. Tapi, perlu dii
 
 Untuk gambaran lebih jelas, mari kita lihat contoh perhitungan sederhana:
 
-*   Luas bangunan: 100 m²
-*   Biaya per meter persegi: Rp 4.500.000
-*   Total biaya kasar: 100 m² x Rp 4.500.000 = Rp 450.000.000
+- Luas bangunan: 100 m²
+- Biaya per meter persegi: Rp 4.500.000
+- Total biaya kasar: 100 m² x Rp 4.500.000 = Rp 450.000.000
 
 ### Memilih Jasa Bangun Rumah Cipete Selatan yang Terpercaya
 
 Memilih kontraktor yang tepat itu bagaikan mencari partner terbaik untuk mewujudkan rumah impian Anda. Jangan sampai salah pilih karena bisa berakibat fatal. Berikut beberapa tips yang bisa Anda ikuti:
 
-*   **Cek Portofolio:** Lihat proyek-proyek yang pernah dikerjakan kontraktor tersebut. Apakah ada proyek serupa dengan gaya rumah yang Anda inginkan?
-*   **Minta Referensi:** Tanyakan kepada teman, keluarga, atau tetangga yang pernah menggunakan jasa kontraktor tersebut.
-*   **Periksa Legalitas:** Pastikan kontraktor memiliki izin usaha yang jelas dan terdaftar secara resmi.
-*   **Bandingkan Penawaran:** Mintalah penawaran dari beberapa kontraktor berbeda dan bandingkan secara detail. Jangan hanya terpaku pada harga termurah, tapi perhatikan juga kualitas material dan layanan yang ditawarkan.
-*   **Perhatikan Detail Kontrak:** Pastikan semua kesepakatan tertuang dalam kontrak yang jelas dan rinci.
+- **Cek Portofolio:** Lihat proyek-proyek yang pernah dikerjakan kontraktor tersebut. Apakah ada proyek serupa dengan gaya rumah yang Anda inginkan?
+- **Minta Referensi:** Tanyakan kepada teman, keluarga, atau tetangga yang pernah menggunakan jasa kontraktor tersebut.
+- **Periksa Legalitas:** Pastikan kontraktor memiliki izin usaha yang jelas dan terdaftar secara resmi.
+- **Bandingkan Penawaran:** Mintalah penawaran dari beberapa kontraktor berbeda dan bandingkan secara detail. Jangan hanya terpaku pada harga termurah, tapi perhatikan juga kualitas material dan layanan yang ditawarkan.
+- **Perhatikan Detail Kontrak:** Pastikan semua kesepakatan tertuang dalam kontrak yang jelas dan rinci.
 
 Sebagai tambahan, jangan ragu untuk melakukan survei langsung ke lokasi proyek yang sedang dikerjakan kontraktor tersebut. Dengan begitu, Anda bisa melihat langsung kualitas pekerjaan dan profesionalitas mereka.
 
@@ -51,7 +50,6 @@ Setelah memilih kontraktor yang tepat, langkah selanjutnya adalah memilih materi
 ![Contoh material bangunan: tumpukan bata merah dan pasir](/images/bangunan/jasa-bangun-rumah-minimalis-14.png)
 
 Kami mengutamakan kualitas produk dan pelayanan yang terbaik untuk Mitra Sumber Material. Semua material yang kami jual sudah teruji dan memenuhi standar SNI. Selain itu, kami juga menyediakan jasa sewa alat berat untuk memudahkan proses pembangunan rumah Anda.
-
 
 <table class="table">
   <caption>Perbandingan Material Dinding Rumah</caption>
@@ -64,7 +62,6 @@ Kami mengutamakan kualitas produk dan pelayanan yang terbaik untuk Mitra Sumber 
     <tr><td>Batako</td><td>Murah, mudah dipasang</td><td>Kurang kuat, perlu plester tebal</td><td>Rp 30.000 - Rp 45.000</td></tr>
   </tbody>
 </table>
-
 
 ### Pilihan Jasa Bangun Rumah Cipete Selatan dengan Sumber Material
 

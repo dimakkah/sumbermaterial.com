@@ -17,7 +17,6 @@ draft: false
 
 {{< toc >}}
 
-
 ## Mengapa Memilih Jasa Kanopi Serang dari Sumber Material?
 
 Mitra Sumber Material, ada beberapa alasan mengapa memilih Kami untuk jasa pemasangan kanopi di Serang dan sekitarnya adalah keputusan yang tepat. Pertama, Kami menawarkan layanan *one-stop solution* – mulai dari konsultasi desain, pengadaan material, hingga pemasangan yang rapi dan profesional. Ini akan menghemat waktu dan tenaga Anda, karena Anda tidak perlu repot mengurus semuanya sendiri. Kedua, Kami hanya menggunakan material berkualitas tinggi yang tahan lama dan sesuai dengan standar SNI. Ini menjamin keamanan dan ketahanan kanopi Anda terhadap cuaca ekstrem. Ketiga, Kami memberikan harga yang kompetitif dan transparan, tanpa biaya tersembunyi.
@@ -36,7 +35,6 @@ Sementara itu, polycarbonate menawarkan keunggulan dalam hal estetika dan kemamp
 
 Berikut tabel perbandingan singkat antara baja ringan dan polycarbonate:
 
-
 <table class="table">
   <caption>Perbandingan Material Kanopi</caption>
   <thead>
@@ -52,18 +50,17 @@ Berikut tabel perbandingan singkat antara baja ringan dan polycarbonate:
   </tbody>
 </table>
 
-
 Harga ini bersifat estimasi dan dapat berubah sewaktu-waktu — hubungi Kami untuk penawaran terbaru dan paling akurat sesuai kebutuhan proyek Mitra.
 
 ## Tips Memilih Jasa Pemasangan Kanopi Serang yang Tepat
 
 Memilih jasa pemasangan kanopi yang tepat sangat penting untuk memastikan hasil yang memuaskan. Anda dapat mempertimbangkan beberapa tips berikut:
 
-*   **Reputasi:** Cari tahu reputasi penyedia jasa tersebut melalui ulasan online atau rekomendasi dari teman dan keluarga.
-*   **Pengalaman:** Pilih penyedia jasa yang memiliki pengalaman yang cukup dalam pemasangan kanopi di wilayah Serang dan sekitarnya.
-*   **Portfolio:** Minta untuk melihat portfolio proyek-proyek yang pernah mereka kerjakan.
-*   **Garansi:** Pastikan penyedia jasa memberikan garansi untuk pekerjaan dan material yang digunakan.
-*   **Harga:** Bandingkan harga dari beberapa penyedia jasa sebelum membuat keputusan. Jangan terpaku pada harga termurah, tetapi pertimbangkan juga kualitas dan layanan yang ditawarkan.
+- **Reputasi:** Cari tahu reputasi penyedia jasa tersebut melalui ulasan online atau rekomendasi dari teman dan keluarga.
+- **Pengalaman:** Pilih penyedia jasa yang memiliki pengalaman yang cukup dalam pemasangan kanopi di wilayah Serang dan sekitarnya.
+- **Portfolio:** Minta untuk melihat portfolio proyek-proyek yang pernah mereka kerjakan.
+- **Garansi:** Pastikan penyedia jasa memberikan garansi untuk pekerjaan dan material yang digunakan.
+- **Harga:** Bandingkan harga dari beberapa penyedia jasa sebelum membuat keputusan. Jangan terpaku pada harga termurah, tetapi pertimbangkan juga kualitas dan layanan yang ditawarkan.
 
 ## Jenis-Jenis Kanopi yang Bisa Anda Pilih
 

@@ -25,7 +25,7 @@ menurut Standar Nasional Indonesia ( SK SNI - S - 04 - 1989 - F ; 28) di sebutka
 
 Prasyarat Pasir yang Baik tuk Bangunan
 
-1.  Agregat Halus semestinya terdiri dari butiran yg tajam dan keras dengan indeks kekerasan <2.2
+1.  Agregat Halus semestinya terdiri dari butiran yg tajam dan keras dengan indeks kekerasan <2.2
 2. Bila digunakan Natrium Sulfat komponen hancur maksimal dua belas persen
 3. seandainya diaplikasikan Magnesium Sulfat bagian halus maksimal 5 persen
 4. Tidak boleh mengandung tanah lebih dari 5%
@@ -41,7 +41,6 @@ Prasyarat Pasir yang Baik tuk Bangunan
 Sesudah mengenal syarat pasir tuk sebuah Bangunan, sekarang ini kita bahas Tipe - Macam Pasir Untuk Konstruksi Bangunan penjelasan nya sbb:
 
 - ### Pasir Rigid Di Curug Bogor
-    
 
 Pasir ini biasa nya berwarna hitam gelap dan tingkat kekerasan butiran nya lumayan tinggi. Tapi seandainya anda mengepal nya dengan tangan tak akan lengket dan akan buyar kembali. macam pasir ini sangat lah baik untuk Pengecoran, Plesteran Dinding, Adukan Pondasi dan Adukan Pasangan Bata Pasir ini yaitu pasir untuk Cor ialah butiran-butiran mineral keras dan tajam berukuran antara 0,075 – 5 mm, apabila terdapat butiran berukuran lebih kecil dari 0,063 mm tidak lebih dari 5% berat. Pasir ini yaitu pasir untuk Cor hampir sering dipakai untuk profesi cor-coran struktur seperti kolom, balok dan pelat lantai.
 
@@ -59,21 +58,18 @@ Untuk mendapat kekokohan Rigid yang optimal karenanya pasir harus mampu memenuhi
 ![Harga Pasir Hitam Cor Free Ongkir Ke Curug Bogor](/images/info/pasir-hitam-5.jpg)
 
 - ### Pasir Untuk Adukan Pasang Batu, Pondasi, Bata, Ubin, Plester Di Curug Bogor
-    
 
 ![Harga Pasir Hitam Cor Free Ongkir Ke Curug Bogor](/images/info/pasir-putih3.jpg)
 
 Pasir ini lebih halus lagi dibandingi oleh pasir beton. bila anda mengepal pasir ini maka akan menggumpal dan tidak akan hancur kembali. pasir pasang lazim nya di manfaatkan buat adukan pasir beton agar tidak kelewat kasar dan bisa di pakai untuk plesteran dinding.
 
 - ### Pasir Elod Untuk pengurugan lantai Di Curug Bogor
-    
 
 Di Antara ke dua pasir diatas pasir tipe ini lebih halus lagi, sekiranya anda mengepal nya maka akan menggumpal dan tak akan hancur lagi. namun pasir tipe
 
 Pada biasa nya pasir ini nyaris sama dengan pasir beton akan namun pasir ini mempunyai tingkat kekasaran yang tinggi, butiran - butiran nya lumayan besar dan agak banyak batuan nya. pada umumnya pasir tipe ini baik untuk bahan Pembuatan Batako
 
 - ### Pasir Putih Halus Untuk Pasang Lantai Marmer Di Curug Bogor
-    
 
 1. **Pasir Putih Bangka**
 

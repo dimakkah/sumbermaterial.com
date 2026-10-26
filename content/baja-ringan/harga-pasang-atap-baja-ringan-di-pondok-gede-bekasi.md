@@ -21,19 +21,19 @@ Pemasangan baja ringan untuk bangunan Anda di Pondok Gede Bekasi bisa jadi lebih
 
 Yuk, kita bahas beberapa alasan mengapa Anda harus mempertimbangkan baja ringan sebagai pilihan utama untuk kerangka atap dan *canopy* Anda di Pondok Gede Bekasi:
 
- **Ramah Lingkungan:** Baja ringan lebih ramah lingkungan karena tidak membutuhkan kayu, yang berarti tidak perlu menebang pohon secara khusus. Dengan menggunakan baja ringan, Anda turut berkontribusi dalam melestarikan alam.
+- **Ramah Lingkungan:** Baja ringan lebih ramah lingkungan karena tidak membutuhkan kayu, yang berarti tidak perlu menebang pohon secara khusus. Dengan menggunakan baja ringan, Anda turut berkontribusi dalam melestarikan alam.
 
- **Lebih Ekonomis:** Dibandingkan dengan kerangka kayu, baja ringan umumnya lebih terjangkau. Harga kayu berkualitas terbaik seringkali lebih mahal, terutama untuk bagian kerangka yang krusial bagi bangunan Anda. Mempertimbangkan ini dengan matang dapat membantu menekan biaya pembangunan.
+- **Lebih Ekonomis:** Dibandingkan dengan kerangka kayu, baja ringan umumnya lebih terjangkau. Harga kayu berkualitas terbaik seringkali lebih mahal, terutama untuk bagian kerangka yang krusial bagi bangunan Anda. Mempertimbangkan ini dengan matang dapat membantu menekan biaya pembangunan.
 
- **Ringan dan Kuat:** Baja ringan berbeda dengan baja atau besi biasa yang memiliki berat dua kali lipatnya. Baja ringan tipis dan ringan, namun tetap sangat kuat untuk menopang kerangka atap dan *canopy* rumah Anda.
+- **Ringan dan Kuat:** Baja ringan berbeda dengan baja atau besi biasa yang memiliki berat dua kali lipatnya. Baja ringan tipis dan ringan, namun tetap sangat kuat untuk menopang kerangka atap dan *canopy* rumah Anda.
 
- **Minim Perawatan:** Anda tidak perlu khawatir dengan kerusakan pada kerangka atap Anda. Baja ringan dirancang tahan lama dan tidak memerlukan perawatan tahunan yang repot.
+- **Minim Perawatan:** Anda tidak perlu khawatir dengan kerusakan pada kerangka atap Anda. Baja ringan dirancang tahan lama dan tidak memerlukan perawatan tahunan yang repot.
 
- **Pemasangan Cepat:** Pemasangan kerangka atap baja ringan jauh lebih cepat dibandingkan dengan material lain seperti kayu. Ini akan menghemat waktu dan tenaga Anda.
+- **Pemasangan Cepat:** Pemasangan kerangka atap baja ringan jauh lebih cepat dibandingkan dengan material lain seperti kayu. Ini akan menghemat waktu dan tenaga Anda.
 
- **Kualitas Terjamin:** Kami hanya menggunakan baja ringan berkualitas tinggi yang terbuat dari zinc dan alumunium dengan sertifikasi dan standar keamanan 4 kali lebih baik daripada baja biasa. Kekuatannya pun luar biasa, mampu menahan beban berkilo-kilo.
+- **Kualitas Terjamin:** Kami hanya menggunakan baja ringan berkualitas tinggi yang terbuat dari zinc dan alumunium dengan sertifikasi dan standar keamanan 4 kali lebih baik daripada baja biasa. Kekuatannya pun luar biasa, mampu menahan beban berkilo-kilo.
 
- **Tahan Rayap:** Kami menjamin kerangka atap dan *canopy* baja ringan kami tahan terhadap serangan rayap, sehingga Anda tidak perlu khawatir dengan kerusakan akibat hama.
+- **Tahan Rayap:** Kami menjamin kerangka atap dan *canopy* baja ringan kami tahan terhadap serangan rayap, sehingga Anda tidak perlu khawatir dengan kerusakan akibat hama.
 
 ## Sistem Hitung Luas Rangka Baja Ringan di Pondok Gede Bekasi
 

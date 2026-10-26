@@ -17,8 +17,7 @@ draft: false
 
 {{< toc >}}
 
-
-### Memahami Ukuran dan Kegunaan Split 2/3
+## Memahami Ukuran dan Kegunaan Split 2/3
 
 Split 2/3 adalah jenis batu split yang ukurannya berada di antara 2-3 sentimeter. Material ini sangat populer digunakan dalam berbagai proyek konstruksi, mulai dari pondasi, lantai kerja, hingga campuran beton. Kekuatan dan daya tahannya menjadikan split 2/3 sebagai pilihan utama untuk struktur yang memerlukan kestabilan tinggi. Penggunaannya dalam campuran beton juga membantu meningkatkan kualitas dan ketahanan campuran terhadap tekanan dan cuaca. Mitra Sumber Material seringkali merekomendasikan split 2/3 untuk proyek-proyek di area Jabodetabek karena ketersediaannya yang melimpah.
 
@@ -36,7 +35,6 @@ Faktor penting lainnya adalah kualitas split itu sendiri. Split dengan kualitas 
 
 Untuk memberikan gambaran, berikut ini adalah estimasi harga split 2/3 per kubik di wilayah Jabodetabek pada tahun 2026 (per update artikel ini):
 
-
 <table class="table">
   <caption>Estimasi Harga Split 2/3 Per Kubik (Jabodetabek)</caption>
   <thead>
@@ -48,7 +46,6 @@ Untuk memberikan gambaran, berikut ini adalah estimasi harga split 2/3 per kubik
     <tr><td>Split 2/3 Premium</td><td>400.000 - 550.000</td><td>Kualitas terbaik, kadar mineral tinggi</td></tr>
   </tbody>
 </table>
-
 
 Harga ini bersifat estimasi dan dapat berubah sewaktu-waktu — hubungi Kami untuk penawaran terbaru dan paling akurat sesuai kebutuhan proyek Mitra. Penting untuk diingat bahwa harga di atas belum termasuk biaya pengiriman dan pajak.
 

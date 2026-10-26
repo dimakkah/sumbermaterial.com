@@ -21,23 +21,23 @@ Membangun atau merenovasi dengan baja ringan bisa sangat mudah, lho! Anda tidak 
 
 Yuk, simak beberapa alasan mengapa baja ringan adalah pilihan cerdas untuk atap dan kanopi Anda di Ciampel Karawang:
 
- **Ramah Lingkungan:** Baja ringan lebih bersahabat dengan alam karena Anda tidak perlu menebang pohon untuk mendapatkan kayu. Dengan memilih baja ringan, Anda turut berkontribusi dalam melestarikan lingkungan.
+- **Ramah Lingkungan:** Baja ringan lebih bersahabat dengan alam karena Anda tidak perlu menebang pohon untuk mendapatkan kayu. Dengan memilih baja ringan, Anda turut berkontribusi dalam melestarikan lingkungan.
 
- **Lebih Ekonomis:** Dibandingkan dengan kayu, baja ringan umumnya lebih terjangkau. Anda bisa menghemat biaya pembangunan tanpa mengorbankan kualitas.
+- **Lebih Ekonomis:** Dibandingkan dengan kayu, baja ringan umumnya lebih terjangkau. Anda bisa menghemat biaya pembangunan tanpa mengorbankan kualitas.
 
- **Ringan dan Kuat:** Meskipun ringan, baja ringan memiliki kekuatan yang luar biasa. Material ini tipis namun sangat kokoh untuk menopang kerangka atap dan kanopi rumah Anda.
+- **Ringan dan Kuat:** Meskipun ringan, baja ringan memiliki kekuatan yang luar biasa. Material ini tipis namun sangat kokoh untuk menopang kerangka atap dan kanopi rumah Anda.
 
- **Minim Perawatan:** Anda tidak perlu khawatir tentang perawatan rutin yang mahal. Baja ringan tahan terhadap kerusakan dan tidak memerlukan perawatan tahunan.
+- **Minim Perawatan:** Anda tidak perlu khawatir tentang perawatan rutin yang mahal. Baja ringan tahan terhadap kerusakan dan tidak memerlukan perawatan tahunan.
 
- **Pemasangan Cepat:** Proses pemasangan baja ringan jauh lebih cepat dibandingkan dengan bahan lain seperti kayu. Hemat waktu dan tenaga!
+- **Pemasangan Cepat:** Proses pemasangan baja ringan jauh lebih cepat dibandingkan dengan bahan lain seperti kayu. Hemat waktu dan tenaga!
 
- **Kualitas Terjamin:** Baja ringan yang kami gunakan adalah material berkualitas tinggi dengan lapisan zinc dan aluminium yang memberikan perlindungan 4 kali lebih baik dibandingkan baja biasa. Kuat dan tahan lama!
+- **Kualitas Terjamin:** Baja ringan yang kami gunakan adalah material berkualitas tinggi dengan lapisan zinc dan aluminium yang memberikan perlindungan 4 kali lebih baik dibandingkan baja biasa. Kuat dan tahan lama!
 
- **Tahan Rayap:** Anda tidak perlu khawatir tentang serangan rayap yang merusak kerangka atap dan kanopi Anda. Baja ringan dijamin tahan terhadap rayap.
+- **Tahan Rayap:** Anda tidak perlu khawatir tentang serangan rayap yang merusak kerangka atap dan kanopi Anda. Baja ringan dijamin tahan terhadap rayap.
 
 ## Sistem Hitung Luas Rangka Baja Ringan Di Ciampel Karawang
 
-Anda bisa mencoba menghitung sendiri luas rangka atap untuk memperkirakan biaya dan kemiringan atap. Berikut rumusnya: 
+Anda bisa mencoba menghitung sendiri luas rangka atap untuk memperkirakan biaya dan kemiringan atap. Berikut rumusnya:
 
 **Menentukan Kemiringan Atap**
 
@@ -49,7 +49,7 @@ Perhitungan luas datar adalah (overstack + Panjang) x (lebar + overstack). Jadi,
 
 ### Menentukan Luas Miring
 
-Perhitungan luas miring adalah Luas miring = Luas datar / Cosinus kemiringan atap. Yaitu 181.44 / 0.8666 = 209.52 meter persegi. Jadi, luas kemiringan pada rangka atap baja ringan ini adalah 209.52 meter persegi. 
+Perhitungan luas miring adalah Luas miring = Luas datar / Cosinus kemiringan atap. Yaitu 181.44 / 0.8666 = 209.52 meter persegi. Jadi, luas kemiringan pada rangka atap baja ringan ini adalah 209.52 meter persegi.
 
 Dengan perhitungan ini, Anda bisa memperkirakan jumlah dan volume baja ringan yang dibutuhkan. Tapi kalau terasa rumit, jangan ragu untuk menghubungi kami!
 
@@ -92,7 +92,8 @@ Berikut rincian penting dari biaya jasa pasang baja ringan yang perlu Anda ketah
 - Biaya jasa pasang baja ringan dapat berubah sewaktu-waktu tergantung pada fluktuasi harga material.
 - Pembayaran bisa dilakukan dengan uang muka dan sisanya setelah pemasangan selesai.
 
-Demikian informasi tentang Harga Pasang Atap Baja Ringan Di Ciampel Karawang. Jangan ragu untuk menghubungi kami jika Anda memiliki pertanyaan atau ingin mendapatkan penawaran harga terbaik! 
+Demikian informasi tentang Harga Pasang Atap Baja Ringan Di Ciampel Karawang. Jangan ragu untuk menghubungi kami jika Anda memiliki pertanyaan atau ingin mendapatkan penawaran harga terbaik!
+
 <table class="table">
   <caption>Ukuran Baja Ringan Umum</caption>
   <thead>

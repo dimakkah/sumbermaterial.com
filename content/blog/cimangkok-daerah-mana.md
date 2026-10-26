@@ -20,11 +20,9 @@ draft: false
 
 ![Pasir Cimangkok: Kenali Kualitas dan Asal Daerahnya](/images/blog/cimangkok-daerah-mana.jpg)
 
+## Apa Itu Pasir Cimangkok dan Mengapa Penting?
 
-
-### Apa Itu Pasir Cimangkok dan Mengapa Penting?
-
-Pasir cimangkok adalah jenis pasir yang berasal dari hasil penggerusan batuan vulkanik. Pasir ini memiliki tekstur kasar, berwarna kecoklatan, dan banyak digunakan dalam berbagai aplikasi konstruksi, mulai dari campuran beton, urugan, hingga pembuatan jalan. Keunggulannya terletak pada daya rekatnya yang baik, sehingga menghasilkan campuran yang lebih kuat dan tahan lama. 
+Pasir cimangkok adalah jenis pasir yang berasal dari hasil penggerusan batuan vulkanik. Pasir ini memiliki tekstur kasar, berwarna kecoklatan, dan banyak digunakan dalam berbagai aplikasi konstruksi, mulai dari campuran beton, urugan, hingga pembuatan jalan. Keunggulannya terletak pada daya rekatnya yang baik, sehingga menghasilkan campuran yang lebih kuat dan tahan lama.
 
 Mitra Sumber Material tentu tahu betapa krusialnya pemilihan material yang tepat. Pasir cimangkok yang berkualitas buruk bisa menyebabkan retak pada struktur bangunan, mengurangi umur konstruksi, dan bahkan membahayakan keselamatan. Itulah mengapa penting untuk memahami asal-usul dan karakteristik pasir cimangkok yang tersedia di pasaran.
 
@@ -32,12 +30,11 @@ Mitra Sumber Material tentu tahu betapa krusialnya pemilihan material yang tepat
 
 Lalu, cimangkok daerah mana yang terbaik? Pertanyaan ini tidak bisa dijawab dengan satu jawaban pasti. Kualitas pasir cimangkok sangat bervariasi tergantung pada lokasi sumbernya. Berikut beberapa daerah penghasil pasir cimangkok yang populer di Jabodetabek dan sekitarnya:
 
-*   **Cimangkok Jawa Barat:** Ini adalah sumber utama pasir cimangkok di wilayah kita. Pasir cimangkok dari Jawa Barat umumnya memiliki kualitas yang baik, dengan kandungan lumpur dan tanah yang relatif rendah. Harganya pun cukup kompetitif.
-*   **Cimangkok Banten:** Pasir cimangkok dari Banten juga banyak digunakan di Jabodetabek. Kualitasnya bervariasi tergantung lokasi tambang. Beberapa tambang menghasilkan pasir dengan kualitas premium, sementara yang lain kualitasnya standar.
-*   **Cimangkok Sukabumi:** Pasir cimangkok dari Sukabumi terkenal dengan teksturnya yang kasar dan kuat. Cocok digunakan untuk pekerjaan konstruksi yang membutuhkan daya tahan tinggi, seperti pondasi dan jalan.
+- **Cimangkok Jawa Barat:** Ini adalah sumber utama pasir cimangkok di wilayah kita. Pasir cimangkok dari Jawa Barat umumnya memiliki kualitas yang baik, dengan kandungan lumpur dan tanah yang relatif rendah. Harganya pun cukup kompetitif.
+- **Cimangkok Banten:** Pasir cimangkok dari Banten juga banyak digunakan di Jabodetabek. Kualitasnya bervariasi tergantung lokasi tambang. Beberapa tambang menghasilkan pasir dengan kualitas premium, sementara yang lain kualitasnya standar.
+- **Cimangkok Sukabumi:** Pasir cimangkok dari Sukabumi terkenal dengan teksturnya yang kasar dan kuat. Cocok digunakan untuk pekerjaan konstruksi yang membutuhkan daya tahan tinggi, seperti pondasi dan jalan.
 
 Untuk lebih jelasnya, berikut tabel perbandingan karakteristik pasir cimangkok dari beberapa daerah:
-
 
 <table class="table">
   <caption>Perbandingan Pasir Cimangkok Berdasarkan Daerah Asal</caption>
@@ -50,7 +47,6 @@ Untuk lebih jelasnya, berikut tabel perbandingan karakteristik pasir cimangkok d
     <tr><td>Sukabumi</td><td>Kasar</td><td>Rendah</td><td>Sangat Baik</td><td>Rp 180.000 - Rp 250.000</td></tr>
   </tbody>
 </table>
-
 
 Harga ini bersifat estimasi dan dapat berubah sewaktu-waktu — hubungi Kami untuk penawaran terbaru dan paling akurat sesuai kebutuhan proyek Mitra.
 

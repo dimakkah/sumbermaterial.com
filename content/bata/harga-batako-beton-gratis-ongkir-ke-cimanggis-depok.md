@@ -16,7 +16,7 @@ dikala ini bahan yang dipakai untuk mengisi dinding tempat tinggal, sudah terdap
 
 ## Mengenal Macam-macam Bata
 
-### 1\. Bata Merah Standar & Jumbo Di Cimanggis Depok
+### 1. Bata Merah Standar & Jumbo Di Cimanggis Depok
 
 ![Harga Batako Beton Gratis Ongkir Ke Cimanggis Depok](/images/bata/bata-merah-oven-31.png)
 
@@ -26,7 +26,7 @@ Bata merah ini diproduksi dari material tanah yg kemudian di press dan dibakar d
 
 Bahan bangunan ini sungguh-sungguh tahan terhadap panas dan sesuai dijadikan perlindungan dari bahaya api. Bata merah ini pada lazimnya mempunyai ukuran panjang antara 17-23 cm dan lebar sekitar 7-11 cm, serta tebalnya 3-5 cm. mempunyai ukuran yg lebih kecil akan memberi kemudahan dalam pengerjaan pengangkutan dan dapat digunakan untuk menyusun bidang kecil.
 
-### 2\. Batako Hitam dan Putih Di Cimanggis Depok
+### 2. Batako Hitam dan Putih Di Cimanggis Depok
 
 ![Harga Batako Beton Gratis Ongkir Ke Cimanggis Depok](/images/bata/batako-hitam-press-09.png)
 
@@ -34,7 +34,7 @@ Material bangunan tembok dari batako trus ini secara umum terbuat dari bahan Adu
 
 Batako seperti ini mempunyai kekurangan seperti gampang pecah, lebih panas dan pengap. Berbeda dg bata merah yang terbuat dari material tanah. Tetapi batako press ini cenderung lebih ringan daripada bata merah. Hasilnya akan kelihatan lebih halus dan ukurannya lebih presisi jikalau diperbandingkan dg bata merah. Batako trus Hitam ini memiliki ukuran panjang sekitar 36-40 cm, tinggi 18-20 cm dan tebal 8-10 cm. bahan ini acap kali dipilih karena untuk memperingan beban struktur bangunan, meminimalisir sisa bahan dan mempermudah pembangunan.
 
-### 3\. Bata Herbel Di Cimanggis Depok
+### 3. Bata Herbel Di Cimanggis Depok
 
 ![Harga Batako Beton Gratis Ongkir Ke Cimanggis Depok](/images/bata/bata-hebel-sni-07.png)
 
@@ -62,7 +62,7 @@ Seluruhnya tentu telah tahu kegunaan utama batu bata mulai diaplikasikan untuk m
 
 Metode memesan batu bata yang aman dan terpercaya:
 
-1.  Pengerjaan pembayaran dapat anda lakukan secara COD atau dibayar di daerah dikala barang orderan anda sudah datang di tempat
+1.  Pengerjaan pembayaran dapat anda lakukan secara COD atau dibayar di daerah dikala barang orderan anda sudah datang di tempat
 2. Silahkan memilih dan menentukan bahan batu bata yang anda inginkan
 3. Tentukan juga jumlah orderan batu bata yg anda butuhkan dalam wujud bijian.
 4. Anda bisa menghubungi layanan telepon toko untuk memudahkan progres pemesanan

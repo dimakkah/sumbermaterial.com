@@ -44,13 +44,13 @@ Secara lazim pembuatan Kusen Pintu/Jendela Aluminium ini banyak dicari orang unt
 
 Alasan Anda Memilih Layanan Pembuatan Kusen Alumunium dari Kami.
 
-1\. Kami mengerjakan pesanan pantas dg tanggal yg disepakati sehingga anda sebagai pelanggan juga menerima hasil yg cocok dg estimasi.
+1. Kami mengerjakan pesanan pantas dg tanggal yg disepakati sehingga anda sebagai pelanggan juga menerima hasil yg cocok dg estimasi.
 
-2\. Kami juga melayani banyak pekerjaan lain seperti pembuatan kerangka atas, wood parisi, instalisasi listrik dan masih banyak lagi Layanan lain yg kami miliki.
+2. Kami juga melayani banyak pekerjaan lain seperti pembuatan kerangka atas, wood parisi, instalisasi listrik dan masih banyak lagi Layanan lain yg kami miliki.
 
-3\. Pembayaran menjadi solusi untuk anda, kami memberikan pembayaran dengan cara DP sehingga anda tak perlu ragu denga Layanan yg kami tawarkan.
+3. Pembayaran menjadi solusi untuk anda, kami memberikan pembayaran dengan cara DP sehingga anda tak perlu ragu denga Layanan yg kami tawarkan.
 
-4\. Tim kami akan datang ke area anda utk memandang dan menilai ukuran Kusen Pintu/Jendela Aluminium yang anda pesan.
+4. Tim kami akan datang ke area anda utk memandang dan menilai ukuran Kusen Pintu/Jendela Aluminium yang anda pesan.
 
 ## Macam dan Merk Alumium Yang kami Sediakan Di Harjasari Bogor
 

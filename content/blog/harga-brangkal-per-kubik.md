@@ -18,14 +18,13 @@ draft: false
 
 {{< toc >}}
 
-
 ## Memahami Brangkal: Jenis dan Kegunaannya
 
 Brangkal sendiri bukanlah satu jenis material yang tunggal, lho. Ada beberapa variasi brangkal yang sering digunakan dalam proyek konstruksi. Secara umum, brangkal terdiri dari campuran tanah, pasir, dan batu kecil. Perbedaan utama terletak pada proporsi campuran dan ukuran batu yang digunakan. Beberapa jenis brangkal yang umum dijumpai antara lain:
 
-*   **Brangkal Kasar:** Mengandung proporsi batu yang lebih besar. Cocok digunakan untuk urug yang membutuhkan daya dukung tinggi, seperti pondasi bangunan atau jalan.
-*   **Brangkal Halus:** Proporsi pasir lebih dominan. Umumnya digunakan untuk pengurugan area yang membutuhkan permukaan lebih rata dan padat, seperti dasar bangunan.
-*   **Brangkal Campuran:** Kombinasi antara brangkal kasar dan halus. Pilihan ini menawarkan keseimbangan antara daya dukung dan kemampuan pemadatan.
+- **Brangkal Kasar:** Mengandung proporsi batu yang lebih besar. Cocok digunakan untuk urug yang membutuhkan daya dukung tinggi, seperti pondasi bangunan atau jalan.
+- **Brangkal Halus:** Proporsi pasir lebih dominan. Umumnya digunakan untuk pengurugan area yang membutuhkan permukaan lebih rata dan padat, seperti dasar bangunan.
+- **Brangkal Campuran:** Kombinasi antara brangkal kasar dan halus. Pilihan ini menawarkan keseimbangan antara daya dukung dan kemampuan pemadatan.
 
 Nah, jenis brangkal yang Anda pilih akan sangat memengaruhi harga per kubiknya. Selain itu, kegunaan brangkal sangat beragam, mulai dari urug pondasi, reklamasi lahan, hingga penimbunan area rendah.
 
@@ -33,11 +32,11 @@ Nah, jenis brangkal yang Anda pilih akan sangat memengaruhi harga per kubiknya. 
 
 Harga brangkal per kubik bisa sangat bervariasi tergantung pada beberapa faktor. Penting bagi Mitra Sumber Material untuk memahami faktor-faktor ini agar bisa memperkirakan anggaran proyek dengan lebih akurat. Beberapa faktor yang memengaruhi harga antara lain:
 
-*   **Lokasi:** Harga brangkal akan berbeda-beda di setiap wilayah. Semakin jauh lokasi proyek dari sumber material, biaya transportasi akan semakin tinggi dan berdampak pada harga jual.
-*   **Kualitas Material:** Kualitas brangkal, termasuk proporsi campuran dan ukuran batu, sangat memengaruhi harga. Brangkal dengan kualitas lebih baik tentu akan lebih mahal.
-*   **Ketersediaan:** Ketersediaan brangkal di pasaran juga berperan. Jika pasokan terbatas, harga cenderung naik.
-*   **Permintaan:** Permintaan pasar yang tinggi juga dapat mendorong harga brangkal naik.
-*   **Biaya Transportasi:** Seperti yang sudah disebutkan, biaya transportasi dari lokasi sumber material ke lokasi proyek sangat berpengaruh pada harga akhir.
+- **Lokasi:** Harga brangkal akan berbeda-beda di setiap wilayah. Semakin jauh lokasi proyek dari sumber material, biaya transportasi akan semakin tinggi dan berdampak pada harga jual.
+- **Kualitas Material:** Kualitas brangkal, termasuk proporsi campuran dan ukuran batu, sangat memengaruhi harga. Brangkal dengan kualitas lebih baik tentu akan lebih mahal.
+- **Ketersediaan:** Ketersediaan brangkal di pasaran juga berperan. Jika pasokan terbatas, harga cenderung naik.
+- **Permintaan:** Permintaan pasar yang tinggi juga dapat mendorong harga brangkal naik.
+- **Biaya Transportasi:** Seperti yang sudah disebutkan, biaya transportasi dari lokasi sumber material ke lokasi proyek sangat berpengaruh pada harga akhir.
 
 Sebagai gambaran, di wilayah Jabodetabek, harga brangkal per kubik saat ini berkisar antara Rp 150.000 hingga Rp 300.000. Harga ini bersifat estimasi dan dapat berubah sewaktu-waktu — hubungi Kami untuk penawaran terbaru dan paling akurat sesuai kebutuhan proyek Mitra.
 

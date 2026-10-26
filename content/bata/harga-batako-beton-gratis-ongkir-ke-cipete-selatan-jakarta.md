@@ -16,7 +16,7 @@ dikala ini bahan yang diaplikasikan untuk mengisi dinding rumah, sudah terdapat 
 
 ## Mengetahui Macam-macam Bata
 
-### 1\. Bata Merah Standar & Jumbo Di Cipete Selatan Jakarta
+### 1. Bata Merah Standar & Jumbo Di Cipete Selatan Jakarta
 
 ![Harga Batako Beton Gratis Ongkir Ke Cipete Selatan Jakarta](/images/bata/bata-merah-oven-19.png)
 
@@ -26,7 +26,7 @@ Bata merah ini dijadikan dari bahan tanah yang kemudian di cetak dan dibakar den
 
 Bahan bangunan ini benar-benar kuat terhadap panas dan layak dibuat pengamanan dari bahaya api. Bata merah ini pada umumnya memiliki ukuran panjang antara 17-23 cm dan lebar sekitar 7-11 cm, serta tebalnya 3-5 cm. memiliki ukuran yang lebih kecil akan memberi kemudahan dalam pelaksanaan pengangkutan dan bisa dipakai untuk membentuk bidang kecil.
 
-### 2\. Batako Hitam dan Putih Di Cipete Selatan Jakarta
+### 2. Batako Hitam dan Putih Di Cipete Selatan Jakarta
 
 ![Harga Batako Beton Gratis Ongkir Ke Cipete Selatan Jakarta](/images/bata/batako-hitam-press-12.png)
 
@@ -34,7 +34,7 @@ Bahan bangunan tembok dari batako trus ini secara lazimnya terbuat dari bahan ca
 
 Batako trus seperti ini memiliki kelemahan seperti mudah pecah, lebih panas dan pengap. Berbeda dg bata merah yg terbuat dari bahan tanah. Melainkan batako ini cenderung lebih ringan ketimbang bata merah. Alhasil akan tampak lebih halus dan ukurannya lebih presisi kalau dibandingkan dg bata merah. Batako Hitam ini memiliki ukuran panjang sekitar 36-40 cm, tinggi 18-20 cm dan tebal 8-10 cm. bahan ini tak jarang dipilih sebab untuk memperingan bobot struktur bangunan, meminimalisir sisa bahan dan mempercepat pembangunan.
 
-### 3\. Bata Herbel Di Cipete Selatan Jakarta
+### 3. Bata Herbel Di Cipete Selatan Jakarta
 
 ![Harga Batako Beton Gratis Ongkir Ke Cipete Selatan Jakarta](/images/bata/bata-hebel-sni-15.png)
 
@@ -62,7 +62,7 @@ Semua tentunya sudah tahu fungsi utama batu bata mulai diterapkan untuk membuat 
 
 Cara mengorder batu bata yang aman dan terpercaya:
 
-1.  Cara pembayaran dapat anda lakukan secara COD atau dibayar di tempat saat barang orderan anda telah datang di daerah
+1.  Cara pembayaran dapat anda lakukan secara COD atau dibayar di tempat saat barang orderan anda telah datang di daerah
 2. Silahkan memilih dan mempertimbangkan bahan batu bata yang anda inginkan
 3. Tentukan juga jumlah orderan batu bata yg anda butuhkan dalam bentuk bijian.
 4. Anda bisa menghubungi layanan telepon kios untuk mempermudah pelaksanaan pengorderan

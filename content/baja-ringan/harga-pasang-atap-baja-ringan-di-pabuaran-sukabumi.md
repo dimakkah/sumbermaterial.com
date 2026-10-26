@@ -27,22 +27,22 @@ Banyak informasi tentang biaya jasa pasang baja ringan yang tersedia secara *onl
 
 ( Catatan : harga bisa ditambahkan sendiri ) Berikut adalah perkiraan biaya jasa pasang baja ringan berdasarkan jenis pemasangan:
 
-\- Kanopi rangka baja ringan dengan *polikarbonat lite*: Rp. 285.000 / m²
-\- Kanopi rangka baja ringan dengan *spandek*: Rp. 225.000 / m²
-\- Kanopi rangka baja ringan dengan *gogreen*: Rp. 200.000 / m²
-\- Untuk perhitungan lainnya, silakan hubungi kami melalui kontak yang tersedia di situs kami.
+- Kanopi rangka baja ringan dengan *polikarbonat lite*: Rp. 285.000 / m²
+- Kanopi rangka baja ringan dengan *spandek*: Rp. 225.000 / m²
+- Kanopi rangka baja ringan dengan *gogreen*: Rp. 200.000 / m²
+- Untuk perhitungan lainnya, silakan hubungi kami melalui kontak yang tersedia di situs kami.
 
 ### Parameter Besaran Biaya Layanan Pasang Baja Ringan
 
-#### 1\. Pembuatan Sketsa Desain
+#### 1. Pembuatan Sketsa Desain
 
 Harga juga dipengaruhi oleh desain atau pola sketsa yang akan dibuat oleh tim teknisi kami di lokasi Anda. Sketsa desain penting untuk menentukan jumlah material baja ringan yang dibutuhkan, sehingga tidak ada pemborosan. Pembuatan sketsa juga termasuk dalam perhitungan biaya pasang baja ringan.
 
-#### 2\. Menghitung Kebutuhan Rangka
+#### 2. Menghitung Kebutuhan Rangka
 
 Setelah Anda memiliki sketsa pemasangan, langkah selanjutnya adalah menghitung kebutuhan rangka dan material baja ringan. Anda dapat berkonsultasi dengan tim teknisi kami untuk mengetahui waktu dan kualitas setiap material. Konsultasikan secara menyeluruh untuk mendapatkan material yang sesuai dengan kebutuhan Anda.
 
-#### 3\. Menghitung Budget yang Dipelukan
+#### 3. Menghitung Budget yang Dipelukan
 
 Setelah pembuatan sketsa dan perhitungan rangka selesai, Anda dapat mendiskusikan perkiraan biaya total pemasangan baja ringan. Budget yang dibutuhkan bergantung pada jumlah rangka, luas area, material tambahan, biaya tenaga kerja, dan pengiriman. Mintalah rincian biaya jasa pasang baja ringan agar Anda dapat mempersiapkan anggaran dengan baik. Anda juga dapat memilih jenis baja ringan sesuai dengan anggaran Anda, mulai dari yang standar hingga berkualitas tinggi.
 
@@ -72,12 +72,12 @@ Dengan perhitungan ini, Anda dapat memperkirakan jumlah dan volume baja ringan y
 
 Berikut adalah beberapa alasan mengapa Anda harus memilih baja ringan sebagai kerangka atap dan *canopy*:
 
- **Ramah Lingkungan:** Baja ringan lebih ramah lingkungan karena tidak memerlukan penebangan pohon, tidak seperti penggunaan kayu. Dengan menggunakan kerangka baja ringan, Anda ikut berkontribusi dalam melestarikan alam.
- **Ekonomis:** Baja ringan lebih ekonomis dibandingkan dengan kerangka kayu. Harga kayu berkualitas tinggi cenderung lebih mahal. Dengan memilih baja ringan, Anda dapat menekan biaya pembangunan.
- **Ringan dan Kuat:** Baja ringan lebih ringan dua kali lipat dibandingkan dengan baja atau besi biasa, namun tetap kuat dan tahan lama.
- **Perawatan Minimal:** Baja ringan tidak memerlukan perawatan rutin. Anda tidak perlu khawatir tentang kerusakan akibat rayap atau cuaca ekstrem.
- **Pemasangan Cepat:** Pemasangan baja ringan lebih cepat dibandingkan dengan kerangka kayu atau bahan lain.
- **Berkualitas Tinggi:** Baja ringan yang kami gunakan memiliki kualitas tinggi dengan lapisan zinc dan aluminium yang memberikan perlindungan 4x lebih baik dibandingkan baja biasa.
- **Tahan Rayap:** Baja ringan tahan terhadap serangan rayap, sehingga Anda tidak perlu khawatir tentang kerusakan akibat hama.
+- **Ramah Lingkungan:** Baja ringan lebih ramah lingkungan karena tidak memerlukan penebangan pohon, tidak seperti penggunaan kayu. Dengan menggunakan kerangka baja ringan, Anda ikut berkontribusi dalam melestarikan alam.
+- **Ekonomis:** Baja ringan lebih ekonomis dibandingkan dengan kerangka kayu. Harga kayu berkualitas tinggi cenderung lebih mahal. Dengan memilih baja ringan, Anda dapat menekan biaya pembangunan.
+- **Ringan dan Kuat:** Baja ringan lebih ringan dua kali lipat dibandingkan dengan baja atau besi biasa, namun tetap kuat dan tahan lama.
+- **Perawatan Minimal:** Baja ringan tidak memerlukan perawatan rutin. Anda tidak perlu khawatir tentang kerusakan akibat rayap atau cuaca ekstrem.
+- **Pemasangan Cepat:** Pemasangan baja ringan lebih cepat dibandingkan dengan kerangka kayu atau bahan lain.
+- **Berkualitas Tinggi:** Baja ringan yang kami gunakan memiliki kualitas tinggi dengan lapisan zinc dan aluminium yang memberikan perlindungan 4x lebih baik dibandingkan baja biasa.
+- **Tahan Rayap:** Baja ringan tahan terhadap serangan rayap, sehingga Anda tidak perlu khawatir tentang kerusakan akibat hama.
 
 Percayakan kebutuhan kerangka atap dan *canopy* Anda kepada Mitra Sumber Material. Kami siap membantu Anda memilih ukuran, kualitas, dan pemasangan yang sesuai dengan kebutuhan Anda. Terima kasih telah mempercayakan kebutuhan konstruksi Anda kepada kami di Pabuaran Sukabumi!

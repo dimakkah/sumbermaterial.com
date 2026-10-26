@@ -18,7 +18,6 @@ draft: false
 
 {{< toc >}}
 
-
 ## Mengapa Pasir Jebrod Cianjur Banyak Diminati?
 
 Mitra Sumber Material, popularitas pasir jebrod Cianjur bukan tanpa alasan. Pasir ini dikenal memiliki karakteristik yang sangat baik untuk berbagai aplikasi konstruksi. Secara umum, pasir jebrod adalah jenis pasir yang berasal dari pecahan batu gunung yang telah mengalami proses pelapukan alami. Proses ini menghasilkan butiran pasir yang kasar, kuat, dan memiliki daya rekat yang baik.
@@ -29,9 +28,9 @@ Salah satu keunggulan utama pasir jebrod Cianjur adalah kekuatannya. Butiran pas
 
 Pasir jebrod Cianjur sendiri memiliki beberapa variasi, tergantung pada ukuran butiran dan proses pengolahan. Anda bisa menemukan pasir jebrod dengan ukuran yang berbeda-beda, mulai dari yang halus hingga yang sangat kasar. Berikut ini beberapa jenis yang umum ditemui:
 
-*   **Pasir Jebrod Halus:** Cocok untuk aplikasi plesteran dan acian. Teksturnya yang halus menghasilkan permukaan yang lebih rata dan halus.
-*   **Pasir Jebrod Sedang:** Ideal untuk campuran semen dan pembuatan screed (lantai dasar). Ukurannya yang sedang memberikan keseimbangan antara kekuatan dan kemudahan pengerjaan.
-*   **Pasir Jebrod Kasar:** Sangat baik untuk campuran beton, terutama untuk pondasi dan struktur bangunan yang membutuhkan kekuatan tinggi.
+- **Pasir Jebrod Halus:** Cocok untuk aplikasi plesteran dan acian. Teksturnya yang halus menghasilkan permukaan yang lebih rata dan halus.
+- **Pasir Jebrod Sedang:** Ideal untuk campuran semen dan pembuatan screed (lantai dasar). Ukurannya yang sedang memberikan keseimbangan antara kekuatan dan kemudahan pengerjaan.
+- **Pasir Jebrod Kasar:** Sangat baik untuk campuran beton, terutama untuk pondasi dan struktur bangunan yang membutuhkan kekuatan tinggi.
 
 ![Tumpukan pasir jebrod Cianjur di lokasi proyek](/images/blog/harga-pasir-jebrod-1-truk.jpg)
 
@@ -43,18 +42,18 @@ Harga pasir jebrod Cianjur tentu saja bervariasi, tergantung pada beberapa fakto
 
 Beberapa faktor lain yang turut mempengaruhi harga antara lain:
 
-*   **Musim:** Pada musim hujan, harga pasir cenderung naik karena kesulitan dalam proses penambangan dan pengiriman.
-*   **Permintaan:** Semakin tinggi permintaan, semakin tinggi pula harganya.
-*   **Transportasi:** Biaya transportasi dari lokasi tambang ke lokasi proyek juga mempengaruhi harga akhir.
+- **Musim:** Pada musim hujan, harga pasir cenderung naik karena kesulitan dalam proses penambangan dan pengiriman.
+- **Permintaan:** Semakin tinggi permintaan, semakin tinggi pula harganya.
+- **Transportasi:** Biaya transportasi dari lokasi tambang ke lokasi proyek juga mempengaruhi harga akhir.
 
 ## Aplikasi Pasir Jebrod Cianjur dalam Konstruksi
 
 Anda bisa menggunakan pasir jebrod Cianjur untuk berbagai aplikasi konstruksi, mulai dari yang sederhana hingga yang kompleks. Beberapa contohnya:
 
-*   **Pondasi Bangunan:** Kekuatan dan daya rekatnya yang tinggi membuat pasir jebrod ideal untuk campuran beton pondasi.
-*   **Sloof & Kolom:** Sama halnya dengan pondasi, pasir jebrod juga sangat baik untuk pembuatan sloof dan kolom.
-*   **Plesteran & Acian:** Pasir jebrod halus menghasilkan permukaan dinding yang halus dan rata.
-*   **Pembuatan Jalan:** Pasir jebrod kasar dapat digunakan sebagai material dasar untuk pembuatan jalan.
-*   **Lantai Screed:** Pasir jebrod sedang memberikan kekuatan yang cukup untuk lantai dasar.
+- **Pondasi Bangunan:** Kekuatan dan daya rekatnya yang tinggi membuat pasir jebrod ideal untuk campuran beton pondasi.
+- **Sloof & Kolom:** Sama halnya dengan pondasi, pasir jebrod juga sangat baik untuk pembuatan sloof dan kolom.
+- **Plesteran & Acian:** Pasir jebrod halus menghasilkan permukaan dinding yang halus dan rata.
+- **Pembuatan Jalan:** Pasir jebrod kasar dapat digunakan sebagai material dasar untuk pembuatan jalan.
+- **Lantai Screed:** Pasir jebrod sedang memberikan kekuatan yang cukup untuk lantai dasar.
 
 Tim Kami siap membantu mewujudkan proyek Mitra Sumber Material — tinggal hubungi lewat tombol **Telepon** atau **WhatsApp** yang tersedia di bawah.

@@ -25,7 +25,7 @@ Menurut Standar Nasional Indonesia ( SK SNI - S - 04 - 1989 - F ; 28) di sebutka
 
 Prasyarat Pasir yg Bagus Untuk Konstruksi Bangunan
 
-1.  Agregat Halus wajib terdiri dari butiran yg tajam dan keras dengan indeks kekerasan <2.2
+1.  Agregat Halus wajib terdiri dari butiran yg tajam dan keras dengan indeks kekerasan <2.2
 2. bilamana dipakai Natrium Sulfat bagian hancur maksimal dua belas persen
 3. Jika diaplikasikan Magnesium Sulfat komponen halus maksimal 10%
 4. Tidak boleh berisi lumpur lebih dari lima persen
@@ -41,7 +41,6 @@ Prasyarat Pasir yg Bagus Untuk Konstruksi Bangunan
 Setelah tahu persis syarat pasir buat suatu Konstruksi, sekarang ini kita bahas model - Jenis Pasir Untuk Konstruksi penjelasan nya berikut ini:
 
 - ### Pasir Tipe Cor dan Daerah Pengambilannya Di Kalimulya Depok
-    
 
 Pasir ini lazim nya berwarna hitam pekat dan tingkat kekerasan butiran nya lumayan tinggi. Tetapi seandainya anda mengepal nya dengan tangan tak akan menggumpal dan akan buyar kembali. model pasir ini sangat lah bagus buat Pengecoran, Plesteran Dinding, Adukan Pondasi dan Adukan Pasangan Bata Pasir ini yaitu pasir untuk Cor adalah butiran-butiran mineral keras dan tajam berukuran antara 0,075 – 5 mm, bila terdapat butiran berukuran lebih kecil dari 0,063 mm tidak lebih dari 5% berat. Pasir ini yaitu pasir untuk Beton hampir tak jarang diterapkan untuk pekerjaan cor-coran struktur seperti kolom, balok dan pelat lantai.
 
@@ -59,21 +58,18 @@ Untuk menerima ketahanan Rigid yang optimal karenanya pasir harus mampu memenuhi
 ![Harga Pasir Jebrod Free Ongkir Ke Kalimulya Depok](/images/info/pasir-hitam-1.jpg)
 
 - ### Pasir Untuk Pasang Batu, Pondasi, Bata, Ubin, Plester Di Kalimulya Depok
-    
 
 ![Harga Pasir Jebrod Free Ongkir Ke Kalimulya Depok](/images/info/pasir-putih12.jpg)
 
 Pasir ini lebih halus lagi dibandingkan oleh pasir beton. apabila kalian mengepal pasir ini karenanya akan menggumpal dan tak akan hancur kembali. pasir pasang lazim nya di gunakan untuk campuran pasir beton agar tak terlalu kasar dan bisa di manfaatkan untuk plesteran dinding.
 
 - ### Pasir Kualitas rendah Untuk Pembuatan Batako Di Kalimulya Depok
-    
 
 Di Antara ke dua pasir diatas pasir macam ini lebih halus lagi, bila kalian mengepal nya akan menggumpal dan tidak akan hancur lagi. namun pasir macam
 
 Pada biasa nya pasir ini nyaris sama dgn pasir beton tapi pasir ini memiliki tingkat kekasaran yang tinggi, butiran - butiran nya cukup besar dan agak banyak batuan nya. pada umumnya pasir tipe ini bagus untuk bahan dasaran pemasangan keramik
 
 - ### Pasir Putih Kadar Lumpur Rendah Untuk Pasang Bata Di Kalimulya Depok
-    
 
 1. **Pasir Putih Bangka**
 

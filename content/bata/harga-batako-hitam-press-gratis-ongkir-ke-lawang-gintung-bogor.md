@@ -16,7 +16,7 @@ dikala ini material yang dipakai untuk mengisi tembok tempat tinggal, sudah terd
 
 ## Mengenal Tipe-tipe Bata
 
-### 1\. Bata Merah Standar & Jumbo Di Lawang Gintung Bogor
+### 1. Bata Merah Standar & Jumbo Di Lawang Gintung Bogor
 
 ![Harga Batako Hitam Press Gratis Ongkir Ke Lawang Gintung Bogor](/images/bata/bata-merah-oven-23.png)
 
@@ -26,7 +26,7 @@ Bata merah ini diwujudkan dari material tanah yang kemudian di bentuk dan dibaka
 
 Material bangunan ini benar-benar tahan kepada panas dan pantas dijadikan proteksi dari bahaya api. Bata merah ini pada lazimnya memiliki ukuran panjang antara 17-23 cm dan lebar sekitar 7-11 cm, serta tebalnya 3-5 cm. mempunyai ukuran yg lebih kecil akan memberi kemudahan dalam proses pengangkutan dan bisa dipakai untuk menyusun bidang kecil.
 
-### 2\. Batako Hitam dan Putih Di Lawang Gintung Bogor
+### 2. Batako Hitam dan Putih Di Lawang Gintung Bogor
 
 ![Harga Batako Hitam Press Gratis Ongkir Ke Lawang Gintung Bogor](/images/bata/batako-hitam-press-05.png)
 
@@ -34,7 +34,7 @@ Bahan bangunan tembok dari batako trus ini secara biasa terbuat dari material ca
 
 Batako trus seperti ini mempunyai kekurangan seperti gampang retak, lebih panas dan pengap. Berbeda dengan bata merah yang terbuat dari bahan tanah. Namun batako press ini cenderung lebih ringan ketimbang bata merah. Kesudahannya akan nampak lebih halus dan ukurannya lebih presisi bila dibandingi dengan bata merah. Batako trus Hitam ini mempunyai ukuran panjang sekitar 36-40 cm, tinggi 18-20 cm dan tebal 8-10 cm. bahan ini sering kali dipilih karena untuk memperingan muatan struktur bangunan, meminimalisir sisa bahan dan mempermudah pembangunan.
 
-### 3\. Bata Ringan Di Lawang Gintung Bogor
+### 3. Bata Ringan Di Lawang Gintung Bogor
 
 ![Harga Batako Hitam Press Gratis Ongkir Ke Lawang Gintung Bogor](/images/bata/bata-hebel-sni-12.png)
 
@@ -62,7 +62,7 @@ Semua tentunya telah tahu kegunaan utama batu bata mulai diaplikasikan untuk mem
 
 Metode mengorder batu bata yg aman dan terpercaya:
 
-1.  Pengerjaan pembayaran bisa anda lakukan secara COD atau dibayar di tempat saat barang orderan anda telah datang di daerah
+1.  Pengerjaan pembayaran bisa anda lakukan secara COD atau dibayar di tempat saat barang orderan anda telah datang di daerah
 2. Silahkan memilih dan mempertimbangkan material batu bata yang anda inginkan
 3. Tentukan juga jumlah pesanan batu bata yg anda butuhkan dalam format bijian.
 4. Anda bisa menghubungi layanan telepon toko untuk memudahkan pelaksanaan pemesanan

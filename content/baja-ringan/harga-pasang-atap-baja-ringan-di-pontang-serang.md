@@ -21,13 +21,13 @@ Membangun atau merenovasi dengan baja ringan di Pontang Serang kini lebih mudah.
 
 Sebelum menghubungi kami, ada beberapa alasan penting yang perlu Anda ketahui mengapa baja ringan menjadi pilihan tepat untuk proyek Anda di Pontang Serang:
 
- **Ramah Lingkungan:** Penggunaan baja ringan membantu melestarikan alam karena tidak memerlukan kayu, yang berarti tidak ada pohon yang ditebang.
- **Lebih Ekonomis:** Dibandingkan material kayu, baja ringan umumnya lebih terjangkau, terutama untuk komponen kerangka penting bangunan.
- **Ringan Namun Kuat:** Baja ringan memiliki ketebalan yang tipis dan ringan, namun kekuatannya luar biasa untuk menyokong kerangka atap dan *canopy* rumah Anda.
- **Minim Perawatan:** Anda tidak perlu khawatir tentang perawatan rutin karena baja ringan tahan terhadap kerusakan dan hama.
- **Pemasangan Cepat:** Pemasangan kerangka atap baja ringan lebih cepat dibandingkan material tradisional seperti kayu.
- **Kualitas Terjamin:** Baja ringan yang kami gunakan memiliki kualitas prima, terbuat dari zinc dan aluminium dengan standar keamanan 4 kali lebih baik dari baja biasa dan mampu menahan beban berat.
- **Tahan Rayap:** Kerangka atap dan *canopy* dari baja ringan dijamin tahan terhadap serangan rayap.
+- **Ramah Lingkungan:** Penggunaan baja ringan membantu melestarikan alam karena tidak memerlukan kayu, yang berarti tidak ada pohon yang ditebang.
+- **Lebih Ekonomis:** Dibandingkan material kayu, baja ringan umumnya lebih terjangkau, terutama untuk komponen kerangka penting bangunan.
+- **Ringan Namun Kuat:** Baja ringan memiliki ketebalan yang tipis dan ringan, namun kekuatannya luar biasa untuk menyokong kerangka atap dan *canopy* rumah Anda.
+- **Minim Perawatan:** Anda tidak perlu khawatir tentang perawatan rutin karena baja ringan tahan terhadap kerusakan dan hama.
+- **Pemasangan Cepat:** Pemasangan kerangka atap baja ringan lebih cepat dibandingkan material tradisional seperti kayu.
+- **Kualitas Terjamin:** Baja ringan yang kami gunakan memiliki kualitas prima, terbuat dari zinc dan aluminium dengan standar keamanan 4 kali lebih baik dari baja biasa dan mampu menahan beban berat.
+- **Tahan Rayap:** Kerangka atap dan *canopy* dari baja ringan dijamin tahan terhadap serangan rayap.
 
 ## Metode Hitung Luas Rangka Baja Ringan Di Pontang Serang
 
@@ -62,15 +62,15 @@ Membahas biaya pemasangan baja ringan, sebenarnya sudah banyak informasi di inte
 
 ### Parameter Besaran Harga Jasa Pasang Baja Ringan
 
-### 1\. Pembuatan Sketsa Desain
+#### 1. Pembuatan Sketsa Desain
 
 Harga juga dipengaruhi oleh desain atau pola sketsa yang akan dibuat oleh tim teknisi kami langsung di lokasi Anda. Sketsa ini penting untuk menentukan kebutuhan baja ringan agar tidak ada sisa material yang terbuang percuma. Pembuatan sketsa juga termasuk dalam perhitungan biaya pemasangan baja ringan.
 
-### 2\. Menghitung Kebutuhan Rangka
+#### 2. Menghitung Kebutuhan Rangka
 
 Setelah memiliki sketsa, tahap berikutnya adalah menghitung kebutuhan rangka yang perlu disiapkan. Anda bisa berkonsultasi dengan tim teknisi kami mengenai kualitas dan waktu pengerjaan material. Diskusikan secara menyeluruh untuk mendapatkan material yang tepat sesuai kebutuhan Anda.
 
-### 3\. Menghitung Budget yang Dibutuhkan
+#### 3. Menghitung Budget yang Dibutuhkan
 
 Setelah sketsa dan perhitungan rangka selesai, Anda bisa mendiskusikan perkiraan biaya total pemasangan baja ringan. Budget yang dibutuhkan bergantung pada jumlah rangka, luas komponen kerangka, material tambahan, biaya tenaga kerja, pengiriman, dan lain-lain. Mintalah rincian biaya dari tim kami sebagai gambaran untuk menyiapkan budget. Anda juga bisa memilih variasi baja ringan, mulai dari yang standar hingga kualitas terbaik, dan konsultasikan secara matang dengan teknisi kami.
 

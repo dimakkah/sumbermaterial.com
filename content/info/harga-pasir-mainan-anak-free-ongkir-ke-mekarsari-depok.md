@@ -25,7 +25,7 @@ Menurut Standar Nasional Indonesia ( SK SNI - S - 04 - 1989 - F ; 28) di tuturka
 
 Prasyarat Pasir yg Baik tuk Konstruksi
 
-1.  Agregat Halus wajib terdiri dari butiran yg tajam dan keras dengan indeks kekerasan <2.2
+1.  Agregat Halus wajib terdiri dari butiran yg tajam dan keras dengan indeks kekerasan <2.2
 2. Jikalau dimanfaatkan Natrium Sulfat bagian hancur optimal dua belas %
 3. apabila dipakai Magnesium Sulfat bagian halus optimal sepuluh persen
 4. Tidak boleh berisi tanah lebih dari 5%
@@ -41,7 +41,6 @@ Prasyarat Pasir yg Baik tuk Konstruksi
 Setelah mengetahui persyaratan pasir tuk sebuah Konstruksi Bangunan, sekarang ini kita bahas Macam - Ragam Pasir Untuk Konstruksi Bangunan penjelasan nya berikut ini:
 
 - ### Pasir untuk Cor Rigid Di Mekarsari Depok
-    
 
 Pasir ini lazim nya berwarna hitam gelap dan tingkat pecahan butiran nya cukup tinggi. Melainkan bila anda mengepal nya dengan tangan tak akan menggumpal dan akan hancur kembali. tipe pasir ini sungguh-sungguh lah bagus untuk Pengecoran, Plesteran Dinding, Adukan Pondasi dan Adukan Pasangan Bata Pasir ini yaitu pasir untuk Cor yakni butiran-butiran mineral keras dan tajam berukuran antara 0,075 – 5 mm, jika terdapat butiran berukuran lebih kecil dari 0,063 mm tak lebih dari 5% berat. Pasir ini yaitu pasir untuk Beton acap kali dimanfaatkan untuk pekerjaan cor-coran struktur seperti kolom, balok dan pelat lantai.
 
@@ -59,21 +58,18 @@ Untuk memperoleh ketahanan Beton yang optimal maka pasir semestinya dapat memenu
 ![Harga Pasir Mainan Anak Free Ongkir Ke Mekarsari Depok](/images/info/pasir-hitam-9.jpg)
 
 - ### Pasir Pasang Di Mekarsari Depok
-    
 
 ![Harga Pasir Mainan Anak Free Ongkir Ke Mekarsari Depok](/images/info/pasir-putih12.jpg)
 
 Pasir ini lebih halus lagi dibandingkan oleh pasir beton. jika kalian mengepal pasir ini karenanya akan menggumpal dan tak akan hancur kembali. pasir pasang biasa nya di gunakan tuk campuran pasir beton agar tak terlalu kasar dan bisa di gunakan untuk plesteran dinding.
 
 - ### Pasir Kualitas rendah Untuk pemadatan lantai Di Mekarsari Depok
-    
 
 Di Antara ke dua pasir diatas pasir model ini lebih halus lagi, bila anda mengepal nya akan menggumpal dan tidak akan buyar lagi. namun pasir tipe
 
 Pada nya pasir ini nyaris sama dengan pasir beton namun pasir ini memiliki tingkat kekasaran yang tinggi, butiran - butiran nya lumayan besar dan agak banyak batuan nya. pada biasanya pasir tipe ini bagus untuk bahan Pembuatan Batako
 
 - ### Pasir Putih Kadar Lumpur Rendah Untuk Taman Bermain Di Mekarsari Depok
-    
 
 1. **Pasir Putih Bangka**
 

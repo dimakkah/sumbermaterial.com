@@ -43,6 +43,7 @@ Bondek adalah salah satu dari banyak jenis material yang berbahan dasar baja rin
 Sementara pada konstruksi beton, bondek juga relatif mudah dipasang baik pada konstruksi baja maupun beton. Selain itu, baja ringan tipe bondek ini juga bisa digunakan langsung sebagai plafon yang awet dan tahan lama. Aplikasi bondek pada bangunan akan terlihat lebih rapi dan modern.
 
 **Spesifikasi Teknis Bondek:**
+
 - Ketebalan tersedia: 0,70mm, 0,75mm, 1,0mm
 - Lebar efektif: 1000mm
 - Panjang standar: 2m, 3m, 4m, 6m (bisa custom)
@@ -59,6 +60,7 @@ Selain bondek, ada banyak jenis material yang memakai bahan dasar galvalum/baja 
 Dengan mengaplikasikan spandek pada bangunan maka akan terlihat dominan kerapian dan keindahan, serta estetikanya. Ini karena didukung oleh bentuk permukaan spandek yang bergelombang dan halus. Spandek cocok untuk aplikasi atap dan dinding tanpa perlu mengecat kembali atau khawatir akan karat dan keropos.
 
 **Spesifikasi Teknis Spandek:**
+
 - Ketebalan tersedia: 0,25mm, 0,30mm, 0,35mm, 0,40mm
 - Lebar efektif: 750mm, 840mm, 1000mm
 - Panjang: 1m - 12m (sesuai kebutuhan)
@@ -77,6 +79,7 @@ Permukaan spandek yang kasar adalah spandek dengan finishing cat menggunakan met
 Saat ini, rangka atap baja ringan memang sangat populer di berbagai negara, seperti di Indonesia. Aplikasi baja ringan ini cocok untuk bangunan perumahan, industri dan bangunan komersial lainnya. Jenis model baja ringan untuk aplikasi rangka atap sendiri cukup beragam. Salah satunya rangka baja ringan model kaso yang berbahan dasar galvalum yang kuat dan tahan terhadap cuaca.
 
 **Spesifikasi Baja Ringan Kaso:**
+
 - Profil: C75 (lebar 75mm), C100 (lebar 100mm)
 - Ketebalan standar: 0,60mm, 0,65mm, 0,75mm, 1,0mm
 - Panjang standar: 6 meter
@@ -88,6 +91,7 @@ Saat ini, rangka atap baja ringan memang sangat populer di berbagai negara, sepe
 Hampir sama dengan spandek dan bondek karakternya, rangka kaso ini mudah dipasang atau dilepas lagi. Selain itu struktur rangka atap yang menggunakan baja ringan juga akan tahan lama dan kokoh. Apalagi dengan lapisan anti korosi, membuat rangka ini menjadi pilihan banyak kontraktor untuk aplikasi atap yang kuat dan hemat.
 
 **Kapasitas Beban Kaso:**
+
 - C75 x 0,75mm: mampu menahan beban hingga 120 kg/m2
 - C100 x 0,75mm: mampu menahan beban hingga 180 kg/m2
 - C75 x 1,0mm: mampu menahan beban hingga 160 kg/m2
@@ -98,6 +102,7 @@ Hampir sama dengan spandek dan bondek karakternya, rangka kaso ini mudah dipasan
 Baja ringan model reng adalah baja ringan yang memiliki bentuk seperti huruf "C" berukuran kecil. Baja ringan reng juga merupakan balok kecil yang digunakan sebagai penahan genteng untuk rangka atap baja ringan. Reng baja ringan digunakan untuk mengikat kaso dan gording yang posisinya melintang pada kuda-kuda, dan mengikat antara kuda-kuda dan atap untuk membentuk kerangka yang kokoh.
 
 **Spesifikasi Baja Ringan Reng:**
+
 - Profil: C35 (lebar 35mm), C40 (lebar 40mm)
 - Ketebalan standar: 0,40mm, 0,45mm, 0,50mm
 - Panjang standar: 6 meter
@@ -149,6 +154,7 @@ Jika lapisan galvalum tergores hingga mencapai base metal, area tersebut dapat m
 Meskipun Anda menggunakan rangka atap dari bahan baja ringan, itu tidak berarti Anda hanya dapat menggunakan penutup atap berbahan yang sama saja. Di sini, Anda diberi kebebasan untuk menggunakan berbagai jenis penutup atap seperti asbes, genteng keramik, genteng beton, genteng metal, spandek dan lainnya.
 
 **Rekomendasi Ketebalan Berdasarkan Jenis Atap:**
+
 - Genteng keramik/beton (40-60 kg/m2): Gunakan kaso minimal 0,75mm
 - Genteng metal (5-7 kg/m2): Kaso 0,65mm sudah mencukupi
 - Asbes (8-12 kg/m2): Kaso 0,65mm - 0,75mm
@@ -177,6 +183,7 @@ Pastikan produk memiliki sertifikat SNI (Standar Nasional Indonesia) yang menjam
 Baja ringan memiliki bentuk yang jauh lebih tipis dari baja konvensional. Hal ini menyebabkan baja ringan menjadi lebih fleksibel untuk diterapkan pada berbagai bentuk atap. Namun, sifatnya yang tipis memerlukan sistem penguat agar struktur tetap kaku dan tidak mudah bergetar.
 
 **Komponen Penguat yang Diperlukan:**
+
 - Bracing (diagonal): untuk mencegah pergerakan lateral
 - Bridging: untuk mengikat antar kaso
 - Tie rod: untuk menahan gaya tarik
@@ -216,7 +223,7 @@ Khusus untuk pembelian volume besar atau proyek komersial, kami menyediakan fasi
 
 ### Cara Pemesanan
 
-Untuk mendapatkan penawaran harga terbaru dan informasi lengkap mengenai produk baja ringan, Anda hanya perlu menghubungi kami melalui nomor telepon, WhatsApp, atau email yang tersedia pada website ini. 
+Untuk mendapatkan penawaran harga terbaru dan informasi lengkap mengenai produk baja ringan, Anda hanya perlu menghubungi kami melalui nomor telepon, WhatsApp, atau email yang tersedia pada website ini.
 
 Tim customer service kami yang berpengalaman akan dengan senang hati membantu Anda memilih produk yang tepat sesuai kebutuhan dan budget. Kami juga menyediakan layanan survei lokasi untuk proyek-proyek besar guna memastikan perhitungan material yang akurat.
 

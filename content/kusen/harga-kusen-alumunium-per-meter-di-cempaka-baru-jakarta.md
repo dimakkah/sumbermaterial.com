@@ -44,13 +44,13 @@ Secara biasa pembuatan Kusen Pintu/Jendela Alumunium ini banyak dicari orang unt
 
 Alasan Anda Memilih Jasa Profesional Pembuatan Kusen Almunium dari Kami.
 
-1\. Kami menjalankan pesanan sesuai dg tanggal yg disepakati sehingga anda sebagai pelanggan juga mendapatkan hasil yang pantas dengan estimasi.
+1. Kami menjalankan pesanan sesuai dg tanggal yg disepakati sehingga anda sebagai pelanggan juga mendapatkan hasil yang pantas dengan estimasi.
 
-2\. Kami juga melayani banyak pekerjaan lain seperti pembuatan kerangka atas, wood parisi, instalisasi listrik dan masih banyak lagi Jasa lain yang kami miliki.
+2. Kami juga melayani banyak pekerjaan lain seperti pembuatan kerangka atas, wood parisi, instalisasi listrik dan masih banyak lagi Jasa lain yang kami miliki.
 
-3\. Pembayaran menjadi solusi untuk anda, kami memberikan pembayaran dengan cara DP sehingga anda tak perlu ragu denga Jasa yang kami tawarkan.
+3. Pembayaran menjadi solusi untuk anda, kami memberikan pembayaran dengan cara DP sehingga anda tak perlu ragu denga Jasa yang kami tawarkan.
 
-4\. Regu kami akan datang ke area anda untuk memandang dan menilai ukuran Kusen Pintu/Jendela Almunium yg anda pesan.
+4. Regu kami akan datang ke area anda untuk memandang dan menilai ukuran Kusen Pintu/Jendela Almunium yg anda pesan.
 
 ## Ragam dan Merk Alumium Yang kami Sediakan Di Cempaka Baru Jakarta
 

@@ -25,7 +25,7 @@ Berdasarkan Standar Nasional Indonesia ( SK SNI - S - 04 - 1989 - F ; 28) di seb
 
 Persyaratan Pasir yg Baik buat Konstruksi
 
-1.  Agregat Halus mesti terdiri dari butiran yg tajam dan keras dengan indeks kekerasan <2.2
+1.  Agregat Halus mesti terdiri dari butiran yg tajam dan keras dengan indeks kekerasan <2.2
 2. Kalau diaplikasikan Natrium Sulfat bagian hancur maksimal 12 persen
 3. Sekiranya diaplikasikan Magnesium Sulfat bagian halus maksimal 5 persen
 4. Tak boleh mengandung tanah lebih dari lima persen
@@ -41,7 +41,6 @@ Persyaratan Pasir yg Baik buat Konstruksi
 setelah mengenal syarat pasir untuk sebuah Konstruksi, pada saat ini kita bahas Ragam - model Pasir Untuk Konstruksi Bangunan penjelasan nya sebagai berikut:
 
 - ### Pasir Jenis Beton dan Daerah Pengambilannya Di Pasar Minggu Jakarta
-    
 
 Pasir ini lazim nya berwarna coklat tua dan tingkat pecahan butiran nya lumayan tinggi. Tapi jika anda mengepal nya dengan tangan tidak akan lengket dan akan hancur kembali. macam pasir ini amat lah bagus tuk Pengecoran, Plesteran Dinding, Adukan Pondasi dan Adukan Pasangan Bata Pasir ini yaitu pasir untuk Rigid yakni butiran-butiran mineral keras dan tajam berukuran antara 0,075 – 5 mm, jikalau terdapat butiran berukuran lebih kecil dari 0,063 mm tak lebih dari 5% berat. Pasir ini yaitu pasir untuk Cor sering kali digunakan untuk profesi cor-coran struktur seperti kolom, balok dan pelat lantai.
 
@@ -59,21 +58,18 @@ Untuk memperoleh kualitas Cor yang maksimal maka pasir sepatutnya bisa memenuhi 
 ![Harga Pasir Rangkas Free Ongkir Ke Pasar Minggu Jakarta](/images/info/pasir-hitam-7.jpg)
 
 - ### Pasir Biasa Di Pasar Minggu Jakarta
-    
 
 ![Harga Pasir Rangkas Free Ongkir Ke Pasar Minggu Jakarta](/images/info/jual-pasir-mundu-2.jpg)
 
 Pasir ini ekstra halus lagi diperbandingkan oleh pasir beton. jikalau anda mengepal pasir ini karenanya akan menggumpal dan tidak akan buyar kembali. pasir pasang umum nya di pakai buat campuran pasir beton supaya tidak terlampau kasar dan bisa di manfaatkan untuk plesteran dinding.
 
 - ### Pasir Elod Untuk Dasaran Pemasangan Keramik Di Pasar Minggu Jakarta
-    
 
 Di Antara ke dua pasir diatas pasir model ini lebih halus lagi, apabila kalian mengepal nya akan menggumpal dan tak akan hancur lagi. namun pasir macam
 
 Pada nya pasir ini nyaris sama dgn pasir beton tetapi pasir ini memiliki tingkat kekasaran yg tinggi, butiran - butiran nya cukup besar dan agak banyak batuan nya. pada biasanya pasir tipe ini baik tuk bahan pengurugan lantai
 
 - ### Pasir Putih Halus Untuk Taman Bermain Di Pasar Minggu Jakarta
-    
 
 1. **Pasir Putih Bangka**
 

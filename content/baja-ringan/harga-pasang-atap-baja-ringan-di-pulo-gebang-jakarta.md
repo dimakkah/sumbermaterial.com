@@ -21,13 +21,13 @@ Menerapkan baja ringan untuk konstruksi bangunan sebenarnya cukup sederhana. And
 
 Sebelum menghubungi kami, ada beberapa alasan penting yang perlu Anda ketahui mengapa baja ringan menjadi pilihan tepat untuk bangunan Anda di Pulo Gebang Jakarta:
 
- **Ramah Lingkungan:** Penggunaan baja ringan mengurangi kebutuhan akan kayu, sehingga membantu melestarikan alam. Anda turut berkontribusi pada keberlanjutan lingkungan.
- **Lebih Ekonomis:** Dibandingkan kayu, baja ringan menawarkan harga yang lebih terjangkau, terutama untuk komponen kerangka yang krusial pada sebuah bangunan. Keputusan ini dapat membantu menekan biaya pembangunan Anda.
- **Ringan dan Kuat:** Baja ringan berbeda dengan baja atau besi yang beratnya dua kali lipat. Dengan ketebalan yang tipis dan ringan, baja ringan tetap memiliki kekuatan yang luar biasa untuk kerangka atap dan kanopi rumah Anda.
- **Minim Perawatan:** Anda tidak perlu khawatir tentang kerusakan atau perawatan tahunan. Baja ringan dirancang tahan lama dan minim perawatan.
- **Pemasangan Cepat:** Proses pemasangan baja ringan jauh lebih cepat dibandingkan kerangka atap kayu atau material lainnya. Ini menghemat waktu dan biaya proyek Anda.
- **Kualitas Terjamin:** Baja ringan yang kami gunakan memiliki kualitas unggul, terbuat dari zinc dan aluminium dengan standar keamanan 4 kali lebih baik daripada baja biasa. Kekuatannya mampu menahan beban berkilo-kilo.
- **Tahan Rayap:** Kami menjamin kerangka atap dan kanopi baja ringan tahan terhadap serangan rayap.
+- **Ramah Lingkungan:** Penggunaan baja ringan mengurangi kebutuhan akan kayu, sehingga membantu melestarikan alam. Anda turut berkontribusi pada keberlanjutan lingkungan.
+- **Lebih Ekonomis:** Dibandingkan kayu, baja ringan menawarkan harga yang lebih terjangkau, terutama untuk komponen kerangka yang krusial pada sebuah bangunan. Keputusan ini dapat membantu menekan biaya pembangunan Anda.
+- **Ringan dan Kuat:** Baja ringan berbeda dengan baja atau besi yang beratnya dua kali lipat. Dengan ketebalan yang tipis dan ringan, baja ringan tetap memiliki kekuatan yang luar biasa untuk kerangka atap dan kanopi rumah Anda.
+- **Minim Perawatan:** Anda tidak perlu khawatir tentang kerusakan atau perawatan tahunan. Baja ringan dirancang tahan lama dan minim perawatan.
+- **Pemasangan Cepat:** Proses pemasangan baja ringan jauh lebih cepat dibandingkan kerangka atap kayu atau material lainnya. Ini menghemat waktu dan biaya proyek Anda.
+- **Kualitas Terjamin:** Baja ringan yang kami gunakan memiliki kualitas unggul, terbuat dari zinc dan aluminium dengan standar keamanan 4 kali lebih baik daripada baja biasa. Kekuatannya mampu menahan beban berkilo-kilo.
+- **Tahan Rayap:** Kami menjamin kerangka atap dan kanopi baja ringan tahan terhadap serangan rayap.
 
 ## Cara Menghitung Luas Rangka Baja Ringan Di Pulo Gebang Jakarta
 
@@ -43,7 +43,7 @@ Perhitungan luas datar adalah (overstack + Panjang) x (Lebar + overstack). Jadi,
 
 ### Menentukan Luas Miring
 
-Untuk menentukan luas miring, gunakan rumus Luas Miring = Luas Datar / Cosinus Kemiringan Atap. Perhitungannya: 181.44 / 0.8666 = 209.52 meter persegi. Jadi, luas kemiringan pada rangka atap baja ringan ini adalah 209.52 meter persegi. 
+Untuk menentukan luas miring, gunakan rumus Luas Miring = Luas Datar / Cosinus Kemiringan Atap. Perhitungannya: 181.44 / 0.8666 = 209.52 meter persegi. Jadi, luas kemiringan pada rangka atap baja ringan ini adalah 209.52 meter persegi.
 
 Dengan perhitungan ini, Anda bisa memperkirakan jumlah dan volume baja ringan yang dibutuhkan untuk pemasangan. Namun, jika terasa rumit, jangan ragu untuk menghubungi kami.
 
@@ -57,22 +57,22 @@ Mengenai harga jasa pasang baja ringan, sudah banyak informasi di internet. Tapi
 
 (Catatan: biaya dapat disesuaikan) Berikut adalah perkiraan harga layanan pasang baja ringan berdasarkan jenis pemasangannya:
 
-*   Kanopi rangka baja ringan + Polikarbonat Lite: Rp. 285.000 / m
-*   Kanopi rangka baja ringan + Spandek: Rp. 225.000 / m
-*   Kanopi rangka baja ringan + Gogreen: Rp. 200.000 / m
-*   Untuk perhitungan lainnya, silakan hubungi kami melalui kontak yang tertera di website kami.
+- Kanopi rangka baja ringan + Polikarbonat Lite: Rp. 285.000 / m
+- Kanopi rangka baja ringan + Spandek: Rp. 225.000 / m
+- Kanopi rangka baja ringan + Gogreen: Rp. 200.000 / m
+- Untuk perhitungan lainnya, silakan hubungi kami melalui kontak yang tertera di website kami.
 
 ### Parameter Besaran Biaya Layanan Pasang Baja Ringan
 
-### 1. Pembuatan Sketsa Desain
+#### 1. Pembuatan Sketsa Desain
 
 Biaya juga dipengaruhi oleh desain atau pola sketsa yang akan dibuat oleh tim teknisi kami di lokasi Anda. Sketsa ini penting untuk menentukan kebutuhan material baja ringan secara tepat, sehingga tidak ada pemborosan. Pembuatan sketsa juga termasuk dalam perhitungan harga pasang baja ringan.
 
-### 2. Menghitung Kebutuhan Rangka
+#### 2. Menghitung Kebutuhan Rangka
 
 Setelah Anda memiliki sketsa pemasangan, kami akan menghitung kebutuhan rangka yang harus disiapkan untuk memperkirakan jumlah material baja ringan yang diperlukan. Anda dapat berkonsultasi dengan tim teknisi kami mengenai waktu dan kualitas setiap material untuk memastikan Anda mendapatkan material yang sesuai dengan kebutuhan Anda.
 
-### 3. Menghitung Anggaran
+#### 3. Menghitung Anggaran
 
 Setelah sketsa dan perhitungan rangka selesai, kami akan membahas perkiraan biaya dari seluruh proses pemasangan baja ringan. Anggaran yang dibutuhkan tergantung pada beberapa faktor seperti jumlah rangka, luas bagian kerangka, material tambahan, upah teknisi, hingga pengiriman. Mintalah rincian biaya dari tim kami sebagai referensi dalam menyiapkan anggaran Anda. Anda juga dapat memilih jenis baja ringan, mulai dari yang standar hingga berkualitas tinggi, dan konsultasikan dengan teknisi kami untuk mendapatkan rekomendasi terbaik.
 
@@ -80,13 +80,14 @@ Setelah sketsa dan perhitungan rangka selesai, kami akan membahas perkiraan biay
 
 Berikut adalah informasi rinci mengenai harga layanan pasang baja ringan yang perlu Anda ketahui:
 
-*   Harga yang kami tawarkan sudah termasuk biaya pemasangan, sehingga lebih ekonomis dan seringkali ada diskon menarik untuk konsumen.
-*   Harga kami sudah sesuai dengan layanan pemasangan, perhitungan, dan material yang terpasang.
-*   Kami selalu mengutamakan harga terbaik bagi Anda.
-*   Harga layanan pasang baja ringan dapat berubah sewaktu-waktu karena fluktuasi harga material.
-*   Pembayaran dapat dilakukan dengan *down payment* (DP) dan sisanya setelah pemasangan selesai.
+- Harga yang kami tawarkan sudah termasuk biaya pemasangan, sehingga lebih ekonomis dan seringkali ada diskon menarik untuk konsumen.
+- Harga kami sudah sesuai dengan layanan pemasangan, perhitungan, dan material yang terpasang.
+- Kami selalu mengutamakan harga terbaik bagi Anda.
+- Harga layanan pasang baja ringan dapat berubah sewaktu-waktu karena fluktuasi harga material.
+- Pembayaran dapat dilakukan dengan *down payment* (DP) dan sisanya setelah pemasangan selesai.
 
-Sekian informasi mengenai Harga Pasang Atap Baja Ringan Di Pulo Gebang Jakarta.  Jika Anda memiliki pertanyaan atau ingin mendapatkan penawaran harga khusus, jangan ragu untuk menghubungi kami.  
+Sekian informasi mengenai Harga Pasang Atap Baja Ringan Di Pulo Gebang Jakarta.  Jika Anda memiliki pertanyaan atau ingin mendapatkan penawaran harga khusus, jangan ragu untuk menghubungi kami.
+
 <table class="table">
   <caption>Perbandingan Ketebalan Baja Ringan</caption>
   <thead>
@@ -99,4 +100,5 @@ Sekian informasi mengenai Harga Pasang Atap Baja Ringan Di Pulo Gebang Jakarta. 
     <tr><td>1.00</td><td>Atap Bangunan Komersial</td><td>Optimal</td></tr>
   </tbody>
 </table>
+
   Kami siap melayani kebutuhan atap baja ringan Anda di Pulo Gebang Jakarta dan sekitarnya.

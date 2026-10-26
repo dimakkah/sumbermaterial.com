@@ -16,7 +16,7 @@ dikala ini material yg diaplikasikan untuk mengisi tembok rumah, telah terdapat 
 
 ## Mengetahui Tipe-tipe Bata
 
-### 1\. Bata Merah Standar & Jumbo Di Pasarkemis Tangerang
+### 1. Bata Merah Standar & Jumbo Di Pasarkemis Tangerang
 
 ![Harga Batako Hitam Press Gratis Ongkir Ke Pasarkemis Tangerang](/images/bata/bata-merah-oven-08.png)
 
@@ -26,7 +26,7 @@ Bata merah ini diciptakan dari bahan tanah yang kemudian di cetak dan dipanaskan
 
 Bahan bangunan ini amat kuat terhadap panas dan layak dibuat perlindungan dari bahaya api. Bata merah ini pada lazimnya memiliki ukuran panjang antara 17-23 cm dan lebar sekitar 7-11 cm, serta tebalnya 3-5 cm. mempunyai ukuran yg lebih kecil akan memberi kemudahan dalam proses pengangkutan dan bisa diaplikasikan untuk menyusun bidang kecil.
 
-### 2\. Batako Hitam dan Putih Di Pasarkemis Tangerang
+### 2. Batako Hitam dan Putih Di Pasarkemis Tangerang
 
 ![Harga Batako Hitam Press Gratis Ongkir Ke Pasarkemis Tangerang](/images/bata/batako-hitam-press-17.png)
 
@@ -34,7 +34,7 @@ Material bangunan tembok dari batako trus ini secara lazimnya terbuat dari mater
 
 Batako press seperti ini mempunyai kekurangan seperti gampang retak, lebih panas dan pengap. Berbeda dengan bata merah yang terbuat dari bahan tanah. Melainkan batako ini cenderung lebih ringan daripada bata merah. Hasilnya akan tampak lebih halus dan ukurannya lebih presisi apabila diperbandingkan dengan bata merah. Batako press Hitam ini memiliki ukuran panjang sekitar 36-40 cm, tinggi 18-20 cm dan tebal 8-10 cm. bahan ini sering kali dipilih sebab untuk memperingan muatan struktur bangunan, meminimalisir sisa bahan dan mempercepat pembangunan.
 
-### 3\. Bata Herbel Di Pasarkemis Tangerang
+### 3. Bata Herbel Di Pasarkemis Tangerang
 
 ![Harga Batako Hitam Press Gratis Ongkir Ke Pasarkemis Tangerang](/images/bata/bata-hebel-sni-07.png)
 
@@ -62,7 +62,7 @@ Semua tentunya telah tahu fungsi utama batu bata mulai dipakai untuk membuat tem
 
 Sistem mengorder batu bata yang aman dan terpercaya:
 
-1.  Pengerjaan pembayaran dapat anda lakukan secara COD atau dibayar di tempat ketika barang pesanan anda telah datang di tempat
+1.  Pengerjaan pembayaran dapat anda lakukan secara COD atau dibayar di tempat ketika barang pesanan anda telah datang di tempat
 2. Silahkan memilih dan mempertimbangkan bahan batu bata yg anda inginkan
 3. Tentukan juga jumlah pesanan batu bata yg anda butuhkan dalam bentuk bijian.
 4. Anda bisa menghubungi layanan telepon kios untuk mempermudah pelaksanaan pemesanan

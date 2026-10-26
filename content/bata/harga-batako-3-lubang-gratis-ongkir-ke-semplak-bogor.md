@@ -16,7 +16,7 @@ sekarang ini material yang dipakai untuk mengisi tembok gedung, telah terdapat b
 
 ## Mengenal Jenis-jenis Bata
 
-### 1\. Bata Merah Standar & Jumbo Di Semplak Bogor
+### 1. Bata Merah Standar & Jumbo Di Semplak Bogor
 
 ![Harga Batako 3 Lubang Gratis Ongkir Ke Semplak Bogor](/images/bata/bata-merah-oven-05.png)
 
@@ -26,7 +26,7 @@ Bata merah ini dijadikan dari material tanah yg kemudian di cetak dan dioven den
 
 Material bangunan ini betul-betul tahan kepada panas dan cocok dijadikan pengamanan dari panas api. Bata merah ini pada umumnya mempunyai ukuran panjang antara 17-23 cm dan lebar sekitar 7-11 cm, serta tebalnya 3-5 cm. mempunyai ukuran yg lebih kecil akan memberi kemudahan dalam pengerjaan pengangkutan dan dapat diterapkan untuk membentuk bidang kecil.
 
-### 2\. Batako Hitam dan Putih Di Semplak Bogor
+### 2. Batako Hitam dan Putih Di Semplak Bogor
 
 ![Harga Batako 3 Lubang Gratis Ongkir Ke Semplak Bogor](/images/bata/batako-hitam-press-05.png)
 
@@ -34,7 +34,7 @@ Material bangunan dinding dari batako trus ini secara umum terbuat dari material
 
 Batako press seperti ini mempunyai kelemahan seperti mudah retak, lebih panas dan pengap. Berbeda dengan bata merah yang terbuat dari bahan tanah. Tapi batako trus ini cenderung lebih ringan ketimbang bata merah. Akibatnya akan menonjol lebih halus dan ukurannya lebih presisi jika dibandingkan dengan bata merah. Batako Hitam ini memiliki ukuran panjang sekitar 36-40 cm, tinggi 18-20 cm dan tebal 8-10 cm. bahan ini tak jarang dipilih karena untuk memperingan beban struktur bangunan, meminimalisir sisa material dan mempermudah pembangunan.
 
-### 3\. Bata Ringan Di Semplak Bogor
+### 3. Bata Ringan Di Semplak Bogor
 
 ![Harga Batako 3 Lubang Gratis Ongkir Ke Semplak Bogor](/images/bata/bata-hebel-sni-07.png)
 
@@ -62,7 +62,7 @@ Semua tentunya telah tahu fungsi utama batu bata mulai dipakai untuk membikin te
 
 Metode memesan batu bata yg aman dan terpercaya:
 
-1.  Progres pembayaran bisa anda lakukan secara COD atau dibayar di tempat dikala barang pesanan anda sudah datang di tempat
+1.  Progres pembayaran bisa anda lakukan secara COD atau dibayar di tempat dikala barang pesanan anda sudah datang di tempat
 2. Silahkan memilih dan memastikan material batu bata yg anda inginkan
 3. Tentukan juga jumlah orderan batu bata yang anda butuhkan dalam bentuk bijian.
 4. Anda bisa menghubungi layanan telepon kios untuk memudahkan pengerjaan pengorderan

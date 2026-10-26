@@ -25,7 +25,7 @@ Menurut Standar Nasional Indonesia ( SK SNI - S - 04 - 1989 - F ; 28) di sebutka
 
 Syarat-Syarat Pasir yang Baik tuk Konstruksi Bangunan
 
-1.  Agregat Halus harus terdiri dari butiran yg tajam dan keras dengan indeks kekerasan <2.2
+1.  Agregat Halus harus terdiri dari butiran yg tajam dan keras dengan indeks kekerasan <2.2
 2. Jikalau dipakai Natrium Sulfat bagian hancur optimal 12 persen
 3. seandainya diterapkan Magnesium Sulfat komponen halus optimal 5 persen
 4. Tak boleh berisi lumpur lebih dari 5 persen
@@ -41,7 +41,6 @@ Syarat-Syarat Pasir yang Baik tuk Konstruksi Bangunan
 Setelah mengetahui syarat pasir buat suatu Konstruksi, sekarang ini kita bahas model - Jenis Pasir Untuk Bangunan penjelasan nya berikut ini:
 
 - ### Pasir Rigid Di Pasir Mulya Bogor
-    
 
 Pasir ini biasa nya berwarna hitam gelap dan tingkat kekasaran butiran nya lumayan tinggi. Tapi apabila anda mengepal nya dengan tangan tak akan menggumpal dan akan buyar kembali. ragam pasir ini benar-benar lah baik untuk Pengecoran, Plesteran Dinding, Adukan Pondasi dan Adukan Pasangan Bata Pasir ini yaitu pasir untuk Beton yakni butiran-butiran mineral keras dan tajam berukuran antara 0,075 – 5 mm, apabila terdapat butiran berukuran lebih kecil dari 0,063 mm tidak lebih dari 5% berat. Pasir ini yaitu pasir untuk Cor hampir acap kali dimanfaatkan untuk profesi cor-coran struktur seperti kolom, balok dan pelat lantai.
 
@@ -59,21 +58,18 @@ Untuk menerima kualitas Rigid yang optimal karenanya pasir seharusnya dapat meme
 ![Harga Pasir Lampung Free Ongkir Ke Pasir Mulya Bogor](/images/info/pasir-hitam-7.jpg)
 
 - ### Pasir Standar Di Pasir Mulya Bogor
-    
 
 ![Harga Pasir Lampung Free Ongkir Ke Pasir Mulya Bogor](/images/info/pasir-hitam-4.jpg)
 
 Pasir ini lebih halus lagi dibandingkan oleh pasir beton. sekiranya anda mengepal pasir ini karenanya akan menggumpal dan tak akan buyar kembali. pasir pasang umum nya di manfaatkan buat campuran pasir beton agar tak kelewat kasar dan bisa di gunakan untuk plesteran dinding.
 
 - ### Pasir Urug Untuk pengurugan lantai Di Pasir Mulya Bogor
-    
 
 Di Antara ke dua pasir diatas pasir model ini lebih halus lagi, jika anda mengepal nya akan menggumpal dan tidak akan hancur lagi. tetapi pasir tipe
 
 Pada umum nya pasir ini nyaris sama dengan pasir beton tetapi pasir ini memiliki tingkat kekasaran yg tinggi, butiran - butiran nya cukup besar dan agak banyak batuan nya. pada biasanya pasir jenis ini bagus tuk bahan Pembuatan Batako
 
 - ### Pasir Putih Tanpa Batu Untuk Taman Bermain Di Pasir Mulya Bogor
-    
 
 1. **Pasir Putih Bangka**
 

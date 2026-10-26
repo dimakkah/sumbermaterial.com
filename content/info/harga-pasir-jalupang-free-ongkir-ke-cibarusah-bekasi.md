@@ -25,7 +25,7 @@ berdasarkan Standar Nasional Indonesia ( SK SNI - S - 04 - 1989 - F ; 28) di seb
 
 Persyaratan Pasir yang Baik Untuk Konstruksi
 
-1.  Agregat Halus seharusnya terdiri dari butiran yg tajam dan keras dengan indeks kekerasan <2.2
+1.  Agregat Halus seharusnya terdiri dari butiran yg tajam dan keras dengan indeks kekerasan <2.2
 2. seandainya diaplikasikan Natrium Sulfat bagian hancur optimal dua belas %
 3. jikalau dipakai Magnesium Sulfat komponen halus optimal 10%
 4. Tak boleh memuat tanah lebih dari 5 persen
@@ -41,7 +41,6 @@ Persyaratan Pasir yang Baik Untuk Konstruksi
 Sesudah tahu persis syarat pasir tuk sebuah Konstruksi Bangunan, pada saat ini kita bahas Macam - Macam Pasir Untuk Konstruksi penjelasan nya sebagai berikut:
 
 - ### Pasir untuk Cor Rigid Di Cibarusah Bekasi
-    
 
 Pasir ini lazim nya berwarna hitam pekat dan tingkat kekerasan butiran nya lumayan tinggi. Tapi kalau anda mengepal nya dengan tangan tak akan menggumpal dan akan hancur kembali. jenis pasir ini sangat lah bagus tuk Pengecoran, Plesteran Dinding, Adukan Pondasi dan Adukan Pasangan Bata Pasir ini yaitu pasir untuk Rigid yakni butiran-butiran mineral keras dan tajam berukuran antara 0,075 – 5 mm, sekiranya terdapat butiran berukuran lebih kecil dari 0,063 mm tak lebih dari 5% berat. Pasir ini yaitu pasir untuk Rigid hampir sering kali dimanfaatkan untuk profesi cor-coran struktur seperti kolom, balok dan pelat lantai.
 
@@ -59,21 +58,18 @@ Untuk menerima kualitas Cor yang optimal karenanya pasir mesti dapat memenuhi pr
 ![Harga Pasir Jalupang Free Ongkir Ke Cibarusah Bekasi](/images/info/jual-pasir-cor-hitam.jpg)
 
 - ### Pasir Pasang Di Cibarusah Bekasi
-    
 
 ![Harga Pasir Jalupang Free Ongkir Ke Cibarusah Bekasi](/images/info/pasir-putih12.jpg)
 
 Pasir ini ekstra halus lagi diperbandingkan oleh pasir beton. apabila anda mengepal pasir ini karenanya akan menggumpal dan tidak akan buyar kembali. pasir pasang lazim nya di pakai tuk adukan pasir beton agar tidak kelewat kasar dan dapat di manfaatkan untuk plesteran dinding.
 
 - ### Pasir Urug Untuk pemadatan lantai Di Cibarusah Bekasi
-    
 
 Di Antara ke dua pasir diatas pasir ragam ini lebih halus lagi, jikalau anda mengepal nya karenanya akan menggumpal dan tak akan hancur lagi. melainkan pasir jenis
 
 Pada lazim nya pasir ini nyaris sama dengan pasir beton tetapi pasir ini memiliki tingkat kekasaran yg tinggi, butiran - butiran nya cukup besar dan agak banyak batuan nya. pada umumnya pasir model ini bagus untuk bahan Pembuatan Batako
 
 - ### Pasir Putih Tanpa Batu Untuk Pasang Lantai Marmer Di Cibarusah Bekasi
-    
 
 1. **Pasir Putih Bangka**
 

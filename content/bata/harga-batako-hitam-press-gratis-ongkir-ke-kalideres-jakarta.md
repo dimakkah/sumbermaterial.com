@@ -16,7 +16,7 @@ dikala ini bahan yg diterapkan untuk mengisi tembok tempat tinggal, sudah terdap
 
 ## Mengenal Ragam Variasi Bata
 
-### 1\. Bata Merah Standar & Jumbo Di Kalideres Jakarta
+### 1. Bata Merah Standar & Jumbo Di Kalideres Jakarta
 
 ![Harga Batako Hitam Press Gratis Ongkir Ke Kalideres Jakarta](/images/bata/bata-merah-oven-29.png)
 
@@ -26,7 +26,7 @@ Bata merah ini diciptakan dari bahan tanah yg kemudian di bentuk dan dipanaskan 
 
 Material bangunan ini betul-betul tahan terhadap panas dan layak dijadikan pengamanan dari panas api. Bata merah ini pada lazimnya memiliki ukuran panjang antara 17-23 cm dan lebar sekitar 7-11 cm, serta tebalnya 3-5 cm. memiliki ukuran yg lebih kecil akan memberi kemudahan dalam proses pengangkutan dan bisa dipakai untuk menyusun bidang kecil.
 
-### 2\. Batako Hitam dan Putih Di Kalideres Jakarta
+### 2. Batako Hitam dan Putih Di Kalideres Jakarta
 
 ![Harga Batako Hitam Press Gratis Ongkir Ke Kalideres Jakarta](/images/bata/batako-hitam-press-29.png)
 
@@ -34,7 +34,7 @@ Material bangunan tembok dari batako ini secara lazimnya terbuat dari bahan Aduk
 
 Batako seperti ini memiliki kekurangan seperti mudah retak, lebih panas dan pengap. Berbeda dengan bata merah yg terbuat dari material tanah. Namun batako trus ini cenderung lebih ringan ketimbang bata merah. Alhasil akan tampak lebih halus dan ukurannya lebih presisi jika dibandingi dengan bata merah. Batako Hitam ini memiliki ukuran panjang sekitar 36-40 cm, tinggi 18-20 cm dan tebal 8-10 cm. material ini sering dipilih sebab untuk memperingan bobot struktur bangunan, meminimalisir sisa bahan dan mempercepat pembangunan.
 
-### 3\. Bata Hebel Di Kalideres Jakarta
+### 3. Bata Hebel Di Kalideres Jakarta
 
 ![Harga Batako Hitam Press Gratis Ongkir Ke Kalideres Jakarta](/images/bata/bata-hebel-sni-07.png)
 
@@ -62,7 +62,7 @@ Segalanya tentu sudah tahu fungsi utama batu bata mulai dipakai untuk membuat te
 
 Metode memesan batu bata yang aman dan terpercaya:
 
-1.  Proses pembayaran dapat anda lakukan secara COD atau dibayar di daerah dikala barang orderan anda sudah datang di daerah
+1.  Proses pembayaran dapat anda lakukan secara COD atau dibayar di daerah dikala barang orderan anda sudah datang di daerah
 2. Silahkan memilih dan menetapkan bahan batu bata yg anda inginkan
 3. Tentukan juga jumlah orderan batu bata yang anda butuhkan dalam wujud bijian.
 4. Anda bisa menghubungi layanan telepon kios untuk memudahkan proses pemesanan

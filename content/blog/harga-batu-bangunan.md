@@ -19,8 +19,6 @@ draft: false
 
 ![Harga Batu Bangunan: Update Terbaru & Tips Memilih yang Tepat](/images/blog/harga-batu-bangunan.jpg)
 
-
-
 Sebagai toko material konstruksi terpercaya di Jabodetabek dan sekitarnya, Kami di Sumber Material sering menerima pertanyaan tentang harga dan jenis batu bangunan yang paling cocok untuk berbagai kebutuhan. Kali ini, mari kita bedah tuntas informasi penting seputar harga batu bangunan, jenis-jenisnya, serta tips memilih yang paling sesuai dengan proyek Anda.
 
 ## Memahami Faktor yang Mempengaruhi Harga Batu Bangunan
@@ -28,7 +26,6 @@ Sebagai toko material konstruksi terpercaya di Jabodetabek dan sekitarnya, Kami 
 Mitra, harga batu bangunan itu dinamis. Ada beberapa faktor utama yang mempengaruhinya. Pertama, tentu saja, **jenis batu** itu sendiri. Batu alam seperti batu andesit atau batu kali umumnya memiliki harga yang berbeda dengan batu buatan seperti batako atau hebel. Kedua, **ukuran dan kualitas** batu juga berperan penting. Semakin besar ukuran dan semakin baik kualitasnya, biasanya harganya akan semakin tinggi.
 
 Selain itu, **lokasi geografis** dan **permintaan pasar** juga berpengaruh. Harga batu bangunan di daerah yang sulit dijangkau atau saat musim pembangunan biasanya lebih mahal. Terakhir, jangan lupakan **biaya transportasi** yang bisa menambah beban biaya keseluruhan. Nah, untuk membantu Anda lebih memahami perkiraan harga, berikut ini tabel perbandingan harga beberapa jenis batu bangunan yang populer (harga bersifat estimasi dan dapat berubah sewaktu-waktu — hubungi Kami untuk penawaran terbaru dan paling akurat sesuai kebutuhan proyek Mitra):
-
 
 <table class="table">
   <caption>Perbandingan Harga Batu Bangunan (Estimasi 2026)</caption>
@@ -42,7 +39,6 @@ Selain itu, **lokasi geografis** dan **permintaan pasar** juga berpengaruh. Harg
     <tr><td>Batu Cacing</td><td>Beragam</td><td>Rp 900.000 - Rp 2.000.000</td><td>Memberikan kesan alami dan unik</td></tr>
   </tbody>
 </table>
-
 
 ## Jenis-Jenis Batu Bangunan Populer dan Kegunaannya
 

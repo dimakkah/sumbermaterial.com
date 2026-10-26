@@ -25,7 +25,7 @@ Berdasarkan Standar Nasional Indonesia ( SK SNI - S - 04 - 1989 - F ; 28) di seb
 
 Prasyarat Pasir yg Baik Untuk Konstruksi Bangunan
 
-1.  Agregat Halus patut terdiri dari butiran yg tajam dan keras dengan indeks kekerasan <2.2
+1.  Agregat Halus patut terdiri dari butiran yg tajam dan keras dengan indeks kekerasan <2.2
 2. Seandainya dipakai Natrium Sulfat bagian hancur maksimal dua belas persen
 3. Apabila diaplikasikan Magnesium Sulfat bagian halus maksimal 5 persen
 4. Tak boleh mengandung clay lebih dari lima persen
@@ -41,7 +41,6 @@ Prasyarat Pasir yg Baik Untuk Konstruksi Bangunan
 Setelah memahami persyaratan pasir buat sebuah Konstruksi, sekarang ini kita bahas Ragam - Jenis Pasir Untuk Konstruksi penjelasan nya sbb:
 
 - ### Pasir Rigid Di Sukatani Depok
-    
 
 Pasir ini lazim nya berwarna hitam pekat dan tingkat pecahan butiran nya lumayan tinggi. Namun jikalau anda mengepal nya dengan tangan tidak akan lengket dan akan hancur kembali. macam pasir ini benar-benar lah bagus buat Pengecoran, Plesteran Dinding, Adukan Pondasi dan Adukan Pasangan Bata Pasir ini yaitu pasir untuk Cor yaitu butiran-butiran mineral keras dan tajam berukuran antara 0,075 – 5 mm, sekiranya terdapat butiran berukuran lebih kecil dari 0,063 mm tak lebih dari 5% berat. Pasir ini yaitu pasir untuk Rigid tak jarang diaplikasikan untuk profesi cor-coran struktur seperti kolom, balok dan pelat lantai.
 
@@ -59,21 +58,18 @@ Untuk mendapat kekokohan Rigid yang maksimal karenanya pasir mesti bisa memenuhi
 ![Harga Pasir Pasang Free Ongkir Ke Sukatani Depok](/images/info/pasir-hitam-9.jpg)
 
 - ### Pasir Standar Di Sukatani Depok
-    
 
 ![Harga Pasir Pasang Free Ongkir Ke Sukatani Depok](/images/info/pasir-hitam-11.jpg)
 
 Pasir ini ekstra halus lagi dibandingi oleh pasir beton. jikalau kamu mengepal pasir ini maka akan menggumpal dan tidak akan buyar kembali. pasir pasang umum nya di manfaatkan untuk adukan pasir beton supaya tidak kelewat kasar dan bisa di manfaatkan untuk plesteran dinding.
 
 - ### Pasir Urug Untuk Dasaran Pemasangan Granit Di Sukatani Depok
-    
 
 Di Antara ke dua pasir diatas pasir ragam ini lebih halus lagi, seandainya anda mengepal nya akan menggumpal dan tidak akan hancur lagi. namun pasir tipe
 
 Pada lazim nya pasir ini nyaris sama dgn pasir beton namun pasir ini mempunyai tingkat kekasaran yg tinggi, butiran - butiran nya lumayan besar dan agak banyak batuan nya. pada umumnya pasir macam ini baik untuk bahan pengurugan lantai
 
 - ### Pasir Putih Kadar Lumpur Rendah Untuk Hiasan Di Sukatani Depok
-    
 
 1. **Pasir Putih Bangka**
 

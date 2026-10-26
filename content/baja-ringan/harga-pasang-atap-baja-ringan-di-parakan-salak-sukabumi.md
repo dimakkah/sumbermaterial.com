@@ -21,19 +21,19 @@ Bermaksud memasang baja ringan untuk bangunan Anda? Prosesnya lebih mudah dari y
 
 Sebelum Anda menghubungi kami, ada beberapa alasan penting mengapa Anda wajib mempertimbangkan baja ringan sebagai pilihan utama:
 
- **Ramah Lingkungan:** Baja ringan mendukung pelestarian alam karena tidak memerlukan penebangan pohon. Dengan memilih baja ringan, Anda turut berkontribusi pada lingkungan yang lebih hijau.
+- **Ramah Lingkungan:** Baja ringan mendukung pelestarian alam karena tidak memerlukan penebangan pohon. Dengan memilih baja ringan, Anda turut berkontribusi pada lingkungan yang lebih hijau.
 
- **Ekonomis:** Dibandingkan dengan kerangka kayu, baja ringan menawarkan harga yang lebih terjangkau. Ini memungkinkan Anda menekan biaya pembangunan secara keseluruhan.
+- **Ekonomis:** Dibandingkan dengan kerangka kayu, baja ringan menawarkan harga yang lebih terjangkau. Ini memungkinkan Anda menekan biaya pembangunan secara keseluruhan.
 
- **Ringan dan Kuat:** Baja ringan memiliki berat 2 kali lebih ringan dari baja atau besi konvensional, namun tetap menawarkan kekuatan yang luar biasa untuk kerangka atap dan kanopi rumah Anda.
+- **Ringan dan Kuat:** Baja ringan memiliki berat 2 kali lebih ringan dari baja atau besi konvensional, namun tetap menawarkan kekuatan yang luar biasa untuk kerangka atap dan kanopi rumah Anda.
 
- **Perawatan Minimal:** Anda tidak perlu khawatir tentang perawatan rutin yang memakan waktu dan biaya. Baja ringan tahan lama dan tidak memerlukan perawatan tahunan.
+- **Perawatan Minimal:** Anda tidak perlu khawatir tentang perawatan rutin yang memakan waktu dan biaya. Baja ringan tahan lama dan tidak memerlukan perawatan tahunan.
 
- **Pemasangan Cepat:** Proses pemasangan baja ringan jauh lebih cepat dibandingkan dengan material lainnya, menghemat waktu dan tenaga Anda.
+- **Pemasangan Cepat:** Proses pemasangan baja ringan jauh lebih cepat dibandingkan dengan material lainnya, menghemat waktu dan tenaga Anda.
 
- **Kualitas Terjamin:** Baja ringan yang kami gunakan terbuat dari zinc dan aluminium dengan standar keamanan 4 kali lebih baik dibandingkan baja umum, mampu menahan beban berkilo-kilo.
+- **Kualitas Terjamin:** Baja ringan yang kami gunakan terbuat dari zinc dan aluminium dengan standar keamanan 4 kali lebih baik dibandingkan baja umum, mampu menahan beban berkilo-kilo.
 
- **Tahan Rayap:** Kerangka atap dan kanopi dari baja ringan dijamin tahan terhadap serangan rayap, menjadikannya pilihan yang tepat untuk iklim tropis seperti di Parakan Salak Sukabumi.
+- **Tahan Rayap:** Kerangka atap dan kanopi dari baja ringan dijamin tahan terhadap serangan rayap, menjadikannya pilihan yang tepat untuk iklim tropis seperti di Parakan Salak Sukabumi.
 
 ## Sistem Hitung Luas Rangka Baja Ringan Di Parakan Salak Sukabumi
 

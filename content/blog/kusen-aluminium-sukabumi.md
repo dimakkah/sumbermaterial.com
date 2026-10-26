@@ -19,8 +19,6 @@ draft: false
 
 ![Kusen Aluminium Sukabumi: Pilihan Tepat untuk Rumah Impian](/images/blog/kusen-aluminium-karawang.jpg)
 
-
-
 ## Mengapa Kusen Aluminium Menjadi Pilihan Populer di Sukabumi?
 
 Di Sukabumi, cuaca bisa cukup ekstrem – panas terik di siang hari dan hujan lebat di musim penghujan. Nah, kusen aluminium sangat ideal menghadapi kondisi ini. Material ini tahan karat, tidak mudah lapuk, dan perawatannya pun sangat mudah. Anda tidak perlu khawatir tentang kusen yang melengkung atau berjamur akibat kelembaban tinggi. Selain itu, kusen aluminium menawarkan desain yang fleksibel, bisa disesuaikan dengan berbagai gaya arsitektur rumah Anda.
@@ -29,10 +27,9 @@ Mitra, banyak yang bertanya soal kekuatan kusen aluminium. Secara umum, aluminiu
 
 ## Keunggulan Kusen Aluminium Dibanding Material Lain
 
-Bandingkan dengan kusen kayu, kusen aluminium jelas lebih unggul dalam hal perawatan. Kayu rentan terhadap serangan rayap dan memerlukan perawatan berkala seperti pengecatan ulang. Sementara itu, kusen aluminium cukup dibersihkan dengan air dan sabun biasa. 
+Bandingkan dengan kusen kayu, kusen aluminium jelas lebih unggul dalam hal perawatan. Kayu rentan terhadap serangan rayap dan memerlukan perawatan berkala seperti pengecatan ulang. Sementara itu, kusen aluminium cukup dibersihkan dengan air dan sabun biasa.
 
 Kemudian, bandingkan juga dengan kusen PVC. Kusen PVC memang lebih murah, tapi kekuatannya tidak sebanding dengan aluminium. Aluminium juga lebih tahan terhadap paparan sinar matahari langsung, sehingga warnanya tidak mudah pudar.  Berikut tabel perbandingan singkatnya:
-
 
 <table class="table">
   <caption>Perbandingan Kusen Aluminium, Kayu, dan PVC</caption>
@@ -46,7 +43,6 @@ Kemudian, bandingkan juga dengan kusen PVC. Kusen PVC memang lebih murah, tapi k
     <tr><td>Harga</td><td>Sedang - Tinggi</td><td>Tinggi</td><td>Rendah</td></tr>
   </tbody>
 </table>
-
 
 ## Tips Memilih Kusen Aluminium Terbaik di Sukabumi
 

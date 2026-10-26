@@ -21,19 +21,19 @@ Pemasangan baja ringan untuk kebutuhan bangunan bisa dilaksanakan dengan cukup m
 
 Berikut ini adalah beberapa alasan mengapa Anda sebaiknya mempertimbangkan baja ringan sebagai kerangka atap dan Kanopi:
 
- Baja ringan dianggap lebih ramah lingkungan karena Anda tidak membutuhkan kayu, yang seringkali diperoleh dari penebangan pohon. Dengan menggunakan kerangka baja ringan, Anda turut berkontribusi dalam melestarikan alam.
+- Baja ringan dianggap lebih ramah lingkungan karena Anda tidak membutuhkan kayu, yang seringkali diperoleh dari penebangan pohon. Dengan menggunakan kerangka baja ringan, Anda turut berkontribusi dalam melestarikan alam.
 
- Lebih ekonomis. Jika dibandingkan dengan kerangka kayu, harga baja ringan cenderung lebih terjangkau. Hal ini karena kayu berkualitas memerlukan biaya yang lebih besar. Kami sarankan untuk memikirkan ini matang-matang agar bisa menekan biaya pembangunan Anda.
+- Lebih ekonomis. Jika dibandingkan dengan kerangka kayu, harga baja ringan cenderung lebih terjangkau. Hal ini karena kayu berkualitas memerlukan biaya yang lebih besar. Kami sarankan untuk memikirkan ini matang-matang agar bisa menekan biaya pembangunan Anda.
 
- Ringan dan kuat. Baja ringan berbeda dengan "baja/besi" yang memiliki berat dua kali lipat. Baja ringan memiliki ketebalan yang tipis dan ringan, namun tetap sangat kuat untuk kerangka atap dan pembuatan Kanopi rumah Anda.
+- Ringan dan kuat. Baja ringan berbeda dengan "baja/besi" yang memiliki berat dua kali lipat. Baja ringan memiliki ketebalan yang tipis dan ringan, namun tetap sangat kuat untuk kerangka atap dan pembuatan Kanopi rumah Anda.
 
- Perawatan minim. Anda tidak perlu khawatir soal kerusakan kerangka atap, karena baja ringan tidak memerlukan perawatan tahunan yang rumit.
+- Perawatan minim. Anda tidak perlu khawatir soal kerusakan kerangka atap, karena baja ringan tidak memerlukan perawatan tahunan yang rumit.
 
- Proses pemasangan yang cepat. Berbeda dengan kerangka atap kayu dan material lain yang memerlukan waktu lama, pemasangan baja ringan relatif lebih cepat.
+- Proses pemasangan yang cepat. Berbeda dengan kerangka atap kayu dan material lain yang memerlukan waktu lama, pemasangan baja ringan relatif lebih cepat.
 
- Bahan berkualitas tinggi. Baja ringan yang kami gunakan merupakan bahan utama zinc dan aluminium yang sudah memiliki sertifikasi dan standar keamanan 4 kali lebih baik dibandingkan baja biasa. Kekuatannya juga mampu menopang beban berat.
+- Bahan berkualitas tinggi. Baja ringan yang kami gunakan merupakan bahan utama zinc dan aluminium yang sudah memiliki sertifikasi dan standar keamanan 4 kali lebih baik dibandingkan baja biasa. Kekuatannya juga mampu menopang beban berat.
 
- Tahan rayap. Kami menjamin bahwa kerangka atap dan Kanopi dari baja ringan ini tahan terhadap serangan rayap.
+- Tahan rayap. Kami menjamin bahwa kerangka atap dan Kanopi dari baja ringan ini tahan terhadap serangan rayap.
 
 ## Cara Menghitung Luas Rangka Baja Ringan Di Kronjo Tangerang
 
@@ -59,10 +59,10 @@ Berbicara mengenai harga jasa pasang baja ringan, sebenarnya sudah banyak inform
 
 (Catatan: harga dapat bervariasi) Berikut adalah beberapa perkiraan biaya jasa pasang baja ringan berdasarkan jenis pemasangannya:
 
-*   Kanopi rangka baja ringan “Polikarbonat x Lite Rp. 285.000 / m
-*   Kanopi rangka baja ringan “Spandek Rp. 225.000 / m
-*   Kanopi rangka baja ringan “Gogreen Rp. 200.000 /m
-*   Untuk perhitungan lainnya, silakan hubungi kami melalui kontak yang tersedia di website kami.
+- Kanopi rangka baja ringan “Polikarbonat x Lite Rp. 285.000 / m
+- Kanopi rangka baja ringan “Spandek Rp. 225.000 / m
+- Kanopi rangka baja ringan “Gogreen Rp. 200.000 /m
+- Untuk perhitungan lainnya, silakan hubungi kami melalui kontak yang tersedia di website kami.
 
 ### Parameter Besaran Harga Jasa Pasang Baja Ringan
 
@@ -82,10 +82,10 @@ Setelah pembuatan sketsa dan perhitungan rangka selesai, Anda bisa mendiskusikan
 
 Berikut adalah informasi detail mengenai biaya jasa pasang baja ringan yang perlu Anda ketahui, ini penting untuk menentukan besaran budget yang diperlukan.
 
-*   Harga jasa kami sudah termasuk biaya pemasangan yang lebih ekonomis dan sering memberikan diskon untuk konsumen.
-*   Harga yang kami berikan sudah sesuai dengan layanan pemasangan, perhitungan, dan material yang terpasang.
-*   Kami selalu mengutamakan harga terbaik untuk setiap pelanggan.
-*   Biaya jasa pasang baja ringan dapat berubah sewaktu-waktu karena fluktuasi harga material.
-*   Pembayaran dapat dilakukan dengan *down payment* dan sisanya setelah pemasangan selesai.
+- Harga jasa kami sudah termasuk biaya pemasangan yang lebih ekonomis dan sering memberikan diskon untuk konsumen.
+- Harga yang kami berikan sudah sesuai dengan layanan pemasangan, perhitungan, dan material yang terpasang.
+- Kami selalu mengutamakan harga terbaik untuk setiap pelanggan.
+- Biaya jasa pasang baja ringan dapat berubah sewaktu-waktu karena fluktuasi harga material.
+- Pembayaran dapat dilakukan dengan *down payment* dan sisanya setelah pemasangan selesai.
 
 Di Kronjo Tangerang, Anda bisa percayakan hal ini kepada kami. Kami siap membantu Anda dalam menentukan ukuran, kualitas, dan pemasangan yang benar-benar sesuai dengan kebutuhan Anda tanpa meninggalkan sisa material. Terima kasih.

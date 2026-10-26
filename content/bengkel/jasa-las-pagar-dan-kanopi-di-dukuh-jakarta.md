@@ -32,11 +32,11 @@ Dari perhitungan Biaya Jasa Las Pagar Dan Kanopi diatas, kami harap anda dapat m
 
 ## Harga Layanan Las Pagar Dan Kanopi Berdasarkan Keperluan dan Bahan Di Dukuh Jakarta
 
-1\. Pembuatan Kanopi Di Dukuh Jakarta
+1. Pembuatan Kanopi Di Dukuh Jakarta
 
 \# Bahan besi mulai dari Rp. 400.000 hingga Rp. 800.000 untuk per meter persegi # Bahan besi galvanis Rp. 500.000 sampai Rp. 850.000 untuk per meter persegi # Bahan stainless Rp. 650.000 hingga Rp. 1.675.000 untuk per m2
 
-2\. Pembuatan Pagar Di Dukuh Jakarta
+2. Pembuatan Pagar Di Dukuh Jakarta
 
 \# Bahan besi mulai dari Rp. 350.000 sampai Rp. 750.000 utk per meter persegi # Bahan besi Galvanis mulai dari Rp. 400.000 hingga Rp. 800.000 per meter # Bahan besi Stainless mulai dari Rp. 600.000 sampai Rp. 1.500.000 per meter # Bahan Tempa mulai dari Rp. 750.000 hingga Rp. 1.700.000 per m2 # Bahan Brc mulai dari Rp. 200.000 hingga Rp. 450.000 per meter
 
@@ -54,15 +54,15 @@ Sebagai Jasa Las Pagar Dan Kanopi kami melayani banyak job atau pesanan untuk be
 
 Dibawah ini yakni beberapa profit yg akan anda temukan kalau mengorder Layanan Las Pagar Dan Kanopi dari kami. Kami pastikan memberikan hasil yg memuaskan untuk anda.
 
- Harga Bersahabat utk anda: Kami memberikan harga termurah untuk anda yang mengorder Layanan Las Pagar Dan Kanopi dari kami. Kami siap datang ke tempat anda utk mengerjakan suvery dan kabar yg berkaitan dengan pengelasan yg diperlukan.
+- Harga Bersahabat utk anda: Kami memberikan harga termurah untuk anda yang mengorder Layanan Las Pagar Dan Kanopi dari kami. Kami siap datang ke tempat anda utk mengerjakan suvery dan kabar yg berkaitan dengan pengelasan yg diperlukan.
 
- Menerima variasi material: Kami juga mendapatkan banyak jenis material yg dapat kami sanggupi utk pelaksanaan pengelasan. Adapun sebagian material yang bisa kami kerjakan seperti ( Pengorderan pagar, pengorderan Canopy, pengorderan tralis, pemesanan pintu besi, pemesanan pintu henderson, pengorderan tralis, pemesanan Canopy dan masih banyak lagi yg lainnya ).
+- Menerima variasi material: Kami juga mendapatkan banyak jenis material yg dapat kami sanggupi utk pelaksanaan pengelasan. Adapun sebagian material yang bisa kami kerjakan seperti ( Pengorderan pagar, pengorderan Canopy, pengorderan tralis, pemesanan pintu besi, pemesanan pintu henderson, pengorderan tralis, pemesanan Canopy dan masih banyak lagi yg lainnya ).
 
- Harga disesuaikan dengan material: Seperti Layanan las pada umumnya, tiap biaya yang kami patok disesuaikan dengan tipe material mulai dari bahan material, panjang dan pendeknya material, ketebalan dan tingkat kesusahan ).
+- Harga disesuaikan dengan material: Seperti Layanan las pada umumnya, tiap biaya yang kami patok disesuaikan dengan tipe material mulai dari bahan material, panjang dan pendeknya material, ketebalan dan tingkat kesusahan ).
 
- Kerja Pas waktu: Kami Layanan Las Pagar Dan Kanopi yang kapabel memecahkan pelaksanaan ideal waktu cocok dg tanggal yang telah disepakati bersama.
+- Kerja Pas waktu: Kami Layanan Las Pagar Dan Kanopi yang kapabel memecahkan pelaksanaan ideal waktu cocok dg tanggal yang telah disepakati bersama.
 
- Request sesuai dengan keinginan: Kami memberikan peluang kepada anda untuk merequest cocok dg kemauan terkait dengan progres pengelasan supaya layak dg kebutuhan anda.
+- Request sesuai dengan keinginan: Kami memberikan peluang kepada anda untuk merequest cocok dg kemauan terkait dengan progres pengelasan supaya layak dg kebutuhan anda.
 
 Layanan Las Pagar Dan Kanopi dari kami benar-benar sudah berpengalaman dalam mengerjakana banyak orderan baik dari proyek kecil ataupun proyek besar sekalipun, dari skala rumah sampai skala besar seperti perkantoran, hotel, sekolahan dan masih banyak lagi yang lainnya. Bengkel Jasa Las Pagar Dan Kanopi dari kami menerapkan bahan besi yg benar-benar berkwalitas di kelasnya, sehingga anda tidak perlu ragu dg hasil finisihing yang kami berikan sebab dg pengalaman para tenaga pekerja yang telah matang akan menciptakan finishing yang bagus dan dapat bertahan lama. Ini ialah jaminan dari Jasa Las Pagar Dan Kanopi kami untuk anda.
 
@@ -76,18 +76,18 @@ Langkah awal yg dapat anda lakukan jika mau mengorder Jasa Las Pagar Dan Kanopi 
 
 Bagi anda yg mau mengenal seperti apa sistem kami mematok harga orderan Layanan las listrik, bisa menyimak informasinya dibawah ini.
 
- Merek / Contoh Material: Hal pertama yang akan kami lihat merupakan ragam material dan merk.
+- Merek / Contoh Material: Hal pertama yang akan kami lihat merupakan ragam material dan merk.
 
- Tebal ukuran: Tebal ukuran juga menjadi pertimbangan kami dalam menentukan harga.
+- Tebal ukuran: Tebal ukuran juga menjadi pertimbangan kami dalam menentukan harga.
 
- Bentuk / Contoh: Bentuk maupun format juga menjadi pertimbangan utama kami dalam memutuskan harga.
+- Bentuk / Contoh: Bentuk maupun format juga menjadi pertimbangan utama kami dalam memutuskan harga.
 
- Volume Macam: Besar kecilnya volume pekerjaan juga bisa menjadi pertimbangan kami.
+- Volume Macam: Besar kecilnya volume pekerjaan juga bisa menjadi pertimbangan kami.
 
- Tingkat kesusahan: Tingkas kesusahan juga menjadi pertimbangan kami
+- Tingkat kesusahan: Tingkas kesusahan juga menjadi pertimbangan kami
 
- Jarak: Mengatar pesanan anda ke lokasi juga masuk hitungan biaya kami
+- Jarak: Mengatar pesanan anda ke lokasi juga masuk hitungan biaya kami
 
- Aplikasi / : Tambahan utk biaya jika memakai tipe
+- Aplikasi / : Tambahan utk biaya jika memakai tipe
 
 Sekian kabar tentang Jasa Las Pagar Dan Kanopi Di Dukuh Jakarta dari kami. Semoga berguna. Thanks.

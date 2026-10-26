@@ -16,7 +16,7 @@ sekarang ini material yang diaplikasikan untuk mengisi dinding bangunan, telah t
 
 ## Mengenal Macam-macam Bata
 
-### 1\. Bata Merah Standar & Jumbo Di Tegal Gundil Bogor
+### 1. Bata Merah Standar & Jumbo Di Tegal Gundil Bogor
 
 ![Harga Batako Putih Gratis Ongkir Ke Tegal Gundil Bogor](/images/bata/bata-merah-oven-11.png)
 
@@ -26,7 +26,7 @@ Bata merah ini diciptakan dari material tanah yang kemudian di press dan dipanas
 
 Bahan bangunan ini sangat tahan kepada panas dan sesuai dibuat perlindungan dari bahaya api. Bata merah ini pada biasanya memiliki ukuran panjang antara 17-23 cm dan lebar sekitar 7-11 cm, serta tebalnya 3-5 cm. mempunyai ukuran yg lebih kecil akan memberi kemudahan dalam proses pengangkutan dan dapat diterapkan untuk membentuk bidang kecil.
 
-### 2\. Batako Hitam dan Putih Di Tegal Gundil Bogor
+### 2. Batako Hitam dan Putih Di Tegal Gundil Bogor
 
 ![Harga Batako Putih Gratis Ongkir Ke Tegal Gundil Bogor](/images/bata/batako-hitam-press-16.png)
 
@@ -34,7 +34,7 @@ Material bangunan dinding dari batako press ini secara lazimnya terbuat dari mat
 
 Batako trus seperti ini mempunyai kekurangan seperti gampang retak, lebih panas dan pengap. Berbeda dengan bata merah yang terbuat dari material tanah. Namun batako ini cenderung lebih ringan daripada bata merah. Hasilnya akan nampak lebih halus dan ukurannya lebih presisi kalau diperbandingkan dengan bata merah. Batako Hitam ini mempunyai ukuran panjang sekitar 36-40 cm, tinggi 18-20 cm dan tebal 8-10 cm. bahan ini kerap dipilih sebab untuk memperingan beban struktur bangunan, meminimalisir sisa bahan dan mempermudah pembangunan.
 
-### 3\. Bata Hebel Di Tegal Gundil Bogor
+### 3. Bata Hebel Di Tegal Gundil Bogor
 
 ![Harga Batako Putih Gratis Ongkir Ke Tegal Gundil Bogor](/images/bata/bata-hebel-sni-11.png)
 
@@ -62,7 +62,7 @@ Semua tentunya sudah tahu kegunaan utama batu bata mulai dipakai untuk membikin 
 
 Sistem mengorder batu bata yang aman dan terpercaya:
 
-1.  Kerja pembayaran dapat anda lakukan secara COD atau dibayar di tempat saat barang pesanan anda telah datang di daerah
+1.  Kerja pembayaran dapat anda lakukan secara COD atau dibayar di tempat saat barang pesanan anda telah datang di daerah
 2. Silahkan memilih dan mempertimbangkan bahan batu bata yang anda inginkan
 3. Tentukan juga jumlah orderan batu bata yang anda butuhkan dalam format bijian.
 4. Anda bisa menghubungi layanan telepon warung untuk memudahkan proses pemesanan

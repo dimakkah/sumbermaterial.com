@@ -16,7 +16,7 @@ saat ini bahan yg digunakan untuk mengisi dinding rumah, telah terdapat berbagai
 
 ## Mengenal Macam-macam Bata
 
-### 1\. Bata Merah Standar & Jumbo Di Majalaya Karawang
+### 1. Bata Merah Standar & Jumbo Di Majalaya Karawang
 
 ![Harga Batako Truss Gratis Ongkir Ke Majalaya Karawang](/images/bata/bata-merah-oven-01.png)
 
@@ -26,7 +26,7 @@ Bata merah ini dijadikan dari material tanah yg kemudian di bentuk dan dipanaska
 
 Bahan bangunan ini amat tahan kepada panas dan sesuai dibuat proteksi dari bahaya api. Bata merah ini pada biasanya mempunyai ukuran panjang antara 17-23 cm dan lebar sekitar 7-11 cm, serta tebalnya 3-5 cm. memiliki ukuran yang lebih kecil akan memberi kemudahan dalam proses pengangkutan dan dapat dipakai untuk membentuk bidang kecil.
 
-### 2\. Batako Hitam dan Putih Di Majalaya Karawang
+### 2. Batako Hitam dan Putih Di Majalaya Karawang
 
 ![Harga Batako Truss Gratis Ongkir Ke Majalaya Karawang](/images/bata/batako-hitam-press-14.png)
 
@@ -34,7 +34,7 @@ Material bangunan tembok dari batako ini secara lazimnya terbuat dari bahan Komp
 
 Batako trus seperti ini memiliki kekurangan seperti gampang pecah, lebih panas dan pengap. Berbeda dengan bata merah yang terbuat dari bahan tanah. Namun batako ini cenderung lebih ringan daripada bata merah. Akibatnya akan menonjol lebih halus dan ukurannya lebih presisi jika diperbandingkan dengan bata merah. Batako press Hitam ini mempunyai ukuran panjang sekitar 36-40 cm, tinggi 18-20 cm dan tebal 8-10 cm. bahan ini tak jarang dipilih sebab untuk memperingan beban struktur bangunan, meminimalisir sisa material dan mempercepat pembangunan.
 
-### 3\. Bata Ringan Di Majalaya Karawang
+### 3. Bata Ringan Di Majalaya Karawang
 
 ![Harga Batako Truss Gratis Ongkir Ke Majalaya Karawang](/images/bata/bata-hebel-sni-07.png)
 
@@ -62,7 +62,7 @@ Semua tentunya telah tahu kegunaan utama batu bata mulai digunakan untuk membiki
 
 Sistem mengorder batu bata yg aman dan terpercaya:
 
-1.  Progres pembayaran bisa anda lakukan secara COD atau dibayar di tempat ketika barang pesanan anda telah datang di daerah
+1.  Progres pembayaran bisa anda lakukan secara COD atau dibayar di tempat ketika barang pesanan anda telah datang di daerah
 2. Silahkan memilih dan menetapkan bahan batu bata yg anda inginkan
 3. Tentukan juga jumlah orderan batu bata yang anda butuhkan dalam bentuk bijian.
 4. Anda dapat menghubungi layanan telepon kios untuk memudahkan pengerjaan pemesanan

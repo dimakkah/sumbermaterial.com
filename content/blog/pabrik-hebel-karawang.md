@@ -19,20 +19,17 @@ draft: false
 
 ![Pabrik Hebel Karawang: Solusi Cepat & Harga Terbaik untuk Proyek Anda](/images/blog/pabrik-hebel-karawang.jpg)
 
+## Mengapa Memilih Hebel dari Pabrik di Karawang?
 
+Karawang, sebagai pusat industri di Jawa Barat, menjadi lokasi strategis bagi banyak pabrik hebel. Keberadaan pabrik di area ini memiliki beberapa keuntungan signifikan bagi Mitra Sumber Material. Pertama, jarak yang relatif dekat dengan wilayah Jabodetabek akan menekan biaya transportasi. Hal ini tentu berpengaruh pada harga jual yang lebih kompetitif, dan yang paling penting, waktu pengiriman lebih cepat. Kedua, persaingan antar pabrik di Karawang mendorong inovasi dan peningkatan kualitas produk. Artinya, Anda memiliki lebih banyak pilihan dengan standar yang semakin baik.
 
-### Mengapa Memilih Hebel dari Pabrik di Karawang?
-
-Karawang, sebagai pusat industri di Jawa Barat, menjadi lokasi strategis bagi banyak pabrik hebel. Keberadaan pabrik di area ini memiliki beberapa keuntungan signifikan bagi Mitra Sumber Material. Pertama, jarak yang relatif dekat dengan wilayah Jabodetabek akan menekan biaya transportasi. Hal ini tentu berpengaruh pada harga jual yang lebih kompetitif, dan yang paling penting, waktu pengiriman lebih cepat. Kedua, persaingan antar pabrik di Karawang mendorong inovasi dan peningkatan kualitas produk. Artinya, Anda memiliki lebih banyak pilihan dengan standar yang semakin baik. 
-
-Sebagai informasi tambahan, permintaan hebel terus meningkat karena banyak pengembang properti yang beralih dari material tradisional seperti bata merah. Apakah Anda tahu, produksi hebel bisa meminimalkan limbah konstruksi hingga 50% dibandingkan bata merah? Ini sejalan dengan prinsip pembangunan berkelanjutan yang semakin populer. 
+Sebagai informasi tambahan, permintaan hebel terus meningkat karena banyak pengembang properti yang beralih dari material tradisional seperti bata merah. Apakah Anda tahu, produksi hebel bisa meminimalkan limbah konstruksi hingga 50% dibandingkan bata merah? Ini sejalan dengan prinsip pembangunan berkelanjutan yang semakin populer.
 
 ### Keunggulan Hebel Dibanding Material Konstruksi Lain
 
 Hebel bukan sekadar pengganti bata merah. Material ini punya keunggulan tersendiri yang menjadikannya pilihan cerdas untuk berbagai jenis bangunan. Salah satunya adalah bobotnya yang ringan. Hebel memiliki densitas sekitar 300-700 kg/m³, jauh lebih ringan dibandingkan bata merah (sekitar 1.600 kg/m³). Bobot ringan ini mengurangi beban struktur bangunan, sehingga potensi biaya fondasi juga bisa ditekan.
 
 Selain itu, hebel memiliki sifat isolasi termal dan akustik yang baik. Ini akan membuat ruangan lebih nyaman dan hemat energi karena mengurangi kebutuhan pendingin ruangan atau pemanas. Berikut tabel perbandingan keunggulan hebel dengan material lain:
-
 
 <table class="table">
   <caption>Perbandingan Keunggulan Material Konstruksi</caption>
@@ -47,7 +44,6 @@ Selain itu, hebel memiliki sifat isolasi termal dan akustik yang baik. Ini akan 
     <tr><td>Biaya Pemasangan</td><td>Relatif Cepat</td><td>Lambat</td><td>Cukup Cepat</td></tr>
   </tbody>
 </table>
-
 
 Dengan mempertimbangkan keunggulan tersebut, tidak heran jika semakin banyak proyek perumahan, gedung komersial, bahkan bangunan bertingkat tinggi menggunakan hebel sebagai solusi konstruksi yang efisien dan ramah lingkungan.
 

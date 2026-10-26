@@ -21,19 +21,19 @@ Memasang baja ringan untuk bangunan Anda sebenarnya tidak terlalu rumit, yang pe
 
 Sebelum menghubungi kami, ada beberapa alasan utama mengapa baja ringan menjadi pilihan cerdas untuk bangunan Anda:
 
- **Ramah Lingkungan:** Dengan memilih baja ringan, Anda turut berkontribusi dalam pelestarian alam. Anda tidak perlu menebang pohon untuk mendapatkan kayu, yang berarti Anda membantu menjaga kelestarian hutan.
+- **Ramah Lingkungan:** Dengan memilih baja ringan, Anda turut berkontribusi dalam pelestarian alam. Anda tidak perlu menebang pohon untuk mendapatkan kayu, yang berarti Anda membantu menjaga kelestarian hutan.
 
- **Lebih Ekonomis:** Biaya penggunaan baja ringan umumnya lebih terjangkau dibandingkan kayu berkualitas tinggi. Ini dapat membantu Anda menekan anggaran pembangunan secara keseluruhan.
+- **Lebih Ekonomis:** Biaya penggunaan baja ringan umumnya lebih terjangkau dibandingkan kayu berkualitas tinggi. Ini dapat membantu Anda menekan anggaran pembangunan secara keseluruhan.
 
- **Ringan dan Kuat:** Baja ringan memiliki berat yang lebih ringan dibandingkan baja atau besi biasa (hampir dua kali lipat lebih ringan!), namun tetap kokoh dan tahan lama.
+- **Ringan dan Kuat:** Baja ringan memiliki berat yang lebih ringan dibandingkan baja atau besi biasa (hampir dua kali lipat lebih ringan!), namun tetap kokoh dan tahan lama.
 
- **Perawatan Minimal:** Anda tidak perlu khawatir tentang perawatan rutin yang memakan waktu dan biaya. Baja ringan relatif bebas perawatan dan tahan lama.
+- **Perawatan Minimal:** Anda tidak perlu khawatir tentang perawatan rutin yang memakan waktu dan biaya. Baja ringan relatif bebas perawatan dan tahan lama.
 
- **Pemasangan Cepat:** Proses pemasangan baja ringan jauh lebih cepat dibandingkan material atap tradisional seperti kayu.
+- **Pemasangan Cepat:** Proses pemasangan baja ringan jauh lebih cepat dibandingkan material atap tradisional seperti kayu.
 
- **Kualitas Terjamin:** Baja ringan yang kami gunakan memiliki kualitas premium, terbuat dari zinc dan aluminium bersertifikasi yang 4 kali lebih baik dari baja biasa. Kekuatannya pun luar biasa, mampu menahan beban berkilo-kilo.
+- **Kualitas Terjamin:** Baja ringan yang kami gunakan memiliki kualitas premium, terbuat dari zinc dan aluminium bersertifikasi yang 4 kali lebih baik dari baja biasa. Kekuatannya pun luar biasa, mampu menahan beban berkilo-kilo.
 
- **Tahan Rayap:** Anda tidak perlu khawatir tentang serangan rayap yang dapat merusak struktur atap Anda. Baja ringan 100% aman dari rayap.
+- **Tahan Rayap:** Anda tidak perlu khawatir tentang serangan rayap yang dapat merusak struktur atap Anda. Baja ringan 100% aman dari rayap.
 
 ## Cara Menghitung Luas Rangka Baja Ringan di Duren Sawit Jakarta
 
@@ -59,10 +59,10 @@ Membahas biaya jasa pasang baja ringan, sebenarnya banyak informasi tersedia di 
 
 (Catatan: biaya bisa ditambahkan sendiri) Berikut perkiraan biaya jasa pasang baja ringan berdasarkan jenis pemasangannya:
 
-*   Kanopi untuk rangka baja ringan “Polikarbonat x Lite Rp. 285.000 / m
-*   Kanopi untuk rangka baja ringan “Spandek Rp. 225.000 / m
-*   Kanopi untuk rangka baja ringan “Gogreen Rp. 200.000 /m
-*   Untuk perhitungan lainnya, silakan hubungi kami melalui kontak yang tersedia di situs kami.
+- Kanopi untuk rangka baja ringan “Polikarbonat x Lite Rp. 285.000 / m
+- Kanopi untuk rangka baja ringan “Spandek Rp. 225.000 / m
+- Kanopi untuk rangka baja ringan “Gogreen Rp. 200.000 /m
+- Untuk perhitungan lainnya, silakan hubungi kami melalui kontak yang tersedia di situs kami.
 
 Adapun Parameter Besaran Harga Layanan Pasang Baja Ringan:
 
@@ -82,10 +82,10 @@ Setelah pembuatan sketsa dan perhitungan rangka selesai, Anda dapat mendiskusika
 
 Berikut informasi rinci mengenai harga jasa pasang baja ringan yang perlu Anda ketahui untuk membuat keputusan yang tepat:
 
-*   Harga layanan kami sudah termasuk biaya pemasangan yang lebih terjangkau dan banyak memberikan diskon untuk konsumen.
-*   Harga yang kami berikan sudah sesuai dengan layanan pemasangan, perhitungan, dan material yang terpasang.
-*   Kami selalu mengutamakan harga terbaik untuk pelanggan kami.
-*   Harga layanan pasang baja ringan dapat berubah sewaktu-waktu karena faktor material.
-*   Pembayaran dapat dilakukan dengan uang muka (down payment) dan sisanya setelah pemasangan selesai.
+- Harga layanan kami sudah termasuk biaya pemasangan yang lebih terjangkau dan banyak memberikan diskon untuk konsumen.
+- Harga yang kami berikan sudah sesuai dengan layanan pemasangan, perhitungan, dan material yang terpasang.
+- Kami selalu mengutamakan harga terbaik untuk pelanggan kami.
+- Harga layanan pasang baja ringan dapat berubah sewaktu-waktu karena faktor material.
+- Pembayaran dapat dilakukan dengan uang muka (down payment) dan sisanya setelah pemasangan selesai.
 
 Sekian informasi mengenai Harga Pasang Atap Baja Ringan Di Duren Sawit Jakarta. Jangan ragu untuk menghubungi kami untuk konsultasi gratis dan penawaran terbaik! Kami siap membantu mewujudkan atap yang kuat, ringan, dan tahan lama untuk bangunan Anda di Duren Sawit Jakarta.

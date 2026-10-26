@@ -16,7 +16,7 @@ saat ini material yang diaplikasikan untuk mengisi tembok gedung, telah terdapat
 
 ## Mengenal Ragam Variasi Bata
 
-### 1\. Bata Merah Standar & Jumbo Di Cipayung Jakarta
+### 1. Bata Merah Standar & Jumbo Di Cipayung Jakarta
 
 ![Harga Batako Beton Gratis Ongkir Ke Cipayung Jakarta](/images/bata/bata-merah-oven-25.png)
 
@@ -26,7 +26,7 @@ Bata merah ini diciptakan dari material tanah yg kemudian di cetak dan dibakar d
 
 Bahan bangunan ini sungguh-sungguh tahan terhadap panas dan cocok dijadikan proteksi dari bahaya api. Bata merah ini pada umumnya mempunyai ukuran panjang antara 17-23 cm dan lebar sekitar 7-11 cm, serta tebalnya 3-5 cm. mempunyai ukuran yang lebih kecil akan memberi kemudahan dalam proses pengangkutan dan dapat diterapkan untuk membentuk bidang kecil.
 
-### 2\. Batako Hitam dan Putih Di Cipayung Jakarta
+### 2. Batako Hitam dan Putih Di Cipayung Jakarta
 
 ![Harga Batako Beton Gratis Ongkir Ke Cipayung Jakarta](/images/bata/batako-hitam-press-06.png)
 
@@ -34,7 +34,7 @@ Material bangunan dinding dari batako ini secara umum terbuat dari material Aduk
 
 Batako press seperti ini mempunyai kekurangan seperti gampang retak, lebih panas dan pengap. Berbeda dg bata merah yg terbuat dari bahan tanah. Tetapi batako trus ini cenderung lebih ringan ketimbang bata merah. Alhasil akan tampak lebih halus dan ukurannya lebih presisi jika dibandingkan dengan bata merah. Batako press Hitam ini memiliki ukuran panjang sekitar 36-40 cm, tinggi 18-20 cm dan tebal 8-10 cm. material ini tak jarang dipilih sebab untuk memperingan bobot struktur bangunan, meminimalisir sisa bahan dan mempermudah pembangunan.
 
-### 3\. Bata Ringan Di Cipayung Jakarta
+### 3. Bata Ringan Di Cipayung Jakarta
 
 ![Harga Batako Beton Gratis Ongkir Ke Cipayung Jakarta](/images/bata/bata-hebel-sni-02.png)
 
@@ -62,7 +62,7 @@ Semua tentunya telah tahu fungsi utama batu bata mulai diaplikasikan untuk membu
 
 Cara memesan batu bata yg aman dan terpercaya:
 
-1.  Progres pembayaran bisa anda lakukan secara COD atau dibayar di daerah saat barang orderan anda sudah datang di tempat
+1.  Progres pembayaran bisa anda lakukan secara COD atau dibayar di daerah saat barang orderan anda sudah datang di tempat
 2. Silahkan memilih dan menetapkan bahan batu bata yang anda inginkan
 3. Tentukan juga jumlah orderan batu bata yg anda butuhkan dalam bentuk bijian.
 4. Anda bisa menghubungi layanan telepon kios untuk memudahkan pelaksanaan pengorderan

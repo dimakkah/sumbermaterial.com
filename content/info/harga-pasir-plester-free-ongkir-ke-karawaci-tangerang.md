@@ -25,7 +25,7 @@ menurut Standar Nasional Indonesia ( SK SNI - S - 04 - 1989 - F ; 28) di tuturka
 
 Persyaratan Pasir yang Baik tuk Konstruksi
 
-1.  Agregat Halus harus terdiri dari butiran yang tajam dan keras dengan indeks kekerasan <2.2
+1.  Agregat Halus harus terdiri dari butiran yang tajam dan keras dengan indeks kekerasan <2.2
 2. bilamana diterapkan Natrium Sulfat bagian hancur optimal dua belas persen
 3. bila diaplikasikan Magnesium Sulfat komponen halus maksimal sepuluh %
 4. Tidak boleh mengandung clay lebih dari 5%
@@ -41,7 +41,6 @@ Persyaratan Pasir yang Baik tuk Konstruksi
 Sesudah tahu persis syarat pasir buat sebuah Konstruksi Bangunan, saat ini kita bahas Ragam - Ragam Pasir Untuk Konstruksi Bangunan penjelasan nya sbb:
 
 - ### Pasir Tipe Cor dan Tempat Sumbernya Di Karawaci Tangerang
-    
 
 Pasir ini biasa nya berwarna hitam kemerahan dan tingkat kekasaran butiran nya cukup tinggi. Melainkan apabila anda mengepal nya dengan tangan tak akan lengket dan akan buyar kembali. jenis pasir ini benar-benar lah baik tuk Pengecoran, Plesteran Dinding, Adukan Pondasi dan Adukan Pasangan Bata Pasir ini yaitu pasir untuk Rigid adalah butiran-butiran mineral keras dan tajam berukuran antara 0,075 – 5 mm, jikalau terdapat butiran berukuran lebih kecil dari 0,063 mm tidak lebih dari 5% berat. Pasir ini yaitu pasir untuk Beton hampir sering dimanfaatkan untuk pekerjaan cor-coran struktur seperti kolom, balok dan pelat lantai.
 
@@ -59,21 +58,18 @@ Untuk mendapatkan kualitas Rigid yang optimal maka pasir seharusnya bisa memenuh
 ![Harga Pasir Plester Free Ongkir Ke Karawaci Tangerang](/images/info/jual-pasir-cor-hitam.jpg)
 
 - ### Pasir Standar Di Karawaci Tangerang
-    
 
 ![Harga Pasir Plester Free Ongkir Ke Karawaci Tangerang](/images/info/pasir-putih12.jpg)
 
 Pasir ini ekstra halus lagi diperbandingkan oleh pasir beton. bila kamu mengepal pasir ini maka akan menggumpal dan tidak akan buyar kembali. pasir pasang lazim nya di manfaatkan buat campuran pasir beton supaya tak kelewat kasar dan dapat di gunakan untuk plesteran dinding.
 
 - ### Pasir Kualitas rendah Untuk Pembuatan Batako Di Karawaci Tangerang
-    
 
 Di Antara ke dua pasir diatas pasir tipe ini lebih halus lagi, apabila kalian mengepal nya akan menggumpal dan tak akan hancur lagi. tetapi pasir ragam tak baik untuk di buat sebagai bahan bangunan. pasir macam ini pada umum nya di pakai tuk Bahan Pembuatan Batako
 
 Pada nya pasir ini nyaris sama dengan pasir beton namun pasir ini memiliki tingkat kekasaran yang tinggi, butiran - butiran nya lumayan besar dan agak banyak batuan nya. pada biasanya pasir ragam ini bagus untuk bahan pemadatan lantai
 
 - ### Pasir Putih Halus Untuk Pelester Di Karawaci Tangerang
-    
 
 1. **Pasir Putih Bangka**
 

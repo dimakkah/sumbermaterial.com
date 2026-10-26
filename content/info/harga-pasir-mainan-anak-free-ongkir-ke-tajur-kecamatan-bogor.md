@@ -25,7 +25,7 @@ berdasarkan Standar Nasional Indonesia ( SK SNI - S - 04 - 1989 - F ; 28) di tut
 
 Persyaratan Pasir yg Bagus tuk Bangunan
 
-1.  Agregat Halus wajib terdiri dari butiran yg tajam dan keras dengan indeks kekerasan <2.2
+1.  Agregat Halus wajib terdiri dari butiran yg tajam dan keras dengan indeks kekerasan <2.2
 2. bilamana dipakai Natrium Sulfat komponen hancur maksimal 12 persen
 3. sekiranya diaplikasikan Magnesium Sulfat komponen halus maksimal sepuluh persen
 4. Tidak boleh mengandung clay lebih dari lima persen
@@ -41,7 +41,6 @@ Persyaratan Pasir yg Bagus tuk Bangunan
 sesudah memahami prasyarat pasir untuk suatu Bangunan, pada saat ini kita bahas Jenis - Jenis Pasir Untuk Konstruksi Bangunan penjelasan nya sbb:
 
 - ### Pasir Tipe Beton dan Daerah Penambangannya Di Tajur Kecamatan Bogor
-    
 
 Pasir ini lazim nya berwarna hitam gelap dan tingkat kekasaran butiran nya lumayan tinggi. Namun seandainya anda mengepal nya dengan tangan tak akan menggumpal dan akan hancur kembali. tipe pasir ini sangat lah baik tuk Pengecoran, Plesteran Dinding, Adukan Pondasi dan Adukan Pasangan Bata Pasir ini yaitu pasir untuk Cor merupakan butiran-butiran mineral keras dan tajam berukuran antara 0,075 – 5 mm, apabila terdapat butiran berukuran lebih kecil dari 0,063 mm tak lebih dari 5% berat. Pasir ini yaitu pasir untuk Beton hampir kerap diterapkan untuk pekerjaan cor-coran struktur seperti kolom, balok dan pelat lantai.
 
@@ -59,21 +58,18 @@ Untuk menerima kekuatan Cor yang maksimal maka pasir sepatutnya mampu memenuhi s
 ![Harga Pasir Mainan Anak Free Ongkir Ke Tajur Kecamatan Bogor](/images/info/pasir-hitam-8.jpg)
 
 - ### Pasir Standar Di Tajur Kecamatan Bogor
-    
 
 ![Harga Pasir Mainan Anak Free Ongkir Ke Tajur Kecamatan Bogor](/images/info/pasir-putih12.jpg)
 
 Pasir ini ekstra halus lagi diperbandingkan oleh pasir beton. seandainya anda mengepal pasir ini maka akan menggumpal dan tidak akan buyar kembali. pasir pasang umum nya di pakai tuk campuran pasir beton supaya tidak terlalu kasar dan bisa di manfaatkan untuk plesteran dinding.
 
 - ### Pasir Elod Untuk Pembuatan Batako Di Tajur Kecamatan Bogor
-    
 
 Di Antara ke dua pasir diatas pasir macam ini lebih halus lagi, jikalau anda mengepal nya karenanya akan menggumpal dan tak akan hancur lagi. tetapi pasir ragam tidak bagus untuk di buat sebagai bahan bangunan. pasir ragam ini pada umum nya di pergunakan tuk Bahan Pembuatan Batako
 
 Pada lazim nya pasir ini nyaris sama dengan pasir beton melainkan pasir ini memiliki tingkat kekasaran yang tinggi, butiran - butiran nya cukup besar dan agak banyak batuan nya. pada lazimnya pasir model ini bagus tuk bahan pemadatan lantai
 
 - ### Pasir Putih Kadar Lumpur Rendah Untuk Pengecoran Di Tajur Kecamatan Bogor
-    
 
 1. **Pasir Putih Bangka**
 

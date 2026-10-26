@@ -21,13 +21,13 @@ Membangun atau mengganti atap dengan baja ringan di Pondok Pinang Jakarta kini s
 
 Berikut ini beberapa alasan penting yang perlu Anda ketahui sebelum menghubungi kami, mengapa baja ringan menjadi pilihan yang tepat untuk kerangka atap dan kanopi Anda di Pondok Pinang Jakarta.
 
-*   **Ramah Lingkungan:** Baja ringan lebih ramah lingkungan karena tidak memerlukan penebangan pohon, berbeda dengan penggunaan kayu. Dengan memilih baja ringan, Anda turut berkontribusi dalam melestarikan alam.
-*   **Lebih Ekonomis:** Dibandingkan kerangka kayu, biaya penggunaan baja ringan cenderung lebih hemat. Pengadaan kayu berkualitas tinggi membutuhkan biaya yang signifikan, terutama untuk bagian kerangka yang krusial bagi bangunan Anda.
-*   **Ringan dan Kuat:** Baja ringan berbeda dengan baja atau besi biasa yang lebih berat. Baja ringan memiliki ketebalan tipis dan ringan, namun tetap kuat sebagai kerangka atap dan kanopi rumah Anda.
-*   **Perawatan Minimal:** Anda tidak perlu khawatir tentang perawatan rutin yang memakan waktu dan biaya. Baja ringan minim perawatan, sehingga membebaskan Anda dari pengeluaran tambahan.
-*   **Pemasangan Cepat:** Proses pemasangan baja ringan lebih cepat dibandingkan kerangka atap kayu atau material lainnya. Ini menghemat waktu dan tenaga Anda.
-*   **Bahan Berkualitas:** Baja ringan yang kami gunakan bukanlah sembarangan. Bahan utamanya adalah zinc dan aluminium yang telah bersertifikasi dan memiliki standar keamanan 4 kali lebih baik dibandingkan baja umum. Kekuatannya pun mumpuni untuk menopang beban berat.
-*   **Tahan Rayap:** Baja ringan dijamin tahan terhadap serangan rayap, memberikan perlindungan ekstra pada bangunan Anda.
+- **Ramah Lingkungan:** Baja ringan lebih ramah lingkungan karena tidak memerlukan penebangan pohon, berbeda dengan penggunaan kayu. Dengan memilih baja ringan, Anda turut berkontribusi dalam melestarikan alam.
+- **Lebih Ekonomis:** Dibandingkan kerangka kayu, biaya penggunaan baja ringan cenderung lebih hemat. Pengadaan kayu berkualitas tinggi membutuhkan biaya yang signifikan, terutama untuk bagian kerangka yang krusial bagi bangunan Anda.
+- **Ringan dan Kuat:** Baja ringan berbeda dengan baja atau besi biasa yang lebih berat. Baja ringan memiliki ketebalan tipis dan ringan, namun tetap kuat sebagai kerangka atap dan kanopi rumah Anda.
+- **Perawatan Minimal:** Anda tidak perlu khawatir tentang perawatan rutin yang memakan waktu dan biaya. Baja ringan minim perawatan, sehingga membebaskan Anda dari pengeluaran tambahan.
+- **Pemasangan Cepat:** Proses pemasangan baja ringan lebih cepat dibandingkan kerangka atap kayu atau material lainnya. Ini menghemat waktu dan tenaga Anda.
+- **Bahan Berkualitas:** Baja ringan yang kami gunakan bukanlah sembarangan. Bahan utamanya adalah zinc dan aluminium yang telah bersertifikasi dan memiliki standar keamanan 4 kali lebih baik dibandingkan baja umum. Kekuatannya pun mumpuni untuk menopang beban berat.
+- **Tahan Rayap:** Baja ringan dijamin tahan terhadap serangan rayap, memberikan perlindungan ekstra pada bangunan Anda.
 
 ## Cara Menghitung Luas Rangka Baja Ringan Di Pondok Pinang Jakarta
 
@@ -53,10 +53,10 @@ Membahas harga jasa pasang baja ringan, sebenarnya banyak informasi di internet 
 
 (Catatan: biaya bisa ditambahkan sendiri) Berikut beberapa perhitungan biaya jasa pasang baja ringan berdasarkan jenis pemasangannya, baik kanopi maupun kerangka atap:
 
-*   Kanopi dengan rangka baja ringan “Polikarbonat x Lite Rp. 285.000 / m
-*   Kanopi dengan rangka baja ringan “Spandek Rp. 225.000 / m
-*   Kanopi dengan rangka baja ringan “Gogreen Rp. 200.000 /m
-*   Untuk perhitungan lainnya, silakan hubungi kami melalui kontak yang tersedia di situs web kami.
+- Kanopi dengan rangka baja ringan “Polikarbonat x Lite Rp. 285.000 / m
+- Kanopi dengan rangka baja ringan “Spandek Rp. 225.000 / m
+- Kanopi dengan rangka baja ringan “Gogreen Rp. 200.000 /m
+- Untuk perhitungan lainnya, silakan hubungi kami melalui kontak yang tersedia di situs web kami.
 
 Adapun Parameter Besaran Biaya Jasa Pasang Baja Ringan
 
@@ -76,10 +76,10 @@ Setelah pembuatan sketsa dan perhitungan rangka selesai, Anda dapat mendiskusika
 
 Berikut informasi detail biaya jasa pasang baja ringan yang perlu Anda ketahui. Ini penting untuk Anda pahami dalam menentukan besaran budget yang dibutuhkan:
 
-*   Harga layanan kami sudah termasuk biaya pemasangan yang terjangkau dan memberikan banyak diskon untuk konsumen.
-*   Harga yang kami tawarkan sudah sesuai dengan jasa pemasangan, perhitungan, dan material yang terpasang.
-*   Harga terbaik selalu kami utamakan saat bertemu dengan Anda.
-*   Biaya jasa pasang baja ringan dapat berubah sewaktu-waktu karena fluktuasi harga material.
-*   Pembayaran dapat dilakukan dengan uang muka dan sisanya setelah pemasangan selesai.
+- Harga layanan kami sudah termasuk biaya pemasangan yang terjangkau dan memberikan banyak diskon untuk konsumen.
+- Harga yang kami tawarkan sudah sesuai dengan jasa pemasangan, perhitungan, dan material yang terpasang.
+- Harga terbaik selalu kami utamakan saat bertemu dengan Anda.
+- Biaya jasa pasang baja ringan dapat berubah sewaktu-waktu karena fluktuasi harga material.
+- Pembayaran dapat dilakukan dengan uang muka dan sisanya setelah pemasangan selesai.
 
 Anda dapat mempercayakan hal ini kepada kami. Kami, sebagai Harga Pasang Atap Baja Ringan Di Pondok Pinang Jakarta, siap membantu Anda dalam menentukan ukuran, kualitas, dan pemasangan yang benar-benar sesuai dengan kebutuhan Anda tanpa ada pemborosan. Terima kasih.

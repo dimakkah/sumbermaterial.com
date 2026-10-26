@@ -44,13 +44,13 @@ Secara lazim pembuatan Kusen Pintu/Jendela Almunium ini banyak dicari orang utk 
 
 Alasan Anda Memilih Layanan Pembikinan Kusen Almunium dari Kami.
 
-1\. Kami menjalankan orderan sesuai dg tanggal yg disepakati sehingga anda sebagai pelanggan juga mendapatkan hasil yang layak dg estimasi.
+1. Kami menjalankan orderan sesuai dg tanggal yg disepakati sehingga anda sebagai pelanggan juga mendapatkan hasil yang layak dg estimasi.
 
-2\. Kami juga melayani banyak pekerjaan lain seperti pembuatan kerangka atas, wood parisi, instalisasi listrik dan masih banyak lagi Jasa lain yg kami miliki.
+2. Kami juga melayani banyak pekerjaan lain seperti pembuatan kerangka atas, wood parisi, instalisasi listrik dan masih banyak lagi Jasa lain yg kami miliki.
 
-3\. Pembayaran menjadi solusi untuk anda, kami memberikan pembayaran dengan metode DP sehingga anda tak perlu ragu denga Layanan yg kami tawarkan.
+3. Pembayaran menjadi solusi untuk anda, kami memberikan pembayaran dengan metode DP sehingga anda tak perlu ragu denga Layanan yg kami tawarkan.
 
-4\. Tim kami akan datang ke tempat anda utk melihat dan menilai ukuran Kusen Pintu/Jendela Alumunium yg anda pesan.
+4. Tim kami akan datang ke tempat anda utk melihat dan menilai ukuran Kusen Pintu/Jendela Alumunium yg anda pesan.
 
 ## Variasi dan Merk Alumium Yang kami Sediakan Di Gunung Sahari Jakarta
 

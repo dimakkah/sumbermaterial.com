@@ -17,8 +17,7 @@ draft: false
 
 {{< toc >}}
 
-
-### Apa Itu Pasir Jalupang dan Mengapa Penting?
+## Apa Itu Pasir Jalupang dan Mengapa Penting?
 
 Mitra Sumber Material, pasir jalupang adalah jenis pasir yang berasal dari penguraian batuan vulkanik. Ciri khasnya adalah teksturnya yang kasar, sudut-sudutnya yang tajam, dan memiliki kandungan silika yang tinggi. Pasir jenis ini ideal untuk campuran beton karena memberikan kekuatan dan daya tahan yang lebih baik dibandingkan jenis pasir lainnya. Penggunaan pasir jalupang pada konstruksi pondasi, kolom, dan balok akan menghasilkan struktur yang lebih solid dan mampu menahan beban lebih besar.
 
@@ -32,17 +31,16 @@ Sebagai gambaran, harga pasir jalupang 1 truk di wilayah Jabodetabek pada tahun 
 
 Anda pasti ingin mendapatkan pasir jalupang berkualitas dengan harga terbaik, kan? Nah, pemilihan pemasok yang terpercaya adalah kunci utama. Berikut beberapa tips yang bisa Anda terapkan:
 
-*   **Periksa reputasi pemasok**: Cari tahu apakah pemasok tersebut memiliki pengalaman yang baik dan reputasi positif di kalangan kontraktor atau developer.
-*   **Minta sampel pasir**: Sebelum memesan dalam jumlah besar, mintalah sampel pasir untuk diuji kualitasnya. Pastikan pasir tersebut memenuhi standar SNI yang berlaku.
-*   **Bandingkan harga dari beberapa pemasok**: Jangan terpaku pada satu pemasok saja. Bandingkan harga dari beberapa pemasok untuk mendapatkan penawaran terbaik.
-*   **Pastikan pemasok memiliki izin usaha yang jelas**: Ini penting untuk menghindari masalah hukum di kemudian hari.
+- **Periksa reputasi pemasok**: Cari tahu apakah pemasok tersebut memiliki pengalaman yang baik dan reputasi positif di kalangan kontraktor atau developer.
+- **Minta sampel pasir**: Sebelum memesan dalam jumlah besar, mintalah sampel pasir untuk diuji kualitasnya. Pastikan pasir tersebut memenuhi standar SNI yang berlaku.
+- **Bandingkan harga dari beberapa pemasok**: Jangan terpaku pada satu pemasok saja. Bandingkan harga dari beberapa pemasok untuk mendapatkan penawaran terbaik.
+- **Pastikan pemasok memiliki izin usaha yang jelas**: Ini penting untuk menghindari masalah hukum di kemudian hari.
 
 ![Truk pengangkut pasir jalupang](/images/blog/pasir-jalupang-dari-mana.jpg)
 
 ### Perbandingan Pasir Jalupang dengan Jenis Pasir Lain
 
 Untuk membantu Anda memahami keunggulan pasir jalupang, berikut tabel perbandingan dengan jenis pasir lainnya:
-
 
 <table class="table">
   <caption>Perbandingan Jenis Pasir</caption>
@@ -55,7 +53,6 @@ Untuk membantu Anda memahami keunggulan pasir jalupang, berikut tabel perbanding
     <tr><td>Pasir Urug</td><td>Kasat, campuran</td><td>Rendah</td><td>Rp 30.000 - Rp 50.000</td><td>Urugan, perataan tanah</td></tr>
   </tbody>
 </table>
-
 
 Dari tabel di atas, Anda bisa melihat bahwa pasir jalupang unggul dalam hal kekuatan dan cocok untuk aplikasi konstruksi yang membutuhkan daya tahan tinggi.
 

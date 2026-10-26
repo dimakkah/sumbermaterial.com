@@ -21,13 +21,13 @@ Pemasangan baja ringan untuk bangunan Anda bisa terasa mudah, tanpa perlu repot 
 
 Berikut adalah beberapa alasan utama yang perlu Anda ketahui sebelum menghubungi kami: Mengapa Anda harus memilih baja ringan sebagai kerangka atap dan *canopy* untuk bangunan Anda di Grogol Jakarta?
 
- **Ramah Lingkungan:** Baja ringan lebih ramah lingkungan karena tidak memerlukan kayu, sehingga membantu melestarikan hutan dan mengurangi penebangan pohon.
- **Ekonomis:** Dibandingkan dengan kerangka kayu, baja ringan umumnya lebih ekonomis, terutama untuk mendapatkan material berkualitas tinggi. Ini membantu menekan biaya pembangunan secara keseluruhan.
- **Ringan dan Kuat:** Baja ringan berbeda dengan baja atau besi konvensional yang berat. Baja ringan memiliki ketebalan yang tipis namun tetap sangat kuat untuk kerangka atap dan *canopy* rumah Anda.
- **Perawatan Minimal:** Anda tidak perlu khawatir tentang kerusakan atau perawatan rutin yang mahal. Baja ringan dirancang tahan lama dan bebas perawatan tahunan.
- **Pemasangan Cepat:** Proses pemasangan baja ringan jauh lebih cepat dibandingkan kerangka atap kayu atau material lain, menghemat waktu dan tenaga Anda.
- **Kualitas Terjamin:** Baja ringan yang kami gunakan adalah material berkualitas tinggi dengan lapisan zinc dan aluminium yang memberikan perlindungan 4 kali lebih baik dibandingkan baja biasa. Daya tahannya pun teruji, mampu menopang beban berat.
- **Tahan Rayap:** Kerangka atap dan *canopy* dari baja ringan dijamin tahan terhadap serangan rayap, sehingga Anda tidak perlu khawatir tentang kerusakan akibat hama.
+- **Ramah Lingkungan:** Baja ringan lebih ramah lingkungan karena tidak memerlukan kayu, sehingga membantu melestarikan hutan dan mengurangi penebangan pohon.
+- **Ekonomis:** Dibandingkan dengan kerangka kayu, baja ringan umumnya lebih ekonomis, terutama untuk mendapatkan material berkualitas tinggi. Ini membantu menekan biaya pembangunan secara keseluruhan.
+- **Ringan dan Kuat:** Baja ringan berbeda dengan baja atau besi konvensional yang berat. Baja ringan memiliki ketebalan yang tipis namun tetap sangat kuat untuk kerangka atap dan *canopy* rumah Anda.
+- **Perawatan Minimal:** Anda tidak perlu khawatir tentang kerusakan atau perawatan rutin yang mahal. Baja ringan dirancang tahan lama dan bebas perawatan tahunan.
+- **Pemasangan Cepat:** Proses pemasangan baja ringan jauh lebih cepat dibandingkan kerangka atap kayu atau material lain, menghemat waktu dan tenaga Anda.
+- **Kualitas Terjamin:** Baja ringan yang kami gunakan adalah material berkualitas tinggi dengan lapisan zinc dan aluminium yang memberikan perlindungan 4 kali lebih baik dibandingkan baja biasa. Daya tahannya pun teruji, mampu menopang beban berat.
+- **Tahan Rayap:** Kerangka atap dan *canopy* dari baja ringan dijamin tahan terhadap serangan rayap, sehingga Anda tidak perlu khawatir tentang kerusakan akibat hama.
 
 ## Metode Hitung Luas Rangka Baja Ringan Di Grogol Jakarta
 

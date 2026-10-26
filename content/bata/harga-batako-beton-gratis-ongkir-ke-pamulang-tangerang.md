@@ -16,7 +16,7 @@ saat ini bahan yg digunakan untuk mengisi tembok tempat tinggal, telah terdapat 
 
 ## Mengetahui Macam-macam Bata
 
-### 1\. Bata Merah Standar & Jumbo Di Pamulang Tangerang
+### 1. Bata Merah Standar & Jumbo Di Pamulang Tangerang
 
 ![Harga Batako Beton Gratis Ongkir Ke Pamulang Tangerang](/images/bata/bata-merah-oven-18.png)
 
@@ -26,7 +26,7 @@ Bata merah ini dihasilkan dari bahan tanah yg kemudian di bentuk dan dipanaskan 
 
 Material bangunan ini amat kuat terhadap panas dan cocok dijadikan perlindungan dari panas api. Bata merah ini pada lazimnya memiliki ukuran panjang antara 17-23 cm dan lebar sekitar 7-11 cm, serta tebalnya 3-5 cm. mempunyai ukuran yg lebih kecil akan memberi kemudahan dalam pengerjaan pengangkutan dan dapat diaplikasikan untuk membentuk bidang kecil.
 
-### 2\. Batako Hitam dan Putih Di Pamulang Tangerang
+### 2. Batako Hitam dan Putih Di Pamulang Tangerang
 
 ![Harga Batako Beton Gratis Ongkir Ke Pamulang Tangerang](/images/bata/batako-hitam-press-03.png)
 
@@ -34,7 +34,7 @@ Bahan bangunan dinding dari batako press ini secara umum terbuat dari material c
 
 Batako trus seperti ini memiliki kelemahan seperti mudah pecah, lebih panas dan pengap. Berbeda dengan bata merah yang terbuat dari material tanah. Tetapi batako trus ini cenderung lebih ringan daripada bata merah. Walhasil akan menonjol lebih halus dan ukurannya lebih presisi jikalau dibandingi dengan bata merah. Batako trus Hitam ini mempunyai ukuran panjang sekitar 36-40 cm, tinggi 18-20 cm dan tebal 8-10 cm. material ini sering dipilih karena untuk memperingan bobot struktur bangunan, meminimalisir sisa material dan mempermudah pembangunan.
 
-### 3\. Bata Hebel Di Pamulang Tangerang
+### 3. Bata Hebel Di Pamulang Tangerang
 
 ![Harga Batako Beton Gratis Ongkir Ke Pamulang Tangerang](/images/bata/bata-hebel-sni-01.png)
 
@@ -62,7 +62,7 @@ Seluruhnya tentu sudah tahu fungsi utama batu bata mulai diaplikasikan untuk mem
 
 Cara mengorder batu bata yang aman dan terpercaya:
 
-1.  Cara pembayaran bisa anda lakukan secara COD atau dibayar di tempat dikala barang pesanan anda telah datang di daerah
+1.  Cara pembayaran bisa anda lakukan secara COD atau dibayar di tempat dikala barang pesanan anda telah datang di daerah
 2. Silahkan memilih dan menetapkan material batu bata yang anda inginkan
 3. Tentukan juga jumlah pesanan batu bata yg anda butuhkan dalam bentuk bijian.
 4. Anda bisa menghubungi layanan telepon toko untuk memudahkan progres pemesanan

@@ -16,7 +16,7 @@ dikala ini material yg digunakan untuk mengisi tembok tempat tinggal, sudah terd
 
 ## Mengenal Ragam Variasi Bata
 
-### 1\. Bata Merah Standar & Jumbo Di Cisoka Tangerang
+### 1. Bata Merah Standar & Jumbo Di Cisoka Tangerang
 
 ![Harga Batako Putih Gratis Ongkir Ke Cisoka Tangerang](/images/bata/bata-merah-oven-22.png)
 
@@ -26,7 +26,7 @@ Bata merah ini dijadikan dari bahan tanah yang kemudian di bentuk dan dioven den
 
 Bahan bangunan ini amat tahan kepada panas dan pantas dibuat pengamanan dari panas api. Bata merah ini pada umumnya memiliki ukuran panjang antara 17-23 cm dan lebar sekitar 7-11 cm, serta tebalnya 3-5 cm. mempunyai ukuran yg lebih kecil akan memberi kemudahan dalam proses pengangkutan dan bisa diterapkan untuk membentuk bidang kecil.
 
-### 2\. Batako Hitam dan Putih Di Cisoka Tangerang
+### 2. Batako Hitam dan Putih Di Cisoka Tangerang
 
 ![Harga Batako Putih Gratis Ongkir Ke Cisoka Tangerang](/images/bata/batako-hitam-press-09.png)
 
@@ -34,7 +34,7 @@ Material bangunan dinding dari batako press ini secara umum terbuat dari bahan c
 
 Batako seperti ini mempunyai kelemahan seperti gampang pecah, lebih panas dan pengap. Berbeda dengan bata merah yang terbuat dari material tanah. Tetapi batako press ini cenderung lebih ringan ketimbang bata merah. Akibatnya akan tampak lebih halus dan ukurannya lebih presisi bila dibandingkan dengan bata merah. Batako press Hitam ini mempunyai ukuran panjang sekitar 36-40 cm, tinggi 18-20 cm dan tebal 8-10 cm. bahan ini acap kali dipilih sebab untuk memperingan bobot struktur bangunan, meminimalisir sisa material dan mempermudah pembangunan.
 
-### 3\. Bata Hebel Di Cisoka Tangerang
+### 3. Bata Hebel Di Cisoka Tangerang
 
 ![Harga Batako Putih Gratis Ongkir Ke Cisoka Tangerang](/images/bata/bata-hebel-sni-10.png)
 
@@ -62,7 +62,7 @@ Semua tentunya sudah tahu kegunaan utama batu bata mulai diaplikasikan untuk mem
 
 Cara mengorder batu bata yang aman dan terpercaya:
 
-1.  Proses pembayaran dapat anda lakukan secara COD atau dibayar di tempat ketika barang orderan anda sudah datang di tempat
+1.  Proses pembayaran dapat anda lakukan secara COD atau dibayar di tempat ketika barang orderan anda sudah datang di tempat
 2. Silahkan memilih dan mempertimbangkan material batu bata yang anda inginkan
 3. Tentukan juga jumlah orderan batu bata yg anda butuhkan dalam bentuk bijian.
 4. Anda bisa menghubungi layanan telepon warung untuk mempermudah pelaksanaan pemesanan

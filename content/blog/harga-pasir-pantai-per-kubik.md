@@ -18,8 +18,7 @@ draft: false
 
 {{< toc >}}
 
-
-### Apa Itu Pasir Pantai dan Mengapa Digunakan?
+## Apa Itu Pasir Pantai dan Mengapa Digunakan?
 
 Pasir pantai adalah jenis pasir yang berasal dari erosi batuan dan material organik yang terbawa arus laut dan terdeposit di sepanjang pantai. Uniknya, pasir ini tidak hanya digunakan untuk konstruksi, tetapi juga untuk berbagai keperluan lain. Mitra Sumber Material tentu sudah tahu kalau pasir pantai sering digunakan untuk proyek konstruksi seperti pembuatan plesteran, campuran beton, bahkan sebagai media tanam. Tapi tahukah Anda, pasir pantai juga populer untuk keperluan estetika seperti pembuatan taman, lapangan voli pantai, atau bahkan sebagai material dekoratif?
 
@@ -39,7 +38,6 @@ Lalu, berapa sebenarnya harga pasir pantai per kubik saat ini? Untuk memberikan 
 
 Berikut adalah tabel estimasi harga pasir pantai per kubik (harga bersifat estimasi dan dapat berubah sewaktu-waktu — hubungi Kami untuk penawaran terbaru dan paling akurat sesuai kebutuhan proyek Mitra):
 
-
 <table class="table">
   <caption>Estimasi Harga Pasir Pantai Per Kubik</caption>
   <thead>
@@ -53,7 +51,6 @@ Berikut adalah tabel estimasi harga pasir pantai per kubik (harga bersifat estim
     <tr><td>Karawang - Purwakarta</td><td>Baik</td><td>170.000 - 220.000</td></tr>
   </tbody>
 </table>
-
 
 Perlu diingat, harga di atas hanyalah estimasi. Harga sebenarnya dapat bervariasi tergantung pada supplier, volume pemesanan, dan kondisi pasar saat itu.
 

@@ -18,7 +18,6 @@ draft: false
 
 {{< toc >}}
 
-
 ## Mengapa Pasir Jebrod Jadi Pilihan Utama?
 
 Pasir jebrod adalah jenis pasir yang banyak digunakan dalam berbagai proyek konstruksi, mulai dari pembangunan rumah, jalan, hingga infrastruktur lainnya. Kenapa begitu populer? Nah, pasir ini memiliki karakteristik unik yang membuatnya unggul dibandingkan jenis pasir lainnya. Teksturnya yang kasar dan bergradasi baik memberikan daya rekat yang kuat saat dicampur dengan semen, sehingga ideal untuk campuran beton. Selain itu, pasir jebrod juga dikenal lebih bersih dari kandungan lumpur dan kotoran organik, yang bisa mempengaruhi kualitas beton.
@@ -35,7 +34,6 @@ Harga ini bersifat estimasi dan dapat berubah sewaktu-waktu — hubungi Kami unt
 
 Untuk lebih jelasnya, berikut tabel perbandingan perkiraan harga berdasarkan volume pemesanan:
 
-
 <table class="table">
   <caption>Perkiraan Harga Pasir Jebrod 1 Truk</caption>
   <thead>
@@ -48,14 +46,13 @@ Untuk lebih jelasnya, berikut tabel perbandingan perkiraan harga berdasarkan vol
   </tbody>
 </table>
 
-
 ## Tips Memilih Pasir Jebrod Berkualitas & Penyedia Terpercaya
 
 Anda pasti tidak ingin kualitas bangunan Anda kompromi karena pasir yang kurang baik, kan? Berikut beberapa tips memilih pasir jebrod berkualitas:
 
-*   **Perhatikan Warna dan Tekstur:** Pasir jebrod yang baik umumnya berwarna merah kecoklatan atau putih (tergantung jenisnya) dan memiliki tekstur kasar serta bergradasi baik. Hindari pasir yang terlalu halus atau mengandung banyak lumpur.
-*   **Lakukan Uji Sederhana:** Ambil sedikit sampel pasir dan gosokkan di antara jari Anda. Jika terasa kasar dan butirannya jelas, itu pertanda baik. Anda juga bisa mencampurkan sedikit pasir dengan air. Jika airnya cepat jernih, berarti pasir tersebut relatif bersih dari kotoran.
-*   **Pilih Penyedia Terpercaya:** Bekerja sama dengan penyedia material konstruksi yang reputasinya sudah terjamin akan memberikan Anda jaminan kualitas dan harga yang kompetitif. Kami di Sumber Material selalu memastikan kualitas pasir yang kami jual memenuhi standar SNI.
+- **Perhatikan Warna dan Tekstur:** Pasir jebrod yang baik umumnya berwarna merah kecoklatan atau putih (tergantung jenisnya) dan memiliki tekstur kasar serta bergradasi baik. Hindari pasir yang terlalu halus atau mengandung banyak lumpur.
+- **Lakukan Uji Sederhana:** Ambil sedikit sampel pasir dan gosokkan di antara jari Anda. Jika terasa kasar dan butirannya jelas, itu pertanda baik. Anda juga bisa mencampurkan sedikit pasir dengan air. Jika airnya cepat jernih, berarti pasir tersebut relatif bersih dari kotoran.
+- **Pilih Penyedia Terpercaya:** Bekerja sama dengan penyedia material konstruksi yang reputasinya sudah terjamin akan memberikan Anda jaminan kualitas dan harga yang kompetitif. Kami di Sumber Material selalu memastikan kualitas pasir yang kami jual memenuhi standar SNI.
 
 Anda juga bisa mempertimbangkan untuk meminta contoh sampel dari beberapa penyedia sebelum membuat keputusan akhir. Jangan ragu untuk bertanya tentang asal pasir, proses pengolahan, dan sertifikasi yang dimiliki.
 

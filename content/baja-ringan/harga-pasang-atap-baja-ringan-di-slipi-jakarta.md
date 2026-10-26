@@ -21,13 +21,13 @@ Memasang baja ringan untuk bangunan Anda tidak sesulit yang dibayangkan. Anda ha
 
 Yuk, simak beberapa alasan mengapa Anda sebaiknya memilih baja ringan sebagai kerangka atap dan kanopi:
 
- **Ramah Lingkungan:** Baja ringan mengurangi kebutuhan akan kayu, sehingga membantu melestarikan alam. Dengan memilih baja ringan, Anda turut berkontribusi dalam menjaga kelestarian lingkungan.
- **Lebih Ekonomis:** Dibandingkan kerangka kayu, biaya penggunaan baja ringan umumnya lebih rendah. Material kayu berkualitas tinggi tentu membutuhkan investasi yang lebih besar, terutama untuk komponen kerangka yang krusial dalam konstruksi bangunan.
- **Ringan dan Kuat:** Baja ringan memiliki karakteristik ringan namun tetap kuat, berbeda dengan baja atau besi konvensional yang lebih berat. Kekuatan ini ideal untuk menopang atap rumah Anda.
- **Perawatan Minimal:** Anda tidak perlu khawatir dengan perawatan rutin yang rumit. Baja ringan dirancang tahan lama dan tidak memerlukan perawatan tahunan yang merepotkan.
- **Pemasangan Cepat:** Proses pemasangan baja ringan jauh lebih cepat dibandingkan kerangka atap berbahan kayu atau material lainnya. Ini menghemat waktu dan biaya proyek Anda.
- **Kualitas Terjamin:** Baja ringan yang kami gunakan bersertifikasi dan memiliki standar keamanan 4 kali lebih baik dibandingkan baja biasa. Kekuatannya mampu menopang beban berkilo-kilo.
- **Tahan Rayap:** Pastikan Anda memilih material yang tahan terhadap serangan rayap, dan baja ringan adalah jawabannya.
+- **Ramah Lingkungan:** Baja ringan mengurangi kebutuhan akan kayu, sehingga membantu melestarikan alam. Dengan memilih baja ringan, Anda turut berkontribusi dalam menjaga kelestarian lingkungan.
+- **Lebih Ekonomis:** Dibandingkan kerangka kayu, biaya penggunaan baja ringan umumnya lebih rendah. Material kayu berkualitas tinggi tentu membutuhkan investasi yang lebih besar, terutama untuk komponen kerangka yang krusial dalam konstruksi bangunan.
+- **Ringan dan Kuat:** Baja ringan memiliki karakteristik ringan namun tetap kuat, berbeda dengan baja atau besi konvensional yang lebih berat. Kekuatan ini ideal untuk menopang atap rumah Anda.
+- **Perawatan Minimal:** Anda tidak perlu khawatir dengan perawatan rutin yang rumit. Baja ringan dirancang tahan lama dan tidak memerlukan perawatan tahunan yang merepotkan.
+- **Pemasangan Cepat:** Proses pemasangan baja ringan jauh lebih cepat dibandingkan kerangka atap berbahan kayu atau material lainnya. Ini menghemat waktu dan biaya proyek Anda.
+- **Kualitas Terjamin:** Baja ringan yang kami gunakan bersertifikasi dan memiliki standar keamanan 4 kali lebih baik dibandingkan baja biasa. Kekuatannya mampu menopang beban berkilo-kilo.
+- **Tahan Rayap:** Pastikan Anda memilih material yang tahan terhadap serangan rayap, dan baja ringan adalah jawabannya.
 
 ## Metode Hitung Luas Rangka Baja Ringan Di Slipi Jakarta
 

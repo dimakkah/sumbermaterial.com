@@ -16,7 +16,7 @@ dikala ini bahan yang digunakan untuk mengisi dinding tempat tinggal, telah terd
 
 ## Mengetahui Tipe-tipe Bata
 
-### 1\. Bata Merah Standar & Jumbo Di Kalibaru Depok
+### 1. Bata Merah Standar & Jumbo Di Kalibaru Depok
 
 ![Harga Batako Beton Gratis Ongkir Ke Kalibaru Depok](/images/bata/bata-merah-oven-25.png)
 
@@ -26,7 +26,7 @@ Bata merah ini dibuat dari material tanah yang kemudian di press dan dioven deng
 
 Material bangunan ini sangat tahan terhadap panas dan layak dijadikan perlindungan dari panas api. Bata merah ini pada lazimnya mempunyai ukuran panjang antara 17-23 cm dan lebar sekitar 7-11 cm, serta tebalnya 3-5 cm. memiliki ukuran yg lebih kecil akan memberi kemudahan dalam pelaksanaan pengangkutan dan dapat diaplikasikan untuk membentuk bidang kecil.
 
-### 2\. Batako Hitam dan Putih Di Kalibaru Depok
+### 2. Batako Hitam dan Putih Di Kalibaru Depok
 
 ![Harga Batako Beton Gratis Ongkir Ke Kalibaru Depok](/images/bata/batako-hitam-press-06.png)
 
@@ -34,7 +34,7 @@ Material bangunan tembok dari batako trus ini secara lazimnya terbuat dari mater
 
 Batako trus seperti ini mempunyai kelemahan seperti gampang pecah, lebih panas dan pengap. Berbeda dg bata merah yang terbuat dari material tanah. Melainkan batako press ini cenderung lebih ringan daripada bata merah. Hasilnya akan menonjol lebih halus dan ukurannya lebih presisi jika dibandingkan dg bata merah. Batako Hitam ini memiliki ukuran panjang sekitar 36-40 cm, tinggi 18-20 cm dan tebal 8-10 cm. bahan ini kerap dipilih karena untuk memperingan beban struktur bangunan, meminimalisir sisa material dan mempercepat pembangunan.
 
-### 3\. Bata Herbel Di Kalibaru Depok
+### 3. Bata Herbel Di Kalibaru Depok
 
 ![Harga Batako Beton Gratis Ongkir Ke Kalibaru Depok](/images/bata/bata-hebel-sni-13.png)
 
@@ -62,7 +62,7 @@ Semua tentunya sudah tahu kegunaan utama batu bata mulai diaplikasikan untuk mem
 
 Sistem mengorder batu bata yang aman dan terpercaya:
 
-1.  Pengerjaan pembayaran bisa anda lakukan secara COD atau dibayar di tempat ketika barang pesanan anda sudah datang di tempat
+1.  Pengerjaan pembayaran bisa anda lakukan secara COD atau dibayar di tempat ketika barang pesanan anda sudah datang di tempat
 2. Silahkan memilih dan menentukan bahan batu bata yang anda inginkan
 3. Tentukan juga jumlah orderan batu bata yg anda butuhkan dalam format bijian.
 4. Anda bisa menghubungi layanan telepon warung untuk mempermudah proses pemesanan

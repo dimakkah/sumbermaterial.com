@@ -17,18 +17,17 @@ draft: false
 
 {{< toc >}}
 
-
 Split 1/2 adalah salah satu material konstruksi yang sering dicari saat membangun atau merenovasi. Penggunaannya yang krusial dalam campuran beton membuat kualitas split 1/2 sangat berpengaruh pada kekuatan bangunan secara keseluruhan. Nah, di artikel ini Kami akan mengulas secara mendalam segala hal tentang split 1/2, mulai dari pengertian, fungsi, ukuran, hingga tips memilih yang terbaik.
 
 ## Mengenal Lebih Dekat Split 1/2
 
-Apa sebenarnya split 1/2 itu? Secara sederhana, split 1/2 adalah agregat kasar yang dihasilkan dari pemecahan batu alam menjadi ukuran tertentu. Ukuran “1/2” mengacu pada diameter agregat tersebut, yaitu sekitar 12,5 mm hingga 25 mm.  Mitra, ukuran ini penting karena memengaruhi workability (kemudahan pengerjaan) dan kekuatan beton yang dihasilkan.  
+Apa sebenarnya split 1/2 itu? Secara sederhana, split 1/2 adalah agregat kasar yang dihasilkan dari pemecahan batu alam menjadi ukuran tertentu. Ukuran “1/2” mengacu pada diameter agregat tersebut, yaitu sekitar 12,5 mm hingga 25 mm.  Mitra, ukuran ini penting karena memengaruhi workability (kemudahan pengerjaan) dan kekuatan beton yang dihasilkan.
 
 Split 1/2 umumnya digunakan sebagai campuran dalam pembuatan beton untuk fondasi, lantai kerja, kolom, dan balok. Selain itu, material ini juga sering dimanfaatkan dalam pembuatan jalan, bahu jalan, dan stabilisasi tanah. Penggunaan split 1/2 memastikan struktur bangunan memiliki daya tahan yang optimal terhadap beban dan tekanan.
 
 ## Fungsi Utama Split 1/2 dalam Konstruksi
 
-Split 1/2 memainkan peran vital dalam beberapa aspek konstruksi. Pertama, sebagai bagian dari campuran beton, split 1/2 memberikan kekuatan tekan dan lentur yang tinggi pada struktur. Ini sangat penting untuk menahan beban bangunan dan mencegah keretakan. Kedua, split 1/2 membantu mengisi ruang kosong di antara partikel semen, sehingga mengurangi volume air yang dibutuhkan dalam campuran beton. Hal ini juga berkontribusi pada peningkatan kekuatan dan durabilitas beton. 
+Split 1/2 memainkan peran vital dalam beberapa aspek konstruksi. Pertama, sebagai bagian dari campuran beton, split 1/2 memberikan kekuatan tekan dan lentur yang tinggi pada struktur. Ini sangat penting untuk menahan beban bangunan dan mencegah keretakan. Kedua, split 1/2 membantu mengisi ruang kosong di antara partikel semen, sehingga mengurangi volume air yang dibutuhkan dalam campuran beton. Hal ini juga berkontribusi pada peningkatan kekuatan dan durabilitas beton.
 
 Anda mungkin bertanya, apakah ada alternatif pengganti split 1/2? Tentu saja ada, seperti kerikil atau sirtu (pasir urug). Namun, split 1/2 menawarkan keunggulan dalam hal kekuatan dan ketahanan dibandingkan material lain.  Selain itu, bentuknya yang kasar memberikan cengkraman yang lebih baik antara agregat dan semen, sehingga menghasilkan beton yang lebih padat dan kuat.
 
@@ -36,15 +35,14 @@ Anda mungkin bertanya, apakah ada alternatif pengganti split 1/2? Tentu saja ada
 
 Memilih split 1/2 yang berkualitas adalah kunci untuk memastikan kekuatan dan keawetan bangunan Anda. Beberapa hal yang perlu diperhatikan antara lain:
 
-*   **Ukuran Agregat:** Pastikan ukuran agregat sesuai dengan kebutuhan proyek Anda. Untuk fondasi, biasanya digunakan split 1/2 dengan ukuran lebih besar (20-25 mm) untuk memberikan kekuatan yang optimal.
-*   **Bentuk Agregat:** Pilih split 1/2 dengan bentuk yang kubus atau mendekati kubus. Bentuk ini memberikan cengkraman yang lebih baik dengan semen dibandingkan bentuk pipih atau memanjang.
-*   **Kebersihan Agregat:** Pastikan split 1/2 bebas dari kotoran, lumpur, atau bahan organik lainnya. Kotoran dapat mengurangi daya rekat antara agregat dan semen, sehingga menurunkan kekuatan beton.
-*   **Kekuatan Agregat:** Pilih split 1/2 yang berasal dari batu alam yang keras dan tahan terhadap abrasi. Kekuatan agregat akan berkontribusi pada kekuatan beton secara keseluruhan.
+- **Ukuran Agregat:** Pastikan ukuran agregat sesuai dengan kebutuhan proyek Anda. Untuk fondasi, biasanya digunakan split 1/2 dengan ukuran lebih besar (20-25 mm) untuk memberikan kekuatan yang optimal.
+- **Bentuk Agregat:** Pilih split 1/2 dengan bentuk yang kubus atau mendekati kubus. Bentuk ini memberikan cengkraman yang lebih baik dengan semen dibandingkan bentuk pipih atau memanjang.
+- **Kebersihan Agregat:** Pastikan split 1/2 bebas dari kotoran, lumpur, atau bahan organik lainnya. Kotoran dapat mengurangi daya rekat antara agregat dan semen, sehingga menurunkan kekuatan beton.
+- **Kekuatan Agregat:** Pilih split 1/2 yang berasal dari batu alam yang keras dan tahan terhadap abrasi. Kekuatan agregat akan berkontribusi pada kekuatan beton secara keseluruhan.
 
 ![Contoh split 1/2 yang sudah dicuci dan siap digunakan](/images/blog/split-12.jpg)
 
 Berikut tabel yang membandingkan split 1/2 dengan material alternatif:
-
 
 <table class="table">
   <caption>Perbandingan Split 1/2 dengan Material Alternatif</caption>
@@ -57,7 +55,6 @@ Berikut tabel yang membandingkan split 1/2 dengan material alternatif:
     <tr><td>Sirtu (Pasir Urug)</td><td>Rendah</td><td>Kurang Baik</td><td>Rp 100.000 - Rp 200.000</td></tr>
   </tbody>
 </table>
-
 
 *Harga ini bersifat estimasi dan dapat berubah sewaktu-waktu — hubungi Kami untuk penawaran terbaru dan paling akurat sesuai kebutuhan proyek Mitra.*
 

@@ -17,12 +17,11 @@ draft: false
 
 {{< toc >}}
 
-
 Nah, di artikel ini Kami akan membahas tuntas seputar harga batako bolong, bagaimana cara memilih yang sesuai kebutuhan, serta tips cerdas agar Anda tidak salah dalam berinvestasi material bangunan. Kami juga akan memberikan gambaran estimasi biaya yang mungkin Anda butuhkan.
 
 ## Memahami Ukuran dan Jenis Batako Bolong yang Tersedia
 
-Batako bolong merupakan pilihan populer untuk dinding bangunan, karena ringan, mudah dipasang, dan memiliki insulasi termal yang cukup baik. Tapi, ada beberapa ukuran dan jenis yang perlu Anda ketahui. Ukuran standar batako bolong biasanya adalah 39 cm x 19 cm x 10 cm, tapi ada juga yang lebih besar atau lebih kecil tergantung kebutuhan. 
+Batako bolong merupakan pilihan populer untuk dinding bangunan, karena ringan, mudah dipasang, dan memiliki insulasi termal yang cukup baik. Tapi, ada beberapa ukuran dan jenis yang perlu Anda ketahui. Ukuran standar batako bolong biasanya adalah 39 cm x 19 cm x 10 cm, tapi ada juga yang lebih besar atau lebih kecil tergantung kebutuhan.
 
 Selain ukuran, ada juga perbedaan pada jumlah lubang. Batako bolong umumnya memiliki 2 atau 3 lubang. Semakin banyak lubang, semakin ringan batako tersebut, tetapi juga mungkin sedikit mengurangi kekuatannya.  Mitra Sumber Material, penting untuk mempertimbangkan jenis konstruksi yang Anda gunakan. Untuk dinding yang membutuhkan kekuatan lebih, batako dengan jumlah lubang lebih sedikit mungkin lebih cocok.
 
@@ -42,7 +41,6 @@ Sebelum memutuskan untuk menggunakan batako bolong, ada baiknya Anda membandingk
 
 Berikut ini tabel perbandingan singkat yang bisa Anda jadikan pertimbangan:
 
-
 <table class="table">
   <caption>Perbandingan Material Dinding</caption>
   <thead>
@@ -55,7 +53,6 @@ Berikut ini tabel perbandingan singkat yang bisa Anda jadikan pertimbangan:
     <tr><td>Hebel</td><td>Ringan, presisi tinggi, insulasi sangat baik</td><td>Harga lebih mahal, butuh keahlian khusus pemasangan</td><td>Rp 70.000 - Rp 100.000</td></tr>
   </tbody>
 </table>
-
 
 Mitra, tabel di atas hanyalah gambaran umum. Harga bisa sangat bervariasi tergantung kualitas material, lokasi, dan volume pembelian. Perhatikan juga bahwa biaya pemasangan juga perlu diperhitungkan.
 

@@ -16,7 +16,7 @@ saat ini material yang dipakai untuk mengisi dinding tempat tinggal, telah terda
 
 ## Mengenal Jenis-jenis Bata
 
-### 1\. Bata Merah Standar & Jumbo Di Kebon Pedes Bogor
+### 1. Bata Merah Standar & Jumbo Di Kebon Pedes Bogor
 
 ![Harga Batako Beton Gratis Ongkir Ke Kebon Pedes Bogor](/images/bata/bata-merah-oven-05.png)
 
@@ -26,7 +26,7 @@ Bata merah ini dihasilkan dari material tanah yg kemudian di bentuk dan dipanask
 
 Material bangunan ini betul-betul tahan kepada panas dan layak dijadikan pengamanan dari bahaya api. Bata merah ini pada biasanya memiliki ukuran panjang antara 17-23 cm dan lebar sekitar 7-11 cm, serta tebalnya 3-5 cm. memiliki ukuran yang lebih kecil akan memberi kemudahan dalam proses pengangkutan dan bisa digunakan untuk menyusun bidang kecil.
 
-### 2\. Batako Hitam dan Putih Di Kebon Pedes Bogor
+### 2. Batako Hitam dan Putih Di Kebon Pedes Bogor
 
 ![Harga Batako Beton Gratis Ongkir Ke Kebon Pedes Bogor](/images/bata/batako-hitam-press-20.png)
 
@@ -34,7 +34,7 @@ Material bangunan tembok dari batako press ini secara biasa terbuat dari materia
 
 Batako seperti ini memiliki kelemahan seperti gampang retak, lebih panas dan pengap. Berbeda dengan bata merah yang terbuat dari bahan tanah. Tetapi batako trus ini cenderung lebih ringan daripada bata merah. Alhasil akan menonjol lebih halus dan ukurannya lebih presisi apabila diperbandingkan dg bata merah. Batako Hitam ini mempunyai ukuran panjang sekitar 36-40 cm, tinggi 18-20 cm dan tebal 8-10 cm. material ini kerap kali dipilih karena untuk memperingan bobot struktur bangunan, meminimalisir sisa material dan mempermudah pembangunan.
 
-### 3\. Bata Hebel Di Kebon Pedes Bogor
+### 3. Bata Hebel Di Kebon Pedes Bogor
 
 ![Harga Batako Beton Gratis Ongkir Ke Kebon Pedes Bogor](/images/bata/bata-hebel-sni-11.png)
 
@@ -62,7 +62,7 @@ Seluruhnya tentu sudah tahu fungsi utama batu bata mulai diterapkan untuk membua
 
 Metode memesan batu bata yg aman dan terpercaya:
 
-1.  Proses pembayaran bisa anda lakukan secara COD atau dibayar di tempat ketika barang orderan anda telah datang di daerah
+1.  Proses pembayaran bisa anda lakukan secara COD atau dibayar di tempat ketika barang orderan anda telah datang di daerah
 2. Silahkan memilih dan menetapkan bahan batu bata yang anda inginkan
 3. Tentukan juga jumlah pesanan batu bata yang anda butuhkan dalam wujud bijian.
 4. Anda bisa menghubungi layanan telepon kios untuk mempermudah proses pemesanan

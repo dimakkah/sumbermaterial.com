@@ -25,7 +25,7 @@ berdasarkan Standar Nasional Indonesia ( SK SNI - S - 04 - 1989 - F ; 28) di tut
 
 Syarat-Syarat Pasir yg Bagus tuk Konstruksi
 
-1.  Agregat Halus seharusnya terdiri dari butiran yg tajam dan keras dengan indeks kekerasan <2.2
+1.  Agregat Halus seharusnya terdiri dari butiran yg tajam dan keras dengan indeks kekerasan <2.2
 2. Jikalau dipakai Natrium Sulfat komponen hancur optimal dua belas persen
 3. sekiranya diaplikasikan Magnesium Sulfat bagian halus maksimal 5 persen
 4. Tidak boleh mengandung lumpur lebih dari lima %
@@ -41,7 +41,6 @@ Syarat-Syarat Pasir yg Bagus tuk Konstruksi
 Sesudah tahu persis persyaratan pasir tuk suatu Konstruksi Bangunan, sekarang ini kita bahas Ragam - Macam Pasir Untuk Konstruksi Bangunan penjelasan nya sbb:
 
 - ### Pasir untuk Cor Rigid Di Abadijaya Depok
-    
 
 Pasir ini lazim nya berwarna hitam pekat dan tingkat kekasaran butiran nya cukup tinggi. Tapi seandainya anda mengepal nya dengan tangan tak akan lengket dan akan buyar kembali. tipe pasir ini betul-betul lah baik tuk Pengecoran, Plesteran Dinding, Adukan Pondasi dan Adukan Pasangan Bata Pasir ini yaitu pasir untuk Beton ialah butiran-butiran mineral keras dan tajam berukuran antara 0,075 – 5 mm, kalau terdapat butiran berukuran lebih kecil dari 0,063 mm tak lebih dari 5% berat. Pasir ini yaitu pasir untuk Beton kerap kali diterapkan untuk profesi cor-coran struktur seperti kolom, balok dan pelat lantai.
 
@@ -59,21 +58,18 @@ Untuk mendapatkan ketahanan Cor yang maksimal maka pasir wajib bisa memenuhi sya
 ![Harga Pasir Urug Free Ongkir Ke Abadijaya Depok](/images/info/pasir-hitam-8.jpg)
 
 - ### Pasir Pasang Di Abadijaya Depok
-    
 
 ![Harga Pasir Urug Free Ongkir Ke Abadijaya Depok](/images/info/pasir-putih12.jpg)
 
 Pasir ini ekstra halus lagi dibandingkan oleh pasir beton. kalau anda mengepal pasir ini karenanya akan menggumpal dan tidak akan buyar kembali. pasir pasang lazim nya di gunakan tuk campuran pasir beton supaya tak terlalu kasar dan dapat di manfaatkan untuk plesteran dinding.
 
 - ### Pasir Urug Untuk Pembuatan Batako Di Abadijaya Depok
-    
 
 Di Antara ke dua pasir diatas pasir tipe ini lebih halus lagi, bila kalian mengepal nya karenanya akan menggumpal dan tak akan buyar lagi. namun pasir tipe
 
 Pada lazim nya pasir ini nyaris sama dgn pasir beton melainkan pasir ini memiliki tingkat kekasaran yg tinggi, butiran - butiran nya lumayan besar dan agak banyak batuan nya. pada umumnya pasir jenis ini bagus untuk bahan pengurugan lantai
 
 - ### Pasir Putih Bebas Lumpur Untuk Pelester Di Abadijaya Depok
-    
 
 1. **Pasir Putih Bangka**
 

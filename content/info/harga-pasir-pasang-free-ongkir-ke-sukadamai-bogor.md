@@ -25,7 +25,7 @@ berdasarkan Standar Nasional Indonesia ( SK SNI - S - 04 - 1989 - F ; 28) di seb
 
 Prasyarat Pasir yg Baik buat Bangunan
 
-1.  Agregat Halus seharusnya terdiri dari butiran yg tajam dan keras dengan indeks kekerasan <2.2
+1.  Agregat Halus seharusnya terdiri dari butiran yg tajam dan keras dengan indeks kekerasan <2.2
 2. bilamana dipakai Natrium Sulfat komponen hancur optimal 12%
 3. jikalau digunakan Magnesium Sulfat bagian halus optimal sepuluh persen
 4. Tidak boleh memuat tanah lebih dari lima persen
@@ -41,7 +41,6 @@ Prasyarat Pasir yg Baik buat Bangunan
 setelah mengenal persyaratan pasir untuk sebuah Konstruksi Bangunan, sekarang ini kita bahas model - Macam Pasir Untuk Konstruksi penjelasan nya berikut ini:
 
 - ### Pasir Model Cor dan Lokasi Penambangannya Di Sukadamai Bogor
-    
 
 Pasir ini lazim nya berwarna hitam gelap dan tingkat kekerasan butiran nya cukup tinggi. Melainkan kalau anda mengepal nya dengan tangan tidak akan lengket dan akan hancur kembali. macam pasir ini sungguh-sungguh lah bagus untuk Pengecoran, Plesteran Dinding, Adukan Pondasi dan Adukan Pasangan Bata Pasir ini yaitu pasir untuk Cor merupakan butiran-butiran mineral keras dan tajam berukuran antara 0,075 – 5 mm, jika terdapat butiran berukuran lebih kecil dari 0,063 mm tidak lebih dari 5% berat. Pasir ini yaitu pasir untuk Rigid hampir sering digunakan untuk pekerjaan cor-coran struktur seperti kolom, balok dan pelat lantai.
 
@@ -59,21 +58,18 @@ Untuk menerima kekuatan Rigid yang optimal karenanya pasir harus bisa memenuhi p
 ![Harga Pasir Pasang Free Ongkir Ke Sukadamai Bogor](/images/info/pasir-hitam-5.jpg)
 
 - ### Pasir Untuk Pasang Batu, Pondasi, Bata, Ubin, Plester Di Sukadamai Bogor
-    
 
 ![Harga Pasir Pasang Free Ongkir Ke Sukadamai Bogor](/images/info/jual-pasir-mundu.jpg)
 
 Pasir ini ekstra halus lagi diperbandingkan oleh pasir beton. apabila anda mengepal pasir ini karenanya akan menggumpal dan tidak akan hancur kembali. pasir pasang lazim nya di pakai buat campuran pasir beton agar tidak terlampau kasar dan dapat di manfaatkan untuk plesteran dinding.
 
 - ### Pasir Elod Untuk Dasaran Pemasangan Keramik Di Sukadamai Bogor
-    
 
 Di Antara ke dua pasir diatas pasir model ini lebih halus lagi, kalau kamu mengepal nya akan menggumpal dan tidak akan buyar lagi. melainkan pasir macam
 
 Pada biasa nya pasir ini nyaris sama dengan pasir beton tapi pasir ini mempunyai tingkat kekasaran yang tinggi, butiran - butiran nya lumayan besar dan agak banyak batuan nya. pada lazimnya pasir macam ini bagus untuk bahan pengurugan lantai
 
 - ### Pasir Putih Tanpa Ayak Untuk Lapangan Voly Di Sukadamai Bogor
-    
 
 1. **Pasir Putih Bangka**
 

@@ -17,17 +17,16 @@ draft: false
 
 {{< toc >}}
 
-
 Nah, artikel ini hadir untuk memberikan gambaran jelas tentang harga pasir 1 engkel di Bogor, apa saja yang mempengaruhinya, serta tips cerdas memilih material yang tepat untuk proyek Anda. Kami akan membahasnya secara detail agar Anda tidak salah pilih dan mendapatkan nilai terbaik dari setiap pengeluaran.
 
 ## Memahami Jenis Pasir 1 Engkel dan Penggunaannya
 
 Pasir 1 engkel atau sering disebut juga pasir pasang, adalah jenis pasir yang banyak digunakan dalam pekerjaan konstruksi. Ciri khasnya adalah teksturnya yang sedang, tidak terlalu halus seperti pasir cor, dan tidak terlalu kasar seperti koral. Pasir ini umumnya berwarna krem atau kecoklatan, dan ideal digunakan untuk berbagai keperluan seperti:
 
-*   **Pembuatan Acian:** Pasir 1 engkel sangat cocok untuk acian dinding karena teksturnya yang memudahkan proses pengaplikasian dan menghasilkan permukaan yang rata.
-*   **Plesteran:** Sama halnya dengan acian, pasir ini juga digunakan dalam campuran plesteran untuk memberikan hasil yang lebih kuat dan tahan lama.
-*   **Urugan:** Pasir 1 engkel juga dapat digunakan sebagai material urugan untuk menimbun lahan atau membuat pondasi.
-*   **Campuran Bata/Batako:** Pasir ini membantu dalam proses pengikatan bata atau batako.
+- **Pembuatan Acian:** Pasir 1 engkel sangat cocok untuk acian dinding karena teksturnya yang memudahkan proses pengaplikasian dan menghasilkan permukaan yang rata.
+- **Plesteran:** Sama halnya dengan acian, pasir ini juga digunakan dalam campuran plesteran untuk memberikan hasil yang lebih kuat dan tahan lama.
+- **Urugan:** Pasir 1 engkel juga dapat digunakan sebagai material urugan untuk menimbun lahan atau membuat pondasi.
+- **Campuran Bata/Batako:** Pasir ini membantu dalam proses pengikatan bata atau batako.
 
 ## Faktor Utama yang Mempengaruhi Harga Pasir 1 Engkel di Bogor
 
@@ -41,8 +40,8 @@ Pertama, **lokasi sumber pasir**. Semakin jauh lokasi sumber pasir dari Bogor, o
 
 Untuk memberikan gambaran, berikut adalah estimasi harga pasir 1 engkel di Bogor per meter kubik (m³) pada tahun 2026:
 
-*   **Harga Rata-rata:** Rp 300.000 - Rp 450.000 per m³
-*   **Harga dengan Pengiriman:** Rp 400.000 - Rp 600.000 per m³ (tergantung jarak dan volume pesanan)
+- **Harga Rata-rata:** Rp 300.000 - Rp 450.000 per m³
+- **Harga dengan Pengiriman:** Rp 400.000 - Rp 600.000 per m³ (tergantung jarak dan volume pesanan)
 
 Harga ini bersifat estimasi dan dapat berubah sewaktu-waktu — hubungi Kami untuk penawaran terbaru dan paling akurat sesuai kebutuhan proyek Mitra. Perlu diingat bahwa harga ini adalah harga *di lokasi penjual*. Biaya pengiriman ke lokasi proyek Anda akan ditambahkan.
 

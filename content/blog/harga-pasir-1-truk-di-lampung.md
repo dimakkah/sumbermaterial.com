@@ -18,7 +18,6 @@ draft: false
 
 {{< toc >}}
 
-
 ## Perkembangan Harga Pasir di Lampung
 
 Harga pasir di Lampung, seperti di daerah lain, fluktuatif dan dipengaruhi oleh beberapa faktor. Beberapa faktor utama yang memengaruhi harga pasir 1 truk di Lampung antara lain adalah jarak lokasi pengiriman, jenis pasir yang dibutuhkan, dan kondisi cuaca. Belakangan ini, kita melihat adanya sedikit kenaikan harga dibandingkan tahun-tahun sebelumnya, seiring dengan meningkatnya permintaan dari sektor konstruksi dan juga biaya operasional transportasi.
@@ -29,9 +28,9 @@ Mitra, penting untuk memahami bahwa harga pasir juga bisa berbeda-beda tergantun
 
 Di Lampung, ada beberapa jenis pasir yang umum digunakan dalam proyek konstruksi. Berikut adalah beberapa jenis pasir beserta perkiraan harganya per truk (estimasi, dapat berubah sewaktu-waktu):
 
-*   **Pasir Sungai:** Jenis pasir ini paling sering dicari karena teksturnya yang halus dan bersih. Cocok untuk campuran semen, plester, dan pembuatan beton. Harga per truk berkisar antara Rp 350.000 - Rp 500.000, tergantung jarak dan volume.
-*   **Pasir Laut:** Pasir ini umumnya lebih kasar dari pasir sungai dan mengandung sedikit garam. Biasanya digunakan untuk pekerjaan urug atau sebagai campuran dalam pembuatan beton ringan. Harga per truk berkisar antara Rp 250.000 - Rp 400.000.
-*   **Pasir Urug:** Pasir ini adalah jenis pasir yang paling ekonomis dan digunakan untuk pekerjaan pengurugan atau penimbunan. Harga per truk berkisar antara Rp 200.000 - Rp 300.000.
+- **Pasir Sungai:** Jenis pasir ini paling sering dicari karena teksturnya yang halus dan bersih. Cocok untuk campuran semen, plester, dan pembuatan beton. Harga per truk berkisar antara Rp 350.000 - Rp 500.000, tergantung jarak dan volume.
+- **Pasir Laut:** Pasir ini umumnya lebih kasar dari pasir sungai dan mengandung sedikit garam. Biasanya digunakan untuk pekerjaan urug atau sebagai campuran dalam pembuatan beton ringan. Harga per truk berkisar antara Rp 250.000 - Rp 400.000.
+- **Pasir Urug:** Pasir ini adalah jenis pasir yang paling ekonomis dan digunakan untuk pekerjaan pengurugan atau penimbunan. Harga per truk berkisar antara Rp 200.000 - Rp 300.000.
 
 Harga ini bersifat estimasi dan dapat berubah sewaktu-waktu — hubungi Kami untuk penawaran terbaru dan paling akurat sesuai kebutuhan proyek Mitra.
 

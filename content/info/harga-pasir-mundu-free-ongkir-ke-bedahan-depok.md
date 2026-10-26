@@ -25,7 +25,7 @@ Menurut Standar Nasional Indonesia ( SK SNI - S - 04 - 1989 - F ; 28) di tuturka
 
 Prasyarat Pasir yg Bagus buat Bangunan
 
-1.  Agregat Halus semestinya terdiri dari butiran yang tajam dan keras dengan indeks kekerasan <2.2
+1.  Agregat Halus semestinya terdiri dari butiran yang tajam dan keras dengan indeks kekerasan <2.2
 2. Kalau dimanfaatkan Natrium Sulfat komponen hancur optimal 12%
 3. Apabila digunakan Magnesium Sulfat bagian halus optimal 10%
 4. Tidak boleh mengandung tanah lebih dari 5%
@@ -41,7 +41,6 @@ Prasyarat Pasir yg Bagus buat Bangunan
 Sesudah tahu persis syarat pasir buat suatu Konstruksi, pada saat ini kita bahas Ragam - Ragam Pasir Untuk Bangunan penjelasan nya sebagai berikut:
 
 - ### Pasir Cor Di Bedahan Depok
-    
 
 Pasir ini umum nya berwarna keabu-abuan dan tingkat pecahan butiran nya lumayan tinggi. Namun sekiranya anda mengepal nya dengan tangan tidak akan menggumpal dan akan hancur kembali. ragam pasir ini betul-betul lah baik untuk Pengecoran, Plesteran Dinding, Adukan Pondasi dan Adukan Pasangan Bata Pasir ini yaitu pasir untuk Cor yaitu butiran-butiran mineral keras dan tajam berukuran antara 0,075 – 5 mm, kalau terdapat butiran berukuran lebih kecil dari 0,063 mm tak lebih dari 5% berat. Pasir ini yaitu pasir untuk Cor sering diaplikasikan untuk pekerjaan cor-coran struktur seperti kolom, balok dan pelat lantai.
 
@@ -59,21 +58,18 @@ Untuk mendapatkan kekuatan Cor yang maksimal karenanya pasir sepatutnya bisa mem
 ![Harga Pasir Mundu Free Ongkir Ke Bedahan Depok](/images/info/pasir-hitam-1.jpg)
 
 - ### Pasir Biasa Di Bedahan Depok
-    
 
 ![Harga Pasir Mundu Free Ongkir Ke Bedahan Depok](/images/info/pasir-putih12.jpg)
 
 Pasir ini lebih halus lagi diperbandingkan oleh pasir beton. jika anda mengepal pasir ini maka akan menggumpal dan tak akan hancur kembali. pasir pasang lazim nya di manfaatkan buat adukan pasir beton agar tak terlalu kasar dan dapat di manfaatkan untuk plesteran dinding.
 
 - ### Pasir Urug Untuk Pembuatan Batako Di Bedahan Depok
-    
 
 Di Antara ke dua pasir diatas pasir model ini lebih halus lagi, apabila kamu mengepal nya maka akan menggumpal dan tidak akan buyar lagi. namun pasir ragam tak bagus untuk di buat sebagai bahan bangunan. pasir tipe ini pada lazim nya di pergunakan untuk Bahan Pembuatan Batako
 
 Pada umum nya pasir ini nyaris sama dgn pasir beton namun pasir ini mempunyai tingkat kekasaran yang tinggi, butiran - butiran nya cukup besar dan agak banyak batuan nya. pada umumnya pasir jenis ini baik untuk bahan dasaran pemasangan keramik
 
 - ### Pasir Putih Tanpa Ayak Untuk Hiasan Di Bedahan Depok
-    
 
 1. **Pasir Putih Bangka**
 

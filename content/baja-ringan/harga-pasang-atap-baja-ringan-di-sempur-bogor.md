@@ -21,13 +21,13 @@ Apakah Anda membutuhkan pemasangan baja ringan untuk bangunan Anda di Sempur Bog
 
 Apa saja keunggulan yang membuat baja ringan menjadi pilihan tepat untuk atap Anda di Sempur Bogor? Berikut beberapa alasannya:
 
- **Ramah Lingkungan:** Penggunaan baja ringan mengurangi kebutuhan akan kayu, sehingga membantu melestarikan alam. Anda turut berkontribusi dalam menjaga kelestarian lingkungan.
- **Lebih Ekonomis:** Dibandingkan kayu, baja ringan umumnya lebih ekonomis. Biaya material dan pemasangan seringkali lebih terjangkau.
- **Ringan dan Kuat:** Baja ringan memiliki bobot yang lebih ringan dibandingkan baja atau besi konvensional, namun tetap sangat kuat dan kokoh untuk menopang atap dan kanopi rumah Anda.
- **Perawatan Minimal:** Anda tidak perlu khawatir dengan perawatan rutin. Baja ringan tahan terhadap kerusakan dan tidak memerlukan perawatan tahunan yang intensif.
- **Pemasangan Cepat:** Proses pemasangan baja ringan relatif cepat dibandingkan material atap lainnya, menghemat waktu dan tenaga Anda.
- **Kualitas Terjamin:** Baja ringan yang kami gunakan adalah material berkualitas tinggi dengan lapisan zinc dan aluminium yang memberikan perlindungan 4 kali lebih baik dibandingkan baja biasa. Kekuatannya pun teruji, mampu menahan beban berkilo-kilo.
- **Tahan Rayap:** Kerangka atap dan kanopi baja ringan terjamin kuat dan tahan terhadap serangan rayap.
+- **Ramah Lingkungan:** Penggunaan baja ringan mengurangi kebutuhan akan kayu, sehingga membantu melestarikan alam. Anda turut berkontribusi dalam menjaga kelestarian lingkungan.
+- **Lebih Ekonomis:** Dibandingkan kayu, baja ringan umumnya lebih ekonomis. Biaya material dan pemasangan seringkali lebih terjangkau.
+- **Ringan dan Kuat:** Baja ringan memiliki bobot yang lebih ringan dibandingkan baja atau besi konvensional, namun tetap sangat kuat dan kokoh untuk menopang atap dan kanopi rumah Anda.
+- **Perawatan Minimal:** Anda tidak perlu khawatir dengan perawatan rutin. Baja ringan tahan terhadap kerusakan dan tidak memerlukan perawatan tahunan yang intensif.
+- **Pemasangan Cepat:** Proses pemasangan baja ringan relatif cepat dibandingkan material atap lainnya, menghemat waktu dan tenaga Anda.
+- **Kualitas Terjamin:** Baja ringan yang kami gunakan adalah material berkualitas tinggi dengan lapisan zinc dan aluminium yang memberikan perlindungan 4 kali lebih baik dibandingkan baja biasa. Kekuatannya pun teruji, mampu menahan beban berkilo-kilo.
+- **Tahan Rayap:** Kerangka atap dan kanopi baja ringan terjamin kuat dan tahan terhadap serangan rayap.
 
 ## Sistem Hitung Luas Rangka Baja Ringan Di Sempur Bogor
 
@@ -60,15 +60,15 @@ Membahas biaya jasa pasang baja ringan, terdapat banyak informasi di internet. N
 
 ### Parameter Besaran Biaya Jasa Pasang Baja Ringan
 
-### 1\. Pembuatan Sketsa Desain
+#### 1. Pembuatan Sketsa Desain
 
 Harga juga dipengaruhi oleh kompleksitas desain atau pola sketsa yang akan dibuat oleh tim teknisi kami. Sketsa ini penting untuk menentukan kebutuhan baja ringan secara akurat, meminimalkan sisa material, dan menghemat biaya. Pembuatan sketsa juga termasuk dalam perhitungan biaya pasang baja ringan dari Mitra Sumber Material.
 
-### 2\. Menghitung Kebutuhan Rangka
+#### 2. Menghitung Kebutuhan Rangka
 
 Setelah Anda memiliki sketsa pemasangan, kami akan menghitung kebutuhan rangka yang harus dipersiapkan untuk memperkirakan jumlah material baja ringan yang dibutuhkan. Konsultasikan dengan tim teknisi kami untuk mendapatkan informasi detail mengenai waktu dan kualitas material.
 
-### 3\. Menghitung Budget yang Dibutuhkan
+#### 3. Menghitung Budget yang Dibutuhkan
 
 Setelah pembuatan sketsa dan perhitungan rangka selesai, kami akan membantu Anda menghitung budget keseluruhan untuk pelaksanaan pemasangan baja ringan. Budget akan bergantung pada beberapa faktor seperti jumlah rangka, luas area kerangka, material tambahan, biaya teknisi, dan pengiriman. Mintalah rincian harga layanan pasang baja ringan agar Anda dapat mempersiapkan budget dengan lebih baik. Anda juga dapat memilih variasi baja ringan dari yang paling standar hingga yang berkualitas tinggi.
 

@@ -17,8 +17,7 @@ draft: false
 
 {{< toc >}}
 
-
-### Apa Itu Urugan Sirtu Padat?
+## Apa Itu Urugan Sirtu Padat?
 
 Urugan sirtu padat adalah campuran antara pasir urug, abu batu, dan sedikit kandungan lumpur yang dipadatkan. Material ini punya beberapa keunggulan dibandingkan material urugan lain.  Mitra, sirtu padat punya daya dukung yang tinggi, artinya mampu menahan beban bangunan dengan baik. Selain itu, sirtu padat juga relatif mudah ditemukan dan harganya terjangkau, menjadikannya pilihan populer untuk berbagai proyek konstruksi.  Sirtu padat umumnya digunakan sebagai lapisan dasar sebelum pengecoran lantai, pembuatan jalan, parkiran, atau sebagai pengisi lahan yang perlu dinaikkan ketinggiannya.
 

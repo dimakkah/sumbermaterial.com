@@ -20,11 +20,9 @@ draft: false
 
 ![Harga Brangkal 1 Truk: Segini Kisarannya untuk Urugan](/images/blog/harga-brangkal-1-truk.jpg)
 
-
-
 ## Memahami Brangkal: Apa Itu dan Kegunaannya?
 
-Brangkal, atau sering juga disebut urugan pasir urug, sebenarnya adalah campuran antara pasir, tanah, dan material organik yang sudah lapuk. Material ini sering ditemukan di sekitar sungai atau bekas galian. Seringkali, brangkal juga mengandung sedikit kerikil atau pecahan batu kecil. Walaupun terlihat sederhana, brangkal punya peran penting dalam berbagai proyek. 
+Brangkal, atau sering juga disebut urugan pasir urug, sebenarnya adalah campuran antara pasir, tanah, dan material organik yang sudah lapuk. Material ini sering ditemukan di sekitar sungai atau bekas galian. Seringkali, brangkal juga mengandung sedikit kerikil atau pecahan batu kecil. Walaupun terlihat sederhana, brangkal punya peran penting dalam berbagai proyek.
 
 Mitra Sumber Material, brangkal sangat efektif untuk mengisi area yang perlu ditinggikan, menciptakan lahan yang stabil, atau sebagai dasar sebelum pengecoran. Selain itu, brangkal juga lebih ekonomis dibandingkan material urugan lain seperti tanah timbun atau split. Namun, perlu diingat, brangkal tidak cocok untuk fondasi bangunan berat karena daya dukungnya terbatas.
 
@@ -32,18 +30,17 @@ Mitra Sumber Material, brangkal sangat efektif untuk mengisi area yang perlu dit
 
 Harga brangkal 1 truk bisa bervariasi tergantung beberapa faktor. Berikut ini beberapa hal yang perlu Anda perhatikan:
 
-*   **Lokasi:** Jarak antara lokasi Anda dengan sumber brangkal sangat berpengaruh. Semakin jauh, biaya transportasi akan semakin tinggi. Anda bisa mencari supplier brangkal terdekat untuk mendapatkan harga yang lebih kompetitif.
-*   **Kualitas Brangkal:** Kualitas brangkal juga memengaruhi harga. Brangkal yang bersih, bebas dari sampah organik, dan memiliki tekstur yang baik biasanya lebih mahal.
-*   **Volume Pemesanan:** Semakin besar volume pesanan Anda, biasanya Anda bisa mendapatkan harga yang lebih murah. Negosiasi dengan supplier juga bisa membantu.
-*   **Jenis Truk:** Jenis truk yang digunakan juga memengaruhi harga. Truk engkel, truk sedang, dan truk besar memiliki kapasitas yang berbeda, sehingga harga per rit juga berbeda.
-*   **Kondisi Pasar:** Permintaan dan penawaran di pasar juga bisa memengaruhi harga brangkal. Saat permintaan tinggi, harga cenderung naik.
+- **Lokasi:** Jarak antara lokasi Anda dengan sumber brangkal sangat berpengaruh. Semakin jauh, biaya transportasi akan semakin tinggi. Anda bisa mencari supplier brangkal terdekat untuk mendapatkan harga yang lebih kompetitif.
+- **Kualitas Brangkal:** Kualitas brangkal juga memengaruhi harga. Brangkal yang bersih, bebas dari sampah organik, dan memiliki tekstur yang baik biasanya lebih mahal.
+- **Volume Pemesanan:** Semakin besar volume pesanan Anda, biasanya Anda bisa mendapatkan harga yang lebih murah. Negosiasi dengan supplier juga bisa membantu.
+- **Jenis Truk:** Jenis truk yang digunakan juga memengaruhi harga. Truk engkel, truk sedang, dan truk besar memiliki kapasitas yang berbeda, sehingga harga per rit juga berbeda.
+- **Kondisi Pasar:** Permintaan dan penawaran di pasar juga bisa memengaruhi harga brangkal. Saat permintaan tinggi, harga cenderung naik.
 
 Sebagai gambaran, harga brangkal 1 truk (kurang lebih 8-12 meter kubik) di wilayah Jabodetabek saat ini berkisar antara Rp 350.000 - Rp 600.000. Harga ini bersifat estimasi dan dapat berubah sewaktu-waktu — hubungi Kami untuk penawaran terbaru dan paling akurat sesuai kebutuhan proyek Mitra.
 
 ## Perbandingan Brangkal dengan Material Urugan Lain
 
 Sebelum memutuskan untuk menggunakan brangkal, ada baiknya Anda mempertimbangkan perbandingan dengan material urugan lain. Berikut ini tabel perbandingan yang bisa Anda jadikan referensi:
-
 
 <table class="table">
   <caption>Perbandingan Material Urugan</caption>
@@ -57,7 +54,6 @@ Sebelum memutuskan untuk menggunakan brangkal, ada baiknya Anda mempertimbangkan
     <tr><td>Pasir Urug</td><td>Drainase baik, Mudah dipadatkan</td><td>Harga lebih mahal dari brangkal</td><td>Rp 70.000 - Rp 100.000</td></tr>
   </tbody>
 </table>
-
 
 Anda bisa melihat bahwa brangkal merupakan pilihan yang ekonomis, tetapi perlu diperhatikan kekurangannya. Jika proyek Anda membutuhkan daya dukung yang tinggi, mungkin split atau pasir urug akan lebih cocok.
 

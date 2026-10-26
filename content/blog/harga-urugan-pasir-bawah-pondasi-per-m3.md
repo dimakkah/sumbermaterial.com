@@ -17,7 +17,6 @@ draft: false
 
 {{< toc >}}
 
-
 Memastikan fondasi bangunan kokoh adalah kunci utama keberhasilan proyek konstruksi. Nah, urugan pasir bawah pondasi punya peran krusial untuk stabilitas struktur bangunan. Tapi, memilih jenis pasir yang tepat dan mencari harga yang kompetitif bisa jadi tantangan tersendiri, ya? Mitra Sumber Material hadir untuk memberikan solusi praktis untuk kebutuhan proyek Anda.
 
 ## Memilih Jenis Pasir Urug yang Tepat untuk Fondasi
@@ -30,10 +29,10 @@ Untuk urugan bawah pondasi, pasir berangkal seringkali menjadi pilihan utama kar
 
 Kami menyediakan berbagai jenis pasir urug berkualitas, termasuk:
 
-*   **Pasir Berangkal:** Pasir berangkal yang kami sediakan memiliki kadar lumpur rendah dan butiran yang bersih. Cocok untuk urugan pondasi, jalan, dan lapangan. Tersedia dalam berbagai ukuran sesuai kebutuhan proyek Anda.
-*   **Pasir Pasang:** Meskipun lebih sering digunakan untuk plester, pasir pasang juga bisa digunakan untuk urugan jika tidak ada pilihan lain. Kami menyediakan pasir pasang dengan kualitas yang terjamin.
-*   **Pasir Cor:** Pasir cor yang kami jual memenuhi standar SNI dan cocok untuk campuran beton berkualitas tinggi.
-*   **Jasa Urug:** Selain menyediakan material, kami juga menawarkan jasa urug pasir dengan tenaga kerja yang berpengalaman dan peralatan yang memadai. Kami bisa membantu Anda mengurug area proyek dengan cepat dan efisien.
+- **Pasir Berangkal:** Pasir berangkal yang kami sediakan memiliki kadar lumpur rendah dan butiran yang bersih. Cocok untuk urugan pondasi, jalan, dan lapangan. Tersedia dalam berbagai ukuran sesuai kebutuhan proyek Anda.
+- **Pasir Pasang:** Meskipun lebih sering digunakan untuk plester, pasir pasang juga bisa digunakan untuk urugan jika tidak ada pilihan lain. Kami menyediakan pasir pasang dengan kualitas yang terjamin.
+- **Pasir Cor:** Pasir cor yang kami jual memenuhi standar SNI dan cocok untuk campuran beton berkualitas tinggi.
+- **Jasa Urug:** Selain menyediakan material, kami juga menawarkan jasa urug pasir dengan tenaga kerja yang berpengalaman dan peralatan yang memadai. Kami bisa membantu Anda mengurug area proyek dengan cepat dan efisien.
 
 Untuk proyek yang membutuhkan volume besar, Kami sarankan untuk menggunakan pasir berangkal karena daya tahannya lebih baik dan cocok untuk menopang beban bangunan. Estimasi harga urugan pasir bawah pondasi per m3 bervariasi tergantung jenis pasir, jarak pengiriman, dan volume pesanan. Harga ini bersifat estimasi dan dapat berubah sewaktu-waktu — hubungi Kami untuk penawaran terbaru dan paling akurat sesuai kebutuhan proyek Mitra.
 

@@ -21,13 +21,13 @@ Memasang baja ringan untuk kebutuhan bangunan bisa dilakukan dengan cukup mudah.
 
 Sebelum Anda menghubungi kami, ada beberapa alasan penting yang perlu Anda ketahui mengapa memilih baja ringan sebagai kerangka atap dan *canopy*:
 
- **Ramah Lingkungan:** Baja ringan lebih ramah lingkungan karena tidak memerlukan kayu. Dengan menggunakan baja ringan, Anda turut berkontribusi dalam melestarikan alam.
- **Lebih Ekonomis:** Dibandingkan kerangka kayu, baja ringan umumnya lebih murah. Kayu berkualitas tinggi tentu membutuhkan biaya yang lebih besar. Pertimbangkan hal ini untuk menekan biaya pembangunan.
- **Ringan dan Kuat:** Baja ringan berbeda dengan baja biasa yang dua kali lebih berat. Baja ringan tipis namun tetap kuat untuk kerangka atap dan *canopy* rumah Anda.
- **Minim Perawatan:** Anda tidak perlu khawatir tentang kerusakan atau perawatan rutin. Ini akan membebaskan Anda dari biaya perawatan tahunan.
- **Pemasangan Cepat:** Pemasangan kerangka atap baja ringan jauh lebih cepat dibandingkan material lain seperti kayu.
- **Kualitas Terjamin:** Baja ringan yang kami gunakan bersertifikasi dan memiliki standar keamanan 4 kali lebih baik dari baja biasa. Bahkan, mampu menahan beban berkilo-kilo.
- **Tahan Rayap:** Kerangka atap dan *canopy* baja ringan kami dijamin tahan terhadap rayap.
+- **Ramah Lingkungan:** Baja ringan lebih ramah lingkungan karena tidak memerlukan kayu. Dengan menggunakan baja ringan, Anda turut berkontribusi dalam melestarikan alam.
+- **Lebih Ekonomis:** Dibandingkan kerangka kayu, baja ringan umumnya lebih murah. Kayu berkualitas tinggi tentu membutuhkan biaya yang lebih besar. Pertimbangkan hal ini untuk menekan biaya pembangunan.
+- **Ringan dan Kuat:** Baja ringan berbeda dengan baja biasa yang dua kali lebih berat. Baja ringan tipis namun tetap kuat untuk kerangka atap dan *canopy* rumah Anda.
+- **Minim Perawatan:** Anda tidak perlu khawatir tentang kerusakan atau perawatan rutin. Ini akan membebaskan Anda dari biaya perawatan tahunan.
+- **Pemasangan Cepat:** Pemasangan kerangka atap baja ringan jauh lebih cepat dibandingkan material lain seperti kayu.
+- **Kualitas Terjamin:** Baja ringan yang kami gunakan bersertifikasi dan memiliki standar keamanan 4 kali lebih baik dari baja biasa. Bahkan, mampu menahan beban berkilo-kilo.
+- **Tahan Rayap:** Kerangka atap dan *canopy* baja ringan kami dijamin tahan terhadap rayap.
 
 ## Cara Menghitung Luas Rangka Baja Ringan Di Pasir Kuda Bogor
 
@@ -53,10 +53,10 @@ Membahas biaya jasa pasang baja ringan seringkali membingungkan karena banyak in
 
 (Catatan: harga dapat berubah sewaktu-waktu) Berikut adalah perkiraan biaya jasa pasang baja ringan berdasarkan jenis pemasangannya:
 
-*   Kanopi rangka baja ringan dengan Polikarbonat Lite: Rp. 285.000 / m
-*   Kanopi rangka baja ringan dengan Spandek: Rp. 225.000 / m
-*   Kanopi rangka baja ringan dengan Gogreen: Rp. 200.000 / m
-*   Untuk perhitungan lain, segera hubungi kami melalui kontak yang tersedia di *website* kami.
+- Kanopi rangka baja ringan dengan Polikarbonat Lite: Rp. 285.000 / m
+- Kanopi rangka baja ringan dengan Spandek: Rp. 225.000 / m
+- Kanopi rangka baja ringan dengan Gogreen: Rp. 200.000 / m
+- Untuk perhitungan lain, segera hubungi kami melalui kontak yang tersedia di *website* kami.
 
 **Parameter Besaran Harga Jasa Pasang Baja Ringan:**
 
@@ -76,10 +76,10 @@ Setelah pembuatan sketsa dan perhitungan rangka selesai, Anda dapat membahas per
 
 Berikut adalah informasi rinci mengenai biaya layanan pasang baja ringan yang perlu Anda ketahui:
 
-*   Biaya jasa kami sudah termasuk biaya pemasangan yang lebih ekonomis dan menawarkan diskon menarik untuk konsumen.
-*   Harga yang kami berikan sesuai dengan jasa pemasangan, perhitungan, dan material yang digunakan.
-*   Kami selalu mengutamakan harga terbaik untuk Anda.
-*   Biaya jasa pasang baja ringan dapat berubah sewaktu-waktu karena fluktuasi harga material.
-*   Pembayaran dapat dilakukan dengan *down payment* dan sisanya setelah pemasangan selesai.
+- Biaya jasa kami sudah termasuk biaya pemasangan yang lebih ekonomis dan menawarkan diskon menarik untuk konsumen.
+- Harga yang kami berikan sesuai dengan jasa pemasangan, perhitungan, dan material yang digunakan.
+- Kami selalu mengutamakan harga terbaik untuk Anda.
+- Biaya jasa pasang baja ringan dapat berubah sewaktu-waktu karena fluktuasi harga material.
+- Pembayaran dapat dilakukan dengan *down payment* dan sisanya setelah pemasangan selesai.
 
 Anda dapat mempercayakan semuanya kepada kami. Kami, sebagai Harga Pasang Atap Baja Ringan Di Pasir Kuda Bogor, siap membantu Anda menentukan ukuran, kualitas, dan pemasangan yang tepat sesuai kebutuhan tanpa meninggalkan sisa material. Hubungi kami sekarang juga! Terima kasih. Lihat juga artikel kami tentang Harga Pasang Atap Baja Ringan Di Babakan Bogor untuk perbandingan.

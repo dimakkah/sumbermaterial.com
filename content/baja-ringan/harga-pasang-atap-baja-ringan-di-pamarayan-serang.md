@@ -21,13 +21,13 @@ Pemasangan baja ringan untuk kebutuhan bangunan Anda di Pamarayan Serang, bisa d
 
 Berikut beberapa alasan dasar yang perlu Anda ketahui sebelum menghubungi kami, mengapa Anda harus memilih baja ringan sebagai kerangka atap dan kanopi:
 
- Baja ringan lebih ramah lingkungan karena tidak membutuhkan kayu, yang berarti Anda turut melestarikan alam.
- Baja ringan lebih ekonomis. Memilih kerangka kayu akan jauh lebih mahal karena kayu berkualitas tinggi memerlukan biaya yang lebih besar. Ini penting untuk menekan biaya pembangunan Anda.
- Baja ringan ringan dan kuat. Berat baja ringan hanya setengah dari berat baja atau besi, namun tetap memiliki ketebalan yang tipis dan ringan, sehingga sangat kuat untuk kerangka atap dan pembuatan kanopi rumah Anda.
- Tidak memerlukan perawatan rutin. Anda tidak perlu khawatir dengan kerusakan dan perawatan tahunan yang memakan biaya.
- Proses pemasangan lebih cepat. Berbeda dengan kerangka kayu, pemasangan baja ringan lebih cepat dan efisien.
- Bahan berkualitas tinggi. Baja ringan yang kami gunakan terbuat dari zinc dan aluminium yang memiliki standar keamanan 4 kali lebih baik daripada baja umum dan mampu menahan beban berkilo-kilo.
- Tahan rayap. Kerangka atap dan kanopi dari baja ringan dijamin tahan terhadap serangan rayap.
+- Baja ringan lebih ramah lingkungan karena tidak membutuhkan kayu, yang berarti Anda turut melestarikan alam.
+- Baja ringan lebih ekonomis. Memilih kerangka kayu akan jauh lebih mahal karena kayu berkualitas tinggi memerlukan biaya yang lebih besar. Ini penting untuk menekan biaya pembangunan Anda.
+- Baja ringan ringan dan kuat. Berat baja ringan hanya setengah dari berat baja atau besi, namun tetap memiliki ketebalan yang tipis dan ringan, sehingga sangat kuat untuk kerangka atap dan pembuatan kanopi rumah Anda.
+- Tidak memerlukan perawatan rutin. Anda tidak perlu khawatir dengan kerusakan dan perawatan tahunan yang memakan biaya.
+- Proses pemasangan lebih cepat. Berbeda dengan kerangka kayu, pemasangan baja ringan lebih cepat dan efisien.
+- Bahan berkualitas tinggi. Baja ringan yang kami gunakan terbuat dari zinc dan aluminium yang memiliki standar keamanan 4 kali lebih baik daripada baja umum dan mampu menahan beban berkilo-kilo.
+- Tahan rayap. Kerangka atap dan kanopi dari baja ringan dijamin tahan terhadap serangan rayap.
 
 ## Cara Hitung Luas Rangka Baja Ringan Di Pamarayan Serang
 
@@ -60,15 +60,15 @@ Membahas harga jasa pasang baja ringan, sebenarnya sudah banyak informasi yang t
 
 ### Parameter Besaran Harga Jasa Pasang Baja Ringan
 
-### 1. Pembuatan Sketsa Desain
+#### 1. Pembuatan Sketsa Desain
 
 Biaya juga dipengaruhi oleh sketsa desain yang dibuat oleh tim teknisi kami. Sketsa ini penting untuk memastikan kebutuhan jumlah baja ringan yang tepat dan meminimalkan sisa material. Pembuatan sketsa juga termasuk dalam perhitungan harga pasang baja ringan dari layanan kami.
 
-### 2. Perhitungan Kebutuhan Rangka
+#### 2. Perhitungan Kebutuhan Rangka
 
 Setelah Anda memiliki sketsa pemasangan, kami akan menghitung kebutuhan rangka yang harus disiapkan untuk memperkirakan jumlah material baja ringan yang dibutuhkan. Anda dapat bertanya kepada tim teknisi kami mengenai waktu dan kualitas setiap material.
 
-### 3. Perhitungan Budget
+#### 3. Perhitungan Budget
 
 Setelah pembuatan sketsa dan perhitungan rangka selesai, Anda bisa membicarakan perkiraan biaya total pemasangan baja ringan. Budget yang dibutuhkan bergantung pada jumlah rangka, luas komponen kerangka, material tambahan, tenaga teknisi, dan pengiriman. Mintalah rincian biaya jasa pasang baja ringan agar Anda dapat menyiapkan budget dengan tepat. Anda juga dapat memilih jenis baja ringan dari yang paling standar hingga yang berkualitas baik.
 

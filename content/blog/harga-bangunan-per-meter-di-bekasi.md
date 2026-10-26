@@ -18,7 +18,6 @@ draft: false
 
 {{< toc >}}
 
-
 ## Memahami Faktor Penentu Harga Bangunan Per Meter
 
 Sebelum membahas angka, penting bagi Mitra untuk memahami bahwa harga bangunan per meter di Bekasi tidaklah paten. Ada beberapa faktor utama yang memengaruhi biaya totalnya. Salah satunya adalah jenis material yang digunakan. Apakah Anda memilih material standar atau material premium? Kemudian ada desain rumah. Semakin kompleks desainnya, tentu saja biayanya akan lebih tinggi. Lokasi juga berpengaruh, karena ongkos transportasi material bisa berbeda-beda tergantung jarak.
@@ -29,9 +28,9 @@ Selain itu, jangan lupakan biaya tenaga kerja. Upah tukang di Bekasi bisa bervar
 
 Lantas, berapa kisaran harga bangunan per meter di Bekasi saat ini? Secara umum, Kami bisa membagi estimasinya menjadi tiga kategori berdasarkan kualitas material dan finishing:
 
-*   **Kualitas Standar:** Untuk bangunan dengan material standar (bata merah, keramik biasa, atap asbes, finishing cat standar), estimasi harga berkisar antara Rp 3.000.000 – Rp 4.000.000 per meter persegi.
-*   **Kualitas Menengah:** Dengan material yang lebih baik (bata merah berkualitas, keramik motif, atap genteng beton, finishing cat menengah), harga bisa mencapai Rp 4.000.000 – Rp 5.500.000 per meter persegi.
-*   **Kualitas Premium:** Untuk bangunan dengan material premium (bata ringan, keramik granit, atap baja ringan, finishing cat premium, penggunaan material alam), harga bisa tembus Rp 5.500.000 ke atas per meter persegi.
+- **Kualitas Standar:** Untuk bangunan dengan material standar (bata merah, keramik biasa, atap asbes, finishing cat standar), estimasi harga berkisar antara Rp 3.000.000 – Rp 4.000.000 per meter persegi.
+- **Kualitas Menengah:** Dengan material yang lebih baik (bata merah berkualitas, keramik motif, atap genteng beton, finishing cat menengah), harga bisa mencapai Rp 4.000.000 – Rp 5.500.000 per meter persegi.
+- **Kualitas Premium:** Untuk bangunan dengan material premium (bata ringan, keramik granit, atap baja ringan, finishing cat premium, penggunaan material alam), harga bisa tembus Rp 5.500.000 ke atas per meter persegi.
 
 Harga ini bersifat estimasi dan dapat berubah sewaktu-waktu — hubungi Kami untuk penawaran terbaru dan paling akurat sesuai kebutuhan proyek Mitra.
 

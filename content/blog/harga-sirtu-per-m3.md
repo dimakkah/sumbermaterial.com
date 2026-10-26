@@ -19,8 +19,6 @@ draft: false
 
 ![Biar Proyek Lancar, Cek Harga Sirtu Per M3 Terbaru di Jabodetabek](/images/blog/harga-sirtu-per-m3.jpg)
 
-
-
 ## Pertimbangan Sebelum Membeli Sirtu: Jenis dan Kualitas yang Tepat
 
 Mitra Sumber Material, sebelum membahas harga sirtu per m3, penting untuk memahami bahwa tidak semua sirtu sama. Ada beberapa jenis sirtu yang beredar di pasaran, seperti sirtu kasar, sirtu halus, dan sirtu campuran. Pemilihan jenis sirtu ini bergantung pada kebutuhan proyek Anda. Misalnya, untuk urugan pondasi atau lantai kerja, sirtu kasar lebih ideal karena memberikan kepadatan yang lebih baik. Sementara untuk pekerjaan finishing, sirtu halus bisa menjadi pilihan yang tepat. Kualitas sirtu juga berpengaruh pada kekuatan dan daya tahan hasil urugan. Pastikan sirtu yang Anda beli bersih dari kotoran organik, sampah, dan material lain yang dapat mengurangi kualitasnya. Untuk mendapatkan jenis dan kualitas yang Anda butuhkan, jangan ragu untuk konsultasi dengan Kami. Kami akan membantu Anda memilih sirtu yang paling sesuai dengan proyek Anda.
@@ -29,11 +27,11 @@ Mitra Sumber Material, sebelum membahas harga sirtu per m3, penting untuk memaha
 
 Kami di Sumber Material menyediakan sirtu berkualitas tinggi dengan berbagai pilihan ukuran dan mutu. Sirtu yang Kami sediakan cocok untuk berbagai aplikasi, termasuk:
 
-*   **Urugan Pondasi:** Memberikan dasar yang kuat dan stabil untuk bangunan Anda.
-*   **Lantai Kerja:** Menciptakan permukaan yang rata dan padat untuk area kerja.
-*   **Urugan Kembali:** Mengisi kembali area yang digali setelah pekerjaan konstruksi selesai.
-*   **Pembuatan Jalan:** Bahan dasar untuk jalan setapak, jalan lingkungan, atau jalan proyek.
-*   **Landscaping:** Untuk menata taman atau area hijau di sekitar bangunan.
+- **Urugan Pondasi:** Memberikan dasar yang kuat dan stabil untuk bangunan Anda.
+- **Lantai Kerja:** Menciptakan permukaan yang rata dan padat untuk area kerja.
+- **Urugan Kembali:** Mengisi kembali area yang digali setelah pekerjaan konstruksi selesai.
+- **Pembuatan Jalan:** Bahan dasar untuk jalan setapak, jalan lingkungan, atau jalan proyek.
+- **Landscaping:** Untuk menata taman atau area hijau di sekitar bangunan.
 
 Sirtu yang Kami jual dijamin bersih, bebas dari kotoran organik, dan memiliki ukuran yang seragam. Kami juga menyediakan jasa pengiriman sirtu ke lokasi proyek Anda di wilayah Jabodetabek dan sekitarnya. Dengan pilihan yang tepat, Anda bisa menghemat waktu dan biaya konstruksi.
 

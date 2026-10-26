@@ -18,7 +18,6 @@ draft: false
 
 {{< toc >}}
 
-
 ## Mengapa Pasir Laut Jadi Pilihan Utama?
 
 Pasir laut sering jadi andalan di berbagai proyek konstruksi, mulai dari pembuatan pondasi, urugan, hingga campuran beton. Kenapa ya? Karena pasir laut punya beberapa keunggulan, lho. Teksturnya yang kasar memberikan daya cengkram yang baik, penting banget untuk kekuatan struktur bangunan. Selain itu, pasir laut juga relatif mudah didapatkan di wilayah pesisir, meskipun ketersediaannya bisa fluktuatif tergantung musim dan permintaan.

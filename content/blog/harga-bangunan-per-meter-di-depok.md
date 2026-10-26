@@ -18,14 +18,13 @@ draft: false
 
 {{< toc >}}
 
-
 ## Estimasi Harga Bangunan Per Meter Persegi di Depok
 
 Estimasi harga bangunan per meter persegi di Depok saat ini bervariasi tergantung pada beberapa faktor, seperti kualitas material, desain bangunan, dan lokasi. Secara umum, kita bisa membagi estimasi biaya ke dalam tiga kategori utama:
 
-*   **Sederhana (Minimalis):** Kisaran Rp 3.500.000 – Rp 4.500.000 per meter persegi. Kategori ini biasanya menggunakan material standar, desain simpel, dan finishing yang tidak terlalu mewah. Contoh material yang umum digunakan adalah batako, keramik standar, dan rangka atap kayu.
-*   **Menengah:** Kisaran Rp 4.500.000 – Rp 6.000.000 per meter persegi. Pada kategori ini, kualitas material yang digunakan sudah lebih baik, misalnya penggunaan keramik yang lebih berkualitas, rangka atap baja ringan, dan penggunaan plesteran aci. Desain bangunan juga lebih bervariasi.
-*   **Mewah:** Di atas Rp 6.000.000 per meter persegi. Kategori ini menggunakan material premium, desain custom, dan finishing yang mewah. Misalnya, penggunaan marmer, granit, sanitary ware premium, dan sistem smart home.
+- **Sederhana (Minimalis):** Kisaran Rp 3.500.000 – Rp 4.500.000 per meter persegi. Kategori ini biasanya menggunakan material standar, desain simpel, dan finishing yang tidak terlalu mewah. Contoh material yang umum digunakan adalah batako, keramik standar, dan rangka atap kayu.
+- **Menengah:** Kisaran Rp 4.500.000 – Rp 6.000.000 per meter persegi. Pada kategori ini, kualitas material yang digunakan sudah lebih baik, misalnya penggunaan keramik yang lebih berkualitas, rangka atap baja ringan, dan penggunaan plesteran aci. Desain bangunan juga lebih bervariasi.
+- **Mewah:** Di atas Rp 6.000.000 per meter persegi. Kategori ini menggunakan material premium, desain custom, dan finishing yang mewah. Misalnya, penggunaan marmer, granit, sanitary ware premium, dan sistem smart home.
 
 Harga ini bersifat estimasi dan dapat berubah sewaktu-waktu — hubungi Kami untuk penawaran terbaru dan paling akurat sesuai kebutuhan proyek Mitra.
 
@@ -49,18 +48,17 @@ Desain bangunan yang rumit dengan banyak detail akan membutuhkan waktu dan tenag
 
 Sebagai Mitra Sumber Material, Anda pasti ingin mendapatkan harga bangunan yang terbaik. Berikut beberapa tips yang bisa Anda terapkan:
 
-*   **Buat Rencana Anggaran yang Jelas:** Sebelum memulai pembangunan, buatlah rencana anggaran yang detail dan realistis. Alokasikan dana untuk setiap tahapan pembangunan, mulai dari persiapan lahan hingga finishing.
-*   **Pilih Material yang Tepat:** Pilih material bangunan yang sesuai dengan anggaran dan kebutuhan Anda. Jangan terpaku pada material premium jika anggaran terbatas. Gunakan material lokal yang berkualitas sebagai alternatif.
-*   **Bandingkan Harga Material:** Lakukan survei harga material di beberapa toko bangunan untuk mendapatkan harga yang terbaik. Kami di Sumber Material selalu berusaha memberikan harga yang kompetitif dan kualitas terjamin.
-*   **Gunakan Jasa Tukang yang Berpengalaman:** Jasa tukang yang berpengalaman akan bekerja lebih efisien dan menghasilkan kualitas pekerjaan yang baik. Hal ini dapat menghemat waktu dan biaya dalam jangka panjang.
-*   **Manfaatkan Diskon dan Promo:** Cari tahu diskon dan promo yang ditawarkan oleh toko bangunan atau penyedia jasa konstruksi.
+- **Buat Rencana Anggaran yang Jelas:** Sebelum memulai pembangunan, buatlah rencana anggaran yang detail dan realistis. Alokasikan dana untuk setiap tahapan pembangunan, mulai dari persiapan lahan hingga finishing.
+- **Pilih Material yang Tepat:** Pilih material bangunan yang sesuai dengan anggaran dan kebutuhan Anda. Jangan terpaku pada material premium jika anggaran terbatas. Gunakan material lokal yang berkualitas sebagai alternatif.
+- **Bandingkan Harga Material:** Lakukan survei harga material di beberapa toko bangunan untuk mendapatkan harga yang terbaik. Kami di Sumber Material selalu berusaha memberikan harga yang kompetitif dan kualitas terjamin.
+- **Gunakan Jasa Tukang yang Berpengalaman:** Jasa tukang yang berpengalaman akan bekerja lebih efisien dan menghasilkan kualitas pekerjaan yang baik. Hal ini dapat menghemat waktu dan biaya dalam jangka panjang.
+- **Manfaatkan Diskon dan Promo:** Cari tahu diskon dan promo yang ditawarkan oleh toko bangunan atau penyedia jasa konstruksi.
 
 ![Contoh rumah minimalis satu lantai di Depok](/images/blog/harga-bangunan-per-meter-di-depok.jpg)
 
 ## Perbandingan Material Atap untuk Menghemat Biaya
 
 Berikut tabel perbandingan material atap yang sering digunakan di Depok, beserta perkiraan harganya (per meter persegi):
-
 
 <table class="table">
   <caption>Perbandingan Harga &amp; Kelebihan Atap</caption>
@@ -74,7 +72,6 @@ Berikut tabel perbandingan material atap yang sering digunakan di Depok, beserta
     <tr><td>Genteng Metal</td><td>Rp 60.000 - Rp 100.000</td><td>Ringan, tahan lama, pilihan warna beragam</td><td>Bisa berisik saat hujan, perlu peredam panas</td></tr>
   </tbody>
 </table>
-
 
 Harga ini bersifat estimasi dan dapat berubah sewaktu-waktu — hubungi Kami untuk penawaran terbaru dan paling akurat sesuai kebutuhan proyek Mitra.
 

@@ -17,12 +17,11 @@ draft: false
 
 {{< toc >}}
 
-
 Memulai proyek bangunan di Medan? Tentu saja batako menjadi salah satu material yang penting untuk diperhatikan. Nah, artikel ini akan membahas tuntas tentang harga batako di medan, mulai dari faktor yang mempengaruhinya, tips memilih yang tepat, hingga estimasi biaya yang perlu Anda siapkan.
 
 ## Memahami Harga Batako di Medan: Apa Saja Pengaruhnya?
 
-Harga batako di medan bisa bervariasi, lho. Ada beberapa faktor yang mempengaruhinya. Pertama, ada **jenis batako** itu sendiri. Batako standar, batako hollow, batako ringan, masing-masing punya harga yang berbeda. Kemudian, **ukuran batako** juga berpengaruh. Semakin besar ukurannya, biasanya harganya juga akan lebih tinggi. 
+Harga batako di medan bisa bervariasi, lho. Ada beberapa faktor yang mempengaruhinya. Pertama, ada **jenis batako** itu sendiri. Batako standar, batako hollow, batako ringan, masing-masing punya harga yang berbeda. Kemudian, **ukuran batako** juga berpengaruh. Semakin besar ukurannya, biasanya harganya juga akan lebih tinggi.
 
 Selain itu, **kualitas bahan baku** juga sangat menentukan. Batako yang terbuat dari bahan berkualitas tentu akan lebih mahal, tapi juga lebih tahan lama dan kuat. Lalu, jangan lupakan **lokasi pembelian** dan **jasa pengiriman**. Harga dari pemasok langsung biasanya berbeda dengan harga dari toko bangunan di pinggir jalan. Nah, faktor terakhir yang berpengaruh adalah **permintaan pasar**. Saat permintaan tinggi, harga batako cenderung naik.
 
@@ -30,9 +29,9 @@ Selain itu, **kualitas bahan baku** juga sangat menentukan. Batako yang terbuat 
 
 Mitra Sumber Material selalu berusaha memberikan harga yang kompetitif. Untuk tahun ini, berikut perkiraan harga batako di medan (harga bersifat estimasi dan dapat berubah sewaktu-waktu — hubungi Kami untuk penawaran terbaru dan paling akurat sesuai kebutuhan proyek Mitra):
 
-*   **Batako Standar:** Mulai dari Rp 400.000 - Rp 600.000 per 100 buah.
-*   **Batako Hollow:** Mulai dari Rp 500.000 - Rp 700.000 per 100 buah.
-*   **Batako Ringan:** Mulai dari Rp 600.000 - Rp 800.000 per 100 buah.
+- **Batako Standar:** Mulai dari Rp 400.000 - Rp 600.000 per 100 buah.
+- **Batako Hollow:** Mulai dari Rp 500.000 - Rp 700.000 per 100 buah.
+- **Batako Ringan:** Mulai dari Rp 600.000 - Rp 800.000 per 100 buah.
 
 Angka ini bisa berbeda tergantung pada kualitas, ukuran, dan penyedia material. Penting untuk melakukan survei harga sebelum membeli.
 
@@ -51,7 +50,6 @@ Memilih batako yang tepat itu penting, nih. Jangan hanya terpaku pada harga mura
 
 Bingung memilih antara batako standar dan batako hollow? Berikut tabel perbandingan singkat untuk membantu Anda memutuskan:
 
-
 <table class="table">
   <caption>Perbandingan Batako Standar vs. Batako Hollow</caption>
   <thead>
@@ -65,7 +63,6 @@ Bingung memilih antara batako standar dan batako hollow? Berikut tabel perbandin
     <tr><td>Penggunaan</td><td>Dinding luar, struktur beban berat</td><td>Dinding dalam, partisi</td></tr>
   </tbody>
 </table>
-
 
 Anda bisa lihat, batako standar lebih cocok untuk dinding luar dan struktur yang membutuhkan kekuatan tinggi. Sementara batako hollow lebih ringan dan ekonomis untuk dinding dalam atau partisi.
 

@@ -25,7 +25,7 @@ Menurut Standar Nasional Indonesia ( SK SNI - S - 04 - 1989 - F ; 28) di sebutka
 
 Persyaratan Pasir yang Bagus tuk Konstruksi
 
-1.  Agregat Halus harus terdiri dari butiran yg tajam dan keras dengan indeks kekerasan <2.2
+1.  Agregat Halus harus terdiri dari butiran yg tajam dan keras dengan indeks kekerasan <2.2
 2. Jikalau digunakan Natrium Sulfat komponen hancur optimal dua belas persen
 3. seandainya diterapkan Magnesium Sulfat bagian halus maksimal sepuluh %
 4. Tak boleh mengandung tanah lebih dari 5%
@@ -41,7 +41,6 @@ Persyaratan Pasir yang Bagus tuk Konstruksi
 Sesudah mengenal syarat pasir tuk sebuah Konstruksi Bangunan, sekarang ini kita bahas Macam - Jenis Pasir Untuk Bangunan penjelasan nya sbb:
 
 - ### Pasir Jenis Cor dan Daerah Sumbernya Di Kayu Putih Jakarta
-    
 
 Pasir ini lazim nya berwarna coklat tua dan tingkat kekerasan butiran nya cukup tinggi. Melainkan bila anda mengepal nya dengan tangan tak akan lengket dan akan hancur kembali. jenis pasir ini sangat lah bagus buat Pengecoran, Plesteran Dinding, Adukan Pondasi dan Adukan Pasangan Bata Pasir ini yaitu pasir untuk Rigid ialah butiran-butiran mineral keras dan tajam berukuran antara 0,075 – 5 mm, kalau terdapat butiran berukuran lebih kecil dari 0,063 mm tidak lebih dari 5% berat. Pasir ini yaitu pasir untuk Beton kerap kali dimanfaatkan untuk pekerjaan cor-coran struktur seperti kolom, balok dan pelat lantai.
 
@@ -59,21 +58,18 @@ Untuk memperoleh kualitas Cor yang optimal karenanya pasir patut mampu memenuhi 
 ![Harga Pasir Putih Bangka Free Ongkir Ke Kayu Putih Jakarta](/images/info/pasir-hitam-7.jpg)
 
 - ### Pasir Untuk Pasang Batu, Pondasi, Bata, Ubin, Plester Di Kayu Putih Jakarta
-    
 
 ![Harga Pasir Putih Bangka Free Ongkir Ke Kayu Putih Jakarta](/images/info/jual-pasir-mundu-2.jpg)
 
 Pasir ini lebih halus lagi dibandingkan oleh pasir beton. bila kamu mengepal pasir ini karenanya akan menggumpal dan tak akan buyar kembali. pasir pasang umum nya di pakai tuk campuran pasir beton supaya tidak terlampau kasar dan dapat di gunakan untuk plesteran dinding.
 
 - ### Pasir Urug Untuk pengurugan lantai Di Kayu Putih Jakarta
-    
 
 Di Antara ke dua pasir diatas pasir tipe ini lebih halus lagi, jika kalian mengepal nya maka akan menggumpal dan tidak akan buyar lagi. tapi pasir jenis
 
 Pada biasa nya pasir ini nyaris sama dgn pasir beton akan namun pasir ini memiliki tingkat kekasaran yg tinggi, butiran - butiran nya cukup besar dan agak banyak batuan nya. pada lazimnya pasir tipe ini baik tuk bahan dasaran pemasangan keramik
 
 - ### Pasir Putih Tanpa Batu Untuk Pasang Keramik Di Kayu Putih Jakarta
-    
 
 1. **Pasir Putih Bangka**
 

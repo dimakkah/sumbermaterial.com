@@ -44,13 +44,13 @@ Secara biasa pembuatan Kusen Pintu/Jendela Almunium ini banyak dicari orang utk 
 
 Alasan Anda Memilih Jasa Pembikinan Kusen Alumunium dari Kami.
 
-1\. Kami mengerjakan pesanan layak dg tanggal yg disepakati sehingga anda sebagai pelanggan juga mendapatkan hasil yg pantas dengan estimasi.
+1. Kami mengerjakan pesanan layak dg tanggal yg disepakati sehingga anda sebagai pelanggan juga mendapatkan hasil yg pantas dengan estimasi.
 
-2\. Kami juga melayani banyak pekerjaan lain seperti pembuatan kerangka atas, wood parisi, instalisasi listrik dan masih banyak lagi Jasa lain yg kami miliki.
+2. Kami juga melayani banyak pekerjaan lain seperti pembuatan kerangka atas, wood parisi, instalisasi listrik dan masih banyak lagi Jasa lain yg kami miliki.
 
-3\. Pembayaran menjadi solusi untuk anda, kami memberikan pembayaran dengan cara DP sehingga anda tak perlu ragu denga Layanan yg kami tawarkan.
+3. Pembayaran menjadi solusi untuk anda, kami memberikan pembayaran dengan cara DP sehingga anda tak perlu ragu denga Layanan yg kami tawarkan.
 
-4\. Regu kami akan datang ke lokasi anda untuk memperhatikan dan mengevaluasi ukuran Kusen Pintu/Jendela Almunium yang anda pesan.
+4. Regu kami akan datang ke lokasi anda untuk memperhatikan dan mengevaluasi ukuran Kusen Pintu/Jendela Almunium yang anda pesan.
 
 ## Macam dan Merk Alumium Yang kami Sediakan Di Panggarangan Rangkasbitung
 

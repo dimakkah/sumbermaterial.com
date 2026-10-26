@@ -17,8 +17,7 @@ draft: false
 
 {{< toc >}}
 
-
-### Memahami Jenis-Jenis Aspal yang Umum Digunakan
+## Memahami Jenis-Jenis Aspal yang Umum Digunakan
 
 Mitra Sumber Material, sebelum membahas lebih jauh tentang jasa pengaspalan Rangkasbitung, penting untuk memahami dulu berbagai jenis aspal yang tersedia. Secara garis besar, ada dua kategori utama: aspal panas (hotmix) dan aspal dingin (coldmix). Aspal panas, seperti namanya, dicampur dan diaplikasikan dalam kondisi panas. Ini menghasilkan permukaan yang lebih kuat dan tahan lama, ideal untuk jalan raya, parkiran, dan area dengan lalu lintas tinggi. Sementara aspal dingin, dicampur dengan bahan pengikat yang memungkinkan pengaplikasiannya pada suhu ruangan. Jenis ini lebih cocok untuk perbaikan kecil atau area yang lalu lintasnya tidak terlalu padat.
 

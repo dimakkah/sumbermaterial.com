@@ -16,7 +16,7 @@ saat ini bahan yg dipakai untuk mengisi dinding bangunan, sudah terdapat berjeni
 
 ## Mengetahui Tipe-tipe Bata
 
-### 1\. Bata Merah Standar & Jumbo Di Ciganjur Jakarta
+### 1. Bata Merah Standar & Jumbo Di Ciganjur Jakarta
 
 ![Harga Batako Truss Gratis Ongkir Ke Ciganjur Jakarta](/images/bata/bata-merah-oven-07.png)
 
@@ -26,7 +26,7 @@ Bata merah ini diciptakan dari bahan tanah yang kemudian di press dan dioven dg 
 
 Material bangunan ini sangat tahan terhadap panas dan pantas dibuat pengamanan dari panas api. Bata merah ini pada biasanya mempunyai ukuran panjang antara 17-23 cm dan lebar sekitar 7-11 cm, serta tebalnya 3-5 cm. mempunyai ukuran yg lebih kecil akan memberi kemudahan dalam progres pengangkutan dan bisa diaplikasikan untuk membentuk bidang kecil.
 
-### 2\. Batako Hitam dan Putih Di Ciganjur Jakarta
+### 2. Batako Hitam dan Putih Di Ciganjur Jakarta
 
 ![Harga Batako Truss Gratis Ongkir Ke Ciganjur Jakarta](/images/bata/batako-hitam-press-23.png)
 
@@ -34,7 +34,7 @@ Bahan bangunan dinding dari batako trus ini secara lazimnya terbuat dari materia
 
 Batako press seperti ini mempunyai kelemahan seperti mudah pecah, lebih panas dan pengap. Berbeda dengan bata merah yg terbuat dari bahan tanah. Tapi batako press ini cenderung lebih ringan daripada bata merah. Hasilnya akan tampak lebih halus dan ukurannya lebih presisi jikalau dibandingkan dg bata merah. Batako press Hitam ini mempunyai ukuran panjang sekitar 36-40 cm, tinggi 18-20 cm dan tebal 8-10 cm. bahan ini kerap dipilih karena untuk memperingan beban struktur bangunan, meminimalisir sisa material dan mempermudah pembangunan.
 
-### 3\. Bata Hebel Di Ciganjur Jakarta
+### 3. Bata Hebel Di Ciganjur Jakarta
 
 ![Harga Batako Truss Gratis Ongkir Ke Ciganjur Jakarta](/images/bata/bata-hebel-sni-05.png)
 
@@ -62,7 +62,7 @@ Segalanya tentu telah tahu fungsi utama batu bata mulai digunakan untuk membikin
 
 Metode memesan batu bata yang aman dan terpercaya:
 
-1.  Proses pembayaran dapat anda lakukan secara COD atau dibayar di tempat ketika barang pesanan anda telah datang di tempat
+1.  Proses pembayaran dapat anda lakukan secara COD atau dibayar di tempat ketika barang pesanan anda telah datang di tempat
 2. Silahkan memilih dan mempertimbangkan bahan batu bata yg anda inginkan
 3. Tentukan juga jumlah pesanan batu bata yang anda butuhkan dalam bentuk bijian.
 4. Anda dapat menghubungi layanan telepon kios untuk memudahkan pengerjaan pengorderan

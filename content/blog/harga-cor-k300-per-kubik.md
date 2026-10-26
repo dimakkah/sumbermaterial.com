@@ -17,7 +17,6 @@ draft: false
 
 {{< toc >}}
 
-
 ## Memahami Harga Cor K300 Per Kubik: Apa yang Mempengaruhi?
 
 Mitra, harga cor K300 per kubik itu sendiri bisa bervariasi cukup signifikan. Nah, apa saja sih yang bikin harga ini naik turun? Beberapa faktor utama yang perlu Anda ketahui antara lain adalah lokasi proyek, volume pemesanan, dan jarak tempuh dari *batching plant* ke lokasi proyek. Semakin jauh jaraknya, biasanya biaya transportasi akan menambah harga akhir. Selain itu, ketersediaan material baku seperti semen, pasir, dan split juga berperan penting. Kalau pasokan sedang sulit, harga material akan naik, dan otomatis harga cor juga ikut terpengaruh.
@@ -36,7 +35,6 @@ Perlu diingat bahwa harga ini biasanya sudah termasuk biaya campuran, pengiriman
 
 Penting untuk memahami bagaimana harga cor K300 dibandingkan dengan mutu beton lainnya. Berikut adalah perbandingan estimasi harga per kubik di tahun 2026:
 
-
 <table class="table">
   <caption>Perbandingan Harga Cor Beton Per Kubik (Estimasi 2026)</caption>
   <thead>
@@ -49,7 +47,6 @@ Penting untuk memahami bagaimana harga cor K300 dibandingkan dengan mutu beton l
     <tr><td>K400</td><td>Rp 1.100.000 - Rp 1.500.000</td><td>Struktur bangunan tinggi, jembatan</td></tr>
   </tbody>
 </table>
-
 
 Anda bisa melihat bahwa semakin tinggi mutu beton, semakin mahal pula harganya. Nah, sebelum memutuskan mutu beton yang akan digunakan, sebaiknya konsultasikan dengan ahli konstruksi atau teknisi sipil agar mendapatkan rekomendasi yang tepat sesuai dengan kebutuhan proyek Anda.
 

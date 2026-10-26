@@ -17,7 +17,6 @@ draft: false
 
 {{< toc >}}
 
-
 Mencari bahan bangunan berkualitas di Tigaraksa dan sekitarnya? Nah, Anda berada di tempat yang tepat! Kami dari Sumber Material hadir sebagai solusi lengkap kebutuhan konstruksi Anda. Mulai dari pasir, batu, batako, hebel, besi, wiremesh, baja ringan, hingga jasa sewa alat berat, semua tersedia.
 
 ## Mengapa Memilih Toko Bangunan di Tigaraksa?
@@ -30,17 +29,16 @@ Mitra, perlu diingat bahwa kualitas material juga sangat krusial. Jangan hanya t
 
 Kami menyediakan berbagai macam material bangunan yang Anda butuhkan, antara lain:
 
-*   **Pasir:** Pasir Urug, Pasir Cor, Pasir Pasang
-*   **Batu:** Batu Kali, Batu Split, Batu Gunung
-*   **Batako & Bata:** Batako Press, Batako Beton, Bata Merah
-*   **Hebel:** Berbagai ukuran dan ketebalan
-*   **Besi & Baja:** Besi Beton, Wiremesh, Baja Ringan
-*   **Material Lainnya:** Semen, Keramik, Genteng, dan lain-lain.
+- **Pasir:** Pasir Urug, Pasir Cor, Pasir Pasang
+- **Batu:** Batu Kali, Batu Split, Batu Gunung
+- **Batako & Bata:** Batako Press, Batako Beton, Bata Merah
+- **Hebel:** Berbagai ukuran dan ketebalan
+- **Besi & Baja:** Besi Beton, Wiremesh, Baja Ringan
+- **Material Lainnya:** Semen, Keramik, Genteng, dan lain-lain.
 
 ![tumpukan material bangunan di toko](/images/blog/toko-bangunan-tigaraksa.jpg)
 
 Untuk lebih detailnya, berikut adalah perbandingan beberapa jenis batako yang populer di Tigaraksa:
-
 
 <table class="table">
   <caption>Perbandingan Jenis Batako</caption>
@@ -54,17 +52,16 @@ Untuk lebih detailnya, berikut adalah perbandingan beberapa jenis batako yang po
   </tbody>
 </table>
 
-
 Harga ini bersifat estimasi dan dapat berubah sewaktu-waktu — hubungi Kami untuk penawaran terbaru dan paling akurat sesuai kebutuhan proyek Mitra.
 
 ## Jasa Sewa Alat Berat untuk Proyek Anda
 
 Selain menyediakan material bangunan, Kami juga menawarkan jasa sewa alat berat untuk berbagai keperluan konstruksi.  Beberapa alat berat yang tersedia antara lain:
 
-*   Excavator
-*   Bulldozer
-*   Vibratory Roller
-*   Dump Truck
+- Excavator
+- Bulldozer
+- Vibratory Roller
+- Dump Truck
 
 Sewa alat berat bisa menjadi solusi yang lebih ekonomis daripada membeli, terutama untuk proyek jangka pendek. Anda juga tidak perlu repot dengan biaya perawatan dan perbaikan alat.  Konsultasikan kebutuhan proyek Anda dengan tim Kami, dan Kami akan merekomendasikan alat berat yang paling sesuai.  [Jual Batu Split 1/2 Free Ongkir Ke Tigaraksa Tangerang](/batu/jual-batu-split-1-2-free-ongkir-ke-tigaraksa-tangerang/) juga menyediakan area penimbunan batu split yang bisa diakses langsung.
 
@@ -72,9 +69,9 @@ Sewa alat berat bisa menjadi solusi yang lebih ekonomis daripada membeli, teruta
 
 Mitra Sumber Material akan mendapatkan banyak keuntungan jika berbelanja di toko Kami. Selain harga yang kompetitif dan kualitas terjamin, Kami juga menawarkan:
 
-*   **Pengiriman Cepat dan Tepat Waktu:** Kami melayani pengiriman ke seluruh wilayah Jabodetabek dan sekitarnya.
-*   **Layanan Konsultasi Gratis:** Tim Kami siap membantu Anda memilih material yang tepat sesuai dengan kebutuhan proyek Anda.
-*   **Stok Barang Lengkap:** Kami selalu menyediakan stok barang yang cukup untuk memenuhi permintaan Anda.
-*   **Pelayanan Ramah dan Profesional:** Kami mengutamakan kepuasan pelanggan.
+- **Pengiriman Cepat dan Tepat Waktu:** Kami melayani pengiriman ke seluruh wilayah Jabodetabek dan sekitarnya.
+- **Layanan Konsultasi Gratis:** Tim Kami siap membantu Anda memilih material yang tepat sesuai dengan kebutuhan proyek Anda.
+- **Stok Barang Lengkap:** Kami selalu menyediakan stok barang yang cukup untuk memenuhi permintaan Anda.
+- **Pelayanan Ramah dan Profesional:** Kami mengutamakan kepuasan pelanggan.
 
 Butuh bantuan langsung untuk kebutuhan proyek Mitra Sumber Material? Silakan klik tombol **WhatsApp** atau **Telepon** di bawah untuk ngobrol langsung dengan tim Kami.

@@ -16,7 +16,7 @@ saat ini material yg dipakai untuk mengisi dinding rumah, sudah terdapat bermaca
 
 ## Mengetahui Jenis-jenis Bata
 
-### 1\. Bata Merah Standar & Jumbo Di Sindangsari Bogor
+### 1. Bata Merah Standar & Jumbo Di Sindangsari Bogor
 
 ![Harga Batako Putih Gratis Ongkir Ke Sindangsari Bogor](/images/bata/bata-merah-oven-29.png)
 
@@ -26,7 +26,7 @@ Bata merah ini dibuat dari material tanah yang kemudian di press dan dibakar dg 
 
 Material bangunan ini amat tahan terhadap panas dan layak dijadikan perlindungan dari panas api. Bata merah ini pada lazimnya mempunyai ukuran panjang antara 17-23 cm dan lebar sekitar 7-11 cm, serta tebalnya 3-5 cm. memiliki ukuran yang lebih kecil akan memberi kemudahan dalam pelaksanaan pengangkutan dan bisa dipakai untuk menyusun bidang kecil.
 
-### 2\. Batako Hitam dan Putih Di Sindangsari Bogor
+### 2. Batako Hitam dan Putih Di Sindangsari Bogor
 
 ![Harga Batako Putih Gratis Ongkir Ke Sindangsari Bogor](/images/bata/batako-hitam-press-23.png)
 
@@ -34,7 +34,7 @@ Material bangunan tembok dari batako press ini secara biasa terbuat dari bahan A
 
 Batako seperti ini memiliki kekurangan seperti mudah pecah, lebih panas dan pengap. Berbeda dengan bata merah yang terbuat dari bahan tanah. Tapi batako ini cenderung lebih ringan daripada bata merah. Alhasil akan menonjol lebih halus dan ukurannya lebih presisi jika dibandingkan dengan bata merah. Batako trus Hitam ini memiliki ukuran panjang sekitar 36-40 cm, tinggi 18-20 cm dan tebal 8-10 cm. bahan ini tak jarang dipilih sebab untuk memperingan muatan struktur bangunan, meminimalisir sisa bahan dan mempermudah pembangunan.
 
-### 3\. Bata Ringan Di Sindangsari Bogor
+### 3. Bata Ringan Di Sindangsari Bogor
 
 ![Harga Batako Putih Gratis Ongkir Ke Sindangsari Bogor](/images/bata/bata-hebel-sni-03.png)
 
@@ -62,7 +62,7 @@ Seluruhnya tentu telah tahu kegunaan utama batu bata mulai diaplikasikan untuk m
 
 Cara mengorder batu bata yang aman dan terpercaya:
 
-1.  Cara pembayaran bisa anda lakukan secara COD atau dibayar di tempat dikala barang pesanan anda sudah datang di tempat
+1.  Cara pembayaran bisa anda lakukan secara COD atau dibayar di tempat dikala barang pesanan anda sudah datang di tempat
 2. Silahkan memilih dan mempertimbangkan bahan batu bata yang anda inginkan
 3. Tentukan juga jumlah pesanan batu bata yang anda butuhkan dalam wujud bijian.
 4. Anda dapat menghubungi layanan telepon toko untuk mempermudah pengerjaan pengorderan

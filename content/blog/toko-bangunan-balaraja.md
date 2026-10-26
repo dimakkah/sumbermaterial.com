@@ -17,7 +17,6 @@ draft: false
 
 {{< toc >}}
 
-
 Rasanya menjengkelkan, kan? Harus bolak-balik ke beberapa toko berbeda hanya untuk mendapatkan material yang dibutuhkan. Nah, di sinilah peran penting sebuah toko bangunan terlengkap seperti Sumber Material. Kami hadir untuk mempermudah proyek konstruksi Anda, mulai dari persiapan awal hingga penyelesaian akhir. Mitra Sumber Material menyediakan berbagai macam material bangunan berkualitas dengan harga yang kompetitif, khususnya untuk wilayah Balaraja dan sekitarnya.
 
 ## Mengapa Memilih Toko Bangunan di Balaraja?
@@ -30,13 +29,13 @@ Kami di Sumber Material memahami betul kebutuhan proyek konstruksi Anda. Bukan s
 
 Apa saja material bangunan yang bisa Anda temukan di toko kami? Kami menyediakan berbagai macam material, mulai dari material dasar hingga finishing. Berikut beberapa di antaranya:
 
-*   **Pasir:** Pasir Urug, Pasir Cor, Pasir Halus, Pasir Kasar.
-*   **Batu:** Batu Split, Batu Kali, Sirtu.
-*   **Semen:** Berbagai merk semen ternama dengan mutu yang terjamin.
-*   **Bata & Batako:** Bata Merah, Batako Press, Batako KW.
-*   **Besi & Baja:** Besi Beton, Wiremesh, Baja Ringan, Hollow.
-*   **Material Atap:** Genteng, Asbes, Spandek.
-*   **Hebel:** Berbagai ukuran dan ketebalan hebel untuk dinding dan lantai.
+- **Pasir:** Pasir Urug, Pasir Cor, Pasir Halus, Pasir Kasar.
+- **Batu:** Batu Split, Batu Kali, Sirtu.
+- **Semen:** Berbagai merk semen ternama dengan mutu yang terjamin.
+- **Bata & Batako:** Bata Merah, Batako Press, Batako KW.
+- **Besi & Baja:** Besi Beton, Wiremesh, Baja Ringan, Hollow.
+- **Material Atap:** Genteng, Asbes, Spandek.
+- **Hebel:** Berbagai ukuran dan ketebalan hebel untuk dinding dan lantai.
 
 ![Tumpukan material bangunan di gudang Sumber Material](/images/blog/toko-bangunan-balaraja.jpg)
 
@@ -46,17 +45,16 @@ Kami selalu memastikan kualitas material yang kami jual memenuhi standar SNI. In
 
 Selain menyediakan material bangunan, kami juga melayani jasa sewa alat berat untuk berbagai kebutuhan proyek. Beberapa alat berat yang tersedia antara lain:
 
-*   **Excavator:** Untuk penggalian tanah dan pemindahan material.
-*   **Bulldozer:** Untuk meratakan tanah dan membersihkan area proyek.
-*   **Vibrator Roller:** Untuk memadatkan tanah dan aspal.
-*   **Truck:** Untuk mengangkut material bangunan.
+- **Excavator:** Untuk penggalian tanah dan pemindahan material.
+- **Bulldozer:** Untuk meratakan tanah dan membersihkan area proyek.
+- **Vibrator Roller:** Untuk memadatkan tanah dan aspal.
+- **Truck:** Untuk mengangkut material bangunan.
 
 Jasa sewa alat berat ini akan sangat membantu Anda dalam mempercepat proses konstruksi dan menghemat biaya operasional. Anda tidak perlu membeli alat berat yang mahal, cukup menyewanya sesuai dengan kebutuhan proyek Anda.
 
 ## Perbandingan Harga Material Bangunan di Balaraja (Estimasi)
 
 Untuk memberikan gambaran, berikut adalah estimasi harga beberapa material bangunan di wilayah Balaraja (harga per Oktober 2026, dapat berubah sewaktu-waktu):
-
 
 <table class="table">
   <caption>Estimasi Harga Material Bangunan (Oktober 2026)</caption>
@@ -71,7 +69,6 @@ Untuk memberikan gambaran, berikut adalah estimasi harga beberapa material bangu
     <tr><td>Besi Beton 10mm</td><td>Rp 7.000/batang</td><td>Harga belum termasuk ongkos kirim</td></tr>
   </tbody>
 </table>
-
 
 Harga ini bersifat estimasi dan dapat berubah sewaktu-waktu — hubungi Kami untuk penawaran terbaru dan paling akurat sesuai kebutuhan proyek Mitra.
 

@@ -21,19 +21,19 @@ Membangun dengan baja ringan itu praktis! Anda tidak perlu repot menyiapkan bany
 
 Yuk, kita bahas beberapa alasan mendasar mengapa Anda harus mempertimbangkan baja ringan untuk atap dan *canopy* di Cibadak Sukabumi:
 
- **Ramah Lingkungan:** Baja ringan membantu melestarikan alam karena tidak memerlukan penebangan pohon seperti penggunaan kayu. Dengan memilih baja ringan, Anda turut berkontribusi pada kelestarian lingkungan.
+- **Ramah Lingkungan:** Baja ringan membantu melestarikan alam karena tidak memerlukan penebangan pohon seperti penggunaan kayu. Dengan memilih baja ringan, Anda turut berkontribusi pada kelestarian lingkungan.
 
- **Lebih Ekonomis:** Dibandingkan kayu berkualitas tinggi, baja ringan umumnya lebih terjangkau. Pilihan cerdas untuk menekan biaya pembangunan.
+- **Lebih Ekonomis:** Dibandingkan kayu berkualitas tinggi, baja ringan umumnya lebih terjangkau. Pilihan cerdas untuk menekan biaya pembangunan.
 
- **Ringan dan Kuat:** Baja ringan terasa lebih ringan dari baja atau besi biasa (beratnya sekitar setengahnya!), namun tetap sangat kuat dan ideal untuk kerangka atap dan *canopy* rumah Anda.
+- **Ringan dan Kuat:** Baja ringan terasa lebih ringan dari baja atau besi biasa (beratnya sekitar setengahnya!), namun tetap sangat kuat dan ideal untuk kerangka atap dan *canopy* rumah Anda.
 
- **Minim Perawatan:** Anda tidak perlu khawatir tentang perawatan rutin yang memakan waktu dan biaya. Baja ringan dirancang untuk tahan lama dan minim perawatan.
+- **Minim Perawatan:** Anda tidak perlu khawatir tentang perawatan rutin yang memakan waktu dan biaya. Baja ringan dirancang untuk tahan lama dan minim perawatan.
 
- **Pemasangan Cepat:** Proses pemasangan baja ringan lebih cepat daripada kerangka atap kayu atau material lainnya. Hemat waktu dan tenaga!
+- **Pemasangan Cepat:** Proses pemasangan baja ringan lebih cepat daripada kerangka atap kayu atau material lainnya. Hemat waktu dan tenaga!
 
- **Kualitas Terjamin:** Baja ringan yang kami gunakan memiliki kualitas unggul, terbuat dari zinc dan aluminium dengan standar keamanan 4 kali lebih baik daripada baja biasa. Kuat menopang beban berat.
+- **Kualitas Terjamin:** Baja ringan yang kami gunakan memiliki kualitas unggul, terbuat dari zinc dan aluminium dengan standar keamanan 4 kali lebih baik daripada baja biasa. Kuat menopang beban berat.
 
- **Tahan Rayap:** Anda tidak perlu khawatir tentang kerusakan akibat rayap – baja ringan 100% tahan rayap!
+- **Tahan Rayap:** Anda tidak perlu khawatir tentang kerusakan akibat rayap – baja ringan 100% tahan rayap!
 
 ## Cara Menghitung Luas Rangka Baja Ringan Di Cibadak Sukabumi
 
@@ -47,7 +47,7 @@ Perhitungan luas datar adalah ( *overstack* + Panjang ) x ( lebar + *overstack* 
 
 ### Menghitung Luas Miring
 
-Luas miring dihitung dengan rumus: Luas miring = Luas datar / Cosinus kemiringan atap. Perhitungannya 181.44 / 0.8666 menghasilkan 209.52 m2. Jadi, luas kemiringan rangka atap baja ringan ini adalah 209.52 meter persegi. 
+Luas miring dihitung dengan rumus: Luas miring = Luas datar / Cosinus kemiringan atap. Perhitungannya 181.44 / 0.8666 menghasilkan 209.52 m2. Jadi, luas kemiringan rangka atap baja ringan ini adalah 209.52 meter persegi.
 
 Dengan menghitung ini, Anda bisa memperkirakan jumlah dan volume baja ringan yang dibutuhkan. Tapi, jangan khawatir jika terlihat rumit – tim kami siap membantu!
 
@@ -68,15 +68,15 @@ Berbicara soal harga, ada banyak informasi yang beredar, namun tidak semuanya mu
 
 ### Faktor Penentu Harga Jasa Pasang Baja Ringan
 
-### 1. Pembuatan Sketsa Desain
+#### 1. Pembuatan Sketsa Desain
 
 Harga juga dipengaruhi oleh desain atau pola sketsa yang Anda inginkan. Kami akan membuat sketsa untuk menghitung kebutuhan material baja ringan secara akurat, meminimalkan sisa material agar lebih efisien. Pembuatan sketsa ini juga termasuk dalam perhitungan harga jasa pasang baja ringan.
 
-### 2. Menghitung Kebutuhan Rangka
+#### 2. Menghitung Kebutuhan Rangka
 
 Setelah sketsa selesai, tim kami akan menghitung kebutuhan rangka untuk memperkirakan jumlah material baja ringan yang dibutuhkan. Jangan ragu untuk bertanya mengenai kualitas dan waktu pengerjaan setiap material. Konsultasikan secara menyeluruh untuk mendapatkan material yang tepat sesuai kebutuhan Anda.
 
-### 3. Menghitung *Budget* yang Dibutuhkan
+#### 3. Menghitung *Budget* yang Dibutuhkan
 
 Setelah sketsa dan perhitungan rangka selesai, kami akan membahas perkiraan biaya keseluruhan. *Budget* yang dibutuhkan tergantung pada beberapa faktor seperti jumlah rangka, luas area, material tambahan, tenaga teknisi, dan biaya pengiriman. Mintalah rincian harga jasa pasang baja ringan sebagai gambaran dalam menyiapkan *budget*. Anda juga bisa memilih jenis baja ringan dari standar hingga kualitas terbaik.
 

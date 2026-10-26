@@ -16,7 +16,7 @@ dikala ini bahan yang diterapkan untuk mengisi dinding rumah, sudah terdapat ber
 
 ## Mengenal Jenis-jenis Bata
 
-### 1\. Bata Merah Standar & Jumbo Di Tambelang Bekasi
+### 1. Bata Merah Standar & Jumbo Di Tambelang Bekasi
 
 ![Harga Batako Truss Gratis Ongkir Ke Tambelang Bekasi](/images/bata/bata-merah-oven-01.png)
 
@@ -26,7 +26,7 @@ Bata merah ini dihasilkan dari material tanah yg kemudian di bentuk dan dipanask
 
 Material bangunan ini betul-betul tahan terhadap panas dan cocok dijadikan proteksi dari bahaya api. Bata merah ini pada biasanya memiliki ukuran panjang antara 17-23 cm dan lebar sekitar 7-11 cm, serta tebalnya 3-5 cm. mempunyai ukuran yang lebih kecil akan memberi kemudahan dalam pengerjaan pengangkutan dan bisa dipakai untuk menyusun bidang kecil.
 
-### 2\. Batako Hitam dan Putih Di Tambelang Bekasi
+### 2. Batako Hitam dan Putih Di Tambelang Bekasi
 
 ![Harga Batako Truss Gratis Ongkir Ke Tambelang Bekasi](/images/bata/batako-hitam-press-29.png)
 
@@ -34,7 +34,7 @@ Material bangunan dinding dari batako trus ini secara biasa terbuat dari bahan K
 
 Batako seperti ini memiliki kelemahan seperti gampang pecah, lebih panas dan pengap. Berbeda dg bata merah yang terbuat dari material tanah. Namun batako ini cenderung lebih ringan ketimbang bata merah. Walhasil akan kelihatan lebih halus dan ukurannya lebih presisi seandainya diperbandingkan dg bata merah. Batako Hitam ini mempunyai ukuran panjang sekitar 36-40 cm, tinggi 18-20 cm dan tebal 8-10 cm. material ini tak jarang dipilih sebab untuk memperingan bobot struktur bangunan, meminimalisir sisa material dan mempercepat pembangunan.
 
-### 3\. Bata Hebel Di Tambelang Bekasi
+### 3. Bata Hebel Di Tambelang Bekasi
 
 ![Harga Batako Truss Gratis Ongkir Ke Tambelang Bekasi](/images/bata/bata-hebel-sni-05.png)
 
@@ -62,7 +62,7 @@ Segalanya tentu sudah tahu kegunaan utama batu bata mulai diterapkan untuk membu
 
 Cara memesan batu bata yg aman dan terpercaya:
 
-1.  Cara pembayaran bisa anda lakukan secara COD atau dibayar di tempat ketika barang orderan anda telah datang di daerah
+1.  Cara pembayaran bisa anda lakukan secara COD atau dibayar di tempat ketika barang orderan anda telah datang di daerah
 2. Silahkan memilih dan memutuskan material batu bata yang anda inginkan
 3. Tentukan juga jumlah orderan batu bata yg anda butuhkan dalam wujud bijian.
 4. Anda dapat menghubungi layanan telepon kios untuk memudahkan pelaksanaan pengorderan

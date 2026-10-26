@@ -17,7 +17,6 @@ draft: false
 
 {{< toc >}}
 
-
 Mitra Sumber Material, kebutuhan akan jasa las memang sering muncul tanpa terduga. Mungkin Anda baru saja memindahkan barang dan rangka besi rak ambruk, atau mungkin pagar rumah tetangga tertimpa pohon saat badai. Kondisi seperti ini membutuhkan penanganan cepat dan tukang las keliling bisa jadi solusi terbaik karena fleksibilitasnya.
 
 ## Keuntungan Menggunakan Jasa Tukang Las Keliling Terdekat
@@ -46,7 +45,6 @@ Sebagai gambaran, harga jasa tukang las keliling di wilayah Jabodetabek pada tah
 
 Berikut adalah contoh estimasi biaya per meter untuk beberapa jenis pekerjaan umum:
 
-
 <table class="table">
   <caption>Estimasi Biaya Jasa Las Per Meter (2026)</caption>
   <thead>
@@ -58,6 +56,5 @@ Berikut adalah contoh estimasi biaya per meter untuk beberapa jenis pekerjaan um
     <tr><td>Kanopi Besi</td><td>Besi Hollow/Rangka Baja Ringan</td><td>Rp 400.000 - Rp 700.000</td><td>Tergantung ukuran dan atap</td></tr>
   </tbody>
 </table>
-
 
 Apabila ada pertanyaan lain seputar topik ini, tombol **Telepon** dan **WhatsApp** di bawah halaman ini siap Kami jawab.

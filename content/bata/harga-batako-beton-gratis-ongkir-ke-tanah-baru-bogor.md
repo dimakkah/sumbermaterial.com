@@ -16,7 +16,7 @@ dikala ini material yg dipakai untuk mengisi dinding bangunan, telah terdapat be
 
 ## Mengenal Tipe-tipe Bata
 
-### 1\. Bata Merah Standar & Jumbo Di Tanah Baru Bogor
+### 1. Bata Merah Standar & Jumbo Di Tanah Baru Bogor
 
 ![Harga Batako Beton Gratis Ongkir Ke Tanah Baru Bogor](/images/bata/bata-merah-oven-13.png)
 
@@ -26,7 +26,7 @@ Bata merah ini diwujudkan dari material tanah yang kemudian di press dan dioven 
 
 Material bangunan ini sungguh-sungguh kuat terhadap panas dan sesuai dijadikan pengamanan dari bahaya api. Bata merah ini pada lazimnya mempunyai ukuran panjang antara 17-23 cm dan lebar sekitar 7-11 cm, serta tebalnya 3-5 cm. mempunyai ukuran yg lebih kecil akan memberi kemudahan dalam proses pengangkutan dan dapat dipakai untuk menyusun bidang kecil.
 
-### 2\. Batako Hitam dan Putih Di Tanah Baru Bogor
+### 2. Batako Hitam dan Putih Di Tanah Baru Bogor
 
 ![Harga Batako Beton Gratis Ongkir Ke Tanah Baru Bogor](/images/bata/batako-hitam-press-27.png)
 
@@ -34,7 +34,7 @@ Bahan bangunan dinding dari batako trus ini secara lazimnya terbuat dari materia
 
 Batako press seperti ini memiliki kelemahan seperti gampang retak, lebih panas dan pengap. Berbeda dengan bata merah yang terbuat dari bahan tanah. Tapi batako ini cenderung lebih ringan ketimbang bata merah. Hasilnya akan tampak lebih halus dan ukurannya lebih presisi jika dibandingkan dg bata merah. Batako Hitam ini mempunyai ukuran panjang sekitar 36-40 cm, tinggi 18-20 cm dan tebal 8-10 cm. material ini kerap kali dipilih sebab untuk memperingan muatan struktur bangunan, meminimalisir sisa bahan dan mempercepat pembangunan.
 
-### 3\. Bata Hebel Di Tanah Baru Bogor
+### 3. Bata Hebel Di Tanah Baru Bogor
 
 ![Harga Batako Beton Gratis Ongkir Ke Tanah Baru Bogor](/images/bata/bata-hebel-sni-09.png)
 
@@ -62,7 +62,7 @@ Semua tentunya sudah tahu fungsi utama batu bata mulai digunakan untuk membuat t
 
 Sistem mengorder batu bata yang aman dan terpercaya:
 
-1.  Cara pembayaran bisa anda lakukan secara COD atau dibayar di daerah saat barang orderan anda telah datang di tempat
+1.  Cara pembayaran bisa anda lakukan secara COD atau dibayar di daerah saat barang orderan anda telah datang di tempat
 2. Silahkan memilih dan memutuskan material batu bata yg anda inginkan
 3. Tentukan juga jumlah orderan batu bata yang anda butuhkan dalam bentuk bijian.
 4. Anda bisa menghubungi layanan telepon warung untuk mempermudah progres pengorderan

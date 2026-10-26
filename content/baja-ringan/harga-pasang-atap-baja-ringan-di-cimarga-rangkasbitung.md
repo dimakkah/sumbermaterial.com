@@ -21,13 +21,13 @@ Pemasangan baja ringan untuk kebutuhan bangunan bisa dikerjakan dengan cukup mud
 
 Yuk, simak beberapa alasan penting sebelum menghubungi kami. Kenapa Anda harus memilih baja ringan sebagai kerangka atap dan kanopi?
 
-*   Baja ringan lebih ramah lingkungan karena Anda tidak perlu menebang pohon untuk mendapatkannya. Dengan memilih baja ringan, Anda turut serta melestarikan alam.
-*   Lebih ekonomis. Biaya kerangka kayu biasanya jauh lebih mahal daripada baja ringan. Apalagi untuk bagian yang krusial bagi bangunan. Pertimbangkan ini matang-matang agar bisa menekan biaya pembangunan.
-*   Ringan dan kuat. Baja ringan berbeda dengan baja atau besi yang beratnya dua kali lipat. Baja ringan tipis dan ringan, namun tetap kuat untuk kerangka atap dan kanopi rumah Anda.
-*   Minim perawatan. Anda tidak perlu khawatir dengan kerusakan atau perawatan tahunan. Baja ringan menawarkan ketenangan pikiran.
-*   Proses pemasangan cepat. Berbeda dengan kerangka kayu dan material lain, pemasangan baja ringan jauh lebih cepat.
-*   Bahan berkualitas. Baja ringan yang kami gunakan adalah baja ringan berkualitas tinggi dengan standar keamanan 4 kali lebih baik dibandingkan baja biasa. Kekuatannya pun mampu menopang beban berat.
-*   Tahan rayap. Kami menjamin kerangka atap dan kanopi baja ringan kami tahan terhadap serangan rayap.
+- Baja ringan lebih ramah lingkungan karena Anda tidak perlu menebang pohon untuk mendapatkannya. Dengan memilih baja ringan, Anda turut serta melestarikan alam.
+- Lebih ekonomis. Biaya kerangka kayu biasanya jauh lebih mahal daripada baja ringan. Apalagi untuk bagian yang krusial bagi bangunan. Pertimbangkan ini matang-matang agar bisa menekan biaya pembangunan.
+- Ringan dan kuat. Baja ringan berbeda dengan baja atau besi yang beratnya dua kali lipat. Baja ringan tipis dan ringan, namun tetap kuat untuk kerangka atap dan kanopi rumah Anda.
+- Minim perawatan. Anda tidak perlu khawatir dengan kerusakan atau perawatan tahunan. Baja ringan menawarkan ketenangan pikiran.
+- Proses pemasangan cepat. Berbeda dengan kerangka kayu dan material lain, pemasangan baja ringan jauh lebih cepat.
+- Bahan berkualitas. Baja ringan yang kami gunakan adalah baja ringan berkualitas tinggi dengan standar keamanan 4 kali lebih baik dibandingkan baja biasa. Kekuatannya pun mampu menopang beban berat.
+- Tahan rayap. Kami menjamin kerangka atap dan kanopi baja ringan kami tahan terhadap serangan rayap.
 
 ## Cara Menghitung Luas Rangka Baja Ringan Di Cimarga Rangkasbitung
 
@@ -53,10 +53,10 @@ Membahas biaya layanan pasang baja ringan, sebenarnya sudah banyak informasi di 
 
 (Catatan: harga dapat berubah sewaktu-waktu) Berikut perkiraan harga layanan pasang baja ringan berdasarkan variasi pemasangan:
 
-*   Kanopi rangka baja ringan “Polikarbonat Lite Rp. 285.000 / m
-*   Kanopi rangka baja ringan “Spandek Rp. 225.000 / m
-*   Kanopi rangka baja ringan “Gogreen Rp. 200.000 /m
-*   Untuk perhitungan lainnya, segera hubungi kami melalui kontak yang tertera di laman kami.
+- Kanopi rangka baja ringan “Polikarbonat Lite Rp. 285.000 / m
+- Kanopi rangka baja ringan “Spandek Rp. 225.000 / m
+- Kanopi rangka baja ringan “Gogreen Rp. 200.000 /m
+- Untuk perhitungan lainnya, segera hubungi kami melalui kontak yang tertera di laman kami.
 
 Adapun Parameter yang Mempengaruhi Besaran Harga Jasa Pasang Baja Ringan:
 
@@ -76,10 +76,10 @@ Setelah pembuatan sketsa dan perhitungan rangka selesai, Anda dapat mendiskusika
 
 Berikut detail biaya layanan pasang baja ringan yang perlu Anda ketahui:
 
-*   Harga kami sudah termasuk biaya pemasangan yang lebih ekonomis dan seringkali menawarkan diskon.
-*   Harga yang kami berikan sudah sesuai dengan kualitas pemasangan, perhitungan, dan material yang digunakan.
-*   Kami selalu mengutamakan harga terbaik bagi Anda.
-*   Biaya layanan pasang baja ringan dapat berubah sewaktu-waktu karena fluktuasi harga material.
-*   Pembayaran dapat dilakukan dengan *down payment* dan sisanya setelah pemasangan selesai.
+- Harga kami sudah termasuk biaya pemasangan yang lebih ekonomis dan seringkali menawarkan diskon.
+- Harga yang kami berikan sudah sesuai dengan kualitas pemasangan, perhitungan, dan material yang digunakan.
+- Kami selalu mengutamakan harga terbaik bagi Anda.
+- Biaya layanan pasang baja ringan dapat berubah sewaktu-waktu karena fluktuasi harga material.
+- Pembayaran dapat dilakukan dengan *down payment* dan sisanya setelah pemasangan selesai.
 
 Sekian informasi mengenai Harga Pasang Atap Baja Ringan Di Cimarga Rangkasbitung. Jangan ragu untuk menghubungi kami untuk konsultasi gratis dan penawaran terbaik! Hubungi Kami untuk mendapatkan harga terbaru dan solusi terbaik untuk proyek Anda di Cimarga Rangkasbitung.
