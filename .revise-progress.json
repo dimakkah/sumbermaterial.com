@@ -430,7 +430,11 @@
     "/bangunan/biaya-bangun-rumah-per-meter-di-jati-pulo-jakarta/",
     "/bangunan/biaya-bangun-rumah-per-meter-di-jelambar-jakarta/",
     "/bangunan/biaya-bangun-rumah-per-meter-di-jati-padang-jakarta/",
-    "/bangunan/biaya-bangun-rumah-per-meter-di-jembatan-besi-jakarta/"
+    "/bangunan/biaya-bangun-rumah-per-meter-di-jembatan-besi-jakarta/",
+    "/bangunan/biaya-bangun-rumah-per-meter-di-jembatan-lima-jakarta/",
+    "/bangunan/biaya-bangun-rumah-per-meter-di-kamal-jakarta/",
+    "/bangunan/biaya-bangun-rumah-per-meter-di-kampung-tengah-jakarta/",
+    "/bangunan/biaya-bangun-rumah-per-meter-di-kapuk-muara-jakarta/"
   ],
   "failed": {
     "/baja-ringan/harga-pasang-atap-baja-ringan-di-anyar-serang/": 2,
@@ -772,6 +776,19 @@
     "/bangunan/biaya-bangun-rumah-per-meter-di-jatisari-karawang/": 2,
     "/bangunan/biaya-bangun-rumah-per-meter-di-jawilan-serang/": 2,
     "/bangunan/biaya-bangun-rumah-per-meter-di-jayakerta-karawang/": 2,
-    "/bangunan/biaya-bangun-rumah-per-meter-di-jayanti-tangerang/": 2
+    "/bangunan/biaya-bangun-rumah-per-meter-di-jayanti-tangerang/": 2,
+    "/bangunan/biaya-bangun-rumah-per-meter-di-joglo-jakarta/": 1,
+    "/bangunan/biaya-bangun-rumah-per-meter-di-johar-baru-jakarta/": 1,
+    "/bangunan/biaya-bangun-rumah-per-meter-di-kalianyar-jakarta/": 1,
+    "/bangunan/biaya-bangun-rumah-per-meter-di-kalibaru-jakarta/": 1,
+    "/bangunan/biaya-bangun-rumah-per-meter-di-kalibata-jakarta/": 1,
+    "/bangunan/biaya-bangun-rumah-per-meter-di-kalideres-jakarta/": 1,
+    "/bangunan/biaya-bangun-rumah-per-meter-di-kalimulya-depok/": 1,
+    "/bangunan/biaya-bangun-rumah-per-meter-di-kalisari-jakarta/": 1,
+    "/bangunan/biaya-bangun-rumah-per-meter-di-kamal-muara-jakarta/": 1,
+    "/bangunan/biaya-bangun-rumah-per-meter-di-kampung-bali-jakarta/": 1,
+    "/bangunan/biaya-bangun-rumah-per-meter-di-kampung-melayu-jakarta/": 1,
+    "/bangunan/biaya-bangun-rumah-per-meter-di-kampung-rawa-jakarta/": 1,
+    "/bangunan/biaya-bangun-rumah-per-meter-di-kapuk-jakarta/": 1
   }
 }
