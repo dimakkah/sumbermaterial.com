@@ -2406,5 +2406,19 @@
     "matchedTitle": "Harga Pasir 1 Truk di Kuningan Jawa Barat",
     "taggedAt": "2026-10-26T11:58:19.980Z",
     "algoVersion": 2
+  },
+  "harga makadam per m3": {
+    "reason": "similar to existing article",
+    "matchedFile": "makadam-57.md",
+    "matchedTitle": "Makadam 5/7 Jabodetabek: Harga, Aplikasi, dan Tips Memilih Terbaik",
+    "taggedAt": "2026-10-27T11:20:05.231Z",
+    "algoVersion": 2
+  },
+  "ukuran hebel 7 cm": {
+    "reason": "similar to existing article",
+    "matchedFile": "hebel-ukuran-7-cm-1-kubik-isi-berapa.md",
+    "matchedTitle": "Hebel Ukuran 7 cm 1 Kubik Isi Berapa? Cek Sebelum Pesan!",
+    "taggedAt": "2026-10-27T11:20:05.262Z",
+    "algoVersion": 2
   }
 }
