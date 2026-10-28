@@ -2420,5 +2420,40 @@
     "matchedTitle": "Hebel Ukuran 7 cm 1 Kubik Isi Berapa? Cek Sebelum Pesan!",
     "taggedAt": "2026-10-27T11:20:05.262Z",
     "algoVersion": 2
+  },
+  "batu batako putih": {
+    "reason": "similar to existing article",
+    "matchedFile": "harga-batako-putih.md",
+    "matchedTitle": "Harga Batako Putih: Kualitas dan Kisaran Harganya",
+    "taggedAt": "2026-10-28T11:54:01.273Z",
+    "algoVersion": 2
+  },
+  "harga pasir 1 kubik": {
+    "reason": "similar to existing article",
+    "matchedFile": "harga-pasir-jebrod-1-kubik.md",
+    "matchedTitle": "Harga Pasir Jebrod 1 Kubik: Berapa Biaya yang Perlu Anda Siapkan?",
+    "taggedAt": "2026-10-28T11:54:01.314Z",
+    "algoVersion": 2
+  },
+  "harga pasir pasang per m3": {
+    "reason": "similar to existing article",
+    "matchedFile": "jual-pasir-terdekat.md",
+    "matchedTitle": "Jual Pasir Terdekat: Untung Beli di Dekat Lokasi Proyek?",
+    "taggedAt": "2026-10-28T11:54:01.322Z",
+    "algoVersion": 2
+  },
+  "hebel 1 kubik 7 cm isi berapa": {
+    "reason": "similar to existing article",
+    "matchedFile": "harga-hebel-7-cm-1-kubik-isi-berapa.md",
+    "matchedTitle": "Harga Hebel 7 Cm 1 Kubik Isi Berapa Untuk Bangun Rumah Impian?",
+    "taggedAt": "2026-10-28T11:54:01.330Z",
+    "algoVersion": 2
+  },
+  "isi hebel 7 cm 1 kubik": {
+    "reason": "similar to existing article",
+    "matchedFile": "harga-hebel-7-cm-1-kubik-isi-berapa.md",
+    "matchedTitle": "Harga Hebel 7 Cm 1 Kubik Isi Berapa Untuk Bangun Rumah Impian?",
+    "taggedAt": "2026-10-28T11:54:01.330Z",
+    "algoVersion": 2
   }
 }
