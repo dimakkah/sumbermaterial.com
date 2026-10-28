@@ -1,7 +1,7 @@
 ---
 title: "Harga Pasang Atap Baja Ringan Di Kedung Jaya Bogor"
 date: "2022-12-13"
-lastmod: "2026-10-25"
+lastmod: "2026-10-28"
 categories: 
   - "baja-ringan"
 type: "service"
@@ -83,3 +83,5 @@ Berikut info terperinci dari Biaya Layanan pasang baja ringan yg semestinya anda
 .
 
 Sekian kabar perihal Harga Pasang Atap Baja Ringan Di Kedung Jaya Bogor.
+
+Untuk lokasi proyek di tempat lain, silakan lihat informasi [pasang atap baja ringan di Balumbang Jaya Bogor](/baja-ringan/harga-pasang-atap-baja-ringan-di-balumbang-jaya-bogor/).
