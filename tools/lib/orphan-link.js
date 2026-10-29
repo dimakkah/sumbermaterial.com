@@ -212,6 +212,19 @@ function findSpan(body, orphan) {
 function applySpan(body, span, url) { return body.slice(0, span.abs) + `[${span.anchor}](${url})` + body.slice(span.absEnd); }
 
 // ───────────────────────── verifikasi akhir (semua hasil WAJIB lewat sini)
+// Anchor yang DIBUAT SCRIPT dari judul tujuan (lib/link-anchor.js) sengaja pendek, jadi tidak perlu mewakili >= 70% bobot topik:
+// cukup memuat kata pembeda, nama tempat, dan angka/ukuran halaman tujuan.
+function relevantScriptAnchor(anchor, orphan) {
+  const toks = KS.normalize(anchor).split(' ').filter(Boolean);
+  const st = new Set(toks.map(t => KS.stem(t)));
+  if (toks.length < 2) return 'anchor terlalu pendek';
+  if (toks.length > 8) return 'anchor terlalu panjang';
+  if (orphan.core.size && ![...orphan.core].some(t => st.has(t))) return 'anchor tidak memuat kata pembeda halaman tujuan';
+  if (orphan.hasLoc && ![...orphan.loc].some(t => st.has(t))) return 'anchor tidak memuat nama lokasi halaman tujuan';
+  if ([...orphan.nums].some(x => !toks.includes(x))) return 'anchor tidak memuat angka/ukuran halaman tujuan';
+  return null;
+}
+
 function relevantAnchor(anchor, orphan) {
   const toks = KS.normalize(anchor).split(' ').filter(Boolean);
   const st = new Set(toks.map(stemOf));
@@ -243,7 +256,7 @@ function verifyEdit(oldBody, newBody, orphan, anchor, mode, paragraph) {
     const norm = (x) => x.replace(/\s+/g, ' ').trim();
     if (norm(delinked.replace(plain, '')) !== norm(oldBody)) return 'isi lain ikut berubah (bukan hanya paragraf penghubung)';
   }
-  return relevantAnchor(anchor, orphan);
+  return mode === 'bridge' ? relevantScriptAnchor(anchor, orphan) : relevantAnchor(anchor, orphan);
 }
 
 // ───────────────────────── front matter (sama seperti v1)
@@ -277,5 +290,5 @@ function planInsertion(orphan, donorDesc, donorBody) {
   return err ? { reject: err } : { newBody, anchor: span.anchor, mode: 'span', note: 'frasa-asli', sentence: span.anchor };
 }
 
-module.exports = { BRIDGE, describe, relation, anchorFromTitle, buildBridge, insertParagraph, appendToParagraph, findSpan, applySpan, verifyEdit, relevantAnchor,
+module.exports = { BRIDGE, describe, relation, anchorFromTitle, buildBridge, insertParagraph, appendToParagraph, findSpan, applySpan, verifyEdit, relevantAnchor, relevantScriptAnchor,
   planInsertion, splitFrontMatter, setLastmod, assemble, weightedJaccard, hash, LINK_RE };

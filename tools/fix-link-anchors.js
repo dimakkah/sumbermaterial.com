@@ -101,9 +101,11 @@ function fixBody(body, titleOf) {
 
     p = p.replace(LINK, (m, anchor, url) => {
       const title = titleFor(url);
-      if (!title || !LA.isTitleLike(anchor, title)) return m;
+      if (!title) return m;
       const short = LA.shortAnchor(title);
       if (!short || short === anchor) return m;
+      const longer = anchor.split(/\s+/).length > short.split(/\s+/).length;
+      if (!(LA.isTitleLike(anchor, title) || (longer && LA.derivedFromTitle(anchor, title)))) return m;
       acts.shortened++;
       return `[${short}](${url})`;
     });
