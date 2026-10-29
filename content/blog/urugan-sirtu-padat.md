@@ -43,8 +43,6 @@ Harga urugan sirtu padat bervariasi tergantung pada beberapa faktor, seperti lok
 
 Sebagai contoh perhitungan, katakanlah Anda membutuhkan 10 meter kubik sirtu padat untuk proyek Anda. Maka, biaya yang perlu Anda siapkan adalah sekitar Rp 3.000.000 hingga Rp 5.000.000.  Selain harga material, Anda juga perlu memperhitungkan biaya transportasi dan biaya tenaga kerja untuk pemasangan.
 
-[Harga Urugan Sirtu Free Ongkir Ke Baktijaya Depok](/info-urugan/harga-urugan-sirtu-free-ongkir-ke-baktijaya-depok/)
-
 Untuk mempermudah perencanaan anggaran, Anda bisa membuat daftar kebutuhan material secara rinci dan meminta penawaran harga dari beberapa supplier.  Jangan ragu untuk membandingkan harga dan kualitas material sebelum membuat keputusan. Anda juga bisa memanfaatkan layanan sewa alat berat dari Kami untuk menghemat biaya pemasangan.
 
 Kalau masih ada yang mau ditanyakan, jangan ragu menghubungi Kami lewat tombol **WhatsApp** atau **Telepon** pada halaman ini.

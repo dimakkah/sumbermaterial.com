@@ -37,8 +37,6 @@ Selain itu, batu pecah 2/3 juga sering digunakan sebagai bahan campuran dalam pe
 
 Pernahkah Anda bertanya-tanya, apa bedanya batu pecah 2/3 dengan batu split ukuran lain? Nah, perbedaannya terletak pada ukuran partikelnya. Batu split tersedia dalam berbagai ukuran, mulai dari yang paling kecil (0/5) hingga yang paling besar (5/40). Setiap ukuran memiliki kegunaan yang berbeda-beda.
 
-[Harga Batu Split 1/2 Free Ongkir Ke Babakan Bogor](/batu/harga-batu-split-1-2-free-ongkir-ke-babakan-bogor/)
-
 Berikut tabel perbandingan ukuran batu split dan aplikasinya:
 
 <table class="table">

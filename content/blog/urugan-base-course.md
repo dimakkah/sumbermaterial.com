@@ -36,7 +36,7 @@ Ada beberapa jenis material yang umum digunakan sebagai urugan *base course*. Pe
 - **Agregat Kelas B:**  Mirip dengan Kelas A, tetapi dengan gradasi yang sedikit lebih kasar. Cocok untuk jalan dengan volume lalu lintas sedang.
 - **Limestone (Batu Kapur):**  Material ini relatif murah dan mudah didapatkan. Namun, kekuatannya tidak sebanding dengan agregat Kelas A atau B. Sering digunakan untuk jalan desa atau proyek-proyek kecil.
 - **Sirtu (Pasir, Tanah, dan Batu):** Campuran pasir, tanah, dan batu yang umum digunakan sebagai urugan. Sirtu biasanya digunakan untuk pekerjaan pengurugan dan leveling.
-- **Brangkal:** Material urugan yang berasal dari campuran batu-batuan dan pasir dari hasil pegunungan. Seringkali menjadi pilihan ekonomis untuk pengurugan. Anda bisa cari tahu lebih lanjut mengenai [Harga Brangkal 1 Truk: Segini Kisarannya untuk Urugan](/blog/harga-brangkal-1-truk/) untuk gambaran harga.
+- **Brangkal:** Material urugan yang berasal dari campuran batu-batuan dan pasir dari hasil pegunungan. Seringkali menjadi pilihan ekonomis untuk pengurugan. Anda bisa cari tahu lebih lanjut mengenai [brangkal 1 truk](/blog/harga-brangkal-1-truk/) untuk gambaran harga.
 
 ![Proses pengurugan base course dengan alat berat](/images/blog/urugan-base-course.jpg)
 
@@ -66,6 +66,6 @@ Memilih urugan *base course* yang tepat sangat penting untuk keberhasilan proyek
 - **Perhatikan kondisi tanah dasar:** Jika tanah dasarnya lunak, pilih material dengan kekuatan CBR yang lebih tinggi.
 - **Sesuaikan dengan beban yang akan diterima:** Semakin berat beban yang akan diterima, semakin kuat material yang dibutuhkan.
 - **Pilih penyedia yang terpercaya:** Pastikan penyedia material memiliki reputasi yang baik dan mampu menyediakan material berkualitas. Anda bisa mempercayakan kebutuhan urugan Anda kepada Kami, Sumber Material.
-- **Pertimbangkan anggaran:** Harga material bervariasi tergantung pada jenis dan kualitasnya. Sesuaikan pilihan dengan anggaran proyek Anda. Harga urugan *base course* di Jabodetabek berkisar antara Rp 150.000 - Rp 350.000 per m3, tetapi harga ini bersifat estimasi dan dapat berubah sewaktu-waktu — hubungi Kami untuk penawaran terbaru dan paling akurat sesuai kebutuhan proyek Mitra. Anda juga bisa melihat referensi harga urugan lainnya seperti [Harga Urugan Limestone Per M3 Jabodetabek: Estimasi & Tips Akurat](/blog/harga-urugan-limestone-per-m3/).
+- **Pertimbangkan anggaran:** Harga material bervariasi tergantung pada jenis dan kualitasnya. Sesuaikan pilihan dengan anggaran proyek Anda. Harga urugan *base course* di Jabodetabek berkisar antara Rp 150.000 - Rp 350.000 per m3, tetapi harga ini bersifat estimasi dan dapat berubah sewaktu-waktu — hubungi Kami untuk penawaran terbaru dan paling akurat sesuai kebutuhan proyek Mitra. Anda juga bisa melihat referensi harga urugan lainnya seperti [urugan limestone per M3](/blog/harga-urugan-limestone-per-m3/).
 
 Butuh bantuan langsung untuk kebutuhan proyek Mitra Sumber Material? Silakan klik tombol **WhatsApp** atau **Telepon** di bawah untuk ngobrol langsung dengan tim Kami.

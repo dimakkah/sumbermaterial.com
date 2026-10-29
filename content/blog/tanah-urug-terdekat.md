@@ -60,6 +60,6 @@ Untuk memastikan proyek Anda berjalan lancar, penting untuk memilih penyedia jas
 - **Harga:** Bandingkan harga dari beberapa penyedia jasa sebelum membuat keputusan. Namun, jangan hanya terpaku pada harga termurah, perhatikan juga kualitas layanan yang ditawarkan.
 - **Legalitas:** Pastikan penyedia jasa memiliki izin usaha yang lengkap dan terdaftar secara resmi.
 
-Mitra Sumber Material, Kami menyediakan layanan jasa urug tanah dan pemadatan di wilayah Jabodetabek dan sekitarnya. Kami menjamin kualitas material yang digunakan, pengerjaan yang profesional, dan harga yang kompetitif. Anda juga bisa memanfaatkan [jasa urug tanah & pemadatan di Babakan Bogor](/jasa-urug/jasa-urug-tanah-pemadatan-di-babakan-bogor/) sebagai referensi.
+Mitra Sumber Material, Kami menyediakan layanan jasa urug tanah dan pemadatan di wilayah Jabodetabek dan sekitarnya. Kami menjamin kualitas material yang digunakan, pengerjaan yang profesional, dan harga yang kompetitif. Anda juga bisa memanfaatkan [jasa urug pemadatan di Babakan](/jasa-urug/jasa-urug-tanah-pemadatan-di-babakan-bogor/) sebagai referensi.
 
 Tim Kami siap membantu mewujudkan proyek Mitra Sumber Material — tinggal hubungi lewat tombol **Telepon** atau **WhatsApp** yang tersedia di bawah.

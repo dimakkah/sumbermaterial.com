@@ -61,6 +61,6 @@ Pertanyaan paling sering diajukan: berapa sih harga *ready mix* Padang ini? Nah,
 
 Ketiga, jarak pengiriman. Semakin jauh jaraknya dari pabrik beton ke lokasi proyek, biaya transportasinya juga akan semakin tinggi. Keempat, kondisi jalan. Kalau jalannya sulit diakses atau macet, biaya pengirimannya juga bisa lebih mahal.  Sebagai gambaran, harga *ready mix* di wilayah Jabodetabek berkisar antara Rp 800.000 hingga Rp 1.200.000 per meter kubik. Harga ini bersifat estimasi dan dapat berubah sewaktu-waktu — hubungi Kami untuk penawaran terbaru dan paling akurat sesuai kebutuhan proyek Mitra.
 
-Kalau Anda sedang merencanakan proyek pembangunan di Padang atau sekitarnya, jangan ragu untuk memperhitungkan penggunaan *ready mix*. Selain praktis dan hemat waktu, kualitasnya juga terjamin. Kami, Sumber Material, siap membantu Anda menyediakan *ready mix* berkualitas dengan harga yang kompetitif.  [Harga Beton Ready Mix Per m3 Kirim Ke Angke Jakarta](/readymix/harga-beton-ready-mix-per-m3-kirim-ke-angke-jakarta/) untuk informasi lebih lanjut mengenai harga dan layanan Kami.
+Kalau Anda sedang merencanakan proyek pembangunan di Padang atau sekitarnya, jangan ragu untuk memperhitungkan penggunaan *ready mix*. Selain praktis dan hemat waktu, kualitasnya juga terjamin. Kami, Sumber Material, siap membantu Anda menyediakan *ready mix* berkualitas dengan harga yang kompetitif.
 
 Kalau masih ada yang mau ditanyakan, jangan ragu menghubungi Kami lewat tombol **WhatsApp** atau **Telepon** pada halaman ini.

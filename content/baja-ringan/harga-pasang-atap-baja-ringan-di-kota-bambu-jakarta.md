@@ -84,4 +84,4 @@ Berikut informasi mendetail dari Biaya Layanan pasang baja ringan yg seharusnya 
 
 Sekian berita tentang Harga Pasang Atap Baja Ringan Di Kota Bambu Jakarta.
 
-Mitra yang berada di area berbeda juga bisa memesan, termasuk untuk [pasang atap baja ringan di Bambu Apus Jakarta](/baja-ringan/harga-pasang-atap-baja-ringan-di-bambu-apus-jakarta/).
+Mitra yang berada di area berbeda juga bisa memesan, termasuk untuk [atap baja ringan di Bambu Apus](/baja-ringan/harga-pasang-atap-baja-ringan-di-bambu-apus-jakarta/).

@@ -49,12 +49,12 @@ Untuk membantu Anda memperkirakan anggaran, berikut adalah perbandingan harga ba
   </tbody>
 </table>
 
-Harga ini bersifat estimasi dan dapat berubah sewaktu-waktu — hubungi Kami untuk penawaran terbaru dan paling akurat sesuai kebutuhan proyek Mitra. Anda juga bisa melihat referensi untuk [Harga Batako Putih: Kualitas dan Kisaran Harganya](/blog/harga-batako-putih/) untuk perbandingan material lain.
+Harga ini bersifat estimasi dan dapat berubah sewaktu-waktu — hubungi Kami untuk penawaran terbaru dan paling akurat sesuai kebutuhan proyek Mitra. Anda juga bisa melihat referensi untuk [batako putih](/blog/harga-batako-putih/) untuk perbandingan material lain.
 
 ## Tips Memilih Batako Berkualitas dan Hemat Biaya
 
 Memilih batako yang berkualitas sangat penting untuk memastikan kekuatan dan ketahanan bangunan Anda. Pastikan batako yang Anda pilih memiliki permukaan yang rata dan tidak retak. Coba ketuk batako tersebut – suara nyaring menandakan kualitas yang baik. Selain itu, perhatikan juga warna batako. Batako yang terlalu pucat atau terlalu gelap bisa jadi kualitasnya kurang baik.
 
-Untuk menghemat biaya, Anda bisa mencoba membeli batako langsung dari produsen jika memungkinkan. Selain itu, bandingkan harga dari beberapa toko material bangunan sebelum memutuskan untuk membeli. Jangan lupa untuk mempertimbangkan biaya transportasi saat membandingkan harga. Anda juga bisa mencari penawaran khusus atau diskon, terutama jika Anda membeli dalam jumlah besar. Jika Anda mencari opsi pengiriman gratis, Anda bisa melihat [Harga Batako 2 Lubang Gratis Ongkir Ke Bojongsari Baru Depok](/bata/harga-batako-2-lubang-gratis-ongkir-ke-bojongsari-baru-depok/) sebagai referensi.
+Untuk menghemat biaya, Anda bisa mencoba membeli batako langsung dari produsen jika memungkinkan. Selain itu, bandingkan harga dari beberapa toko material bangunan sebelum memutuskan untuk membeli. Jangan lupa untuk mempertimbangkan biaya transportasi saat membandingkan harga. Anda juga bisa mencari penawaran khusus atau diskon, terutama jika Anda membeli dalam jumlah besar. Jika Anda mencari opsi pengiriman gratis, Anda bisa melihat [batako 2 lubang ke Bojongsari Baru](/bata/harga-batako-2-lubang-gratis-ongkir-ke-bojongsari-baru-depok/) sebagai referensi.
 
 Kalau masih ada yang mau ditanyakan, jangan ragu menghubungi Kami lewat tombol **WhatsApp** atau **Telepon** pada halaman ini.

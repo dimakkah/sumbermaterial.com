@@ -59,6 +59,6 @@ Memilih supplier yang tepat adalah kunci untuk mendapatkan batu split berkualita
 - **Harga:** Bandingkan harga dari beberapa supplier untuk mendapatkan penawaran terbaik.
 - **Layanan Pengiriman:** Pastikan supplier menyediakan layanan pengiriman yang cepat dan tepat waktu.
 
-Mitra Sumber Material hadir untuk memenuhi kebutuhan material konstruksi Anda dengan kualitas terjamin dan harga yang kompetitif. Kami telah berpengalaman dalam melayani berbagai proyek di wilayah Jabodetabek dan sekitarnya. [Harga Batu Split 1/2 Free Ongkir Ke Babakan Bogor](/batu/harga-batu-split-1-2-free-ongkir-ke-babakan-bogor/) adalah contoh komitmen kami untuk menyediakan solusi terbaik bagi Anda.
+Mitra Sumber Material hadir untuk memenuhi kebutuhan material konstruksi Anda dengan kualitas terjamin dan harga yang kompetitif. Kami telah berpengalaman dalam melayani berbagai proyek di wilayah Jabodetabek dan sekitarnya.
 
 Untuk konsultasi lebih lanjut, tombol **Telepon** dan **WhatsApp** di bawah halaman ini bisa langsung dipakai untuk menghubungi Kami.

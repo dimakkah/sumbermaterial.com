@@ -60,7 +60,7 @@ Berikut perkiraan harga beberapa jenis besi yang sering dicari:
   </tbody>
 </table>
 
-Harga di atas adalah estimasi berdasarkan kondisi pasar saat ini. Untuk mendapatkan harga yang lebih akurat, sebaiknya Anda langsung menghubungi supplier besi terpercaya di Jabodetabek. Jangan lupa untuk membandingkan harga dari beberapa supplier sebelum memutuskan untuk membeli. Anda juga bisa cek [harga besi beton per batang kirim ke abadijaya depok](/besi/harga-besi-beton-per-batang-kirim-ke-abadijaya-depok/) untuk referensi tambahan.
+Harga di atas adalah estimasi berdasarkan kondisi pasar saat ini. Untuk mendapatkan harga yang lebih akurat, sebaiknya Anda langsung menghubungi supplier besi terpercaya di Jabodetabek. Jangan lupa untuk membandingkan harga dari beberapa supplier sebelum memutuskan untuk membeli. Anda juga bisa cek [besi beton ke Abadijaya](/besi/harga-besi-beton-per-batang-kirim-ke-abadijaya-depok/) untuk referensi tambahan.
 
 ## Tips Mendapatkan Harga Besi 1 Batang Terbaik
 

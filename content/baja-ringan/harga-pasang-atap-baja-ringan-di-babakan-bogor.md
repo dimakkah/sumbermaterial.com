@@ -84,4 +84,4 @@ Berikut berita detil dari Harga Layanan pasang baja ringan yg seharusnya anda ke
 
 Sekian berita tentang Harga Pasang Atap Baja Ringan Di Babakan Bogor.
 
-Mitra yang berada di area berbeda juga bisa memesan, termasuk untuk [pasang atap baja ringan di Babakan Pasar Bogor](/baja-ringan/harga-pasang-atap-baja-ringan-di-babakan-pasar-bogor/).
+Mitra yang berada di area berbeda juga bisa memesan, termasuk untuk [atap baja ringan di Babakan Pasar](/baja-ringan/harga-pasang-atap-baja-ringan-di-babakan-pasar-bogor/).

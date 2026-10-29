@@ -63,6 +63,6 @@ Mari kita ambil contoh perhitungan untuk membuat kolom beton ukuran 30 cm x 30 c
 
 Jadi, untuk satu kolom tersebut, Anda membutuhkan sekitar 72 meter besi 6 banci. Jangan lupa tambahkan sekitar 10-15% untuk sambungan dan pemotongan.
 
-Untuk proyek yang lebih kompleks, Kami sarankan untuk berkonsultasi dengan ahli konstruksi atau menggunakan software perencanaan bangunan untuk mendapatkan perhitungan yang lebih akurat.  [Harga Besi Beton Per Batang Kirim Ke Abadijaya Depok](/besi/harga-besi-beton-per-batang-kirim-ke-abadijaya-depok/) dan wilayah sekitarnya bisa diakses dengan mudah melalui Kami.
+Untuk proyek yang lebih kompleks, Kami sarankan untuk berkonsultasi dengan ahli konstruksi atau menggunakan software perencanaan bangunan untuk mendapatkan perhitungan yang lebih akurat.
 
 Butuh bantuan langsung untuk kebutuhan proyek Mitra Sumber Material? Silakan klik tombol **WhatsApp** atau **Telepon** di bawah untuk ngobrol langsung dengan tim Kami.

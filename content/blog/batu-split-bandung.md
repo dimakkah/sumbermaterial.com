@@ -43,7 +43,7 @@ Harga batu split Bandung bisa bervariasi tergantung beberapa faktor. Memahami fa
 - **Lokasi:** Jarak dari sumber batu split ke lokasi proyek juga mempengaruhi harga, terutama biaya transportasi.
 - **Volume Pemesanan:** Semakin besar volume pemesanan, biasanya semakin murah harga per unit.
 
-Sebagai gambaran, harga batu split Bandung saat ini berkisar antara Rp 150.000 hingga Rp 300.000 per ton, tergantung pada ukuran dan kualitasnya. Harga ini bersifat estimasi dan dapat berubah sewaktu-waktu — hubungi Kami untuk penawaran terbaru dan paling akurat sesuai kebutuhan proyek Mitra. Anda juga bisa mengecek [Harga Batu Split 3/5 Free Ongkir Ke Bandung](/batu/harga-batu-split-3-5-free-ongkir-ke-bandung/) untuk referensi harga terbaru dari Kami.
+Sebagai gambaran, harga batu split Bandung saat ini berkisar antara Rp 150.000 hingga Rp 300.000 per ton, tergantung pada ukuran dan kualitasnya. Harga ini bersifat estimasi dan dapat berubah sewaktu-waktu — hubungi Kami untuk penawaran terbaru dan paling akurat sesuai kebutuhan proyek Mitra. Anda juga bisa mengecek [batu split 3/5 ke Bandung](/batu/harga-batu-split-3-5-free-ongkir-ke-bandung/) untuk referensi harga terbaru dari Kami.
 
 ### Tips Memilih Batu Split Bandung Berkualitas
 

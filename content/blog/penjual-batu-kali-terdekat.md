@@ -54,7 +54,7 @@ Maka, volume batu kali yang dibutuhkan adalah 80% dari total volume pondasi, yai
 
 Harga batu kali per truk (sekitar 8-10 m³) di tahun 2026 berkisar antara Rp 3.500.000 – Rp 5.000.000, tergantung kualitas dan lokasi.  Dengan demikian, biaya batu kali untuk proyek ini diperkirakan sekitar Rp 14.000.000 – Rp 21.000.000. Harga ini bersifat estimasi dan dapat berubah sewaktu-waktu — hubungi Kami untuk penawaran terbaru dan paling akurat sesuai kebutuhan proyek Mitra.
 
-Untuk memudahkan perencanaan anggaran, Anda juga bisa melihat referensi harga batu kali di area Anda melalui [jual batu kali gratis ongkir ke babelan bekasi](/batu/jual-batu-kali-gratis-ongkir-ke-babelan-bekasi/) atau [jual batu kali gratis ongkir ke bojongsari baru depok](/batu/jual-batu-kali-gratis-ongkir-ke-bojongsari-baru-depok/).
+Untuk memudahkan perencanaan anggaran, Anda juga bisa melihat referensi harga batu kali di area Anda melalui [batu kali ke Babelan](/batu/jual-batu-kali-gratis-ongkir-ke-babelan-bekasi/) atau [batu kali ke Bojongsari Baru](/batu/jual-batu-kali-gratis-ongkir-ke-bojongsari-baru-depok/).
 
 Mitra Sumber Material, dengan memilih batu kali yang berkualitas dan perhitungan yang tepat, Anda dapat memastikan pondasi bangunan Anda kokoh dan tahan lama. Kami siap membantu Anda dalam mewujudkan bangunan impian Anda.
 

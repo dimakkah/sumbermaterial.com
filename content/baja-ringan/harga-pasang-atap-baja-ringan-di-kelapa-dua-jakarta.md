@@ -88,4 +88,4 @@ Berikut adalah beberapa alasan utama yang perlu Anda ketahui sebelum menghubungi
 
 - **Tahan Rayap:** Kerangka atap dan *canopy* dari baja ringan dijamin tahan terhadap serangan rayap.
 
-Percayakan kebutuhan rangka atap dan *canopy* baja ringan Anda kepada Kami, Mitra Sumber Material. Kami siap membantu Anda dalam menentukan ukuran, kualitas, dan pemasangan yang tepat sesuai dengan kebutuhan Anda. Terima kasih! [Harga Pasang Atap Baja Ringan Di Ancol Jakarta](/baja-ringan/harga-pasang-atap-baja-ringan-di-ancol-jakarta/)
+Percayakan kebutuhan rangka atap dan *canopy* baja ringan Anda kepada Kami, Mitra Sumber Material. Kami siap membantu Anda dalam menentukan ukuran, kualitas, dan pemasangan yang tepat sesuai dengan kebutuhan Anda. Terima kasih! 

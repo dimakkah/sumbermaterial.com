@@ -63,6 +63,6 @@ Setelah mengetahui perbedaan pasir cimangkok berdasarkan daerah asal, bagaimana 
 
 Kami, di Sumber Material, menyediakan berbagai jenis pasir cimangkok berkualitas dari berbagai daerah asal. Kami menjamin kualitas produk yang kami jual, serta memberikan harga yang kompetitif dan layanan pengiriman yang cepat dan tepat waktu.  Anda tidak perlu repot mencari-cari pasir cimangkok ke berbagai tempat, karena semua kebutuhan Anda bisa terpenuhi di satu tempat, yaitu Sumber Material.
 
-Selain itu, Kami juga menyediakan jasa sewa alat berat untuk membantu kelancaran proyek konstruksi Anda.  Dengan dukungan logistik yang lengkap, Kami siap menjadi mitra terpercaya Anda dalam membangun impian.  [Harga Pasir Cimangkok Free Ongkir Ke Balumbang Jaya Bogor](/info/harga-pasir-cimangkok-free-ongkir-ke-balumbang-jaya-bogor/) atau area Jabodetabek lainnya dapat Anda cek langsung di website kami.
+Selain itu, Kami juga menyediakan jasa sewa alat berat untuk membantu kelancaran proyek konstruksi Anda.  Dengan dukungan logistik yang lengkap, Kami siap menjadi mitra terpercaya Anda dalam membangun impian.
 
 Untuk konsultasi lebih lanjut, tombol **Telepon** dan **WhatsApp** di bawah halaman ini bisa langsung dipakai untuk menghubungi Kami.

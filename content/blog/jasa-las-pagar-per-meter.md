@@ -53,8 +53,8 @@ Ada beberapa jenis material besi yang umum digunakan untuk membuat pagar besi. B
 | Besi Besi       | Kuat, tahan lama, desain lebih fleksibel          | Lebih berat, harga lebih mahal                 | Rp 200.000 - Rp 350.000 |
 | Stainless Steel | Tahan karat, tampilan mewah, perawatan minimal     | Harga paling mahal                              | Rp 400.000 - Rp 700.000 |
 
-Mitra Sumber Material menyediakan berbagai jenis besi berkualitas tinggi untuk kebutuhan pagar Anda. Kami juga menawarkan jasa konsultasi gratis untuk membantu Anda memilih material yang paling sesuai dengan anggaran dan kebutuhan Anda. Jika Anda mencari jasa las pagar dan kanopi di area Abadijaya Depok, [Jasa Las Pagar Dan Kanopi Di Abadijaya Depok](/bengkel/jasa-las-pagar-dan-kanopi-di-abadijaya-depok/) bisa menjadi pilihan.
+Mitra Sumber Material menyediakan berbagai jenis besi berkualitas tinggi untuk kebutuhan pagar Anda. Kami juga menawarkan jasa konsultasi gratis untuk membantu Anda memilih material yang paling sesuai dengan anggaran dan kebutuhan Anda. Jika Anda mencari jasa las pagar dan kanopi di area Abadijaya Depok, [las pagar di Abadijaya](/bengkel/jasa-las-pagar-dan-kanopi-di-abadijaya-depok/) bisa menjadi pilihan.
 
-Nah, untuk Anda yang berada di wilayah Ancol Jakarta, Kami juga menyediakan [Jasa Las Pagar Dan Kanopi Di Ancol Jakarta](/bengkel/jasa-las-pagar-dan-kanopi-di-ancol-jakarta/) dengan kualitas terbaik.
+Nah, untuk Anda yang berada di wilayah Ancol Jakarta, Kami juga menyediakan [las pagar di Ancol](/bengkel/jasa-las-pagar-dan-kanopi-di-ancol-jakarta/) dengan kualitas terbaik.
 
 Tim Kami siap membantu mewujudkan proyek Mitra Sumber Material — tinggal hubungi lewat tombol **Telepon** atau **WhatsApp** yang tersedia di bawah.

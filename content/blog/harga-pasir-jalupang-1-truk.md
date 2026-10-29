@@ -56,6 +56,6 @@ Untuk membantu Anda memahami keunggulan pasir jalupang, berikut tabel perbanding
 
 Dari tabel di atas, Anda bisa melihat bahwa pasir jalupang unggul dalam hal kekuatan dan cocok untuk aplikasi konstruksi yang membutuhkan daya tahan tinggi.
 
-Sebagai tambahan informasi, Anda juga bisa membaca lebih lanjut tentang [pasir jalupang dari mana?](/blog/pasir-jalupang-dari-mana/) untuk mengetahui sumber terbaik dan harga terkini. Bagi Anda yang sedang mencari harga pasir di wilayah lain, [harga pasir 1 truk di Cirebon](/blog/harga-pasir-1-truk-di-cirebon/) bisa menjadi referensi yang bermanfaat.
+Sebagai tambahan informasi, Anda juga bisa membaca lebih lanjut tentang [pasir jalupang mana?](/blog/pasir-jalupang-dari-mana/) untuk mengetahui sumber terbaik dan harga terkini. Bagi Anda yang sedang mencari harga pasir di wilayah lain, [pasir 1 truk di Cirebon](/blog/harga-pasir-1-truk-di-cirebon/) bisa menjadi referensi yang bermanfaat.
 
 Kalau masih ada yang mau ditanyakan, jangan ragu menghubungi Kami lewat tombol **WhatsApp** atau **Telepon** pada halaman ini.

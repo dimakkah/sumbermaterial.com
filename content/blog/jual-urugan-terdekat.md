@@ -23,7 +23,7 @@ Mitra Sumber Material, ada berbagai jenis urugan yang bisa Anda pilih, masing-ma
 
 - **Urugan Tanah:** Jenis ini paling umum dan biasanya digunakan untuk mengisi area yang rendah atau membentuk lahan. Harganya relatif murah, tapi perlu diperhatikan kualitas tanahnya agar tidak mudah amblas.
 - **Urugan Pasir:** Pasir urugan cocok untuk pekerjaan leveling dan sebagai dasar lapisan pondasi. Memiliki daya drainase yang baik, namun kurang stabil jika digunakan sebagai lapisan utama.
-- **Urugan Batu (Brangkal/Sirtu):** Brangkal adalah campuran antara pasir, batu pecah, dan tanah. Material ini sangat kuat dan stabil, ideal untuk pondasi bangunan, jalan, atau area yang membutuhkan daya tahan tinggi. [Harga Brangkal Per Kubik: Jenis dan Kegunaannya untuk Urugan](/blog/harga-brangkal-per-kubik/)
+- **Urugan Batu (Brangkal/Sirtu):** Brangkal adalah campuran antara pasir, batu pecah, dan tanah. Material ini sangat kuat dan stabil, ideal untuk pondasi bangunan, jalan, atau area yang membutuhkan daya tahan tinggi. 
 - **Urugan Puing:** Puing bangunan bisa menjadi alternatif ekonomis untuk urugan. Namun, pastikan puing tersebut bebas dari material organik dan berbahaya.
 - **Urugan Limestone:** Limestone atau batu kapur adalah pilihan yang baik untuk urugan karena memiliki kekuatan yang tinggi dan tahan terhadap cuaca.
 
@@ -64,7 +64,7 @@ Sebelum membeli urugan, ada beberapa hal yang perlu Anda perhatikan:
 
 - **Sesuaikan dengan Kebutuhan Proyek:** Pilih jenis urugan yang sesuai dengan jenis pekerjaan yang akan dilakukan. Misalnya, untuk pondasi bangunan sebaiknya gunakan brangkal atau limestone.
 - **Periksa Kualitas Urugan:** Pastikan urugan tersebut bersih dari sampah, material organik, dan benda-benda asing lainnya.
-- **Cek Reputasi Penjual:** Pilih penjual yang terpercaya dan memiliki reputasi baik di kalangan kontraktor. [Harga Brangkal 1 Truk: Segini Kisarannya untuk Urugan](/blog/harga-brangkal-1-truk/)
+- **Cek Reputasi Penjual:** Pilih penjual yang terpercaya dan memiliki reputasi baik di kalangan kontraktor. 
 - **Minta Contoh Urugan:** Jika memungkinkan, minta contoh urugan untuk diperiksa kualitasnya secara langsung.
 
 Kalau masih ada yang mau ditanyakan, jangan ragu menghubungi Kami lewat tombol **WhatsApp** atau **Telepon** pada halaman ini.

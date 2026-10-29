@@ -21,7 +21,7 @@ draft: false
 
 Batu split adalah material konstruksi yang dihasilkan dari pemecahan batu alam menjadi ukuran yang lebih kecil. Proses ini menghasilkan agregat kasar yang sering digunakan sebagai campuran dalam pembuatan beton, pondasi, drainase, dan lapisan dasar jalan. Ukuran batu split bervariasi, mulai dari yang paling kecil hingga yang cukup besar. Salah satu ukuran yang paling umum digunakan adalah batu split 1/2 inch (sekitar 12,7 mm) atau yang sering disebut batu split 1/2.
 
-Nah, kenapa ukuran ini populer ya? Batu split 1/2 ini ideal untuk campuran beton karena memberikan keseimbangan antara kekuatan dan workability. Ukurannya yang tidak terlalu besar memudahkan proses pengecoran dan pemadatan, sehingga menghasilkan beton yang lebih kuat dan tahan lama.  [Harga Batu Split 1/2 Free Ongkir Ke Baranangsiang](/batu/harga-batu-split-1-2-free-ongkir-ke-baranangsiang/)  Selain itu, batu split 1/2 juga sering digunakan untuk makadam atau lapisan pondasi jalan karena kemampuannya dalam menahan beban.
+Nah, kenapa ukuran ini populer ya? Batu split 1/2 ini ideal untuk campuran beton karena memberikan keseimbangan antara kekuatan dan workability. Ukurannya yang tidak terlalu besar memudahkan proses pengecoran dan pemadatan, sehingga menghasilkan beton yang lebih kuat dan tahan lama.
 
 ## Faktor-Faktor yang Mempengaruhi Harga Batu Split 1/2 Per M3
 

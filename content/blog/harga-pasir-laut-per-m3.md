@@ -52,6 +52,6 @@ Untuk proyek yang lebih kompleks, seperti pembuatan beton, Anda perlu mempertimb
 
 Penting banget nih, Mitra! Memilih vendor yang terpercaya akan memastikan Anda mendapatkan pasir laut berkualitas dengan harga yang bersaing. Pastikan vendor tersebut memiliki reputasi yang baik, menyediakan produk yang sesuai dengan standar SNI, dan memberikan layanan pengiriman yang tepat waktu.
 
-Di Sumber Material, Kami menjamin kualitas pasir laut yang Kami jual. Kami hanya bekerja sama dengan pemasok terpercaya dan melakukan kontrol kualitas yang ketat sebelum pengiriman. Selain itu, Kami juga menyediakan layanan pengiriman yang cepat dan aman ke seluruh wilayah Jabodetabek dan sekitarnya. Kami juga menyediakan berbagai jenis pasir lainnya, seperti [jual pasir pantai laut gratis ongkir ke Bangka Jakarta](/pasir/jual-pasir-pantai-laut-gratis-ongkir-ke-bangka-jakarta/) untuk kebutuhan spesifik Anda.
+Di Sumber Material, Kami menjamin kualitas pasir laut yang Kami jual. Kami hanya bekerja sama dengan pemasok terpercaya dan melakukan kontrol kualitas yang ketat sebelum pengiriman. Selain itu, Kami juga menyediakan layanan pengiriman yang cepat dan aman ke seluruh wilayah Jabodetabek dan sekitarnya. Kami juga menyediakan berbagai jenis pasir lainnya, seperti [pasir pantai laut ke Bangka](/pasir/jual-pasir-pantai-laut-gratis-ongkir-ke-bangka-jakarta/) untuk kebutuhan spesifik Anda.
 
 Tim Kami siap membantu mewujudkan proyek Mitra Sumber Material — tinggal hubungi lewat tombol **Telepon** atau **WhatsApp** yang tersedia di bawah.

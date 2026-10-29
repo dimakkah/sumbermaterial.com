@@ -52,8 +52,6 @@ Memilih batu bangunan yang berkualitas adalah kunci untuk membangun struktur yan
 
 Ketiga, pastikan batu yang Anda beli **bebas dari retakan atau cacat** lainnya. Retakan atau cacat dapat mengurangi kekuatan batu dan menyebabkan kerusakan pada bangunan. Keempat, belilah batu bangunan dari **supplier terpercaya** seperti Kami di Sumber Material. Dengan memilih supplier yang terpercaya, Anda bisa mendapatkan batu bangunan berkualitas dengan harga yang kompetitif. Jangan ragu untuk bertanya tentang spesifikasi teknis batu, seperti kekuatan tekan dan daya serap air.
 
-[harga batu split 1/2 free ongkir ke babakan bogor](/batu/harga-batu-split-1-2-free-ongkir-ke-babakan-bogor/)
-
 ## Perbandingan Harga Batu Bangunan Antara Batu Kali dan Batu Split
 
 Banyak yang bertanya, mana yang lebih ekonomis antara batu kali dan batu split? Secara umum, harga batu kali per kubik cenderung lebih murah dibandingkan batu split. Namun, perlu diingat bahwa batu split memiliki kekuatan yang lebih tinggi dan lebih cocok untuk campuran beton. Jadi, meskipun harganya lebih mahal, batu split bisa menjadi pilihan yang lebih ekonomis dalam jangka panjang karena dapat menghasilkan beton yang lebih kuat dan tahan lama.

@@ -25,7 +25,7 @@ Sirtu atau pasir urug adalah material penting untuk pengurugan lahan, pembuatan 
 
 Sebelum membahas harga, ada beberapa hal yang perlu Mitra perhatikan dalam memilih sirtu urug. Pertama, pastikan jenis sirtu sesuai dengan kebutuhan proyek Anda. Sirtu bisa dibedakan berdasarkan ukuran butiran dan kandungan lumpurnya. Sirtu kasar cocok untuk lapisan drainase, sementara sirtu halus lebih baik untuk pengurugan yang membutuhkan kepadatan tinggi. Perhatikan juga sumber sirtu, karena kualitasnya bisa sangat bervariasi.
 
-Selain itu, lokasi proyek juga mempengaruhi biaya total. Semakin jauh jarak pengiriman, semakin tinggi biaya transportasinya. Itulah mengapa memilih supplier yang lokasinya dekat dengan proyek Anda bisa menjadi solusi hemat biaya. Jangan ragu untuk meminta contoh material sebelum memesan dalam jumlah besar. Dengan begitu, Anda bisa memastikan kualitas sirtu sesuai dengan harapan.  [Harga Pasir Urug Per M3: Update Terbaru & Tips Cek Kualitas](/blog/harga-pasir-urug-per-m3/)
+Selain itu, lokasi proyek juga mempengaruhi biaya total. Semakin jauh jarak pengiriman, semakin tinggi biaya transportasinya. Itulah mengapa memilih supplier yang lokasinya dekat dengan proyek Anda bisa menjadi solusi hemat biaya. Jangan ragu untuk meminta contoh material sebelum memesan dalam jumlah besar. Dengan begitu, Anda bisa memastikan kualitas sirtu sesuai dengan harapan.
 
 ## Sirtu Urug: Jenis, Ukuran, dan Contoh Pemakaian
 

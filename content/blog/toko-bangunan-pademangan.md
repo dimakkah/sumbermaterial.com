@@ -31,7 +31,7 @@ Kami menyediakan berbagai macam material bangunan berkualitas tinggi, termasuk:
 - **Batu:** Batu split, batu kali, batu makadam. Batu kali, misalnya, sangat cocok untuk pondasi bangunan karena sifatnya yang kuat dan tahan lama.
 - **Semen:** Berbagai merek semen ternama dengan mutu yang terjamin.
 - **Besi:** Besi beton, besi hollow, besi plat, wiremesh. Untuk konstruksi yang membutuhkan kekuatan tarik tinggi, besi beton dengan mutu yang sesuai standar SNI adalah pilihan yang tepat.
-- **Bata/Batako/Hebel:** Pilihan batako press hitam dengan berbagai ukuran juga tersedia di sini. Anda bisa lihat juga [Harga Batako 3 Lubang Gratis Ongkir Ke Pademangan Jakarta](/bata/harga-batako-3-lubang-gratis-ongkir-ke-pademangan-jakarta/) untuk mengetahui penawaran khusus kami.
+- **Bata/Batako/Hebel:** Pilihan batako press hitam dengan berbagai ukuran juga tersedia di sini. Anda bisa lihat juga [batako 3 lubang ke Pademangan](/bata/harga-batako-3-lubang-gratis-ongkir-ke-pademangan-jakarta/) untuk mengetahui penawaran khusus kami.
 - **Baja Ringan:** Rangka atap baja ringan yang ringan, kuat, dan tahan karat.
 - **Readymix:** Beton siap pakai untuk kemudahan dan efisiensi pengerjaan.
 

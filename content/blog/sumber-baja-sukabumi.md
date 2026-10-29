@@ -61,7 +61,7 @@ Sebagai Mitra Sumber Material, Anda akan mendapatkan banyak keuntungan, antara l
 4.  **Pengiriman Cepat dan Tepat Waktu:** Kami melayani pengiriman ke seluruh wilayah Jabodetabek dan sekitarnya, termasuk Sukabumi.
 5.  **Layanan Konsultasi:** Tim Kami siap memberikan konsultasi dan membantu Anda memilih jenis baja yang tepat untuk proyek Anda.
 
-Anda juga bisa mempertimbangkan untuk melihat pilihan baja ringan Kami yang populer di kalangan konsumen. [Baja Ringan Sukabumi: Pilihan Kuat & Ringan untuk Atap Anda](/blog/baja-ringan-sukabumi/) — material ini bisa menjadi alternatif yang menarik untuk beberapa kebutuhan konstruksi Anda.
+Anda juga bisa mempertimbangkan untuk melihat pilihan baja ringan Kami yang populer di kalangan konsumen.
 
 Mitra Sumber Material berkomitmen untuk menjadi mitra terpercaya dalam penyediaan material konstruksi. Kami selalu berusaha memberikan pelayanan terbaik dan solusi yang tepat untuk kebutuhan proyek Anda. Jangan ragu untuk menghubungi Kami untuk mendapatkan informasi lebih lanjut mengenai produk dan layanan Kami.
 

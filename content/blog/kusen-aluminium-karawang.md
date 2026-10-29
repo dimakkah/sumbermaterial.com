@@ -59,7 +59,7 @@ Harga kusen aluminium di Karawang sangat bervariasi, tergantung pada jenis alumi
 - **Kusen Aluminium YKK:** Rp 450.000 - Rp 700.000
 - **Kusen Aluminium Alexindo:** Rp 600.000 - Rp 900.000+
 
-Harga ini bersifat estimasi dan dapat berubah sewaktu-waktu — hubungi Kami untuk penawaran terbaru dan paling akurat sesuai kebutuhan proyek Mitra. Perlu diingat juga bahwa harga tersebut belum termasuk biaya pemasangan, yang biasanya berkisar antara Rp 50.000 - Rp 150.000 per meter tergantung pada kompleksitas pemasangan. Anda juga bisa menemukan [harga kusen aluminium per meter di Abadijaya Depok](/kusen/harga-kusen-alumunium-per-meter-di-abadijaya-depok/) sebagai referensi tambahan.
+Harga ini bersifat estimasi dan dapat berubah sewaktu-waktu — hubungi Kami untuk penawaran terbaru dan paling akurat sesuai kebutuhan proyek Mitra. Perlu diingat juga bahwa harga tersebut belum termasuk biaya pemasangan, yang biasanya berkisar antara Rp 50.000 - Rp 150.000 per meter tergantung pada kompleksitas pemasangan. Anda juga bisa menemukan [kusen alumunium di Abadijaya](/kusen/harga-kusen-alumunium-per-meter-di-abadijaya-depok/) sebagai referensi tambahan.
 
 ## Tips Memilih Kusen Aluminium yang Tepat untuk Proyek Anda
 

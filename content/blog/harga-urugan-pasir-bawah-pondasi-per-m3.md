@@ -21,7 +21,7 @@ Memastikan fondasi bangunan kokoh adalah kunci utama keberhasilan proyek konstru
 
 ## Memilih Jenis Pasir Urug yang Tepat untuk Fondasi
 
-Ada beberapa jenis pasir yang umum digunakan untuk urugan bawah pondasi, masing-masing dengan karakteristik dan harga yang berbeda. Pasir urug yang paling sering digunakan adalah pasir pasang, pasir berangkal, dan pasir cor. Pasir pasang biasanya digunakan untuk pekerjaan plester dan aci, sementara pasir berangkal lebih cocok untuk urugan karena memiliki butiran yang lebih kasar dan drainase yang lebih baik. Pasir cor, sesuai namanya, ideal untuk campuran beton. [Harga Urugan Pasir Urug Free Ongkir Ke Benda Tangerang](/info-urugan/harga-urugan-pasir-urug-free-ongkir-ke-benda-tangerang/)
+Ada beberapa jenis pasir yang umum digunakan untuk urugan bawah pondasi, masing-masing dengan karakteristik dan harga yang berbeda. Pasir urug yang paling sering digunakan adalah pasir pasang, pasir berangkal, dan pasir cor. Pasir pasang biasanya digunakan untuk pekerjaan plester dan aci, sementara pasir berangkal lebih cocok untuk urugan karena memiliki butiran yang lebih kasar dan drainase yang lebih baik. Pasir cor, sesuai namanya, ideal untuk campuran beton.
 
 Untuk urugan bawah pondasi, pasir berangkal seringkali menjadi pilihan utama karena kemampuannya dalam menahan beban dan mencegah genangan air. Penting diingat, kualitas pasir urugan sangat memengaruhi kekuatan fondasi. Pastikan pasir yang Anda pilih bebas dari lumpur, tanah liat, dan material organik lainnya.
 

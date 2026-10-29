@@ -32,7 +32,7 @@ Sebagai gambaran, mari kita hitung estimasi biaya untuk membangun dinding seluas
 - **Harga rata-rata per m³:** Rp 850.000
 - **Total biaya hebel:** 30 m³ x Rp 850.000 = Rp 25.500.000
 
-Perlu diingat, angka ini belum termasuk biaya transportasi, upah tukang, semen, pasir, dan material tambahan lainnya. Anda juga bisa mendapatkan penawaran menarik untuk [Harga Hebel 7 cm 10 cm Kirim Ke Abadijaya Depok](/hebel/harga-hebel-7-cm-10-cm-kirim-ke-abadijaya-depok/) jika lokasi proyek Anda berada di area tersebut.
+Perlu diingat, angka ini belum termasuk biaya transportasi, upah tukang, semen, pasir, dan material tambahan lainnya. Anda juga bisa mendapatkan penawaran menarik untuk [hebel 7 cm ke Abadijaya](/hebel/harga-hebel-7-cm-10-cm-kirim-ke-abadijaya-depok/) jika lokasi proyek Anda berada di area tersebut.
 
 ### Keunggulan dan Kekurangan Hebel 7 cm
 
@@ -74,6 +74,6 @@ Untuk membantu Anda membuat keputusan yang tepat, berikut adalah tabel perbandin
 
 Tabel di atas hanyalah gambaran umum — faktor lain seperti kualitas material dan kondisi iklim juga perlu dipertimbangkan. Jika Anda berencana membangun di area dengan kelembapan tinggi, Anda mungkin perlu mempertimbangkan pelapis tambahan untuk hebel guna meningkatkan ketahanan airnya.
 
-Nah, sekarang Anda sudah memiliki gambaran yang lebih jelas mengenai harga hebel 7 cm, keunggulan, kekurangan, dan perbandingannya dengan material lain. Jangan ragu untuk berkonsultasi dengan Kami untuk mendapatkan penawaran terbaik dan solusi yang sesuai dengan kebutuhan proyek Anda. Atau, Anda bisa melihat pilihan harga hebel di area lain seperti [Harga Hebel 7 cm 10 cm Kirim Ke Ancol Jakarta](/hebel/harga-hebel-7-cm-10-cm-kirim-ke-ancol-jakarta/) sebagai referensi.
+Nah, sekarang Anda sudah memiliki gambaran yang lebih jelas mengenai harga hebel 7 cm, keunggulan, kekurangan, dan perbandingannya dengan material lain. Jangan ragu untuk berkonsultasi dengan Kami untuk mendapatkan penawaran terbaik dan solusi yang sesuai dengan kebutuhan proyek Anda. Atau, Anda bisa melihat pilihan harga hebel di area lain seperti [hebel 7 cm ke Ancol](/hebel/harga-hebel-7-cm-10-cm-kirim-ke-ancol-jakarta/) sebagai referensi.
 
 Apabila ada pertanyaan lain seputar topik ini, tombol **Telepon** dan **WhatsApp** di bawah halaman ini siap Kami jawab.

@@ -84,4 +84,4 @@ Berikut info terperinci dari Biaya Layanan pasang baja ringan yg semestinya anda
 
 Sekian kabar perihal Harga Pasang Atap Baja Ringan Di Kedung Jaya Bogor.
 
-Untuk lokasi proyek di tempat lain, silakan lihat informasi [pasang atap baja ringan di Balumbang Jaya Bogor](/baja-ringan/harga-pasang-atap-baja-ringan-di-balumbang-jaya-bogor/).
+Untuk lokasi proyek di tempat lain, silakan lihat informasi [atap baja ringan di Balumbang Jaya](/baja-ringan/harga-pasang-atap-baja-ringan-di-balumbang-jaya-bogor/).
