@@ -36,9 +36,14 @@ const ContactLink = require('./lib/contact-link.js');
 const LinkGuard = require('./lib/link-guard.js');
 const MdLint = require('./lib/md-lint.js');
 
-// Panjang artikel: prompt meminta 900–1100 kata. Di bawah MIN_WORDS (badan artikel, tanpa frontmatter)
-// script meminta AI memperluas SATU kali; kalau tetap pendek artikel tetap terbit dengan peringatan.
-const MIN_WORDS = Number(process.env.GEN_MIN_WORDS) || 850;
+// Panjang artikel: TARGET_WORDS (default 1200). Kalau draf AI kurang dari target, script TIDAK menolak/mengulang artikel,
+// tetapi meminta AI menambah sub judul (H2) + paragraf baru yang relevan, ronde demi ronde, sampai mendekati target
+// (lihat completeToTarget). Matikan dengan GEN_FILL=0.
+const TARGET_WORDS  = Number(process.env.GEN_TARGET_WORDS) || 1200;
+const FILL_ENABLED  = process.env.GEN_FILL !== '0';
+const FILL_ROUNDS   = Number(process.env.GEN_FILL_ROUNDS) || 4;
+const FILL_ACCEPT   = 0.97;                                   // >= 97% target dianggap tercapai
+const MIN_WORDS     = Math.round(TARGET_WORDS * 0.9);          // di bawah ini -> peringatan di validateArticle
 
 // NON-AI internal-link candidate selection (buildArticleIndex/findRelatedCandidates) and the
 // post-generation internal-link safety net (enforceInternalLinks) — see file header comments
@@ -1224,34 +1229,104 @@ function rawBodyWords(raw) {
   return body.replace(/\[\[TABEL_MULAI\]\][\s\S]*?\[\[TABEL_SELESAI\]\]/g, ' ').split(/\s+/).filter(Boolean).length;
 }
 
-function buildExpandPrompt(words) {
-  const need = Math.max(150, MIN_WORDS + 100 - words);
-  return `Artikel di atas baru sekitar ${words} kata, padahal targetnya 900–1100 kata. Tulis ULANG artikel LENGKAP dengan format keluaran yang sama persis (JUDUL:, DESCRIPTION:, TAGS:, ARTIKEL_MULAI, lalu isi artikel).
+// Bagian tambahan yang ditulis AI diperiksa dulu: tanpa token/link/gambar/tabel/angka harga/klaim baru.
+const FILL_BAD_PARA = /\[\[|\]\(|https?:\/\/|IMAGE_PLACEHOLDER|\{\{|\bRp\b|\bdiskon\b|\bgaransi\b|\bpromo\b|termurah|nomor\s*1|\b(?:19|20)\d{2}\b|\d\s*%/i;
 
-PERTAHANKAN apa adanya: judul, kalimat pembuka wajib, token [[LINK:N|...]] dan [[KONTAK|...]], blok [[TABEL_MULAI]]...[[TABEL_SELESAI]], baris gambar IMAGE_PLACEHOLDER, kalimat penutup/CTA, dan semua aturan klaim, harga, serta tahun dari instruksi awal.
+function parseFillSections(text, existingHeadings) {
+  let t = String(text || '').replace(/^```[a-z]*\n?|```\s*$/gmi, '');
+  const first = t.search(/^##\s/m);
+  if (first === -1) return { sections: '', words: 0, dropped: 0 };
+  t = t.slice(first).replace(/\r\n/g, '\n');
+  const seen = new Set(existingHeadings.map(h => h.toLowerCase()));
+  const blocks = t.split(/(?=^##\s)/m);
+  const keep = [];
+  let dropped = 0;
+  for (const blk of blocks) {
+    const head = (blk.match(/^##\s+(.+)$/m) || [])[1];
+    if (!head) continue;
+    const key = head.replace(/\*\*/g, '').trim().toLowerCase().replace(/[:.]+$/, '');
+    if (seen.has(key)) { dropped++; continue; }                         // heading kembar dengan yang sudah ada
+    // buang paragraf bermasalah; heading/daftar tetap
+    const paras = blk.split(/\n{2,}/).filter(p => {
+      if (/^#{2,6}\s/.test(p.trim())) return true;
+      if (FILL_BAD_PARA.test(p)) { dropped++; return false; }
+      return true;
+    });
+    const body = paras.join('\n\n').trim();
+    const bodyWords = body.replace(/^#{2,6}\s.*$/gm, '').split(/\s+/).filter(Boolean).length;
+    if (bodyWords < 40) { dropped++; continue; }                         // bagian terlalu tipis
+    seen.add(key);
+    keep.push(body);
+  }
+  const sections = keep.join('\n\n');
+  return { sections, words: sections.split(/\s+/).filter(Boolean).length, dropped };
+}
 
-TAMBAHKAN sekitar ${need} kata berisi hal KONKRET dan berguna bagi calon pembeli — bukan pengulangan atau basa-basi. Pilih yang relevan dengan topik: contoh perhitungan kebutuhan dengan angka, perbandingan antar-pilihan, kesalahan umum saat memesan/memilih, pertanyaan yang sering diajukan pembeli (boleh sebagai satu H2 berisi 3-4 H3 tanya-jawab singkat), atau langkah memesan yang lebih rinci. Jangan menambah fakta toko, diskon, garansi, atau angka klaim yang tidak ada di instruksi awal. Tetap 3-7 heading H2, dan tiap paragraf maksimal sekitar 5 kalimat.`;
+// Titik sisip: sebelum heading penutup ("Penutup"/"Kesimpulan"), kalau tidak ada sebelum paragraf CTA terakhir, kalau tidak ada di akhir.
+function insertFillSections(raw, sections) {
+  const startAt = raw.indexOf('ARTIKEL_MULAI');
+  const head = startAt === -1 ? '' : raw.slice(0, startAt + 'ARTIKEL_MULAI'.length);
+  let body = startAt === -1 ? raw : raw.slice(startAt + 'ARTIKEL_MULAI'.length);
+  body = body.replace(/\s+$/, '');
+  const closingHeading = [...body.matchAll(/^##\s+(.+)$/gm)].filter(m => /^(penutup|kesimpulan|ringkasan|akhir kata|kata penutup)/i.test(m[1].replace(/\*\*/g, '').trim())).pop();
+  if (closingHeading) {
+    return head + body.slice(0, closingHeading.index).replace(/\s+$/, '') + '\n\n' + sections + '\n\n' + body.slice(closingHeading.index) + '\n';
+  }
+  const idx = body.lastIndexOf('\n\n');
+  const last = idx === -1 ? body : body.slice(idx + 2);
+  if (idx !== -1 && /hubungi|whatsapp|telepon|kontak|penawaran/i.test(last) && !/^#/.test(last.trim())) {
+    return head + body.slice(0, idx) + '\n\n' + sections + '\n\n' + last + '\n';
+  }
+  return head + body + '\n\n' + sections + '\n';
+}
+
+function buildFillPrompt(keyword, words, headings) {
+  const need = Math.max(120, Math.round((TARGET_WORDS - words) * 1.05));
+  return `Artikel di atas baru sekitar ${words} kata, target ${TARGET_WORDS} kata. Jangan tulis ulang artikel itu. Tulis HANYA bagian TAMBAHAN: 1–3 sub judul baru (## H2, boleh ### H3) beserta paragrafnya, totalnya sekitar ${need} kata, yang akan disisipkan sebelum bagian penutup.
+
+Heading yang SUDAH ada (jangan diulang atau dibahas ulang): ${headings.map(h => `"${h}"`).join(', ') || '(tidak ada)'}.
+
+Isi harus konkret dan berguna bagi calon pembeli "${keyword}", bukan pengulangan atau basa-basi. Pilih yang paling relevan: contoh perhitungan kebutuhan dengan angka teknis (bukan harga), perbandingan antar-pilihan, kesalahan umum saat memilih/memesan, pertanyaan yang sering diajukan pembeli (satu H2 berisi 3–4 H3 tanya-jawab singkat), atau langkah memesan yang lebih rinci. Gaya bahasa, sapaan, dan nada sama dengan artikel di atas.
+
+JANGAN tulis: salam/pembuka/penutup/ajakan menghubungi, token [[LINK...]] atau [[KONTAK...]], tabel, gambar, URL, nomor telepon, harga (Rp), diskon, garansi, persentase, tahun, atau klaim toko baru. Keluarkan HANYA teks Markdown bagian tambahan (mulai langsung dari baris "## ..."), tanpa kata pengantar.`;
+}
+
+async function completeToTarget(keyword, result) {
+  let raw = result.raw;
+  let words = rawBodyWords(raw);
+  console.log(`   AI selesai | ${words} kata (target ${TARGET_WORDS}, ${Math.round(words / TARGET_WORDS * 100)}%)`);
+  if (!FILL_ENABLED || IS_DRY_RUN || words >= TARGET_WORDS * FILL_ACCEPT) return result;
+  console.log(`   Kurang ${TARGET_WORDS - words} kata dari target; AI menambah sub judul/paragraf relevan...`);
+  for (let round = 1; round <= FILL_ROUNDS && words < TARGET_WORDS * FILL_ACCEPT; round++) {
+    try {
+      const headings = [...raw.matchAll(/^#{2,3}\s+(.+)$/gm)].map(m => m[1].replace(/\*\*/g, '').trim());
+      const text = await callChat([
+        { role: 'system', content: PROMPTS.article.systemMessage },
+        { role: 'user', content: result.prompt },
+        { role: 'assistant', content: raw },
+        { role: 'user', content: buildFillPrompt(keyword, words, headings) },
+      ], { temperature: 0.7, max_tokens: 2000 });
+      const parsed = parseFillSections(text, headings);
+      if (!parsed.sections || parsed.words < 40) { console.log(`   Lengkapi otomatis ronde ${round}: tidak ada tambahan yang layak (${parsed.dropped} bagian dibuang) — berhenti`); break; }
+      const next = insertFillSections(raw, parsed.sections);
+      const nextWords = rawBodyWords(next);
+      if (nextWords <= words) break;
+      console.log(`   Lengkapi otomatis ronde ${round}: +${nextWords - words} kata -> ${nextWords}/${TARGET_WORDS}${parsed.dropped ? ` (${parsed.dropped} bagian dibuang: heading kembar/klaim/harga)` : ''}`);
+      const gained = nextWords - words;
+      raw = next; words = nextWords;
+      if (gained < 40) break;                                            // hampir tidak ada kemajuan
+    } catch (err) {
+      console.log(`   ⚠️  Lengkapi otomatis ronde ${round} gagal (${err.message}) — memakai hasil sejauh ini`);
+      break;
+    }
+  }
+  console.log(`   Hasil akhir ${words} kata (target ${TARGET_WORDS}, ${Math.round(words / TARGET_WORDS * 100)}%)`);
+  return { ...result, raw };
 }
 
 async function generateArticleWithTitleGuard(keyword, relatedCandidates) {
   const result = await generateArticleTitleChecked(keyword, relatedCandidates);
-  if (IS_DRY_RUN) return result;
-  const words = rawBodyWords(result.raw);
-  if (words >= MIN_WORDS) return result;
-  console.log(`   📏 Artikel baru ${words} kata (< ${MIN_WORDS}) — meminta AI memperluas dengan isi konkret (1x)...`);
-  try {
-    const expanded = await generateArticle(keyword, relatedCandidates, 1, { raw: result.raw, greeting: result.greeting, words });
-    const newWords = rawBodyWords(expanded.raw);
-    const titleOk = !TitleStyle.titleIssues(extractTitleLine(expanded.raw), keyword).length;
-    if (newWords >= words + 80 && /ARTIKEL_MULAI/.test(expanded.raw) && titleOk) {
-      console.log(`   ✅ Diperluas: ${words} → ${newWords} kata`);
-      return expanded;
-    }
-    console.log(`   ⚠️  Perluasan tidak dipakai (${newWords} kata${titleOk ? '' : ', judul bermasalah'}) — memakai draf awal`);
-  } catch (err) {
-    console.log(`   ⚠️  Perluasan gagal (${err.message}) — memakai draf awal`);
-  }
-  return result;
+  return completeToTarget(keyword, result);
 }
 
 async function generateArticleTitleChecked(keyword, relatedCandidates) {  // gaya judul dibuat ulang tiap percobaan (attempt)
@@ -1269,11 +1344,11 @@ async function generateArticleTitleChecked(keyword, relatedCandidates) {  // gay
 }
 // ─────────────────────────────────────────────────────────────────
 
-async function generateArticle(keyword, relatedCandidates = [], attempt = 1, expand = null) {
+async function generateArticle(keyword, relatedCandidates = [], attempt = 1) {
   const type = detectType(keyword);
   const openingStyle = pickRandom(OPENING_STYLES);
   const addressStyle  = pickRandom(ADDRESS_STYLES);
-  const greeting      = expand ? expand.greeting : pickRandom(GREETING_STYLES);   // saat perluasan: salam harus sama dgn draf
+  const greeting      = pickRandom(GREETING_STYLES);
   const titleStyle    = TitleStyle.pickTitleStyle(keyword, attempt);
   const promoAngle    = pickRandom(PROMPTS.promoAngles);   // benang merah promosi artikel (prompts/generate-articles.json)
   const storeFacts    = PROMPTS.storeFacts.map(f => `  • ${f}`).join('\n');
@@ -1291,6 +1366,7 @@ async function generateArticle(keyword, relatedCandidates = [], attempt = 1, exp
     closingStyle,
     keyword,
     currentYear,
+    targetWords: TARGET_WORDS,
     relatedArticles: formatCandidatesForPrompt(relatedCandidates),
   });
 
@@ -1335,21 +1411,23 @@ Demikian pembahasan Kami seputar ${keyword}. Kami berharap artikel ini bermanfaa
 
 Kalau Mitra masih ada pertanyaan atau ingin konsultasi lebih lanjut, silakan hubungi Kami melalui tombol **Telepon** atau **WhatsApp** yang tersedia di bawah halaman ini. Kami siap membantu!
 `;
-    return { raw, greeting };
+    return { raw, greeting, prompt };
   }
 
+  const content = await callChat([
+    { role: 'system', content: PROMPTS.article.systemMessage },
+    { role: 'user',   content: prompt },
+  ], { temperature: 0.72, max_tokens: 4096 });
+  return { raw: content, greeting, prompt };
+}
+
+// Satu pintu panggilan chat AI (rotasi key, retry, rate-limit) — dipakai draf artikel dan ronde lengkapi-otomatis.
+async function callChat(messages, { temperature = 0.72, max_tokens = 4096 } = {}) {
   const body = JSON.stringify({
     model      : CONFIG.AI_MODEL,
-    messages   : [
-      { role: 'system', content: PROMPTS.article.systemMessage },
-      { role: 'user',   content: prompt },
-      ...(expand ? [
-        { role: 'assistant', content: expand.raw },
-        { role: 'user',      content: buildExpandPrompt(expand.words) },
-      ] : []),
-    ],
-    temperature: 0.72,
-    max_tokens : 4096,
+    messages,
+    temperature,
+    max_tokens,
   });
 
   let result;
@@ -1403,7 +1481,7 @@ Kalau Mitra masih ada pertanyaan atau ingin konsultasi lebih lanjut, silakan hub
   if (choice.finish_reason === 'length') {
     throw new Error('AI output truncated (finish_reason=length) — increase max_tokens.');
   }
-  return { raw: content, greeting };
+  return content;
 }
 
 function yamlEscape(str) {

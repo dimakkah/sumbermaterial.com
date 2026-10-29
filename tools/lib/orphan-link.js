@@ -16,6 +16,7 @@
  */
 'use strict';
 const KS = require('./keyword-similarity.js');
+const LA = require('./link-anchor.js');
 
 const SMALL = new Set(['di', 'ke', 'dari', 'untuk', 'dan', 'yang', 'dengan', 'atau', 'per', 'pada', 'dalam']);
 const EDGE_STOP = new Set([...SMALL, 'ini', 'itu', 'anda', 'kami', 'mitra', 'juga', 'akan', 'bisa', 'adalah', 'kita', 'sebuah', 'para']);
@@ -115,10 +116,25 @@ const BRIDGE = {
 };
 
 function buildBridge(orphan, rel) {
-  const anchor = anchorFromTitle(orphan.title);
+  const anchor = LA.shortAnchor(orphan.title);              // frasa pendek buatan script, bukan judul penuh
   const list = BRIDGE[rel.type];
   const tpl = list[hash(orphan.url || orphan.title) % list.length];
   return { anchor, paragraph: tpl.replace('{a}', `[${anchor}](${orphan.url})`) };
+}
+
+// Tempel kalimat penghubung di AKHIR paragraf isi terakhir (bukan paragraf penutup/CTA) — bukan paragraf baru sendirian.
+// null bila tidak ada paragraf isi yang cocok (pemanggil memakai insertParagraph sebagai cadangan).
+function appendToParagraph(body, sentence) {
+  const parts = body.split(/(\r?\n[ \t]*\r?\n)/);
+  const plain = (p) => { const t = p.trim(); return !!t && t.split(/\s+/).length >= 25 && !/^(#|\*|-|\||!\[|\{\{|\[\[|>|\d+\.\s|<|\[[^\]]+\]\()/.test(t); };
+  const closing = (p) => /telepon|whatsapp|hubungi|kontak|penawaran/i.test(p.slice(-220));
+  for (let i = parts.length - 1; i >= 0; i -= 2) {
+    if (!plain(parts[i]) || closing(parts[i])) continue;
+    const trail = parts[i].match(/\s*$/)[0];
+    parts[i] = parts[i].slice(0, parts[i].length - trail.length) + ' ' + sentence + trail;
+    return parts.join('');
+  }
+  return null;
 }
 
 // Sisipkan paragraf sebagai paragraf tersendiri: sebelum paragraf penutup (CTA) bila ada, kalau tidak di akhir.
@@ -224,7 +240,8 @@ function verifyEdit(oldBody, newBody, orphan, anchor, mode, paragraph) {
   if (mode === 'span' && delinked !== oldBody) return 'isi lain ikut berubah (bukan hanya penambahan link)';
   if (mode === 'bridge') {
     const plain = paragraph.replace(`[${anchor}](${orphan.url})`, anchor);
-    if (delinked.replace(plain, '') .replace(/(\r?\n){3,}/g, '\n\n').trim() !== oldBody.replace(/(\r?\n){3,}/g, '\n\n').trim()) return 'isi lain ikut berubah (bukan hanya paragraf penghubung)';
+    const norm = (x) => x.replace(/\s+/g, ' ').trim();
+    if (norm(delinked.replace(plain, '')) !== norm(oldBody)) return 'isi lain ikut berubah (bukan hanya paragraf penghubung)';
   }
   return relevantAnchor(anchor, orphan);
 }
@@ -248,7 +265,7 @@ function planInsertion(orphan, donorDesc, donorBody) {
     const rel = relation(orphan, donorDesc);
     if (!rel) return { reject: 'donor tidak sepadan (produk/kota/lokasi)' };
     const { anchor, paragraph } = buildBridge(orphan, rel);
-    const newBody = insertParagraph(donorBody, paragraph);
+    const newBody = appendToParagraph(donorBody, paragraph) || insertParagraph(donorBody, paragraph);
     const err = verifyEdit(donorBody, newBody, orphan, anchor, 'bridge', paragraph);
     return err ? { reject: err } : { newBody, anchor, mode: 'bridge', note: rel.type, sentence: paragraph };
   }
@@ -260,5 +277,5 @@ function planInsertion(orphan, donorDesc, donorBody) {
   return err ? { reject: err } : { newBody, anchor: span.anchor, mode: 'span', note: 'frasa-asli', sentence: span.anchor };
 }
 
-module.exports = { describe, relation, anchorFromTitle, buildBridge, insertParagraph, findSpan, applySpan, verifyEdit, relevantAnchor,
+module.exports = { BRIDGE, describe, relation, anchorFromTitle, buildBridge, insertParagraph, appendToParagraph, findSpan, applySpan, verifyEdit, relevantAnchor,
   planInsertion, splitFrontMatter, setLastmod, assemble, weightedJaccard, hash, LINK_RE };

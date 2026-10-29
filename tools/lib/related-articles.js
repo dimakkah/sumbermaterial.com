@@ -25,6 +25,7 @@
  * installed in every CI job.
  */
 
+const LinkAnchor = require('./link-anchor.js');
 const fs   = require('fs');
 const path = require('path');
 
@@ -208,7 +209,7 @@ function formatCandidatesForPrompt(candidates) {
     return '(Tidak ada artikel terkait yang cukup relevan untuk keyword/topik ini — lewati instruksi internal link, tidak perlu memaksakan.)';
   }
   return candidates.map((c, i) =>
-    `${i + 1}. ${c.title}\n   Ringkasan isi: ${c.excerpt || '(tidak ada ringkasan)'}`
+    `${i + 1}. ${c.title}\n   Teks tautan (dipasang sistem): "${LinkAnchor.shortAnchor(c.title)}"\n   Ringkasan isi: ${c.excerpt || '(tidak ada ringkasan)'}`
   ).join('\n');
 }
 
@@ -294,21 +295,30 @@ function resolveLinkTokens(text, candidates, maxLinks = 2) {
   // (b) Every other Markdown link the AI wrote is demoted to plain text.
   out = out.replace(MD_LINK_RE, (m, anchor) => { dropped++; return anchor; });
 
-  // (c) Resolve tokens → real links. Unknown number / duplicate target / over the cap → plain text.
+  // (c) Resolve tokens → real links. Teks tautan dibuat SCRIPT: [[LINK:N]] → frasa pendek dari judul tujuan;
+  //     [[LINK:N|anchor]] yang anchor-nya menyalin judul / terlalu panjang → diganti frasa pendek yang sama.
+  //     Link yang berdiri sendiri di paragraf (hampir tanpa kalimat lain), di heading, atau duplikat/melebihi batas → dibuang.
   const used = new Set();
   let kept = 0;
-  out = out.replace(/\[\[LINK:(\d+)\|([^\]\n]+?)\]\]/g, (m, n, anchor) => {
+  const DROP_PARA = '\u0001DROP\u0001';
+  out = out.replace(/\[\[LINK:(\d+)(?:\|([^\]\n]*?))?\]\]/g, (m, n, anchor, offset, whole) => {
     const idx = parseInt(n, 10) - 1;
     const cand = list[idx];
-    // Jangkar bocoran instruksi ("internal link ke X", "Baca juga ...") atau terlalu panjang (> 10 kata) bukan frasa alami:
-    // jangan dijadikan link. Bocoran instruksi dibuang seluruhnya; yang hanya kepanjangan dijadikan teks biasa.
-    if (cand && LEAK_ANCHOR_RE.test(anchor)) { dropped++; return ''; }
-    if (cand && anchor.trim().split(/\s+/).length > 10) { dropped++; return anchor.trim(); }
-    if (!cand || used.has(idx) || kept >= maxLinks) { dropped++; return anchor.trim(); }
+    const given = (anchor || '').trim();
+    // Jangkar bocoran instruksi ("internal link ke X", "Baca juga ...") bukan frasa alami: buang seluruhnya.
+    if (cand && given && LEAK_ANCHOR_RE.test(given)) { dropped++; return ''; }
+    if (!cand || used.has(idx) || kept >= maxLinks) { dropped++; return given; }
+    // di dalam heading: jangan dijadikan link
+    const lineStart = whole.lastIndexOf('\n', offset) + 1;
+    if (/^\s*#{1,6}\s/.test(whole.slice(lineStart, offset))) { dropped++; return given || LinkAnchor.shortAnchor(cand.title); }
+    // paragraf hampir hanya berisi link ("[Judul](url) mungkin juga bisa jadi referensi.") → buang paragrafnya
+    if (LinkAnchor.standalonePara(whole, offset)) { dropped++; return DROP_PARA; }
+    const text = (!given || LinkAnchor.isTitleLike(given, cand.title)) ? LinkAnchor.shortAnchor(cand.title) : given;
     used.add(idx);
     kept++;
-    return `[${anchor.trim()}](${cand.url})`;
+    return `[${text}](${cand.url})`;
   });
+  if (out.includes(DROP_PARA)) out = out.split(/(\n{2,})/).filter((p, i, arr) => !p.includes(DROP_PARA) && !(i > 0 && /^\n+$/.test(p) && arr[i - 1].includes(DROP_PARA))).join('');
 
   // (d) Malformed leftovers such as [[LINK:abc|x]] or [[LINK:2]] never reach the file.
   out = out.replace(/\[\[LINK:[^|\]]*\|([^\]]*)\]\]/g, (m, anchor) => { dropped++; return anchor.trim(); });
