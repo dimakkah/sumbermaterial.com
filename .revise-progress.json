@@ -435,7 +435,13 @@
     "/bangunan/biaya-bangun-rumah-per-meter-di-kamal-jakarta/",
     "/bangunan/biaya-bangun-rumah-per-meter-di-kampung-tengah-jakarta/",
     "/bangunan/biaya-bangun-rumah-per-meter-di-kapuk-muara-jakarta/",
-    "/bangunan/biaya-bangun-rumah-per-meter-di-kalianyar-jakarta/"
+    "/bangunan/biaya-bangun-rumah-per-meter-di-kalianyar-jakarta/",
+    "/bangunan/biaya-bangun-rumah-per-meter-di-kalisari-jakarta/",
+    "/bangunan/biaya-bangun-rumah-per-meter-di-kamal-muara-jakarta/",
+    "/bangunan/biaya-bangun-rumah-per-meter-di-kampung-melayu-jakarta/",
+    "/bangunan/biaya-bangun-rumah-per-meter-di-karangtengah-tangerang/",
+    "/bangunan/biaya-bangun-rumah-per-meter-di-karet-kuningan-jakarta/",
+    "/bangunan/biaya-bangun-rumah-per-meter-di-kayu-manis-jakarta/"
   ],
   "failed": {
     "/baja-ringan/harga-pasang-atap-baja-ringan-di-anyar-serang/": 2,
@@ -781,15 +787,22 @@
     "/bangunan/biaya-bangun-rumah-per-meter-di-joglo-jakarta/": 2,
     "/bangunan/biaya-bangun-rumah-per-meter-di-johar-baru-jakarta/": 2,
     "/bangunan/biaya-bangun-rumah-per-meter-di-kalianyar-jakarta/": 1,
-    "/bangunan/biaya-bangun-rumah-per-meter-di-kalibaru-jakarta/": 1,
-    "/bangunan/biaya-bangun-rumah-per-meter-di-kalibata-jakarta/": 1,
-    "/bangunan/biaya-bangun-rumah-per-meter-di-kalideres-jakarta/": 1,
-    "/bangunan/biaya-bangun-rumah-per-meter-di-kalimulya-depok/": 1,
+    "/bangunan/biaya-bangun-rumah-per-meter-di-kalibaru-jakarta/": 2,
+    "/bangunan/biaya-bangun-rumah-per-meter-di-kalibata-jakarta/": 2,
+    "/bangunan/biaya-bangun-rumah-per-meter-di-kalideres-jakarta/": 2,
+    "/bangunan/biaya-bangun-rumah-per-meter-di-kalimulya-depok/": 2,
     "/bangunan/biaya-bangun-rumah-per-meter-di-kalisari-jakarta/": 1,
     "/bangunan/biaya-bangun-rumah-per-meter-di-kamal-muara-jakarta/": 1,
-    "/bangunan/biaya-bangun-rumah-per-meter-di-kampung-bali-jakarta/": 1,
+    "/bangunan/biaya-bangun-rumah-per-meter-di-kampung-bali-jakarta/": 2,
     "/bangunan/biaya-bangun-rumah-per-meter-di-kampung-melayu-jakarta/": 1,
-    "/bangunan/biaya-bangun-rumah-per-meter-di-kampung-rawa-jakarta/": 1,
-    "/bangunan/biaya-bangun-rumah-per-meter-di-kapuk-jakarta/": 1
+    "/bangunan/biaya-bangun-rumah-per-meter-di-kampung-rawa-jakarta/": 2,
+    "/bangunan/biaya-bangun-rumah-per-meter-di-kapuk-jakarta/": 2,
+    "/bangunan/biaya-bangun-rumah-per-meter-di-karang-anyar-jakarta/": 1,
+    "/bangunan/biaya-bangun-rumah-per-meter-di-karawang-barat-karawang/": 1,
+    "/bangunan/biaya-bangun-rumah-per-meter-di-karawang-timur-karawang/": 1,
+    "/bangunan/biaya-bangun-rumah-per-meter-di-karet-jakarta/": 1,
+    "/bangunan/biaya-bangun-rumah-per-meter-di-karet-semanggi-jakarta/": 1,
+    "/bangunan/biaya-bangun-rumah-per-meter-di-karet-tengsin-jakarta/": 1,
+    "/bangunan/biaya-bangun-rumah-per-meter-di-kartini-jakarta/": 1
   }
 }
