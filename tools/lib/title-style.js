@@ -39,7 +39,7 @@ function render(str, vars) {
 
 function buildTitleRules(keyword, style, year) {
   return render(T.rules, {
-    keyword,
+    keyword: cleanKeyword(keyword),
     titleStyle: style.instruction,
     banned: T.bannedDisplay.map(b => `"${b}"`).join(', '),
     currentYear: String(year || new Date().getFullYear()),
@@ -59,7 +59,13 @@ function hasKeyword(title, keyword) {
 
 // Wilayah/kota yang TIDAK boleh ditambahkan AI ke judul bila tidak ada di keyword (keyword "terdekat" != "Jabodetabek").
 const REGION_RE = /\b(jabodetabek|jabodetabekser|jabotabek|jakarta|bekasi|depok|bogor|tangerang|banten|serang|cikarang|karawang|purwakarta|bandung|cibubur|sentul|cileungsi|jawa barat|jawa)\b/gi;
+// Keyword dibersihkan sebelum dipakai di aturan/pemeriksaan: tahun dibuang (judul dilarang memuat tahun) dan "perbatang"/"perkubik" -> "per batang"/"per kubik".
+function cleanKeyword(k) {
+  return String(k || '').replace(/\b(19|20)\d{2}\b/g, ' ').replace(/\bper(?=(batang|kubik|meter|biji|lembar|sak|truk|colt|buah|m2|m3)\b)/gi, 'per ').replace(/\s+/g, ' ').trim();
+}
+
 function titleIssues(title, keyword) {
+  keyword = cleanKeyword(keyword);
   const issues = [];
   if (!hasKeyword(title, keyword)) issues.push('keyword tidak ada utuh di judul');
   if (SEPARATOR_RE.test(title)) issues.push('pemisah (: | - – —) di judul');
@@ -75,9 +81,10 @@ function titleIssues(title, keyword) {
 }
 
 function fixTitle(rawTitle, keyword) {
+  keyword = cleanKeyword(keyword);
   const title = String(rawTitle || '').replace(/\*\*/g, '').replace(/^["'“”]+|["'“”]+$/g, '').replace(/^#+\s*/, '').replace(/\s+/g, ' ').trim().replace(/[.]+$/, '');
   if (!title || !hasKeyword(title, keyword)) return { title: toTitleCase(keyword), changed: true, reason: 'keyword tidak ada di judul AI' };
   return { title, changed: title !== String(rawTitle || '').trim(), reason: 'dibersihkan' };
 }
 
-module.exports = { pickTitleStyle, buildTitleRules, titleIssues, fixTitle, toTitleCase, hasKeyword, isTransactional };
+module.exports = { cleanKeyword, pickTitleStyle, buildTitleRules, titleIssues, fixTitle, toTitleCase, hasKeyword, isTransactional };
