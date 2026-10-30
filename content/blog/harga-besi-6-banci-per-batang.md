@@ -1,6 +1,7 @@
 ---
-title: "Harga Besi 6 Banci Per Batang: Update Terbaru & Cara Hitung Kebutuhan Proyek"
+title: "Harga besi 6 banci per batang untuk struktur beton kuat"
 date: "2026-10-07"
+lastmod: "2026-10-30"
 categories:
  - "blog"
 type: "product"

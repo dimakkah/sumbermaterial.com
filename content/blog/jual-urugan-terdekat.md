@@ -1,6 +1,7 @@
 ---
-title: "Biar Proyek Lancar, Cari Jual Urugan Terdekat di Jabodetabek"
+title: "Jual Urugan Terdekat Mitra Sumber Material"
 date: "2026-10-20"
+lastmod: "2026-10-30"
 categories:
  - "blog"
 type: "product"

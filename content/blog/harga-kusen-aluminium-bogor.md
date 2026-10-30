@@ -1,6 +1,7 @@
 ---
-title: "Harga Kusen Aluminium Bogor: Pilihan Terbaik & Update Terbaru"
+title: "harga kusen aluminium bogor untuk tampilan modern minimalis"
 date: "2026-09-28"
+lastmod: "2026-10-30"
 categories:
  - "blog"
 type: "product"

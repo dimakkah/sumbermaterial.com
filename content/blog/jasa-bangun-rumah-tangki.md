@@ -1,6 +1,7 @@
 ---
-title: "Jasa Bangun Rumah Tangki: Harga, Proses & Tips Hemat"
+title: "Jasa Bangun Rumah Tangki untuk Perencanaan Proyek Akurat"
 date: "2026-10-11"
+lastmod: "2026-10-30"
 categories:
  - "blog"
 type: "service"

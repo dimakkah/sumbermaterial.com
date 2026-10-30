@@ -1,7 +1,7 @@
 ---
-title: "Jasa Cor Lantai Profesional di Jabodetabek: Proses dan Biayanya"
+title: "Jasa cor lantai berkualitas untuk bangunan lebih kuat"
 date: "2026-09-13"
-lastmod: "2026-09-17"
+lastmod: "2026-10-30"
 categories:
  - "blog"
 type: "service"
@@ -14,7 +14,7 @@ toc: false
 draft: false
 ---
 
-**Jasa Cor Lantai Profesional di Jabodetabek: Proses dan Biayanya** - Mitra, seringkali kita melihat hasil cor lantai yang kurang memuaskan: retak, tidak rata, atau bahkan cepat rusak. Padahal, kualitas cor lantai sangat berpengaruh pada kekuatan dan umur bangunan. Nah, dalam artikel ini, Kami akan membahas tuntas seluk-beluk jasa cor lantai, mulai dari proses pengerjaan, perkiraan biaya, hingga tips memilih penyedia yang tepat di wilayah Jabodetabek.
+**Jasa cor lantai berkualitas untuk bangunan lebih kuat** - Mitra, seringkali kita melihat hasil cor lantai yang kurang memuaskan: retak, tidak rata, atau bahkan cepat rusak. Padahal, kualitas cor lantai sangat berpengaruh pada kekuatan dan umur bangunan. Nah, dalam artikel ini, Kami akan membahas tuntas seluk-beluk jasa cor lantai, mulai dari proses pengerjaan, perkiraan biaya, hingga tips memilih penyedia yang tepat di wilayah Jabodetabek.
 
 {{< toc >}}
 

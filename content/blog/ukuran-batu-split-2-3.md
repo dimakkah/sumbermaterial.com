@@ -1,7 +1,7 @@
 ---
-title: "Ukuran Batu Split 2/3: Kegunaan dan Kisaran Harganya"
+title: "Ukuran Batu Split 2/3 Untuk Konstruksi Kuat Dan Tepat"
 date: "2026-09-08"
-lastmod: "2026-09-10"
+lastmod: "2026-10-30"
 categories:
  - "blog"
 type: "product"
@@ -14,7 +14,7 @@ toc: false
 draft: false
 ---
 
-**Ukuran Batu Split 2/3: Kegunaan dan Kisaran Harganya** - Mitra Sumber Material dimana saja berada, seringkali kita jumpai kebingungan dalam memilih ukuran batu split yang tepat untuk proyek konstruksi. Banyak yang belum memahami perbedaan antara berbagai ukuran batu split, termasuk yang populer yaitu ukuran 2/3. Kesalahan pemilihan ukuran dapat berdampak pada kualitas dan kekuatan struktur bangunan.
+**Ukuran Batu Split 2/3 Untuk Konstruksi Kuat Dan Tepat** - Mitra Sumber Material dimana saja berada, seringkali kita jumpai kebingungan dalam memilih ukuran batu split yang tepat untuk proyek konstruksi. Banyak yang belum memahami perbedaan antara berbagai ukuran batu split, termasuk yang populer yaitu ukuran 2/3. Kesalahan pemilihan ukuran dapat berdampak pada kualitas dan kekuatan struktur bangunan.
 
 {{< toc >}}
 

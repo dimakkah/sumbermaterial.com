@@ -1,6 +1,7 @@
 ---
-title: "Harga Hebel 2026: Update Terbaru & Tips Cerdas"
+title: "Cek harga hebel dan konsultasikan kebutuhan material dinding Anda"
 date: "2026-10-29"
+lastmod: "2026-10-30"
 categories:
  - "blog"
 type: "product"

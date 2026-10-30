@@ -1,6 +1,7 @@
 ---
-title: "Kusen Aluminium Karawang: Harga Terbaru, Keunggulan, dan Tips Memilih"
+title: "Kusen Aluminium Karawang Pilihan Material Terbaik"
 date: "2026-09-10"
+lastmod: "2026-10-30"
 categories:
  - "blog"
 type: "product"

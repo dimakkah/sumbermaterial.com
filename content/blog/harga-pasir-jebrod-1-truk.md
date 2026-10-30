@@ -1,7 +1,7 @@
 ---
-title: "Harga Pasir Jebrod 1 Truk dan Tips Mendapatkan Penawaran Terbaik"
+title: "Harga Pasir Jebrod 1 Truk"
 date: "2026-09-06"
-lastmod: "2026-09-10"
+lastmod: "2026-10-30"
 categories:
  - "blog"
 type: "product"

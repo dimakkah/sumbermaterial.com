@@ -1,6 +1,7 @@
 ---
-title: "Jasa Kanopi Serang: Solusi Praktis untuk Rumah & Bisnis di Jabodetabek"
+title: "Jasa kanopi Serang untuk area luar rumah atau bisnis?"
 date: "2026-09-29"
+lastmod: "2026-10-30"
 categories:
  - "blog"
 type: "service"

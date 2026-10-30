@@ -1,6 +1,7 @@
 ---
-title: "Jual Batako Terdekat: Pilihan Ukuran, Harga, & Tips Membeli"
+title: "Jual Batako Terdekat Mitra Bangunan Anda"
 date: "2026-09-29"
+lastmod: "2026-10-30"
 categories:
  - "blog"
 type: "product"

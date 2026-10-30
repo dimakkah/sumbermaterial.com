@@ -1,6 +1,7 @@
 ---
-title: "Harga Bangunan Per Meter di Bogor: Estimasi & Tips Hemat"
+title: "Renovasi Rumah Kontraktor? Cek harga bangunan per meter di bogor"
 date: "2026-09-18"
+lastmod: "2026-10-30"
 categories:
  - "blog"
 type: "service"
@@ -13,7 +14,7 @@ toc: false
 draft: false
 ---
 
-**Harga Bangunan Per Meter di Bogor: Estimasi & Tips Hemat** - Mitra Sumber Material dimana saja berada, mengetahui perkiraan biaya bangun rumah per meter persegi di Bogor adalah langkah awal yang cerdas sebelum memulai proyek konstruksi. Biaya ini bisa sangat bervariasi, tergantung pada beberapa faktor utama seperti jenis material, kompleksitas desain, dan lokasi spesifik di Bogor.
+**Renovasi Rumah Kontraktor? Cek harga bangunan per meter di bogor** - Mitra Sumber Material dimana saja berada, mengetahui perkiraan biaya bangun rumah per meter persegi di Bogor adalah langkah awal yang cerdas sebelum memulai proyek konstruksi. Biaya ini bisa sangat bervariasi, tergantung pada beberapa faktor utama seperti jenis material, kompleksitas desain, dan lokasi spesifik di Bogor.
 
 {{< toc >}}
 

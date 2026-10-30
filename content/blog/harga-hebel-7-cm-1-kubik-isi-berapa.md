@@ -1,6 +1,7 @@
 ---
-title: "Harga Hebel 7 Cm 1 Kubik Isi Berapa Untuk Bangun Rumah Impian?"
+title: "Harga Hebel 7 Cm 1 Kubik Isi Berapa"
 date: "2026-10-25"
+lastmod: "2026-10-30"
 categories:
  - "blog"
 type: "product"

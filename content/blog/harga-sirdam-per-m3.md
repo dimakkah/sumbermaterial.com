@@ -1,7 +1,7 @@
 ---
-title: "Harga Sirdam Per M3 dan Tips Mendapatkan Penawaran Terbaik"
+title: "Harga Sirdam Per M3 Mitra Sumber Material"
 date: "2026-09-11"
-lastmod: "2026-09-17"
+lastmod: "2026-10-30"
 categories:
  - "blog"
 type: "product"
@@ -14,11 +14,11 @@ toc: false
 draft: false
 ---
 
-**Harga Sirdam Per M3 dan Tips Mendapatkan Penawaran Terbaik** - Mitra Sumber Material, pernahkah Anda bertanya-tanya berapa sebenarnya biaya yang dibutuhkan untuk mengurug lahan dengan sirdam?
+**Harga Sirdam Per M3 Mitra Sumber Material** - Mitra Sumber Material, pernahkah Anda bertanya-tanya berapa sebenarnya biaya yang dibutuhkan untuk mengurug lahan dengan sirdam?
 
 {{< toc >}}
 
-![Harga Sirdam Per M3 dan Tips Mendapatkan Penawaran Terbaik](/images/blog/harga-sirdam-per-m3.jpg)
+![Harga Sirdam Per M3 Mitra Sumber Material](/images/blog/harga-sirdam-per-m3.jpg)
 
 Sirdam, atau singkatan dari pasir urug dan dam, merupakan material konstruksi yang umum digunakan untuk pengurugan lahan, pembuatan pondasi, atau bahkan sebagai lapisan dasar jalan. Harganya bisa bervariasi tergantung beberapa faktor. Nah, artikel ini akan membahas secara detail mengenai harga sirdam per m3, faktor-faktor yang mempengaruhinya, serta tips untuk mendapatkan penawaran terbaik.
 

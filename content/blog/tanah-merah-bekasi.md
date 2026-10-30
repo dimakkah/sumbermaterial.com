@@ -1,6 +1,7 @@
 ---
-title: "Cari Tanah Merah Bekasi? Ini Tips Memilih & Estimasi Harganya"
+title: "Memilih Tanah Merah Bekasi Berkualitas untuk Urugan dan Fondasi"
 date: "2026-10-05"
+lastmod: "2026-10-30"
 categories:
  - "blog"
 type: "product"
@@ -13,7 +14,7 @@ toc: false
 draft: false
 ---
 
-**Cari Tanah Merah Bekasi? Ini Tips Memilih & Estimasi Harganya** - Mitra Sumber Material di mana pun berada, seringkali kita jumpai kesalahan dalam memilih material urugan, terutama tanah merah. Banyak yang hanya fokus pada harga murah tanpa memperhatikan kualitas, padahal tanah merah yang buruk bisa berakibat fatal untuk kekuatan fondasi atau area urugan.
+**Memilih Tanah Merah Bekasi Berkualitas untuk Urugan dan Fondasi** - Mitra Sumber Material di mana pun berada, seringkali kita jumpai kesalahan dalam memilih material urugan, terutama tanah merah. Banyak yang hanya fokus pada harga murah tanpa memperhatikan kualitas, padahal tanah merah yang buruk bisa berakibat fatal untuk kekuatan fondasi atau area urugan.
 
 {{< toc >}}
 

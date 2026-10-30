@@ -1,6 +1,7 @@
 ---
-title: "Harga Pasir Pasang Per M3 Jakarta: Update Terbaru & Tips Cek Kualitas"
+title: "harga pasir pasang per m3 jakarta kini"
 date: "2026-10-14"
+lastmod: "2026-10-30"
 categories:
  - "blog"
 type: "service"

@@ -1,6 +1,7 @@
 ---
-title: "Makadam 5/7 Jabodetabek: Harga, Aplikasi, dan Tips Memilih Terbaik"
+title: "3 Pertimbangan Penting Memilih Makadam 5/7 Berkualitas"
 date: "2026-10-05"
+lastmod: "2026-10-30"
 categories:
  - "blog"
 type: "product"

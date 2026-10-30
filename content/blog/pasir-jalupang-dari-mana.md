@@ -1,6 +1,7 @@
 ---
-title: "Pasir Jalupang Dari Mana? Sumber Terbaik & Harga Terkini"
+title: "Pasir Jalupang Dari Mana? Kenali Sumber dan Jenisnya"
 date: "2026-09-20"
+lastmod: "2026-10-30"
 categories:
  - "blog"
 type: "product"
@@ -13,7 +14,7 @@ toc: false
 draft: false
 ---
 
-**Pasir Jalupang Dari Mana? Sumber Terbaik & Harga Terkini** - Mitra Sumber Material yang kami hormati, pernahkah Anda bertanya-tanya pasir jalupang dari mana sih yang paling bagus untuk konstruksi?
+**Pasir Jalupang Dari Mana? Kenali Sumber dan Jenisnya** - Mitra Sumber Material yang kami hormati, pernahkah Anda bertanya-tanya pasir jalupang dari mana sih yang paling bagus untuk konstruksi?
 
 {{< toc >}}
 

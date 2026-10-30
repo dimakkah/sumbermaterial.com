@@ -1,6 +1,7 @@
 ---
-title: "Harga Batu Padas 1 Kubik untuk Renovasi Rumah: Update Terbaru 2026"
+title: "Harga Batu Padas 1 Kubik"
 date: "2026-10-26"
+lastmod: "2026-10-30"
 categories:
  - "blog"
 type: "product"

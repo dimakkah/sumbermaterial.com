@@ -1,6 +1,7 @@
 ---
-title: "Biar Proyek Lancar, Cari Jual Pasir Besi Terdekat di Jabodetabek"
+title: "Jual Pasir Besi Terdekat Mitra Konstruksi"
 date: "2026-10-18"
+lastmod: "2026-10-30"
 categories:
  - "blog"
 type: "product"

@@ -1,6 +1,7 @@
 ---
-title: "Biar Proyek Lancar, Pastikan Dapat Jual Pasir Hitam Terdekat"
+title: "Jual Pasir Hitam Terdekat Mitra Sumber Material"
 date: "2026-10-19"
+lastmod: "2026-10-30"
 categories:
  - "blog"
 type: "product"

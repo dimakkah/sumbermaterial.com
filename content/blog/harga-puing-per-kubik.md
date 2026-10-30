@@ -1,6 +1,7 @@
 ---
-title: "Harga Puing Per Kubik: Berapa Biaya Angkutnya di Jabodetabek?"
+title: "harga puing per kubik untuk pengelolaan limbah konstruksi"
 date: "2026-09-17"
+lastmod: "2026-10-30"
 categories:
  - "blog"
 type: "product"
@@ -13,7 +14,7 @@ toc: false
 draft: false
 ---
 
-**Harga Puing Per Kubik: Berapa Biaya Angkutnya di Jabodetabek?** - Mitra Sumber Material yang berbahagia, apakah Anda sedang merenovasi rumah atau menyelesaikan proyek konstruksi dan punya banyak puing yang perlu dibuang? Nah, mengelola puing bangunan memang bisa jadi tantangan tersendiri. Jangan khawatir, Kami akan membahas tuntas soal harga puing per kubik dan biaya angkutnya, khususnya di wilayah Jabodetabek.
+**harga puing per kubik untuk pengelolaan limbah konstruksi** - Mitra Sumber Material yang berbahagia, apakah Anda sedang merenovasi rumah atau menyelesaikan proyek konstruksi dan punya banyak puing yang perlu dibuang? Nah, mengelola puing bangunan memang bisa jadi tantangan tersendiri. Jangan khawatir, Kami akan membahas tuntas soal harga puing per kubik dan biaya angkutnya, khususnya di wilayah Jabodetabek.
 
 {{< toc >}}
 

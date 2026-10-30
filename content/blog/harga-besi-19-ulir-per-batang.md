@@ -1,6 +1,7 @@
 ---
-title: "Biar Proyek Lancar, Cek Dulu Harga Besi 19 Ulir Per Batang"
+title: "Harga Besi 19 Ulir per Batang"
 date: "2026-10-26"
+lastmod: "2026-10-30"
 categories:
  - "blog"
 type: "product"

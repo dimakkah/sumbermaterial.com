@@ -1,6 +1,7 @@
 ---
-title: "Bengkel Las Terdekat Jabodetabek: Solusi Cepat & Harga Bersaing"
+title: "Bengkel Las Terdekat untuk Fabrikasi dan Perbaikan Besi"
 date: "2026-09-21"
+lastmod: "2026-10-30"
 categories:
  - "blog"
 type: "product"
@@ -13,7 +14,7 @@ toc: false
 draft: false
 ---
 
-**Bengkel Las Terdekat Jabodetabek: Solusi Cepat & Harga Bersaing** - Mitra Sumber Material dimana saja berada, siap membantu kebutuhan pengelasan Anda di wilayah Jabodetabek dan sekitarnya!
+**Bengkel Las Terdekat untuk Fabrikasi dan Perbaikan Besi** - Mitra Sumber Material dimana saja berada, siap membantu kebutuhan pengelasan Anda di wilayah Jabodetabek dan sekitarnya!
 
 {{< toc >}}
 

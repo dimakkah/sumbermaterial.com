@@ -1,6 +1,7 @@
 ---
-title: "Berapa Biaya Jasa Ngecor Lantai Per M2 di Jabodetabek?"
+title: "Sebelum Memakai Jasa Ngecor Lantai Per M2 Perhatikan Ini"
 date: "2026-10-20"
+lastmod: "2026-10-30"
 categories:
  - "blog"
 type: "service"

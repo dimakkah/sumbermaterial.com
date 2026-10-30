@@ -1,6 +1,7 @@
 ---
-title: "Harga Pasir Jebrod 1 Kubik: Berapa Biaya yang Perlu Anda Siapkan?"
+title: "Harga Pasir Jebrod 1 Kubik"
 date: "2026-10-02"
+lastmod: "2026-10-30"
 categories:
  - "blog"
 type: "product"
@@ -13,7 +14,7 @@ toc: false
 draft: false
 ---
 
-**Harga Pasir Jebrod 1 Kubik: Berapa Biaya yang Perlu Anda Siapkan?** - Mitra Sumber Material yang kami hormati, mencari tahu harga pasir jebrod per kubik memang penting untuk perencanaan anggaran proyek Anda. Nah, artikel ini akan membahas secara detail mengenai faktor-faktor yang memengaruhi harga, estimasi biaya terkini, dan tips mendapatkan penawaran terbaik.
+**Harga Pasir Jebrod 1 Kubik** - Mitra Sumber Material yang kami hormati, mencari tahu harga pasir jebrod per kubik memang penting untuk perencanaan anggaran proyek Anda. Nah, artikel ini akan membahas secara detail mengenai faktor-faktor yang memengaruhi harga, estimasi biaya terkini, dan tips mendapatkan penawaran terbaik.
 
 {{< toc >}}
 

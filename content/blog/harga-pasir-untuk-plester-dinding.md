@@ -1,6 +1,7 @@
 ---
-title: "Harga Pasir untuk Plester Dinding: Jenis, Estimasi Biaya & Tips Memilih"
+title: "Cek harga pasir untuk plester dinding dan pilihan jenisnya"
 date: "2026-09-29"
+lastmod: "2026-10-30"
 categories:
  - "blog"
 type: "product"
@@ -13,11 +14,11 @@ toc: false
 draft: false
 ---
 
-**Harga Pasir untuk Plester Dinding: Jenis, Estimasi Biaya & Tips Memilih** - Mitra Sumber Material, tahukah Anda, sekitar 40% dari total biaya pekerjaan plester dinding berasal dari harga material pasir itu sendiri? Memilih jenis pasir yang tepat dan mendapatkan harga yang sesuai bisa sangat berpengaruh pada efisiensi anggaran proyek Anda.
+**Cek harga pasir untuk plester dinding dan pilihan jenisnya** - Mitra Sumber Material, tahukah Anda, sekitar 40% dari total biaya pekerjaan plester dinding berasal dari harga material pasir itu sendiri? Memilih jenis pasir yang tepat dan mendapatkan harga yang sesuai bisa sangat berpengaruh pada efisiensi anggaran proyek Anda.
 
 {{< toc >}}
 
-![Harga Pasir untuk Plester Dinding: Jenis, Estimasi Biaya & Tips Memilih](/images/blog/harga-pasir-untuk-plester-dinding.jpg)
+![Cek harga pasir untuk plester dinding dan pilihan jenisnya](/images/blog/harga-pasir-untuk-plester-dinding.jpg)
 
 Nah, di artikel ini, Kami akan membahas tuntas mengenai berbagai jenis pasir yang umum digunakan untuk plester dinding, perkiraan harganya, serta tips memilih yang paling sesuai dengan kebutuhan dan budget proyek Anda. Dengan informasi yang tepat, Mitra Sumber Material bisa mendapatkan hasil plesteran yang kuat, tahan lama, dan hemat biaya.
 

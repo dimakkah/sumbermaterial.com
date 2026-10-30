@@ -1,6 +1,7 @@
 ---
-title: "Harga Pasir Urug Per M3: Update Terbaru & Tips Cek Kualitas"
+title: "Harga pasir urug per m3 untuk renovasi dan proyek konstruksi"
 date: "2026-10-02"
+lastmod: "2026-10-30"
 categories:
  - "blog"
 type: "product"

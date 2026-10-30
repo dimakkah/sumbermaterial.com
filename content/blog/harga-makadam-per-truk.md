@@ -1,6 +1,7 @@
 ---
-title: "Harga Makadam Per Truk: Berapa Biaya yang Harus Anda Siapkan?"
+title: "Harga Makadam Per Truk Bantu Perencanaan Anggaran Proyek"
 date: "2026-09-27"
+lastmod: "2026-10-30"
 categories:
  - "blog"
 type: "product"
@@ -13,7 +14,7 @@ toc: false
 draft: false
 ---
 
-**Harga Makadam Per Truk: Berapa Biaya yang Harus Anda Siapkan?** - Mitra Sumber Material di mana pun berada, pernahkah Anda merasa bingung saat menghitung biaya material untuk proyek konstruksi? Terutama soal material dasar seperti makadam yang seringkali dibutuhkan dalam jumlah besar. Mengetahui perkiraan harga makadam per truk bisa membantu Anda merencanakan anggaran proyek dengan lebih baik. Nah, di artikel ini, Kami akan membahas tuntas seputar harga makadam, faktor-faktor yang mempengaruhinya, dan tips mendapatkan penawaran terbaik.
+**Harga Makadam Per Truk Bantu Perencanaan Anggaran Proyek** - Mitra Sumber Material di mana pun berada, pernahkah Anda merasa bingung saat menghitung biaya material untuk proyek konstruksi? Terutama soal material dasar seperti makadam yang seringkali dibutuhkan dalam jumlah besar. Mengetahui perkiraan harga makadam per truk bisa membantu Anda merencanakan anggaran proyek dengan lebih baik. Nah, di artikel ini, Kami akan membahas tuntas seputar harga makadam, faktor-faktor yang mempengaruhinya, dan tips mendapatkan penawaran terbaik.
 
 {{< toc >}}
 

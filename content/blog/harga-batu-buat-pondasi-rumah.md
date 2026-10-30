@@ -1,7 +1,7 @@
 ---
-title: "Batu Buat Pondasi Rumah: Jenis dan Kisaran Harganya"
+title: "Harga Batu Buat Pondasi Rumah"
 date: "2026-09-08"
-lastmod: "2026-09-10"
+lastmod: "2026-10-30"
 categories:
  - "blog"
 type: "product"
@@ -14,7 +14,7 @@ toc: false
 draft: false
 ---
 
-**Batu Buat Pondasi Rumah: Jenis dan Kisaran Harganya** - Mitra Sumber Material dimana saja berada, tahukah Anda bahwa kualitas pondasi rumah sangat berpengaruh terhadap kekuatan dan keamanan bangunan secara keseluruhan? Lebih dari 30% risiko kerusakan struktur bangunan berasal dari pondasi yang tidak kuat atau dibangun dengan material yang kurang tepat. Nah, artikel ini akan membahas tuntas mengenai harga batu buat pondasi rumah, jenis-jenisnya, serta estimasi biayanya.
+**Harga Batu Buat Pondasi Rumah** - Mitra Sumber Material dimana saja berada, tahukah Anda bahwa kualitas pondasi rumah sangat berpengaruh terhadap kekuatan dan keamanan bangunan secara keseluruhan? Lebih dari 30% risiko kerusakan struktur bangunan berasal dari pondasi yang tidak kuat atau dibangun dengan material yang kurang tepat. Nah, artikel ini akan membahas tuntas mengenai harga batu buat pondasi rumah, jenis-jenisnya, serta estimasi biayanya.
 
 {{< toc >}}
 

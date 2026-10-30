@@ -1,6 +1,7 @@
 ---
-title: "Penjual Batu Kali Terdekat: Tips Pilih Kualitas Terbaik untuk Pondasi Kuat"
+title: "Cara Memilih Batu Kali Berkualitas dari penjual batu kali terdekat"
 date: "2026-10-10"
+lastmod: "2026-10-30"
 categories:
  - "blog"
 type: "product"

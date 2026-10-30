@@ -1,6 +1,7 @@
 ---
-title: "Harga Besi 10 di Bali Berapa? Update Terkini & Tips Belinya"
+title: "Harga besi 10 di bali sebelum memesan material bangunan"
 date: "2026-10-21"
+lastmod: "2026-10-30"
 categories:
  - "blog"
 type: "product"

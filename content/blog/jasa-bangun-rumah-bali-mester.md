@@ -1,6 +1,7 @@
 ---
-title: "Jasa Bangun Rumah Bali Mester: Konsultasi Gratis & Harga Terpercaya"
+title: "Jasa Bangun Rumah Bali Mester"
 date: "2026-10-27"
+lastmod: "2026-10-30"
 categories:
  - "blog"
 type: "service"

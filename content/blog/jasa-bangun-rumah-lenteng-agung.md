@@ -1,6 +1,7 @@
 ---
-title: "Jasa Bangun Rumah Lenteng Agung: Estimasi Biaya & Tips Memilih Kontraktor"
+title: "Jasa Bangun Rumah Lenteng Agung konsultasikan kebutuhan material Anda"
 date: "2026-10-17"
+lastmod: "2026-10-30"
 categories:
  - "blog"
 type: "service"

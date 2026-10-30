@@ -1,7 +1,7 @@
 ---
-title: "Pasir Cimangkok Sukabumi: Keunggulan dan Kisaran Harganya"
+title: "Pasir Cimangkok Sukabumi Unggul untuk Konstruksi Anda"
 date: "2026-09-09"
-lastmod: "2026-09-17"
+lastmod: "2026-10-30"
 categories:
  - "blog"
 type: "product"
@@ -14,7 +14,7 @@ toc: false
 draft: false
 ---
 
-**Pasir Cimangkok Sukabumi: Keunggulan dan Kisaran Harganya** - Mitra Sumber Material, tahukah Anda bahwa pasir cimangkok merupakan salah satu material konstruksi yang paling banyak dicari di wilayah Jabodetabek? Permintaan tinggi ini bukan tanpa alasan. Pasir cimangkok, terutama yang berasal dari Sukabumi, dikenal dengan kualitasnya yang unggul dan cocok untuk berbagai aplikasi pembangunan.
+**Pasir Cimangkok Sukabumi Unggul untuk Konstruksi Anda** - Mitra Sumber Material, tahukah Anda bahwa pasir cimangkok merupakan salah satu material konstruksi yang paling banyak dicari di wilayah Jabodetabek? Permintaan tinggi ini bukan tanpa alasan. Pasir cimangkok, terutama yang berasal dari Sukabumi, dikenal dengan kualitasnya yang unggul dan cocok untuk berbagai aplikasi pembangunan.
 
 {{< toc >}}
 

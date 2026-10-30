@@ -1,6 +1,7 @@
 ---
-title: "Harga Pasir Rangkas Per Kubik: Update Terbaru & Tips Hitung Kebutuhan"
+title: "Cek harga pasir rangkas per kubik untuk konstruksi Anda"
 date: "2026-09-22"
+lastmod: "2026-10-30"
 categories:
  - "blog"
 type: "product"

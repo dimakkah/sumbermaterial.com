@@ -1,6 +1,7 @@
 ---
-title: "Pabrik Hebel Purwakarta: Pilihan Tepat untuk Konstruksi Ringan Anda"
+title: "Pabrik hebel Purwakarta untuk konstruksi ringan yang lebih efisien"
 date: "2026-09-23"
+lastmod: "2026-10-30"
 categories:
  - "blog"
 type: "product"
@@ -13,11 +14,11 @@ toc: false
 draft: false
 ---
 
-**Pabrik Hebel Purwakarta: Pilihan Tepat untuk Konstruksi Ringan Anda** - Mitra Sumber Material yang budiman, selamat datang kembali di blog Kami! Membangun rumah atau struktur lainnya, tentu saja membutuhkan material yang tepat. Nah, jika Anda sedang mencari material yang ringan, kuat, dan ekonomis, hebel bisa jadi pilihan yang sangat menarik.
+**Pabrik hebel Purwakarta untuk konstruksi ringan yang lebih efisien** - Mitra Sumber Material yang budiman, selamat datang kembali di blog Kami! Membangun rumah atau struktur lainnya, tentu saja membutuhkan material yang tepat. Nah, jika Anda sedang mencari material yang ringan, kuat, dan ekonomis, hebel bisa jadi pilihan yang sangat menarik.
 
 {{< toc >}}
 
-![Pabrik Hebel Purwakarta: Pilihan Tepat untuk Konstruksi Ringan Anda](/images/blog/pabrik-hebel-karawang.jpg)
+![Pabrik hebel Purwakarta untuk konstruksi ringan yang lebih efisien](/images/blog/pabrik-hebel-karawang.jpg)
 
 Hebel, atau *Autoclaved Aerated Concrete* (AAC), semakin populer di kalangan pembangun dan pemilik rumah. Material ini menawarkan banyak keunggulan dibandingkan material tradisional seperti batu bata merah. Kami akan membahas lebih dalam tentang pabrik hebel di Purwakarta, apa saja keuntungannya, dan bagaimana memilih yang terbaik.
 

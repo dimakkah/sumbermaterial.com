@@ -1,7 +1,7 @@
 ---
-title: "Harga Batu Per Kubik: Perbandingan Jenis dan Kegunaannya"
+title: "Harga batu per kubik sebelum memesan jenis materialnya"
 date: "2026-09-15"
-lastmod: "2026-09-17"
+lastmod: "2026-10-30"
 categories:
  - "blog"
 type: "product"
@@ -14,7 +14,7 @@ toc: false
 draft: false
 ---
 
-**Harga Batu Per Kubik: Perbandingan Jenis dan Kegunaannya** - Mitra Sumber Material yang berbahagia, mencari tahu harga batu perkubik untuk proyek Anda? Nah, Anda datang ke tempat yang tepat! Artikel ini akan membahas secara mendalam mengenai harga berbagai jenis batu material konstruksi per kubik, lengkap dengan faktor-faktor yang memengaruhi harga dan tips memilih material yang sesuai kebutuhan Anda.
+**Harga batu per kubik sebelum memesan jenis materialnya** - Mitra Sumber Material yang berbahagia, mencari tahu harga batu perkubik untuk proyek Anda? Nah, Anda datang ke tempat yang tepat! Artikel ini akan membahas secara mendalam mengenai harga berbagai jenis batu material konstruksi per kubik, lengkap dengan faktor-faktor yang memengaruhi harga dan tips memilih material yang sesuai kebutuhan Anda.
 
 {{< toc >}}
 

@@ -1,6 +1,7 @@
 ---
-title: "Harga Batu Split 1/2 Colt Terbaru: Berapa Biaya yang Perlu Anda Siapkan?"
+title: "harga batu split 1/2 colt untuk fondasi bangunan kuat"
 date: "2026-10-13"
+lastmod: "2026-10-30"
 categories:
  - "blog"
 type: "product"

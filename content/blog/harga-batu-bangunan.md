@@ -1,6 +1,7 @@
 ---
-title: "Harga Batu Bangunan: Update Terbaru & Tips Memilih yang Tepat"
+title: "Harga batu bangunan untuk konstruksi yang kuat dan hemat"
 date: "2026-10-15"
+lastmod: "2026-10-30"
 categories:
  - "blog"
 type: "service"
@@ -17,7 +18,7 @@ draft: false
 
 {{< toc >}}
 
-![Harga Batu Bangunan: Update Terbaru & Tips Memilih yang Tepat](/images/blog/harga-batu-bangunan.jpg)
+![Harga batu bangunan untuk konstruksi yang kuat dan hemat](/images/blog/harga-batu-bangunan.jpg)
 
 Sebagai toko material konstruksi terpercaya di Jabodetabek dan sekitarnya, Kami di Sumber Material sering menerima pertanyaan tentang harga dan jenis batu bangunan yang paling cocok untuk berbagai kebutuhan. Kali ini, mari kita bedah tuntas informasi penting seputar harga batu bangunan, jenis-jenisnya, serta tips memilih yang paling sesuai dengan proyek Anda.
 

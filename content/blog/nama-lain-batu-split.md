@@ -1,6 +1,7 @@
 ---
-title: "Batu Pecah, Agregat, Sirtu: Apa Saja Nama Lain Batu Split?"
+title: "Batu Pecah Agregat Sirtu dan Nama Lain Batu Split yang Perlu Anda Tahu"
 date: "2026-09-19"
+lastmod: "2026-10-30"
 categories:
  - "blog"
 type: "product"
@@ -13,7 +14,7 @@ toc: false
 draft: false
 ---
 
-**Batu Pecah, Agregat, Sirtu: Apa Saja Nama Lain Batu Split?** - Mitra Sumber Material yang berbahagia, pernahkah Anda mendengar istilah "batu pecah", "agregat", atau "sirtu" saat berdiskusi tentang material konstruksi? Istilah-istilah ini seringkali bikin bingung, ya?
+**Batu Pecah Agregat Sirtu dan Nama Lain Batu Split yang Perlu Anda Tahu** - Mitra Sumber Material yang berbahagia, pernahkah Anda mendengar istilah "batu pecah", "agregat", atau "sirtu" saat berdiskusi tentang material konstruksi? Istilah-istilah ini seringkali bikin bingung, ya?
 
 {{< toc >}}
 

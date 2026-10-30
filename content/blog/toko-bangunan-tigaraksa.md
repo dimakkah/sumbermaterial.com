@@ -1,6 +1,7 @@
 ---
-title: "Toko Bangunan Tigaraksa: Pilihan Material Terbaik & Harga Terkini"
+title: "Toko Bangunan Tigaraksa Sumber Material siap melayani"
 date: "2026-10-12"
+lastmod: "2026-10-30"
 categories:
  - "blog"
 type: "service"
@@ -13,7 +14,7 @@ toc: false
 draft: false
 ---
 
-**Toko Bangunan Tigaraksa: Pilihan Material Terbaik & Harga Terkini** - Mitra Sumber Material, siap membantu kelancaran proyek konstruksi Anda.
+**Toko Bangunan Tigaraksa Sumber Material siap melayani** - Mitra Sumber Material, siap membantu kelancaran proyek konstruksi Anda.
 
 {{< toc >}}
 

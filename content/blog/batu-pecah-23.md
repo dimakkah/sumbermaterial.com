@@ -1,6 +1,7 @@
 ---
-title: "Batu Pecah 2/3: Solusi Kuat untuk Fondasi dan Drainase"
+title: "Fondasi Kuat Drainase Lancar dengan Batu Pecah 2/3"
 date: "2026-10-15"
+lastmod: "2026-10-30"
 categories:
  - "blog"
 type: "product"
@@ -13,7 +14,7 @@ toc: false
 draft: false
 ---
 
-**Batu Pecah 2/3: Solusi Kuat untuk Fondasi dan Drainase** - Mitra Sumber Material di mana pun berada, tahukah Anda bahwa sekitar 60% kegagalan konstruksi disebabkan oleh kualitas material yang buruk? Nah, pemilihan material yang tepat, seperti batu pecah 2/3, jadi kunci utama keberhasilan proyek Anda.
+**Fondasi Kuat Drainase Lancar dengan Batu Pecah 2/3** - Mitra Sumber Material di mana pun berada, tahukah Anda bahwa sekitar 60% kegagalan konstruksi disebabkan oleh kualitas material yang buruk? Nah, pemilihan material yang tepat, seperti batu pecah 2/3, jadi kunci utama keberhasilan proyek Anda.
 
 {{< toc >}}
 

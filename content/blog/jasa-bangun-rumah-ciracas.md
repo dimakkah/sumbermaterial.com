@@ -1,6 +1,7 @@
 ---
-title: "Jasa Bangun Rumah Ciracas: Estimasi Biaya & Tips Memilih Kontraktor"
+title: "Jasa Bangun Rumah Ciracas Mitra Sumber Material"
 date: "2026-10-08"
+lastmod: "2026-10-30"
 categories:
  - "blog"
 type: "service"

@@ -1,6 +1,7 @@
 ---
-title: "Jasa Pembuatan Pagar Rumah Terdekat: Bebas Repot, Hasil Berkualitas"
+title: "Jasa Pembuatan Pagar Rumah Terdekat untuk Keamanan dan Estetika?"
 date: "2026-10-09"
+lastmod: "2026-10-30"
 categories:
  - "blog"
 type: "service"

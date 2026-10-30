@@ -1,6 +1,7 @@
 ---
-title: "Biar Proyek Lancar, Cek Harga Sirtu Per M3 Terbaru di Jabodetabek"
+title: "Berapa harga sirtu per m3 untuk proyek konstruksi"
 date: "2026-10-23"
+lastmod: "2026-10-30"
 categories:
  - "blog"
 type: "product"
@@ -17,7 +18,7 @@ draft: false
 
 {{< toc >}}
 
-![Biar Proyek Lancar, Cek Harga Sirtu Per M3 Terbaru di Jabodetabek](/images/blog/harga-sirtu-per-m3.jpg)
+![Berapa harga sirtu per m3 untuk proyek konstruksi](/images/blog/harga-sirtu-per-m3.jpg)
 
 ## Pertimbangan Sebelum Membeli Sirtu: Jenis dan Kualitas yang Tepat
 

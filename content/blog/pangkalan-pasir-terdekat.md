@@ -1,6 +1,7 @@
 ---
-title: "Pangkalan Pasir Terdekat: Solusi Cepat dan Murah untuk Proyek Anda"
+title: "Cari Pangkalan Pasir Terdekat Untuk Material Konstruksi Anda"
 date: "2026-09-21"
+lastmod: "2026-10-30"
 categories:
  - "blog"
 type: "product"

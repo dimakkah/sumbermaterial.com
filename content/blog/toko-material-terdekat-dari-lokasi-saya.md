@@ -1,6 +1,7 @@
 ---
-title: "Biar Proyek Lancar, Cari Toko Material Terdekat dari Lokasi Saya"
+title: "Di Mana Toko Material Terdekat dari Lokasi Saya?"
 date: "2026-10-25"
+lastmod: "2026-10-30"
 categories:
  - "blog"
 type: "product"

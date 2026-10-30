@@ -1,6 +1,7 @@
 ---
-title: "Biar Proyek Lancar, Cari Toko Kusen Aluminium Terdekat di Jabodetabek"
+title: "Toko kusen aluminium terdekat Sumber Material"
 date: "2026-10-22"
+lastmod: "2026-10-30"
 categories:
  - "blog"
 type: "product"

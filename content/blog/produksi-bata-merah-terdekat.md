@@ -1,6 +1,7 @@
 ---
-title: "Produksi Bata Merah Terdekat di Jabodetabek: Harga & Tips Memilih"
+title: "Produksi Bata Merah Terdekat"
 date: "2026-09-28"
+lastmod: "2026-10-30"
 categories:
  - "blog"
 type: "product"
@@ -13,7 +14,7 @@ toc: false
 draft: false
 ---
 
-**Produksi Bata Merah Terdekat di Jabodetabek: Harga & Tips Memilih** - Mitra Sumber Material dimana saja berada, seringkali kita jumpai kesalahan dalam memilih material konstruksi, terutama saat mencari bata merah. Banyak yang terpaku pada harga murah tanpa memperhatikan kualitas, padahal bata merah yang buruk bisa berakibat fatal pada kekuatan bangunan.
+**Produksi Bata Merah Terdekat** - Mitra Sumber Material dimana saja berada, seringkali kita jumpai kesalahan dalam memilih material konstruksi, terutama saat mencari bata merah. Banyak yang terpaku pada harga murah tanpa memperhatikan kualitas, padahal bata merah yang buruk bisa berakibat fatal pada kekuatan bangunan.
 
 {{< toc >}}
 

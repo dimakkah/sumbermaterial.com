@@ -1,6 +1,7 @@
 ---
-title: "Tempat Las Terdekat: Harga Jasa & Tips Memilih Penyedia Terpercaya"
+title: "Tempat Las Terdekat Mitra Material Anda"
 date: "2026-10-10"
+lastmod: "2026-10-30"
 categories:
  - "blog"
 type: "product"

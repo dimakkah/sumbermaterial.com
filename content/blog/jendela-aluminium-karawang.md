@@ -1,6 +1,7 @@
 ---
-title: "Jendela Aluminium Karawang: Pilihan Tepat untuk Hunian Modern"
+title: "Jendela Aluminium Karawang Pilihan untuk Bangunan Modern"
 date: "2026-10-08"
+lastmod: "2026-10-30"
 categories:
  - "blog"
 type: "product"
@@ -13,11 +14,11 @@ toc: false
 draft: false
 ---
 
-**Jendela Aluminium Karawang: Pilihan Tepat untuk Hunian Modern** - Mitra Sumber Material di mana pun berada, tahukah Anda bahwa jendela aluminium semakin populer di Karawang dan sekitarnya? Material ini menawarkan perpaduan ideal antara kekuatan, estetika, dan efisiensi energi.
+**Jendela Aluminium Karawang Pilihan untuk Bangunan Modern** - Mitra Sumber Material di mana pun berada, tahukah Anda bahwa jendela aluminium semakin populer di Karawang dan sekitarnya? Material ini menawarkan perpaduan ideal antara kekuatan, estetika, dan efisiensi energi.
 
 {{< toc >}}
 
-![Jendela Aluminium Karawang: Pilihan Tepat untuk Hunian Modern](/images/blog/kusen-aluminium-karawang.jpg)
+![Jendela Aluminium Karawang Pilihan untuk Bangunan Modern](/images/blog/kusen-aluminium-karawang.jpg)
 
 Memilih jendela yang tepat untuk rumah atau bangunan Anda adalah keputusan penting. Jendela bukan hanya berfungsi sebagai sumber pencahayaan dan ventilasi, tetapi juga berperan besar dalam menentukan tampilan fasad bangunan. Mitra Sumber Material hadir untuk membantu Anda menemukan solusi jendela aluminium terbaik yang sesuai dengan kebutuhan dan anggaran Anda.
 

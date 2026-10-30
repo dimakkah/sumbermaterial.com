@@ -1,6 +1,7 @@
 ---
-title: "Kusen Aluminium Sukabumi: Pilihan Tepat untuk Rumah Impian"
+title: "Mengapa Kusen Aluminium Sukabumi Banyak Diminati"
 date: "2026-10-06"
+lastmod: "2026-10-30"
 categories:
  - "blog"
 type: "product"
@@ -13,11 +14,11 @@ toc: false
 draft: false
 ---
 
-**Kusen Aluminium Sukabumi: Pilihan Tepat untuk Rumah Impian** - Mitra Sumber Material yang kami hormati, pernahkah Anda membayangkan rumah yang berdiri kokoh namun tetap menampilkan kesan modern dan minimalis? Salah satu elemen penting yang seringkali terlupakan adalah kusen. Kusen aluminium menjadi solusi cerdas untuk mewujudkan tampilan tersebut, terutama di daerah seperti Sukabumi yang memiliki iklim tropis.
+**Mengapa Kusen Aluminium Sukabumi Banyak Diminati** - Mitra Sumber Material yang kami hormati, pernahkah Anda membayangkan rumah yang berdiri kokoh namun tetap menampilkan kesan modern dan minimalis? Salah satu elemen penting yang seringkali terlupakan adalah kusen. Kusen aluminium menjadi solusi cerdas untuk mewujudkan tampilan tersebut, terutama di daerah seperti Sukabumi yang memiliki iklim tropis.
 
 {{< toc >}}
 
-![Kusen Aluminium Sukabumi: Pilihan Tepat untuk Rumah Impian](/images/blog/kusen-aluminium-karawang.jpg)
+![Mengapa Kusen Aluminium Sukabumi Banyak Diminati](/images/blog/kusen-aluminium-karawang.jpg)
 
 ## Mengapa Kusen Aluminium Menjadi Pilihan Populer di Sukabumi?
 

@@ -1,6 +1,7 @@
 ---
-title: "Harga Besi 1 Batang Berapa? Update Terkini di Jabodetabek"
+title: "Harga Besi 1 Batang Sebelum Memesan Perhatikan Faktor Ini"
 date: "2026-10-20"
+lastmod: "2026-10-30"
 categories:
  - "blog"
 type: "product"

@@ -1,6 +1,7 @@
 ---
-title: "Jasa Pengecoran Lantari: Hemat Biaya vs. Kualitas Terbaik – Mana Pilihan Tepat?"
+title: "Jasa Pengecoran Lantai Kualitas Terbaik"
 date: "2026-09-23"
+lastmod: "2026-10-30"
 categories:
  - "blog"
 type: "service"
@@ -13,7 +14,7 @@ toc: false
 draft: false
 ---
 
-**Jasa Pengecoran Lantari: Hemat Biaya vs. Kualitas Terbaik – Mana Pilihan Tepat?** - Mitra Sumber Material yang budiman, pernahkah Anda membayangkan betapa pentingnya fondasi lantai yang kuat untuk kenyamanan dan keamanan bangunan?
+**Jasa Pengecoran Lantai Kualitas Terbaik** - Mitra Sumber Material yang budiman, pernahkah Anda membayangkan betapa pentingnya fondasi lantai yang kuat untuk kenyamanan dan keamanan bangunan?
 
 {{< toc >}}
 

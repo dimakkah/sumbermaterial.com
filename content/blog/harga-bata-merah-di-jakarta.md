@@ -1,6 +1,7 @@
 ---
-title: "Harga Bata Merah di Jakarta: Update Terbaru & Tips Hemat"
+title: "Harga Bata Merah di Jakarta untuk Perencanaan Anggaran Bangunan"
 date: "2026-09-30"
+lastmod: "2026-10-30"
 categories:
  - "blog"
 type: "product"
@@ -13,7 +14,7 @@ toc: false
 draft: false
 ---
 
-**Harga Bata Merah di Jakarta: Update Terbaru & Tips Hemat** - Mitra, pernah merasa bingung saat menghitung kebutuhan bata merah untuk proyek bangunan Anda? Atau khawatir kenaikan harga material bikin anggaran jadi membengkak? Nah, Kami mengerti betul! Membangun rumah atau merenovasi memang butuh perencanaan matang, termasuk memperhitungkan biaya material secara akurat. Salah satu material penting yang wajib diperhatikan adalah bata merah.
+**Harga Bata Merah di Jakarta untuk Perencanaan Anggaran Bangunan** - Mitra, pernah merasa bingung saat menghitung kebutuhan bata merah untuk proyek bangunan Anda? Atau khawatir kenaikan harga material bikin anggaran jadi membengkak? Nah, Kami mengerti betul! Membangun rumah atau merenovasi memang butuh perencanaan matang, termasuk memperhitungkan biaya material secara akurat. Salah satu material penting yang wajib diperhatikan adalah bata merah.
 
 {{< toc >}}
 

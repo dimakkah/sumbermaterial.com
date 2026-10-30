@@ -1,7 +1,7 @@
 ---
-title: "Harga Brangkal Per Kubik: Jenis dan Kegunaannya untuk Urugan"
+title: "Harga brangkal per kubik jenis urugan"
 date: "2026-09-09"
-lastmod: "2026-09-17"
+lastmod: "2026-10-30"
 categories:
  - "blog"
 type: "product"
@@ -14,7 +14,7 @@ toc: false
 draft: false
 ---
 
-**Harga Brangkal Per Kubik: Jenis dan Kegunaannya untuk Urugan** - Mitra, pernahkah Anda bertanya-tanya berapa harga brangkal per kubik saat ini? Brangkal, atau yang sering disebut juga dengan sirtu, adalah material urugan yang sangat krusial untuk berbagai proyek konstruksi. Artikel ini akan membahas secara detail harga brangkal per kubik, jenis-jenisnya, faktor-faktor yang memengaruhi harga, serta estimasi biaya yang perlu Anda pertimbangkan.
+**Harga brangkal per kubik jenis urugan** - Mitra, pernahkah Anda bertanya-tanya berapa harga brangkal per kubik saat ini? Brangkal, atau yang sering disebut juga dengan sirtu, adalah material urugan yang sangat krusial untuk berbagai proyek konstruksi. Artikel ini akan membahas secara detail harga brangkal per kubik, jenis-jenisnya, faktor-faktor yang memengaruhi harga, serta estimasi biaya yang perlu Anda pertimbangkan.
 
 {{< toc >}}
 

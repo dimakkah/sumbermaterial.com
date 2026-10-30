@@ -1,6 +1,7 @@
 ---
-title: "Harga Batako di Medan: Update Terbaru & Tips Pintar"
+title: "Berapa harga batako di medan untuk bangunan Anda?"
 date: "2026-10-03"
+lastmod: "2026-10-30"
 categories:
  - "blog"
 type: "product"
@@ -13,7 +14,7 @@ toc: false
 draft: false
 ---
 
-**Harga Batako di Medan: Update Terbaru & Tips Pintar** - Mitra Sumber Material, siap membantu Anda mewujudkan konstruksi idaman dengan material berkualitas!
+**Berapa harga batako di medan untuk bangunan Anda?** - Mitra Sumber Material, siap membantu Anda mewujudkan konstruksi idaman dengan material berkualitas!
 
 {{< toc >}}
 

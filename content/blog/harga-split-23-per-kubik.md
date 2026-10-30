@@ -1,6 +1,7 @@
 ---
-title: "Harga Split 2/3 Per Kubik: Update Terbaru & Tips Cek Kualitas"
+title: "Berapa harga split 2/3 per kubik untuk proyek konstruksi?"
 date: "2026-10-07"
+lastmod: "2026-10-30"
 categories:
  - "blog"
 type: "product"

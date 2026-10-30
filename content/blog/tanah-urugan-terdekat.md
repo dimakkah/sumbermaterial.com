@@ -1,7 +1,7 @@
 ---
-title: "Tanah Urugan Terdekat di Jabodetabek: Jenis dan Harganya"
+title: "Butuh tanah urugan terdekat untuk proyek konstruksi Anda?"
 date: "2026-09-05"
-lastmod: "2026-09-10"
+lastmod: "2026-10-30"
 categories:
  - "blog"
 type: "product"
@@ -14,7 +14,7 @@ toc: false
 draft: false
 ---
 
-**Tanah Urugan Terdekat di Jabodetabek: Jenis dan Harganya** - Mitra, pernahkah Anda bertanya-tanya jenis tanah urugan apa yang paling tepat untuk proyek konstruksi Anda? Memilih material yang tepat itu krusial, lho. Apalagi kalau Anda sedang mencari yang terdekat, biar ongkos transportasi nggak membengkak.
+**Butuh tanah urugan terdekat untuk proyek konstruksi Anda?** - Mitra, pernahkah Anda bertanya-tanya jenis tanah urugan apa yang paling tepat untuk proyek konstruksi Anda? Memilih material yang tepat itu krusial, lho. Apalagi kalau Anda sedang mencari yang terdekat, biar ongkos transportasi nggak membengkak.
 
 {{< toc >}}
 

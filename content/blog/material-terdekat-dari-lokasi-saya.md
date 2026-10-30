@@ -1,6 +1,7 @@
 ---
-title: "Material Terdekat dari Lokasi Saya: Solusi Cepat di Jabodetabek"
+title: "Material Terdekat dari Lokasi Saya Cari yang Tepat?"
 date: "2026-09-26"
+lastmod: "2026-10-30"
 categories:
  - "blog"
 type: "product"

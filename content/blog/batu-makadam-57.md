@@ -1,6 +1,7 @@
 ---
-title: "Batu Makadam 57 Jabodetabek: Harga, Kegunaan, dan Estimasi Biaya"
+title: "Batu Makadam 57 untuk Konstruksi Jalan dan Fondasi"
 date: "2026-09-22"
+lastmod: "2026-10-30"
 categories:
  - "blog"
 type: "product"

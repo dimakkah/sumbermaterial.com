@@ -1,6 +1,7 @@
 ---
-title: "Jasa Bangun Rumah Kapuk Muara: Harga & Tips Hemat"
+title: "Jasa bangun rumah Kapuk Muara untuk mengatasi masalah perencanaan?"
 date: "2026-10-11"
+lastmod: "2026-10-30"
 categories:
  - "blog"
 type: "service"
@@ -17,7 +18,7 @@ draft: false
 
 {{< toc >}}
 
-![Jasa Bangun Rumah Kapuk Muara: Harga & Tips Hemat](/images/bangunan/jasa-bangun-rumah-minimalis-30.png)
+![Jasa bangun rumah Kapuk Muara untuk mengatasi masalah perencanaan?](/images/bangunan/jasa-bangun-rumah-minimalis-30.png)
 
 ## Memahami Tantangan Bangun Rumah di Kapuk Muara
 

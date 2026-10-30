@@ -1,6 +1,7 @@
 ---
-title: "Harga Cor K300 Per Kubik: Berapa Biaya Terbaru di Jabodetabek?"
+title: "Harga Cor K300 Per Kubik Mitra Konstruksi"
 date: "2026-10-16"
+lastmod: "2026-10-30"
 categories:
  - "blog"
 type: "service"

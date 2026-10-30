@@ -1,6 +1,7 @@
 ---
-title: "Harga Batu Split 1/2 Per M3: Update Terbaru & Tips Hemat Biaya"
+title: "Harga batu split 1/2 per m3 untuk efisiensi anggaran konstruksi"
 date: "2026-10-16"
+lastmod: "2026-10-30"
 categories:
  - "blog"
 type: "product"

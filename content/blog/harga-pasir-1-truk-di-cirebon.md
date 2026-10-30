@@ -1,6 +1,7 @@
 ---
-title: "Harga Pasir 1 Truk di Cirebon: Estimasi Biaya & Tips Praktis"
+title: "Cek harga pasir 1 truk di Cirebon untuk kebutuhan konstruksi Anda"
 date: "2026-09-19"
+lastmod: "2026-10-30"
 categories:
  - "blog"
 type: "product"
@@ -13,7 +14,7 @@ toc: false
 draft: false
 ---
 
-**Harga Pasir 1 Truk di Cirebon: Estimasi Biaya & Tips Praktis** - Mitra Sumber Material dimana saja berada, tahukah Anda bahwa biaya pasir seringkali menjadi komponen signifikan dalam anggaran proyek konstruksi? Artikel ini akan mengulas perkiraan harga pasir 1 truk di Cirebon, jenis-jenis pasir yang umum digunakan, serta tips untuk mendapatkan penawaran terbaik.
+**Cek harga pasir 1 truk di Cirebon untuk kebutuhan konstruksi Anda** - Mitra Sumber Material dimana saja berada, tahukah Anda bahwa biaya pasir seringkali menjadi komponen signifikan dalam anggaran proyek konstruksi? Artikel ini akan mengulas perkiraan harga pasir 1 truk di Cirebon, jenis-jenis pasir yang umum digunakan, serta tips untuk mendapatkan penawaran terbaik.
 
 {{< toc >}}
 

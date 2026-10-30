@@ -1,6 +1,7 @@
 ---
-title: "Harga Besi 4 mm Panjang 12 Meter: Update & Tips Beli"
+title: "Harga besi 4 mm panjang 12 meter untuk kebutuhan konstruksi"
 date: "2026-09-24"
+lastmod: "2026-10-30"
 categories:
  - "blog"
 type: "product"
@@ -13,7 +14,7 @@ toc: false
 draft: false
 ---
 
-**Harga Besi 4 mm Panjang 12 Meter: Update & Tips Beli** - Mitra, mencari besi 4 mm panjang 12 meter untuk proyek Anda? Kami punya informasinya!
+**Harga besi 4 mm panjang 12 meter untuk kebutuhan konstruksi** - Mitra, mencari besi 4 mm panjang 12 meter untuk proyek Anda? Kami punya informasinya!
 
 {{< toc >}}
 

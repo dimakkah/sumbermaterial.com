@@ -1,6 +1,7 @@
 ---
-title: "Harga K225 Per Kubik: Update & Tips Hitung Kebutuhan Proyek"
+title: "Harga k225 per kubik sebelum memesan beton untuk konstruksi"
 date: "2026-10-16"
+lastmod: "2026-10-30"
 categories:
  - "blog"
 type: "product"

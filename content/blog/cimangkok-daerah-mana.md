@@ -1,7 +1,7 @@
 ---
-title: "Pasir Cimangkok: Kenali Kualitas dan Asal Daerahnya"
+title: "Pasir cimangkok daerah mana yang paling cocok untuk konstruksi"
 date: "2026-09-07"
-lastmod: "2026-09-10"
+lastmod: "2026-10-30"
 categories:
  - "blog"
 type: "product"
@@ -14,11 +14,11 @@ toc: false
 draft: false
 ---
 
-**Pasir Cimangkok: Kenali Kualitas dan Asal Daerahnya** - Mitra Sumber Material yang berbahagia, memilih pasir cimangkok kadang bikin bingung karena variasinya cukup banyak — mulai dari sumber, warna, sampai kandungan lumpurnya berbeda-beda antar daerah asal. Nah, artikel ini merangkum perbedaan pasir cimangkok dari beberapa daerah, supaya Mitra bisa menentukan pilihan yang paling sesuai kebutuhan dan anggaran proyek.
+**Pasir cimangkok daerah mana yang paling cocok untuk konstruksi** - Mitra Sumber Material yang berbahagia, memilih pasir cimangkok kadang bikin bingung karena variasinya cukup banyak — mulai dari sumber, warna, sampai kandungan lumpurnya berbeda-beda antar daerah asal. Nah, artikel ini merangkum perbedaan pasir cimangkok dari beberapa daerah, supaya Mitra bisa menentukan pilihan yang paling sesuai kebutuhan dan anggaran proyek.
 
 {{< toc >}}
 
-![Pasir Cimangkok: Kenali Kualitas dan Asal Daerahnya](/images/blog/cimangkok-daerah-mana.jpg)
+![Pasir cimangkok daerah mana yang paling cocok untuk konstruksi](/images/blog/cimangkok-daerah-mana.jpg)
 
 ## Apa Itu Pasir Cimangkok dan Mengapa Penting?
 

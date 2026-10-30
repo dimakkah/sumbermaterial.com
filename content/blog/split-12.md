@@ -1,6 +1,7 @@
 ---
-title: "Split 1/2: Pilihan Tepat untuk Fondasi Kuat"
+title: "Split 1/2 Untuk Konstruksi Kokoh"
 date: "2026-10-01"
+lastmod: "2026-10-30"
 categories:
  - "blog"
 type: "product"
@@ -13,7 +14,7 @@ toc: false
 draft: false
 ---
 
-**Split 1/2: Pilihan Tepat untuk Fondasi Kuat** - Mitra Sumber Material dimana saja berada, mari kita bahas tuntas tentang split 1/2, material penting untuk memastikan bangunan Anda kokoh dan awet.
+**Split 1/2 Untuk Konstruksi Kokoh** - Mitra Sumber Material dimana saja berada, mari kita bahas tuntas tentang split 1/2, material penting untuk memastikan bangunan Anda kokoh dan awet.
 
 {{< toc >}}
 

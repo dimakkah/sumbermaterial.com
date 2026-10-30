@@ -1,6 +1,7 @@
 ---
-title: "Jual Pasir Terdekat: Untung Beli di Dekat Lokasi Proyek?"
+title: "Jual Pasir Terdekat untuk Renovasi Rumah dan Proyek Konstruksi"
 date: "2026-09-16"
+lastmod: "2026-10-30"
 categories:
  - "blog"
 type: "product"
