@@ -1,0 +1,85 @@
+name: Fix Blog Titles (manual, sekali pakai)
+
+# Dijalankan MANUAL dari tab Actions → "Fix Blog Titles (manual, sekali pakai)" → Run workflow.
+#   mode = dry-run : hanya daftar judul bermasalah (tanpa AI, tidak mengubah apa pun)
+#   mode = apply   : tulis ulang judul blog yang bermasalah (AI), commit, push, lalu deploy
+# Mode apply memakai secret Cloudflare (AI), hanya untuk judul yang bermasalah. Detailnya: tools/fix-blog-titles.js.
+# Setelah apply selesai, file ini dan tools/fix-blog-titles.js boleh dihapus
+# (tools/lib/title-style.js, prompts/title-styles.json, dan lib/cf-chat.js jangan dihapus bila masih dipakai script lain).
+on:
+  workflow_dispatch:
+    inputs:
+      mode:
+        description: 'dry-run = hanya pratinjau | apply = perbaiki + commit + deploy'
+        type: choice
+        options: [dry-run, apply]
+        default: dry-run
+
+# Satu grup dengan workflow lain yang menulis ke master (generate/revise/recycle/fix-orphans/dedupe)
+concurrency:
+  group: dataweb-repo-write
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+  actions: write   # untuk memicu deploy.yml (push dengan GITHUB_TOKEN tidak memicu workflow lain)
+
+jobs:
+  fix-blog-titles:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Tulis ulang judul (${{ github.event.inputs.mode }})
+        env:
+          CLOUDFLARE_ACCOUNT_ID: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+          CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+        run: |
+          if [ "${{ github.event.inputs.mode }}" = "apply" ]; then
+            node tools/fix-blog-titles.js --apply
+          else
+            node tools/fix-blog-titles.js
+          fi
+
+      - name: Commit and Push Fixes
+        id: commit_push
+        if: github.event.inputs.mode == 'apply'
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add content/
+          if git diff --staged --quiet; then
+            echo "ℹ️  Tidak ada judul yang berubah."
+            echo "published=false" >> "$GITHUB_OUTPUT"
+            exit 0
+          fi
+          git commit -m "Rewrite stiff/mismatched blog titles (keep slugs)"
+          for i in 1 2 3 4 5; do
+            if git push origin master; then
+              echo "✅ Push berhasil (percobaan $i)."
+              echo "published=true" >> "$GITHUB_OUTPUT"
+              exit 0
+            fi
+            if [ "$i" -eq 5 ]; then echo "❌ Push gagal 5x — cek manual." >&2; exit 1; fi
+            sleep $(( (RANDOM % 10) + 5 ))
+            git fetch origin master
+            git stash push -u -m "pre-rebase-autostash" || true
+            git rebase origin/master
+            git stash drop || true
+          done
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Trigger Deploy
+        if: steps.commit_push.outputs.published == 'true'
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: gh workflow run deploy.yml --ref master

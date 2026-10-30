@@ -1329,18 +1329,38 @@ async function generateArticleWithTitleGuard(keyword, relatedCandidates) {
   return completeToTarget(keyword, result);
 }
 
-async function generateArticleTitleChecked(keyword, relatedCandidates) {  // gaya judul dibuat ulang tiap percobaan (attempt)
-  const maxAttempts = IS_DRY_RUN ? 1 : 3;
-  let result;
-  for (let attempt = 1; attempt <= maxAttempts; attempt++) {
-    result = await generateArticle(keyword, relatedCandidates, attempt);
-    const titleLine = extractTitleLine(result.raw);
-    const issues = TitleStyle.titleIssues(titleLine, keyword);
-    if (!issues.length) return result;
-    console.log(`   ⚠️  Judul bermasalah (${issues.join('; ')}) — "${titleLine}" — generate ulang dengan gaya lain (percobaan ${attempt}/${maxAttempts})...`);
+async function generateArticleTitleChecked(keyword, relatedCandidates) {
+  const result = await generateArticle(keyword, relatedCandidates, 1);
+  if (IS_DRY_RUN) return result;
+  const titleLine = extractTitleLine(result.raw);
+  let issues = TitleStyle.titleIssues(titleLine, keyword);
+  if (!issues.length) return result;
+  // Judul bermasalah: JANGAN tulis ulang seluruh artikel — cukup minta judul baru (panggilan kecil), gaya berbeda tiap percobaan.
+  console.log(`   ⚠️  Judul bermasalah (${issues.join('; ')}) — "${titleLine}" — meminta judul baru saja...`);
+  const excerpt = (result.raw.split('ARTIKEL_MULAI')[1] || '').replace(/\*\*/g, '').trim().slice(0, 700);
+  for (let attempt = 2; attempt <= 4; attempt++) {
+    try {
+      const style = TitleStyle.pickTitleStyle(keyword, attempt);
+      const out = await callChat([
+        { role: 'system', content: 'Kamu editor judul untuk toko bahan bangunan. Keluarkan HANYA satu judul, tanpa tanda kutip, tanpa penjelasan.' },
+        { role: 'user', content: `${TitleStyle.buildTitleRules(keyword, style, new Date().getFullYear())}\n\nAwal artikel (sebagai konteks):\n${excerpt}\n\nTulis HANYA judulnya.` },
+      ], { temperature: 0.8, max_tokens: 80 });
+      const candidate = TitleStyle.fixTitle(out.split('\n').find(l => l.trim()) || '', keyword).title;
+      const left = TitleStyle.titleIssues(candidate, keyword);
+      if (!left.length) {
+        console.log(`   ✅ Judul baru (gaya ${style.name}): "${candidate}"`);
+        return { ...result, raw: result.raw.replace(/^JUDUL:.*$/mi, `JUDUL: ${candidate}`) };
+      }
+      console.log(`   ↻ Percobaan judul ${attempt - 1}/3 masih bermasalah (${left.join('; ')}): "${candidate}"`);
+    } catch (err) {
+      console.log(`   ⚠️  Permintaan judul gagal (${err.message})`);
+      break;
+    }
   }
-  console.log(`   ⚠️  Judul masih bermasalah setelah ${maxAttempts} percobaan — dilanjutkan apa adanya (keyword dijaga lewat fixTitle), periksa manual nanti.`);
-  return result;
+  // Tetap bermasalah: pakai keyword sebagai judul (selalu sesuai maksud pencarian) daripada judul yang melenceng.
+  const safe = TitleStyle.toTitleCase(keyword);
+  console.log(`   ⚠️  Judul AI tetap bermasalah — dipakai keyword sebagai judul: "${safe}"`);
+  return { ...result, raw: result.raw.replace(/^JUDUL:.*$/mi, `JUDUL: ${safe}`) };
 }
 // ─────────────────────────────────────────────────────────────────
 
@@ -1509,11 +1529,14 @@ function stripTrailingMarkers(text) {
 function ensureBrandOpening(body, title, greeting) {
   const trimmed = body.replace(/^\s+/, '');
 
-  if (/^\*\*[^*]+\*\*\s*[-–—]\s*Mitra\b/i.test(trimmed)) return body;
+  // Judul di kalimat pembuka dibuat script: SELALU sama dengan judul akhir (AI sering menulis versi lain di sini).
+  const lead = trimmed.match(/^\*\*[^*]+\*\*(\s*[-–—]\s*Mitra\b)/i);
+  if (lead) return trimmed.replace(/^\*\*[^*]+\*\*/, () => `**${title}**`);
 
   const boldStart = trimmed.match(/^\*\*[^*]+\*\*/);
   if (boldStart) {
-    const afterBold = trimmed.slice(boldStart[0].length).replace(/^\s+/, '');
+    boldStart[0] = `**${title}**`;
+    const afterBold = trimmed.slice(trimmed.match(/^\*\*[^*]+\*\*/)[0].length).replace(/^\s+/, '');
     const firstChar = afterBold.charAt(0);
     const rest = /[A-Z]/.test(firstChar) ? firstChar.toLowerCase() + afterBold.slice(1) : afterBold;
     return `${boldStart[0]} - ${greeting}, ${rest}`;
