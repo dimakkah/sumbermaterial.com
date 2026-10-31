@@ -1329,38 +1329,27 @@ async function generateArticleWithTitleGuard(keyword, relatedCandidates) {
   return completeToTarget(keyword, result);
 }
 
+// Pemakaian templat judul pada artikel blog yang sudah ada (dihitung ulang tiap artikel: murah, dan ikut artikel yang baru disimpan).
+function blogTemplateUsage() {
+  const titles = [];
+  try {
+    for (const f of fs.readdirSync(CONFIG.CONTENT_DIR)) {
+      if (!f.endsWith('.md') || f === '_index.md') continue;
+      const head = fs.readFileSync(path.join(CONFIG.CONTENT_DIR, f), 'utf8').slice(0, 600);
+      const m = head.match(/^title:\s*"?(.*?)"?\s*$/m);
+      if (m) titles.push(m[1]);
+    }
+  } catch { /* folder belum ada */ }
+  return TitleStyle.templateUsage(titles);
+}
+
 async function generateArticleTitleChecked(keyword, relatedCandidates) {
   const result = await generateArticle(keyword, relatedCandidates, 1);
-  if (IS_DRY_RUN) return result;
-  const titleLine = extractTitleLine(result.raw);
-  let issues = TitleStyle.titleIssues(titleLine, keyword);
-  if (!issues.length) return result;
-  // Judul bermasalah: JANGAN tulis ulang seluruh artikel — cukup minta judul baru (panggilan kecil), gaya berbeda tiap percobaan.
-  console.log(`   ⚠️  Judul bermasalah (${issues.join('; ')}) — "${titleLine}" — meminta judul baru saja...`);
-  const excerpt = (result.raw.split('ARTIKEL_MULAI')[1] || '').replace(/\*\*/g, '').trim().slice(0, 700);
-  for (let attempt = 2; attempt <= 4; attempt++) {
-    try {
-      const style = TitleStyle.pickTitleStyle(keyword, attempt);
-      const out = await callChat([
-        { role: 'system', content: 'Kamu editor judul untuk toko bahan bangunan. Keluarkan HANYA satu judul, tanpa tanda kutip, tanpa penjelasan.' },
-        { role: 'user', content: `${TitleStyle.buildTitleRules(keyword, style, new Date().getFullYear())}\n\nAwal artikel (sebagai konteks):\n${excerpt}\n\nTulis HANYA judulnya.` },
-      ], { temperature: 0.8, max_tokens: 80 });
-      const candidate = TitleStyle.fixTitle(out.split('\n').find(l => l.trim()) || '', keyword).title;
-      const left = TitleStyle.titleIssues(candidate, keyword);
-      if (!left.length) {
-        console.log(`   ✅ Judul baru (gaya ${style.name}): "${candidate}"`);
-        return { ...result, raw: result.raw.replace(/^JUDUL:.*$/mi, `JUDUL: ${candidate}`) };
-      }
-      console.log(`   ↻ Percobaan judul ${attempt - 1}/3 masih bermasalah (${left.join('; ')}): "${candidate}"`);
-    } catch (err) {
-      console.log(`   ⚠️  Permintaan judul gagal (${err.message})`);
-      break;
-    }
-  }
-  // Tetap bermasalah: pakai keyword sebagai judul (selalu sesuai maksud pencarian) daripada judul yang melenceng.
-  const safe = TitleStyle.toTitleCase(keyword);
-  console.log(`   ⚠️  Judul AI tetap bermasalah — dipakai keyword sebagai judul: "${safe}"`);
-  return { ...result, raw: result.raw.replace(/^JUDUL:.*$/mi, `JUDUL: ${safe}`) };
+  // Judul dibuat SCRIPT dari keyword (lib/title-style.js buildTitle): jelas, konsisten Title Case, tidak ambigu.
+  // Judul tulisan AI hanya sementara dan SELALU diganti (isi artikel & kalimat pembuka mengikuti judul final).
+  const title = TitleStyle.buildTitle(keyword, blogTemplateUsage());   // templat yang paling jarang dipakai di blog dipilih lebih dulu
+  console.log(`   📰 Judul oleh script: "${title}"`);
+  return { ...result, raw: result.raw.replace(/^JUDUL:.*$/mi, `JUDUL: ${title}`) };
 }
 // ─────────────────────────────────────────────────────────────────
 
