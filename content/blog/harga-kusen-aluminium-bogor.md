@@ -1,7 +1,7 @@
 ---
-title: "harga kusen aluminium bogor untuk tampilan modern minimalis"
+title: "Harga Kusen Aluminium Bogor dan Cara Menghitung Kebutuhan Material"
 date: "2026-09-28"
-lastmod: "2026-10-30"
+lastmod: "2026-10-31"
 categories:
  - "blog"
 type: "product"
@@ -14,7 +14,7 @@ toc: false
 draft: false
 ---
 
-**Harga Kusen Aluminium Bogor** - Mitra, pernahkah Anda membayangkan tampilan rumah yang modern dan elegan dengan sentuhan minimalis? Kusen aluminium bisa jadi jawabannya!
+**Harga Kusen Aluminium Bogor dan Cara Menghitung Kebutuhan Material** - Mitra, pernahkah Anda membayangkan tampilan rumah yang modern dan elegan dengan sentuhan minimalis? Kusen aluminium bisa jadi jawabannya!
 
 {{< toc >}}
 

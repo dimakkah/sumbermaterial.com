@@ -1,7 +1,7 @@
 ---
-title: "harga pasir pasang per m3 jakarta kini"
+title: "Harga Pasir Pasang per m3 Jakarta Berdasarkan Jenis dan Ukurannya"
 date: "2026-10-14"
-lastmod: "2026-10-30"
+lastmod: "2026-10-31"
 categories:
  - "blog"
 type: "service"
@@ -14,7 +14,7 @@ toc: false
 draft: false
 ---
 
-**Harga Pasir Pasang Per M3 Jakarta** - Mitra Sumber Material di mana pun berada, pernahkah Anda bertanya-tanya berapa biaya sebenarnya untuk mendapatkan pasir pasang berkualitas di Jakarta? Harga material konstruksi ini memang fluktuatif, namun memahami kisarannya sangat penting untuk perencanaan anggaran proyek Anda.
+**Harga Pasir Pasang per m3 Jakarta Berdasarkan Jenis dan Ukurannya** - Mitra Sumber Material di mana pun berada, pernahkah Anda bertanya-tanya berapa biaya sebenarnya untuk mendapatkan pasir pasang berkualitas di Jakarta? Harga material konstruksi ini memang fluktuatif, namun memahami kisarannya sangat penting untuk perencanaan anggaran proyek Anda.
 
 {{< toc >}}
 

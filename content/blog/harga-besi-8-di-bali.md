@@ -1,6 +1,7 @@
 ---
-title: "Harga Besi 8 di Bali untuk Konstruksi Berkualitas"
+title: "Cara Menyusun Anggaran dari Harga Besi 8 di Bali"
 date: "2026-10-21"
+lastmod: "2026-10-31"
 categories:
  - "blog"
 type: "product"
@@ -13,7 +14,7 @@ toc: false
 draft: false
 ---
 
-**Harga Besi 8 di Bali** - Mitra Sumber Material di mana pun berada, mari kita bahas seluk-beluk harga besi 8 di Bali, penting untuk proyek konstruksi Anda.
+**Cara Menyusun Anggaran dari Harga Besi 8 di Bali** - Mitra Sumber Material di mana pun berada, mari kita bahas seluk-beluk harga besi 8 di Bali, penting untuk proyek konstruksi Anda.
 
 {{< toc >}}
 

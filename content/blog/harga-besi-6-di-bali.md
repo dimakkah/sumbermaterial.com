@@ -1,6 +1,7 @@
 ---
-title: "Proyek Lancar, Cek Dulu Harga Besi 6 di Bali"
+title: "Harga Besi 6 di Bali untuk Rumah Tinggal dan Ruko"
 date: "2026-10-25"
+lastmod: "2026-10-31"
 categories:
  - "blog"
 type: "product"
@@ -13,7 +14,7 @@ toc: false
 draft: false
 ---
 
-**Harga Besi 6 di Bali** - Mitra, apakah Anda sedang mencari penawaran terbaik untuk besi 6 di Bali? Kami siap menyediakan material konstruksi berkualitas dengan pengiriman cepat ke lokasi proyek Anda.
+**Harga Besi 6 di Bali untuk Rumah Tinggal dan Ruko** - Mitra, apakah Anda sedang mencari penawaran terbaik untuk besi 6 di Bali? Kami siap menyediakan material konstruksi berkualitas dengan pengiriman cepat ke lokasi proyek Anda.
 
 {{< toc >}}
 

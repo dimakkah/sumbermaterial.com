@@ -1,6 +1,7 @@
 ---
-title: "Cari Harga Urugan Pasir Bawah Pondasi per m3? Kami Siap Bantu!"
+title: "Memahami Harga Urugan Pasir Bawah Pondasi per m3 sebelum Memesan"
 date: "2026-10-23"
+lastmod: "2026-10-31"
 categories:
  - "blog"
 type: "product"
@@ -13,7 +14,7 @@ toc: false
 draft: false
 ---
 
-**Harga Urugan Pasir Bawah Pondasi per m3** - Mitra, apakah Anda sedang merencanakan pembangunan atau renovasi dan membutuhkan urugan pasir untuk fondasi? Kami siap membantu Anda mendapatkan material berkualitas dengan harga terbaik dan pengiriman langsung ke lokasi proyek Anda di wilayah Jabodetabek dan sekitarnya.
+**Memahami Harga Urugan Pasir Bawah Pondasi per m3 sebelum Memesan** - Mitra, apakah Anda sedang merencanakan pembangunan atau renovasi dan membutuhkan urugan pasir untuk fondasi? Kami siap membantu Anda mendapatkan material berkualitas dengan harga terbaik dan pengiriman langsung ke lokasi proyek Anda di wilayah Jabodetabek dan sekitarnya.
 
 {{< toc >}}
 

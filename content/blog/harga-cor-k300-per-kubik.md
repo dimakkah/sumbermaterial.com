@@ -1,7 +1,7 @@
 ---
-title: "Harga Cor K300 Per Kubik Mitra Konstruksi"
+title: "Kenapa Harga Cor K300 per Kubik Bisa Berbeda di Tiap Penjual?"
 date: "2026-10-16"
-lastmod: "2026-10-30"
+lastmod: "2026-10-31"
 categories:
  - "blog"
 type: "service"
@@ -14,7 +14,7 @@ toc: false
 draft: false
 ---
 
-**Harga Cor K300 Per Kubik:** - Mitra, apakah Anda sedang merencanakan proyek konstruksi dan mencari informasi harga cor K300 per kubik? Kami akan membahas secara mendalam perkiraan biaya, faktor-faktor yang memengaruhi harga, serta tips memilih penyedia yang tepat di wilayah Jabodetabek dan sekitarnya.
+**Kenapa Harga Cor K300 per Kubik Bisa Berbeda di Tiap Penjual?** - Mitra, apakah Anda sedang merencanakan proyek konstruksi dan mencari informasi harga cor K300 per kubik? Kami akan membahas secara mendalam perkiraan biaya, faktor-faktor yang memengaruhi harga, serta tips memilih penyedia yang tepat di wilayah Jabodetabek dan sekitarnya.
 
 {{< toc >}}
 

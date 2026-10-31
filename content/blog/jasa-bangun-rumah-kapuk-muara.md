@@ -1,7 +1,7 @@
 ---
-title: "Jasa bangun rumah Kapuk Muara untuk mengatasi masalah perencanaan?"
+title: "Daftar Periksa sebelum Memakai Jasa Bangun Rumah Kapuk Muara"
 date: "2026-10-11"
-lastmod: "2026-10-30"
+lastmod: "2026-10-31"
 categories:
  - "blog"
 type: "service"
@@ -14,11 +14,11 @@ toc: false
 draft: false
 ---
 
-**Jasa Bangun Rumah Kapuk Muara:** - Mitra Sumber Material di mana pun berada, banyak pemilik rumah yang akhirnya kerepotan di tengah jalan karena perencanaan awal yang kurang matang. Seringkali, kesalahan muncul dari pemilihan material yang kurang tepat, perhitungan biaya yang meleset, atau bahkan salah memilih kontraktor. Padahal, membangun rumah adalah investasi besar yang butuh perencanaan detail.
+**Daftar Periksa sebelum Memakai Jasa Bangun Rumah Kapuk Muara** - Mitra Sumber Material di mana pun berada, banyak pemilik rumah yang akhirnya kerepotan di tengah jalan karena perencanaan awal yang kurang matang. Seringkali, kesalahan muncul dari pemilihan material yang kurang tepat, perhitungan biaya yang meleset, atau bahkan salah memilih kontraktor. Padahal, membangun rumah adalah investasi besar yang butuh perencanaan detail.
 
 {{< toc >}}
 
-![Jasa bangun rumah Kapuk Muara untuk mengatasi masalah perencanaan?](/images/bangunan/jasa-bangun-rumah-minimalis-30.png)
+![Daftar Periksa sebelum Memakai Jasa Bangun Rumah Kapuk Muara](/images/bangunan/jasa-bangun-rumah-minimalis-30.png)
 
 ## Memahami Tantangan Bangun Rumah di Kapuk Muara
 

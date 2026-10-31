@@ -1,6 +1,7 @@
 ---
-title: "Berapa Harga Batu Besar Per Kubik? Cek Estimasi & Pesan Mudah!"
+title: "Harga Batu Besar untuk Kebutuhan Rumah dan Proyek Kecil"
 date: "2026-10-22"
+lastmod: "2026-10-31"
 categories:
  - "blog"
 type: "product"
@@ -13,7 +14,7 @@ toc: false
 draft: false
 ---
 
-**Harga Batu Besar Per Kubik? Cek Estimasi & Pesan Mudah!** - Mitra Sumber Material, seringkali kita jumpai kesalahan dalam menghitung kebutuhan batu besar untuk pondasi atau pekerjaan lainnya, yang akhirnya berujung pada kelebihan atau kekurangan material. Nah, Kami di Sumber Material siap membantu Anda menghindari hal itu sebelum Anda memesan.
+**Harga Batu Besar untuk Kebutuhan Rumah dan Proyek Kecil** - Mitra Sumber Material, seringkali kita jumpai kesalahan dalam menghitung kebutuhan batu besar untuk pondasi atau pekerjaan lainnya, yang akhirnya berujung pada kelebihan atau kekurangan material. Nah, Kami di Sumber Material siap membantu Anda menghindari hal itu sebelum Anda memesan.
 
 {{< toc >}}
 

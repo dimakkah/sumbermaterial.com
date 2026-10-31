@@ -1,7 +1,7 @@
 ---
-title: "Harga batu split 1/2 per m3 untuk efisiensi anggaran konstruksi"
+title: "Harga Batu Split 1/2 per m3 dan Perhitungan Kebutuhan Proyek"
 date: "2026-10-16"
-lastmod: "2026-10-30"
+lastmod: "2026-10-31"
 categories:
  - "blog"
 type: "product"
@@ -14,7 +14,7 @@ toc: false
 draft: false
 ---
 
-**Harga Batu Split 1/2 Per M3** - Mitra Sumber Material di mana pun berada, pernahkah Anda bertanya-tanya kenapa harga batu split bisa bervariasi begitu jauh? Faktanya, lebih dari 70% biaya konstruksi berasal dari material, dan batu split merupakan salah satu komponen pentingnya. Memahami harga batu split 1/2 per m3 yang tepat, serta faktor-faktor yang mempengaruhinya, akan membantu Anda mengelola anggaran proyek dengan lebih efektif.
+**Harga Batu Split 1/2 per m3 dan Perhitungan Kebutuhan Proyek** - Mitra Sumber Material di mana pun berada, pernahkah Anda bertanya-tanya kenapa harga batu split bisa bervariasi begitu jauh? Faktanya, lebih dari 70% biaya konstruksi berasal dari material, dan batu split merupakan salah satu komponen pentingnya. Memahami harga batu split 1/2 per m3 yang tepat, serta faktor-faktor yang mempengaruhinya, akan membantu Anda mengelola anggaran proyek dengan lebih efektif.
 
 {{< toc >}}
 

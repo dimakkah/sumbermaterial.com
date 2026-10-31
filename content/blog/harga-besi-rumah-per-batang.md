@@ -1,6 +1,7 @@
 ---
-title: "Pilih Besi Rumah Sesuai Proyek harga besi rumah per batang"
+title: "Harga Besi Rumah per Batang untuk Kebutuhan Rumah dan Proyek Kecil"
 date: "2026-10-30"
+lastmod: "2026-10-31"
 categories:
  - "blog"
 type: "product"
@@ -13,7 +14,7 @@ toc: false
 draft: false
 ---
 
-**Pilih Besi Rumah Sesuai Proyek harga besi rumah per batang** - Mitra Sumber Material, siap membantu proyek Anda lancar dan hemat!
+**Harga Besi Rumah per Batang untuk Kebutuhan Rumah dan Proyek Kecil** - Mitra Sumber Material, siap membantu proyek Anda lancar dan hemat!
 
 {{< toc >}}
 

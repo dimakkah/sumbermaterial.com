@@ -1,6 +1,7 @@
 ---
-title: "Harga Batu Gunung Per Kubik: Update Terbaru & Tips Negosiasi"
+title: "Cek Harga Batu Gunung per Kubik sebelum Menyusun Anggaran"
 date: "2026-09-18"
+lastmod: "2026-10-31"
 categories:
  - "blog"
 type: "product"
@@ -13,11 +14,11 @@ toc: false
 draft: false
 ---
 
-**Harga Batu Gunung Per Kubik:** - Mitra Sumber Material, tahukah Anda bahwa kebutuhan akan batu gunung di Indonesia terus meningkat seiring dengan pertumbuhan sektor konstruksi? Pada tahun 2024, volume penggunaan batu gunung di Jabodetabek saja mencapai 15 juta meter kubik, dan angkanya diperkirakan terus bertambah. Ini menunjukkan betapa pentingnya memahami harga batu gunung per kubik untuk perencanaan anggaran proyek Anda.
+**Cek Harga Batu Gunung per Kubik sebelum Menyusun Anggaran** - Mitra Sumber Material, tahukah Anda bahwa kebutuhan akan batu gunung di Indonesia terus meningkat seiring dengan pertumbuhan sektor konstruksi? Pada tahun 2024, volume penggunaan batu gunung di Jabodetabek saja mencapai 15 juta meter kubik, dan angkanya diperkirakan terus bertambah. Ini menunjukkan betapa pentingnya memahami harga batu gunung per kubik untuk perencanaan anggaran proyek Anda.
 
 {{< toc >}}
 
-![Harga Batu Gunung Per Kubik: Update Terbaru & Tips Negosiasi](/images/blog/harga-batu-belah-per-kubik.jpg)
+![Cek Harga Batu Gunung per Kubik sebelum Menyusun Anggaran](/images/blog/harga-batu-belah-per-kubik.jpg)
 
 ## Memahami Rentang Harga Batu Gunung Per Kubik di Jabodetabek
 

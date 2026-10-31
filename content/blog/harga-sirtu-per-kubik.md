@@ -1,7 +1,7 @@
 ---
-title: "Harga Sirtu Per Kubik dan Tips Menghitung Kebutuhannya"
+title: "Harga Sirtu per Kubik, Cara Menghitung dan Memesannya"
 date: "2026-09-02"
-lastmod: "2026-09-10"
+lastmod: "2026-10-31"
 categories:
  - "blog"
 type: "product"
@@ -14,7 +14,7 @@ toc: false
 draft: false
 ---
 
-**Harga Sirtu Per Kubik dan Tips Menghitung Kebutuhannya** - Mitra Sumber Material dimana saja berada, mencari tahu harga sirtu per kubik yang akurat untuk proyek Anda? Sirtu, atau pasir urug, adalah material penting untuk menimbun lahan, membuat lantai kerja, atau bahkan fondasi bangunan. Artikel ini akan membahas harga sirtu per kubik, faktor-faktor yang memengaruhinya, dan tips untuk mengestimasi biaya yang dibutuhkan.
+**Harga Sirtu per Kubik, Cara Menghitung dan Memesannya** - Mitra Sumber Material dimana saja berada, mencari tahu harga sirtu per kubik yang akurat untuk proyek Anda? Sirtu, atau pasir urug, adalah material penting untuk menimbun lahan, membuat lantai kerja, atau bahkan fondasi bangunan. Artikel ini akan membahas harga sirtu per kubik, faktor-faktor yang memengaruhinya, dan tips untuk mengestimasi biaya yang dibutuhkan.
 
 {{< toc >}}
 

@@ -1,7 +1,7 @@
 ---
-title: "Urugan Sirtu Padat Fondasi Bangunan Kuat"
+title: "Kesalahan Umum saat Memakai Urugan Sirtu Padat"
 date: "2026-10-14"
-lastmod: "2026-10-30"
+lastmod: "2026-10-31"
 categories:
  - "blog"
 type: "product"
@@ -14,7 +14,7 @@ toc: false
 draft: false
 ---
 
-**Urugan Sirtu Padat Fondasi Bangunan Kuat** - Mitra Sumber Material di mana pun berada, tahukah Anda bahwa sekitar 60% kekuatan struktur bangunan berasal dari fondasi yang kokoh? Fondasi yang baik adalah kunci untuk menghindari masalah seperti retak, ambles, bahkan kegagalan struktur di kemudian hari. Nah, salah satu material urugan yang paling populer dan efektif untuk membangun fondasi yang kuat adalah sirtu padat. Artikel ini akan membahas tuntas semua yang perlu Anda ketahui tentang urugan sirtu padat, mulai dari manfaat, proses pemasangan, hingga perkiraan biayanya.
+**Kesalahan Umum saat Memakai Urugan Sirtu Padat** - Mitra Sumber Material di mana pun berada, tahukah Anda bahwa sekitar 60% kekuatan struktur bangunan berasal dari fondasi yang kokoh? Fondasi yang baik adalah kunci untuk menghindari masalah seperti retak, ambles, bahkan kegagalan struktur di kemudian hari. Nah, salah satu material urugan yang paling populer dan efektif untuk membangun fondasi yang kuat adalah sirtu padat. Artikel ini akan membahas tuntas semua yang perlu Anda ketahui tentang urugan sirtu padat, mulai dari manfaat, proses pemasangan, hingga perkiraan biayanya.
 
 {{< toc >}}
 

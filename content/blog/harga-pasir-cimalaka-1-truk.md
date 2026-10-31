@@ -1,6 +1,7 @@
 ---
-title: "Cari Harga Pasir Cimalaka 1 Truk? Kami Siap Bantu!"
+title: "Harga Pasir Cimalaka 1 Truk, Apa yang Sudah dan Belum Termasuk?"
 date: "2026-10-29"
+lastmod: "2026-10-31"
 categories:
  - "blog"
 type: "product"
@@ -13,7 +14,7 @@ toc: false
 draft: false
 ---
 
-**Harga Pasir Cimalaka 1 Truk** - Mitra, tahukah Anda bahwa pemilihan pasir yang tepat adalah kunci utama keberhasilan proyek konstruksi Anda? Kami di Sumber Material siap membantu Anda mendapatkan pasir cimalaka berkualitas dengan harga terjangkau.
+**Harga Pasir Cimalaka 1 Truk, Apa yang Sudah dan Belum Termasuk?** - Mitra, tahukah Anda bahwa pemilihan pasir yang tepat adalah kunci utama keberhasilan proyek konstruksi Anda? Kami di Sumber Material siap membantu Anda mendapatkan pasir cimalaka berkualitas dengan harga terjangkau.
 
 {{< toc >}}
 

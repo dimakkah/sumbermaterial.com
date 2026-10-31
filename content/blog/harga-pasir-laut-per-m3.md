@@ -1,7 +1,7 @@
 ---
-title: "Harga Pasir Laut Per M3 dan Cara Hitung Kebutuhannya"
+title: "Harga Pasir Laut per m3 dan Cara Menghitung Kebutuhan Material"
 date: "2026-09-12"
-lastmod: "2026-09-17"
+lastmod: "2026-10-31"
 categories:
  - "blog"
 type: "product"
@@ -14,7 +14,7 @@ toc: false
 draft: false
 ---
 
-**Harga Pasir Laut Per M3 dan Cara Hitung Kebutuhannya** - Mitra, mencari tahu harga pasir laut per m3 yang tepat untuk proyek Anda memang penting banget. Nah, di artikel ini, Kami akan kupas tuntas informasi harga terkini, faktor-faktor yang mempengaruhinya, serta cara menghitung kebutuhan material yang akurat supaya anggaran Anda tetap terkendali.
+**Harga Pasir Laut per m3 dan Cara Menghitung Kebutuhan Material** - Mitra, mencari tahu harga pasir laut per m3 yang tepat untuk proyek Anda memang penting banget. Nah, di artikel ini, Kami akan kupas tuntas informasi harga terkini, faktor-faktor yang mempengaruhinya, serta cara menghitung kebutuhan material yang akurat supaya anggaran Anda tetap terkendali.
 
 {{< toc >}}
 

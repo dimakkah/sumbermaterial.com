@@ -1,7 +1,7 @@
 ---
-title: "Split 1/2 Untuk Konstruksi Kokoh"
+title: "Cara Memilih Split 1/2 yang Sesuai Kebutuhan"
 date: "2026-10-01"
-lastmod: "2026-10-30"
+lastmod: "2026-10-31"
 categories:
  - "blog"
 type: "product"
@@ -14,7 +14,7 @@ toc: false
 draft: false
 ---
 
-**Split 1/2 Untuk Konstruksi Kokoh** - Mitra Sumber Material dimana saja berada, mari kita bahas tuntas tentang split 1/2, material penting untuk memastikan bangunan Anda kokoh dan awet.
+**Cara Memilih Split 1/2 yang Sesuai Kebutuhan** - Mitra Sumber Material dimana saja berada, mari kita bahas tuntas tentang split 1/2, material penting untuk memastikan bangunan Anda kokoh dan awet.
 
 {{< toc >}}
 

@@ -1,7 +1,7 @@
 ---
-title: "Pasir Jalupang Dari Mana? Kenali Sumber dan Jenisnya"
+title: "Pasir Jalupang dari Mana? Jawabannya dan Contoh Penerapannya"
 date: "2026-09-20"
-lastmod: "2026-10-30"
+lastmod: "2026-10-31"
 categories:
  - "blog"
 type: "product"
@@ -14,7 +14,7 @@ toc: false
 draft: false
 ---
 
-**Pasir Jalupang Dari Mana? Kenali Sumber dan Jenisnya** - Mitra Sumber Material yang kami hormati, pernahkah Anda bertanya-tanya pasir jalupang dari mana sih yang paling bagus untuk konstruksi?
+**Pasir Jalupang dari Mana? Jawabannya dan Contoh Penerapannya** - Mitra Sumber Material yang kami hormati, pernahkah Anda bertanya-tanya pasir jalupang dari mana sih yang paling bagus untuk konstruksi?
 
 {{< toc >}}
 

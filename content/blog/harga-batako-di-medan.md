@@ -1,7 +1,7 @@
 ---
-title: "Berapa harga batako di medan untuk bangunan Anda?"
+title: "Panduan Singkat Membaca Harga Batako di Medan"
 date: "2026-10-03"
-lastmod: "2026-10-30"
+lastmod: "2026-10-31"
 categories:
  - "blog"
 type: "product"
@@ -14,7 +14,7 @@ toc: false
 draft: false
 ---
 
-**Berapa harga batako di medan untuk bangunan Anda?** - Mitra Sumber Material, siap membantu Anda mewujudkan konstruksi idaman dengan material berkualitas!
+**Panduan Singkat Membaca Harga Batako di Medan** - Mitra Sumber Material, siap membantu Anda mewujudkan konstruksi idaman dengan material berkualitas!
 
 {{< toc >}}
 

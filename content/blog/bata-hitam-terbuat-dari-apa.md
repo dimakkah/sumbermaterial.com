@@ -1,6 +1,7 @@
 ---
-title: "Bata Hitam Terbuat dari Apa? Ketahui Bahan & Keunggulannya"
+title: "Bata Hitam Terbuat dari Apa? Pahami Dulu sebelum Memutuskan"
 date: "2026-09-20"
+lastmod: "2026-10-31"
 categories:
  - "blog"
 type: "product"
@@ -13,7 +14,7 @@ toc: false
 draft: false
 ---
 
-**Bata Hitam Terbuat dari Apa?** - Mitra Sumber Material dimana saja berada, seringkali kita melihat bangunan dengan tampilan unik dan elegan yang menggunakan bata hitam. Tapi, pernahkah Anda bertanya-tanya, sebenarnya bata hitam terbuat dari apa ya? Banyak yang mengira itu hanya bata merah yang dicat, padahal proses pembuatannya lebih kompleks dari itu.
+**Bata Hitam Terbuat dari Apa? Pahami Dulu sebelum Memutuskan** - Mitra Sumber Material dimana saja berada, seringkali kita melihat bangunan dengan tampilan unik dan elegan yang menggunakan bata hitam. Tapi, pernahkah Anda bertanya-tanya, sebenarnya bata hitam terbuat dari apa ya? Banyak yang mengira itu hanya bata merah yang dicat, padahal proses pembuatannya lebih kompleks dari itu.
 
 {{< toc >}}
 

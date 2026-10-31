@@ -1,7 +1,7 @@
 ---
-title: "harga batu split 1/2 colt untuk fondasi bangunan kuat"
+title: "Apa Saja yang Menentukan Harga Batu Split 1/2 Colt?"
 date: "2026-10-13"
-lastmod: "2026-10-30"
+lastmod: "2026-10-31"
 categories:
  - "blog"
 type: "product"
@@ -14,7 +14,7 @@ toc: false
 draft: false
 ---
 
-**Harga Batu Split 1/2 Colt** - Mitra Sumber Material di mana pun berada, apakah Anda sedang merencanakan pembangunan atau renovasi, mengetahui harga batu split 1/2 colt menjadi hal penting. Material ini adalah fondasi kuat untuk berbagai proyek konstruksi, mulai dari jalan, bangunan, hingga pondasi rumah.
+**Apa Saja yang Menentukan Harga Batu Split 1/2 Colt?** - Mitra Sumber Material di mana pun berada, apakah Anda sedang merencanakan pembangunan atau renovasi, mengetahui harga batu split 1/2 colt menjadi hal penting. Material ini adalah fondasi kuat untuk berbagai proyek konstruksi, mulai dari jalan, bangunan, hingga pondasi rumah.
 
 {{< toc >}}
 

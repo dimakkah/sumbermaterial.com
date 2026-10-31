@@ -1,7 +1,7 @@
 ---
-title: "Berapa harga bangunan per meter di Depok?"
+title: "Harga Bangunan per Meter di Depok Berdasarkan Jenis dan Ukurannya"
 date: "2026-09-14"
-lastmod: "2026-10-30"
+lastmod: "2026-10-31"
 categories:
  - "blog"
 type: "service"
@@ -14,7 +14,7 @@ toc: false
 draft: false
 ---
 
-**Berapa harga bangunan per meter di Depok?** - Mitra Sumber Material, tahukah Anda bahwa biaya pembangunan di wilayah Depok dan sekitarnya mengalami peningkatan sekitar 8-12% setiap tahunnya? Peningkatan ini disebabkan oleh kenaikan harga material bangunan, upah tukang, dan biaya transportasi. Nah, bagi Mitra yang berencana membangun rumah atau renovasi di Depok, memahami perkiraan biaya per meter persegi sangat penting untuk perencanaan anggaran yang tepat.
+**Harga Bangunan per Meter di Depok Berdasarkan Jenis dan Ukurannya** - Mitra Sumber Material, tahukah Anda bahwa biaya pembangunan di wilayah Depok dan sekitarnya mengalami peningkatan sekitar 8-12% setiap tahunnya? Peningkatan ini disebabkan oleh kenaikan harga material bangunan, upah tukang, dan biaya transportasi. Nah, bagi Mitra yang berencana membangun rumah atau renovasi di Depok, memahami perkiraan biaya per meter persegi sangat penting untuk perencanaan anggaran yang tepat.
 
 {{< toc >}}
 

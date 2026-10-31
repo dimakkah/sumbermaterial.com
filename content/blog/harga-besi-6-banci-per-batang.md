@@ -1,7 +1,7 @@
 ---
-title: "Harga besi 6 banci per batang untuk struktur beton kuat"
+title: "Panduan Singkat Membaca Harga Besi 6 Banci per Batang"
 date: "2026-10-07"
-lastmod: "2026-10-30"
+lastmod: "2026-10-31"
 categories:
  - "blog"
 type: "product"
@@ -14,7 +14,7 @@ toc: false
 draft: false
 ---
 
-**Harga Besi 6 Banci Per Batang** - Mitra Sumber Material yang kami hormati, membahas harga besi 6 banci per batang memang penting banget untuk perencanaan anggaran proyek konstruksi Anda. Harga besi ini bisa bervariasi tergantung banyak faktor, tapi Kami akan kupas tuntas informasinya di artikel ini.
+**Panduan Singkat Membaca Harga Besi 6 Banci per Batang** - Mitra Sumber Material yang kami hormati, membahas harga besi 6 banci per batang memang penting banget untuk perencanaan anggaran proyek konstruksi Anda. Harga besi ini bisa bervariasi tergantung banyak faktor, tapi Kami akan kupas tuntas informasinya di artikel ini.
 
 {{< toc >}}
 

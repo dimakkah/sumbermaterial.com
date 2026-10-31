@@ -1,6 +1,7 @@
 ---
-title: "Harga Batu Sungai Per Kubik Untuk Fondasi Kuat dan Tahan Lama"
+title: "Harga Batu Sungai per Kubik dan Cara Menghitung Kebutuhan Material"
 date: "2026-10-30"
+lastmod: "2026-10-31"
 categories:
  - "blog"
 type: "product"
@@ -13,7 +14,7 @@ toc: false
 draft: false
 ---
 
-**Harga Batu Sungai Per Kubik Untuk Fondasi Kuat dan Tahan Lama** - Mitra Sumber Material dimana saja berada, apakah Anda sedang merencanakan pembangunan rumah, renovasi, atau proyek infrastruktur lainnya?
+**Harga Batu Sungai per Kubik dan Cara Menghitung Kebutuhan Material** - Mitra Sumber Material dimana saja berada, apakah Anda sedang merencanakan pembangunan rumah, renovasi, atau proyek infrastruktur lainnya?
 
 {{< toc >}}
 

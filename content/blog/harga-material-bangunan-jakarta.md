@@ -1,7 +1,7 @@
 ---
-title: "Harga material bangunan jakarta untuk proyek hemat biaya"
+title: "Cara Menghindari Salah Hitung pada Harga Material Bangunan Jakarta"
 date: "2026-09-11"
-lastmod: "2026-10-30"
+lastmod: "2026-10-31"
 categories:
  - "blog"
 type: "service"
@@ -14,7 +14,7 @@ toc: false
 draft: false
 ---
 
-**Harga material bangunan jakarta untuk proyek hemat biaya** - Mitra, mengetahui perkiraan biaya material konstruksi adalah langkah awal yang krusial sebelum memulai proyek bangunan. Artikel ini akan membahas kisaran harga material bangunan saat ini di wilayah Jakarta dan sekitarnya, meliputi pasir, batu, semen, besi, hingga material pendukung lainnya.
+**Cara Menghindari Salah Hitung pada Harga Material Bangunan Jakarta** - Mitra, mengetahui perkiraan biaya material konstruksi adalah langkah awal yang krusial sebelum memulai proyek bangunan. Artikel ini akan membahas kisaran harga material bangunan saat ini di wilayah Jakarta dan sekitarnya, meliputi pasir, batu, semen, besi, hingga material pendukung lainnya.
 
 {{< toc >}}
 

@@ -1,7 +1,7 @@
 ---
-title: "Memilih Tanah Merah Bekasi Berkualitas untuk Urugan dan Fondasi"
+title: "Tanah Merah Bekasi, Kelebihan dan Kekurangannya"
 date: "2026-10-05"
-lastmod: "2026-10-30"
+lastmod: "2026-10-31"
 categories:
  - "blog"
 type: "product"
@@ -14,7 +14,7 @@ toc: false
 draft: false
 ---
 
-**Memilih Tanah Merah Bekasi Berkualitas untuk Urugan dan Fondasi** - Mitra Sumber Material di mana pun berada, seringkali kita jumpai kesalahan dalam memilih material urugan, terutama tanah merah. Banyak yang hanya fokus pada harga murah tanpa memperhatikan kualitas, padahal tanah merah yang buruk bisa berakibat fatal untuk kekuatan fondasi atau area urugan.
+**Tanah Merah Bekasi, Kelebihan dan Kekurangannya** - Mitra Sumber Material di mana pun berada, seringkali kita jumpai kesalahan dalam memilih material urugan, terutama tanah merah. Banyak yang hanya fokus pada harga murah tanpa memperhatikan kualitas, padahal tanah merah yang buruk bisa berakibat fatal untuk kekuatan fondasi atau area urugan.
 
 {{< toc >}}
 

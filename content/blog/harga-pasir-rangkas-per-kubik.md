@@ -1,7 +1,7 @@
 ---
-title: "Cek harga pasir rangkas per kubik untuk konstruksi Anda"
+title: "Harga Pasir Rangkas per Kubik dan Perhitungan Kebutuhan Proyek"
 date: "2026-09-22"
-lastmod: "2026-10-30"
+lastmod: "2026-10-31"
 categories:
  - "blog"
 type: "product"
@@ -14,7 +14,7 @@ toc: false
 draft: false
 ---
 
-**Harga Pasir Rangkas Per Kubik:** - Mitra Sumber Material, mitra Sumber Material, pernahkah Anda bertanya-tanya berapa biaya yang perlu dialokasikan untuk pasir rangkas dalam proyek konstruksi Anda? Memahami harga per kubik dan cara menghitung kebutuhan yang tepat adalah kunci efisiensi anggaran.
+**Harga Pasir Rangkas per Kubik dan Perhitungan Kebutuhan Proyek** - Mitra Sumber Material, mitra Sumber Material, pernahkah Anda bertanya-tanya berapa biaya yang perlu dialokasikan untuk pasir rangkas dalam proyek konstruksi Anda? Memahami harga per kubik dan cara menghitung kebutuhan yang tepat adalah kunci efisiensi anggaran.
 
 {{< toc >}}
 

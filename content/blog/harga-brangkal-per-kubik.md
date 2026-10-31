@@ -1,7 +1,7 @@
 ---
-title: "Harga brangkal per kubik jenis urugan"
+title: "Harga Brangkal per Kubik dan Faktor yang Memengaruhinya"
 date: "2026-09-09"
-lastmod: "2026-10-30"
+lastmod: "2026-10-31"
 categories:
  - "blog"
 type: "product"
@@ -14,7 +14,7 @@ toc: false
 draft: false
 ---
 
-**Harga brangkal per kubik jenis urugan** - Mitra, pernahkah Anda bertanya-tanya berapa harga brangkal per kubik saat ini? Brangkal, atau yang sering disebut juga dengan sirtu, adalah material urugan yang sangat krusial untuk berbagai proyek konstruksi. Artikel ini akan membahas secara detail harga brangkal per kubik, jenis-jenisnya, faktor-faktor yang memengaruhi harga, serta estimasi biaya yang perlu Anda pertimbangkan.
+**Harga Brangkal per Kubik dan Faktor yang Memengaruhinya** - Mitra, pernahkah Anda bertanya-tanya berapa harga brangkal per kubik saat ini? Brangkal, atau yang sering disebut juga dengan sirtu, adalah material urugan yang sangat krusial untuk berbagai proyek konstruksi. Artikel ini akan membahas secara detail harga brangkal per kubik, jenis-jenisnya, faktor-faktor yang memengaruhi harga, serta estimasi biaya yang perlu Anda pertimbangkan.
 
 {{< toc >}}
 

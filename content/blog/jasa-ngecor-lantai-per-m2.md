@@ -1,7 +1,7 @@
 ---
-title: "Sebelum Memakai Jasa Ngecor Lantai Per M2 Perhatikan Ini"
+title: "Panduan Memakai Jasa Ngecor Lantai per m2 Langkah demi Langkah"
 date: "2026-10-20"
-lastmod: "2026-10-30"
+lastmod: "2026-10-31"
 categories:
  - "blog"
 type: "service"
@@ -14,7 +14,7 @@ toc: false
 draft: false
 ---
 
-**Jasa Ngecor Lantai Per M2** - Mitra Sumber Material yang berbahagia, pernahkah Anda mengalami kesulitan memperkirakan biaya untuk proyek pengecoran lantai? Seringkali, kita hanya memiliki gambaran kasar dan khawatir anggaran membengkak di tengah jalan. Nah, artikel ini hadir untuk membantu Anda memahami secara detail tentang biaya jasa ngecor lantai per m2 di wilayah Jabodetabek, supaya perencanaan proyek Anda lebih matang dan terhindar dari kejutan tak terduga.
+**Panduan Memakai Jasa Ngecor Lantai per m2 Langkah demi Langkah** - Mitra Sumber Material yang berbahagia, pernahkah Anda mengalami kesulitan memperkirakan biaya untuk proyek pengecoran lantai? Seringkali, kita hanya memiliki gambaran kasar dan khawatir anggaran membengkak di tengah jalan. Nah, artikel ini hadir untuk membantu Anda memahami secara detail tentang biaya jasa ngecor lantai per m2 di wilayah Jabodetabek, supaya perencanaan proyek Anda lebih matang dan terhindar dari kejutan tak terduga.
 
 {{< toc >}}
 

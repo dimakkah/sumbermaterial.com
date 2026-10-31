@@ -1,7 +1,7 @@
 ---
-title: "Bengkel Las Terdekat untuk Fabrikasi dan Perbaikan Besi"
+title: "Bengkel Las Terdekat untuk Proyek Skala Kecil sampai Menengah"
 date: "2026-09-21"
-lastmod: "2026-10-30"
+lastmod: "2026-10-31"
 categories:
  - "blog"
 type: "product"
@@ -14,7 +14,7 @@ toc: false
 draft: false
 ---
 
-**Bengkel Las Terdekat untuk Fabrikasi dan Perbaikan Besi** - Mitra Sumber Material dimana saja berada, siap membantu kebutuhan pengelasan Anda di wilayah Jabodetabek dan sekitarnya!
+**Bengkel Las Terdekat untuk Proyek Skala Kecil sampai Menengah** - Mitra Sumber Material dimana saja berada, siap membantu kebutuhan pengelasan Anda di wilayah Jabodetabek dan sekitarnya!
 
 {{< toc >}}
 

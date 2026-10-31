@@ -1,6 +1,7 @@
 ---
-title: "Sebelum Pesan, Cek Dulu Harga Besi Pondasi Per Batang"
+title: "Harga Besi Pondasi per Batang, Cara Menghitung dan Memesannya"
 date: "2026-10-21"
+lastmod: "2026-10-31"
 categories:
  - "blog"
 type: "product"
@@ -13,7 +14,7 @@ toc: false
 draft: false
 ---
 
-**Harga Besi Pondasi Per Batang** - Mitra Sumber Material yang kami hormati, apakah Anda sedang merencanakan pembangunan atau renovasi? Pondasi yang kokoh adalah kunci utama kekuatan bangunan, dan besi pondasi memegang peranan krusial di dalamnya.
+**Harga Besi Pondasi per Batang, Cara Menghitung dan Memesannya** - Mitra Sumber Material yang kami hormati, apakah Anda sedang merencanakan pembangunan atau renovasi? Pondasi yang kokoh adalah kunci utama kekuatan bangunan, dan besi pondasi memegang peranan krusial di dalamnya.
 
 {{< toc >}}
 
