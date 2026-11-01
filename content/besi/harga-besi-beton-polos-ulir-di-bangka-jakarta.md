@@ -1,7 +1,7 @@
 ---
 title: "Harga Besi Beton Polos & Ulir Di Bangka Jakarta"
 date: "2024-04-05"
-lastmod: "2026-10-25"
+lastmod: "2026-11-01"
 categories: 
   - "besi"
 type: "product"

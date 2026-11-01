@@ -1,7 +1,7 @@
 ---
 title: "Jasa Las Pagar Dan Kanopi Di Karang Anyar Jakarta"
 date: "2024-05-11"
-lastmod: "2026-10-25"
+lastmod: "2026-11-01"
 categories: 
   - "bengkel"
 type: "service"

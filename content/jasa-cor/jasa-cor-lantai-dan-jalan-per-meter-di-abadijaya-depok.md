@@ -1,7 +1,7 @@
 ---
 title: "Jasa Cor Lantai dan Jalan Per Meter Di Abadijaya Depok"
 date: "2024-08-17"
-lastmod: "2026-10-25"
+lastmod: "2026-11-01"
 categories: 
   - "jasa-cor"
 type: "service"

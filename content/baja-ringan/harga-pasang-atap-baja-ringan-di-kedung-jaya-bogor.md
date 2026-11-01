@@ -1,7 +1,7 @@
 ---
 title: "Harga Pasang Atap Baja Ringan Di Kedung Jaya Bogor"
 date: "2022-12-13"
-lastmod: "2026-10-28"
+lastmod: "2026-11-01"
 categories: 
   - "baja-ringan"
 type: "service"

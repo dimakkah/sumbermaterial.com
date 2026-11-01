@@ -1,7 +1,7 @@
 ---
 title: "Jasa Pembuatan Pagar Rumah Di Tugu Depok"
 date: "2022-02-08"
-lastmod: "2026-10-25"
+lastmod: "2026-11-01"
 categories: 
   - "pagar"
 type: "service"

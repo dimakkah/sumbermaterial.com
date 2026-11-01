@@ -1,7 +1,7 @@
 ---
 title: "Harga Batako Hitam Press Gratis Ongkir Ke Pengasinan Depok"
 date: "2024-10-08"
-lastmod: "2026-10-25"
+lastmod: "2026-11-01"
 categories: 
   - "bata"
 type: "product"

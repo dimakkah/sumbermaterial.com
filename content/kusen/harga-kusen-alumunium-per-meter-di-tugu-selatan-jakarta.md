@@ -1,7 +1,7 @@
 ---
 title: "Harga Kusen Alumunium Per Meter Di Tugu Selatan Jakarta"
 date: "2024-04-10"
-lastmod: "2026-10-25"
+lastmod: "2026-11-01"
 categories: 
   - "kusen"
 type: "service"

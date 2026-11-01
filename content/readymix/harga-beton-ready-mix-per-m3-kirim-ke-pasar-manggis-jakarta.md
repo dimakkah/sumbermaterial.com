@@ -1,7 +1,7 @@
 ---
 title: "Harga Beton Ready Mix Per m3 Kirim Ke Pasar Manggis Jakarta"
 date: "2024-08-15"
-lastmod: "2026-10-25"
+lastmod: "2026-11-01"
 categories: 
   - "readymix"
 type: "product"

@@ -1,7 +1,7 @@
 ---
 title: "Harga Bondek Wiremesh Baja Ringan Kirim Ke Kukusan Depok"
 date: "2024-08-26"
-lastmod: "2026-10-25"
+lastmod: "2026-11-01"
 categories: 
   - "info-besi"
 type: "product"

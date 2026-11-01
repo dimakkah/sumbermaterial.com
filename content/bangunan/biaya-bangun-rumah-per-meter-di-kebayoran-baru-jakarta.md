@@ -1,7 +1,7 @@
 ---
 title: "Biaya Bangun Rumah Per Meter Di Kebayoran Baru Jakarta"
 date: "2024-05-16"
-lastmod: "2026-10-31"
+lastmod: "2026-11-01"
 categories: 
   - "bangunan"
 type: "service"

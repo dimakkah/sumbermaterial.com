@@ -1,7 +1,7 @@
 ---
 title: "Harga Besi H Beam Dan WF Kirim Ke Kosambi Tangerang"
 date: "2024-07-18"
-lastmod: "2026-10-25"
+lastmod: "2026-11-01"
 categories: 
   - "wf"
 type: "product"

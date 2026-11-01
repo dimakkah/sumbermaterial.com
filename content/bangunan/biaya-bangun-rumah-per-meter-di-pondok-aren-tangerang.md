@@ -1,7 +1,7 @@
 ---
 title: "Biaya Bangun Rumah Per Meter Di Pondok Aren Tangerang"
 date: "2024-04-12"
-lastmod: "2026-10-25"
+lastmod: "2026-11-01"
 categories: 
   - "bangunan"
 type: "service"

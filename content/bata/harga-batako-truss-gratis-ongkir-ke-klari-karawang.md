@@ -1,7 +1,7 @@
 ---
 title: "Harga Batako Truss Gratis Ongkir Ke Klari Karawang"
 date: "2024-07-24"
-lastmod: "2026-10-25"
+lastmod: "2026-11-01"
 categories: 
   - "bata"
 type: "product"

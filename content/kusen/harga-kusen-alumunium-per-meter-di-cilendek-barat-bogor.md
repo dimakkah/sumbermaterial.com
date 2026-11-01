@@ -1,7 +1,7 @@
 ---
 title: "Harga Kusen Alumunium Per Meter Di Cilendek Barat Bogor"
 date: "2024-07-09"
-lastmod: "2026-10-25"
+lastmod: "2026-11-01"
 categories: 
   - "kusen"
 type: "service"

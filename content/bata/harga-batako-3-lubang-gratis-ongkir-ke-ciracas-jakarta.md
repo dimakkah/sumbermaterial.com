@@ -1,7 +1,7 @@
 ---
 title: "Harga Batako 3 Lubang Gratis Ongkir Ke Ciracas Jakarta"
 date: "2024-08-14"
-lastmod: "2026-10-25"
+lastmod: "2026-11-01"
 categories: 
   - "bata"
 type: "product"

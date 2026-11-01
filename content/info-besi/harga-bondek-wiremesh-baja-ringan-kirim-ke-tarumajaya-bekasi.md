@@ -1,7 +1,7 @@
 ---
 title: "Harga Bondek Wiremesh Baja Ringan Kirim Ke Tarumajaya Bekasi"
 date: "2024-09-26"
-lastmod: "2026-10-25"
+lastmod: "2026-11-01"
 categories: 
   - "info-besi"
 type: "product"

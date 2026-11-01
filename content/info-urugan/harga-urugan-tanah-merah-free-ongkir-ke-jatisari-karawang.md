@@ -1,7 +1,7 @@
 ---
 title: "Harga Urugan Tanah Merah Free Ongkir Ke Jatisari Karawang"
 date: "2024-10-19"
-lastmod: "2026-10-25"
+lastmod: "2026-11-01"
 categories: 
   - "info-urugan"
 type: "product"

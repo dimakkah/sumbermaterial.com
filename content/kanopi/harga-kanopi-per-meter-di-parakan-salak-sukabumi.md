@@ -1,7 +1,7 @@
 ---
 title: "Harga Kanopi Per Meter Di Parakan Salak Sukabumi"
 date: "2022-01-24"
-lastmod: "2026-10-25"
+lastmod: "2026-11-01"
 categories: 
   - "kanopi"
 type: "service"

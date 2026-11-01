@@ -1,7 +1,7 @@
 ---
 title: "Jasa Las Pagar Dan Kanopi Di Lawang Gintung Bogor"
 date: "2022-12-25"
-lastmod: "2026-10-25"
+lastmod: "2026-11-01"
 categories: 
   - "bengkel"
 type: "service"

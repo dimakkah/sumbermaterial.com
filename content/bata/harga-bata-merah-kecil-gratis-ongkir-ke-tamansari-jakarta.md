@@ -1,7 +1,7 @@
 ---
 title: "Harga Bata Merah Kecil Gratis Ongkir Ke Tamansari Jakarta"
 date: "2024-08-11"
-lastmod: "2026-10-25"
+lastmod: "2026-11-01"
 categories: 
   - "bata"
 type: "product"

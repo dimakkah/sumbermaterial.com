@@ -1,7 +1,7 @@
 ---
 title: "Harga Bata Merah Kecil Gratis Ongkir Ke Sumur Batu Jakarta"
 date: "2024-06-27"
-lastmod: "2026-10-25"
+lastmod: "2026-11-01"
 categories: 
   - "bata"
 type: "product"

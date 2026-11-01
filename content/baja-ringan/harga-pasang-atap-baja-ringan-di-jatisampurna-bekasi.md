@@ -1,7 +1,7 @@
 ---
 title: "Harga Pasang Atap Baja Ringan Di Jatisampurna Bekasi"
 date: "2022-02-28"
-lastmod: "2026-10-25"
+lastmod: "2026-11-01"
 categories: 
   - "baja-ringan"
 type: "service"

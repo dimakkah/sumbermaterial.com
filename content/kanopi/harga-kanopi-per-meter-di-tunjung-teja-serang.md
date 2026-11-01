@@ -1,7 +1,7 @@
 ---
 title: "Harga Kanopi Per Meter Di Tunjung Teja Serang"
 date: "2022-02-27"
-lastmod: "2026-10-25"
+lastmod: "2026-11-01"
 categories: 
   - "kanopi"
 type: "service"

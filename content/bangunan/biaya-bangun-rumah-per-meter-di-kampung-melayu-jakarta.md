@@ -1,7 +1,7 @@
 ---
 title: "Biaya Bangun Rumah Per Meter Di Kampung Melayu Jakarta"
 date: "2022-11-25"
-lastmod: "2026-10-29"
+lastmod: "2026-11-01"
 categories: 
   - "bangunan"
 type: "service"

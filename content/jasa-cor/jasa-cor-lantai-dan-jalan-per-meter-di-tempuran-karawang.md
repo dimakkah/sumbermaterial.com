@@ -1,7 +1,7 @@
 ---
 title: "Jasa Cor Lantai dan Jalan Per Meter Di Tempuran Karawang"
 date: "2024-10-08"
-lastmod: "2026-10-25"
+lastmod: "2026-11-01"
 categories: 
   - "jasa-cor"
 type: "service"

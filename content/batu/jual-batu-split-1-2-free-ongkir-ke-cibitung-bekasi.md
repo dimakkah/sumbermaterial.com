@@ -1,7 +1,7 @@
 ---
 title: "Jual Batu Split 1/2 Free Ongkir Ke Cibitung Bekasi"
 date: "2024-08-17"
-lastmod: "2026-10-25"
+lastmod: "2026-11-01"
 categories: 
   - "batu"
 type: "product"

@@ -1,7 +1,7 @@
 ---
 title: "Jasa Pembuatan Pagar Rumah Di Tambun Selatan Bekasi"
 date: "2022-09-01"
-lastmod: "2026-10-25"
+lastmod: "2026-11-01"
 categories: 
   - "pagar"
 type: "service"

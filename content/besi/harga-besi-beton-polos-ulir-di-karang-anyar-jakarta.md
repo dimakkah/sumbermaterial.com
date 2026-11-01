@@ -1,7 +1,7 @@
 ---
 title: "Harga Besi Beton Polos & Ulir Di Karang Anyar Jakarta"
 date: "2024-06-04"
-lastmod: "2026-10-25"
+lastmod: "2026-11-01"
 categories: 
   - "besi"
 type: "product"

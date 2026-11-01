@@ -1,7 +1,7 @@
 ---
 title: "Harga Besi Beton Polos & Ulir Di Kebon Kosong Jakarta"
 date: "2024-07-30"
-lastmod: "2026-10-25"
+lastmod: "2026-11-01"
 categories: 
   - "besi"
 type: "product"

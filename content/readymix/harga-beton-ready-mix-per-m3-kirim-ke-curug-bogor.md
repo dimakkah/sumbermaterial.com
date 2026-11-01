@@ -1,7 +1,7 @@
 ---
 title: "Harga Beton Ready Mix Per m3 Kirim Ke Curug Bogor"
 date: "2024-08-19"
-lastmod: "2026-10-25"
+lastmod: "2026-11-01"
 categories: 
   - "readymix"
 type: "product"

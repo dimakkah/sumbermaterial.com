@@ -1,7 +1,7 @@
 ---
 title: "Jasa Las Pagar Dan Kanopi Di Cisalak Pasar Depok"
 date: "2024-08-26"
-lastmod: "2026-10-25"
+lastmod: "2026-11-01"
 categories: 
   - "bengkel"
 type: "service"

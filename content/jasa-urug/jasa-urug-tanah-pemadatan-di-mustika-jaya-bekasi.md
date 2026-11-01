@@ -1,7 +1,7 @@
 ---
 title: "Jasa Urug Tanah & Pemadatan Di Mustika Jaya Bekasi"
 date: "2024-08-07"
-lastmod: "2026-10-25"
+lastmod: "2026-11-01"
 categories: 
   - "jasa-urug"
 type: "service"

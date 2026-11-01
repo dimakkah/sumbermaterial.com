@@ -1,7 +1,7 @@
 ---
 title: "Jual Batu Split 3/5 Free Ongkir Ke Mustika Jaya Bekasi"
 date: "2022-12-13"
-lastmod: "2026-10-25"
+lastmod: "2026-11-01"
 categories: 
   - "batu"
 type: "product"

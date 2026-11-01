@@ -1,7 +1,7 @@
 ---
 title: "Harga Urugan Basecose Free Ongkir Ke Cipete Utara Jakarta"
 date: "2024-10-03"
-lastmod: "2026-10-25"
+lastmod: "2026-11-01"
 categories: 
   - "info-urugan"
 type: "product"

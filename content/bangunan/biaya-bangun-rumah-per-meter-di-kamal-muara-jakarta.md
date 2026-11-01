@@ -1,7 +1,7 @@
 ---
 title: "Biaya Bangun Rumah Per Meter Di Kamal Muara Jakarta"
 date: "2022-12-17"
-lastmod: "2026-10-29"
+lastmod: "2026-11-01"
 categories: 
   - "bangunan"
 type: "service"

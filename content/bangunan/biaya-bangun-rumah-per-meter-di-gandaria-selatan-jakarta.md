@@ -1,7 +1,7 @@
 ---
 title: "Biaya Bangun Rumah Per Meter Di Gandaria Selatan Jakarta"
 date: "2022-11-20"
-lastmod: "2026-10-25"
+lastmod: "2026-11-01"
 categories: 
   - "bangunan"
 type: "service"

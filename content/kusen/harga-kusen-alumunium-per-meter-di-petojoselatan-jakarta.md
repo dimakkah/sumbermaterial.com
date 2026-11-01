@@ -1,7 +1,7 @@
 ---
 title: "Harga Kusen Alumunium Per Meter Di PetojoSelatan Jakarta"
 date: "2024-10-11"
-lastmod: "2026-10-25"
+lastmod: "2026-11-01"
 categories: 
   - "kusen"
 type: "service"

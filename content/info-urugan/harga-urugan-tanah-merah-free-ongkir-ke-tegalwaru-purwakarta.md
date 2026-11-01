@@ -1,7 +1,7 @@
 ---
 title: "Harga Urugan Tanah Merah Free Ongkir Ke Tegalwaru Purwakarta"
 date: "2024-08-01"
-lastmod: "2026-10-25"
+lastmod: "2026-11-01"
 categories: 
   - "info-urugan"
 type: "product"

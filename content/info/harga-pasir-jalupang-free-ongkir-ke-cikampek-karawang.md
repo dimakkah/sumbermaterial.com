@@ -1,7 +1,7 @@
 ---
 title: "Harga Pasir Jalupang Free Ongkir Ke Cikampek Karawang"
 date: "2024-09-30"
-lastmod: "2026-10-25"
+lastmod: "2026-11-01"
 categories: 
   - "info"
 type: "product"

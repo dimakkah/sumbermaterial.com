@@ -1,7 +1,7 @@
 ---
 title: "Harga Bondek Wiremesh Baja Ringan Kirim Ke Cisalak Pasar Depok"
 date: "2024-08-23"
-lastmod: "2026-10-25"
+lastmod: "2026-11-01"
 categories: 
   - "info-besi"
 type: "product"

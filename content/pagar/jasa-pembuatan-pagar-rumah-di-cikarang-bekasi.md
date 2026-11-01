@@ -1,7 +1,7 @@
 ---
 title: "Jasa Pembuatan Pagar Rumah Di Cikarang Bekasi"
 date: "2024-03-02"
-lastmod: "2026-10-25"
+lastmod: "2026-11-01"
 categories: 
   - "pagar"
 type: "service"

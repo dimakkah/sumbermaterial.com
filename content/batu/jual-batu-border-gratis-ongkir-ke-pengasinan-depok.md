@@ -1,7 +1,7 @@
 ---
 title: "Jual Batu Border Gratis Ongkir Ke Pengasinan Depok"
 date: "2024-10-19"
-lastmod: "2026-10-25"
+lastmod: "2026-11-01"
 categories: 
   - "batu"
 type: "product"

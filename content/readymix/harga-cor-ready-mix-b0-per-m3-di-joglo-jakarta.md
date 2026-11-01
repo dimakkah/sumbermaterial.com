@@ -1,7 +1,7 @@
 ---
 title: "Harga Cor Ready Mix B0 Per m3 Di Joglo Jakarta"
 date: "2024-09-20"
-lastmod: "2026-10-25"
+lastmod: "2026-11-01"
 categories: 
   - "readymix"
 type: "product"

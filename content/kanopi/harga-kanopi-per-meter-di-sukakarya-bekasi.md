@@ -1,7 +1,7 @@
 ---
 title: "Harga Kanopi Per Meter Di Sukakarya Bekasi"
 date: "2022-02-25"
-lastmod: "2026-10-25"
+lastmod: "2026-11-01"
 categories: 
   - "kanopi"
 type: "service"

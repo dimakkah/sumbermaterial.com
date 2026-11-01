@@ -1,7 +1,7 @@
 ---
 title: "Harga Pasang Atap Baja Ringan Di Pangkalan Karawang"
 date: "2022-04-05"
-lastmod: "2026-10-25"
+lastmod: "2026-11-01"
 categories: 
   - "baja-ringan"
 type: "service"

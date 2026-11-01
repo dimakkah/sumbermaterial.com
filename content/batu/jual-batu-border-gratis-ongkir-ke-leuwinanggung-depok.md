@@ -1,7 +1,7 @@
 ---
 title: "Jual Batu Border Gratis Ongkir Ke Leuwinanggung Depok"
 date: "2024-04-23"
-lastmod: "2026-10-25"
+lastmod: "2026-11-01"
 categories: 
   - "batu"
 type: "product"

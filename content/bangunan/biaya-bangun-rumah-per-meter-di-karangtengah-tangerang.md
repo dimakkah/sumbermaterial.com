@@ -1,7 +1,7 @@
 ---
 title: "Biaya Bangun Rumah Per Meter Di Karangtengah Tangerang"
 date: "2024-09-07"
-lastmod: "2026-10-29"
+lastmod: "2026-11-01"
 categories: 
   - "bangunan"
 type: "service"

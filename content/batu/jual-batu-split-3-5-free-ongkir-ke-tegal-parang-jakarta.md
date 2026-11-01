@@ -1,7 +1,7 @@
 ---
 title: "Jual Batu Split 3/5 Free Ongkir Ke Tegal Parang Jakarta"
 date: "2024-03-19"
-lastmod: "2026-10-25"
+lastmod: "2026-11-01"
 categories: 
   - "batu"
 type: "product"

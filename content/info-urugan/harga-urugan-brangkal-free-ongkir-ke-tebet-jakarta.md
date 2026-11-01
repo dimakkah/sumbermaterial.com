@@ -1,7 +1,7 @@
 ---
 title: "Harga Urugan Brangkal Free Ongkir Ke Tebet Jakarta"
 date: "2024-08-02"
-lastmod: "2026-10-25"
+lastmod: "2026-11-01"
 categories: 
   - "info-urugan"
 type: "product"

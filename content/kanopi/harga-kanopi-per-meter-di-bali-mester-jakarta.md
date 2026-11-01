@@ -1,7 +1,7 @@
 ---
 title: "Harga Kanopi Per Meter Di Bali Mester Jakarta"
 date: "2022-06-24"
-lastmod: "2026-10-25"
+lastmod: "2026-11-01"
 categories: 
   - "kanopi"
 type: "service"

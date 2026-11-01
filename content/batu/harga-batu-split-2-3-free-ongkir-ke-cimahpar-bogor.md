@@ -1,7 +1,7 @@
 ---
 title: "Harga Batu Split 2/3 Free Ongkir Ke Cimahpar Bogor"
 date: "2022-12-18"
-lastmod: "2026-10-25"
+lastmod: "2026-11-01"
 categories: 
   - "batu"
 type: "product"

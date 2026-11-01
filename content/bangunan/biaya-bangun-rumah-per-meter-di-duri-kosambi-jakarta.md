@@ -1,7 +1,7 @@
 ---
 title: "Biaya Bangun Rumah Per Meter Di Duri Kosambi Jakarta"
 date: "2024-04-14"
-lastmod: "2026-10-25"
+lastmod: "2026-11-01"
 categories: 
   - "bangunan"
 type: "service"

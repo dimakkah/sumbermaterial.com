@@ -1,7 +1,7 @@
 ---
 title: "Harga Besi H Beam Dan WF Kirim Ke Ratu Jaya Depok"
 date: "2024-06-07"
-lastmod: "2026-10-25"
+lastmod: "2026-11-01"
 categories: 
   - "wf"
 type: "product"

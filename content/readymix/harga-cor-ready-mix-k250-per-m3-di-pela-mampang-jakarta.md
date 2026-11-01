@@ -1,7 +1,7 @@
 ---
 title: "Harga Cor Ready Mix K250 Per m3 Di Pela Mampang Jakarta"
 date: "2024-10-06"
-lastmod: "2026-10-25"
+lastmod: "2026-11-01"
 categories: 
   - "readymix"
 type: "product"

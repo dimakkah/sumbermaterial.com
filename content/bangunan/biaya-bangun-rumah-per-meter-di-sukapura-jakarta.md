@@ -1,7 +1,7 @@
 ---
 title: "Biaya Bangun Rumah Per Meter Di Sukapura Jakarta"
 date: "2022-12-28"
-lastmod: "2026-10-25"
+lastmod: "2026-11-01"
 categories: 
   - "bangunan"
 type: "service"

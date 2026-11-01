@@ -1,7 +1,7 @@
 ---
 title: "Harga Cor Ready Mix K350 Per m3 Di Ciampel Karawang"
 date: "2024-07-11"
-lastmod: "2026-10-25"
+lastmod: "2026-11-01"
 categories: 
   - "readymix"
 type: "product"

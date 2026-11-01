@@ -1,7 +1,7 @@
 ---
 title: "Jual Batu Pondasi Gratis Ongkir Ke Cikarang Selatan Bekasi"
 date: "2024-08-29"
-lastmod: "2026-10-25"
+lastmod: "2026-11-01"
 categories: 
   - "batu"
 type: "product"

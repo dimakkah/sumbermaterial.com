@@ -1,7 +1,7 @@
 ---
 title: "Harga Cor Ready Mix B0 Per m3 Di Gambir Jakarta"
 date: "2024-08-11"
-lastmod: "2026-10-25"
+lastmod: "2026-11-01"
 categories: 
   - "readymix"
 type: "product"

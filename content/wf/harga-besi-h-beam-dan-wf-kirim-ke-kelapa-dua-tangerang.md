@@ -1,7 +1,7 @@
 ---
 title: "Harga Besi H Beam Dan WF Kirim Ke Kelapa Dua Tangerang"
 date: "2024-08-24"
-lastmod: "2026-10-25"
+lastmod: "2026-11-01"
 categories: 
   - "wf"
 type: "product"

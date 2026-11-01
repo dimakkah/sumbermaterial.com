@@ -1,7 +1,7 @@
 ---
 title: "Biaya Bangun Rumah Per Meter Di Kebon Baru Jakarta"
 date: "2022-12-02"
-lastmod: "2026-10-31"
+lastmod: "2026-11-01"
 categories: 
   - "bangunan"
 type: "service"

@@ -1,7 +1,7 @@
 ---
 title: "Biaya Pengaspalan Jalan Per M Di Sukatani Depok"
 date: "2022-12-21"
-lastmod: "2026-10-25"
+lastmod: "2026-11-01"
 categories: 
   - "jasa"
 type: "service"

@@ -1,7 +1,7 @@
 ---
 title: "Harga Kanopi Per Meter Di Pondok Salam Purwakarta"
 date: "2022-05-18"
-lastmod: "2026-10-25"
+lastmod: "2026-11-01"
 categories: 
   - "kanopi"
 type: "service"

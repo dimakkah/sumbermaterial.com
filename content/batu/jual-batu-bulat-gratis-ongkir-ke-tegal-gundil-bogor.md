@@ -1,7 +1,7 @@
 ---
 title: "Jual Batu Bulat Gratis Ongkir Ke Tegal Gundil Bogor"
 date: "2022-12-20"
-lastmod: "2026-10-25"
+lastmod: "2026-11-01"
 categories: 
   - "batu"
 type: "product"

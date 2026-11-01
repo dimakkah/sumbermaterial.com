@@ -1,7 +1,7 @@
 ---
 title: "Harga Cor Ready Mix K225 Per m3 Di Kelapa Dua Tangerang"
 date: "2024-08-03"
-lastmod: "2026-10-25"
+lastmod: "2026-11-01"
 categories: 
   - "readymix"
 type: "product"

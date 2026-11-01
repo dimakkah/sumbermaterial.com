@@ -1,7 +1,7 @@
 ---
 title: "Jasa Pembuatan Pagar Rumah Di Lengkong Sukabumi"
 date: "2024-06-01"
-lastmod: "2026-10-25"
+lastmod: "2026-11-01"
 categories: 
   - "pagar"
 type: "service"

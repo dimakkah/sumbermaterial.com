@@ -1,7 +1,7 @@
 ---
 title: "Biaya Pengaspalan Jalan Per M Di Jatisampurna Bekasi"
 date: "2022-12-28"
-lastmod: "2026-10-25"
+lastmod: "2026-11-01"
 categories: 
   - "jasa"
 type: "service"

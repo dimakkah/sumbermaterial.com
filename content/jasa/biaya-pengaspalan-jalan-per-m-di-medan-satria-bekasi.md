@@ -1,7 +1,7 @@
 ---
 title: "Biaya Pengaspalan Jalan Per M Di Medan Satria Bekasi"
 date: "2024-08-12"
-lastmod: "2026-10-25"
+lastmod: "2026-11-01"
 categories: 
   - "jasa"
 type: "service"

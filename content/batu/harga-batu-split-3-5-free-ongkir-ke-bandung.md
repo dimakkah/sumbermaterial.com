@@ -1,7 +1,7 @@
 ---
 title: "Harga Batu Split 3/5 Free Ongkir Ke Bandung"
 date: "2024-04-24"
-lastmod: "2026-10-25"
+lastmod: "2026-11-01"
 categories: 
   - "batu"
 type: "product"

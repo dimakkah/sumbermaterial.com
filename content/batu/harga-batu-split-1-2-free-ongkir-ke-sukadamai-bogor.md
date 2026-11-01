@@ -1,7 +1,7 @@
 ---
 title: "Harga Batu Split 1/2 Free Ongkir Ke Sukadamai Bogor"
 date: "2022-12-13"
-lastmod: "2026-10-25"
+lastmod: "2026-11-01"
 categories: 
   - "batu"
 type: "product"

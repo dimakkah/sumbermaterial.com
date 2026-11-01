@@ -1,7 +1,7 @@
 ---
 title: "Harga Kanopi Per Meter Di Duren Tiga Jakarta"
 date: "2022-08-30"
-lastmod: "2026-10-25"
+lastmod: "2026-11-01"
 categories: 
   - "kanopi"
 type: "service"

@@ -1,7 +1,7 @@
 ---
 title: "Harga Kanopi Per Meter Di Karang Anyar Jakarta"
 date: "2024-04-03"
-lastmod: "2026-10-25"
+lastmod: "2026-11-01"
 categories: 
   - "kanopi"
 type: "service"

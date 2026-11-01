@@ -1,7 +1,7 @@
 ---
 title: "Harga Urugan Sirdam Free Ongkir Ke Garut"
 date: "2024-07-08"
-lastmod: "2026-10-25"
+lastmod: "2026-11-01"
 categories: 
   - "info-urugan"
 type: "product"

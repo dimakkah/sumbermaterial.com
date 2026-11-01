@@ -1,7 +1,7 @@
 ---
 title: "Harga Kanopi Per Meter Di Johar Baru Jakarta"
 date: "2024-02-20"
-lastmod: "2026-10-25"
+lastmod: "2026-11-01"
 categories: 
   - "kanopi"
 type: "service"
