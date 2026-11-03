@@ -453,7 +453,11 @@
     "/bangunan/biaya-bangun-rumah-per-meter-di-kecamatan-bogor-tengah/",
     "/bangunan/biaya-bangun-rumah-per-meter-di-kedung-waringin-bogor/",
     "/bangunan/biaya-bangun-rumah-per-meter-di-kemayoran-jakarta/",
-    "/bangunan/biaya-bangun-rumah-per-meter-di-kembangan-jakarta/"
+    "/bangunan/biaya-bangun-rumah-per-meter-di-kembangan-jakarta/",
+    "/bangunan/biaya-bangun-rumah-per-meter-di-kedungwaringin-bekasi/",
+    "/bangunan/biaya-bangun-rumah-per-meter-di-kembangan-barat-jakarta/",
+    "/bangunan/biaya-bangun-rumah-per-meter-di-klari-karawang/",
+    "/bangunan/biaya-bangun-rumah-per-meter-di-kota-bambu-jakarta/"
   ],
   "failed": {
     "/baja-ringan/harga-pasang-atap-baja-ringan-di-anyar-serang/": 2,
@@ -834,13 +838,22 @@
     "/bangunan/biaya-bangun-rumah-per-meter-di-kecamatan-bogor-timur/": 2,
     "/bangunan/biaya-bangun-rumah-per-meter-di-kecamatan-bogor-utara/": 2,
     "/bangunan/biaya-bangun-rumah-per-meter-di-kecamatan-tanah-sareal-bogor/": 2,
-    "/bangunan/biaya-bangun-rumah-per-meter-di-kedung-badak-bogor/": 1,
-    "/bangunan/biaya-bangun-rumah-per-meter-di-kedung-jaya-bogor/": 1,
+    "/bangunan/biaya-bangun-rumah-per-meter-di-kedung-badak-bogor/": 2,
+    "/bangunan/biaya-bangun-rumah-per-meter-di-kedung-jaya-bogor/": 2,
     "/bangunan/biaya-bangun-rumah-per-meter-di-kedungwaringin-bekasi/": 1,
-    "/bangunan/biaya-bangun-rumah-per-meter-di-kelapa-dua-jakarta/": 1,
-    "/bangunan/biaya-bangun-rumah-per-meter-di-kelapa-dua-wetan-jakarta/": 1,
-    "/bangunan/biaya-bangun-rumah-per-meter-di-kelapa-gading-jakarta/": 1,
-    "/bangunan/biaya-bangun-rumah-per-meter-di-kemanggisan-jakarta/": 1,
-    "/bangunan/biaya-bangun-rumah-per-meter-di-kembangan-barat-jakarta/": 1
+    "/bangunan/biaya-bangun-rumah-per-meter-di-kelapa-dua-jakarta/": 2,
+    "/bangunan/biaya-bangun-rumah-per-meter-di-kelapa-dua-wetan-jakarta/": 2,
+    "/bangunan/biaya-bangun-rumah-per-meter-di-kelapa-gading-jakarta/": 2,
+    "/bangunan/biaya-bangun-rumah-per-meter-di-kemanggisan-jakarta/": 2,
+    "/bangunan/biaya-bangun-rumah-per-meter-di-kembangan-barat-jakarta/": 1,
+    "/bangunan/biaya-bangun-rumah-per-meter-di-kembangan-timur-jakarta/": 1,
+    "/bangunan/biaya-bangun-rumah-per-meter-di-kemiri-tangerang/": 1,
+    "/bangunan/biaya-bangun-rumah-per-meter-di-kenari-jakarta/": 1,
+    "/bangunan/biaya-bangun-rumah-per-meter-di-kencana-bogor/": 1,
+    "/bangunan/biaya-bangun-rumah-per-meter-di-kertamaya-bogor/": 1,
+    "/bangunan/biaya-bangun-rumah-per-meter-di-kibin-serang/": 1,
+    "/bangunan/biaya-bangun-rumah-per-meter-di-klender-jakarta/": 1,
+    "/bangunan/biaya-bangun-rumah-per-meter-di-koja-jakarta/": 1,
+    "/bangunan/biaya-bangun-rumah-per-meter-di-kosambi-tangerang/": 1
   }
 }
