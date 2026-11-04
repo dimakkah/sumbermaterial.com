@@ -462,7 +462,9 @@
     "/bangunan/biaya-bangun-rumah-per-meter-di-kragilan-serang/",
     "/bangunan/biaya-bangun-rumah-per-meter-di-kramatpela-jakarta/",
     "/bangunan/biaya-bangun-rumah-per-meter-di-kresek-tangerang/",
-    "/bangunan/biaya-bangun-rumah-per-meter-di-krukut-depok/"
+    "/bangunan/biaya-bangun-rumah-per-meter-di-krukut-depok/",
+    "/bangunan/biaya-bangun-rumah-per-meter-di-krendang-jakarta/",
+    "/bangunan/biaya-bangun-rumah-per-meter-di-malingping-rangkasbitung/"
   ],
   "failed": {
     "/baja-ringan/harga-pasang-atap-baja-ringan-di-anyar-serang/": 2,
@@ -860,10 +862,23 @@
     "/bangunan/biaya-bangun-rumah-per-meter-di-klender-jakarta/": 2,
     "/bangunan/biaya-bangun-rumah-per-meter-di-koja-jakarta/": 2,
     "/bangunan/biaya-bangun-rumah-per-meter-di-kosambi-tangerang/": 2,
-    "/bangunan/biaya-bangun-rumah-per-meter-di-kotabaru-karawang/": 1,
-    "/bangunan/biaya-bangun-rumah-per-meter-di-kramat-jakarta/": 1,
-    "/bangunan/biaya-bangun-rumah-per-meter-di-kramat-jati-jakarta/": 1,
+    "/bangunan/biaya-bangun-rumah-per-meter-di-kotabaru-karawang/": 2,
+    "/bangunan/biaya-bangun-rumah-per-meter-di-kramat-jakarta/": 2,
+    "/bangunan/biaya-bangun-rumah-per-meter-di-kramat-jati-jakarta/": 2,
     "/bangunan/biaya-bangun-rumah-per-meter-di-krendang-jakarta/": 1,
-    "/bangunan/biaya-bangun-rumah-per-meter-di-kronjo-tangerang/": 1
+    "/bangunan/biaya-bangun-rumah-per-meter-di-kronjo-tangerang/": 2,
+    "/bangunan/biaya-bangun-rumah-per-meter-di-krukut-jakarta/": 1,
+    "/bangunan/biaya-bangun-rumah-per-meter-di-kukusan-depok/": 1,
+    "/bangunan/biaya-bangun-rumah-per-meter-di-kuningan-barat-jakarta/": 1,
+    "/bangunan/biaya-bangun-rumah-per-meter-di-kuningan-timur-jakarta/": 1,
+    "/bangunan/biaya-bangun-rumah-per-meter-di-kwitang-jakarta/": 1,
+    "/bangunan/biaya-bangun-rumah-per-meter-di-larangan-tangerang/": 1,
+    "/bangunan/biaya-bangun-rumah-per-meter-di-legok-tangerang/": 1,
+    "/bangunan/biaya-bangun-rumah-per-meter-di-lenteng-agung-jakarta/": 1,
+    "/bangunan/biaya-bangun-rumah-per-meter-di-lubang-buaya-jakarta/": 1,
+    "/bangunan/biaya-bangun-rumah-per-meter-di-maja-rangkasbitung/": 1,
+    "/bangunan/biaya-bangun-rumah-per-meter-di-majalaya-karawang/": 1,
+    "/bangunan/biaya-bangun-rumah-per-meter-di-malaka-jaya-jakarta/": 1,
+    "/bangunan/biaya-bangun-rumah-per-meter-di-malaka-sari-jakarta/": 1
   }
 }
