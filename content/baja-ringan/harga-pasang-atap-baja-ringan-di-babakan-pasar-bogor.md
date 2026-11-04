@@ -1,7 +1,7 @@
 ---
 title: "Harga Pasang Atap Baja Ringan Di Babakan Pasar Bogor"
 date: "2022-06-03"
-lastmod: "2026-11-01"
+lastmod: "2026-11-04"
 categories: 
   - "baja-ringan"
 type: "service"
@@ -66,7 +66,7 @@ Jika panjang rangka atap 15 meter dan lebar 10 meter, dengan *overstack* 0.60 me
 
 ### Menghitung Luas Datar
 
-Luas datar dihitung dengan rumus (overstack + panjang) x (lebar + overstack) = (15 + 0.6 + 0.6) x (10 + 0.6 + 0.6) = 16.2 x 11.2 = 181.44 meter persegi.
+Luas datar dihitung dengan rumus (overstack + panjang) x (lebar + overstack) = (15 + 0.6 + 0.6) x (10 + 0.6 + 0.6) = 16.2 x 11.2 = 181.44 meter persegi. Proyek Mitra ada di daerah lain? Kami juga melayani [atap baja ringan di Babakan](/baja-ringan/harga-pasang-atap-baja-ringan-di-babakan-bogor/).
 
 ### Menentukan Luas Miring
 
