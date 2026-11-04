@@ -2595,5 +2595,26 @@
     "matchedTitle": "Tanda Tanah Urug Terdekat yang Dapat Dipercaya",
     "taggedAt": "2026-11-03T13:21:03.004Z",
     "algoVersion": 2
+  },
+  "jual pasir urug terdekat": {
+    "reason": "similar to existing article",
+    "matchedFile": "harga-pasir-urug-per-m3.md",
+    "matchedTitle": "Cara Membaca Harga Pasir Urug per m3 agar Anggaran Tidak Meleset",
+    "taggedAt": "2026-11-04T13:32:45.152Z",
+    "algoVersion": 2
+  },
+  "pasir 1 engkel": {
+    "reason": "similar to existing article",
+    "matchedFile": "harga-pasir-1-engkel-di-bogor.md",
+    "matchedTitle": "Harga Pasir 1 Engkel di Bogor untuk Rumah Tinggal dan Ruko",
+    "taggedAt": "2026-11-04T13:32:45.157Z",
+    "algoVersion": 2
+  },
+  "ukuran batu 2/3": {
+    "reason": "similar to existing article",
+    "matchedFile": "ukuran-batu-split-2-3.md",
+    "matchedTitle": "Kenali Ciri Ukuran Batu Split 2/ 3 yang Baik",
+    "taggedAt": "2026-11-04T13:32:45.177Z",
+    "algoVersion": 2
   }
 }
