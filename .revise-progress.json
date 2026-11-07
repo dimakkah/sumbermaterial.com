@@ -469,7 +469,11 @@
     "/bangunan/biaya-bangun-rumah-per-meter-di-kukusan-depok/",
     "/bangunan/biaya-bangun-rumah-per-meter-di-maja-rangkasbitung/",
     "/bangunan/biaya-bangun-rumah-per-meter-di-mangga-besar-jakarta/",
-    "/bangunan/biaya-bangun-rumah-per-meter-di-mangga-dua-jakarta/"
+    "/bangunan/biaya-bangun-rumah-per-meter-di-mangga-dua-jakarta/",
+    "/bangunan/biaya-bangun-rumah-per-meter-di-manggarai-jakarta/",
+    "/bangunan/biaya-bangun-rumah-per-meter-di-margajaya-bogor/",
+    "/bangunan/biaya-bangun-rumah-per-meter-di-mekarsari-depok/",
+    "/bangunan/biaya-bangun-rumah-per-meter-di-meruya-utara-jakarta/"
   ],
   "failed": {
     "/baja-ringan/harga-pasang-atap-baja-ringan-di-anyar-serang/": 2,
@@ -885,6 +889,19 @@
     "/bangunan/biaya-bangun-rumah-per-meter-di-majalaya-karawang/": 2,
     "/bangunan/biaya-bangun-rumah-per-meter-di-malaka-jaya-jakarta/": 2,
     "/bangunan/biaya-bangun-rumah-per-meter-di-malaka-sari-jakarta/": 2,
-    "/bangunan/biaya-bangun-rumah-per-meter-di-mampang-prapatan-jakarta/": 1
+    "/bangunan/biaya-bangun-rumah-per-meter-di-mampang-prapatan-jakarta/": 2,
+    "/bangunan/biaya-bangun-rumah-per-meter-di-manggarai-selatan-jakarta/": 1,
+    "/bangunan/biaya-bangun-rumah-per-meter-di-maphar-jakarta/": 1,
+    "/bangunan/biaya-bangun-rumah-per-meter-di-marunda-jakarta/": 1,
+    "/bangunan/biaya-bangun-rumah-per-meter-di-matraman-jakarta/": 1,
+    "/bangunan/biaya-bangun-rumah-per-meter-di-mauk-tangerang/": 1,
+    "/bangunan/biaya-bangun-rumah-per-meter-di-mekarjaya-depok/": 1,
+    "/bangunan/biaya-bangun-rumah-per-meter-di-mekarwangi-bogor/": 1,
+    "/bangunan/biaya-bangun-rumah-per-meter-di-melawai-jakarta/": 1,
+    "/bangunan/biaya-bangun-rumah-per-meter-di-menteng-atas-jakarta/": 1,
+    "/bangunan/biaya-bangun-rumah-per-meter-di-menteng-bogor/": 1,
+    "/bangunan/biaya-bangun-rumah-per-meter-di-menteng-dalam-jakarta/": 1,
+    "/bangunan/biaya-bangun-rumah-per-meter-di-menteng-jakarta/": 1,
+    "/bangunan/biaya-bangun-rumah-per-meter-di-meruya-selatan-jakarta/": 1
   }
 }
