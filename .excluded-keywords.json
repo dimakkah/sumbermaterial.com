@@ -2637,5 +2637,33 @@
     "matchedTitle": "Las Karbit Terdekat dari Lokasi Saya? Cek Dulu Hal Ini",
     "taggedAt": "2026-11-06T13:30:49.813Z",
     "algoVersion": 2
+  },
+  "batu split 2 3": {
+    "reason": "similar to existing article",
+    "matchedFile": "batu-split-bandung.md",
+    "matchedTitle": "Apa yang Perlu Diketahui tentang Batu Split Bandung?",
+    "taggedAt": "2026-11-07T12:11:11.488Z",
+    "algoVersion": 2
+  },
+  "bengkel las aluminium terdekat": {
+    "reason": "similar to existing article",
+    "matchedFile": "bengkel-las-terdekat.md",
+    "matchedTitle": "Bengkel Las Terdekat untuk Proyek Skala Kecil sampai Menengah",
+    "taggedAt": "2026-11-07T12:11:11.489Z",
+    "algoVersion": 2
+  },
+  "pasir besi beli dimana": {
+    "reason": "similar to existing article",
+    "matchedFile": "beli-pasir-dimana.md",
+    "matchedTitle": "Cara Memastikan Stok dan Kualitas Beli Pasir Dimana",
+    "taggedAt": "2026-11-07T12:11:11.565Z",
+    "algoVersion": 2
+  },
+  "toko kusen terdekat": {
+    "reason": "similar to existing article",
+    "matchedFile": "toko-kusen-aluminium-terdekat.md",
+    "matchedTitle": "Mencari Toko Kusen Aluminium Terdekat? Ini Pertimbangannya",
+    "taggedAt": "2026-11-07T12:11:11.580Z",
+    "algoVersion": 2
   }
 }
