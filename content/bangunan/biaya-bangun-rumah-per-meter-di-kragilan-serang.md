@@ -1,7 +1,7 @@
 ---
 title: "Biaya Bangun Rumah Per Meter Di Kragilan Serang"
 date: "2024-02-16"
-lastmod: "2026-11-03"
+lastmod: "2026-11-08"
 categories: 
   - "bangunan"
 type: "service"

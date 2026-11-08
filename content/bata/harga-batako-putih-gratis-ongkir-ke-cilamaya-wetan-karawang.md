@@ -1,7 +1,7 @@
 ---
 title: "Harga Batako Putih Gratis Ongkir Ke Cilamaya Wetan Karawang"
 date: "2024-07-02"
-lastmod: "2026-11-01"
+lastmod: "2026-11-08"
 categories: 
   - "bata"
 type: "product"

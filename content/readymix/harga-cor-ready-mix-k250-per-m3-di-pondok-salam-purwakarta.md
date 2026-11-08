@@ -1,7 +1,7 @@
 ---
 title: "Harga Cor Ready Mix K250 Per m3 Di Pondok Salam Purwakarta"
 date: "2024-06-29"
-lastmod: "2026-11-01"
+lastmod: "2026-11-08"
 categories: 
   - "readymix"
 type: "product"

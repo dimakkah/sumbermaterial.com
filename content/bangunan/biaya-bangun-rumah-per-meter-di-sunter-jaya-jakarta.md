@@ -1,7 +1,7 @@
 ---
 title: "Biaya Bangun Rumah Per Meter Di Sunter Jaya Jakarta"
 date: "2024-05-17"
-lastmod: "2026-11-01"
+lastmod: "2026-11-08"
 categories: 
   - "bangunan"
 type: "service"

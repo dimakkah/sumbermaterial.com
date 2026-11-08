@@ -1,7 +1,7 @@
 ---
 title: "Harga Besi Beton Polos & Ulir Di KramatPela Jakarta"
 date: "2024-03-14"
-lastmod: "2026-11-01"
+lastmod: "2026-11-08"
 categories: 
   - "besi"
 type: "product"

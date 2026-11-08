@@ -1,7 +1,7 @@
 ---
 title: "Jasa Las Pagar Dan Kanopi Di Kecamatan Bogor Tengah"
 date: "2024-08-22"
-lastmod: "2026-11-01"
+lastmod: "2026-11-08"
 categories: 
   - "bengkel"
 type: "service"

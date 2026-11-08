@@ -1,7 +1,7 @@
 ---
 title: "Harga Besi Beton Polos & Ulir Di Binuang Serang"
 date: "2024-10-03"
-lastmod: "2026-11-01"
+lastmod: "2026-11-08"
 categories: 
   - "besi"
 type: "product"

@@ -1,7 +1,7 @@
 ---
 title: "Harga Bata Merah Oven Gratis Ongkir Ke Cibitung Bekasi"
 date: "2024-09-08"
-lastmod: "2026-11-01"
+lastmod: "2026-11-08"
 categories: 
   - "bata"
 type: "product"

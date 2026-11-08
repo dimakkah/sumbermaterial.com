@@ -1,7 +1,7 @@
 ---
 title: "Harga Beton Ready Mix Per m3 Kirim Ke Sindang Jaya Tangerang"
 date: "2024-09-29"
-lastmod: "2026-11-01"
+lastmod: "2026-11-08"
 categories: 
   - "readymix"
 type: "product"

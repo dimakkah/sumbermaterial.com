@@ -1,7 +1,7 @@
 ---
 title: "Harga Batako Putih Gratis Ongkir Ke Menteng Atas Jakarta"
 date: "2024-08-23"
-lastmod: "2026-11-01"
+lastmod: "2026-11-08"
 categories: 
   - "bata"
 type: "product"

@@ -1,7 +1,7 @@
 ---
 title: "Biaya Bangun Rumah Per Meter Di Banjarsari Rangkasbitung"
 date: "2024-04-28"
-lastmod: "2026-11-01"
+lastmod: "2026-11-08"
 categories: 
   - "bangunan"
 type: "service"

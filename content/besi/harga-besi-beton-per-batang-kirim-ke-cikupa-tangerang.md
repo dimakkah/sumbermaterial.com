@@ -1,7 +1,7 @@
 ---
 title: "Harga Besi Beton Per Batang Kirim Ke Cikupa Tangerang"
 date: "2024-02-06"
-lastmod: "2026-11-01"
+lastmod: "2026-11-08"
 categories: 
   - "besi"
 type: "product"

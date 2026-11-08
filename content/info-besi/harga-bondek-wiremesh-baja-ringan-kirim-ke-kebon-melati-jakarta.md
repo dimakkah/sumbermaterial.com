@@ -1,7 +1,7 @@
 ---
 title: "Harga Bondek Wiremesh Baja Ringan Kirim Ke Kebon Melati Jakarta"
 date: "2024-06-23"
-lastmod: "2026-11-01"
+lastmod: "2026-11-08"
 categories: 
   - "info-besi"
 type: "product"

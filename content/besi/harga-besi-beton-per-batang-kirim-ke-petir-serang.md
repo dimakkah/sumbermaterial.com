@@ -1,7 +1,7 @@
 ---
 title: "Harga Besi Beton Per Batang Kirim Ke Petir Serang"
 date: "2024-08-04"
-lastmod: "2026-11-01"
+lastmod: "2026-11-08"
 categories: 
   - "besi"
 type: "product"

@@ -1,7 +1,7 @@
 ---
 title: "Harga Batako 2 Lubang Gratis Ongkir Ke Wijaya Kusuma Jakarta"
 date: "2024-08-25"
-lastmod: "2026-11-01"
+lastmod: "2026-11-08"
 categories: 
   - "bata"
 type: "product"

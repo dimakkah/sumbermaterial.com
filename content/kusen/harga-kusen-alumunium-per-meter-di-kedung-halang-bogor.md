@@ -1,7 +1,7 @@
 ---
 title: "Harga Kusen Alumunium Per Meter Di Kedung Halang Bogor"
 date: "2022-12-20"
-lastmod: "2026-11-01"
+lastmod: "2026-11-08"
 categories: 
   - "kusen"
 type: "service"

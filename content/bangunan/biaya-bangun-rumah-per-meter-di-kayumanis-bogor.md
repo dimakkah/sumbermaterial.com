@@ -1,7 +1,7 @@
 ---
 title: "Biaya Bangun Rumah Per Meter Di Kayumanis Bogor"
 date: "2022-11-19"
-lastmod: "2026-11-01"
+lastmod: "2026-11-08"
 categories: 
   - "bangunan"
 type: "service"

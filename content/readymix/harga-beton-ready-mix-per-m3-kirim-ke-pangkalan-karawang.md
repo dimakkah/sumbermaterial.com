@@ -1,7 +1,7 @@
 ---
 title: "Harga Beton Ready Mix Per m3 Kirim Ke Pangkalan Karawang"
 date: "2024-08-22"
-lastmod: "2026-11-01"
+lastmod: "2026-11-08"
 categories: 
   - "readymix"
 type: "product"

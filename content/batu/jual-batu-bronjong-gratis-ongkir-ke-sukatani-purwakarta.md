@@ -1,7 +1,7 @@
 ---
 title: "Jual Batu Bronjong Gratis Ongkir Ke Sukatani Purwakarta"
 date: "2024-05-10"
-lastmod: "2026-11-01"
+lastmod: "2026-11-08"
 categories: 
   - "batu"
 type: "product"

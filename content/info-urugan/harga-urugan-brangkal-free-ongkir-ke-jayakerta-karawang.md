@@ -1,7 +1,7 @@
 ---
 title: "Harga Urugan Brangkal Free Ongkir Ke Jayakerta Karawang"
 date: "2024-08-01"
-lastmod: "2026-11-01"
+lastmod: "2026-11-08"
 categories: 
   - "info-urugan"
 type: "product"

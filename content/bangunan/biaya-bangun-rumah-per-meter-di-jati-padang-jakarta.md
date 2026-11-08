@@ -1,7 +1,7 @@
 ---
 title: "Biaya Bangun Rumah Per Meter Di Jati Padang Jakarta"
 date: "2022-11-21"
-lastmod: "2026-11-01"
+lastmod: "2026-11-08"
 categories: 
   - "bangunan"
 type: "service"

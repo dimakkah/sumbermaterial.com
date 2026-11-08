@@ -1,7 +1,7 @@
 ---
 title: "Harga Besi H Beam Dan WF Kirim Ke Kedaung Kaliangke Jakarta"
 date: "2024-09-05"
-lastmod: "2026-11-01"
+lastmod: "2026-11-08"
 categories: 
   - "wf"
 type: "product"

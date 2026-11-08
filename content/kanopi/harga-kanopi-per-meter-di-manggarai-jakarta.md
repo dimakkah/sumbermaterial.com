@@ -1,7 +1,7 @@
 ---
 title: "Harga Kanopi Per Meter Di Manggarai Jakarta"
 date: "2022-10-26"
-lastmod: "2026-11-01"
+lastmod: "2026-11-08"
 categories: 
   - "kanopi"
 type: "service"

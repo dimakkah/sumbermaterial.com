@@ -1,7 +1,7 @@
 ---
 title: "Harga Batu Split 1/2 Free Ongkir Ke Cibarusah Bekasi"
 date: "2024-09-07"
-lastmod: "2026-11-01"
+lastmod: "2026-11-08"
 categories: 
   - "batu"
 type: "product"

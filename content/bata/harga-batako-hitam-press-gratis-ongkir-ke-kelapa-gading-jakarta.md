@@ -1,7 +1,7 @@
 ---
 title: "Harga Batako Hitam Press Gratis Ongkir Ke Kelapa Gading Jakarta"
 date: "2024-09-08"
-lastmod: "2026-11-01"
+lastmod: "2026-11-08"
 categories: 
   - "bata"
 type: "product"

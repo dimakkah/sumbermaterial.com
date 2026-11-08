@@ -1,7 +1,7 @@
 ---
 title: "Harga Bata Merah Jumbo Gratis Ongkir Ke Jatiluhur Purwakarta"
 date: "2024-08-04"
-lastmod: "2026-11-01"
+lastmod: "2026-11-08"
 categories: 
   - "bata"
 type: "product"

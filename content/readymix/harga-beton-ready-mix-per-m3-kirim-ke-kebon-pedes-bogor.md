@@ -1,7 +1,7 @@
 ---
 title: "Harga Beton Ready Mix Per m3 Kirim Ke Kebon Pedes Bogor"
 date: "2024-09-10"
-lastmod: "2026-11-01"
+lastmod: "2026-11-08"
 categories: 
   - "readymix"
 type: "product"

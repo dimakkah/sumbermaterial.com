@@ -1,7 +1,7 @@
 ---
 title: "Jual Pasir Rangkas Gratis Ongkir Ke Jatisari Karawang"
 date: "2024-06-05"
-lastmod: "2026-11-01"
+lastmod: "2026-11-08"
 categories: 
   - "pasir"
 type: "product"

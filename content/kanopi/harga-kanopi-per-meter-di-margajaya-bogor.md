@@ -1,7 +1,7 @@
 ---
 title: "Harga Kanopi Per Meter Di Margajaya Bogor"
 date: "2024-02-05"
-lastmod: "2026-11-01"
+lastmod: "2026-11-08"
 categories: 
   - "kanopi"
 type: "service"

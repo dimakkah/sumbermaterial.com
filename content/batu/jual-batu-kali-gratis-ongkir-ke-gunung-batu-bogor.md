@@ -1,7 +1,7 @@
 ---
 title: "Jual Batu Kali Gratis Ongkir Ke Gunung Batu Bogor"
 date: "2024-03-24"
-lastmod: "2026-11-01"
+lastmod: "2026-11-08"
 categories: 
   - "batu"
 type: "product"

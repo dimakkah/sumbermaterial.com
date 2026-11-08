@@ -1,7 +1,7 @@
 ---
 title: "Jasa Las Pagar Dan Kanopi Di Menteng Jakarta"
 date: "2024-08-03"
-lastmod: "2026-11-01"
+lastmod: "2026-11-08"
 categories: 
   - "bengkel"
 type: "service"

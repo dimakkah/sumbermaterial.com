@@ -1,7 +1,7 @@
 ---
 title: "Harga Kanopi Per Meter Di Karangtengah Tangerang"
 date: "2022-04-17"
-lastmod: "2026-11-01"
+lastmod: "2026-11-08"
 categories: 
   - "kanopi"
 type: "service"

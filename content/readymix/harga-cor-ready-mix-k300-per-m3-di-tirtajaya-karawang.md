@@ -1,7 +1,7 @@
 ---
 title: "Harga Cor Ready Mix K300 Per m3 Di Tirtajaya Karawang"
 date: "2024-09-09"
-lastmod: "2026-11-01"
+lastmod: "2026-11-08"
 categories: 
   - "readymix"
 type: "product"

@@ -1,7 +1,7 @@
 ---
 title: "Harga Kusen Alumunium Per Meter Di Margajaya Bogor"
 date: "2024-06-02"
-lastmod: "2026-11-01"
+lastmod: "2026-11-08"
 categories: 
   - "kusen"
 type: "service"

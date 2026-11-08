@@ -1,7 +1,7 @@
 ---
 title: "Jual Batu Bronjong Gratis Ongkir Ke Krukut Depok"
 date: "2024-05-06"
-lastmod: "2026-11-01"
+lastmod: "2026-11-08"
 categories: 
   - "batu"
 type: "product"

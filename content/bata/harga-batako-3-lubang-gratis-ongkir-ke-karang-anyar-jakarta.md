@@ -1,7 +1,7 @@
 ---
 title: "Harga Batako 3 Lubang Gratis Ongkir Ke Karang Anyar Jakarta"
 date: "2024-08-10"
-lastmod: "2026-11-01"
+lastmod: "2026-11-08"
 categories: 
   - "bata"
 type: "product"

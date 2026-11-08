@@ -1,7 +1,7 @@
 ---
 title: "Harga Bata Merah Kecil Gratis Ongkir Ke Malaka Jaya Jakarta"
 date: "2024-06-06"
-lastmod: "2026-11-01"
+lastmod: "2026-11-08"
 categories: 
   - "bata"
 type: "product"

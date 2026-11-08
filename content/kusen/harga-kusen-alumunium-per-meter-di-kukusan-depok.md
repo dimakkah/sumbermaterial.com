@@ -1,7 +1,7 @@
 ---
 title: "Harga Kusen Alumunium Per Meter Di Kukusan Depok"
 date: "2024-02-13"
-lastmod: "2026-11-01"
+lastmod: "2026-11-08"
 categories: 
   - "kusen"
 type: "service"

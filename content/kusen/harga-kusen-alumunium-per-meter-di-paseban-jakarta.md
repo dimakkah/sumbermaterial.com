@@ -1,7 +1,7 @@
 ---
 title: "Harga Kusen Alumunium Per Meter Di Paseban Jakarta"
 date: "2022-12-29"
-lastmod: "2026-11-01"
+lastmod: "2026-11-08"
 categories: 
   - "kusen"
 type: "service"

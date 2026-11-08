@@ -1,7 +1,7 @@
 ---
 title: "Jual Batu Split 2/3 Free Ongkir Ke Curug Mekar Bogor"
 date: "2022-12-19"
-lastmod: "2026-11-01"
+lastmod: "2026-11-08"
 categories: 
   - "batu"
 type: "product"

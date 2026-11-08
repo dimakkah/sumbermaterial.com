@@ -1,7 +1,7 @@
 ---
 title: "Biaya Bangun Rumah Per Meter Di Kukusan Depok"
 date: "2024-04-25"
-lastmod: "2026-11-05"
+lastmod: "2026-11-08"
 categories: 
   - "bangunan"
 type: "service"

@@ -1,7 +1,7 @@
 ---
 title: "Biaya Pengaspalan Jalan Per M Di Babakan Cikao Purwakarta"
 date: "2024-07-01"
-lastmod: "2026-11-01"
+lastmod: "2026-11-08"
 categories: 
   - "jasa"
 type: "service"

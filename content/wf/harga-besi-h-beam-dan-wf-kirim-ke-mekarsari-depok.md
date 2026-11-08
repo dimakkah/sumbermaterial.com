@@ -1,7 +1,7 @@
 ---
 title: "Harga Besi H Beam Dan WF Kirim Ke Mekarsari Depok"
 date: "2024-06-23"
-lastmod: "2026-11-01"
+lastmod: "2026-11-08"
 categories: 
   - "wf"
 type: "product"

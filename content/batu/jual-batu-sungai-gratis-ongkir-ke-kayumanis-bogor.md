@@ -1,7 +1,7 @@
 ---
 title: "Jual Batu Sungai Gratis Ongkir Ke Kayumanis Bogor"
 date: "2024-04-28"
-lastmod: "2026-11-01"
+lastmod: "2026-11-08"
 categories: 
   - "batu"
 type: "product"

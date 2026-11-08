@@ -1,7 +1,7 @@
 ---
 title: "Harga Cor Ready Mix K500 Per m3 Di Cipayung Jakarta"
 date: "2024-08-04"
-lastmod: "2026-11-01"
+lastmod: "2026-11-08"
 categories: 
   - "readymix"
 type: "product"

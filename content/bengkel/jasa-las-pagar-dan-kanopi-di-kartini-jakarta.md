@@ -1,7 +1,7 @@
 ---
 title: "Jasa Las Pagar Dan Kanopi Di Kartini Jakarta"
 date: "2024-09-12"
-lastmod: "2026-11-01"
+lastmod: "2026-11-08"
 categories: 
   - "bengkel"
 type: "service"

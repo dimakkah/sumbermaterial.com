@@ -1,7 +1,7 @@
 ---
 title: "Harga Kanopi Per Meter Di Pancoran Mas Depok"
 date: "2022-03-23"
-lastmod: "2026-11-01"
+lastmod: "2026-11-08"
 categories: 
   - "kanopi"
 type: "service"

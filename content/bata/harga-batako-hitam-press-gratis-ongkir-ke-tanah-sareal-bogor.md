@@ -1,7 +1,7 @@
 ---
 title: "Harga Batako Hitam Press Gratis Ongkir Ke Tanah Sareal Bogor"
 date: "2024-08-29"
-lastmod: "2026-11-01"
+lastmod: "2026-11-08"
 categories: 
   - "bata"
 type: "product"

@@ -1,7 +1,7 @@
 ---
 title: "Harga Batako Beton Gratis Ongkir Ke Cilangkap Jakarta"
 date: "2024-07-05"
-lastmod: "2026-11-01"
+lastmod: "2026-11-08"
 categories: 
   - "bata"
 type: "product"

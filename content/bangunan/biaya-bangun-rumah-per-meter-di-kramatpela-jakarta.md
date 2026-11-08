@@ -1,7 +1,7 @@
 ---
 title: "Biaya Bangun Rumah Per Meter Di KramatPela Jakarta"
 date: "2024-03-21"
-lastmod: "2026-11-03"
+lastmod: "2026-11-08"
 categories: 
   - "bangunan"
 type: "service"

@@ -1,7 +1,7 @@
 ---
 title: "Harga Urugan Basecose Free Ongkir Ke Cikarang Timur Bekasi"
 date: "2024-08-30"
-lastmod: "2026-11-01"
+lastmod: "2026-11-08"
 categories: 
   - "info-urugan"
 type: "product"

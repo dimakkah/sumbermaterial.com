@@ -1,7 +1,7 @@
 ---
 title: "Jasa Pembuatan Pagar Rumah Di Klari Karawang"
 date: "2024-04-22"
-lastmod: "2026-11-01"
+lastmod: "2026-11-08"
 categories: 
   - "pagar"
 type: "service"

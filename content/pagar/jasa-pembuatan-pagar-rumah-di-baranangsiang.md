@@ -1,7 +1,7 @@
 ---
 title: "Jasa Pembuatan Pagar Rumah Di Baranangsiang"
 date: "2022-10-23"
-lastmod: "2026-11-01"
+lastmod: "2026-11-08"
 categories: 
   - "pagar"
 type: "service"

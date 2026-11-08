@@ -1,7 +1,7 @@
 ---
 title: "Harga Batako Hitam Press Gratis Ongkir Ke Balumbang Jaya Bogor"
 date: "2024-07-06"
-lastmod: "2026-11-01"
+lastmod: "2026-11-08"
 categories: 
   - "bata"
 type: "product"

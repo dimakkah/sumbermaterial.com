@@ -1,7 +1,7 @@
 ---
 title: "Harga Cor Ready Mix K500 Per m3 Di Sukatani Purwakarta"
 date: "2024-07-19"
-lastmod: "2026-11-01"
+lastmod: "2026-11-08"
 categories: 
   - "readymix"
 type: "product"

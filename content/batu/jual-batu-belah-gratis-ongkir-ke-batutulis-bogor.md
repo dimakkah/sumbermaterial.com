@@ -1,7 +1,7 @@
 ---
 title: "Jual Batu Belah Gratis Ongkir Ke Batutulis Bogor"
 date: "2024-06-19"
-lastmod: "2026-11-01"
+lastmod: "2026-11-08"
 categories: 
   - "batu"
 type: "product"

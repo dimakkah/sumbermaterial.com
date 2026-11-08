@@ -1,7 +1,7 @@
 ---
 title: "Biaya Bangun Rumah Per Meter Di Mangga Besar Jakarta"
 date: "2022-12-10"
-lastmod: "2026-11-06"
+lastmod: "2026-11-08"
 categories: 
   - "bangunan"
 type: "service"

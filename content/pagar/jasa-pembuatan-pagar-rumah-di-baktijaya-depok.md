@@ -1,7 +1,7 @@
 ---
 title: "Jasa Pembuatan Pagar Rumah Di Baktijaya Depok"
 date: "2022-04-20"
-lastmod: "2026-11-01"
+lastmod: "2026-11-08"
 categories: 
   - "pagar"
 type: "service"

@@ -1,7 +1,7 @@
 ---
 title: "Harga Pasang Atap Baja Ringan Di Tambelang Bekasi"
 date: "2022-11-07"
-lastmod: "2026-11-01"
+lastmod: "2026-11-08"
 categories: 
   - "baja-ringan"
 type: "service"

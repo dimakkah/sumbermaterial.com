@@ -1,7 +1,7 @@
 ---
 title: "Harga Urugan Sirdam Free Ongkir Ke Tegalwaru Karawang"
 date: "2024-09-21"
-lastmod: "2026-11-01"
+lastmod: "2026-11-08"
 categories: 
   - "info-urugan"
 type: "product"

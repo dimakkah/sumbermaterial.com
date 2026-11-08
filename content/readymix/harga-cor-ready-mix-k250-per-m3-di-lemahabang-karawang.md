@@ -1,7 +1,7 @@
 ---
 title: "Harga Cor Ready Mix K250 Per m3 Di Lemahabang Karawang"
 date: "2024-09-28"
-lastmod: "2026-11-01"
+lastmod: "2026-11-08"
 categories: 
   - "readymix"
 type: "product"

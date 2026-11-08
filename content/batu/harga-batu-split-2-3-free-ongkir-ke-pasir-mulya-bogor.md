@@ -1,7 +1,7 @@
 ---
 title: "Harga Batu Split 2/3 Free Ongkir Ke Pasir Mulya Bogor"
 date: "2024-02-26"
-lastmod: "2026-11-01"
+lastmod: "2026-11-08"
 categories: 
   - "batu"
 type: "product"

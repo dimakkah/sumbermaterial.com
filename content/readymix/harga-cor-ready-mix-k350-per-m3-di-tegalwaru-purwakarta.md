@@ -1,7 +1,7 @@
 ---
 title: "Harga Cor Ready Mix K350 Per m3 Di Tegalwaru Purwakarta"
 date: "2024-09-15"
-lastmod: "2026-11-01"
+lastmod: "2026-11-08"
 categories: 
   - "readymix"
 type: "product"

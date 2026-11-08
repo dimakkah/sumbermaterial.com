@@ -1,7 +1,7 @@
 ---
 title: "Jual Batu Split 1/2 Free Ongkir Ke Krukut Depok"
 date: "2024-07-07"
-lastmod: "2026-11-01"
+lastmod: "2026-11-08"
 categories: 
   - "batu"
 type: "product"

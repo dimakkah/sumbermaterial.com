@@ -1,7 +1,7 @@
 ---
 title: "Harga Bata Merah Kecil Gratis Ongkir Ke Rangkapan Jaya Depok"
 date: "2024-10-07"
-lastmod: "2026-11-01"
+lastmod: "2026-11-08"
 categories: 
   - "bata"
 type: "product"

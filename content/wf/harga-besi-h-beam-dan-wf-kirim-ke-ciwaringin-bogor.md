@@ -1,7 +1,7 @@
 ---
 title: "Harga Besi H Beam Dan WF Kirim Ke Ciwaringin Bogor"
 date: "2024-07-28"
-lastmod: "2026-11-01"
+lastmod: "2026-11-08"
 categories: 
   - "wf"
 type: "product"

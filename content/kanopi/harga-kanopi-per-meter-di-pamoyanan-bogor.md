@@ -1,7 +1,7 @@
 ---
 title: "Harga Kanopi Per Meter Di Pamoyanan Bogor"
 date: "2022-07-08"
-lastmod: "2026-11-01"
+lastmod: "2026-11-08"
 categories: 
   - "kanopi"
 type: "service"

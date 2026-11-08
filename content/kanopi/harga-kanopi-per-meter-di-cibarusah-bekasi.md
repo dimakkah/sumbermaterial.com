@@ -1,7 +1,7 @@
 ---
 title: "Harga Kanopi Per Meter Di Cibarusah Bekasi"
 date: "2022-08-21"
-lastmod: "2026-11-01"
+lastmod: "2026-11-08"
 categories: 
   - "kanopi"
 type: "service"

@@ -1,7 +1,7 @@
 ---
 title: "Harga Cor Ready Mix B0 Per m3 Di Kebon Manggis Jakarta"
 date: "2024-10-08"
-lastmod: "2026-11-01"
+lastmod: "2026-11-08"
 categories: 
   - "readymix"
 type: "product"

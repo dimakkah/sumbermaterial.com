@@ -1,7 +1,7 @@
 ---
 title: "Jual Batu Kali Gratis Ongkir Ke Mekarwangi Bogor"
 date: "2024-05-24"
-lastmod: "2026-11-01"
+lastmod: "2026-11-08"
 categories: 
   - "batu"
 type: "product"

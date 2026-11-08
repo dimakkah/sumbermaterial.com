@@ -1,7 +1,7 @@
 ---
 title: "Harga Pasang Atap Baja Ringan Di Batujaya Karawang"
 date: "2022-12-13"
-lastmod: "2026-11-01"
+lastmod: "2026-11-08"
 categories: 
   - "baja-ringan"
 type: "service"

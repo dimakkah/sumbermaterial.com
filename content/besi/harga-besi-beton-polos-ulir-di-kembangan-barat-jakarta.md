@@ -1,7 +1,7 @@
 ---
 title: "Harga Besi Beton Polos &amp; Ulir Di Kembangan Barat Jakarta"
 date: "2024-06-24"
-lastmod: "2026-11-01"
+lastmod: "2026-11-08"
 categories: 
   - "besi"
 type: "product"

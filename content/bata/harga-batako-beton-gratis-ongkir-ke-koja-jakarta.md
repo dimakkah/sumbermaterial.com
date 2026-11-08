@@ -1,7 +1,7 @@
 ---
 title: "Harga Batako Beton Gratis Ongkir Ke Koja Jakarta"
 date: "2024-08-07"
-lastmod: "2026-11-01"
+lastmod: "2026-11-08"
 categories: 
   - "bata"
 type: "product"

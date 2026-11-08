@@ -1,7 +1,7 @@
 ---
 title: "Harga Cor Ready Mix K250 Per m3 Di Cisalak Depok"
 date: "2024-06-21"
-lastmod: "2026-11-01"
+lastmod: "2026-11-08"
 categories: 
   - "readymix"
 type: "product"

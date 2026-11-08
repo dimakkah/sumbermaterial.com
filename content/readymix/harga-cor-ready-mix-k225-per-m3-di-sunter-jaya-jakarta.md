@@ -1,7 +1,7 @@
 ---
 title: "Harga Cor Ready Mix K225 Per m3 Di Sunter Jaya Jakarta"
 date: "2024-06-20"
-lastmod: "2026-11-01"
+lastmod: "2026-11-08"
 categories: 
   - "readymix"
 type: "product"

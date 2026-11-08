@@ -1,7 +1,7 @@
 ---
 title: "Harga Cor Ready Mix K250 Per m3 Di Bekasi Selatan"
 date: "2024-10-11"
-lastmod: "2026-11-01"
+lastmod: "2026-11-08"
 categories: 
   - "readymix"
 type: "product"

@@ -1,7 +1,7 @@
 ---
 title: "Jasa Pengaspalan Jalan Hotmix Di Bantar Gebang Bekasi"
 date: "2024-06-01"
-lastmod: "2026-11-01"
+lastmod: "2026-11-08"
 categories: 
   - "hotmix"
 description: "Jasa Pengaspalan Jalan Hotmix Di Bantar Gebang Bekasi. Kami ialah jasa yang berada dalam lingkup pembangunan jalan aspal juga lapangan aspal, parkiran, lanta..."

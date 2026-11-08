@@ -1,7 +1,7 @@
 ---
 title: "Harga Kanopi Per Meter Di Tegalwaru Purwakarta"
 date: "2022-06-30"
-lastmod: "2026-11-01"
+lastmod: "2026-11-08"
 categories: 
   - "kanopi"
 type: "service"

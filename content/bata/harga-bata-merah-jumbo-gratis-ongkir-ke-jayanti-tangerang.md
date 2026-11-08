@@ -1,7 +1,7 @@
 ---
 title: "Harga Bata Merah Jumbo Gratis Ongkir Ke Jayanti Tangerang"
 date: "2024-07-07"
-lastmod: "2026-11-01"
+lastmod: "2026-11-08"
 categories: 
   - "bata"
 type: "product"

@@ -1,7 +1,7 @@
 ---
 title: "Jual Batu Border Gratis Ongkir Ke Jatijajar Depok"
 date: "2024-10-05"
-lastmod: "2026-11-01"
+lastmod: "2026-11-08"
 categories: 
   - "batu"
 type: "product"

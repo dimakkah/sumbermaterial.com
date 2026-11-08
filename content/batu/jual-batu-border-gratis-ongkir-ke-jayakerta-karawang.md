@@ -1,7 +1,7 @@
 ---
 title: "Jual Batu Border Gratis Ongkir Ke Jayakerta Karawang"
 date: "2022-12-15"
-lastmod: "2026-11-01"
+lastmod: "2026-11-08"
 categories: 
   - "batu"
 type: "product"

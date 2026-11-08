@@ -1,7 +1,7 @@
 ---
 title: "Jasa Pengaspalan Jalan Hotmix Di Batujaya Karawang"
 date: "2024-08-15"
-lastmod: "2026-11-01"
+lastmod: "2026-11-08"
 categories: 
   - "hotmix"
 description: "Jasa Pengaspalan Jalan Hotmix Di Batujaya Karawang. Kami merupakan jasa yang bergerak dalam kategori pembangunan jalan aspal juga lapangan hotmix, parkiran,..."

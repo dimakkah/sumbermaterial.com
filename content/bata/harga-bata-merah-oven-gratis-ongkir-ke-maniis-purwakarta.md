@@ -1,7 +1,7 @@
 ---
 title: "Harga Bata Merah Oven Gratis Ongkir Ke Maniis Purwakarta"
 date: "2024-09-29"
-lastmod: "2026-11-01"
+lastmod: "2026-11-08"
 categories: 
   - "bata"
 type: "product"

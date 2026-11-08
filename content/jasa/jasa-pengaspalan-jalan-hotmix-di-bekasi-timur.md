@@ -1,7 +1,7 @@
 ---
 title: "Jasa Pengaspalan Jalan Hotmix Di Bekasi Timur"
 date: "2024-10-08"
-lastmod: "2026-11-01"
+lastmod: "2026-11-08"
 categories: 
   - "hotmix"
 description: "Jasa Pengaspalan Jalan Hotmix Di Bekasi Timur. Kami yaitu jasa yang bergerak dalam lingkup pembuatan jalan hotmix juga lapangan aspal, parkiran, lantai aspal..."

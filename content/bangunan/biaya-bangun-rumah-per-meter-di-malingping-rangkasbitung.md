@@ -1,7 +1,7 @@
 ---
 title: "Biaya Bangun Rumah Per Meter Di Malingping Rangkasbitung"
 date: "2024-04-23"
-lastmod: "2026-11-04"
+lastmod: "2026-11-08"
 categories: 
   - "bangunan"
 type: "service"

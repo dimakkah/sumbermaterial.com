@@ -1,7 +1,7 @@
 ---
 title: "Jual Batu Gunung Gratis Ongkir Ke Kutawaluya Karawang"
 date: "2024-09-21"
-lastmod: "2026-11-01"
+lastmod: "2026-11-08"
 categories: 
   - "batu"
 type: "product"

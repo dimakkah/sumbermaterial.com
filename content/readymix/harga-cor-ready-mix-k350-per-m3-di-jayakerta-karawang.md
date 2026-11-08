@@ -1,7 +1,7 @@
 ---
 title: "Harga Cor Ready Mix K350 Per m3 Di Jayakerta Karawang"
 date: "2024-09-12"
-lastmod: "2026-11-01"
+lastmod: "2026-11-08"
 categories: 
   - "readymix"
 type: "product"

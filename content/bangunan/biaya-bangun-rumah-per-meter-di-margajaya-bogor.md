@@ -1,7 +1,7 @@
 ---
 title: "Biaya Bangun Rumah Per Meter Di Margajaya Bogor"
 date: "2024-02-26"
-lastmod: "2026-11-07"
+lastmod: "2026-11-08"
 categories: 
   - "bangunan"
 type: "service"

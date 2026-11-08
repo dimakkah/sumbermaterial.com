@@ -1,7 +1,7 @@
 ---
 title: "Jual Batu Border Gratis Ongkir Ke Kebon Manggis Jakarta"
 date: "2024-05-06"
-lastmod: "2026-11-01"
+lastmod: "2026-11-08"
 categories: 
   - "batu"
 type: "product"

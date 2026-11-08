@@ -1,7 +1,7 @@
 ---
 title: "Harga Cor Ready Mix K400 Per m3 Di Menteng Bogor"
 date: "2024-08-02"
-lastmod: "2026-11-01"
+lastmod: "2026-11-08"
 categories: 
   - "readymix"
 type: "product"

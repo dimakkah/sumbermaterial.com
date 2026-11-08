@@ -1,7 +1,7 @@
 ---
 title: "Harga Kanopi Per Meter Di Pisangan Baru Jakarta"
 date: "2022-05-18"
-lastmod: "2026-11-01"
+lastmod: "2026-11-08"
 categories: 
   - "kanopi"
 type: "service"

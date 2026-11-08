@@ -1,7 +1,7 @@
 ---
 title: "Harga Batu Split 3/5 Free Ongkir Ke Klari Karawang"
 date: "2024-05-31"
-lastmod: "2026-11-01"
+lastmod: "2026-11-08"
 categories: 
   - "batu"
 type: "product"

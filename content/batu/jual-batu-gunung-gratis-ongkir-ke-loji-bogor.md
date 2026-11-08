@@ -1,7 +1,7 @@
 ---
 title: "Jual Batu Gunung Gratis Ongkir Ke Loji Bogor"
 date: "2024-09-01"
-lastmod: "2026-11-01"
+lastmod: "2026-11-08"
 categories: 
   - "batu"
 type: "product"

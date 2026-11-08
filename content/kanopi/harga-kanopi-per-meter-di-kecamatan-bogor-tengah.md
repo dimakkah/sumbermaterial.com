@@ -1,7 +1,7 @@
 ---
 title: "Harga Kanopi Per Meter Di Kecamatan Bogor Tengah"
 date: "2022-05-26"
-lastmod: "2026-11-01"
+lastmod: "2026-11-08"
 categories: 
   - "kanopi"
 type: "service"

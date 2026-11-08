@@ -1,7 +1,7 @@
 ---
 title: "Harga Urugan Makadam Free Ongkir Ke Kedung Waringin Bogor"
 date: "2024-07-01"
-lastmod: "2026-11-01"
+lastmod: "2026-11-08"
 categories: 
   - "info-urugan"
 type: "product"

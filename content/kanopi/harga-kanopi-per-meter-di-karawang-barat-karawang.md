@@ -1,7 +1,7 @@
 ---
 title: "Harga Kanopi Per Meter Di Karawang Barat Karawang"
 date: "2022-03-11"
-lastmod: "2026-11-01"
+lastmod: "2026-11-08"
 categories: 
   - "kanopi"
 type: "service"

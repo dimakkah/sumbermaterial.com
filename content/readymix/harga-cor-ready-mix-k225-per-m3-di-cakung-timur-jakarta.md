@@ -1,7 +1,7 @@
 ---
 title: "Harga Cor Ready Mix K225 Per m3 Di Cakung Timur Jakarta"
 date: "2024-06-08"
-lastmod: "2026-11-01"
+lastmod: "2026-11-08"
 categories: 
   - "readymix"
 type: "product"

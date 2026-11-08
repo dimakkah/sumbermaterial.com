@@ -1,7 +1,7 @@
 ---
 title: "Harga Batu Split 3/5 Free Ongkir Ke Curug Tangerang"
 date: "2024-04-16"
-lastmod: "2026-11-01"
+lastmod: "2026-11-08"
 categories: 
   - "batu"
 type: "product"

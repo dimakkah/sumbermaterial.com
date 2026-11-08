@@ -1,7 +1,7 @@
 ---
 title: "Harga Bata Merah Oven Gratis Ongkir Ke Rawamerta Karawang"
 date: "2024-08-19"
-lastmod: "2026-11-01"
+lastmod: "2026-11-08"
 categories: 
   - "bata"
 type: "product"

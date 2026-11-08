@@ -1,7 +1,7 @@
 ---
 title: "Harga Kanopi Per Meter Di Kotabaru Karawang"
 date: "2024-06-04"
-lastmod: "2026-11-01"
+lastmod: "2026-11-08"
 categories: 
   - "kanopi"
 type: "service"

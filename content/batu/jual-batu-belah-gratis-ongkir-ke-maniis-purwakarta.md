@@ -1,7 +1,7 @@
 ---
 title: "Jual Batu Belah Gratis Ongkir Ke Maniis Purwakarta"
 date: "2024-05-04"
-lastmod: "2026-11-01"
+lastmod: "2026-11-08"
 categories: 
   - "batu"
 type: "product"

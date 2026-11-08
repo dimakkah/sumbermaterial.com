@@ -1,7 +1,7 @@
 ---
 title: "Harga Urugan Sirtu Free Ongkir Ke Bojongmangu Bekasi"
 date: "2022-12-30"
-lastmod: "2026-11-01"
+lastmod: "2026-11-08"
 categories: 
   - "info-urugan"
 type: "product"

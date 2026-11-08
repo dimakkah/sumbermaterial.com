@@ -1,7 +1,7 @@
 ---
 title: "Biaya Bangun Rumah Per Meter Di Meruya Utara Jakarta"
 date: "2024-10-06"
-lastmod: "2026-11-07"
+lastmod: "2026-11-08"
 categories: 
   - "bangunan"
 type: "service"
