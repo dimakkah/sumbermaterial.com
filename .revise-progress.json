@@ -473,7 +473,9 @@
     "/bangunan/biaya-bangun-rumah-per-meter-di-manggarai-jakarta/",
     "/bangunan/biaya-bangun-rumah-per-meter-di-margajaya-bogor/",
     "/bangunan/biaya-bangun-rumah-per-meter-di-mekarsari-depok/",
-    "/bangunan/biaya-bangun-rumah-per-meter-di-meruya-utara-jakarta/"
+    "/bangunan/biaya-bangun-rumah-per-meter-di-meruya-utara-jakarta/",
+    "/bangunan/biaya-bangun-rumah-per-meter-di-manggarai-selatan-jakarta/",
+    "/bangunan/biaya-bangun-rumah-per-meter-di-mulyaharja-bogor/"
   ],
   "failed": {
     "/baja-ringan/harga-pasang-atap-baja-ringan-di-anyar-serang/": 2,
@@ -891,17 +893,19 @@
     "/bangunan/biaya-bangun-rumah-per-meter-di-malaka-sari-jakarta/": 2,
     "/bangunan/biaya-bangun-rumah-per-meter-di-mampang-prapatan-jakarta/": 2,
     "/bangunan/biaya-bangun-rumah-per-meter-di-manggarai-selatan-jakarta/": 1,
-    "/bangunan/biaya-bangun-rumah-per-meter-di-maphar-jakarta/": 1,
-    "/bangunan/biaya-bangun-rumah-per-meter-di-marunda-jakarta/": 1,
-    "/bangunan/biaya-bangun-rumah-per-meter-di-matraman-jakarta/": 1,
-    "/bangunan/biaya-bangun-rumah-per-meter-di-mauk-tangerang/": 1,
-    "/bangunan/biaya-bangun-rumah-per-meter-di-mekarjaya-depok/": 1,
-    "/bangunan/biaya-bangun-rumah-per-meter-di-mekarwangi-bogor/": 1,
-    "/bangunan/biaya-bangun-rumah-per-meter-di-melawai-jakarta/": 1,
-    "/bangunan/biaya-bangun-rumah-per-meter-di-menteng-atas-jakarta/": 1,
-    "/bangunan/biaya-bangun-rumah-per-meter-di-menteng-bogor/": 1,
-    "/bangunan/biaya-bangun-rumah-per-meter-di-menteng-dalam-jakarta/": 1,
-    "/bangunan/biaya-bangun-rumah-per-meter-di-menteng-jakarta/": 1,
-    "/bangunan/biaya-bangun-rumah-per-meter-di-meruya-selatan-jakarta/": 1
+    "/bangunan/biaya-bangun-rumah-per-meter-di-maphar-jakarta/": 2,
+    "/bangunan/biaya-bangun-rumah-per-meter-di-marunda-jakarta/": 2,
+    "/bangunan/biaya-bangun-rumah-per-meter-di-matraman-jakarta/": 2,
+    "/bangunan/biaya-bangun-rumah-per-meter-di-mauk-tangerang/": 2,
+    "/bangunan/biaya-bangun-rumah-per-meter-di-mekarjaya-depok/": 2,
+    "/bangunan/biaya-bangun-rumah-per-meter-di-mekarwangi-bogor/": 2,
+    "/bangunan/biaya-bangun-rumah-per-meter-di-melawai-jakarta/": 2,
+    "/bangunan/biaya-bangun-rumah-per-meter-di-menteng-atas-jakarta/": 2,
+    "/bangunan/biaya-bangun-rumah-per-meter-di-menteng-bogor/": 2,
+    "/bangunan/biaya-bangun-rumah-per-meter-di-menteng-dalam-jakarta/": 2,
+    "/bangunan/biaya-bangun-rumah-per-meter-di-menteng-jakarta/": 2,
+    "/bangunan/biaya-bangun-rumah-per-meter-di-meruya-selatan-jakarta/": 2,
+    "/bangunan/biaya-bangun-rumah-per-meter-di-meruyung-depok/": 1,
+    "/bangunan/biaya-bangun-rumah-per-meter-di-muarasari-bogor/": 1
   }
 }
