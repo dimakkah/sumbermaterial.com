@@ -2742,5 +2742,19 @@
     "matchedTitle": "Cara Memakai Batu Pecah 2/3 dengan Benar",
     "taggedAt": "2026-11-10T14:00:47.343Z",
     "algoVersion": 2
+  },
+  "kusen aluminium terdekat": {
+    "reason": "similar to existing article",
+    "matchedFile": "harga-kusen-aluminium-bogor.md",
+    "matchedTitle": "Harga Kusen Aluminium Bogor dan Cara Menghitung Kebutuhan Material",
+    "taggedAt": "2026-11-11T13:18:58.443Z",
+    "algoVersion": 2
+  },
+  "split 2 3": {
+    "reason": "similar to existing article",
+    "matchedFile": "split-12.md",
+    "matchedTitle": "Cara Memilih Split 1/2 yang Sesuai Kebutuhan",
+    "taggedAt": "2026-11-11T13:18:58.454Z",
+    "algoVersion": 2
   }
 }
