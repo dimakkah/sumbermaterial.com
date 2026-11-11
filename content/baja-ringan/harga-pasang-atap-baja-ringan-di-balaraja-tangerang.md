@@ -1,7 +1,7 @@
 ---
 title: "Harga Pasang Atap Baja Ringan Di Balaraja Tangerang"
 date: "2022-04-17"
-lastmod: "2026-11-08"
+lastmod: "2026-11-11"
 categories: 
   - "baja-ringan"
 type: "service"
@@ -70,7 +70,7 @@ Perhitungan luas datar adalah (overstack + panjang) x (lebar + overstack) sehing
 
 ### Mempertimbangkan Luas Miring
 
-Perhitungan luas miring adalah: Luas miring = Luas datar / Cosinus kemiringan atap. Perhitungannya 181.44 / 0.8666 menghasilkan 209.52 m². Jadi, luas kemiringan pada rangka atap baja ringan ini adalah 209.52 meter persegi.
+Perhitungan luas miring adalah: Luas miring = Luas datar / Cosinus kemiringan atap. Perhitungannya 181.44 / 0.8666 menghasilkan 209.52 m². Jadi, luas kemiringan pada rangka atap baja ringan ini adalah 209.52 meter persegi. Selain di sini, Kami juga melayani [atap baja ringan di Batuceper](/baja-ringan/harga-pasang-atap-baja-ringan-di-batuceper-tangerang/).
 
 Dengan demikian, Anda dapat memperkirakan jumlah dan volume baja ringan yang dibutuhkan. Namun, jika terasa sulit, jangan ragu untuk menghubungi kami.
 

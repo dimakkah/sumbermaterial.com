@@ -1,7 +1,7 @@
 ---
 title: "Harga Pasang Atap Baja Ringan Di Baktijaya Depok"
 date: "2022-06-28"
-lastmod: "2026-11-08"
+lastmod: "2026-11-11"
 categories: 
   - "baja-ringan"
 type: "service"
@@ -80,7 +80,7 @@ Perhitungan luas datar adalah ( *overstack* + Panjang ) x ( lebar + *overstack* 
 
 **Memastikan Luas Miring**
 
-Luas miring dihitung dengan rumus: Luas miring = Luas datar / Cosinus kemiringan atap. Perhitungannya: 181.44 / 0.8666 = 209.52 meter. Jadi, luas kemiringan rangka atap baja ringan adalah 209.52 meter.
+Luas miring dihitung dengan rumus: Luas miring = Luas datar / Cosinus kemiringan atap. Perhitungannya: 181.44 / 0.8666 = 209.52 meter. Jadi, luas kemiringan rangka atap baja ringan adalah 209.52 meter. Kebutuhan serupa di wilayah lain juga Kami layani, misalnya [atap baja ringan di Bedahan](/baja-ringan/harga-pasang-atap-baja-ringan-di-bedahan-depok/).
 
 Dengan perhitungan ini, Anda dapat memperkirakan jumlah dan volume baja ringan yang dibutuhkan. Namun, jika Anda merasa kesulitan, jangan ragu untuk menghubungi kami.
 

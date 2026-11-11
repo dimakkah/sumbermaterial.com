@@ -1,7 +1,7 @@
 ---
 title: "Harga Pasang Atap Baja Ringan Di Karangbahagia Bekasi"
 date: "2022-03-24"
-lastmod: "2026-11-08"
+lastmod: "2026-11-11"
 categories: 
   - "baja-ringan"
 type: "service"
@@ -58,7 +58,7 @@ Perhitungan luas datar yaitu ( overstack + Panjang ) x ( lebar + overstack ) kar
 
 ### Memastikan Luas miring
 
-Penentuan luas miring utk perhitungannya yaitu Luas miring = Luas datar / Cosinus dg kemiringan atap. Perhitungannya 181.44/0.8666 menciptakan 209.52 meter persegi. Jadi untuk luas kemiringan pada rangka atap baja ringan ini yakni 209.52 m2.
+Penentuan luas miring utk perhitungannya yaitu Luas miring = Luas datar / Cosinus dg kemiringan atap. Perhitungannya 181.44/0.8666 menciptakan 209.52 meter persegi. Jadi untuk luas kemiringan pada rangka atap baja ringan ini yakni 209.52 m2. Selain di sini, Kami juga melayani [atap baja ringan di Bekasi Utara](/baja-ringan/harga-pasang-atap-baja-ringan-di-bekasi-utara/).
 
 Dengan semacam itu anda bisa menentukan jumlah dan volume baja ringan utk pemesangan, namun kalau tampak sulit untuk dilaksanakan.
 
