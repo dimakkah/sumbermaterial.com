@@ -481,7 +481,10 @@
     "/bangunan/biaya-bangun-rumah-per-meter-di-pabuaran-serang/",
     "/bangunan/biaya-bangun-rumah-per-meter-di-pakuan-bogor/",
     "/bangunan/biaya-bangun-rumah-per-meter-di-pamarayan-serang/",
-    "/bangunan/biaya-bangun-rumah-per-meter-di-pamulang-tangerang/"
+    "/bangunan/biaya-bangun-rumah-per-meter-di-pamulang-tangerang/",
+    "/bangunan/biaya-bangun-rumah-per-meter-di-paledang-bogor/",
+    "/bangunan/biaya-bangun-rumah-per-meter-di-panaragan-bogor/",
+    "/bangunan/biaya-bangun-rumah-per-meter-di-parakan-salak-sukabumi/"
   ],
   "failed": {
     "/baja-ringan/harga-pasang-atap-baja-ringan-di-anyar-serang/": 2,
@@ -913,16 +916,20 @@
     "/bangunan/biaya-bangun-rumah-per-meter-di-meruya-selatan-jakarta/": 2,
     "/bangunan/biaya-bangun-rumah-per-meter-di-meruyung-depok/": 2,
     "/bangunan/biaya-bangun-rumah-per-meter-di-muarasari-bogor/": 1,
-    "/bangunan/biaya-bangun-rumah-per-meter-di-nagrak-sukabumi/": 1,
-    "/bangunan/biaya-bangun-rumah-per-meter-di-pabaton-bogor/": 1,
-    "/bangunan/biaya-bangun-rumah-per-meter-di-pabuaran-sukabumi/": 1,
-    "/bangunan/biaya-bangun-rumah-per-meter-di-padarincang-serang/": 1,
-    "/bangunan/biaya-bangun-rumah-per-meter-di-pademangan-jakarta/": 1,
-    "/bangunan/biaya-bangun-rumah-per-meter-di-pagedangan-tangerang/": 1,
-    "/bangunan/biaya-bangun-rumah-per-meter-di-pakisjaya-karawang/": 1,
+    "/bangunan/biaya-bangun-rumah-per-meter-di-nagrak-sukabumi/": 2,
+    "/bangunan/biaya-bangun-rumah-per-meter-di-pabaton-bogor/": 2,
+    "/bangunan/biaya-bangun-rumah-per-meter-di-pabuaran-sukabumi/": 2,
+    "/bangunan/biaya-bangun-rumah-per-meter-di-padarincang-serang/": 2,
+    "/bangunan/biaya-bangun-rumah-per-meter-di-pademangan-jakarta/": 2,
+    "/bangunan/biaya-bangun-rumah-per-meter-di-pagedangan-tangerang/": 2,
+    "/bangunan/biaya-bangun-rumah-per-meter-di-pakisjaya-karawang/": 2,
     "/bangunan/biaya-bangun-rumah-per-meter-di-paledang-bogor/": 1,
-    "/bangunan/biaya-bangun-rumah-per-meter-di-palmerah-jakarta/": 1,
-    "/bangunan/biaya-bangun-rumah-per-meter-di-palmeriam-jakarta/": 1,
-    "/bangunan/biaya-bangun-rumah-per-meter-di-pamoyanan-bogor/": 1
+    "/bangunan/biaya-bangun-rumah-per-meter-di-palmerah-jakarta/": 2,
+    "/bangunan/biaya-bangun-rumah-per-meter-di-palmeriam-jakarta/": 2,
+    "/bangunan/biaya-bangun-rumah-per-meter-di-pamoyanan-bogor/": 2,
+    "/bangunan/biaya-bangun-rumah-per-meter-di-pancoran-jakarta/": 1,
+    "/bangunan/biaya-bangun-rumah-per-meter-di-pangkalan-jati-depok/": 1,
+    "/bangunan/biaya-bangun-rumah-per-meter-di-panongan-tangerang/": 1,
+    "/bangunan/biaya-bangun-rumah-per-meter-di-papanggo-jakarta/": 1
   }
 }
