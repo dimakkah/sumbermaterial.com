@@ -492,7 +492,10 @@
     "/bangunan/biaya-bangun-rumah-per-meter-di-pejaten-barat-jakarta/",
     "/bangunan/biaya-bangun-rumah-per-meter-di-pasar-manggis-jakarta/",
     "/bangunan/biaya-bangun-rumah-per-meter-di-pasar-minggu-jakarta/",
-    "/bangunan/biaya-bangun-rumah-per-meter-di-pasawahan-purwakarta/"
+    "/bangunan/biaya-bangun-rumah-per-meter-di-pasawahan-purwakarta/",
+    "/bangunan/biaya-bangun-rumah-per-meter-di-pejagalan-jakarta/",
+    "/bangunan/biaya-bangun-rumah-per-meter-di-penggilingan-jakarta/",
+    "/bangunan/biaya-bangun-rumah-per-meter-di-petukangan-jakarta/"
   ],
   "failed": {
     "/baja-ringan/harga-pasang-atap-baja-ringan-di-anyar-serang/": 2,
@@ -945,9 +948,22 @@
     "/bangunan/biaya-bangun-rumah-per-meter-di-pasar-minggu-jakarta/": 1,
     "/bangunan/biaya-bangun-rumah-per-meter-di-pasar-rebo-jakarta/": 2,
     "/bangunan/biaya-bangun-rumah-per-meter-di-pasawahan-purwakarta/": 1,
-    "/bangunan/biaya-bangun-rumah-per-meter-di-pasir-jaya-bogor/": 1,
-    "/bangunan/biaya-bangun-rumah-per-meter-di-pegangsaan-dua-jakarta/": 1,
-    "/bangunan/biaya-bangun-rumah-per-meter-di-pegangsaan-jakarta/": 1,
-    "/bangunan/biaya-bangun-rumah-per-meter-di-pejagalan-jakarta/": 1
+    "/bangunan/biaya-bangun-rumah-per-meter-di-pasir-jaya-bogor/": 2,
+    "/bangunan/biaya-bangun-rumah-per-meter-di-pegangsaan-dua-jakarta/": 2,
+    "/bangunan/biaya-bangun-rumah-per-meter-di-pegangsaan-jakarta/": 2,
+    "/bangunan/biaya-bangun-rumah-per-meter-di-pejagalan-jakarta/": 1,
+    "/bangunan/biaya-bangun-rumah-per-meter-di-pejaten-timur-jakarta/": 1,
+    "/bangunan/biaya-bangun-rumah-per-meter-di-pekayon-jakarta/": 1,
+    "/bangunan/biaya-bangun-rumah-per-meter-di-pekojan-jakarta/": 1,
+    "/bangunan/biaya-bangun-rumah-per-meter-di-pela-mampang-jakarta/": 1,
+    "/bangunan/biaya-bangun-rumah-per-meter-di-pengadegan-jakarta/": 1,
+    "/bangunan/biaya-bangun-rumah-per-meter-di-penjaringan-jakarta/": 1,
+    "/bangunan/biaya-bangun-rumah-per-meter-di-periuk-tangerang/": 1,
+    "/bangunan/biaya-bangun-rumah-per-meter-di-pesanggrahan-jakarta/": 1,
+    "/bangunan/biaya-bangun-rumah-per-meter-di-petamburan-jakarta/": 1,
+    "/bangunan/biaya-bangun-rumah-per-meter-di-petir-serang/": 1,
+    "/bangunan/biaya-bangun-rumah-per-meter-di-petogogan-jakarta/": 1,
+    "/bangunan/biaya-bangun-rumah-per-meter-di-petojo-utara-jakarta/": 1,
+    "/bangunan/biaya-bangun-rumah-per-meter-di-petojoselatan-jakarta/": 1
   }
 }
