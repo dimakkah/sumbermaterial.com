@@ -2777,5 +2777,61 @@
     "matchedTitle": "Harga Kusen Aluminium Bogor dan Cara Menghitung Kebutuhan Material",
     "taggedAt": "2026-11-12T14:21:51.763Z",
     "algoVersion": 2
+  },
+  "jasa las besi": {
+    "reason": "similar to existing article",
+    "matchedFile": "las-besi-terdekat.md",
+    "matchedTitle": "Las Besi Terdekat dan Cara Mengatur Pengiriman Material",
+    "taggedAt": "2026-11-15T13:14:27.468Z",
+    "algoVersion": 2
+  },
+  "pasir bangka terdekat": {
+    "reason": "similar to existing article",
+    "matchedFile": "pasir-bangka-coklat.md",
+    "matchedTitle": "Sebelum Memakai Pasir Bangka Coklat, Pahami Dulu Hal Ini",
+    "taggedAt": "2026-11-15T13:14:27.470Z",
+    "algoVersion": 2
+  },
+  "beli tanah urugan terdekat": {
+    "reason": "similar to existing article",
+    "matchedFile": "tanah-urugan-terdekat.md",
+    "matchedTitle": "Tanah Urugan Terdekat untuk Pembeli Satuan dan Proyek",
+    "taggedAt": "2026-11-15T13:14:27.486Z",
+    "algoVersion": 2
+  },
+  "cara menghitung luas tanah dari meter ke bata": {
+    "reason": "similar to existing article",
+    "matchedFile": "cara-menghitung-tanah-dari-meter-ke-bata.md",
+    "matchedTitle": "Cara Menghitung Tanah dari Meter ke Bata? Begini Cara Memahaminya",
+    "taggedAt": "2026-11-15T13:14:27.491Z",
+    "algoVersion": 2
+  },
+  "harga hebel 1 do ukuran 7 cm": {
+    "reason": "similar to existing article",
+    "matchedFile": "harga-hebel-satuan-ukuran-7-cm.md",
+    "matchedTitle": "Tanyakan Ini sebelum Menyetujui Harga Hebel Satuan Ukuran 7 cm",
+    "taggedAt": "2026-11-15T13:14:27.531Z",
+    "algoVersion": 2
+  },
+  "harga k300 per kubik": {
+    "reason": "similar to existing article",
+    "matchedFile": "harga-cor-k300-per-kubik.md",
+    "matchedTitle": "Kenapa Harga Cor K300 per Kubik Bisa Berbeda di Tiap Penjual?",
+    "taggedAt": "2026-11-15T13:14:27.533Z",
+    "algoVersion": 2
+  },
+  "harga satuan batako putih": {
+    "reason": "similar to existing article",
+    "matchedFile": "harga-batako-putih.md",
+    "matchedTitle": "Mengapa Harga Batako Putih Perlu Dicek Ulang saat Memesan?",
+    "taggedAt": "2026-11-15T13:14:27.548Z",
+    "algoVersion": 2
+  },
+  "hebel 7cm harga": {
+    "reason": "similar to existing article",
+    "matchedFile": "harga-hebel-7-cm.md",
+    "matchedTitle": "Hal yang Memengaruhi Harga Hebel 7 cm di Lapangan",
+    "taggedAt": "2026-11-15T13:14:27.552Z",
+    "algoVersion": 2
   }
 }
