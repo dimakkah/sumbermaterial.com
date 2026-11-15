@@ -1,7 +1,7 @@
 ---
 title: "Harga Besi Beton Per Batang Kirim Ke Serdang Jakarta"
 date: "2024-05-03"
-lastmod: "2026-11-08"
+lastmod: "2026-11-15"
 categories: 
   - "besi"
 type: "product"

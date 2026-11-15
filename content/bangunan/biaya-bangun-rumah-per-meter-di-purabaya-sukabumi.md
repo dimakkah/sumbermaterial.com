@@ -1,7 +1,7 @@
 ---
 title: "Biaya Bangun Rumah Per Meter Di Purabaya Sukabumi"
 date: "2024-10-14"
-lastmod: "2026-11-08"
+lastmod: "2026-11-15"
 categories: 
   - "bangunan"
 type: "service"

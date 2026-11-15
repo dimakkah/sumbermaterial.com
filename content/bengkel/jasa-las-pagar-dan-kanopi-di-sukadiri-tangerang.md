@@ -1,7 +1,7 @@
 ---
 title: "Jasa Las Pagar Dan Kanopi Di Sukadiri Tangerang"
 date: "2022-12-10"
-lastmod: "2026-11-08"
+lastmod: "2026-11-15"
 categories: 
   - "bengkel"
 type: "service"

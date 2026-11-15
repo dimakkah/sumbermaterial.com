@@ -1,7 +1,7 @@
 ---
 title: "Biaya Bangun Rumah Per Meter Di Pejagalan Jakarta"
 date: "2024-08-20"
-lastmod: "2026-11-14"
+lastmod: "2026-11-15"
 categories: 
   - "bangunan"
 type: "service"

@@ -1,7 +1,7 @@
 ---
 title: "Harga Batako Hitam Press Gratis Ongkir Ke Kwitang Jakarta"
 date: "2024-09-20"
-lastmod: "2026-11-08"
+lastmod: "2026-11-15"
 categories: 
   - "bata"
 type: "product"

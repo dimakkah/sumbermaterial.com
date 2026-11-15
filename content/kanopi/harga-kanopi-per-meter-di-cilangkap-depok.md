@@ -1,7 +1,7 @@
 ---
 title: "Harga Kanopi Per Meter Di Cilangkap Depok"
 date: "2022-02-28"
-lastmod: "2026-11-08"
+lastmod: "2026-11-15"
 categories: 
   - "kanopi"
 type: "service"

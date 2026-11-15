@@ -1,7 +1,7 @@
 ---
 title: "Jasa Pembuatan Pagar Rumah Di Curug Serang"
 date: "2022-10-08"
-lastmod: "2026-11-08"
+lastmod: "2026-11-15"
 categories: 
   - "pagar"
 type: "service"

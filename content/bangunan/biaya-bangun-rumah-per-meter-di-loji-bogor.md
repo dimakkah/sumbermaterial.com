@@ -1,7 +1,7 @@
 ---
 title: "Biaya Bangun Rumah Per Meter Di Loji Bogor"
 date: "2024-02-26"
-lastmod: "2026-11-08"
+lastmod: "2026-11-15"
 categories: 
   - "bangunan"
 type: "service"

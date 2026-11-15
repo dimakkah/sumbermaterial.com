@@ -1,7 +1,7 @@
 ---
 title: "Harga Kusen Alumunium Per Meter Di Banyusari Karawang"
 date: "2024-02-09"
-lastmod: "2026-11-08"
+lastmod: "2026-11-15"
 categories: 
   - "kusen"
 type: "service"

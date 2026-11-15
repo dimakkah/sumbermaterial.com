@@ -1,7 +1,7 @@
 ---
 title: "Jasa Las Pagar Dan Kanopi Di Cibatu Purwakarta"
 date: "2024-08-21"
-lastmod: "2026-11-08"
+lastmod: "2026-11-15"
 categories: 
   - "bengkel"
 type: "service"

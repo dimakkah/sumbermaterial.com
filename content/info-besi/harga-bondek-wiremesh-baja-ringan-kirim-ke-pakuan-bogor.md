@@ -1,7 +1,7 @@
 ---
 title: "Harga Bondek Wiremesh Baja Ringan Kirim Ke Pakuan Bogor"
 date: "2024-08-20"
-lastmod: "2026-11-08"
+lastmod: "2026-11-15"
 categories: 
   - "info-besi"
 type: "product"

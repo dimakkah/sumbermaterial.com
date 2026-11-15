@@ -1,7 +1,7 @@
 ---
 title: "Jual Batu Bronjong Gratis Ongkir Ke Tambelang Bekasi"
 date: "2024-08-16"
-lastmod: "2026-11-08"
+lastmod: "2026-11-15"
 categories: 
   - "batu"
 type: "product"

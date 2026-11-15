@@ -1,7 +1,7 @@
 ---
 title: "Biaya Bangun Rumah Per Meter Di Cipinang Jakarta"
 date: "2024-08-31"
-lastmod: "2026-11-08"
+lastmod: "2026-11-15"
 categories: 
   - "bangunan"
 type: "service"

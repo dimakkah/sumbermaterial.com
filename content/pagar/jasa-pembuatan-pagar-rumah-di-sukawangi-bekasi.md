@@ -1,7 +1,7 @@
 ---
 title: "Jasa Pembuatan Pagar Rumah Di Sukawangi Bekasi"
 date: "2024-02-17"
-lastmod: "2026-11-08"
+lastmod: "2026-11-15"
 categories: 
   - "pagar"
 type: "service"

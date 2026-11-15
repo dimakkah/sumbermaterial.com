@@ -1,7 +1,7 @@
 ---
 title: "Harga Bata Merah Kecil Gratis Ongkir Ke Cisalak Depok"
 date: "2024-07-05"
-lastmod: "2026-11-08"
+lastmod: "2026-11-15"
 categories: 
   - "bata"
 type: "product"

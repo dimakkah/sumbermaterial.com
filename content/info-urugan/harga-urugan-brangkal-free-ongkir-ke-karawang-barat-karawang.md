@@ -1,7 +1,7 @@
 ---
 title: "Harga Urugan Brangkal Free Ongkir Ke Karawang Barat Karawang"
 date: "2024-07-06"
-lastmod: "2026-11-08"
+lastmod: "2026-11-15"
 categories: 
   - "info-urugan"
 type: "product"

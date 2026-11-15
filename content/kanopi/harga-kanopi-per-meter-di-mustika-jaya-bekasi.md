@@ -1,7 +1,7 @@
 ---
 title: "Harga Kanopi Per Meter Di Mustika Jaya Bekasi"
 date: "2022-12-07"
-lastmod: "2026-11-08"
+lastmod: "2026-11-15"
 categories: 
   - "kanopi"
 type: "service"

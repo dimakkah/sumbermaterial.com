@@ -1,7 +1,7 @@
 ---
 title: "Harga Urugan Basecose Free Ongkir Ke Kedaung Kaliangke Jakarta"
 date: "2022-12-21"
-lastmod: "2026-11-08"
+lastmod: "2026-11-15"
 categories: 
   - "info-urugan"
 type: "product"

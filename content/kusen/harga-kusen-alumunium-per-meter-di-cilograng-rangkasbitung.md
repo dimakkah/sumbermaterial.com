@@ -1,7 +1,7 @@
 ---
 title: "Harga Kusen Alumunium Per Meter Di Cilograng Rangkasbitung"
 date: "2024-04-07"
-lastmod: "2026-11-08"
+lastmod: "2026-11-15"
 categories: 
   - "kusen"
 type: "service"

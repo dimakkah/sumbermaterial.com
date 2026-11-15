@@ -1,7 +1,7 @@
 ---
 title: "Harga Batu Split 2/3 Free Ongkir Ke Bojongsari Baru Depok"
 date: "2022-12-07"
-lastmod: "2026-11-08"
+lastmod: "2026-11-15"
 categories: 
   - "batu"
 type: "product"

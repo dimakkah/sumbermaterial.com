@@ -1,7 +1,7 @@
 ---
 title: "Harga Besi H Beam Dan WF Kirim Ke Cinangka Serang"
 date: "2024-06-19"
-lastmod: "2026-11-08"
+lastmod: "2026-11-15"
 categories: 
   - "wf"
 type: "product"

@@ -1,7 +1,7 @@
 ---
 title: "Biaya Bangun Rumah Per Meter Di Kuningan Barat Jakarta"
 date: "2024-02-06"
-lastmod: "2026-11-08"
+lastmod: "2026-11-15"
 categories: 
   - "bangunan"
 type: "service"

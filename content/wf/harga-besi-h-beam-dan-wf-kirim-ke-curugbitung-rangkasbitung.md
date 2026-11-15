@@ -1,7 +1,7 @@
 ---
 title: "Harga Besi H Beam Dan WF Kirim Ke Curugbitung Rangkasbitung"
 date: "2024-07-03"
-lastmod: "2026-11-08"
+lastmod: "2026-11-15"
 categories: 
   - "wf"
 type: "product"

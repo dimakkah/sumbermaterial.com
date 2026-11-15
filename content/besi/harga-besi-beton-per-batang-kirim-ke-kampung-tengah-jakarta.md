@@ -1,7 +1,7 @@
 ---
 title: "Harga Besi Beton Per Batang Kirim Ke Kampung Tengah Jakarta"
 date: "2024-05-08"
-lastmod: "2026-11-08"
+lastmod: "2026-11-15"
 categories: 
   - "besi"
 type: "product"

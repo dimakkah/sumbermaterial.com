@@ -1,7 +1,7 @@
 ---
 title: "Harga Besi Beton Polos & Ulir Di Muaragembong Bekasi"
 date: "2024-05-16"
-lastmod: "2026-11-08"
+lastmod: "2026-11-15"
 categories: 
   - "besi"
 type: "product"

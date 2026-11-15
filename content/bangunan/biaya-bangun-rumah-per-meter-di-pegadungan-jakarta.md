@@ -1,7 +1,7 @@
 ---
 title: "Biaya Bangun Rumah Per Meter Di Pegadungan Jakarta"
 date: "2024-09-06"
-lastmod: "2026-11-12"
+lastmod: "2026-11-15"
 categories: 
   - "bangunan"
 type: "service"

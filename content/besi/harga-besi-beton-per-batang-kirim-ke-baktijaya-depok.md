@@ -1,7 +1,7 @@
 ---
 title: "Harga Besi Beton Per Batang Kirim Ke Baktijaya Depok"
 date: "2024-06-28"
-lastmod: "2026-11-08"
+lastmod: "2026-11-15"
 categories: 
   - "besi"
 type: "product"

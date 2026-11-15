@@ -1,7 +1,7 @@
 ---
 title: "Jasa Las Pagar Dan Kanopi Di Melawai Jakarta"
 date: "2024-09-19"
-lastmod: "2026-11-08"
+lastmod: "2026-11-15"
 categories: 
   - "bengkel"
 type: "service"

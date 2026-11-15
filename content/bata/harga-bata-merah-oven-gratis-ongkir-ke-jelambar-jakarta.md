@@ -1,7 +1,7 @@
 ---
 title: "Harga Bata Merah Oven Gratis Ongkir Ke Jelambar Jakarta"
 date: "2024-06-23"
-lastmod: "2026-11-08"
+lastmod: "2026-11-15"
 categories: 
   - "bata"
 type: "product"

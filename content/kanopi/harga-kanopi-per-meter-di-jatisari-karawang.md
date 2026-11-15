@@ -1,7 +1,7 @@
 ---
 title: "Harga Kanopi Per Meter Di Jatisari Karawang"
 date: "2022-11-07"
-lastmod: "2026-11-08"
+lastmod: "2026-11-15"
 categories: 
   - "kanopi"
 type: "service"

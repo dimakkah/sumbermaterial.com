@@ -1,7 +1,7 @@
 ---
 title: "Harga Besi Beton Polos & Ulir Di Kecamatan Bogor Tengah"
 date: "2024-02-19"
-lastmod: "2026-11-08"
+lastmod: "2026-11-15"
 categories: 
   - "besi"
 type: "product"

@@ -1,7 +1,7 @@
 ---
 title: "Jasa Pembuatan Pagar Rumah Di Mekarwangi Bogor"
 date: "2022-06-02"
-lastmod: "2026-11-08"
+lastmod: "2026-11-15"
 categories: 
   - "pagar"
 type: "service"

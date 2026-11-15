@@ -1,7 +1,7 @@
 ---
 title: "Harga Batu Split 1/2 Free Ongkir Ke Kedung Waringin Bogor"
 date: "2022-12-30"
-lastmod: "2026-11-08"
+lastmod: "2026-11-15"
 categories: 
   - "batu"
 type: "product"

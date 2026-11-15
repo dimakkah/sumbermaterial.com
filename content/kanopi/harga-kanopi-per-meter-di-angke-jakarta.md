@@ -1,7 +1,7 @@
 ---
 title: "Harga Kanopi Per Meter Di Angke Jakarta"
 date: "2022-09-18"
-lastmod: "2026-11-08"
+lastmod: "2026-11-15"
 categories: 
   - "kanopi"
 type: "service"

@@ -1,7 +1,7 @@
 ---
 title: "Harga Urugan Sirtu Free Ongkir Ke Sukasari Purwakarta"
 date: "2024-07-22"
-lastmod: "2026-11-08"
+lastmod: "2026-11-15"
 categories: 
   - "info-urugan"
 type: "product"

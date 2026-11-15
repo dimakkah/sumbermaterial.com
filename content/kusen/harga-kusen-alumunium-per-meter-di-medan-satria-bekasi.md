@@ -1,7 +1,7 @@
 ---
 title: "Harga Kusen Alumunium Per Meter Di Medan Satria Bekasi"
 date: "2024-05-04"
-lastmod: "2026-11-08"
+lastmod: "2026-11-15"
 categories: 
   - "kusen"
 type: "service"

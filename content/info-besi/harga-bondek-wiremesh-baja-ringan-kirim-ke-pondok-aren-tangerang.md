@@ -1,7 +1,7 @@
 ---
 title: "Harga Bondek Wiremesh Baja Ringan Kirim Ke Pondok Aren Tangerang"
 date: "2024-07-23"
-lastmod: "2026-11-08"
+lastmod: "2026-11-15"
 categories: 
   - "info-besi"
 type: "product"

@@ -1,7 +1,7 @@
 ---
 title: "Harga Kanopi Per Meter Di Jombang Cilegon"
 date: "2022-03-31"
-lastmod: "2026-11-08"
+lastmod: "2026-11-15"
 categories: 
   - "kanopi"
 type: "service"

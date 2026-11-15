@@ -1,7 +1,7 @@
 ---
 title: "Jual Batu Split 1/2 Free Ongkir Ke Ranggamekar Bogor"
 date: "2024-05-26"
-lastmod: "2026-11-08"
+lastmod: "2026-11-15"
 categories: 
   - "batu"
 type: "product"

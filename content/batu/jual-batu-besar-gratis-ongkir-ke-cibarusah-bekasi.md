@@ -1,7 +1,7 @@
 ---
 title: "Jual Batu Besar Gratis Ongkir Ke Cibarusah Bekasi"
 date: "2022-12-08"
-lastmod: "2026-11-08"
+lastmod: "2026-11-15"
 categories: 
   - "batu"
 type: "product"

@@ -1,7 +1,7 @@
 ---
 title: "Harga Besi H Beam Dan WF Kirim Ke Beji Depok"
 date: "2024-06-26"
-lastmod: "2026-11-08"
+lastmod: "2026-11-15"
 categories: 
   - "wf"
 type: "product"

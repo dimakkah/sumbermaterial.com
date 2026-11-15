@@ -1,7 +1,7 @@
 ---
 title: "Harga Beton Ready Mix Per m3 Kirim Ke Kapuk Muara Jakarta"
 date: "2024-08-12"
-lastmod: "2026-11-08"
+lastmod: "2026-11-15"
 categories: 
   - "readymix"
 type: "product"

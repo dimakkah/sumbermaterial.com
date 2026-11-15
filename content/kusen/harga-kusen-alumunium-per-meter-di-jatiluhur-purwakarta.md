@@ -1,7 +1,7 @@
 ---
 title: "Harga Kusen Alumunium Per Meter Di Jatiluhur Purwakarta"
 date: "2024-07-11"
-lastmod: "2026-11-08"
+lastmod: "2026-11-15"
 categories: 
   - "kusen"
 type: "service"

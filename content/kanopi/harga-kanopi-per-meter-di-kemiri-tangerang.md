@@ -1,7 +1,7 @@
 ---
 title: "Harga Kanopi Per Meter Di Kemiri Tangerang"
 date: "2022-08-09"
-lastmod: "2026-11-08"
+lastmod: "2026-11-15"
 categories: 
   - "kanopi"
 type: "service"
