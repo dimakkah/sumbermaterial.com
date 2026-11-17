@@ -2875,5 +2875,19 @@
     "matchedTitle": "Tempat Las Terdekat dan Cara Menjadwalkan Pengiriman",
     "taggedAt": "2026-11-16T14:23:48.588Z",
     "algoVersion": 2
+  },
+  "batu sungai besar": {
+    "reason": "similar to existing article",
+    "matchedFile": "harga-batu-besar.md",
+    "matchedTitle": "Harga Batu Besar untuk Kebutuhan Rumah dan Proyek Kecil",
+    "taggedAt": "2026-11-17T15:16:21.095Z",
+    "algoVersion": 2
+  },
+  "bengkel las pagar bogor": {
+    "reason": "similar to existing article",
+    "matchedFile": "bengkel-las-pagar-tangerang.md",
+    "matchedTitle": "Membaca Penawaran Bengkel Las Pagar Tangerang dengan Teliti",
+    "taggedAt": "2026-11-17T15:16:21.096Z",
+    "algoVersion": 2
   }
 }
