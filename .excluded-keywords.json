@@ -2889,5 +2889,33 @@
     "matchedTitle": "Membaca Penawaran Bengkel Las Pagar Tangerang dengan Teliti",
     "taggedAt": "2026-11-17T15:16:21.096Z",
     "algoVersion": 2
+  },
+  "batako kotak bolong": {
+    "reason": "similar to existing article",
+    "matchedFile": "harga-batako-bolong.md",
+    "matchedTitle": "Harga Batako Bolong dan Cara Mencocokkannya dengan Kebutuhan",
+    "taggedAt": "2026-11-18T14:52:29.759Z",
+    "algoVersion": 2
+  },
+  "buat pagar rumah terdekat": {
+    "reason": "similar to existing article",
+    "matchedFile": "buat-pagar-terdekat.md",
+    "matchedTitle": "Buat Pagar Terdekat untuk Renovasi dan Bangunan Baru",
+    "taggedAt": "2026-11-18T14:52:29.766Z",
+    "algoVersion": 2
+  },
+  "harga tanah 1 bata berapa meter": {
+    "reason": "similar to existing article",
+    "matchedFile": "1-bata-tanah-berapa-rupiah.md",
+    "matchedTitle": "1 Bata Tanah Berapa Rupiah? Ini Rangkuman Jawabannya",
+    "taggedAt": "2026-11-18T14:52:29.844Z",
+    "algoVersion": 2
+  },
+  "jasa pengiriman pasir besi": {
+    "reason": "similar to existing article",
+    "matchedFile": "jual-pasir-besi-terdekat.md",
+    "matchedTitle": "Daftar Periksa saat Memilih Jual Pasir Besi Terdekat",
+    "taggedAt": "2026-11-18T14:52:29.857Z",
+    "algoVersion": 2
   }
 }
