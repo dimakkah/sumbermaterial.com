@@ -2917,5 +2917,33 @@
     "matchedTitle": "Daftar Periksa saat Memilih Jual Pasir Besi Terdekat",
     "taggedAt": "2026-11-18T14:52:29.857Z",
     "algoVersion": 2
+  },
+  "berapa harga bata merah per kubik": {
+    "reason": "similar to existing article",
+    "matchedFile": "harga-bata-merah-per-kubik.md",
+    "matchedTitle": "Harga Bata Merah per Kubik dan Perhitungan Kebutuhan Proyek",
+    "taggedAt": "2026-11-19T14:58:42.106Z",
+    "algoVersion": 2
+  },
+  "harga besi untuk pondasi rumah": {
+    "reason": "similar to existing article",
+    "matchedFile": "harga-besi-pondasi-rumah.md",
+    "matchedTitle": "Harga Besi Pondasi Rumah untuk Rumah Tinggal dan Ruko",
+    "taggedAt": "2026-11-19T14:58:42.160Z",
+    "algoVersion": 2
+  },
+  "rangka atap baja ringan tangerang": {
+    "reason": "similar to existing article",
+    "matchedFile": "rangka-atap-baja-ringan-bekasi.md",
+    "matchedTitle": "Rangka Atap Baja Ringan Bekasi dan Hal yang Perlu Diketahui",
+    "taggedAt": "2026-11-19T14:58:42.210Z",
+    "algoVersion": 2
+  },
+  "ukuran batu makadam": {
+    "reason": "similar to existing article",
+    "matchedFile": "batu-makadam-57.md",
+    "matchedTitle": "Mengenal Batu Makadam 57 untuk Rumah dan Proyek Kecil",
+    "taggedAt": "2026-11-19T14:58:42.220Z",
+    "algoVersion": 2
   }
 }
