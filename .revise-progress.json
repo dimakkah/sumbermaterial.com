@@ -509,7 +509,9 @@
     "/bangunan/biaya-bangun-rumah-per-meter-di-pulo-gebang-jakarta/",
     "/bangunan/biaya-bangun-rumah-per-meter-di-rawa-bunga-jakarta/",
     "/bangunan/biaya-bangun-rumah-per-meter-di-roa-malaka-jakarta/",
-    "/bangunan/biaya-bangun-rumah-per-meter-di-sajira-rangkasbitung/"
+    "/bangunan/biaya-bangun-rumah-per-meter-di-sajira-rangkasbitung/",
+    "/bangunan/biaya-bangun-rumah-per-meter-di-rawasari-jakarta/",
+    "/bangunan/biaya-bangun-rumah-per-meter-di-sempur-bogor/"
   ],
   "failed": {
     "/baja-ringan/harga-pasang-atap-baja-ringan-di-anyar-serang/": 2,
@@ -1002,10 +1004,14 @@
     "/bangunan/biaya-bangun-rumah-per-meter-di-rawa-badak-jakarta/": 2,
     "/bangunan/biaya-bangun-rumah-per-meter-di-rawa-barat-jakarta/": 2,
     "/bangunan/biaya-bangun-rumah-per-meter-di-rawa-buaya-jakarta/": 2,
-    "/bangunan/biaya-bangun-rumah-per-meter-di-rawa-terate-jakarta/": 1,
-    "/bangunan/biaya-bangun-rumah-per-meter-di-rawajati-jakarta/": 1,
-    "/bangunan/biaya-bangun-rumah-per-meter-di-rawamangun-jakarta/": 1,
+    "/bangunan/biaya-bangun-rumah-per-meter-di-rawa-terate-jakarta/": 2,
+    "/bangunan/biaya-bangun-rumah-per-meter-di-rawajati-jakarta/": 2,
+    "/bangunan/biaya-bangun-rumah-per-meter-di-rawamangun-jakarta/": 2,
     "/bangunan/biaya-bangun-rumah-per-meter-di-rawasari-jakarta/": 1,
-    "/bangunan/biaya-bangun-rumah-per-meter-di-rorotan-jakarta/": 1
+    "/bangunan/biaya-bangun-rumah-per-meter-di-rorotan-jakarta/": 2,
+    "/bangunan/biaya-bangun-rumah-per-meter-di-selong-jakarta/": 1,
+    "/bangunan/biaya-bangun-rumah-per-meter-di-semanan-jakarta/": 1,
+    "/bangunan/biaya-bangun-rumah-per-meter-di-semper-jakarta/": 1,
+    "/bangunan/biaya-bangun-rumah-per-meter-di-semplak-bogor/": 1
   }
 }
