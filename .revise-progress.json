@@ -513,7 +513,9 @@
     "/bangunan/biaya-bangun-rumah-per-meter-di-rawasari-jakarta/",
     "/bangunan/biaya-bangun-rumah-per-meter-di-sempur-bogor/",
     "/bangunan/biaya-bangun-rumah-per-meter-di-selong-jakarta/",
-    "/bangunan/biaya-bangun-rumah-per-meter-di-serpong-tangerang/"
+    "/bangunan/biaya-bangun-rumah-per-meter-di-serpong-tangerang/",
+    "/bangunan/biaya-bangun-rumah-per-meter-di-serua-depok/",
+    "/bangunan/biaya-bangun-rumah-per-meter-di-setu-bekasi/"
   ],
   "failed": {
     "/baja-ringan/harga-pasang-atap-baja-ringan-di-anyar-serang/": 2,
@@ -1015,11 +1017,13 @@
     "/bangunan/biaya-bangun-rumah-per-meter-di-semanan-jakarta/": 2,
     "/bangunan/biaya-bangun-rumah-per-meter-di-semper-jakarta/": 2,
     "/bangunan/biaya-bangun-rumah-per-meter-di-semplak-bogor/": 2,
-    "/bangunan/biaya-bangun-rumah-per-meter-di-senayan-jakarta/": 1,
-    "/bangunan/biaya-bangun-rumah-per-meter-di-senen-jakarta/": 1,
-    "/bangunan/biaya-bangun-rumah-per-meter-di-sepatan-tangerang/": 1,
-    "/bangunan/biaya-bangun-rumah-per-meter-di-serang-baru-bekasi/": 1,
-    "/bangunan/biaya-bangun-rumah-per-meter-di-serdang-jakarta/": 1,
-    "/bangunan/biaya-bangun-rumah-per-meter-di-serengseng-jakarta/": 1
+    "/bangunan/biaya-bangun-rumah-per-meter-di-senayan-jakarta/": 2,
+    "/bangunan/biaya-bangun-rumah-per-meter-di-senen-jakarta/": 2,
+    "/bangunan/biaya-bangun-rumah-per-meter-di-sepatan-tangerang/": 2,
+    "/bangunan/biaya-bangun-rumah-per-meter-di-serang-baru-bekasi/": 2,
+    "/bangunan/biaya-bangun-rumah-per-meter-di-serdang-jakarta/": 2,
+    "/bangunan/biaya-bangun-rumah-per-meter-di-serengseng-jakarta/": 2,
+    "/bangunan/biaya-bangun-rumah-per-meter-di-serpong-utara-tangerang/": 1,
+    "/bangunan/biaya-bangun-rumah-per-meter-di-setiabudi-jakarta/": 1
   }
 }
