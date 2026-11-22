@@ -1,7 +1,7 @@
 ---
 title: "Harga Cor Ready Mix K350 Per m3 Di Babakan Cikao Purwakarta"
 date: "2024-09-19"
-lastmod: "2026-11-15"
+lastmod: "2026-11-22"
 categories: 
   - "readymix"
 type: "product"

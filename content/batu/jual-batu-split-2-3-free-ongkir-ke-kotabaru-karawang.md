@@ -1,7 +1,7 @@
 ---
 title: "Jual Batu Split 2/3 Free Ongkir Ke Kotabaru Karawang"
 date: "2024-09-21"
-lastmod: "2026-11-15"
+lastmod: "2026-11-22"
 categories: 
   - "batu"
 type: "product"

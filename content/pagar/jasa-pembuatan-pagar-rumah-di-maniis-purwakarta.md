@@ -1,7 +1,7 @@
 ---
 title: "Jasa Pembuatan Pagar Rumah Di Maniis Purwakarta"
 date: "2022-07-05"
-lastmod: "2026-11-15"
+lastmod: "2026-11-22"
 categories: 
   - "pagar"
 type: "service"

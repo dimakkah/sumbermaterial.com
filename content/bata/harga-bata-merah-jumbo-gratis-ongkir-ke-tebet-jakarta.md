@@ -1,7 +1,7 @@
 ---
 title: "Harga Bata Merah Jumbo Gratis Ongkir Ke Tebet Jakarta"
 date: "2024-08-30"
-lastmod: "2026-11-15"
+lastmod: "2026-11-22"
 categories: 
   - "bata"
 type: "product"

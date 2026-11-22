@@ -1,7 +1,7 @@
 ---
 title: "Harga Cor Ready Mix K400 Per m3 Di Kiara Pedes Purwakarta"
 date: "2024-08-16"
-lastmod: "2026-11-15"
+lastmod: "2026-11-22"
 categories: 
   - "readymix"
 type: "product"

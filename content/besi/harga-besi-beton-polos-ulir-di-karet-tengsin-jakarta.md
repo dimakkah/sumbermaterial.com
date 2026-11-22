@@ -1,7 +1,7 @@
 ---
 title: "Harga Besi Beton Polos & Ulir Di Karet Tengsin Jakarta"
 date: "2024-08-13"
-lastmod: "2026-11-15"
+lastmod: "2026-11-22"
 categories: 
   - "besi"
 type: "product"

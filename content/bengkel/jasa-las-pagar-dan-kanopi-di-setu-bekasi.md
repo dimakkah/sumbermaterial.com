@@ -1,7 +1,7 @@
 ---
 title: "Jasa Las Pagar Dan Kanopi Di Setu Bekasi"
 date: "2024-09-28"
-lastmod: "2026-11-15"
+lastmod: "2026-11-22"
 categories: 
   - "bengkel"
 type: "service"

@@ -1,7 +1,7 @@
 ---
 title: "Harga Urugan Sirtu Free Ongkir Ke Cikaret Bogor"
 date: "2024-08-04"
-lastmod: "2026-11-15"
+lastmod: "2026-11-22"
 categories: 
   - "info-urugan"
 type: "product"

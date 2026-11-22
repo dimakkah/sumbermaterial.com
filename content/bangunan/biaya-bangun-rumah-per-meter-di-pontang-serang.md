@@ -1,7 +1,7 @@
 ---
 title: "Biaya Bangun Rumah Per Meter Di Pontang Serang"
 date: "2024-02-10"
-lastmod: "2026-11-18"
+lastmod: "2026-11-22"
 categories: 
   - "bangunan"
 type: "service"

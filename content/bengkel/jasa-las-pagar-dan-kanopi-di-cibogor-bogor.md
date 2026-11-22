@@ -1,7 +1,7 @@
 ---
 title: "Jasa Las Pagar Dan Kanopi Di Cibogor Bogor"
 date: "2024-04-08"
-lastmod: "2026-11-15"
+lastmod: "2026-11-22"
 categories: 
   - "bengkel"
 type: "service"

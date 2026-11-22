@@ -1,7 +1,7 @@
 ---
 title: "Harga Kusen Alumunium Per Meter Di Tambelang Bekasi"
 date: "2024-09-13"
-lastmod: "2026-11-15"
+lastmod: "2026-11-22"
 categories: 
   - "kusen"
 type: "service"

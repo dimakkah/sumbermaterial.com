@@ -1,7 +1,7 @@
 ---
 title: "Harga Bondek Wiremesh Baja Ringan Kirim Ke Jatimulya Depok"
 date: "2024-09-25"
-lastmod: "2026-11-15"
+lastmod: "2026-11-22"
 categories: 
   - "info-besi"
 type: "product"

@@ -1,7 +1,7 @@
 ---
 title: "Harga Urugan Brangkal Free Ongkir Ke Marunda Jakarta"
 date: "2024-10-02"
-lastmod: "2026-11-15"
+lastmod: "2026-11-22"
 categories: 
   - "info-urugan"
 type: "product"

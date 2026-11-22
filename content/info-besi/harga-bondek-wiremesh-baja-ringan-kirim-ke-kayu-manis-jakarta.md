@@ -1,7 +1,7 @@
 ---
 title: "Harga Bondek Wiremesh Baja Ringan Kirim Ke Kayu Manis Jakarta"
 date: "2024-09-10"
-lastmod: "2026-11-15"
+lastmod: "2026-11-22"
 categories: 
   - "info-besi"
 type: "product"

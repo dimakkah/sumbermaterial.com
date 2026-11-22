@@ -1,7 +1,7 @@
 ---
 title: "Harga Kanopi Per Meter Di Cipete Selatan Jakarta"
 date: "2022-06-11"
-lastmod: "2026-11-15"
+lastmod: "2026-11-22"
 categories: 
   - "kanopi"
 type: "service"

@@ -1,7 +1,7 @@
 ---
 title: "Harga Bata Merah Oven Gratis Ongkir Ke Beji Depok"
 date: "2024-08-23"
-lastmod: "2026-11-15"
+lastmod: "2026-11-22"
 categories: 
   - "bata"
 type: "product"

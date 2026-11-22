@@ -1,7 +1,7 @@
 ---
 title: "Harga Besi Beton Per Batang Kirim Ke Kapuk Jakarta"
 date: "2024-05-09"
-lastmod: "2026-11-15"
+lastmod: "2026-11-22"
 categories: 
   - "besi"
 type: "product"

@@ -1,7 +1,7 @@
 ---
 title: "Harga Batako Truss Gratis Ongkir Ke Kronjo Tangerang"
 date: "2024-07-20"
-lastmod: "2026-11-15"
+lastmod: "2026-11-22"
 categories: 
   - "bata"
 type: "product"

@@ -1,7 +1,7 @@
 ---
 title: "Harga Cor Ready Mix K225 Per m3 Di Karawang Barat Karawang"
 date: "2024-07-01"
-lastmod: "2026-11-15"
+lastmod: "2026-11-22"
 categories: 
   - "readymix"
 type: "product"

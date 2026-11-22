@@ -1,7 +1,7 @@
 ---
 title: "Jasa Pengaspalan Jalan Hotmix Di Karawang Timur Karawang"
 date: "2024-10-05"
-lastmod: "2026-11-15"
+lastmod: "2026-11-22"
 categories: 
   - "hotmix"
 description: "Jasa Pengaspalan Jalan Hotmix Di Karawang Timur Karawang. Kami adalah jasa yang fokus dalam bidang pembangunan jalan hotmix juga lapangan aspal, parkiran, la..."

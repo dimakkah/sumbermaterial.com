@@ -1,7 +1,7 @@
 ---
 title: "Biaya Bangun Rumah Per Meter Di Malaka Jaya Jakarta"
 date: "2024-09-14"
-lastmod: "2026-11-15"
+lastmod: "2026-11-22"
 categories: 
   - "bangunan"
 type: "service"

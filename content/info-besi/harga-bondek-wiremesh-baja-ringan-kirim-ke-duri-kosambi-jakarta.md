@@ -1,7 +1,7 @@
 ---
 title: "Harga Bondek Wiremesh Baja Ringan Kirim Ke Duri Kosambi Jakarta"
 date: "2024-07-24"
-lastmod: "2026-11-15"
+lastmod: "2026-11-22"
 categories: 
   - "info-besi"
 type: "product"

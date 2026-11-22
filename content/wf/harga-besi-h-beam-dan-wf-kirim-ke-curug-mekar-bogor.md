@@ -1,7 +1,7 @@
 ---
 title: "Harga Besi H Beam Dan WF Kirim Ke Curug Mekar Bogor"
 date: "2024-09-19"
-lastmod: "2026-11-15"
+lastmod: "2026-11-22"
 categories: 
   - "wf"
 type: "product"

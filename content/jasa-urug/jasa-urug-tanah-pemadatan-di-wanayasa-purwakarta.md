@@ -1,7 +1,7 @@
 ---
 title: "Jasa Urug Tanah & Pemadatan Di Wanayasa Purwakarta"
 date: "2024-10-19"
-lastmod: "2026-11-15"
+lastmod: "2026-11-22"
 categories: 
   - "jasa-urug"
 type: "service"

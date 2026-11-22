@@ -1,7 +1,7 @@
 ---
 title: "Harga Batako Beton Gratis Ongkir Ke Pancoran Mas Depok"
 date: "2024-08-16"
-lastmod: "2026-11-15"
+lastmod: "2026-11-22"
 categories: 
   - "bata"
 type: "product"

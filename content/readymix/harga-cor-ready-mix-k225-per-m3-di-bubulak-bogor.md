@@ -1,7 +1,7 @@
 ---
 title: "Harga Cor Ready Mix K225 Per m3 Di Bubulak Bogor"
 date: "2024-10-12"
-lastmod: "2026-11-15"
+lastmod: "2026-11-22"
 categories: 
   - "readymix"
 type: "product"

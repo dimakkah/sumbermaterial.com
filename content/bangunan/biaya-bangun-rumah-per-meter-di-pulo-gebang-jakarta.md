@@ -1,7 +1,7 @@
 ---
 title: "Biaya Bangun Rumah Per Meter Di Pulo Gebang Jakarta"
 date: "2024-04-06"
-lastmod: "2026-11-18"
+lastmod: "2026-11-22"
 categories: 
   - "bangunan"
 type: "service"

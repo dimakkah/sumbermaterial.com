@@ -1,7 +1,7 @@
 ---
 title: "Jasa Las Pagar Dan Kanopi Di Ciambar Sukabumi"
 date: "2024-06-23"
-lastmod: "2026-11-15"
+lastmod: "2026-11-22"
 categories: 
   - "bengkel"
 type: "service"

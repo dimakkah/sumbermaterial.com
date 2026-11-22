@@ -1,7 +1,7 @@
 ---
 title: "Biaya Bangun Rumah Per Meter Di Kiara Pedes Purwakarta"
 date: "2024-04-26"
-lastmod: "2026-11-15"
+lastmod: "2026-11-22"
 categories: 
   - "bangunan"
 type: "service"

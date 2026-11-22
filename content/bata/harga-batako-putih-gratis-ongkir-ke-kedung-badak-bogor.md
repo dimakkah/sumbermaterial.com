@@ -1,7 +1,7 @@
 ---
 title: "Harga Batako Putih Gratis Ongkir Ke Kedung Badak Bogor"
 date: "2024-06-19"
-lastmod: "2026-11-15"
+lastmod: "2026-11-22"
 categories: 
   - "bata"
 type: "product"

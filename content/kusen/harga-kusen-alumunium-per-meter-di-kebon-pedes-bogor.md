@@ -1,7 +1,7 @@
 ---
 title: "Harga Kusen Alumunium Per Meter Di Kebon Pedes Bogor"
 date: "2024-08-03"
-lastmod: "2026-11-15"
+lastmod: "2026-11-22"
 categories: 
   - "kusen"
 type: "service"

@@ -1,7 +1,7 @@
 ---
 title: "Harga Batako Putih Gratis Ongkir Ke Tegal Gundil Bogor"
 date: "2024-07-11"
-lastmod: "2026-11-15"
+lastmod: "2026-11-22"
 categories: 
   - "bata"
 type: "product"

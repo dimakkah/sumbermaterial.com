@@ -1,7 +1,7 @@
 ---
 title: "Harga Batako Beton Gratis Ongkir Ke Kelapa Dua Wetan Jakarta"
 date: "2024-08-31"
-lastmod: "2026-11-15"
+lastmod: "2026-11-22"
 categories: 
   - "bata"
 type: "product"

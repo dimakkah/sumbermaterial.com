@@ -1,7 +1,7 @@
 ---
 title: "Harga Urugan Brangkal Free Ongkir Ke Jagakarsa Jakarta"
 date: "2024-06-26"
-lastmod: "2026-11-15"
+lastmod: "2026-11-22"
 categories: 
   - "info-urugan"
 type: "product"

@@ -1,7 +1,7 @@
 ---
 title: "Harga Kusen Alumunium Per Meter Di Karawang Barat Karawang"
 date: "2022-12-28"
-lastmod: "2026-11-15"
+lastmod: "2026-11-22"
 categories: 
   - "kusen"
 type: "service"

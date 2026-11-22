@@ -1,7 +1,7 @@
 ---
 title: "Harga Kusen Alumunium Per Meter Di Serpong Utara Tangerang"
 date: "2024-04-14"
-lastmod: "2026-11-15"
+lastmod: "2026-11-22"
 categories: 
   - "kusen"
 type: "service"

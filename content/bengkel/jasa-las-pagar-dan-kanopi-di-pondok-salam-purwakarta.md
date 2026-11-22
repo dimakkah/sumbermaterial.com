@@ -1,7 +1,7 @@
 ---
 title: "Jasa Las Pagar Dan Kanopi Di Pondok Salam Purwakarta"
 date: "2024-05-14"
-lastmod: "2026-11-15"
+lastmod: "2026-11-22"
 categories: 
   - "bengkel"
 type: "service"

@@ -1,7 +1,7 @@
 ---
 title: "Biaya Bangun Rumah Per Meter Di Warung Kiara Sukabumi"
 date: "2024-02-05"
-lastmod: "2026-11-15"
+lastmod: "2026-11-22"
 categories: 
   - "bangunan"
 type: "service"

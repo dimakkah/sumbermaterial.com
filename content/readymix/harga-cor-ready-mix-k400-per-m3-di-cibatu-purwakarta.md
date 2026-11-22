@@ -1,7 +1,7 @@
 ---
 title: "Harga Cor Ready Mix K400 Per m3 Di Cibatu Purwakarta"
 date: "2024-07-14"
-lastmod: "2026-11-15"
+lastmod: "2026-11-22"
 categories: 
   - "readymix"
 type: "product"

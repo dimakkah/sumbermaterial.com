@@ -1,7 +1,7 @@
 ---
 title: "Harga Batu Split 1/2 Free Ongkir Ke Curug Depok"
 date: "2024-05-22"
-lastmod: "2026-11-15"
+lastmod: "2026-11-22"
 categories: 
   - "batu"
 type: "product"

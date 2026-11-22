@@ -1,7 +1,7 @@
 ---
 title: "Biaya Bangun Rumah Per Meter Di Ragunan Jakarta"
 date: "2022-12-05"
-lastmod: "2026-11-18"
+lastmod: "2026-11-22"
 categories: 
   - "bangunan"
 type: "service"

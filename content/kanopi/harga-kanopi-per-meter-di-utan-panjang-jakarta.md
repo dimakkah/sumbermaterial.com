@@ -1,7 +1,7 @@
 ---
 title: "Harga Kanopi Per Meter Di Utan Panjang Jakarta"
 date: "2022-06-15"
-lastmod: "2026-11-15"
+lastmod: "2026-11-22"
 categories: 
   - "kanopi"
 type: "service"

@@ -1,7 +1,7 @@
 ---
 title: "Harga Batako 3 Lubang Gratis Ongkir Ke Kayu Manis Jakarta"
 date: "2024-06-29"
-lastmod: "2026-11-15"
+lastmod: "2026-11-22"
 categories: 
   - "bata"
 type: "product"

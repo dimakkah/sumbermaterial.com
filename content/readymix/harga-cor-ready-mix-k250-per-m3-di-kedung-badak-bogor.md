@@ -1,7 +1,7 @@
 ---
 title: "Harga Cor Ready Mix K250 Per m3 Di Kedung Badak Bogor"
 date: "2024-07-19"
-lastmod: "2026-11-15"
+lastmod: "2026-11-22"
 categories: 
   - "readymix"
 type: "product"

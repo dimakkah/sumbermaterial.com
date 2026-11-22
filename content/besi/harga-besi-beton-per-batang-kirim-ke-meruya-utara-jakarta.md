@@ -1,7 +1,7 @@
 ---
 title: "Harga Besi Beton Per Batang Kirim Ke Meruya Utara Jakarta"
 date: "2024-03-20"
-lastmod: "2026-11-15"
+lastmod: "2026-11-22"
 categories: 
   - "besi"
 type: "product"

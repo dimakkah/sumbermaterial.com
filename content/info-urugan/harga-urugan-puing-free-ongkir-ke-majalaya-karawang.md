@@ -1,7 +1,7 @@
 ---
 title: "Harga Urugan Puing Free Ongkir Ke Majalaya Karawang"
 date: "2024-09-02"
-lastmod: "2026-11-15"
+lastmod: "2026-11-22"
 categories: 
   - "info-urugan"
 type: "product"

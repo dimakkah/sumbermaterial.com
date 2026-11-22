@@ -1,7 +1,7 @@
 ---
 title: "Harga Batako Hitam Press Gratis Ongkir Ke Panaragan Bogor"
 date: "2024-08-09"
-lastmod: "2026-11-15"
+lastmod: "2026-11-22"
 categories: 
   - "bata"
 type: "product"

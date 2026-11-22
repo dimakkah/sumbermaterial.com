@@ -1,7 +1,7 @@
 ---
 title: "Harga Batako Beton Gratis Ongkir Ke Cakung Timur Jakarta"
 date: "2024-07-31"
-lastmod: "2026-11-15"
+lastmod: "2026-11-22"
 categories: 
   - "bata"
 type: "product"

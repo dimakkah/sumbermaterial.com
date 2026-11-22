@@ -1,7 +1,7 @@
 ---
 title: "Biaya Pengaspalan Jalan Per M Di Semanan Jakarta"
 date: "2024-05-24"
-lastmod: "2026-11-15"
+lastmod: "2026-11-22"
 categories: 
   - "jasa"
 type: "service"

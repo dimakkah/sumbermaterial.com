@@ -1,7 +1,7 @@
 ---
 title: "Harga Kanopi Per Meter Di Serua Depok"
 date: "2022-09-26"
-lastmod: "2026-11-15"
+lastmod: "2026-11-22"
 categories: 
   - "kanopi"
 type: "service"

@@ -1,7 +1,7 @@
 ---
 title: "Biaya Pengaspalan Jalan Per M Di Kedaung Kaliangke Jakarta"
 date: "2022-11-28"
-lastmod: "2026-11-15"
+lastmod: "2026-11-22"
 categories: 
   - "jasa"
 type: "service"

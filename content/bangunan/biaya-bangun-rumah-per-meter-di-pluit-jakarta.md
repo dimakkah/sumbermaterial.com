@@ -1,7 +1,7 @@
 ---
 title: "Biaya Bangun Rumah Per Meter Di Pluit Jakarta"
 date: "2024-09-27"
-lastmod: "2026-11-17"
+lastmod: "2026-11-22"
 categories: 
   - "bangunan"
 type: "service"

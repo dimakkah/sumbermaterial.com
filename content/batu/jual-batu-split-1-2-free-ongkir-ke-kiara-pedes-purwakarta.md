@@ -1,7 +1,7 @@
 ---
 title: "Jual Batu Split 1/2 Free Ongkir Ke Kiara Pedes Purwakarta"
 date: "2022-12-11"
-lastmod: "2026-11-15"
+lastmod: "2026-11-22"
 categories: 
   - "batu"
 type: "product"

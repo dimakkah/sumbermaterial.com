@@ -1,7 +1,7 @@
 ---
 title: "Jasa Urug Tanah & Pemadatan Di Maniis Purwakarta"
 date: "2024-09-05"
-lastmod: "2026-11-15"
+lastmod: "2026-11-22"
 categories: 
   - "jasa-urug"
 type: "service"

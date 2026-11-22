@@ -1,7 +1,7 @@
 ---
 title: "Harga Batako 2 Lubang Gratis Ongkir Ke Rawa Bunga Jakarta"
 date: "2024-06-02"
-lastmod: "2026-11-15"
+lastmod: "2026-11-22"
 categories: 
   - "bata"
 type: "product"

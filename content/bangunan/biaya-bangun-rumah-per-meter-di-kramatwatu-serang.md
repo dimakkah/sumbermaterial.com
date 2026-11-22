@@ -1,7 +1,7 @@
 ---
 title: "Biaya Bangun Rumah Per Meter Di Kramatwatu Serang"
 date: "2024-09-28"
-lastmod: "2026-11-15"
+lastmod: "2026-11-22"
 categories: 
   - "bangunan"
 type: "service"

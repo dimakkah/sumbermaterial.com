@@ -1,7 +1,7 @@
 ---
 title: "Harga Batu Split 3/5 Free Ongkir Ke Cibogor Bogor"
 date: "2024-04-22"
-lastmod: "2026-11-15"
+lastmod: "2026-11-22"
 categories: 
   - "batu"
 type: "product"

@@ -1,7 +1,7 @@
 ---
 title: "Harga Beton Ready Mix Per m3 Kirim Ke Klender Jakarta"
 date: "2024-06-23"
-lastmod: "2026-11-15"
+lastmod: "2026-11-22"
 categories: 
   - "readymix"
 type: "product"

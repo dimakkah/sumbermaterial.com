@@ -1,7 +1,7 @@
 ---
 title: "Jual Batu Split 2/3 Free Ongkir Ke Bandung"
 date: "2024-04-09"
-lastmod: "2026-11-15"
+lastmod: "2026-11-22"
 categories: 
   - "batu"
 type: "product"

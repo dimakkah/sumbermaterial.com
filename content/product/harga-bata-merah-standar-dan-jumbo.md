@@ -1,7 +1,7 @@
 ---
 title: "Harga Bata Merah Standar dan Jumbo"
 date: "2024-06-19"
-lastmod: "2026-11-15"
+lastmod: "2026-11-22"
 type: "product"
 description: "Harga Bata Merah Standar dan Jumbo. Untuk memesan bata merah ini Anda hanya perlu menghubungi kami saja melalui no telepon atau whatsapp yang tercantum dibagian atas website ini"
 ---

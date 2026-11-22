@@ -1,7 +1,7 @@
 ---
 title: "Harga Besi H Beam Dan WF Kirim Ke Kramat Jakarta"
 date: "2024-10-03"
-lastmod: "2026-11-15"
+lastmod: "2026-11-22"
 categories: 
   - "wf"
 type: "product"

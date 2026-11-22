@@ -1,7 +1,7 @@
 ---
 title: "Biaya Pengaspalan Jalan Per M Di Sukakarya Bekasi"
 date: "2024-05-12"
-lastmod: "2026-11-15"
+lastmod: "2026-11-22"
 categories: 
   - "jasa"
 type: "service"

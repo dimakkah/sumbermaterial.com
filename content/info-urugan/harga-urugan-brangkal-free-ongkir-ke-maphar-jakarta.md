@@ -1,7 +1,7 @@
 ---
 title: "Harga Urugan Brangkal Free Ongkir Ke Maphar Jakarta"
 date: "2022-12-22"
-lastmod: "2026-11-15"
+lastmod: "2026-11-22"
 categories: 
   - "info-urugan"
 type: "product"

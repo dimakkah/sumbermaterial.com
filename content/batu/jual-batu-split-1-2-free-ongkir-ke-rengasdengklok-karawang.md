@@ -1,7 +1,7 @@
 ---
 title: "Jual Batu Split 1/2 Free Ongkir Ke Rengasdengklok Karawang"
 date: "2024-04-05"
-lastmod: "2026-11-15"
+lastmod: "2026-11-22"
 categories: 
   - "batu"
 type: "product"

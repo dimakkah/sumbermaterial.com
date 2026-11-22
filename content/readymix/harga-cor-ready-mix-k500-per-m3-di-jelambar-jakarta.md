@@ -1,7 +1,7 @@
 ---
 title: "Harga Cor Ready Mix K500 Per m3 Di Jelambar Jakarta"
 date: "2024-08-15"
-lastmod: "2026-11-15"
+lastmod: "2026-11-22"
 categories: 
   - "readymix"
 type: "product"

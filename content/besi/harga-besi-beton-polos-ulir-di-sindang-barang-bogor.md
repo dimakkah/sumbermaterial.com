@@ -1,7 +1,7 @@
 ---
 title: "Harga Besi Beton Polos & Ulir Di Sindang Barang Bogor"
 date: "2024-05-11"
-lastmod: "2026-11-15"
+lastmod: "2026-11-22"
 categories: 
   - "besi"
 type: "product"

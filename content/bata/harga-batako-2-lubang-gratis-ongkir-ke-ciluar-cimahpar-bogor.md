@@ -1,7 +1,7 @@
 ---
 title: "Harga Batako 2 Lubang Gratis Ongkir Ke Ciluar Cimahpar Bogor"
 date: "2024-10-09"
-lastmod: "2026-11-15"
+lastmod: "2026-11-22"
 categories: 
   - "bata"
 type: "product"

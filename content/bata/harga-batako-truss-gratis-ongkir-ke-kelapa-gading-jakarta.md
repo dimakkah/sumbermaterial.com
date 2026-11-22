@@ -1,7 +1,7 @@
 ---
 title: "Harga Batako Truss Gratis Ongkir Ke Kelapa Gading Jakarta"
 date: "2024-08-15"
-lastmod: "2026-11-15"
+lastmod: "2026-11-22"
 categories: 
   - "bata"
 type: "product"

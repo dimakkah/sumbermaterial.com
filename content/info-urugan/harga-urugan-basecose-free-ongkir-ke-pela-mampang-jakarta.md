@@ -1,7 +1,7 @@
 ---
 title: "Harga Urugan Basecose Free Ongkir Ke Pela Mampang Jakarta"
 date: "2022-12-26"
-lastmod: "2026-11-15"
+lastmod: "2026-11-22"
 categories: 
   - "info-urugan"
 type: "product"

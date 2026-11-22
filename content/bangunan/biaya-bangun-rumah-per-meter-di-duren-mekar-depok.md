@@ -1,7 +1,7 @@
 ---
 title: "Biaya Bangun Rumah Per Meter Di Duren Mekar Depok"
 date: "2024-03-30"
-lastmod: "2026-11-15"
+lastmod: "2026-11-22"
 categories: 
   - "bangunan"
 type: "service"

@@ -1,7 +1,7 @@
 ---
 title: "Harga Urugan Brangkal Free Ongkir Ke Gandaria Utara Jakarta"
 date: "2024-06-28"
-lastmod: "2026-11-15"
+lastmod: "2026-11-22"
 categories: 
   - "info-urugan"
 type: "product"

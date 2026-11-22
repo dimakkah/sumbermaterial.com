@@ -1,7 +1,7 @@
 ---
 title: "Harga Bata Merah Jumbo Gratis Ongkir Ke Tanah Sareal Jakarta"
 date: "2024-09-29"
-lastmod: "2026-11-15"
+lastmod: "2026-11-22"
 categories: 
   - "bata"
 type: "product"

@@ -1,7 +1,7 @@
 ---
 title: "Harga Urugan Basecose Free Ongkir Ke Koja Jakarta"
 date: "2024-10-10"
-lastmod: "2026-11-15"
+lastmod: "2026-11-22"
 categories: 
   - "info-urugan"
 type: "product"

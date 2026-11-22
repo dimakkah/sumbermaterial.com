@@ -1,7 +1,7 @@
 ---
 title: "Harga Urugan Basecose Free Ongkir Ke Cilamaya Kulon Karawang"
 date: "2024-07-25"
-lastmod: "2026-11-15"
+lastmod: "2026-11-22"
 categories: 
   - "info-urugan"
 type: "product"

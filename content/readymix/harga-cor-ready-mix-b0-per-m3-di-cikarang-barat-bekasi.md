@@ -1,7 +1,7 @@
 ---
 title: "Harga Cor Ready Mix B0 Per m3 Di Cikarang Barat Bekasi"
 date: "2024-09-04"
-lastmod: "2026-11-15"
+lastmod: "2026-11-22"
 categories: 
   - "readymix"
 type: "product"

@@ -1,7 +1,7 @@
 ---
 title: "Jasa Pembuatan Pagar Rumah Di Bantar Gebang Bekasi"
 date: "2022-04-18"
-lastmod: "2026-11-15"
+lastmod: "2026-11-22"
 categories: 
   - "pagar"
 type: "service"

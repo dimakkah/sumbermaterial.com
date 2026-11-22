@@ -1,7 +1,7 @@
 ---
 title: "Harga Besi Beton Per Batang Kirim Ke Krendang Jakarta"
 date: "2024-09-26"
-lastmod: "2026-11-15"
+lastmod: "2026-11-22"
 categories: 
   - "besi"
 type: "product"
