@@ -515,7 +515,12 @@
     "/bangunan/biaya-bangun-rumah-per-meter-di-selong-jakarta/",
     "/bangunan/biaya-bangun-rumah-per-meter-di-serpong-tangerang/",
     "/bangunan/biaya-bangun-rumah-per-meter-di-serua-depok/",
-    "/bangunan/biaya-bangun-rumah-per-meter-di-setu-bekasi/"
+    "/bangunan/biaya-bangun-rumah-per-meter-di-setu-bekasi/",
+    "/bangunan/biaya-bangun-rumah-per-meter-di-setu-jakarta/",
+    "/bangunan/biaya-bangun-rumah-per-meter-di-slipi-jakarta/",
+    "/bangunan/biaya-bangun-rumah-per-meter-di-solear-tangerang/",
+    "/bangunan/biaya-bangun-rumah-per-meter-di-sukadamai-bogor/",
+    "/bangunan/biaya-bangun-rumah-per-meter-di-sukaraja-sukabumi/"
   ],
   "failed": {
     "/baja-ringan/harga-pasang-atap-baja-ringan-di-anyar-serang/": 2,
@@ -1023,7 +1028,20 @@
     "/bangunan/biaya-bangun-rumah-per-meter-di-serang-baru-bekasi/": 2,
     "/bangunan/biaya-bangun-rumah-per-meter-di-serdang-jakarta/": 2,
     "/bangunan/biaya-bangun-rumah-per-meter-di-serengseng-jakarta/": 2,
-    "/bangunan/biaya-bangun-rumah-per-meter-di-serpong-utara-tangerang/": 1,
-    "/bangunan/biaya-bangun-rumah-per-meter-di-setiabudi-jakarta/": 1
+    "/bangunan/biaya-bangun-rumah-per-meter-di-serpong-utara-tangerang/": 2,
+    "/bangunan/biaya-bangun-rumah-per-meter-di-setiabudi-jakarta/": 2,
+    "/bangunan/biaya-bangun-rumah-per-meter-di-setu-tangerang/": 1,
+    "/bangunan/biaya-bangun-rumah-per-meter-di-sindang-jaya-tangerang/": 1,
+    "/bangunan/biaya-bangun-rumah-per-meter-di-sindangrasa/": 1,
+    "/bangunan/biaya-bangun-rumah-per-meter-di-sindangsari/": 1,
+    "/bangunan/biaya-bangun-rumah-per-meter-di-sobang-rangkasbitung/": 1,
+    "/bangunan/biaya-bangun-rumah-per-meter-di-srengseng-sawah-jakarta/": 1,
+    "/bangunan/biaya-bangun-rumah-per-meter-di-sukabumi-sukabumi/": 1,
+    "/bangunan/biaya-bangun-rumah-per-meter-di-sukadiri-tangerang/": 1,
+    "/bangunan/biaya-bangun-rumah-per-meter-di-sukakarya-bekasi/": 1,
+    "/bangunan/biaya-bangun-rumah-per-meter-di-sukalarang-sukabumi/": 1,
+    "/bangunan/biaya-bangun-rumah-per-meter-di-sukamaju-depok/": 1,
+    "/bangunan/biaya-bangun-rumah-per-meter-di-sukamulya-tangerang/": 1,
+    "/bangunan/biaya-bangun-rumah-per-meter-di-sukapura-jakarta/": 1
   }
 }
