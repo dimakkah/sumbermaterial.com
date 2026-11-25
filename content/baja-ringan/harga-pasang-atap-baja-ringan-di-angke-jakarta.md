@@ -1,7 +1,7 @@
 ---
 title: "Harga Pasang Atap Baja Ringan Di Angke Jakarta"
 date: "2022-07-31"
-lastmod: "2026-11-22"
+lastmod: "2026-11-25"
 categories: 
   - "baja-ringan"
 type: "service"
@@ -66,7 +66,7 @@ Jika panjang rangka atap sekitar 15 meter dan lebar 10 meter, dengan overstack 0
 
 ### Menghitung Luas Datar
 
-Perhitungan luas datar: (overstack + Panjang) x (lebar + overstack) = (15 + 0.6 + 0.6) x (10 + 0.6 + 0.6) = 16.2 x 11.2 = 181.44 m². Proyek Mitra ada di daerah lain? Kami juga melayani [atap baja ringan di Bidara Cina](/baja-ringan/harga-pasang-atap-baja-ringan-di-bidara-cina-jakarta/).
+Perhitungan luas datar: (overstack + Panjang) x (lebar + overstack) = (15 + 0.6 + 0.6) x (10 + 0.6 + 0.6) = 16.2 x 11.2 = 181.44 m². Proyek Mitra ada di daerah lain? Kami juga melayani [atap baja ringan di Bidara Cina](/baja-ringan/harga-pasang-atap-baja-ringan-di-bidara-cina-jakarta/). Selain di sini, Kami juga melayani [atap baja ringan di Cakung Barat](/baja-ringan/harga-pasang-atap-baja-ringan-di-cakung-barat-jakarta/).
 
 ### Menghitung Luas Miring
 

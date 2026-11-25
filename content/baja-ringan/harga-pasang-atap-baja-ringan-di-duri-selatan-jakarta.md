@@ -1,7 +1,7 @@
 ---
 title: "Harga Pasang Atap Baja Ringan Di Duri Selatan Jakarta"
 date: "2022-07-31"
-lastmod: "2026-11-22"
+lastmod: "2026-11-25"
 categories: 
   - "baja-ringan"
 type: "service"
@@ -68,7 +68,7 @@ Perhitungan luas datar adalah (overstack + Panjang) x (lebar + overstack). Misal
 
 Luas miring dihitung dengan rumus: Luas miring = Luas datar / Cosinus kemiringan atap. Jika kemiringan atap 30 derajat (cosinus 30 = 0.8660), maka luas miringnya adalah 181.44 / 0.8660 = 209.52 m2.
 
-Dengan perhitungan ini, Anda dapat memperkirakan jumlah dan volume baja ringan yang dibutuhkan. Namun, jika Anda merasa kesulitan, jangan ragu untuk meminta bantuan tim kami.
+Dengan perhitungan ini, Anda dapat memperkirakan jumlah dan volume baja ringan yang dibutuhkan. Namun, jika Anda merasa kesulitan, jangan ragu untuk meminta bantuan tim kami. Untuk lokasi proyek di tempat lain, silakan lihat informasi [atap baja ringan di Bukit Duri](/baja-ringan/harga-pasang-atap-baja-ringan-di-bukit-duri-jakarta/).
 
 ## Alasan Memilih Kerangka Atap dan Kanopi Baja Ringan
 

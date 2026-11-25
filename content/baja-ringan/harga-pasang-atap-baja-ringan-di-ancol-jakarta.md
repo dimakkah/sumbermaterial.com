@@ -1,7 +1,7 @@
 ---
 title: "Harga Pasang Atap Baja Ringan Di Ancol Jakarta"
 date: "2024-03-18"
-lastmod: "2026-11-22"
+lastmod: "2026-11-25"
 categories: 
   - "baja-ringan"
 type: "service"
@@ -64,7 +64,7 @@ Anda bisa menghitung luas rangka baja ringan secara mandiri untuk mendapatkan ga
 - **Menghitung Luas Datar:** Luas datar = (overstack + panjang) x (lebar + overstack). Jadi (15 + 0.6 + 0.6) x (10 + 0.6 + 0.6) = 16.2 x 11.2 = 181.44 meter².
 - **Mempertimbangkan Luas Miring:** Luas miring = Luas datar / Cosinus kemiringan atap. Perhitungannya 181.44 / 0.8666 = 209.52 m². Jadi, luas kemiringan pada rangka atap baja ringan ini adalah 209.52 meter².
 
-Dengan perhitungan ini, Anda dapat memperkirakan jumlah dan volume baja ringan yang dibutuhkan. Namun, jika Anda merasa kesulitan, jangan ragu untuk meminta bantuan tim kami. Proyek Mitra ada di daerah lain? Kami juga melayani [atap baja ringan di Kuatan Hilir](/baja-ringan/harga-pasang-atap-baja-ringan-di-bendungan-hilir-jakarta/).
+Dengan perhitungan ini, Anda dapat memperkirakan jumlah dan volume baja ringan yang dibutuhkan. Namun, jika Anda merasa kesulitan, jangan ragu untuk meminta bantuan tim kami. Proyek Mitra ada di daerah lain? Kami juga melayani [atap baja ringan di Kuatan Hilir](/baja-ringan/harga-pasang-atap-baja-ringan-di-bendungan-hilir-jakarta/). Proyek Mitra ada di daerah lain? Kami juga melayani [atap baja ringan di Bungur](/baja-ringan/harga-pasang-atap-baja-ringan-di-bungur-jakarta/).
 
 ## Mengapa Anda Harus Memilih Kerangka Atap dan Canopy Baja Ringan?
 
