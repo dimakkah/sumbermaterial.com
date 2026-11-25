@@ -3043,5 +3043,61 @@
     "matchedTitle": "Las Karbit Terdekat dari Lokasi Saya? Cek Dulu Hal Ini",
     "taggedAt": "2026-11-24T16:46:24.736Z",
     "algoVersion": 2
+  },
+  "batu split 2-3": {
+    "reason": "similar to existing article",
+    "matchedFile": "batu-split-bandung.md",
+    "matchedTitle": "Apa yang Perlu Diketahui tentang Batu Split Bandung?",
+    "taggedAt": "2026-11-25T16:33:25.191Z",
+    "algoVersion": 2
+  },
+  "batu split terdekat": {
+    "reason": "similar to existing article",
+    "matchedFile": "batu-split-bandung.md",
+    "matchedTitle": "Apa yang Perlu Diketahui tentang Batu Split Bandung?",
+    "taggedAt": "2026-11-25T16:33:25.192Z",
+    "algoVersion": 2
+  },
+  "besi 10 banci harga": {
+    "reason": "similar to existing article",
+    "matchedFile": "harga-besi-10-banci-per-batang.md",
+    "matchedTitle": "Cara Menghindari Salah Hitung pada Harga Besi 10 Banci per Batang",
+    "taggedAt": "2026-11-25T16:33:25.200Z",
+    "algoVersion": 2
+  },
+  "harga besi 13 ulir per batang 2026": {
+    "reason": "similar to existing article",
+    "matchedFile": "harga-besi-8mm-per-batang-2026.md",
+    "matchedTitle": "Harga Besi 8mm per Batang dan Cara Mencocokkannya dengan Kebutuhan",
+    "taggedAt": "2026-11-25T16:33:25.242Z",
+    "algoVersion": 2
+  },
+  "harga besi 6 per batang 2026": {
+    "reason": "similar to existing article",
+    "matchedFile": "harga-besi-8mm-per-batang-2026.md",
+    "matchedTitle": "Harga Besi 8mm per Batang dan Cara Mencocokkannya dengan Kebutuhan",
+    "taggedAt": "2026-11-25T16:33:25.247Z",
+    "algoVersion": 2
+  },
+  "harga besi t": {
+    "reason": "similar to existing article",
+    "matchedFile": "tukang-besi-terdekat.md",
+    "matchedTitle": "Daftar Periksa sebelum Memakai Tukang Besi Terdekat",
+    "taggedAt": "2026-11-25T16:33:25.261Z",
+    "algoVersion": 2
+  },
+  "harga pasir urug per m3 2026": {
+    "reason": "similar to existing article",
+    "matchedFile": "harga-pasir-urug-per-m3.md",
+    "matchedTitle": "Cara Membaca Harga Pasir Urug per m3 agar Anggaran Tidak Meleset",
+    "taggedAt": "2026-11-25T16:33:25.285Z",
+    "algoVersion": 2
+  },
+  "hebel 7cm 1 kubik": {
+    "reason": "similar to existing article",
+    "matchedFile": "harga-hebel-7-cm-1-kubik-isi-berapa.md",
+    "matchedTitle": "Harga Hebel 7 cm 1 Kubik Isi Berapa? Berikut Rinciannya",
+    "taggedAt": "2026-11-25T16:33:25.290Z",
+    "algoVersion": 2
   }
 }
