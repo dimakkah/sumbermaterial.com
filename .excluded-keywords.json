@@ -3106,5 +3106,19 @@
     "matchedTitle": "Beli Pasir di Toko Bangunan Minimal Berapa? Jawaban untuk Pemula",
     "taggedAt": "2026-11-26T16:06:16.187Z",
     "algoVersion": 2
+  },
+  "simbol pasir urug": {
+    "reason": "similar to existing article",
+    "matchedFile": "harga-pasir-urug-per-m3.md",
+    "matchedTitle": "Cara Membaca Harga Pasir Urug per m3 agar Anggaran Tidak Meleset",
+    "taggedAt": "2026-11-27T15:54:38.268Z",
+    "algoVersion": 2
+  },
+  "toko besi dan aluminium terdekat": {
+    "reason": "similar to existing article",
+    "matchedFile": "toko-besi-terdekat.md",
+    "matchedTitle": "Toko Besi Terdekat untuk Renovasi dan Bangunan Baru",
+    "taggedAt": "2026-11-27T15:54:38.278Z",
+    "algoVersion": 2
   }
 }
