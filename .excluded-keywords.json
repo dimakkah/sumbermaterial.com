@@ -3120,5 +3120,26 @@
     "matchedTitle": "Toko Besi Terdekat untuk Renovasi dan Bangunan Baru",
     "taggedAt": "2026-11-27T15:54:38.278Z",
     "algoVersion": 2
+  },
+  "harga besi 10 banci": {
+    "reason": "similar to existing article",
+    "matchedFile": "harga-besi-10-banci-per-batang.md",
+    "matchedTitle": "Cara Menghindari Salah Hitung pada Harga Besi 10 Banci per Batang",
+    "taggedAt": "2026-11-28T14:49:04.859Z",
+    "algoVersion": 2
+  },
+  "spesifikasi batu belah": {
+    "reason": "similar to existing article",
+    "matchedFile": "batu-belah-per-m3.md",
+    "matchedTitle": "Memahami Batu Belah per m3 sebelum Memesan",
+    "taggedAt": "2026-11-28T14:49:04.897Z",
+    "algoVersion": 2
+  },
+  "toko aluminium terdekat": {
+    "reason": "similar to existing article",
+    "matchedFile": "toko-kusen-aluminium-terdekat.md",
+    "matchedTitle": "Mencari Toko Kusen Aluminium Terdekat? Ini Pertimbangannya",
+    "taggedAt": "2026-11-28T14:49:04.899Z",
+    "algoVersion": 2
   }
 }
